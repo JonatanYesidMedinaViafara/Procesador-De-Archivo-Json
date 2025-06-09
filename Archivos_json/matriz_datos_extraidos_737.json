@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "314050602400",
+            "SOLICITUD": "6490970",
+            "CEDULA": "1072403195",
+            "NOMBRES": "SANDRA SONIA MORENO CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "2.345.684",
+            "FIRMA ELLECTRONICA": "SANDRA SONIA MORENO CARRILLO - 1072403195"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "314050602400",
+            "NOMBRES": "SANDRA SONIA MORENO CARRILLO",
+            "CREDITO": "10.015.529",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.766",
+            "FIRMA ELLECTRONICA": "SANDRA SONIA MORENO CARRILLO - 1072403195",
+            "AL PIE DE LA FIRMA": "SANDRA SONIA MORENO CARRILLO - 1072403195"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1072403195",
+            "NOMBRES": "SANDRA SONIA MORENO CARRILLO",
+            "FECHA NACIMIENTO": "05/07/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.015.529",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SANDRA SONIA MORENO CARRILLO - 1072403195",
+            "AL PIE DE LA FIRMA": "SANDRA SONIA MORENO CARRILLO - 1072403195"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6490970",
+            "CEDULA": "1072403195",
+            "NOMBRES": "SANDRA SONIA MORENO CARRILLO",
+            "CREDITO": "10.015.529",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.766",
+            "E.A": "19.58%",
+            "RECOMPRA O DESEMBOLSO": "2.345.684",
+            "FIRMA ELLECTRONICA": "SANDRA SONIA MORENO CARRILLO - 1072403195"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1072403195",
+            "NOMBRES": "SANDRA SONIA MORENO CARRILLO",
+            "FIRMA ELLECTRONICA": "SANDRA SONIA MORENO CARRILLO - 1072403195"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1072403195",
+            "NOMBRES": "SANDRA SONIA MORENO CARRILLO",
+            "FIRMA ELLECTRONICA": "SANDRA SONIA MORENO CARRILLO - 1072403195",
+            "AL PIE DE LA FIRMA": "SANDRA SONIA MORENO CARRILLO - 1072403195"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA SONIA MORENO CARRILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1072403195",
+            "NOMBRES": "SANDRA SONIA MORENO CARRILLO",
+            "SALARIO": "4.201.690",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1072403195",
+            "NOMBRES": "SANDRA SONIA MORENO CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "2.345.684"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "451693539246",
+            "SOLICITUD": "8584443",
+            "CEDULA": "1582999810",
+            "NOMBRES": "CARLOS PÉREZ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.331.809",
+            "FIRMA ELLECTRONICA": "CARLOS PÉREZ GARCÍA - 1582999810"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "451693539246",
+            "NOMBRES": "CARLOS PÉREZ GARCÍA",
+            "CREDITO": "7.221.787",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "212.298",
+            "FIRMA ELLECTRONICA": "CARLOS PÉREZ GARCÍA - 1582999810",
+            "AL PIE DE LA FIRMA": "CARLOS PÉREZ GARCÍA - 1582999810"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1582999810",
+            "NOMBRES": "CARLOS PÉREZ GARCÍA",
+            "FECHA NACIMIENTO": "04/10/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.221.787",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARLOS PÉREZ GARCÍA - 1582999810",
+            "AL PIE DE LA FIRMA": "CARLOS PÉREZ GARCÍA - 1582999810"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8584443",
+            "CEDULA": "1582999810",
+            "NOMBRES": "CARLOS PÉREZ GARCÍA",
+            "CREDITO": "7.221.787",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "212.298",
+            "E.A": "27.99%",
+            "RECOMPRA O DESEMBOLSO": "1.331.809",
+            "FIRMA ELLECTRONICA": "CARLOS PÉREZ GARCÍA - 1582999810"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1582999810",
+            "NOMBRES": "CARLOS PÉREZ GARCÍA",
+            "FIRMA ELLECTRONICA": "CARLOS PÉREZ GARCÍA - 1582999810"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1582999810",
+            "NOMBRES": "CARLOS PÉREZ GARCÍA",
+            "FIRMA ELLECTRONICA": "CARLOS PÉREZ GARCÍA - 1582999810",
+            "AL PIE DE LA FIRMA": "CARLOS PÉREZ GARCÍA - 1582999810"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS PÉREZ GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1582999810",
+            "NOMBRES": "CARLOS PÉREZ GARCÍA",
+            "SALARIO": "2.512.061",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1582999810",
+            "NOMBRES": "CARLOS PÉREZ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.331.809"
+        }
+    }
+]

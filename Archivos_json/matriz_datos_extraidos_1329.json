@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "445462067450",
+            "SOLICITUD": "9951697",
+            "CEDULA": "1086476253",
+            "NOMBRES": "MÓNICA MERCADO",
+            "RECOMPRA O DESEMBOLSO": "4.941.443",
+            "FIRMA ELLECTRONICA": "MÓNICA MERCADO - 1086476253"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "445462067450",
+            "NOMBRES": "MÓNICA MERCADO",
+            "CREDITO": "10.274.190",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "329.224",
+            "FIRMA ELLECTRONICA": "MÓNICA MERCADO - 1086476253",
+            "AL PIE DE LA FIRMA": "MÓNICA MERCADO - 1086476253"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1086476253",
+            "NOMBRES": "MÓNICA MERCADO",
+            "FECHA NACIMIENTO": "11/07/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.274.190",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MÓNICA MERCADO - 1086476253",
+            "AL PIE DE LA FIRMA": "MÓNICA MERCADO - 1086476253"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9951697",
+            "CEDULA": "1086476253",
+            "NOMBRES": "MÓNICA MERCADO",
+            "CREDITO": "10.274.190",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "329.224",
+            "E.A": "23.57%",
+            "RECOMPRA O DESEMBOLSO": "4.941.443",
+            "FIRMA ELLECTRONICA": "MÓNICA MERCADO - 1086476253"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1086476253",
+            "NOMBRES": "MÓNICA MERCADO",
+            "FIRMA ELLECTRONICA": "MÓNICA MERCADO - 1086476253"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1086476253",
+            "NOMBRES": "MÓNICA MERCADO",
+            "FIRMA ELLECTRONICA": "MÓNICA MERCADO - 1086476253",
+            "AL PIE DE LA FIRMA": "MÓNICA MERCADO - 1086476253"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MÓNICA MERCADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1086476253",
+            "NOMBRES": "MÓNICA MERCADO",
+            "SALARIO": "2.090.071",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1086476253",
+            "NOMBRES": "MÓNICA MERCADO",
+            "RECOMPRA O DESEMBOLSO": "4.941.443"
+        }
+    }
+]

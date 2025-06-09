@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "529475194789",
+            "SOLICITUD": "7328228",
+            "CEDULA": "1044320176",
+            "NOMBRES": "JOSÉ DOMÍNGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.300.898",
+            "FIRMA ELLECTRONICA": "JOSÉ DOMÍNGUEZ - 1044320176"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "529475194789",
+            "NOMBRES": "JOSÉ DOMÍNGUEZ",
+            "CREDITO": "7.353.795",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "328.33",
+            "FIRMA ELLECTRONICA": "JOSÉ DOMÍNGUEZ - 1044320176",
+            "AL PIE DE LA FIRMA": "JOSÉ DOMÍNGUEZ - 1044320176"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1044320176",
+            "NOMBRES": "JOSÉ DOMÍNGUEZ",
+            "FECHA NACIMIENTO": "27/08/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.353.795",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ DOMÍNGUEZ - 1044320176",
+            "AL PIE DE LA FIRMA": "JOSÉ DOMÍNGUEZ - 1044320176"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7328228",
+            "CEDULA": "1044320176",
+            "NOMBRES": "JOSÉ DOMÍNGUEZ",
+            "CREDITO": "7.353.795",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "328.33",
+            "E.A": "19.63%",
+            "RECOMPRA O DESEMBOLSO": "3.300.898",
+            "FIRMA ELLECTRONICA": "JOSÉ DOMÍNGUEZ - 1044320176"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1044320176",
+            "NOMBRES": "JOSÉ DOMÍNGUEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ DOMÍNGUEZ - 1044320176"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1044320176",
+            "NOMBRES": "JOSÉ DOMÍNGUEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ DOMÍNGUEZ - 1044320176",
+            "AL PIE DE LA FIRMA": "JOSÉ DOMÍNGUEZ - 1044320176"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ DOMÍNGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1044320176",
+            "NOMBRES": "JOSÉ DOMÍNGUEZ",
+            "SALARIO": "2.700.781",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1044320176",
+            "NOMBRES": "JOSÉ DOMÍNGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.300.898"
+        }
+    }
+]

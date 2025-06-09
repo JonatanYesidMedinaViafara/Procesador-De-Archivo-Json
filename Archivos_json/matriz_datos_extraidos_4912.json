@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "437314831975",
+            "SOLICITUD": "2436923",
+            "CEDULA": "1202359052",
+            "NOMBRES": "SANDRA PRADA",
+            "RECOMPRA O DESEMBOLSO": "2.690.829",
+            "FIRMA ELLECTRONICA": "SANDRA PRADA - 1202359052"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "437314831975",
+            "NOMBRES": "SANDRA PRADA",
+            "CREDITO": "14.220.925",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "157.69",
+            "FIRMA ELLECTRONICA": "SANDRA PRADA - 1202359052",
+            "AL PIE DE LA FIRMA": "SANDRA PRADA - 1202359052"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1202359052",
+            "NOMBRES": "SANDRA PRADA",
+            "FECHA NACIMIENTO": "18/06/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.220.925",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SANDRA PRADA - 1202359052",
+            "AL PIE DE LA FIRMA": "SANDRA PRADA - 1202359052"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2436923",
+            "CEDULA": "1202359052",
+            "NOMBRES": "SANDRA PRADA",
+            "CREDITO": "14.220.925",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "157.69",
+            "E.A": "27.05%",
+            "RECOMPRA O DESEMBOLSO": "2.690.829",
+            "FIRMA ELLECTRONICA": "SANDRA PRADA - 1202359052"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1202359052",
+            "NOMBRES": "SANDRA PRADA",
+            "FIRMA ELLECTRONICA": "SANDRA PRADA - 1202359052"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1202359052",
+            "NOMBRES": "SANDRA PRADA",
+            "FIRMA ELLECTRONICA": "SANDRA PRADA - 1202359052",
+            "AL PIE DE LA FIRMA": "SANDRA PRADA - 1202359052"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA PRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1202359052",
+            "NOMBRES": "SANDRA PRADA",
+            "SALARIO": "4.036.216",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1202359052",
+            "NOMBRES": "SANDRA PRADA",
+            "RECOMPRA O DESEMBOLSO": "2.690.829"
+        }
+    }
+]

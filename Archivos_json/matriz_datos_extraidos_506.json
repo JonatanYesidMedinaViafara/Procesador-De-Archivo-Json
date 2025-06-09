@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "810985969058",
+            "SOLICITUD": "4178303",
+            "CEDULA": "1470837011",
+            "NOMBRES": "JAIME ENRIQUE GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.979.994",
+            "FIRMA ELLECTRONICA": "JAIME ENRIQUE GÓMEZ - 1470837011"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "810985969058",
+            "NOMBRES": "JAIME ENRIQUE GÓMEZ",
+            "CREDITO": "8.613.892",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "100.616",
+            "FIRMA ELLECTRONICA": "JAIME ENRIQUE GÓMEZ - 1470837011",
+            "AL PIE DE LA FIRMA": "JAIME ENRIQUE GÓMEZ - 1470837011"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1470837011",
+            "NOMBRES": "JAIME ENRIQUE GÓMEZ",
+            "FECHA NACIMIENTO": "06/07/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.613.892",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JAIME ENRIQUE GÓMEZ - 1470837011",
+            "AL PIE DE LA FIRMA": "JAIME ENRIQUE GÓMEZ - 1470837011"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4178303",
+            "CEDULA": "1470837011",
+            "NOMBRES": "JAIME ENRIQUE GÓMEZ",
+            "CREDITO": "8.613.892",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "100.616",
+            "E.A": "20.58%",
+            "RECOMPRA O DESEMBOLSO": "3.979.994",
+            "FIRMA ELLECTRONICA": "JAIME ENRIQUE GÓMEZ - 1470837011"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1470837011",
+            "NOMBRES": "JAIME ENRIQUE GÓMEZ",
+            "FIRMA ELLECTRONICA": "JAIME ENRIQUE GÓMEZ - 1470837011"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1470837011",
+            "NOMBRES": "JAIME ENRIQUE GÓMEZ",
+            "FIRMA ELLECTRONICA": "JAIME ENRIQUE GÓMEZ - 1470837011",
+            "AL PIE DE LA FIRMA": "JAIME ENRIQUE GÓMEZ - 1470837011"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIME ENRIQUE GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1470837011",
+            "NOMBRES": "JAIME ENRIQUE GÓMEZ",
+            "SALARIO": "3.256.338",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1470837011",
+            "NOMBRES": "JAIME ENRIQUE GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.979.994"
+        }
+    }
+]

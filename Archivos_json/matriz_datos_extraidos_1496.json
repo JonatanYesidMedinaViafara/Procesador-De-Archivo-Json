@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "910675679690",
+            "SOLICITUD": "1567673",
+            "CEDULA": "1460532770",
+            "NOMBRES": "ESNEIDER RAMÓN MARÍN DELGADO",
+            "RECOMPRA O DESEMBOLSO": "1.802.583",
+            "FIRMA ELLECTRONICA": "ESNEIDER RAMÓN MARÍN DELGADO - 1460532770"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "910675679690",
+            "NOMBRES": "ESNEIDER RAMÓN MARÍN DELGADO",
+            "CREDITO": "18.721.416",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "242.026",
+            "FIRMA ELLECTRONICA": "ESNEIDER RAMÓN MARÍN DELGADO - 1460532770",
+            "AL PIE DE LA FIRMA": "ESNEIDER RAMÓN MARÍN DELGADO - 1460532770"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1460532770",
+            "NOMBRES": "ESNEIDER RAMÓN MARÍN DELGADO",
+            "FECHA NACIMIENTO": "10/07/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.721.416",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ESNEIDER RAMÓN MARÍN DELGADO - 1460532770",
+            "AL PIE DE LA FIRMA": "ESNEIDER RAMÓN MARÍN DELGADO - 1460532770"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1567673",
+            "CEDULA": "1460532770",
+            "NOMBRES": "ESNEIDER RAMÓN MARÍN DELGADO",
+            "CREDITO": "18.721.416",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "242.026",
+            "E.A": "23.13%",
+            "RECOMPRA O DESEMBOLSO": "1.802.583",
+            "FIRMA ELLECTRONICA": "ESNEIDER RAMÓN MARÍN DELGADO - 1460532770"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1460532770",
+            "NOMBRES": "ESNEIDER RAMÓN MARÍN DELGADO",
+            "FIRMA ELLECTRONICA": "ESNEIDER RAMÓN MARÍN DELGADO - 1460532770"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1460532770",
+            "NOMBRES": "ESNEIDER RAMÓN MARÍN DELGADO",
+            "FIRMA ELLECTRONICA": "ESNEIDER RAMÓN MARÍN DELGADO - 1460532770",
+            "AL PIE DE LA FIRMA": "ESNEIDER RAMÓN MARÍN DELGADO - 1460532770"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESNEIDER RAMÓN MARÍN DELGADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1460532770",
+            "NOMBRES": "ESNEIDER RAMÓN MARÍN DELGADO",
+            "SALARIO": "1.865.262",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1460532770",
+            "NOMBRES": "ESNEIDER RAMÓN MARÍN DELGADO",
+            "RECOMPRA O DESEMBOLSO": "1.802.583"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "441756083157",
+            "SOLICITUD": "7617801",
+            "CEDULA": "1887541313",
+            "NOMBRES": "CARLOS BETANCUR PEÑA",
+            "RECOMPRA O DESEMBOLSO": "3.840.314",
+            "FIRMA ELLECTRONICA": "CARLOS BETANCUR PEÑA - 1887541313"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "441756083157",
+            "NOMBRES": "CARLOS BETANCUR PEÑA",
+            "CREDITO": "6.624.177",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "339.129",
+            "FIRMA ELLECTRONICA": "CARLOS BETANCUR PEÑA - 1887541313",
+            "AL PIE DE LA FIRMA": "CARLOS BETANCUR PEÑA - 1887541313"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1887541313",
+            "NOMBRES": "CARLOS BETANCUR PEÑA",
+            "FECHA NACIMIENTO": "08/03/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.624.177",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS BETANCUR PEÑA - 1887541313",
+            "AL PIE DE LA FIRMA": "CARLOS BETANCUR PEÑA - 1887541313"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7617801",
+            "CEDULA": "1887541313",
+            "NOMBRES": "CARLOS BETANCUR PEÑA",
+            "CREDITO": "6.624.177",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "339.129",
+            "E.A": "25.25%",
+            "RECOMPRA O DESEMBOLSO": "3.840.314",
+            "FIRMA ELLECTRONICA": "CARLOS BETANCUR PEÑA - 1887541313"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1887541313",
+            "NOMBRES": "CARLOS BETANCUR PEÑA",
+            "FIRMA ELLECTRONICA": "CARLOS BETANCUR PEÑA - 1887541313"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1887541313",
+            "NOMBRES": "CARLOS BETANCUR PEÑA",
+            "FIRMA ELLECTRONICA": "CARLOS BETANCUR PEÑA - 1887541313",
+            "AL PIE DE LA FIRMA": "CARLOS BETANCUR PEÑA - 1887541313"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS BETANCUR PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1887541313",
+            "NOMBRES": "CARLOS BETANCUR PEÑA",
+            "SALARIO": "2.393.280",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1887541313",
+            "NOMBRES": "CARLOS BETANCUR PEÑA",
+            "RECOMPRA O DESEMBOLSO": "3.840.314"
+        }
+    }
+]

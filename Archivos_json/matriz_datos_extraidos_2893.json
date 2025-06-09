@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "469316338933",
+            "SOLICITUD": "6090438",
+            "CEDULA": "1414125779",
+            "NOMBRES": "YESID CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "4.119.574",
+            "FIRMA ELLECTRONICA": "YESID CASTELLANOS - 1414125779"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "469316338933",
+            "NOMBRES": "YESID CASTELLANOS",
+            "CREDITO": "11.585.916",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "164.613",
+            "FIRMA ELLECTRONICA": "YESID CASTELLANOS - 1414125779",
+            "AL PIE DE LA FIRMA": "YESID CASTELLANOS - 1414125779"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1414125779",
+            "NOMBRES": "YESID CASTELLANOS",
+            "FECHA NACIMIENTO": "25/03/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.585.916",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "YESID CASTELLANOS - 1414125779",
+            "AL PIE DE LA FIRMA": "YESID CASTELLANOS - 1414125779"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6090438",
+            "CEDULA": "1414125779",
+            "NOMBRES": "YESID CASTELLANOS",
+            "CREDITO": "11.585.916",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "164.613",
+            "E.A": "27.22%",
+            "RECOMPRA O DESEMBOLSO": "4.119.574",
+            "FIRMA ELLECTRONICA": "YESID CASTELLANOS - 1414125779"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1414125779",
+            "NOMBRES": "YESID CASTELLANOS",
+            "FIRMA ELLECTRONICA": "YESID CASTELLANOS - 1414125779"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1414125779",
+            "NOMBRES": "YESID CASTELLANOS",
+            "FIRMA ELLECTRONICA": "YESID CASTELLANOS - 1414125779",
+            "AL PIE DE LA FIRMA": "YESID CASTELLANOS - 1414125779"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YESID CASTELLANOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1414125779",
+            "NOMBRES": "YESID CASTELLANOS",
+            "SALARIO": "4.088.546",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1414125779",
+            "NOMBRES": "YESID CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "4.119.574"
+        }
+    }
+]

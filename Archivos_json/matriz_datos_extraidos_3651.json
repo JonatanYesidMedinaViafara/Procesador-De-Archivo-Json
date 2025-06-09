@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "604529579517",
+            "SOLICITUD": "7807071",
+            "CEDULA": "1392214017",
+            "NOMBRES": "OLGA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.523.428",
+            "FIRMA ELLECTRONICA": "OLGA PÉREZ - 1392214017"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "604529579517",
+            "NOMBRES": "OLGA PÉREZ",
+            "CREDITO": "10.245.280",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "147.071",
+            "FIRMA ELLECTRONICA": "OLGA PÉREZ - 1392214017",
+            "AL PIE DE LA FIRMA": "OLGA PÉREZ - 1392214017"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1392214017",
+            "NOMBRES": "OLGA PÉREZ",
+            "FECHA NACIMIENTO": "10/01/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.245.280",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "OLGA PÉREZ - 1392214017",
+            "AL PIE DE LA FIRMA": "OLGA PÉREZ - 1392214017"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7807071",
+            "CEDULA": "1392214017",
+            "NOMBRES": "OLGA PÉREZ",
+            "CREDITO": "10.245.280",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "147.071",
+            "E.A": "28.87%",
+            "RECOMPRA O DESEMBOLSO": "3.523.428",
+            "FIRMA ELLECTRONICA": "OLGA PÉREZ - 1392214017"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1392214017",
+            "NOMBRES": "OLGA PÉREZ",
+            "FIRMA ELLECTRONICA": "OLGA PÉREZ - 1392214017"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1392214017",
+            "NOMBRES": "OLGA PÉREZ",
+            "FIRMA ELLECTRONICA": "OLGA PÉREZ - 1392214017",
+            "AL PIE DE LA FIRMA": "OLGA PÉREZ - 1392214017"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OLGA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1392214017",
+            "NOMBRES": "OLGA PÉREZ",
+            "SALARIO": "1.471.165",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1392214017",
+            "NOMBRES": "OLGA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.523.428"
+        }
+    }
+]

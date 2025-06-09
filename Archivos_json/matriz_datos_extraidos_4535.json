@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "985222547986",
+            "SOLICITUD": "9548136",
+            "CEDULA": "1175886209",
+            "NOMBRES": "MILENA SERNA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.861.378",
+            "FIRMA ELLECTRONICA": "MILENA SERNA TORRES - 1175886209"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "985222547986",
+            "NOMBRES": "MILENA SERNA TORRES",
+            "CREDITO": "12.313.555",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "201.502",
+            "FIRMA ELLECTRONICA": "MILENA SERNA TORRES - 1175886209",
+            "AL PIE DE LA FIRMA": "MILENA SERNA TORRES - 1175886209"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1175886209",
+            "NOMBRES": "MILENA SERNA TORRES",
+            "FECHA NACIMIENTO": "17/09/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.313.555",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MILENA SERNA TORRES - 1175886209",
+            "AL PIE DE LA FIRMA": "MILENA SERNA TORRES - 1175886209"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9548136",
+            "CEDULA": "1175886209",
+            "NOMBRES": "MILENA SERNA TORRES",
+            "CREDITO": "12.313.555",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "201.502",
+            "E.A": "24.57%",
+            "RECOMPRA O DESEMBOLSO": "4.861.378",
+            "FIRMA ELLECTRONICA": "MILENA SERNA TORRES - 1175886209"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1175886209",
+            "NOMBRES": "MILENA SERNA TORRES",
+            "FIRMA ELLECTRONICA": "MILENA SERNA TORRES - 1175886209"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1175886209",
+            "NOMBRES": "MILENA SERNA TORRES",
+            "FIRMA ELLECTRONICA": "MILENA SERNA TORRES - 1175886209",
+            "AL PIE DE LA FIRMA": "MILENA SERNA TORRES - 1175886209"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA SERNA TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1175886209",
+            "NOMBRES": "MILENA SERNA TORRES",
+            "SALARIO": "1.581.788",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1175886209",
+            "NOMBRES": "MILENA SERNA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.861.378"
+        }
+    }
+]

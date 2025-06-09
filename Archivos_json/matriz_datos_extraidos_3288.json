@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "324360577640",
+            "SOLICITUD": "5628971",
+            "CEDULA": "1218815323",
+            "NOMBRES": "MÓNICA TAMAYO FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.979.177",
+            "FIRMA ELLECTRONICA": "MÓNICA TAMAYO FLÓREZ - 1218815323"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "324360577640",
+            "NOMBRES": "MÓNICA TAMAYO FLÓREZ",
+            "CREDITO": "12.387.905",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "129.086",
+            "FIRMA ELLECTRONICA": "MÓNICA TAMAYO FLÓREZ - 1218815323",
+            "AL PIE DE LA FIRMA": "MÓNICA TAMAYO FLÓREZ - 1218815323"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1218815323",
+            "NOMBRES": "MÓNICA TAMAYO FLÓREZ",
+            "FECHA NACIMIENTO": "22/08/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.387.905",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MÓNICA TAMAYO FLÓREZ - 1218815323",
+            "AL PIE DE LA FIRMA": "MÓNICA TAMAYO FLÓREZ - 1218815323"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5628971",
+            "CEDULA": "1218815323",
+            "NOMBRES": "MÓNICA TAMAYO FLÓREZ",
+            "CREDITO": "12.387.905",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "129.086",
+            "E.A": "22.54%",
+            "RECOMPRA O DESEMBOLSO": "1.979.177",
+            "FIRMA ELLECTRONICA": "MÓNICA TAMAYO FLÓREZ - 1218815323"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1218815323",
+            "NOMBRES": "MÓNICA TAMAYO FLÓREZ",
+            "FIRMA ELLECTRONICA": "MÓNICA TAMAYO FLÓREZ - 1218815323"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1218815323",
+            "NOMBRES": "MÓNICA TAMAYO FLÓREZ",
+            "FIRMA ELLECTRONICA": "MÓNICA TAMAYO FLÓREZ - 1218815323",
+            "AL PIE DE LA FIRMA": "MÓNICA TAMAYO FLÓREZ - 1218815323"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MÓNICA TAMAYO FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1218815323",
+            "NOMBRES": "MÓNICA TAMAYO FLÓREZ",
+            "SALARIO": "4.751.808",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1218815323",
+            "NOMBRES": "MÓNICA TAMAYO FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.979.177"
+        }
+    }
+]

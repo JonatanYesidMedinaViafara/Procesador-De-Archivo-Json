@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "452627710653",
+            "SOLICITUD": "9700232",
+            "CEDULA": "1521252348",
+            "NOMBRES": "ANDRÉS ALEXIS GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "4.221.571",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALEXIS GUZMÁN - 1521252348"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "452627710653",
+            "NOMBRES": "ANDRÉS ALEXIS GUZMÁN",
+            "CREDITO": "16.135.255",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "389.187",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALEXIS GUZMÁN - 1521252348",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALEXIS GUZMÁN - 1521252348"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1521252348",
+            "NOMBRES": "ANDRÉS ALEXIS GUZMÁN",
+            "FECHA NACIMIENTO": "03/02/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.135.255",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALEXIS GUZMÁN - 1521252348",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALEXIS GUZMÁN - 1521252348"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9700232",
+            "CEDULA": "1521252348",
+            "NOMBRES": "ANDRÉS ALEXIS GUZMÁN",
+            "CREDITO": "16.135.255",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "389.187",
+            "E.A": "24.73%",
+            "RECOMPRA O DESEMBOLSO": "4.221.571",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALEXIS GUZMÁN - 1521252348"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1521252348",
+            "NOMBRES": "ANDRÉS ALEXIS GUZMÁN",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALEXIS GUZMÁN - 1521252348"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1521252348",
+            "NOMBRES": "ANDRÉS ALEXIS GUZMÁN",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALEXIS GUZMÁN - 1521252348",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALEXIS GUZMÁN - 1521252348"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ALEXIS GUZMÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1521252348",
+            "NOMBRES": "ANDRÉS ALEXIS GUZMÁN",
+            "SALARIO": "1.647.128",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1521252348",
+            "NOMBRES": "ANDRÉS ALEXIS GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "4.221.571"
+        }
+    }
+]

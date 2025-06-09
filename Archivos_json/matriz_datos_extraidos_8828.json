@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "284498310582",
+            "SOLICITUD": "7592076",
+            "CEDULA": "1738617472",
+            "NOMBRES": "CECILIA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.690.673",
+            "FIRMA ELLECTRONICA": "CECILIA RODRÍGUEZ - 1738617472"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "284498310582",
+            "NOMBRES": "CECILIA RODRÍGUEZ",
+            "CREDITO": "10.691.550",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.257",
+            "FIRMA ELLECTRONICA": "CECILIA RODRÍGUEZ - 1738617472",
+            "AL PIE DE LA FIRMA": "CECILIA RODRÍGUEZ - 1738617472"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1738617472",
+            "NOMBRES": "CECILIA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "04/06/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.691.550",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CECILIA RODRÍGUEZ - 1738617472",
+            "AL PIE DE LA FIRMA": "CECILIA RODRÍGUEZ - 1738617472"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7592076",
+            "CEDULA": "1738617472",
+            "NOMBRES": "CECILIA RODRÍGUEZ",
+            "CREDITO": "10.691.550",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.257",
+            "E.A": "25.87%",
+            "RECOMPRA O DESEMBOLSO": "2.690.673",
+            "FIRMA ELLECTRONICA": "CECILIA RODRÍGUEZ - 1738617472"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1738617472",
+            "NOMBRES": "CECILIA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "CECILIA RODRÍGUEZ - 1738617472"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1738617472",
+            "NOMBRES": "CECILIA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "CECILIA RODRÍGUEZ - 1738617472",
+            "AL PIE DE LA FIRMA": "CECILIA RODRÍGUEZ - 1738617472"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1738617472",
+            "NOMBRES": "CECILIA RODRÍGUEZ",
+            "SALARIO": "1.105.930",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1738617472",
+            "NOMBRES": "CECILIA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.690.673"
+        }
+    }
+]

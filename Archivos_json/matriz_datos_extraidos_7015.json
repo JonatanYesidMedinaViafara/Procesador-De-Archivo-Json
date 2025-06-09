@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "403684489215",
+            "SOLICITUD": "3874541",
+            "CEDULA": "1528120397",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.871.601",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1528120397"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "403684489215",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "CREDITO": "17.672.092",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "129.249",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1528120397",
+            "AL PIE DE LA FIRMA": "JOSÉ MARTÍNEZ - 1528120397"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1528120397",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "FECHA NACIMIENTO": "20/08/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.672.092",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1528120397",
+            "AL PIE DE LA FIRMA": "JOSÉ MARTÍNEZ - 1528120397"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3874541",
+            "CEDULA": "1528120397",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "CREDITO": "17.672.092",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "129.249",
+            "E.A": "18.16%",
+            "RECOMPRA O DESEMBOLSO": "4.871.601",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1528120397"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1528120397",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1528120397"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1528120397",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1528120397",
+            "AL PIE DE LA FIRMA": "JOSÉ MARTÍNEZ - 1528120397"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1528120397",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "SALARIO": "1.781.748",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1528120397",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.871.601"
+        }
+    }
+]

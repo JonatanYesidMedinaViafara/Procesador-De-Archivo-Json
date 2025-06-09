@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "485001355328",
+            "SOLICITUD": "4142272",
+            "CEDULA": "1561724518",
+            "NOMBRES": "SANDRA SANDOVAL ROMERO",
+            "RECOMPRA O DESEMBOLSO": "4.298.846",
+            "FIRMA ELLECTRONICA": "SANDRA SANDOVAL ROMERO - 1561724518"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "485001355328",
+            "NOMBRES": "SANDRA SANDOVAL ROMERO",
+            "CREDITO": "11.259.019",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "308.86",
+            "FIRMA ELLECTRONICA": "SANDRA SANDOVAL ROMERO - 1561724518",
+            "AL PIE DE LA FIRMA": "SANDRA SANDOVAL ROMERO - 1561724518"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1561724518",
+            "NOMBRES": "SANDRA SANDOVAL ROMERO",
+            "FECHA NACIMIENTO": "19/08/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.259.019",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SANDRA SANDOVAL ROMERO - 1561724518",
+            "AL PIE DE LA FIRMA": "SANDRA SANDOVAL ROMERO - 1561724518"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4142272",
+            "CEDULA": "1561724518",
+            "NOMBRES": "SANDRA SANDOVAL ROMERO",
+            "CREDITO": "11.259.019",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "308.86",
+            "E.A": "20.75%",
+            "RECOMPRA O DESEMBOLSO": "4.298.846",
+            "FIRMA ELLECTRONICA": "SANDRA SANDOVAL ROMERO - 1561724518"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1561724518",
+            "NOMBRES": "SANDRA SANDOVAL ROMERO",
+            "FIRMA ELLECTRONICA": "SANDRA SANDOVAL ROMERO - 1561724518"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1561724518",
+            "NOMBRES": "SANDRA SANDOVAL ROMERO",
+            "FIRMA ELLECTRONICA": "SANDRA SANDOVAL ROMERO - 1561724518",
+            "AL PIE DE LA FIRMA": "SANDRA SANDOVAL ROMERO - 1561724518"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA SANDOVAL ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1561724518",
+            "NOMBRES": "SANDRA SANDOVAL ROMERO",
+            "SALARIO": "1.276.790",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1561724518",
+            "NOMBRES": "SANDRA SANDOVAL ROMERO",
+            "RECOMPRA O DESEMBOLSO": "4.298.846"
+        }
+    }
+]

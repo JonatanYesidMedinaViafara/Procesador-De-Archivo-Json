@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "394172397860",
+            "SOLICITUD": "6296098",
+            "CEDULA": "1942031372",
+            "NOMBRES": "ALBERTO PALACIOS",
+            "RECOMPRA O DESEMBOLSO": "3.107.184",
+            "FIRMA ELLECTRONICA": "ALBERTO PALACIOS - 1942031372"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "394172397860",
+            "NOMBRES": "ALBERTO PALACIOS",
+            "CREDITO": "10.540.922",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "239.075",
+            "FIRMA ELLECTRONICA": "ALBERTO PALACIOS - 1942031372",
+            "AL PIE DE LA FIRMA": "ALBERTO PALACIOS - 1942031372"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1942031372",
+            "NOMBRES": "ALBERTO PALACIOS",
+            "FECHA NACIMIENTO": "17/03/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.540.922",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALBERTO PALACIOS - 1942031372",
+            "AL PIE DE LA FIRMA": "ALBERTO PALACIOS - 1942031372"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6296098",
+            "CEDULA": "1942031372",
+            "NOMBRES": "ALBERTO PALACIOS",
+            "CREDITO": "10.540.922",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "239.075",
+            "E.A": "27.62%",
+            "RECOMPRA O DESEMBOLSO": "3.107.184",
+            "FIRMA ELLECTRONICA": "ALBERTO PALACIOS - 1942031372"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1942031372",
+            "NOMBRES": "ALBERTO PALACIOS",
+            "FIRMA ELLECTRONICA": "ALBERTO PALACIOS - 1942031372"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1942031372",
+            "NOMBRES": "ALBERTO PALACIOS",
+            "FIRMA ELLECTRONICA": "ALBERTO PALACIOS - 1942031372",
+            "AL PIE DE LA FIRMA": "ALBERTO PALACIOS - 1942031372"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO PALACIOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1942031372",
+            "NOMBRES": "ALBERTO PALACIOS",
+            "SALARIO": "3.790.169",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1942031372",
+            "NOMBRES": "ALBERTO PALACIOS",
+            "RECOMPRA O DESEMBOLSO": "3.107.184"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "251100692044",
+            "SOLICITUD": "7957878",
+            "CEDULA": "1972437788",
+            "NOMBRES": "MIGUEL VEGA",
+            "RECOMPRA O DESEMBOLSO": "4.078.118",
+            "FIRMA ELLECTRONICA": "MIGUEL VEGA - 1972437788"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "251100692044",
+            "NOMBRES": "MIGUEL VEGA",
+            "CREDITO": "12.903.071",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.066",
+            "FIRMA ELLECTRONICA": "MIGUEL VEGA - 1972437788",
+            "AL PIE DE LA FIRMA": "MIGUEL VEGA - 1972437788"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1972437788",
+            "NOMBRES": "MIGUEL VEGA",
+            "FECHA NACIMIENTO": "30/04/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.903.071",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MIGUEL VEGA - 1972437788",
+            "AL PIE DE LA FIRMA": "MIGUEL VEGA - 1972437788"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7957878",
+            "CEDULA": "1972437788",
+            "NOMBRES": "MIGUEL VEGA",
+            "CREDITO": "12.903.071",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.066",
+            "E.A": "23.18%",
+            "RECOMPRA O DESEMBOLSO": "4.078.118",
+            "FIRMA ELLECTRONICA": "MIGUEL VEGA - 1972437788"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1972437788",
+            "NOMBRES": "MIGUEL VEGA",
+            "FIRMA ELLECTRONICA": "MIGUEL VEGA - 1972437788"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1972437788",
+            "NOMBRES": "MIGUEL VEGA",
+            "FIRMA ELLECTRONICA": "MIGUEL VEGA - 1972437788",
+            "AL PIE DE LA FIRMA": "MIGUEL VEGA - 1972437788"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1972437788",
+            "NOMBRES": "MIGUEL VEGA",
+            "SALARIO": "3.432.406",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1972437788",
+            "NOMBRES": "MIGUEL VEGA",
+            "RECOMPRA O DESEMBOLSO": "4.078.118"
+        }
+    }
+]

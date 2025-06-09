@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "120005617779",
+            "SOLICITUD": "6887103",
+            "CEDULA": "1315319139",
+            "NOMBRES": "MARGARITA DELGADO",
+            "RECOMPRA O DESEMBOLSO": "3.861.071",
+            "FIRMA ELLECTRONICA": "MARGARITA DELGADO - 1315319139"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "120005617779",
+            "NOMBRES": "MARGARITA DELGADO",
+            "CREDITO": "12.523.178",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "317.654",
+            "FIRMA ELLECTRONICA": "MARGARITA DELGADO - 1315319139",
+            "AL PIE DE LA FIRMA": "MARGARITA DELGADO - 1315319139"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1315319139",
+            "NOMBRES": "MARGARITA DELGADO",
+            "FECHA NACIMIENTO": "07/09/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.523.178",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARGARITA DELGADO - 1315319139",
+            "AL PIE DE LA FIRMA": "MARGARITA DELGADO - 1315319139"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6887103",
+            "CEDULA": "1315319139",
+            "NOMBRES": "MARGARITA DELGADO",
+            "CREDITO": "12.523.178",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "317.654",
+            "E.A": "26.79%",
+            "RECOMPRA O DESEMBOLSO": "3.861.071",
+            "FIRMA ELLECTRONICA": "MARGARITA DELGADO - 1315319139"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1315319139",
+            "NOMBRES": "MARGARITA DELGADO",
+            "FIRMA ELLECTRONICA": "MARGARITA DELGADO - 1315319139"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1315319139",
+            "NOMBRES": "MARGARITA DELGADO",
+            "FIRMA ELLECTRONICA": "MARGARITA DELGADO - 1315319139",
+            "AL PIE DE LA FIRMA": "MARGARITA DELGADO - 1315319139"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARGARITA DELGADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1315319139",
+            "NOMBRES": "MARGARITA DELGADO",
+            "SALARIO": "4.183.384",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1315319139",
+            "NOMBRES": "MARGARITA DELGADO",
+            "RECOMPRA O DESEMBOLSO": "3.861.071"
+        }
+    }
+]

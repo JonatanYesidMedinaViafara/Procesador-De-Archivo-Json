@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "254529611189",
+            "SOLICITUD": "6466947",
+            "CEDULA": "1157996987",
+            "NOMBRES": "MANUEL QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.998.031",
+            "FIRMA ELLECTRONICA": "MANUEL QUINTERO - 1157996987"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "254529611189",
+            "NOMBRES": "MANUEL QUINTERO",
+            "CREDITO": "6.033.782",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "177.395",
+            "FIRMA ELLECTRONICA": "MANUEL QUINTERO - 1157996987",
+            "AL PIE DE LA FIRMA": "MANUEL QUINTERO - 1157996987"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1157996987",
+            "NOMBRES": "MANUEL QUINTERO",
+            "FECHA NACIMIENTO": "02/11/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.033.782",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MANUEL QUINTERO - 1157996987",
+            "AL PIE DE LA FIRMA": "MANUEL QUINTERO - 1157996987"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6466947",
+            "CEDULA": "1157996987",
+            "NOMBRES": "MANUEL QUINTERO",
+            "CREDITO": "6.033.782",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "177.395",
+            "E.A": "18.69%",
+            "RECOMPRA O DESEMBOLSO": "2.998.031",
+            "FIRMA ELLECTRONICA": "MANUEL QUINTERO - 1157996987"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1157996987",
+            "NOMBRES": "MANUEL QUINTERO",
+            "FIRMA ELLECTRONICA": "MANUEL QUINTERO - 1157996987"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1157996987",
+            "NOMBRES": "MANUEL QUINTERO",
+            "FIRMA ELLECTRONICA": "MANUEL QUINTERO - 1157996987",
+            "AL PIE DE LA FIRMA": "MANUEL QUINTERO - 1157996987"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1157996987",
+            "NOMBRES": "MANUEL QUINTERO",
+            "SALARIO": "1.771.564",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1157996987",
+            "NOMBRES": "MANUEL QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.998.031"
+        }
+    }
+]

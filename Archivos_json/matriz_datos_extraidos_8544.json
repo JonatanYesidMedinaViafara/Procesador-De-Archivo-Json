@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "399763190178",
+            "SOLICITUD": "5100224",
+            "CEDULA": "1845519245",
+            "NOMBRES": "JULIÁN DAVID VILLA",
+            "RECOMPRA O DESEMBOLSO": "2.577.843",
+            "FIRMA ELLECTRONICA": "JULIÁN DAVID VILLA - 1845519245"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "399763190178",
+            "NOMBRES": "JULIÁN DAVID VILLA",
+            "CREDITO": "5.867.159",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "353.28",
+            "FIRMA ELLECTRONICA": "JULIÁN DAVID VILLA - 1845519245",
+            "AL PIE DE LA FIRMA": "JULIÁN DAVID VILLA - 1845519245"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1845519245",
+            "NOMBRES": "JULIÁN DAVID VILLA",
+            "FECHA NACIMIENTO": "05/06/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.867.159",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JULIÁN DAVID VILLA - 1845519245",
+            "AL PIE DE LA FIRMA": "JULIÁN DAVID VILLA - 1845519245"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5100224",
+            "CEDULA": "1845519245",
+            "NOMBRES": "JULIÁN DAVID VILLA",
+            "CREDITO": "5.867.159",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "353.28",
+            "E.A": "19.18%",
+            "RECOMPRA O DESEMBOLSO": "2.577.843",
+            "FIRMA ELLECTRONICA": "JULIÁN DAVID VILLA - 1845519245"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1845519245",
+            "NOMBRES": "JULIÁN DAVID VILLA",
+            "FIRMA ELLECTRONICA": "JULIÁN DAVID VILLA - 1845519245"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1845519245",
+            "NOMBRES": "JULIÁN DAVID VILLA",
+            "FIRMA ELLECTRONICA": "JULIÁN DAVID VILLA - 1845519245",
+            "AL PIE DE LA FIRMA": "JULIÁN DAVID VILLA - 1845519245"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIÁN DAVID VILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1845519245",
+            "NOMBRES": "JULIÁN DAVID VILLA",
+            "SALARIO": "1.148.558",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1845519245",
+            "NOMBRES": "JULIÁN DAVID VILLA",
+            "RECOMPRA O DESEMBOLSO": "2.577.843"
+        }
+    }
+]

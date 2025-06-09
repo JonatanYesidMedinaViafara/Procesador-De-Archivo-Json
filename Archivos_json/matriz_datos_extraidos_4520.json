@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "554510188985",
+            "SOLICITUD": "5440325",
+            "CEDULA": "1655478335",
+            "NOMBRES": "ALEXIS CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.469.670",
+            "FIRMA ELLECTRONICA": "ALEXIS CARRILLO - 1655478335"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "554510188985",
+            "NOMBRES": "ALEXIS CARRILLO",
+            "CREDITO": "7.264.804",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "349.478",
+            "FIRMA ELLECTRONICA": "ALEXIS CARRILLO - 1655478335",
+            "AL PIE DE LA FIRMA": "ALEXIS CARRILLO - 1655478335"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1655478335",
+            "NOMBRES": "ALEXIS CARRILLO",
+            "FECHA NACIMIENTO": "25/11/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.264.804",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALEXIS CARRILLO - 1655478335",
+            "AL PIE DE LA FIRMA": "ALEXIS CARRILLO - 1655478335"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5440325",
+            "CEDULA": "1655478335",
+            "NOMBRES": "ALEXIS CARRILLO",
+            "CREDITO": "7.264.804",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "349.478",
+            "E.A": "23.41%",
+            "RECOMPRA O DESEMBOLSO": "3.469.670",
+            "FIRMA ELLECTRONICA": "ALEXIS CARRILLO - 1655478335"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1655478335",
+            "NOMBRES": "ALEXIS CARRILLO",
+            "FIRMA ELLECTRONICA": "ALEXIS CARRILLO - 1655478335"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1655478335",
+            "NOMBRES": "ALEXIS CARRILLO",
+            "FIRMA ELLECTRONICA": "ALEXIS CARRILLO - 1655478335",
+            "AL PIE DE LA FIRMA": "ALEXIS CARRILLO - 1655478335"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXIS CARRILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1655478335",
+            "NOMBRES": "ALEXIS CARRILLO",
+            "SALARIO": "4.877.476",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1655478335",
+            "NOMBRES": "ALEXIS CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.469.670"
+        }
+    }
+]

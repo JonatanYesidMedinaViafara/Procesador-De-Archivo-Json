@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "225549654398",
+            "SOLICITUD": "7312504",
+            "CEDULA": "1462269660",
+            "NOMBRES": "MARY ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.019.044",
+            "FIRMA ELLECTRONICA": "MARY ZAMBRANO - 1462269660"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "225549654398",
+            "NOMBRES": "MARY ZAMBRANO",
+            "CREDITO": "8.689.691",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "259.242",
+            "FIRMA ELLECTRONICA": "MARY ZAMBRANO - 1462269660",
+            "AL PIE DE LA FIRMA": "MARY ZAMBRANO - 1462269660"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1462269660",
+            "NOMBRES": "MARY ZAMBRANO",
+            "FECHA NACIMIENTO": "08/10/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.689.691",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARY ZAMBRANO - 1462269660",
+            "AL PIE DE LA FIRMA": "MARY ZAMBRANO - 1462269660"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7312504",
+            "CEDULA": "1462269660",
+            "NOMBRES": "MARY ZAMBRANO",
+            "CREDITO": "8.689.691",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "259.242",
+            "E.A": "24.56%",
+            "RECOMPRA O DESEMBOLSO": "4.019.044",
+            "FIRMA ELLECTRONICA": "MARY ZAMBRANO - 1462269660"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1462269660",
+            "NOMBRES": "MARY ZAMBRANO",
+            "FIRMA ELLECTRONICA": "MARY ZAMBRANO - 1462269660"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1462269660",
+            "NOMBRES": "MARY ZAMBRANO",
+            "FIRMA ELLECTRONICA": "MARY ZAMBRANO - 1462269660",
+            "AL PIE DE LA FIRMA": "MARY ZAMBRANO - 1462269660"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARY ZAMBRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1462269660",
+            "NOMBRES": "MARY ZAMBRANO",
+            "SALARIO": "4.166.221",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1462269660",
+            "NOMBRES": "MARY ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.019.044"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "624652977569",
+            "SOLICITUD": "2354190",
+            "CEDULA": "1558251520",
+            "NOMBRES": "SEBASTIÁN SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.839.309",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SÁNCHEZ - 1558251520"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "624652977569",
+            "NOMBRES": "SEBASTIÁN SÁNCHEZ",
+            "CREDITO": "5.068.534",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "353.929",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SÁNCHEZ - 1558251520",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN SÁNCHEZ - 1558251520"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1558251520",
+            "NOMBRES": "SEBASTIÁN SÁNCHEZ",
+            "FECHA NACIMIENTO": "25/09/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.068.534",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SÁNCHEZ - 1558251520",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN SÁNCHEZ - 1558251520"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2354190",
+            "CEDULA": "1558251520",
+            "NOMBRES": "SEBASTIÁN SÁNCHEZ",
+            "CREDITO": "5.068.534",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "353.929",
+            "E.A": "20.88%",
+            "RECOMPRA O DESEMBOLSO": "1.839.309",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SÁNCHEZ - 1558251520"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1558251520",
+            "NOMBRES": "SEBASTIÁN SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SÁNCHEZ - 1558251520"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1558251520",
+            "NOMBRES": "SEBASTIÁN SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SÁNCHEZ - 1558251520",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN SÁNCHEZ - 1558251520"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEBASTIÁN SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1558251520",
+            "NOMBRES": "SEBASTIÁN SÁNCHEZ",
+            "SALARIO": "3.054.186",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1558251520",
+            "NOMBRES": "SEBASTIÁN SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.839.309"
+        }
+    }
+]

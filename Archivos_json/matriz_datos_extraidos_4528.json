@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "447302620220",
+            "SOLICITUD": "2693922",
+            "CEDULA": "1443110903",
+            "NOMBRES": "BAYRON ESCOBAR MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.897.744",
+            "FIRMA ELLECTRONICA": "BAYRON ESCOBAR MÉNDEZ - 1443110903"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "447302620220",
+            "NOMBRES": "BAYRON ESCOBAR MÉNDEZ",
+            "CREDITO": "16.221.964",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "197.473",
+            "FIRMA ELLECTRONICA": "BAYRON ESCOBAR MÉNDEZ - 1443110903",
+            "AL PIE DE LA FIRMA": "BAYRON ESCOBAR MÉNDEZ - 1443110903"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1443110903",
+            "NOMBRES": "BAYRON ESCOBAR MÉNDEZ",
+            "FECHA NACIMIENTO": "27/08/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.221.964",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "BAYRON ESCOBAR MÉNDEZ - 1443110903",
+            "AL PIE DE LA FIRMA": "BAYRON ESCOBAR MÉNDEZ - 1443110903"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2693922",
+            "CEDULA": "1443110903",
+            "NOMBRES": "BAYRON ESCOBAR MÉNDEZ",
+            "CREDITO": "16.221.964",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "197.473",
+            "E.A": "27.08%",
+            "RECOMPRA O DESEMBOLSO": "2.897.744",
+            "FIRMA ELLECTRONICA": "BAYRON ESCOBAR MÉNDEZ - 1443110903"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1443110903",
+            "NOMBRES": "BAYRON ESCOBAR MÉNDEZ",
+            "FIRMA ELLECTRONICA": "BAYRON ESCOBAR MÉNDEZ - 1443110903"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1443110903",
+            "NOMBRES": "BAYRON ESCOBAR MÉNDEZ",
+            "FIRMA ELLECTRONICA": "BAYRON ESCOBAR MÉNDEZ - 1443110903",
+            "AL PIE DE LA FIRMA": "BAYRON ESCOBAR MÉNDEZ - 1443110903"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BAYRON ESCOBAR MÉNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1443110903",
+            "NOMBRES": "BAYRON ESCOBAR MÉNDEZ",
+            "SALARIO": "1.812.703",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1443110903",
+            "NOMBRES": "BAYRON ESCOBAR MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.897.744"
+        }
+    }
+]

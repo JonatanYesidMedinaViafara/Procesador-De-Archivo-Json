@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "135400405639",
+            "SOLICITUD": "7760237",
+            "CEDULA": "1946432903",
+            "NOMBRES": "ADRIANA CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.045.156",
+            "FIRMA ELLECTRONICA": "ADRIANA CASTRO - 1946432903"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "135400405639",
+            "NOMBRES": "ADRIANA CASTRO",
+            "CREDITO": "13.871.106",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "130.556",
+            "FIRMA ELLECTRONICA": "ADRIANA CASTRO - 1946432903",
+            "AL PIE DE LA FIRMA": "ADRIANA CASTRO - 1946432903"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1946432903",
+            "NOMBRES": "ADRIANA CASTRO",
+            "FECHA NACIMIENTO": "07/04/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.871.106",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ADRIANA CASTRO - 1946432903",
+            "AL PIE DE LA FIRMA": "ADRIANA CASTRO - 1946432903"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7760237",
+            "CEDULA": "1946432903",
+            "NOMBRES": "ADRIANA CASTRO",
+            "CREDITO": "13.871.106",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "130.556",
+            "E.A": "27.94%",
+            "RECOMPRA O DESEMBOLSO": "4.045.156",
+            "FIRMA ELLECTRONICA": "ADRIANA CASTRO - 1946432903"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1946432903",
+            "NOMBRES": "ADRIANA CASTRO",
+            "FIRMA ELLECTRONICA": "ADRIANA CASTRO - 1946432903"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1946432903",
+            "NOMBRES": "ADRIANA CASTRO",
+            "FIRMA ELLECTRONICA": "ADRIANA CASTRO - 1946432903",
+            "AL PIE DE LA FIRMA": "ADRIANA CASTRO - 1946432903"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ADRIANA CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1946432903",
+            "NOMBRES": "ADRIANA CASTRO",
+            "SALARIO": "2.253.192",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1946432903",
+            "NOMBRES": "ADRIANA CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.045.156"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "614247911085",
+            "SOLICITUD": "3215547",
+            "CEDULA": "1391931704",
+            "NOMBRES": "MARÍA LÓPEZ VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.684.764",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ VARGAS - 1391931704"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "614247911085",
+            "NOMBRES": "MARÍA LÓPEZ VARGAS",
+            "CREDITO": "7.159.116",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "320.688",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ VARGAS - 1391931704",
+            "AL PIE DE LA FIRMA": "MARÍA LÓPEZ VARGAS - 1391931704"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1391931704",
+            "NOMBRES": "MARÍA LÓPEZ VARGAS",
+            "FECHA NACIMIENTO": "24/10/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.159.116",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ VARGAS - 1391931704",
+            "AL PIE DE LA FIRMA": "MARÍA LÓPEZ VARGAS - 1391931704"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3215547",
+            "CEDULA": "1391931704",
+            "NOMBRES": "MARÍA LÓPEZ VARGAS",
+            "CREDITO": "7.159.116",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "320.688",
+            "E.A": "18.59%",
+            "RECOMPRA O DESEMBOLSO": "3.684.764",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ VARGAS - 1391931704"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1391931704",
+            "NOMBRES": "MARÍA LÓPEZ VARGAS",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ VARGAS - 1391931704"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1391931704",
+            "NOMBRES": "MARÍA LÓPEZ VARGAS",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ VARGAS - 1391931704",
+            "AL PIE DE LA FIRMA": "MARÍA LÓPEZ VARGAS - 1391931704"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LÓPEZ VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1391931704",
+            "NOMBRES": "MARÍA LÓPEZ VARGAS",
+            "SALARIO": "1.200.025",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1391931704",
+            "NOMBRES": "MARÍA LÓPEZ VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.684.764"
+        }
+    }
+]

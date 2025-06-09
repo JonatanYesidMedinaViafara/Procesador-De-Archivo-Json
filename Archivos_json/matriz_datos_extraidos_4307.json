@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "113098962575",
+            "SOLICITUD": "2501367",
+            "CEDULA": "1744461432",
+            "NOMBRES": "SARA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "2.523.548",
+            "FIRMA ELLECTRONICA": "SARA CÓRDOBA - 1744461432"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "113098962575",
+            "NOMBRES": "SARA CÓRDOBA",
+            "CREDITO": "11.768.876",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "396.286",
+            "FIRMA ELLECTRONICA": "SARA CÓRDOBA - 1744461432",
+            "AL PIE DE LA FIRMA": "SARA CÓRDOBA - 1744461432"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1744461432",
+            "NOMBRES": "SARA CÓRDOBA",
+            "FECHA NACIMIENTO": "13/09/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.768.876",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SARA CÓRDOBA - 1744461432",
+            "AL PIE DE LA FIRMA": "SARA CÓRDOBA - 1744461432"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2501367",
+            "CEDULA": "1744461432",
+            "NOMBRES": "SARA CÓRDOBA",
+            "CREDITO": "11.768.876",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "396.286",
+            "E.A": "18.86%",
+            "RECOMPRA O DESEMBOLSO": "2.523.548",
+            "FIRMA ELLECTRONICA": "SARA CÓRDOBA - 1744461432"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1744461432",
+            "NOMBRES": "SARA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "SARA CÓRDOBA - 1744461432"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1744461432",
+            "NOMBRES": "SARA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "SARA CÓRDOBA - 1744461432",
+            "AL PIE DE LA FIRMA": "SARA CÓRDOBA - 1744461432"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SARA CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1744461432",
+            "NOMBRES": "SARA CÓRDOBA",
+            "SALARIO": "4.476.275",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1744461432",
+            "NOMBRES": "SARA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "2.523.548"
+        }
+    }
+]

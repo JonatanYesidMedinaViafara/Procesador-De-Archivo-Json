@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "187915196847",
+            "SOLICITUD": "2480917",
+            "CEDULA": "1166471651",
+            "NOMBRES": "ÁLVARO SAAVEDRA",
+            "RECOMPRA O DESEMBOLSO": "2.597.552",
+            "FIRMA ELLECTRONICA": "ÁLVARO SAAVEDRA - 1166471651"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "187915196847",
+            "NOMBRES": "ÁLVARO SAAVEDRA",
+            "CREDITO": "13.242.257",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "231.216",
+            "FIRMA ELLECTRONICA": "ÁLVARO SAAVEDRA - 1166471651",
+            "AL PIE DE LA FIRMA": "ÁLVARO SAAVEDRA - 1166471651"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1166471651",
+            "NOMBRES": "ÁLVARO SAAVEDRA",
+            "FECHA NACIMIENTO": "12/11/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.242.257",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÁLVARO SAAVEDRA - 1166471651",
+            "AL PIE DE LA FIRMA": "ÁLVARO SAAVEDRA - 1166471651"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2480917",
+            "CEDULA": "1166471651",
+            "NOMBRES": "ÁLVARO SAAVEDRA",
+            "CREDITO": "13.242.257",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "231.216",
+            "E.A": "24.49%",
+            "RECOMPRA O DESEMBOLSO": "2.597.552",
+            "FIRMA ELLECTRONICA": "ÁLVARO SAAVEDRA - 1166471651"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1166471651",
+            "NOMBRES": "ÁLVARO SAAVEDRA",
+            "FIRMA ELLECTRONICA": "ÁLVARO SAAVEDRA - 1166471651"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1166471651",
+            "NOMBRES": "ÁLVARO SAAVEDRA",
+            "FIRMA ELLECTRONICA": "ÁLVARO SAAVEDRA - 1166471651",
+            "AL PIE DE LA FIRMA": "ÁLVARO SAAVEDRA - 1166471651"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO SAAVEDRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1166471651",
+            "NOMBRES": "ÁLVARO SAAVEDRA",
+            "SALARIO": "2.668.904",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1166471651",
+            "NOMBRES": "ÁLVARO SAAVEDRA",
+            "RECOMPRA O DESEMBOLSO": "2.597.552"
+        }
+    }
+]

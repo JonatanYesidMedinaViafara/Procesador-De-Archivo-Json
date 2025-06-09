@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "837122649401",
+            "SOLICITUD": "5860500",
+            "CEDULA": "1296810890",
+            "NOMBRES": "PEDRO GAMBOA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.895.702",
+            "FIRMA ELLECTRONICA": "PEDRO GAMBOA LÓPEZ - 1296810890"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "837122649401",
+            "NOMBRES": "PEDRO GAMBOA LÓPEZ",
+            "CREDITO": "18.690.187",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "328.849",
+            "FIRMA ELLECTRONICA": "PEDRO GAMBOA LÓPEZ - 1296810890",
+            "AL PIE DE LA FIRMA": "PEDRO GAMBOA LÓPEZ - 1296810890"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1296810890",
+            "NOMBRES": "PEDRO GAMBOA LÓPEZ",
+            "FECHA NACIMIENTO": "03/08/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.690.187",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "PEDRO GAMBOA LÓPEZ - 1296810890",
+            "AL PIE DE LA FIRMA": "PEDRO GAMBOA LÓPEZ - 1296810890"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5860500",
+            "CEDULA": "1296810890",
+            "NOMBRES": "PEDRO GAMBOA LÓPEZ",
+            "CREDITO": "18.690.187",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "328.849",
+            "E.A": "25.57%",
+            "RECOMPRA O DESEMBOLSO": "3.895.702",
+            "FIRMA ELLECTRONICA": "PEDRO GAMBOA LÓPEZ - 1296810890"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1296810890",
+            "NOMBRES": "PEDRO GAMBOA LÓPEZ",
+            "FIRMA ELLECTRONICA": "PEDRO GAMBOA LÓPEZ - 1296810890"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1296810890",
+            "NOMBRES": "PEDRO GAMBOA LÓPEZ",
+            "FIRMA ELLECTRONICA": "PEDRO GAMBOA LÓPEZ - 1296810890",
+            "AL PIE DE LA FIRMA": "PEDRO GAMBOA LÓPEZ - 1296810890"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PEDRO GAMBOA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1296810890",
+            "NOMBRES": "PEDRO GAMBOA LÓPEZ",
+            "SALARIO": "3.341.007",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1296810890",
+            "NOMBRES": "PEDRO GAMBOA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.895.702"
+        }
+    }
+]

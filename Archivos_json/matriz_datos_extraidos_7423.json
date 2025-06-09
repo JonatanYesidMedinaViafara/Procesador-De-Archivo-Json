@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "265494364074",
+            "SOLICITUD": "6857499",
+            "CEDULA": "1223589678",
+            "NOMBRES": "RUTH RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.914.900",
+            "FIRMA ELLECTRONICA": "RUTH RODRÍGUEZ - 1223589678"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "265494364074",
+            "NOMBRES": "RUTH RODRÍGUEZ",
+            "CREDITO": "10.339.711",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "137.019",
+            "FIRMA ELLECTRONICA": "RUTH RODRÍGUEZ - 1223589678",
+            "AL PIE DE LA FIRMA": "RUTH RODRÍGUEZ - 1223589678"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1223589678",
+            "NOMBRES": "RUTH RODRÍGUEZ",
+            "FECHA NACIMIENTO": "24/09/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.339.711",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RUTH RODRÍGUEZ - 1223589678",
+            "AL PIE DE LA FIRMA": "RUTH RODRÍGUEZ - 1223589678"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6857499",
+            "CEDULA": "1223589678",
+            "NOMBRES": "RUTH RODRÍGUEZ",
+            "CREDITO": "10.339.711",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "137.019",
+            "E.A": "18.52%",
+            "RECOMPRA O DESEMBOLSO": "1.914.900",
+            "FIRMA ELLECTRONICA": "RUTH RODRÍGUEZ - 1223589678"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1223589678",
+            "NOMBRES": "RUTH RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "RUTH RODRÍGUEZ - 1223589678"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1223589678",
+            "NOMBRES": "RUTH RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "RUTH RODRÍGUEZ - 1223589678",
+            "AL PIE DE LA FIRMA": "RUTH RODRÍGUEZ - 1223589678"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUTH RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1223589678",
+            "NOMBRES": "RUTH RODRÍGUEZ",
+            "SALARIO": "1.454.886",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1223589678",
+            "NOMBRES": "RUTH RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.914.900"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "687642452582",
+            "SOLICITUD": "8390222",
+            "CEDULA": "1327089210",
+            "NOMBRES": "ALEX EDINSON MORENO",
+            "RECOMPRA O DESEMBOLSO": "1.238.233",
+            "FIRMA ELLECTRONICA": "ALEX EDINSON MORENO - 1327089210"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "687642452582",
+            "NOMBRES": "ALEX EDINSON MORENO",
+            "CREDITO": "8.135.444",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "234.763",
+            "FIRMA ELLECTRONICA": "ALEX EDINSON MORENO - 1327089210",
+            "AL PIE DE LA FIRMA": "ALEX EDINSON MORENO - 1327089210"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1327089210",
+            "NOMBRES": "ALEX EDINSON MORENO",
+            "FECHA NACIMIENTO": "16/04/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.135.444",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALEX EDINSON MORENO - 1327089210",
+            "AL PIE DE LA FIRMA": "ALEX EDINSON MORENO - 1327089210"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8390222",
+            "CEDULA": "1327089210",
+            "NOMBRES": "ALEX EDINSON MORENO",
+            "CREDITO": "8.135.444",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "234.763",
+            "E.A": "23.28%",
+            "RECOMPRA O DESEMBOLSO": "1.238.233",
+            "FIRMA ELLECTRONICA": "ALEX EDINSON MORENO - 1327089210"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1327089210",
+            "NOMBRES": "ALEX EDINSON MORENO",
+            "FIRMA ELLECTRONICA": "ALEX EDINSON MORENO - 1327089210"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1327089210",
+            "NOMBRES": "ALEX EDINSON MORENO",
+            "FIRMA ELLECTRONICA": "ALEX EDINSON MORENO - 1327089210",
+            "AL PIE DE LA FIRMA": "ALEX EDINSON MORENO - 1327089210"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEX EDINSON MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1327089210",
+            "NOMBRES": "ALEX EDINSON MORENO",
+            "SALARIO": "4.976.437",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1327089210",
+            "NOMBRES": "ALEX EDINSON MORENO",
+            "RECOMPRA O DESEMBOLSO": "1.238.233"
+        }
+    }
+]

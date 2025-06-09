@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "959881318832",
+            "SOLICITUD": "1843404",
+            "CEDULA": "1673890284",
+            "NOMBRES": "MANUEL GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.605.941",
+            "FIRMA ELLECTRONICA": "MANUEL GÓMEZ - 1673890284"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "959881318832",
+            "NOMBRES": "MANUEL GÓMEZ",
+            "CREDITO": "9.040.431",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "381.694",
+            "FIRMA ELLECTRONICA": "MANUEL GÓMEZ - 1673890284",
+            "AL PIE DE LA FIRMA": "MANUEL GÓMEZ - 1673890284"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1673890284",
+            "NOMBRES": "MANUEL GÓMEZ",
+            "FECHA NACIMIENTO": "11/07/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.040.431",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MANUEL GÓMEZ - 1673890284",
+            "AL PIE DE LA FIRMA": "MANUEL GÓMEZ - 1673890284"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1843404",
+            "CEDULA": "1673890284",
+            "NOMBRES": "MANUEL GÓMEZ",
+            "CREDITO": "9.040.431",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "381.694",
+            "E.A": "19.64%",
+            "RECOMPRA O DESEMBOLSO": "2.605.941",
+            "FIRMA ELLECTRONICA": "MANUEL GÓMEZ - 1673890284"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1673890284",
+            "NOMBRES": "MANUEL GÓMEZ",
+            "FIRMA ELLECTRONICA": "MANUEL GÓMEZ - 1673890284"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1673890284",
+            "NOMBRES": "MANUEL GÓMEZ",
+            "FIRMA ELLECTRONICA": "MANUEL GÓMEZ - 1673890284",
+            "AL PIE DE LA FIRMA": "MANUEL GÓMEZ - 1673890284"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1673890284",
+            "NOMBRES": "MANUEL GÓMEZ",
+            "SALARIO": "1.201.526",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1673890284",
+            "NOMBRES": "MANUEL GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.605.941"
+        }
+    }
+]

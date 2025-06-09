@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "567825880019",
+            "SOLICITUD": "4057310",
+            "CEDULA": "1152514411",
+            "NOMBRES": "MARITZA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.326.255",
+            "FIRMA ELLECTRONICA": "MARITZA GARCÍA - 1152514411"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "567825880019",
+            "NOMBRES": "MARITZA GARCÍA",
+            "CREDITO": "14.936.610",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "154.658",
+            "FIRMA ELLECTRONICA": "MARITZA GARCÍA - 1152514411",
+            "AL PIE DE LA FIRMA": "MARITZA GARCÍA - 1152514411"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1152514411",
+            "NOMBRES": "MARITZA GARCÍA",
+            "FECHA NACIMIENTO": "01/01/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.936.610",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARITZA GARCÍA - 1152514411",
+            "AL PIE DE LA FIRMA": "MARITZA GARCÍA - 1152514411"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4057310",
+            "CEDULA": "1152514411",
+            "NOMBRES": "MARITZA GARCÍA",
+            "CREDITO": "14.936.610",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "154.658",
+            "E.A": "27.86%",
+            "RECOMPRA O DESEMBOLSO": "1.326.255",
+            "FIRMA ELLECTRONICA": "MARITZA GARCÍA - 1152514411"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1152514411",
+            "NOMBRES": "MARITZA GARCÍA",
+            "FIRMA ELLECTRONICA": "MARITZA GARCÍA - 1152514411"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1152514411",
+            "NOMBRES": "MARITZA GARCÍA",
+            "FIRMA ELLECTRONICA": "MARITZA GARCÍA - 1152514411",
+            "AL PIE DE LA FIRMA": "MARITZA GARCÍA - 1152514411"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARITZA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1152514411",
+            "NOMBRES": "MARITZA GARCÍA",
+            "SALARIO": "3.753.425",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1152514411",
+            "NOMBRES": "MARITZA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.326.255"
+        }
+    }
+]

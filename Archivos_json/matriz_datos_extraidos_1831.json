@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "920300057705",
+            "SOLICITUD": "9710304",
+            "CEDULA": "1373885916",
+            "NOMBRES": "CRISTIAN JOSÉ MARTÍNEZ SIERRA",
+            "RECOMPRA O DESEMBOLSO": "3.243.703",
+            "FIRMA ELLECTRONICA": "CRISTIAN JOSÉ MARTÍNEZ SIERRA - 1373885916"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "920300057705",
+            "NOMBRES": "CRISTIAN JOSÉ MARTÍNEZ SIERRA",
+            "CREDITO": "5.077.500",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "126.943",
+            "FIRMA ELLECTRONICA": "CRISTIAN JOSÉ MARTÍNEZ SIERRA - 1373885916",
+            "AL PIE DE LA FIRMA": "CRISTIAN JOSÉ MARTÍNEZ SIERRA - 1373885916"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1373885916",
+            "NOMBRES": "CRISTIAN JOSÉ MARTÍNEZ SIERRA",
+            "FECHA NACIMIENTO": "12/12/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.077.500",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CRISTIAN JOSÉ MARTÍNEZ SIERRA - 1373885916",
+            "AL PIE DE LA FIRMA": "CRISTIAN JOSÉ MARTÍNEZ SIERRA - 1373885916"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9710304",
+            "CEDULA": "1373885916",
+            "NOMBRES": "CRISTIAN JOSÉ MARTÍNEZ SIERRA",
+            "CREDITO": "5.077.500",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "126.943",
+            "E.A": "21.01%",
+            "RECOMPRA O DESEMBOLSO": "3.243.703",
+            "FIRMA ELLECTRONICA": "CRISTIAN JOSÉ MARTÍNEZ SIERRA - 1373885916"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1373885916",
+            "NOMBRES": "CRISTIAN JOSÉ MARTÍNEZ SIERRA",
+            "FIRMA ELLECTRONICA": "CRISTIAN JOSÉ MARTÍNEZ SIERRA - 1373885916"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1373885916",
+            "NOMBRES": "CRISTIAN JOSÉ MARTÍNEZ SIERRA",
+            "FIRMA ELLECTRONICA": "CRISTIAN JOSÉ MARTÍNEZ SIERRA - 1373885916",
+            "AL PIE DE LA FIRMA": "CRISTIAN JOSÉ MARTÍNEZ SIERRA - 1373885916"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTIAN JOSÉ MARTÍNEZ SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1373885916",
+            "NOMBRES": "CRISTIAN JOSÉ MARTÍNEZ SIERRA",
+            "SALARIO": "4.274.527",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1373885916",
+            "NOMBRES": "CRISTIAN JOSÉ MARTÍNEZ SIERRA",
+            "RECOMPRA O DESEMBOLSO": "3.243.703"
+        }
+    }
+]

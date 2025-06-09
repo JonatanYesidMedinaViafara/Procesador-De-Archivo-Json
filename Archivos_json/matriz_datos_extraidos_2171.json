@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "745481966292",
+            "SOLICITUD": "2560959",
+            "CEDULA": "1165049430",
+            "NOMBRES": "AMPARO MUÑOZ PULIDO",
+            "RECOMPRA O DESEMBOLSO": "1.536.554",
+            "FIRMA ELLECTRONICA": "AMPARO MUÑOZ PULIDO - 1165049430"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "745481966292",
+            "NOMBRES": "AMPARO MUÑOZ PULIDO",
+            "CREDITO": "17.615.272",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "392.936",
+            "FIRMA ELLECTRONICA": "AMPARO MUÑOZ PULIDO - 1165049430",
+            "AL PIE DE LA FIRMA": "AMPARO MUÑOZ PULIDO - 1165049430"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1165049430",
+            "NOMBRES": "AMPARO MUÑOZ PULIDO",
+            "FECHA NACIMIENTO": "10/10/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.615.272",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "AMPARO MUÑOZ PULIDO - 1165049430",
+            "AL PIE DE LA FIRMA": "AMPARO MUÑOZ PULIDO - 1165049430"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2560959",
+            "CEDULA": "1165049430",
+            "NOMBRES": "AMPARO MUÑOZ PULIDO",
+            "CREDITO": "17.615.272",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "392.936",
+            "E.A": "19.99%",
+            "RECOMPRA O DESEMBOLSO": "1.536.554",
+            "FIRMA ELLECTRONICA": "AMPARO MUÑOZ PULIDO - 1165049430"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1165049430",
+            "NOMBRES": "AMPARO MUÑOZ PULIDO",
+            "FIRMA ELLECTRONICA": "AMPARO MUÑOZ PULIDO - 1165049430"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1165049430",
+            "NOMBRES": "AMPARO MUÑOZ PULIDO",
+            "FIRMA ELLECTRONICA": "AMPARO MUÑOZ PULIDO - 1165049430",
+            "AL PIE DE LA FIRMA": "AMPARO MUÑOZ PULIDO - 1165049430"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AMPARO MUÑOZ PULIDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1165049430",
+            "NOMBRES": "AMPARO MUÑOZ PULIDO",
+            "SALARIO": "1.942.609",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1165049430",
+            "NOMBRES": "AMPARO MUÑOZ PULIDO",
+            "RECOMPRA O DESEMBOLSO": "1.536.554"
+        }
+    }
+]

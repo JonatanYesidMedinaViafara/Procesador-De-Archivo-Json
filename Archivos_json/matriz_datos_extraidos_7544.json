@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "487254000128",
+            "SOLICITUD": "3421424",
+            "CEDULA": "1440857943",
+            "NOMBRES": "RUBY EUGENIA MUÑOZ GALEANO",
+            "RECOMPRA O DESEMBOLSO": "3.099.990",
+            "FIRMA ELLECTRONICA": "RUBY EUGENIA MUÑOZ GALEANO - 1440857943"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "487254000128",
+            "NOMBRES": "RUBY EUGENIA MUÑOZ GALEANO",
+            "CREDITO": "10.080.347",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "344.468",
+            "FIRMA ELLECTRONICA": "RUBY EUGENIA MUÑOZ GALEANO - 1440857943",
+            "AL PIE DE LA FIRMA": "RUBY EUGENIA MUÑOZ GALEANO - 1440857943"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1440857943",
+            "NOMBRES": "RUBY EUGENIA MUÑOZ GALEANO",
+            "FECHA NACIMIENTO": "28/03/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.080.347",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "RUBY EUGENIA MUÑOZ GALEANO - 1440857943",
+            "AL PIE DE LA FIRMA": "RUBY EUGENIA MUÑOZ GALEANO - 1440857943"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3421424",
+            "CEDULA": "1440857943",
+            "NOMBRES": "RUBY EUGENIA MUÑOZ GALEANO",
+            "CREDITO": "10.080.347",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "344.468",
+            "E.A": "21.38%",
+            "RECOMPRA O DESEMBOLSO": "3.099.990",
+            "FIRMA ELLECTRONICA": "RUBY EUGENIA MUÑOZ GALEANO - 1440857943"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1440857943",
+            "NOMBRES": "RUBY EUGENIA MUÑOZ GALEANO",
+            "FIRMA ELLECTRONICA": "RUBY EUGENIA MUÑOZ GALEANO - 1440857943"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1440857943",
+            "NOMBRES": "RUBY EUGENIA MUÑOZ GALEANO",
+            "FIRMA ELLECTRONICA": "RUBY EUGENIA MUÑOZ GALEANO - 1440857943",
+            "AL PIE DE LA FIRMA": "RUBY EUGENIA MUÑOZ GALEANO - 1440857943"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUBY EUGENIA MUÑOZ GALEANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1440857943",
+            "NOMBRES": "RUBY EUGENIA MUÑOZ GALEANO",
+            "SALARIO": "4.560.161",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1440857943",
+            "NOMBRES": "RUBY EUGENIA MUÑOZ GALEANO",
+            "RECOMPRA O DESEMBOLSO": "3.099.990"
+        }
+    }
+]

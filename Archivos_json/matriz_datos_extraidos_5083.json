@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "626690617171",
+            "SOLICITUD": "6858447",
+            "CEDULA": "1657237793",
+            "NOMBRES": "JAVIER RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.859.644",
+            "FIRMA ELLECTRONICA": "JAVIER RODRÍGUEZ - 1657237793"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "626690617171",
+            "NOMBRES": "JAVIER RODRÍGUEZ",
+            "CREDITO": "8.569.831",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "137.974",
+            "FIRMA ELLECTRONICA": "JAVIER RODRÍGUEZ - 1657237793",
+            "AL PIE DE LA FIRMA": "JAVIER RODRÍGUEZ - 1657237793"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1657237793",
+            "NOMBRES": "JAVIER RODRÍGUEZ",
+            "FECHA NACIMIENTO": "27/01/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.569.831",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAVIER RODRÍGUEZ - 1657237793",
+            "AL PIE DE LA FIRMA": "JAVIER RODRÍGUEZ - 1657237793"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6858447",
+            "CEDULA": "1657237793",
+            "NOMBRES": "JAVIER RODRÍGUEZ",
+            "CREDITO": "8.569.831",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "137.974",
+            "E.A": "20.87%",
+            "RECOMPRA O DESEMBOLSO": "2.859.644",
+            "FIRMA ELLECTRONICA": "JAVIER RODRÍGUEZ - 1657237793"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1657237793",
+            "NOMBRES": "JAVIER RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JAVIER RODRÍGUEZ - 1657237793"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1657237793",
+            "NOMBRES": "JAVIER RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JAVIER RODRÍGUEZ - 1657237793",
+            "AL PIE DE LA FIRMA": "JAVIER RODRÍGUEZ - 1657237793"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1657237793",
+            "NOMBRES": "JAVIER RODRÍGUEZ",
+            "SALARIO": "1.173.119",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1657237793",
+            "NOMBRES": "JAVIER RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.859.644"
+        }
+    }
+]

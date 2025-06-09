@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "151064881133",
+            "SOLICITUD": "3810834",
+            "CEDULA": "1836114945",
+            "NOMBRES": "GUILLERMO ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.793.613",
+            "FIRMA ELLECTRONICA": "GUILLERMO ÁLVAREZ - 1836114945"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "151064881133",
+            "NOMBRES": "GUILLERMO ÁLVAREZ",
+            "CREDITO": "13.219.822",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "242.118",
+            "FIRMA ELLECTRONICA": "GUILLERMO ÁLVAREZ - 1836114945",
+            "AL PIE DE LA FIRMA": "GUILLERMO ÁLVAREZ - 1836114945"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1836114945",
+            "NOMBRES": "GUILLERMO ÁLVAREZ",
+            "FECHA NACIMIENTO": "07/10/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.219.822",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "GUILLERMO ÁLVAREZ - 1836114945",
+            "AL PIE DE LA FIRMA": "GUILLERMO ÁLVAREZ - 1836114945"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3810834",
+            "CEDULA": "1836114945",
+            "NOMBRES": "GUILLERMO ÁLVAREZ",
+            "CREDITO": "13.219.822",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "242.118",
+            "E.A": "20.76%",
+            "RECOMPRA O DESEMBOLSO": "4.793.613",
+            "FIRMA ELLECTRONICA": "GUILLERMO ÁLVAREZ - 1836114945"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1836114945",
+            "NOMBRES": "GUILLERMO ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "GUILLERMO ÁLVAREZ - 1836114945"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1836114945",
+            "NOMBRES": "GUILLERMO ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "GUILLERMO ÁLVAREZ - 1836114945",
+            "AL PIE DE LA FIRMA": "GUILLERMO ÁLVAREZ - 1836114945"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GUILLERMO ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1836114945",
+            "NOMBRES": "GUILLERMO ÁLVAREZ",
+            "SALARIO": "1.163.048",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1836114945",
+            "NOMBRES": "GUILLERMO ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.793.613"
+        }
+    }
+]

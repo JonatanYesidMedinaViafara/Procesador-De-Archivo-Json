@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "569194900935",
+            "SOLICITUD": "9020994",
+            "CEDULA": "1819200610",
+            "NOMBRES": "JAVIER GAITÁN",
+            "RECOMPRA O DESEMBOLSO": "3.220.742",
+            "FIRMA ELLECTRONICA": "JAVIER GAITÁN - 1819200610"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "569194900935",
+            "NOMBRES": "JAVIER GAITÁN",
+            "CREDITO": "12.378.010",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "138.343",
+            "FIRMA ELLECTRONICA": "JAVIER GAITÁN - 1819200610",
+            "AL PIE DE LA FIRMA": "JAVIER GAITÁN - 1819200610"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1819200610",
+            "NOMBRES": "JAVIER GAITÁN",
+            "FECHA NACIMIENTO": "31/01/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.378.010",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAVIER GAITÁN - 1819200610",
+            "AL PIE DE LA FIRMA": "JAVIER GAITÁN - 1819200610"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9020994",
+            "CEDULA": "1819200610",
+            "NOMBRES": "JAVIER GAITÁN",
+            "CREDITO": "12.378.010",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "138.343",
+            "E.A": "27.22%",
+            "RECOMPRA O DESEMBOLSO": "3.220.742",
+            "FIRMA ELLECTRONICA": "JAVIER GAITÁN - 1819200610"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1819200610",
+            "NOMBRES": "JAVIER GAITÁN",
+            "FIRMA ELLECTRONICA": "JAVIER GAITÁN - 1819200610"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1819200610",
+            "NOMBRES": "JAVIER GAITÁN",
+            "FIRMA ELLECTRONICA": "JAVIER GAITÁN - 1819200610",
+            "AL PIE DE LA FIRMA": "JAVIER GAITÁN - 1819200610"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER GAITÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1819200610",
+            "NOMBRES": "JAVIER GAITÁN",
+            "SALARIO": "3.428.903",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1819200610",
+            "NOMBRES": "JAVIER GAITÁN",
+            "RECOMPRA O DESEMBOLSO": "3.220.742"
+        }
+    }
+]

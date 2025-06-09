@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "647938599674",
+            "SOLICITUD": "4835291",
+            "CEDULA": "1367593936",
+            "NOMBRES": "JUAN MAURICIO VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.463.390",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO VALENCIA - 1367593936"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "647938599674",
+            "NOMBRES": "JUAN MAURICIO VALENCIA",
+            "CREDITO": "10.873.196",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "103.099",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO VALENCIA - 1367593936",
+            "AL PIE DE LA FIRMA": "JUAN MAURICIO VALENCIA - 1367593936"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1367593936",
+            "NOMBRES": "JUAN MAURICIO VALENCIA",
+            "FECHA NACIMIENTO": "27/11/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.873.196",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO VALENCIA - 1367593936",
+            "AL PIE DE LA FIRMA": "JUAN MAURICIO VALENCIA - 1367593936"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4835291",
+            "CEDULA": "1367593936",
+            "NOMBRES": "JUAN MAURICIO VALENCIA",
+            "CREDITO": "10.873.196",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "103.099",
+            "E.A": "23.11%",
+            "RECOMPRA O DESEMBOLSO": "2.463.390",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO VALENCIA - 1367593936"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1367593936",
+            "NOMBRES": "JUAN MAURICIO VALENCIA",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO VALENCIA - 1367593936"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1367593936",
+            "NOMBRES": "JUAN MAURICIO VALENCIA",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO VALENCIA - 1367593936",
+            "AL PIE DE LA FIRMA": "JUAN MAURICIO VALENCIA - 1367593936"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN MAURICIO VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1367593936",
+            "NOMBRES": "JUAN MAURICIO VALENCIA",
+            "SALARIO": "4.148.083",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1367593936",
+            "NOMBRES": "JUAN MAURICIO VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.463.390"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "842554855898",
+            "SOLICITUD": "2042992",
+            "CEDULA": "1643071195",
+            "NOMBRES": "JUNIOR HÉCTOR VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.275.934",
+            "FIRMA ELLECTRONICA": "JUNIOR HÉCTOR VALENCIA - 1643071195"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "842554855898",
+            "NOMBRES": "JUNIOR HÉCTOR VALENCIA",
+            "CREDITO": "13.446.852",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "104.148",
+            "FIRMA ELLECTRONICA": "JUNIOR HÉCTOR VALENCIA - 1643071195",
+            "AL PIE DE LA FIRMA": "JUNIOR HÉCTOR VALENCIA - 1643071195"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1643071195",
+            "NOMBRES": "JUNIOR HÉCTOR VALENCIA",
+            "FECHA NACIMIENTO": "28/08/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.446.852",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUNIOR HÉCTOR VALENCIA - 1643071195",
+            "AL PIE DE LA FIRMA": "JUNIOR HÉCTOR VALENCIA - 1643071195"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2042992",
+            "CEDULA": "1643071195",
+            "NOMBRES": "JUNIOR HÉCTOR VALENCIA",
+            "CREDITO": "13.446.852",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "104.148",
+            "E.A": "20.03%",
+            "RECOMPRA O DESEMBOLSO": "3.275.934",
+            "FIRMA ELLECTRONICA": "JUNIOR HÉCTOR VALENCIA - 1643071195"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1643071195",
+            "NOMBRES": "JUNIOR HÉCTOR VALENCIA",
+            "FIRMA ELLECTRONICA": "JUNIOR HÉCTOR VALENCIA - 1643071195"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1643071195",
+            "NOMBRES": "JUNIOR HÉCTOR VALENCIA",
+            "FIRMA ELLECTRONICA": "JUNIOR HÉCTOR VALENCIA - 1643071195",
+            "AL PIE DE LA FIRMA": "JUNIOR HÉCTOR VALENCIA - 1643071195"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUNIOR HÉCTOR VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1643071195",
+            "NOMBRES": "JUNIOR HÉCTOR VALENCIA",
+            "SALARIO": "2.195.555",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1643071195",
+            "NOMBRES": "JUNIOR HÉCTOR VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.275.934"
+        }
+    }
+]

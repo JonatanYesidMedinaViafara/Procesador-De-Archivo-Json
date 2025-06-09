@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "211020762926",
+            "SOLICITUD": "4136563",
+            "CEDULA": "1847651362",
+            "NOMBRES": "MARÍA CABRERA",
+            "RECOMPRA O DESEMBOLSO": "3.392.208",
+            "FIRMA ELLECTRONICA": "MARÍA CABRERA - 1847651362"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "211020762926",
+            "NOMBRES": "MARÍA CABRERA",
+            "CREDITO": "5.008.554",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "174.189",
+            "FIRMA ELLECTRONICA": "MARÍA CABRERA - 1847651362",
+            "AL PIE DE LA FIRMA": "MARÍA CABRERA - 1847651362"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1847651362",
+            "NOMBRES": "MARÍA CABRERA",
+            "FECHA NACIMIENTO": "23/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.008.554",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA CABRERA - 1847651362",
+            "AL PIE DE LA FIRMA": "MARÍA CABRERA - 1847651362"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4136563",
+            "CEDULA": "1847651362",
+            "NOMBRES": "MARÍA CABRERA",
+            "CREDITO": "5.008.554",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "174.189",
+            "E.A": "18.95%",
+            "RECOMPRA O DESEMBOLSO": "3.392.208",
+            "FIRMA ELLECTRONICA": "MARÍA CABRERA - 1847651362"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1847651362",
+            "NOMBRES": "MARÍA CABRERA",
+            "FIRMA ELLECTRONICA": "MARÍA CABRERA - 1847651362"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1847651362",
+            "NOMBRES": "MARÍA CABRERA",
+            "FIRMA ELLECTRONICA": "MARÍA CABRERA - 1847651362",
+            "AL PIE DE LA FIRMA": "MARÍA CABRERA - 1847651362"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CABRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1847651362",
+            "NOMBRES": "MARÍA CABRERA",
+            "SALARIO": "4.121.125",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1847651362",
+            "NOMBRES": "MARÍA CABRERA",
+            "RECOMPRA O DESEMBOLSO": "3.392.208"
+        }
+    }
+]

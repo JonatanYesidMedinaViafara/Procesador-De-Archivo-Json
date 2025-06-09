@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "992942465985",
+            "SOLICITUD": "1157342",
+            "CEDULA": "1172479269",
+            "NOMBRES": "INÉS GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.395.815",
+            "FIRMA ELLECTRONICA": "INÉS GUTIÉRREZ - 1172479269"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "992942465985",
+            "NOMBRES": "INÉS GUTIÉRREZ",
+            "CREDITO": "8.555.192",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "101.096",
+            "FIRMA ELLECTRONICA": "INÉS GUTIÉRREZ - 1172479269",
+            "AL PIE DE LA FIRMA": "INÉS GUTIÉRREZ - 1172479269"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1172479269",
+            "NOMBRES": "INÉS GUTIÉRREZ",
+            "FECHA NACIMIENTO": "23/07/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.555.192",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "INÉS GUTIÉRREZ - 1172479269",
+            "AL PIE DE LA FIRMA": "INÉS GUTIÉRREZ - 1172479269"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1157342",
+            "CEDULA": "1172479269",
+            "NOMBRES": "INÉS GUTIÉRREZ",
+            "CREDITO": "8.555.192",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "101.096",
+            "E.A": "27.56%",
+            "RECOMPRA O DESEMBOLSO": "1.395.815",
+            "FIRMA ELLECTRONICA": "INÉS GUTIÉRREZ - 1172479269"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1172479269",
+            "NOMBRES": "INÉS GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "INÉS GUTIÉRREZ - 1172479269"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1172479269",
+            "NOMBRES": "INÉS GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "INÉS GUTIÉRREZ - 1172479269",
+            "AL PIE DE LA FIRMA": "INÉS GUTIÉRREZ - 1172479269"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "INÉS GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1172479269",
+            "NOMBRES": "INÉS GUTIÉRREZ",
+            "SALARIO": "1.189.903",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1172479269",
+            "NOMBRES": "INÉS GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.395.815"
+        }
+    }
+]

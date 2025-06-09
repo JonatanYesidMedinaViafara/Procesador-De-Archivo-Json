@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "915872079613",
+            "SOLICITUD": "5522531",
+            "CEDULA": "1134131382",
+            "NOMBRES": "ELENA MARÍA SIERRA LEAL",
+            "RECOMPRA O DESEMBOLSO": "2.892.812",
+            "FIRMA ELLECTRONICA": "ELENA MARÍA SIERRA LEAL - 1134131382"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "915872079613",
+            "NOMBRES": "ELENA MARÍA SIERRA LEAL",
+            "CREDITO": "10.055.777",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "348.528",
+            "FIRMA ELLECTRONICA": "ELENA MARÍA SIERRA LEAL - 1134131382",
+            "AL PIE DE LA FIRMA": "ELENA MARÍA SIERRA LEAL - 1134131382"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1134131382",
+            "NOMBRES": "ELENA MARÍA SIERRA LEAL",
+            "FECHA NACIMIENTO": "07/02/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.055.777",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ELENA MARÍA SIERRA LEAL - 1134131382",
+            "AL PIE DE LA FIRMA": "ELENA MARÍA SIERRA LEAL - 1134131382"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5522531",
+            "CEDULA": "1134131382",
+            "NOMBRES": "ELENA MARÍA SIERRA LEAL",
+            "CREDITO": "10.055.777",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "348.528",
+            "E.A": "27.56%",
+            "RECOMPRA O DESEMBOLSO": "2.892.812",
+            "FIRMA ELLECTRONICA": "ELENA MARÍA SIERRA LEAL - 1134131382"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1134131382",
+            "NOMBRES": "ELENA MARÍA SIERRA LEAL",
+            "FIRMA ELLECTRONICA": "ELENA MARÍA SIERRA LEAL - 1134131382"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1134131382",
+            "NOMBRES": "ELENA MARÍA SIERRA LEAL",
+            "FIRMA ELLECTRONICA": "ELENA MARÍA SIERRA LEAL - 1134131382",
+            "AL PIE DE LA FIRMA": "ELENA MARÍA SIERRA LEAL - 1134131382"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA MARÍA SIERRA LEAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1134131382",
+            "NOMBRES": "ELENA MARÍA SIERRA LEAL",
+            "SALARIO": "4.835.900",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1134131382",
+            "NOMBRES": "ELENA MARÍA SIERRA LEAL",
+            "RECOMPRA O DESEMBOLSO": "2.892.812"
+        }
+    }
+]

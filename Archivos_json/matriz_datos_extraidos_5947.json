@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "887864087036",
+            "SOLICITUD": "6305762",
+            "CEDULA": "1577107810",
+            "NOMBRES": "JORGE CHRISTIAN VARGAS VERA",
+            "RECOMPRA O DESEMBOLSO": "2.597.315",
+            "FIRMA ELLECTRONICA": "JORGE CHRISTIAN VARGAS VERA - 1577107810"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "887864087036",
+            "NOMBRES": "JORGE CHRISTIAN VARGAS VERA",
+            "CREDITO": "17.819.286",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "175.682",
+            "FIRMA ELLECTRONICA": "JORGE CHRISTIAN VARGAS VERA - 1577107810",
+            "AL PIE DE LA FIRMA": "JORGE CHRISTIAN VARGAS VERA - 1577107810"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1577107810",
+            "NOMBRES": "JORGE CHRISTIAN VARGAS VERA",
+            "FECHA NACIMIENTO": "08/07/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.819.286",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JORGE CHRISTIAN VARGAS VERA - 1577107810",
+            "AL PIE DE LA FIRMA": "JORGE CHRISTIAN VARGAS VERA - 1577107810"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6305762",
+            "CEDULA": "1577107810",
+            "NOMBRES": "JORGE CHRISTIAN VARGAS VERA",
+            "CREDITO": "17.819.286",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "175.682",
+            "E.A": "26.65%",
+            "RECOMPRA O DESEMBOLSO": "2.597.315",
+            "FIRMA ELLECTRONICA": "JORGE CHRISTIAN VARGAS VERA - 1577107810"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1577107810",
+            "NOMBRES": "JORGE CHRISTIAN VARGAS VERA",
+            "FIRMA ELLECTRONICA": "JORGE CHRISTIAN VARGAS VERA - 1577107810"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1577107810",
+            "NOMBRES": "JORGE CHRISTIAN VARGAS VERA",
+            "FIRMA ELLECTRONICA": "JORGE CHRISTIAN VARGAS VERA - 1577107810",
+            "AL PIE DE LA FIRMA": "JORGE CHRISTIAN VARGAS VERA - 1577107810"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE CHRISTIAN VARGAS VERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1577107810",
+            "NOMBRES": "JORGE CHRISTIAN VARGAS VERA",
+            "SALARIO": "1.100.591",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1577107810",
+            "NOMBRES": "JORGE CHRISTIAN VARGAS VERA",
+            "RECOMPRA O DESEMBOLSO": "2.597.315"
+        }
+    }
+]

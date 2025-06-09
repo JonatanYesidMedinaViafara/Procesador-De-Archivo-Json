@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "206186824607",
+            "SOLICITUD": "1924806",
+            "CEDULA": "1588618350",
+            "NOMBRES": "YOHANA FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.719.661",
+            "FIRMA ELLECTRONICA": "YOHANA FERNÁNDEZ - 1588618350"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "206186824607",
+            "NOMBRES": "YOHANA FERNÁNDEZ",
+            "CREDITO": "10.018.115",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.878",
+            "FIRMA ELLECTRONICA": "YOHANA FERNÁNDEZ - 1588618350",
+            "AL PIE DE LA FIRMA": "YOHANA FERNÁNDEZ - 1588618350"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1588618350",
+            "NOMBRES": "YOHANA FERNÁNDEZ",
+            "FECHA NACIMIENTO": "18/03/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.018.115",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "YOHANA FERNÁNDEZ - 1588618350",
+            "AL PIE DE LA FIRMA": "YOHANA FERNÁNDEZ - 1588618350"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1924806",
+            "CEDULA": "1588618350",
+            "NOMBRES": "YOHANA FERNÁNDEZ",
+            "CREDITO": "10.018.115",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.878",
+            "E.A": "21.66%",
+            "RECOMPRA O DESEMBOLSO": "2.719.661",
+            "FIRMA ELLECTRONICA": "YOHANA FERNÁNDEZ - 1588618350"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1588618350",
+            "NOMBRES": "YOHANA FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "YOHANA FERNÁNDEZ - 1588618350"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1588618350",
+            "NOMBRES": "YOHANA FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "YOHANA FERNÁNDEZ - 1588618350",
+            "AL PIE DE LA FIRMA": "YOHANA FERNÁNDEZ - 1588618350"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YOHANA FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1588618350",
+            "NOMBRES": "YOHANA FERNÁNDEZ",
+            "SALARIO": "3.778.990",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1588618350",
+            "NOMBRES": "YOHANA FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.719.661"
+        }
+    }
+]

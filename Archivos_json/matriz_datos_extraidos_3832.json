@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "701940363002",
+            "SOLICITUD": "5347567",
+            "CEDULA": "1592817887",
+            "NOMBRES": "YEISON JUAN RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.180.584",
+            "FIRMA ELLECTRONICA": "YEISON JUAN RAMÍREZ - 1592817887"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "701940363002",
+            "NOMBRES": "YEISON JUAN RAMÍREZ",
+            "CREDITO": "15.380.992",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "376.393",
+            "FIRMA ELLECTRONICA": "YEISON JUAN RAMÍREZ - 1592817887",
+            "AL PIE DE LA FIRMA": "YEISON JUAN RAMÍREZ - 1592817887"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1592817887",
+            "NOMBRES": "YEISON JUAN RAMÍREZ",
+            "FECHA NACIMIENTO": "08/10/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.380.992",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "YEISON JUAN RAMÍREZ - 1592817887",
+            "AL PIE DE LA FIRMA": "YEISON JUAN RAMÍREZ - 1592817887"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5347567",
+            "CEDULA": "1592817887",
+            "NOMBRES": "YEISON JUAN RAMÍREZ",
+            "CREDITO": "15.380.992",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "376.393",
+            "E.A": "26.8%",
+            "RECOMPRA O DESEMBOLSO": "3.180.584",
+            "FIRMA ELLECTRONICA": "YEISON JUAN RAMÍREZ - 1592817887"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1592817887",
+            "NOMBRES": "YEISON JUAN RAMÍREZ",
+            "FIRMA ELLECTRONICA": "YEISON JUAN RAMÍREZ - 1592817887"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1592817887",
+            "NOMBRES": "YEISON JUAN RAMÍREZ",
+            "FIRMA ELLECTRONICA": "YEISON JUAN RAMÍREZ - 1592817887",
+            "AL PIE DE LA FIRMA": "YEISON JUAN RAMÍREZ - 1592817887"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YEISON JUAN RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1592817887",
+            "NOMBRES": "YEISON JUAN RAMÍREZ",
+            "SALARIO": "2.498.750",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1592817887",
+            "NOMBRES": "YEISON JUAN RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.180.584"
+        }
+    }
+]

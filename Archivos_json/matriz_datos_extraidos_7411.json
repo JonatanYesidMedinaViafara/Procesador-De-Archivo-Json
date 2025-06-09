@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "429807242765",
+            "SOLICITUD": "6586692",
+            "CEDULA": "1712671274",
+            "NOMBRES": "ANDREA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.905.408",
+            "FIRMA ELLECTRONICA": "ANDREA MUÑOZ - 1712671274"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "429807242765",
+            "NOMBRES": "ANDREA MUÑOZ",
+            "CREDITO": "11.709.686",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "360.824",
+            "FIRMA ELLECTRONICA": "ANDREA MUÑOZ - 1712671274",
+            "AL PIE DE LA FIRMA": "ANDREA MUÑOZ - 1712671274"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1712671274",
+            "NOMBRES": "ANDREA MUÑOZ",
+            "FECHA NACIMIENTO": "06/12/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.709.686",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDREA MUÑOZ - 1712671274",
+            "AL PIE DE LA FIRMA": "ANDREA MUÑOZ - 1712671274"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6586692",
+            "CEDULA": "1712671274",
+            "NOMBRES": "ANDREA MUÑOZ",
+            "CREDITO": "11.709.686",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "360.824",
+            "E.A": "25.5%",
+            "RECOMPRA O DESEMBOLSO": "2.905.408",
+            "FIRMA ELLECTRONICA": "ANDREA MUÑOZ - 1712671274"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1712671274",
+            "NOMBRES": "ANDREA MUÑOZ",
+            "FIRMA ELLECTRONICA": "ANDREA MUÑOZ - 1712671274"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1712671274",
+            "NOMBRES": "ANDREA MUÑOZ",
+            "FIRMA ELLECTRONICA": "ANDREA MUÑOZ - 1712671274",
+            "AL PIE DE LA FIRMA": "ANDREA MUÑOZ - 1712671274"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1712671274",
+            "NOMBRES": "ANDREA MUÑOZ",
+            "SALARIO": "4.043.974",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1712671274",
+            "NOMBRES": "ANDREA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.905.408"
+        }
+    }
+]

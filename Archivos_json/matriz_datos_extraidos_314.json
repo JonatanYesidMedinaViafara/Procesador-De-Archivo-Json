@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "451065383872",
+            "SOLICITUD": "2461810",
+            "CEDULA": "1971413161",
+            "NOMBRES": "ELISA BLANCO",
+            "RECOMPRA O DESEMBOLSO": "3.281.576",
+            "FIRMA ELLECTRONICA": "ELISA BLANCO - 1971413161"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "451065383872",
+            "NOMBRES": "ELISA BLANCO",
+            "CREDITO": "6.547.672",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "217.592",
+            "FIRMA ELLECTRONICA": "ELISA BLANCO - 1971413161",
+            "AL PIE DE LA FIRMA": "ELISA BLANCO - 1971413161"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1971413161",
+            "NOMBRES": "ELISA BLANCO",
+            "FECHA NACIMIENTO": "18/08/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.547.672",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ELISA BLANCO - 1971413161",
+            "AL PIE DE LA FIRMA": "ELISA BLANCO - 1971413161"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2461810",
+            "CEDULA": "1971413161",
+            "NOMBRES": "ELISA BLANCO",
+            "CREDITO": "6.547.672",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "217.592",
+            "E.A": "26.6%",
+            "RECOMPRA O DESEMBOLSO": "3.281.576",
+            "FIRMA ELLECTRONICA": "ELISA BLANCO - 1971413161"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1971413161",
+            "NOMBRES": "ELISA BLANCO",
+            "FIRMA ELLECTRONICA": "ELISA BLANCO - 1971413161"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1971413161",
+            "NOMBRES": "ELISA BLANCO",
+            "FIRMA ELLECTRONICA": "ELISA BLANCO - 1971413161",
+            "AL PIE DE LA FIRMA": "ELISA BLANCO - 1971413161"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELISA BLANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1971413161",
+            "NOMBRES": "ELISA BLANCO",
+            "SALARIO": "2.538.754",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1971413161",
+            "NOMBRES": "ELISA BLANCO",
+            "RECOMPRA O DESEMBOLSO": "3.281.576"
+        }
+    }
+]

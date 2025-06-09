@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "512177096143",
+            "SOLICITUD": "9283587",
+            "CEDULA": "1193548056",
+            "NOMBRES": "MARINA SIERRA ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "4.447.584",
+            "FIRMA ELLECTRONICA": "MARINA SIERRA ZAPATA - 1193548056"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "512177096143",
+            "NOMBRES": "MARINA SIERRA ZAPATA",
+            "CREDITO": "18.005.019",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "255.411",
+            "FIRMA ELLECTRONICA": "MARINA SIERRA ZAPATA - 1193548056",
+            "AL PIE DE LA FIRMA": "MARINA SIERRA ZAPATA - 1193548056"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1193548056",
+            "NOMBRES": "MARINA SIERRA ZAPATA",
+            "FECHA NACIMIENTO": "29/05/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.005.019",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARINA SIERRA ZAPATA - 1193548056",
+            "AL PIE DE LA FIRMA": "MARINA SIERRA ZAPATA - 1193548056"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9283587",
+            "CEDULA": "1193548056",
+            "NOMBRES": "MARINA SIERRA ZAPATA",
+            "CREDITO": "18.005.019",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "255.411",
+            "E.A": "20.36%",
+            "RECOMPRA O DESEMBOLSO": "4.447.584",
+            "FIRMA ELLECTRONICA": "MARINA SIERRA ZAPATA - 1193548056"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1193548056",
+            "NOMBRES": "MARINA SIERRA ZAPATA",
+            "FIRMA ELLECTRONICA": "MARINA SIERRA ZAPATA - 1193548056"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1193548056",
+            "NOMBRES": "MARINA SIERRA ZAPATA",
+            "FIRMA ELLECTRONICA": "MARINA SIERRA ZAPATA - 1193548056",
+            "AL PIE DE LA FIRMA": "MARINA SIERRA ZAPATA - 1193548056"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARINA SIERRA ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1193548056",
+            "NOMBRES": "MARINA SIERRA ZAPATA",
+            "SALARIO": "3.018.943",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1193548056",
+            "NOMBRES": "MARINA SIERRA ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "4.447.584"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "447238393353",
+            "SOLICITUD": "5785984",
+            "CEDULA": "1122143101",
+            "NOMBRES": "WILLIAM BARRERA ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.309.814",
+            "FIRMA ELLECTRONICA": "WILLIAM BARRERA ZAMBRANO - 1122143101"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "447238393353",
+            "NOMBRES": "WILLIAM BARRERA ZAMBRANO",
+            "CREDITO": "8.252.701",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "225.18",
+            "FIRMA ELLECTRONICA": "WILLIAM BARRERA ZAMBRANO - 1122143101",
+            "AL PIE DE LA FIRMA": "WILLIAM BARRERA ZAMBRANO - 1122143101"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1122143101",
+            "NOMBRES": "WILLIAM BARRERA ZAMBRANO",
+            "FECHA NACIMIENTO": "10/01/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.252.701",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "WILLIAM BARRERA ZAMBRANO - 1122143101",
+            "AL PIE DE LA FIRMA": "WILLIAM BARRERA ZAMBRANO - 1122143101"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5785984",
+            "CEDULA": "1122143101",
+            "NOMBRES": "WILLIAM BARRERA ZAMBRANO",
+            "CREDITO": "8.252.701",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "225.18",
+            "E.A": "22.92%",
+            "RECOMPRA O DESEMBOLSO": "4.309.814",
+            "FIRMA ELLECTRONICA": "WILLIAM BARRERA ZAMBRANO - 1122143101"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1122143101",
+            "NOMBRES": "WILLIAM BARRERA ZAMBRANO",
+            "FIRMA ELLECTRONICA": "WILLIAM BARRERA ZAMBRANO - 1122143101"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1122143101",
+            "NOMBRES": "WILLIAM BARRERA ZAMBRANO",
+            "FIRMA ELLECTRONICA": "WILLIAM BARRERA ZAMBRANO - 1122143101",
+            "AL PIE DE LA FIRMA": "WILLIAM BARRERA ZAMBRANO - 1122143101"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WILLIAM BARRERA ZAMBRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1122143101",
+            "NOMBRES": "WILLIAM BARRERA ZAMBRANO",
+            "SALARIO": "2.179.361",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1122143101",
+            "NOMBRES": "WILLIAM BARRERA ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.309.814"
+        }
+    }
+]

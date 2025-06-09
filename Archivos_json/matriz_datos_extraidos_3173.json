@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "760301994509",
+            "SOLICITUD": "5576006",
+            "CEDULA": "1561988374",
+            "NOMBRES": "ANDRÉS PUENTES GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "1.225.831",
+            "FIRMA ELLECTRONICA": "ANDRÉS PUENTES GARZÓN - 1561988374"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "760301994509",
+            "NOMBRES": "ANDRÉS PUENTES GARZÓN",
+            "CREDITO": "7.580.371",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "343.751",
+            "FIRMA ELLECTRONICA": "ANDRÉS PUENTES GARZÓN - 1561988374",
+            "AL PIE DE LA FIRMA": "ANDRÉS PUENTES GARZÓN - 1561988374"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1561988374",
+            "NOMBRES": "ANDRÉS PUENTES GARZÓN",
+            "FECHA NACIMIENTO": "29/11/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.580.371",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS PUENTES GARZÓN - 1561988374",
+            "AL PIE DE LA FIRMA": "ANDRÉS PUENTES GARZÓN - 1561988374"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5576006",
+            "CEDULA": "1561988374",
+            "NOMBRES": "ANDRÉS PUENTES GARZÓN",
+            "CREDITO": "7.580.371",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "343.751",
+            "E.A": "21.46%",
+            "RECOMPRA O DESEMBOLSO": "1.225.831",
+            "FIRMA ELLECTRONICA": "ANDRÉS PUENTES GARZÓN - 1561988374"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1561988374",
+            "NOMBRES": "ANDRÉS PUENTES GARZÓN",
+            "FIRMA ELLECTRONICA": "ANDRÉS PUENTES GARZÓN - 1561988374"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1561988374",
+            "NOMBRES": "ANDRÉS PUENTES GARZÓN",
+            "FIRMA ELLECTRONICA": "ANDRÉS PUENTES GARZÓN - 1561988374",
+            "AL PIE DE LA FIRMA": "ANDRÉS PUENTES GARZÓN - 1561988374"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS PUENTES GARZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1561988374",
+            "NOMBRES": "ANDRÉS PUENTES GARZÓN",
+            "SALARIO": "2.521.537",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1561988374",
+            "NOMBRES": "ANDRÉS PUENTES GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "1.225.831"
+        }
+    }
+]

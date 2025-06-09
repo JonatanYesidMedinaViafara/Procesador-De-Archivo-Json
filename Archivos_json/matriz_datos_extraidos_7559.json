@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "510114965030",
+            "SOLICITUD": "4435918",
+            "CEDULA": "1867707326",
+            "NOMBRES": "LUCÍA LÓPEZ ARIZA",
+            "RECOMPRA O DESEMBOLSO": "1.114.194",
+            "FIRMA ELLECTRONICA": "LUCÍA LÓPEZ ARIZA - 1867707326"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "510114965030",
+            "NOMBRES": "LUCÍA LÓPEZ ARIZA",
+            "CREDITO": "15.568.560",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "117.834",
+            "FIRMA ELLECTRONICA": "LUCÍA LÓPEZ ARIZA - 1867707326",
+            "AL PIE DE LA FIRMA": "LUCÍA LÓPEZ ARIZA - 1867707326"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1867707326",
+            "NOMBRES": "LUCÍA LÓPEZ ARIZA",
+            "FECHA NACIMIENTO": "29/09/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.568.560",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUCÍA LÓPEZ ARIZA - 1867707326",
+            "AL PIE DE LA FIRMA": "LUCÍA LÓPEZ ARIZA - 1867707326"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4435918",
+            "CEDULA": "1867707326",
+            "NOMBRES": "LUCÍA LÓPEZ ARIZA",
+            "CREDITO": "15.568.560",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "117.834",
+            "E.A": "25.12%",
+            "RECOMPRA O DESEMBOLSO": "1.114.194",
+            "FIRMA ELLECTRONICA": "LUCÍA LÓPEZ ARIZA - 1867707326"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1867707326",
+            "NOMBRES": "LUCÍA LÓPEZ ARIZA",
+            "FIRMA ELLECTRONICA": "LUCÍA LÓPEZ ARIZA - 1867707326"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1867707326",
+            "NOMBRES": "LUCÍA LÓPEZ ARIZA",
+            "FIRMA ELLECTRONICA": "LUCÍA LÓPEZ ARIZA - 1867707326",
+            "AL PIE DE LA FIRMA": "LUCÍA LÓPEZ ARIZA - 1867707326"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA LÓPEZ ARIZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1867707326",
+            "NOMBRES": "LUCÍA LÓPEZ ARIZA",
+            "SALARIO": "4.237.699",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1867707326",
+            "NOMBRES": "LUCÍA LÓPEZ ARIZA",
+            "RECOMPRA O DESEMBOLSO": "1.114.194"
+        }
+    }
+]

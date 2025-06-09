@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "520192999957",
+            "SOLICITUD": "2238344",
+            "CEDULA": "1063015237",
+            "NOMBRES": "CRISTINA GALVIS",
+            "RECOMPRA O DESEMBOLSO": "1.533.502",
+            "FIRMA ELLECTRONICA": "CRISTINA GALVIS - 1063015237"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "520192999957",
+            "NOMBRES": "CRISTINA GALVIS",
+            "CREDITO": "12.134.816",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "205.8",
+            "FIRMA ELLECTRONICA": "CRISTINA GALVIS - 1063015237",
+            "AL PIE DE LA FIRMA": "CRISTINA GALVIS - 1063015237"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1063015237",
+            "NOMBRES": "CRISTINA GALVIS",
+            "FECHA NACIMIENTO": "28/02/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.134.816",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CRISTINA GALVIS - 1063015237",
+            "AL PIE DE LA FIRMA": "CRISTINA GALVIS - 1063015237"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2238344",
+            "CEDULA": "1063015237",
+            "NOMBRES": "CRISTINA GALVIS",
+            "CREDITO": "12.134.816",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "205.8",
+            "E.A": "18.9%",
+            "RECOMPRA O DESEMBOLSO": "1.533.502",
+            "FIRMA ELLECTRONICA": "CRISTINA GALVIS - 1063015237"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1063015237",
+            "NOMBRES": "CRISTINA GALVIS",
+            "FIRMA ELLECTRONICA": "CRISTINA GALVIS - 1063015237"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1063015237",
+            "NOMBRES": "CRISTINA GALVIS",
+            "FIRMA ELLECTRONICA": "CRISTINA GALVIS - 1063015237",
+            "AL PIE DE LA FIRMA": "CRISTINA GALVIS - 1063015237"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTINA GALVIS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1063015237",
+            "NOMBRES": "CRISTINA GALVIS",
+            "SALARIO": "3.266.899",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1063015237",
+            "NOMBRES": "CRISTINA GALVIS",
+            "RECOMPRA O DESEMBOLSO": "1.533.502"
+        }
+    }
+]

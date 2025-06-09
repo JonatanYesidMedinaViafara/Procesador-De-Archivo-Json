@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "135522761601",
+            "SOLICITUD": "9507200",
+            "CEDULA": "1896544567",
+            "NOMBRES": "MARÍA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "2.308.853",
+            "FIRMA ELLECTRONICA": "MARÍA RUIZ - 1896544567"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "135522761601",
+            "NOMBRES": "MARÍA RUIZ",
+            "CREDITO": "13.672.334",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "197.353",
+            "FIRMA ELLECTRONICA": "MARÍA RUIZ - 1896544567",
+            "AL PIE DE LA FIRMA": "MARÍA RUIZ - 1896544567"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1896544567",
+            "NOMBRES": "MARÍA RUIZ",
+            "FECHA NACIMIENTO": "25/04/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.672.334",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA RUIZ - 1896544567",
+            "AL PIE DE LA FIRMA": "MARÍA RUIZ - 1896544567"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9507200",
+            "CEDULA": "1896544567",
+            "NOMBRES": "MARÍA RUIZ",
+            "CREDITO": "13.672.334",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "197.353",
+            "E.A": "18.04%",
+            "RECOMPRA O DESEMBOLSO": "2.308.853",
+            "FIRMA ELLECTRONICA": "MARÍA RUIZ - 1896544567"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1896544567",
+            "NOMBRES": "MARÍA RUIZ",
+            "FIRMA ELLECTRONICA": "MARÍA RUIZ - 1896544567"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1896544567",
+            "NOMBRES": "MARÍA RUIZ",
+            "FIRMA ELLECTRONICA": "MARÍA RUIZ - 1896544567",
+            "AL PIE DE LA FIRMA": "MARÍA RUIZ - 1896544567"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1896544567",
+            "NOMBRES": "MARÍA RUIZ",
+            "SALARIO": "4.396.643",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1896544567",
+            "NOMBRES": "MARÍA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "2.308.853"
+        }
+    }
+]

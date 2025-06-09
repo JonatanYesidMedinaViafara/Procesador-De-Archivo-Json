@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "645243431140",
+            "SOLICITUD": "2769678",
+            "CEDULA": "1190101571",
+            "NOMBRES": "ANDRÉS JOSÉ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.805.457",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GARCÍA - 1190101571"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "645243431140",
+            "NOMBRES": "ANDRÉS JOSÉ GARCÍA",
+            "CREDITO": "6.609.432",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "183.974",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GARCÍA - 1190101571",
+            "AL PIE DE LA FIRMA": "ANDRÉS JOSÉ GARCÍA - 1190101571"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1190101571",
+            "NOMBRES": "ANDRÉS JOSÉ GARCÍA",
+            "FECHA NACIMIENTO": "17/07/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.609.432",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GARCÍA - 1190101571",
+            "AL PIE DE LA FIRMA": "ANDRÉS JOSÉ GARCÍA - 1190101571"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2769678",
+            "CEDULA": "1190101571",
+            "NOMBRES": "ANDRÉS JOSÉ GARCÍA",
+            "CREDITO": "6.609.432",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "183.974",
+            "E.A": "19.89%",
+            "RECOMPRA O DESEMBOLSO": "2.805.457",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GARCÍA - 1190101571"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1190101571",
+            "NOMBRES": "ANDRÉS JOSÉ GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GARCÍA - 1190101571"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1190101571",
+            "NOMBRES": "ANDRÉS JOSÉ GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GARCÍA - 1190101571",
+            "AL PIE DE LA FIRMA": "ANDRÉS JOSÉ GARCÍA - 1190101571"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS JOSÉ GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1190101571",
+            "NOMBRES": "ANDRÉS JOSÉ GARCÍA",
+            "SALARIO": "2.571.946",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1190101571",
+            "NOMBRES": "ANDRÉS JOSÉ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.805.457"
+        }
+    }
+]

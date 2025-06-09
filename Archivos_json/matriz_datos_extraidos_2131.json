@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "278328709287",
+            "SOLICITUD": "6118423",
+            "CEDULA": "1039582714",
+            "NOMBRES": "ANDRÉS ALBERTO OSPINO",
+            "RECOMPRA O DESEMBOLSO": "4.897.108",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO OSPINO - 1039582714"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "278328709287",
+            "NOMBRES": "ANDRÉS ALBERTO OSPINO",
+            "CREDITO": "8.227.894",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "316.374",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO OSPINO - 1039582714",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALBERTO OSPINO - 1039582714"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1039582714",
+            "NOMBRES": "ANDRÉS ALBERTO OSPINO",
+            "FECHA NACIMIENTO": "20/06/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.227.894",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO OSPINO - 1039582714",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALBERTO OSPINO - 1039582714"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6118423",
+            "CEDULA": "1039582714",
+            "NOMBRES": "ANDRÉS ALBERTO OSPINO",
+            "CREDITO": "8.227.894",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "316.374",
+            "E.A": "21.67%",
+            "RECOMPRA O DESEMBOLSO": "4.897.108",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO OSPINO - 1039582714"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1039582714",
+            "NOMBRES": "ANDRÉS ALBERTO OSPINO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO OSPINO - 1039582714"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1039582714",
+            "NOMBRES": "ANDRÉS ALBERTO OSPINO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO OSPINO - 1039582714",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALBERTO OSPINO - 1039582714"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ALBERTO OSPINO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1039582714",
+            "NOMBRES": "ANDRÉS ALBERTO OSPINO",
+            "SALARIO": "1.824.268",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1039582714",
+            "NOMBRES": "ANDRÉS ALBERTO OSPINO",
+            "RECOMPRA O DESEMBOLSO": "4.897.108"
+        }
+    }
+]

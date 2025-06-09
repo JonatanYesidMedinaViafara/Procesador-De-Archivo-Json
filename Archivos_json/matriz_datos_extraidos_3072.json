@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "634486584902",
+            "SOLICITUD": "5727268",
+            "CEDULA": "1786300128",
+            "NOMBRES": "BETTY TORO",
+            "RECOMPRA O DESEMBOLSO": "4.691.148",
+            "FIRMA ELLECTRONICA": "BETTY TORO - 1786300128"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "634486584902",
+            "NOMBRES": "BETTY TORO",
+            "CREDITO": "11.105.825",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "382.713",
+            "FIRMA ELLECTRONICA": "BETTY TORO - 1786300128",
+            "AL PIE DE LA FIRMA": "BETTY TORO - 1786300128"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1786300128",
+            "NOMBRES": "BETTY TORO",
+            "FECHA NACIMIENTO": "10/03/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.105.825",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "BETTY TORO - 1786300128",
+            "AL PIE DE LA FIRMA": "BETTY TORO - 1786300128"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5727268",
+            "CEDULA": "1786300128",
+            "NOMBRES": "BETTY TORO",
+            "CREDITO": "11.105.825",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "382.713",
+            "E.A": "26.39%",
+            "RECOMPRA O DESEMBOLSO": "4.691.148",
+            "FIRMA ELLECTRONICA": "BETTY TORO - 1786300128"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1786300128",
+            "NOMBRES": "BETTY TORO",
+            "FIRMA ELLECTRONICA": "BETTY TORO - 1786300128"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1786300128",
+            "NOMBRES": "BETTY TORO",
+            "FIRMA ELLECTRONICA": "BETTY TORO - 1786300128",
+            "AL PIE DE LA FIRMA": "BETTY TORO - 1786300128"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BETTY TORO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1786300128",
+            "NOMBRES": "BETTY TORO",
+            "SALARIO": "4.981.388",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1786300128",
+            "NOMBRES": "BETTY TORO",
+            "RECOMPRA O DESEMBOLSO": "4.691.148"
+        }
+    }
+]

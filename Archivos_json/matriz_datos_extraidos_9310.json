@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "396972945284",
+            "SOLICITUD": "4859582",
+            "CEDULA": "1313146073",
+            "NOMBRES": "JOHN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.978.432",
+            "FIRMA ELLECTRONICA": "JOHN GÓMEZ - 1313146073"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "396972945284",
+            "NOMBRES": "JOHN GÓMEZ",
+            "CREDITO": "10.771.006",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "366.527",
+            "FIRMA ELLECTRONICA": "JOHN GÓMEZ - 1313146073",
+            "AL PIE DE LA FIRMA": "JOHN GÓMEZ - 1313146073"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1313146073",
+            "NOMBRES": "JOHN GÓMEZ",
+            "FECHA NACIMIENTO": "08/05/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.771.006",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOHN GÓMEZ - 1313146073",
+            "AL PIE DE LA FIRMA": "JOHN GÓMEZ - 1313146073"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4859582",
+            "CEDULA": "1313146073",
+            "NOMBRES": "JOHN GÓMEZ",
+            "CREDITO": "10.771.006",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "366.527",
+            "E.A": "19.01%",
+            "RECOMPRA O DESEMBOLSO": "3.978.432",
+            "FIRMA ELLECTRONICA": "JOHN GÓMEZ - 1313146073"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1313146073",
+            "NOMBRES": "JOHN GÓMEZ",
+            "FIRMA ELLECTRONICA": "JOHN GÓMEZ - 1313146073"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1313146073",
+            "NOMBRES": "JOHN GÓMEZ",
+            "FIRMA ELLECTRONICA": "JOHN GÓMEZ - 1313146073",
+            "AL PIE DE LA FIRMA": "JOHN GÓMEZ - 1313146073"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1313146073",
+            "NOMBRES": "JOHN GÓMEZ",
+            "SALARIO": "2.434.979",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1313146073",
+            "NOMBRES": "JOHN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.978.432"
+        }
+    }
+]

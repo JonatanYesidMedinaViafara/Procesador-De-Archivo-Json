@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "100945155160",
+            "SOLICITUD": "6181319",
+            "CEDULA": "1948118394",
+            "NOMBRES": "CARLOS FERNÁNDEZ MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.360.922",
+            "FIRMA ELLECTRONICA": "CARLOS FERNÁNDEZ MORALES - 1948118394"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "100945155160",
+            "NOMBRES": "CARLOS FERNÁNDEZ MORALES",
+            "CREDITO": "18.850.426",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "387.955",
+            "FIRMA ELLECTRONICA": "CARLOS FERNÁNDEZ MORALES - 1948118394",
+            "AL PIE DE LA FIRMA": "CARLOS FERNÁNDEZ MORALES - 1948118394"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1948118394",
+            "NOMBRES": "CARLOS FERNÁNDEZ MORALES",
+            "FECHA NACIMIENTO": "30/07/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.850.426",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS FERNÁNDEZ MORALES - 1948118394",
+            "AL PIE DE LA FIRMA": "CARLOS FERNÁNDEZ MORALES - 1948118394"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6181319",
+            "CEDULA": "1948118394",
+            "NOMBRES": "CARLOS FERNÁNDEZ MORALES",
+            "CREDITO": "18.850.426",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "387.955",
+            "E.A": "28.97%",
+            "RECOMPRA O DESEMBOLSO": "2.360.922",
+            "FIRMA ELLECTRONICA": "CARLOS FERNÁNDEZ MORALES - 1948118394"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1948118394",
+            "NOMBRES": "CARLOS FERNÁNDEZ MORALES",
+            "FIRMA ELLECTRONICA": "CARLOS FERNÁNDEZ MORALES - 1948118394"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1948118394",
+            "NOMBRES": "CARLOS FERNÁNDEZ MORALES",
+            "FIRMA ELLECTRONICA": "CARLOS FERNÁNDEZ MORALES - 1948118394",
+            "AL PIE DE LA FIRMA": "CARLOS FERNÁNDEZ MORALES - 1948118394"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS FERNÁNDEZ MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1948118394",
+            "NOMBRES": "CARLOS FERNÁNDEZ MORALES",
+            "SALARIO": "3.836.690",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1948118394",
+            "NOMBRES": "CARLOS FERNÁNDEZ MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.360.922"
+        }
+    }
+]

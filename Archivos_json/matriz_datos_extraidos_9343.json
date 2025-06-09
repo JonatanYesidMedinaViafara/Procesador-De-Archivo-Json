@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "206302596068",
+            "SOLICITUD": "8088719",
+            "CEDULA": "1930211391",
+            "NOMBRES": "PATRICIA ROMERO RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.529.222",
+            "FIRMA ELLECTRONICA": "PATRICIA ROMERO RAMÍREZ - 1930211391"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "206302596068",
+            "NOMBRES": "PATRICIA ROMERO RAMÍREZ",
+            "CREDITO": "9.667.060",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "140.899",
+            "FIRMA ELLECTRONICA": "PATRICIA ROMERO RAMÍREZ - 1930211391",
+            "AL PIE DE LA FIRMA": "PATRICIA ROMERO RAMÍREZ - 1930211391"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1930211391",
+            "NOMBRES": "PATRICIA ROMERO RAMÍREZ",
+            "FECHA NACIMIENTO": "27/10/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.667.060",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PATRICIA ROMERO RAMÍREZ - 1930211391",
+            "AL PIE DE LA FIRMA": "PATRICIA ROMERO RAMÍREZ - 1930211391"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8088719",
+            "CEDULA": "1930211391",
+            "NOMBRES": "PATRICIA ROMERO RAMÍREZ",
+            "CREDITO": "9.667.060",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "140.899",
+            "E.A": "18.82%",
+            "RECOMPRA O DESEMBOLSO": "2.529.222",
+            "FIRMA ELLECTRONICA": "PATRICIA ROMERO RAMÍREZ - 1930211391"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1930211391",
+            "NOMBRES": "PATRICIA ROMERO RAMÍREZ",
+            "FIRMA ELLECTRONICA": "PATRICIA ROMERO RAMÍREZ - 1930211391"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1930211391",
+            "NOMBRES": "PATRICIA ROMERO RAMÍREZ",
+            "FIRMA ELLECTRONICA": "PATRICIA ROMERO RAMÍREZ - 1930211391",
+            "AL PIE DE LA FIRMA": "PATRICIA ROMERO RAMÍREZ - 1930211391"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA ROMERO RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1930211391",
+            "NOMBRES": "PATRICIA ROMERO RAMÍREZ",
+            "SALARIO": "2.330.379",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1930211391",
+            "NOMBRES": "PATRICIA ROMERO RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.529.222"
+        }
+    }
+]

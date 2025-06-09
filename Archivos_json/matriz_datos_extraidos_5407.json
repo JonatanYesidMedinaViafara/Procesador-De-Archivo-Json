@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "631720634317",
+            "SOLICITUD": "6825171",
+            "CEDULA": "1280448915",
+            "NOMBRES": "ORLANDO ARIAS",
+            "RECOMPRA O DESEMBOLSO": "1.077.332",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS - 1280448915"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "631720634317",
+            "NOMBRES": "ORLANDO ARIAS",
+            "CREDITO": "6.567.480",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "225.537",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS - 1280448915",
+            "AL PIE DE LA FIRMA": "ORLANDO ARIAS - 1280448915"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1280448915",
+            "NOMBRES": "ORLANDO ARIAS",
+            "FECHA NACIMIENTO": "11/12/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.567.480",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS - 1280448915",
+            "AL PIE DE LA FIRMA": "ORLANDO ARIAS - 1280448915"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6825171",
+            "CEDULA": "1280448915",
+            "NOMBRES": "ORLANDO ARIAS",
+            "CREDITO": "6.567.480",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "225.537",
+            "E.A": "26.84%",
+            "RECOMPRA O DESEMBOLSO": "1.077.332",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS - 1280448915"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1280448915",
+            "NOMBRES": "ORLANDO ARIAS",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS - 1280448915"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1280448915",
+            "NOMBRES": "ORLANDO ARIAS",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS - 1280448915",
+            "AL PIE DE LA FIRMA": "ORLANDO ARIAS - 1280448915"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ORLANDO ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1280448915",
+            "NOMBRES": "ORLANDO ARIAS",
+            "SALARIO": "2.649.601",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1280448915",
+            "NOMBRES": "ORLANDO ARIAS",
+            "RECOMPRA O DESEMBOLSO": "1.077.332"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "207067307893",
+            "SOLICITUD": "2645201",
+            "CEDULA": "1384865251",
+            "NOMBRES": "KEVIN MONTOYA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.052.226",
+            "FIRMA ELLECTRONICA": "KEVIN MONTOYA ROJAS - 1384865251"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "207067307893",
+            "NOMBRES": "KEVIN MONTOYA ROJAS",
+            "CREDITO": "13.443.099",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "158.593",
+            "FIRMA ELLECTRONICA": "KEVIN MONTOYA ROJAS - 1384865251",
+            "AL PIE DE LA FIRMA": "KEVIN MONTOYA ROJAS - 1384865251"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1384865251",
+            "NOMBRES": "KEVIN MONTOYA ROJAS",
+            "FECHA NACIMIENTO": "04/12/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.443.099",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "KEVIN MONTOYA ROJAS - 1384865251",
+            "AL PIE DE LA FIRMA": "KEVIN MONTOYA ROJAS - 1384865251"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2645201",
+            "CEDULA": "1384865251",
+            "NOMBRES": "KEVIN MONTOYA ROJAS",
+            "CREDITO": "13.443.099",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "158.593",
+            "E.A": "23.92%",
+            "RECOMPRA O DESEMBOLSO": "2.052.226",
+            "FIRMA ELLECTRONICA": "KEVIN MONTOYA ROJAS - 1384865251"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1384865251",
+            "NOMBRES": "KEVIN MONTOYA ROJAS",
+            "FIRMA ELLECTRONICA": "KEVIN MONTOYA ROJAS - 1384865251"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1384865251",
+            "NOMBRES": "KEVIN MONTOYA ROJAS",
+            "FIRMA ELLECTRONICA": "KEVIN MONTOYA ROJAS - 1384865251",
+            "AL PIE DE LA FIRMA": "KEVIN MONTOYA ROJAS - 1384865251"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "KEVIN MONTOYA ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1384865251",
+            "NOMBRES": "KEVIN MONTOYA ROJAS",
+            "SALARIO": "4.150.679",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1384865251",
+            "NOMBRES": "KEVIN MONTOYA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.052.226"
+        }
+    }
+]

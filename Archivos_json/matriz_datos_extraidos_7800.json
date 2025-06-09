@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "246945257787",
+            "SOLICITUD": "8811451",
+            "CEDULA": "1804163137",
+            "NOMBRES": "MARÍA GARCÍA MEDINA",
+            "RECOMPRA O DESEMBOLSO": "4.646.945",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA MEDINA - 1804163137"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "246945257787",
+            "NOMBRES": "MARÍA GARCÍA MEDINA",
+            "CREDITO": "12.375.174",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "223.243",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA MEDINA - 1804163137",
+            "AL PIE DE LA FIRMA": "MARÍA GARCÍA MEDINA - 1804163137"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1804163137",
+            "NOMBRES": "MARÍA GARCÍA MEDINA",
+            "FECHA NACIMIENTO": "02/02/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.375.174",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA MEDINA - 1804163137",
+            "AL PIE DE LA FIRMA": "MARÍA GARCÍA MEDINA - 1804163137"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8811451",
+            "CEDULA": "1804163137",
+            "NOMBRES": "MARÍA GARCÍA MEDINA",
+            "CREDITO": "12.375.174",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "223.243",
+            "E.A": "25.22%",
+            "RECOMPRA O DESEMBOLSO": "4.646.945",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA MEDINA - 1804163137"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1804163137",
+            "NOMBRES": "MARÍA GARCÍA MEDINA",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA MEDINA - 1804163137"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1804163137",
+            "NOMBRES": "MARÍA GARCÍA MEDINA",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA MEDINA - 1804163137",
+            "AL PIE DE LA FIRMA": "MARÍA GARCÍA MEDINA - 1804163137"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA GARCÍA MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1804163137",
+            "NOMBRES": "MARÍA GARCÍA MEDINA",
+            "SALARIO": "3.383.025",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1804163137",
+            "NOMBRES": "MARÍA GARCÍA MEDINA",
+            "RECOMPRA O DESEMBOLSO": "4.646.945"
+        }
+    }
+]

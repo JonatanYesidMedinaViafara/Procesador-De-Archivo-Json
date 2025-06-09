@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "522965051862",
+            "SOLICITUD": "1000217",
+            "CEDULA": "1240516475",
+            "NOMBRES": "ESTHER LUNA",
+            "RECOMPRA O DESEMBOLSO": "4.361.630",
+            "FIRMA ELLECTRONICA": "ESTHER LUNA - 1240516475"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "522965051862",
+            "NOMBRES": "ESTHER LUNA",
+            "CREDITO": "9.671.219",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "291.161",
+            "FIRMA ELLECTRONICA": "ESTHER LUNA - 1240516475",
+            "AL PIE DE LA FIRMA": "ESTHER LUNA - 1240516475"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1240516475",
+            "NOMBRES": "ESTHER LUNA",
+            "FECHA NACIMIENTO": "24/10/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.671.219",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ESTHER LUNA - 1240516475",
+            "AL PIE DE LA FIRMA": "ESTHER LUNA - 1240516475"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1000217",
+            "CEDULA": "1240516475",
+            "NOMBRES": "ESTHER LUNA",
+            "CREDITO": "9.671.219",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "291.161",
+            "E.A": "27.66%",
+            "RECOMPRA O DESEMBOLSO": "4.361.630",
+            "FIRMA ELLECTRONICA": "ESTHER LUNA - 1240516475"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1240516475",
+            "NOMBRES": "ESTHER LUNA",
+            "FIRMA ELLECTRONICA": "ESTHER LUNA - 1240516475"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1240516475",
+            "NOMBRES": "ESTHER LUNA",
+            "FIRMA ELLECTRONICA": "ESTHER LUNA - 1240516475",
+            "AL PIE DE LA FIRMA": "ESTHER LUNA - 1240516475"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTHER LUNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1240516475",
+            "NOMBRES": "ESTHER LUNA",
+            "SALARIO": "3.012.415",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1240516475",
+            "NOMBRES": "ESTHER LUNA",
+            "RECOMPRA O DESEMBOLSO": "4.361.630"
+        }
+    }
+]

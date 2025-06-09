@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "110385540573",
+            "SOLICITUD": "2547375",
+            "CEDULA": "1517834631",
+            "NOMBRES": "DIANA RITA VILLAMIZAR",
+            "RECOMPRA O DESEMBOLSO": "1.919.000",
+            "FIRMA ELLECTRONICA": "DIANA RITA VILLAMIZAR - 1517834631"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "110385540573",
+            "NOMBRES": "DIANA RITA VILLAMIZAR",
+            "CREDITO": "16.446.352",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "353.875",
+            "FIRMA ELLECTRONICA": "DIANA RITA VILLAMIZAR - 1517834631",
+            "AL PIE DE LA FIRMA": "DIANA RITA VILLAMIZAR - 1517834631"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1517834631",
+            "NOMBRES": "DIANA RITA VILLAMIZAR",
+            "FECHA NACIMIENTO": "05/10/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.446.352",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DIANA RITA VILLAMIZAR - 1517834631",
+            "AL PIE DE LA FIRMA": "DIANA RITA VILLAMIZAR - 1517834631"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2547375",
+            "CEDULA": "1517834631",
+            "NOMBRES": "DIANA RITA VILLAMIZAR",
+            "CREDITO": "16.446.352",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "353.875",
+            "E.A": "23.7%",
+            "RECOMPRA O DESEMBOLSO": "1.919.000",
+            "FIRMA ELLECTRONICA": "DIANA RITA VILLAMIZAR - 1517834631"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1517834631",
+            "NOMBRES": "DIANA RITA VILLAMIZAR",
+            "FIRMA ELLECTRONICA": "DIANA RITA VILLAMIZAR - 1517834631"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1517834631",
+            "NOMBRES": "DIANA RITA VILLAMIZAR",
+            "FIRMA ELLECTRONICA": "DIANA RITA VILLAMIZAR - 1517834631",
+            "AL PIE DE LA FIRMA": "DIANA RITA VILLAMIZAR - 1517834631"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA RITA VILLAMIZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1517834631",
+            "NOMBRES": "DIANA RITA VILLAMIZAR",
+            "SALARIO": "4.098.394",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1517834631",
+            "NOMBRES": "DIANA RITA VILLAMIZAR",
+            "RECOMPRA O DESEMBOLSO": "1.919.000"
+        }
+    }
+]

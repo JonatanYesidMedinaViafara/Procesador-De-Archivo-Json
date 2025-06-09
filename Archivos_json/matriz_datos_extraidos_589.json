@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "753813768213",
+            "SOLICITUD": "1113245",
+            "CEDULA": "1982913361",
+            "NOMBRES": "EDUARDO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.210.084",
+            "FIRMA ELLECTRONICA": "EDUARDO MARTÍNEZ - 1982913361"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "753813768213",
+            "NOMBRES": "EDUARDO MARTÍNEZ",
+            "CREDITO": "10.969.057",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "202.016",
+            "FIRMA ELLECTRONICA": "EDUARDO MARTÍNEZ - 1982913361",
+            "AL PIE DE LA FIRMA": "EDUARDO MARTÍNEZ - 1982913361"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1982913361",
+            "NOMBRES": "EDUARDO MARTÍNEZ",
+            "FECHA NACIMIENTO": "12/12/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.969.057",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDUARDO MARTÍNEZ - 1982913361",
+            "AL PIE DE LA FIRMA": "EDUARDO MARTÍNEZ - 1982913361"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1113245",
+            "CEDULA": "1982913361",
+            "NOMBRES": "EDUARDO MARTÍNEZ",
+            "CREDITO": "10.969.057",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "202.016",
+            "E.A": "24.54%",
+            "RECOMPRA O DESEMBOLSO": "1.210.084",
+            "FIRMA ELLECTRONICA": "EDUARDO MARTÍNEZ - 1982913361"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1982913361",
+            "NOMBRES": "EDUARDO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "EDUARDO MARTÍNEZ - 1982913361"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1982913361",
+            "NOMBRES": "EDUARDO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "EDUARDO MARTÍNEZ - 1982913361",
+            "AL PIE DE LA FIRMA": "EDUARDO MARTÍNEZ - 1982913361"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1982913361",
+            "NOMBRES": "EDUARDO MARTÍNEZ",
+            "SALARIO": "1.203.369",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1982913361",
+            "NOMBRES": "EDUARDO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.210.084"
+        }
+    }
+]

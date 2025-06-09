@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "364732364294",
+            "SOLICITUD": "5038236",
+            "CEDULA": "1783634887",
+            "NOMBRES": "AMPARO PRADA MENA",
+            "RECOMPRA O DESEMBOLSO": "4.671.016",
+            "FIRMA ELLECTRONICA": "AMPARO PRADA MENA - 1783634887"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "364732364294",
+            "NOMBRES": "AMPARO PRADA MENA",
+            "CREDITO": "16.999.633",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.899",
+            "FIRMA ELLECTRONICA": "AMPARO PRADA MENA - 1783634887",
+            "AL PIE DE LA FIRMA": "AMPARO PRADA MENA - 1783634887"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1783634887",
+            "NOMBRES": "AMPARO PRADA MENA",
+            "FECHA NACIMIENTO": "05/09/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.999.633",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "AMPARO PRADA MENA - 1783634887",
+            "AL PIE DE LA FIRMA": "AMPARO PRADA MENA - 1783634887"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5038236",
+            "CEDULA": "1783634887",
+            "NOMBRES": "AMPARO PRADA MENA",
+            "CREDITO": "16.999.633",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.899",
+            "E.A": "28.36%",
+            "RECOMPRA O DESEMBOLSO": "4.671.016",
+            "FIRMA ELLECTRONICA": "AMPARO PRADA MENA - 1783634887"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1783634887",
+            "NOMBRES": "AMPARO PRADA MENA",
+            "FIRMA ELLECTRONICA": "AMPARO PRADA MENA - 1783634887"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1783634887",
+            "NOMBRES": "AMPARO PRADA MENA",
+            "FIRMA ELLECTRONICA": "AMPARO PRADA MENA - 1783634887",
+            "AL PIE DE LA FIRMA": "AMPARO PRADA MENA - 1783634887"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AMPARO PRADA MENA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1783634887",
+            "NOMBRES": "AMPARO PRADA MENA",
+            "SALARIO": "2.133.170",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1783634887",
+            "NOMBRES": "AMPARO PRADA MENA",
+            "RECOMPRA O DESEMBOLSO": "4.671.016"
+        }
+    }
+]

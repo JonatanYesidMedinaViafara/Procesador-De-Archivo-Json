@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "898113728107",
+            "SOLICITUD": "6078156",
+            "CEDULA": "1831592488",
+            "NOMBRES": "JAIRO CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "4.439.053",
+            "FIRMA ELLECTRONICA": "JAIRO CÓRDOBA - 1831592488"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "898113728107",
+            "NOMBRES": "JAIRO CÓRDOBA",
+            "CREDITO": "9.293.279",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "368.587",
+            "FIRMA ELLECTRONICA": "JAIRO CÓRDOBA - 1831592488",
+            "AL PIE DE LA FIRMA": "JAIRO CÓRDOBA - 1831592488"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1831592488",
+            "NOMBRES": "JAIRO CÓRDOBA",
+            "FECHA NACIMIENTO": "11/07/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.293.279",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAIRO CÓRDOBA - 1831592488",
+            "AL PIE DE LA FIRMA": "JAIRO CÓRDOBA - 1831592488"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6078156",
+            "CEDULA": "1831592488",
+            "NOMBRES": "JAIRO CÓRDOBA",
+            "CREDITO": "9.293.279",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "368.587",
+            "E.A": "27.35%",
+            "RECOMPRA O DESEMBOLSO": "4.439.053",
+            "FIRMA ELLECTRONICA": "JAIRO CÓRDOBA - 1831592488"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1831592488",
+            "NOMBRES": "JAIRO CÓRDOBA",
+            "FIRMA ELLECTRONICA": "JAIRO CÓRDOBA - 1831592488"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1831592488",
+            "NOMBRES": "JAIRO CÓRDOBA",
+            "FIRMA ELLECTRONICA": "JAIRO CÓRDOBA - 1831592488",
+            "AL PIE DE LA FIRMA": "JAIRO CÓRDOBA - 1831592488"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIRO CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1831592488",
+            "NOMBRES": "JAIRO CÓRDOBA",
+            "SALARIO": "1.153.871",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1831592488",
+            "NOMBRES": "JAIRO CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "4.439.053"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "281122482115",
+            "SOLICITUD": "4286776",
+            "CEDULA": "1313967301",
+            "NOMBRES": "FRANCISCO CHAPARRO",
+            "RECOMPRA O DESEMBOLSO": "3.989.021",
+            "FIRMA ELLECTRONICA": "FRANCISCO CHAPARRO - 1313967301"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "281122482115",
+            "NOMBRES": "FRANCISCO CHAPARRO",
+            "CREDITO": "15.706.687",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "202.132",
+            "FIRMA ELLECTRONICA": "FRANCISCO CHAPARRO - 1313967301",
+            "AL PIE DE LA FIRMA": "FRANCISCO CHAPARRO - 1313967301"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1313967301",
+            "NOMBRES": "FRANCISCO CHAPARRO",
+            "FECHA NACIMIENTO": "04/06/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.706.687",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FRANCISCO CHAPARRO - 1313967301",
+            "AL PIE DE LA FIRMA": "FRANCISCO CHAPARRO - 1313967301"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4286776",
+            "CEDULA": "1313967301",
+            "NOMBRES": "FRANCISCO CHAPARRO",
+            "CREDITO": "15.706.687",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "202.132",
+            "E.A": "19.82%",
+            "RECOMPRA O DESEMBOLSO": "3.989.021",
+            "FIRMA ELLECTRONICA": "FRANCISCO CHAPARRO - 1313967301"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1313967301",
+            "NOMBRES": "FRANCISCO CHAPARRO",
+            "FIRMA ELLECTRONICA": "FRANCISCO CHAPARRO - 1313967301"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1313967301",
+            "NOMBRES": "FRANCISCO CHAPARRO",
+            "FIRMA ELLECTRONICA": "FRANCISCO CHAPARRO - 1313967301",
+            "AL PIE DE LA FIRMA": "FRANCISCO CHAPARRO - 1313967301"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO CHAPARRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1313967301",
+            "NOMBRES": "FRANCISCO CHAPARRO",
+            "SALARIO": "4.023.055",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1313967301",
+            "NOMBRES": "FRANCISCO CHAPARRO",
+            "RECOMPRA O DESEMBOLSO": "3.989.021"
+        }
+    }
+]

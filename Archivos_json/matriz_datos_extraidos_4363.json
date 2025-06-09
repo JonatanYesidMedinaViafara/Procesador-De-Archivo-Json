@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "262592809899",
+            "SOLICITUD": "3257483",
+            "CEDULA": "1340377926",
+            "NOMBRES": "ANTONIO CARLOS MORALES",
+            "RECOMPRA O DESEMBOLSO": "3.980.166",
+            "FIRMA ELLECTRONICA": "ANTONIO CARLOS MORALES - 1340377926"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "262592809899",
+            "NOMBRES": "ANTONIO CARLOS MORALES",
+            "CREDITO": "13.000.182",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "331.872",
+            "FIRMA ELLECTRONICA": "ANTONIO CARLOS MORALES - 1340377926",
+            "AL PIE DE LA FIRMA": "ANTONIO CARLOS MORALES - 1340377926"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1340377926",
+            "NOMBRES": "ANTONIO CARLOS MORALES",
+            "FECHA NACIMIENTO": "02/02/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.000.182",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANTONIO CARLOS MORALES - 1340377926",
+            "AL PIE DE LA FIRMA": "ANTONIO CARLOS MORALES - 1340377926"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3257483",
+            "CEDULA": "1340377926",
+            "NOMBRES": "ANTONIO CARLOS MORALES",
+            "CREDITO": "13.000.182",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "331.872",
+            "E.A": "22.02%",
+            "RECOMPRA O DESEMBOLSO": "3.980.166",
+            "FIRMA ELLECTRONICA": "ANTONIO CARLOS MORALES - 1340377926"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1340377926",
+            "NOMBRES": "ANTONIO CARLOS MORALES",
+            "FIRMA ELLECTRONICA": "ANTONIO CARLOS MORALES - 1340377926"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1340377926",
+            "NOMBRES": "ANTONIO CARLOS MORALES",
+            "FIRMA ELLECTRONICA": "ANTONIO CARLOS MORALES - 1340377926",
+            "AL PIE DE LA FIRMA": "ANTONIO CARLOS MORALES - 1340377926"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO CARLOS MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1340377926",
+            "NOMBRES": "ANTONIO CARLOS MORALES",
+            "SALARIO": "4.229.078",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1340377926",
+            "NOMBRES": "ANTONIO CARLOS MORALES",
+            "RECOMPRA O DESEMBOLSO": "3.980.166"
+        }
+    }
+]

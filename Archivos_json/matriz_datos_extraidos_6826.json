@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "574051476257",
+            "SOLICITUD": "2119087",
+            "CEDULA": "1093807517",
+            "NOMBRES": "DAVID MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.109.599",
+            "FIRMA ELLECTRONICA": "DAVID MOSQUERA - 1093807517"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "574051476257",
+            "NOMBRES": "DAVID MOSQUERA",
+            "CREDITO": "13.163.856",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "187.188",
+            "FIRMA ELLECTRONICA": "DAVID MOSQUERA - 1093807517",
+            "AL PIE DE LA FIRMA": "DAVID MOSQUERA - 1093807517"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1093807517",
+            "NOMBRES": "DAVID MOSQUERA",
+            "FECHA NACIMIENTO": "02/08/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.163.856",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DAVID MOSQUERA - 1093807517",
+            "AL PIE DE LA FIRMA": "DAVID MOSQUERA - 1093807517"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2119087",
+            "CEDULA": "1093807517",
+            "NOMBRES": "DAVID MOSQUERA",
+            "CREDITO": "13.163.856",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "187.188",
+            "E.A": "23.5%",
+            "RECOMPRA O DESEMBOLSO": "1.109.599",
+            "FIRMA ELLECTRONICA": "DAVID MOSQUERA - 1093807517"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1093807517",
+            "NOMBRES": "DAVID MOSQUERA",
+            "FIRMA ELLECTRONICA": "DAVID MOSQUERA - 1093807517"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1093807517",
+            "NOMBRES": "DAVID MOSQUERA",
+            "FIRMA ELLECTRONICA": "DAVID MOSQUERA - 1093807517",
+            "AL PIE DE LA FIRMA": "DAVID MOSQUERA - 1093807517"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1093807517",
+            "NOMBRES": "DAVID MOSQUERA",
+            "SALARIO": "3.566.335",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1093807517",
+            "NOMBRES": "DAVID MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.109.599"
+        }
+    }
+]

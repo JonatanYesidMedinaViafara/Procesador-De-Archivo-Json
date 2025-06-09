@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "731816947680",
+            "SOLICITUD": "1958021",
+            "CEDULA": "1467086437",
+            "NOMBRES": "LUIS MURILLO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.256.514",
+            "FIRMA ELLECTRONICA": "LUIS MURILLO VARGAS - 1467086437"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "731816947680",
+            "NOMBRES": "LUIS MURILLO VARGAS",
+            "CREDITO": "18.463.067",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "215.517",
+            "FIRMA ELLECTRONICA": "LUIS MURILLO VARGAS - 1467086437",
+            "AL PIE DE LA FIRMA": "LUIS MURILLO VARGAS - 1467086437"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1467086437",
+            "NOMBRES": "LUIS MURILLO VARGAS",
+            "FECHA NACIMIENTO": "07/05/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.463.067",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS MURILLO VARGAS - 1467086437",
+            "AL PIE DE LA FIRMA": "LUIS MURILLO VARGAS - 1467086437"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1958021",
+            "CEDULA": "1467086437",
+            "NOMBRES": "LUIS MURILLO VARGAS",
+            "CREDITO": "18.463.067",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "215.517",
+            "E.A": "22.22%",
+            "RECOMPRA O DESEMBOLSO": "3.256.514",
+            "FIRMA ELLECTRONICA": "LUIS MURILLO VARGAS - 1467086437"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1467086437",
+            "NOMBRES": "LUIS MURILLO VARGAS",
+            "FIRMA ELLECTRONICA": "LUIS MURILLO VARGAS - 1467086437"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1467086437",
+            "NOMBRES": "LUIS MURILLO VARGAS",
+            "FIRMA ELLECTRONICA": "LUIS MURILLO VARGAS - 1467086437",
+            "AL PIE DE LA FIRMA": "LUIS MURILLO VARGAS - 1467086437"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MURILLO VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1467086437",
+            "NOMBRES": "LUIS MURILLO VARGAS",
+            "SALARIO": "2.707.132",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1467086437",
+            "NOMBRES": "LUIS MURILLO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.256.514"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "428952135068",
+            "SOLICITUD": "3567568",
+            "CEDULA": "1278697657",
+            "NOMBRES": "MERY MARÍA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.586.755",
+            "FIRMA ELLECTRONICA": "MERY MARÍA SÁNCHEZ - 1278697657"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "428952135068",
+            "NOMBRES": "MERY MARÍA SÁNCHEZ",
+            "CREDITO": "16.751.593",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "264.581",
+            "FIRMA ELLECTRONICA": "MERY MARÍA SÁNCHEZ - 1278697657",
+            "AL PIE DE LA FIRMA": "MERY MARÍA SÁNCHEZ - 1278697657"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1278697657",
+            "NOMBRES": "MERY MARÍA SÁNCHEZ",
+            "FECHA NACIMIENTO": "13/10/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.751.593",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MERY MARÍA SÁNCHEZ - 1278697657",
+            "AL PIE DE LA FIRMA": "MERY MARÍA SÁNCHEZ - 1278697657"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3567568",
+            "CEDULA": "1278697657",
+            "NOMBRES": "MERY MARÍA SÁNCHEZ",
+            "CREDITO": "16.751.593",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "264.581",
+            "E.A": "23.0%",
+            "RECOMPRA O DESEMBOLSO": "2.586.755",
+            "FIRMA ELLECTRONICA": "MERY MARÍA SÁNCHEZ - 1278697657"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1278697657",
+            "NOMBRES": "MERY MARÍA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "MERY MARÍA SÁNCHEZ - 1278697657"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1278697657",
+            "NOMBRES": "MERY MARÍA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "MERY MARÍA SÁNCHEZ - 1278697657",
+            "AL PIE DE LA FIRMA": "MERY MARÍA SÁNCHEZ - 1278697657"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MERY MARÍA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1278697657",
+            "NOMBRES": "MERY MARÍA SÁNCHEZ",
+            "SALARIO": "4.193.460",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1278697657",
+            "NOMBRES": "MERY MARÍA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.586.755"
+        }
+    }
+]

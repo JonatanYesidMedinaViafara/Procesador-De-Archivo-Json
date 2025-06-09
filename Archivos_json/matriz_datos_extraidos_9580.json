@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "689257070190",
+            "SOLICITUD": "3327258",
+            "CEDULA": "1803924684",
+            "NOMBRES": "ROSARIO ACEVEDO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.514.639",
+            "FIRMA ELLECTRONICA": "ROSARIO ACEVEDO DÍAZ - 1803924684"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "689257070190",
+            "NOMBRES": "ROSARIO ACEVEDO DÍAZ",
+            "CREDITO": "8.520.434",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "250.036",
+            "FIRMA ELLECTRONICA": "ROSARIO ACEVEDO DÍAZ - 1803924684",
+            "AL PIE DE LA FIRMA": "ROSARIO ACEVEDO DÍAZ - 1803924684"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1803924684",
+            "NOMBRES": "ROSARIO ACEVEDO DÍAZ",
+            "FECHA NACIMIENTO": "31/01/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.520.434",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ROSARIO ACEVEDO DÍAZ - 1803924684",
+            "AL PIE DE LA FIRMA": "ROSARIO ACEVEDO DÍAZ - 1803924684"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3327258",
+            "CEDULA": "1803924684",
+            "NOMBRES": "ROSARIO ACEVEDO DÍAZ",
+            "CREDITO": "8.520.434",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "250.036",
+            "E.A": "19.08%",
+            "RECOMPRA O DESEMBOLSO": "4.514.639",
+            "FIRMA ELLECTRONICA": "ROSARIO ACEVEDO DÍAZ - 1803924684"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1803924684",
+            "NOMBRES": "ROSARIO ACEVEDO DÍAZ",
+            "FIRMA ELLECTRONICA": "ROSARIO ACEVEDO DÍAZ - 1803924684"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1803924684",
+            "NOMBRES": "ROSARIO ACEVEDO DÍAZ",
+            "FIRMA ELLECTRONICA": "ROSARIO ACEVEDO DÍAZ - 1803924684",
+            "AL PIE DE LA FIRMA": "ROSARIO ACEVEDO DÍAZ - 1803924684"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSARIO ACEVEDO DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1803924684",
+            "NOMBRES": "ROSARIO ACEVEDO DÍAZ",
+            "SALARIO": "2.478.929",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1803924684",
+            "NOMBRES": "ROSARIO ACEVEDO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.514.639"
+        }
+    }
+]

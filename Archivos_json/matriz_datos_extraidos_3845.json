@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "546313890462",
+            "SOLICITUD": "2825670",
+            "CEDULA": "1058912762",
+            "NOMBRES": "EDUARDO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.179.367",
+            "FIRMA ELLECTRONICA": "EDUARDO VARGAS - 1058912762"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "546313890462",
+            "NOMBRES": "EDUARDO VARGAS",
+            "CREDITO": "8.075.092",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "136.206",
+            "FIRMA ELLECTRONICA": "EDUARDO VARGAS - 1058912762",
+            "AL PIE DE LA FIRMA": "EDUARDO VARGAS - 1058912762"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1058912762",
+            "NOMBRES": "EDUARDO VARGAS",
+            "FECHA NACIMIENTO": "12/11/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.075.092",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "EDUARDO VARGAS - 1058912762",
+            "AL PIE DE LA FIRMA": "EDUARDO VARGAS - 1058912762"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2825670",
+            "CEDULA": "1058912762",
+            "NOMBRES": "EDUARDO VARGAS",
+            "CREDITO": "8.075.092",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "136.206",
+            "E.A": "28.13%",
+            "RECOMPRA O DESEMBOLSO": "4.179.367",
+            "FIRMA ELLECTRONICA": "EDUARDO VARGAS - 1058912762"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1058912762",
+            "NOMBRES": "EDUARDO VARGAS",
+            "FIRMA ELLECTRONICA": "EDUARDO VARGAS - 1058912762"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1058912762",
+            "NOMBRES": "EDUARDO VARGAS",
+            "FIRMA ELLECTRONICA": "EDUARDO VARGAS - 1058912762",
+            "AL PIE DE LA FIRMA": "EDUARDO VARGAS - 1058912762"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1058912762",
+            "NOMBRES": "EDUARDO VARGAS",
+            "SALARIO": "1.783.034",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1058912762",
+            "NOMBRES": "EDUARDO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.179.367"
+        }
+    }
+]

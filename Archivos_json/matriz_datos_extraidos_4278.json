@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "883913586800",
+            "SOLICITUD": "3342151",
+            "CEDULA": "1059766131",
+            "NOMBRES": "PEDRO BURGOS",
+            "RECOMPRA O DESEMBOLSO": "1.191.462",
+            "FIRMA ELLECTRONICA": "PEDRO BURGOS - 1059766131"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "883913586800",
+            "NOMBRES": "PEDRO BURGOS",
+            "CREDITO": "11.337.868",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "323.021",
+            "FIRMA ELLECTRONICA": "PEDRO BURGOS - 1059766131",
+            "AL PIE DE LA FIRMA": "PEDRO BURGOS - 1059766131"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1059766131",
+            "NOMBRES": "PEDRO BURGOS",
+            "FECHA NACIMIENTO": "24/03/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.337.868",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PEDRO BURGOS - 1059766131",
+            "AL PIE DE LA FIRMA": "PEDRO BURGOS - 1059766131"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3342151",
+            "CEDULA": "1059766131",
+            "NOMBRES": "PEDRO BURGOS",
+            "CREDITO": "11.337.868",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "323.021",
+            "E.A": "25.24%",
+            "RECOMPRA O DESEMBOLSO": "1.191.462",
+            "FIRMA ELLECTRONICA": "PEDRO BURGOS - 1059766131"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1059766131",
+            "NOMBRES": "PEDRO BURGOS",
+            "FIRMA ELLECTRONICA": "PEDRO BURGOS - 1059766131"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1059766131",
+            "NOMBRES": "PEDRO BURGOS",
+            "FIRMA ELLECTRONICA": "PEDRO BURGOS - 1059766131",
+            "AL PIE DE LA FIRMA": "PEDRO BURGOS - 1059766131"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PEDRO BURGOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1059766131",
+            "NOMBRES": "PEDRO BURGOS",
+            "SALARIO": "4.527.347",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1059766131",
+            "NOMBRES": "PEDRO BURGOS",
+            "RECOMPRA O DESEMBOLSO": "1.191.462"
+        }
+    }
+]

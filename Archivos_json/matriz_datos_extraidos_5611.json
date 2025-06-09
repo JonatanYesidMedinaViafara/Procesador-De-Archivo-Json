@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "340247886857",
+            "SOLICITUD": "9676904",
+            "CEDULA": "1872185790",
+            "NOMBRES": "JOHN YEPES GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.863.217",
+            "FIRMA ELLECTRONICA": "JOHN YEPES GARCÍA - 1872185790"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "340247886857",
+            "NOMBRES": "JOHN YEPES GARCÍA",
+            "CREDITO": "12.923.837",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "109.618",
+            "FIRMA ELLECTRONICA": "JOHN YEPES GARCÍA - 1872185790",
+            "AL PIE DE LA FIRMA": "JOHN YEPES GARCÍA - 1872185790"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1872185790",
+            "NOMBRES": "JOHN YEPES GARCÍA",
+            "FECHA NACIMIENTO": "17/05/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.923.837",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOHN YEPES GARCÍA - 1872185790",
+            "AL PIE DE LA FIRMA": "JOHN YEPES GARCÍA - 1872185790"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9676904",
+            "CEDULA": "1872185790",
+            "NOMBRES": "JOHN YEPES GARCÍA",
+            "CREDITO": "12.923.837",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "109.618",
+            "E.A": "24.68%",
+            "RECOMPRA O DESEMBOLSO": "1.863.217",
+            "FIRMA ELLECTRONICA": "JOHN YEPES GARCÍA - 1872185790"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1872185790",
+            "NOMBRES": "JOHN YEPES GARCÍA",
+            "FIRMA ELLECTRONICA": "JOHN YEPES GARCÍA - 1872185790"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1872185790",
+            "NOMBRES": "JOHN YEPES GARCÍA",
+            "FIRMA ELLECTRONICA": "JOHN YEPES GARCÍA - 1872185790",
+            "AL PIE DE LA FIRMA": "JOHN YEPES GARCÍA - 1872185790"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN YEPES GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1872185790",
+            "NOMBRES": "JOHN YEPES GARCÍA",
+            "SALARIO": "1.953.677",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1872185790",
+            "NOMBRES": "JOHN YEPES GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.863.217"
+        }
+    }
+]

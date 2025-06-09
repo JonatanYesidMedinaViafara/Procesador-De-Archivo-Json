@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "212637608477",
+            "SOLICITUD": "1007057",
+            "CEDULA": "1399919843",
+            "NOMBRES": "MILTON JUAN MORA",
+            "RECOMPRA O DESEMBOLSO": "4.010.951",
+            "FIRMA ELLECTRONICA": "MILTON JUAN MORA - 1399919843"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "212637608477",
+            "NOMBRES": "MILTON JUAN MORA",
+            "CREDITO": "17.043.532",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "155.51",
+            "FIRMA ELLECTRONICA": "MILTON JUAN MORA - 1399919843",
+            "AL PIE DE LA FIRMA": "MILTON JUAN MORA - 1399919843"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1399919843",
+            "NOMBRES": "MILTON JUAN MORA",
+            "FECHA NACIMIENTO": "06/01/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.043.532",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MILTON JUAN MORA - 1399919843",
+            "AL PIE DE LA FIRMA": "MILTON JUAN MORA - 1399919843"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1007057",
+            "CEDULA": "1399919843",
+            "NOMBRES": "MILTON JUAN MORA",
+            "CREDITO": "17.043.532",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "155.51",
+            "E.A": "19.6%",
+            "RECOMPRA O DESEMBOLSO": "4.010.951",
+            "FIRMA ELLECTRONICA": "MILTON JUAN MORA - 1399919843"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1399919843",
+            "NOMBRES": "MILTON JUAN MORA",
+            "FIRMA ELLECTRONICA": "MILTON JUAN MORA - 1399919843"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1399919843",
+            "NOMBRES": "MILTON JUAN MORA",
+            "FIRMA ELLECTRONICA": "MILTON JUAN MORA - 1399919843",
+            "AL PIE DE LA FIRMA": "MILTON JUAN MORA - 1399919843"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILTON JUAN MORA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1399919843",
+            "NOMBRES": "MILTON JUAN MORA",
+            "SALARIO": "2.346.600",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1399919843",
+            "NOMBRES": "MILTON JUAN MORA",
+            "RECOMPRA O DESEMBOLSO": "4.010.951"
+        }
+    }
+]

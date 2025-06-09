@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "540066578158",
+            "SOLICITUD": "6392468",
+            "CEDULA": "1012251944",
+            "NOMBRES": "PATRICIA SOLANO",
+            "RECOMPRA O DESEMBOLSO": "3.404.879",
+            "FIRMA ELLECTRONICA": "PATRICIA SOLANO - 1012251944"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "540066578158",
+            "NOMBRES": "PATRICIA SOLANO",
+            "CREDITO": "10.481.561",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "311.601",
+            "FIRMA ELLECTRONICA": "PATRICIA SOLANO - 1012251944",
+            "AL PIE DE LA FIRMA": "PATRICIA SOLANO - 1012251944"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1012251944",
+            "NOMBRES": "PATRICIA SOLANO",
+            "FECHA NACIMIENTO": "20/08/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.481.561",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PATRICIA SOLANO - 1012251944",
+            "AL PIE DE LA FIRMA": "PATRICIA SOLANO - 1012251944"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6392468",
+            "CEDULA": "1012251944",
+            "NOMBRES": "PATRICIA SOLANO",
+            "CREDITO": "10.481.561",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "311.601",
+            "E.A": "24.21%",
+            "RECOMPRA O DESEMBOLSO": "3.404.879",
+            "FIRMA ELLECTRONICA": "PATRICIA SOLANO - 1012251944"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1012251944",
+            "NOMBRES": "PATRICIA SOLANO",
+            "FIRMA ELLECTRONICA": "PATRICIA SOLANO - 1012251944"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1012251944",
+            "NOMBRES": "PATRICIA SOLANO",
+            "FIRMA ELLECTRONICA": "PATRICIA SOLANO - 1012251944",
+            "AL PIE DE LA FIRMA": "PATRICIA SOLANO - 1012251944"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA SOLANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1012251944",
+            "NOMBRES": "PATRICIA SOLANO",
+            "SALARIO": "4.443.995",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1012251944",
+            "NOMBRES": "PATRICIA SOLANO",
+            "RECOMPRA O DESEMBOLSO": "3.404.879"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "392190832003",
+            "SOLICITUD": "7929260",
+            "CEDULA": "1449264472",
+            "NOMBRES": "ASTRID TORRES",
+            "RECOMPRA O DESEMBOLSO": "3.924.483",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1449264472"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "392190832003",
+            "NOMBRES": "ASTRID TORRES",
+            "CREDITO": "12.429.147",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "367.768",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1449264472",
+            "AL PIE DE LA FIRMA": "ASTRID TORRES - 1449264472"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1449264472",
+            "NOMBRES": "ASTRID TORRES",
+            "FECHA NACIMIENTO": "09/11/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.429.147",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1449264472",
+            "AL PIE DE LA FIRMA": "ASTRID TORRES - 1449264472"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7929260",
+            "CEDULA": "1449264472",
+            "NOMBRES": "ASTRID TORRES",
+            "CREDITO": "12.429.147",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "367.768",
+            "E.A": "23.57%",
+            "RECOMPRA O DESEMBOLSO": "3.924.483",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1449264472"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1449264472",
+            "NOMBRES": "ASTRID TORRES",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1449264472"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1449264472",
+            "NOMBRES": "ASTRID TORRES",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1449264472",
+            "AL PIE DE LA FIRMA": "ASTRID TORRES - 1449264472"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ASTRID TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1449264472",
+            "NOMBRES": "ASTRID TORRES",
+            "SALARIO": "1.346.589",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1449264472",
+            "NOMBRES": "ASTRID TORRES",
+            "RECOMPRA O DESEMBOLSO": "3.924.483"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "281161860725",
+            "SOLICITUD": "5802295",
+            "CEDULA": "1124932806",
+            "NOMBRES": "ELIANA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.497.333",
+            "FIRMA ELLECTRONICA": "ELIANA GARCÍA - 1124932806"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "281161860725",
+            "NOMBRES": "ELIANA GARCÍA",
+            "CREDITO": "16.034.951",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "298.058",
+            "FIRMA ELLECTRONICA": "ELIANA GARCÍA - 1124932806",
+            "AL PIE DE LA FIRMA": "ELIANA GARCÍA - 1124932806"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1124932806",
+            "NOMBRES": "ELIANA GARCÍA",
+            "FECHA NACIMIENTO": "31/01/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.034.951",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ELIANA GARCÍA - 1124932806",
+            "AL PIE DE LA FIRMA": "ELIANA GARCÍA - 1124932806"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5802295",
+            "CEDULA": "1124932806",
+            "NOMBRES": "ELIANA GARCÍA",
+            "CREDITO": "16.034.951",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "298.058",
+            "E.A": "21.44%",
+            "RECOMPRA O DESEMBOLSO": "1.497.333",
+            "FIRMA ELLECTRONICA": "ELIANA GARCÍA - 1124932806"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1124932806",
+            "NOMBRES": "ELIANA GARCÍA",
+            "FIRMA ELLECTRONICA": "ELIANA GARCÍA - 1124932806"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1124932806",
+            "NOMBRES": "ELIANA GARCÍA",
+            "FIRMA ELLECTRONICA": "ELIANA GARCÍA - 1124932806",
+            "AL PIE DE LA FIRMA": "ELIANA GARCÍA - 1124932806"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELIANA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1124932806",
+            "NOMBRES": "ELIANA GARCÍA",
+            "SALARIO": "2.398.159",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1124932806",
+            "NOMBRES": "ELIANA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.497.333"
+        }
+    }
+]

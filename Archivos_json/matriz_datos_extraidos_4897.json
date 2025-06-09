@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "148070565484",
+            "SOLICITUD": "4820252",
+            "CEDULA": "1073729921",
+            "NOMBRES": "IVÁN ALBERT ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.251.250",
+            "FIRMA ELLECTRONICA": "IVÁN ALBERT ROJAS - 1073729921"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "148070565484",
+            "NOMBRES": "IVÁN ALBERT ROJAS",
+            "CREDITO": "19.938.754",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "226.236",
+            "FIRMA ELLECTRONICA": "IVÁN ALBERT ROJAS - 1073729921",
+            "AL PIE DE LA FIRMA": "IVÁN ALBERT ROJAS - 1073729921"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1073729921",
+            "NOMBRES": "IVÁN ALBERT ROJAS",
+            "FECHA NACIMIENTO": "11/06/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.938.754",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "IVÁN ALBERT ROJAS - 1073729921",
+            "AL PIE DE LA FIRMA": "IVÁN ALBERT ROJAS - 1073729921"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4820252",
+            "CEDULA": "1073729921",
+            "NOMBRES": "IVÁN ALBERT ROJAS",
+            "CREDITO": "19.938.754",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "226.236",
+            "E.A": "19.34%",
+            "RECOMPRA O DESEMBOLSO": "4.251.250",
+            "FIRMA ELLECTRONICA": "IVÁN ALBERT ROJAS - 1073729921"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1073729921",
+            "NOMBRES": "IVÁN ALBERT ROJAS",
+            "FIRMA ELLECTRONICA": "IVÁN ALBERT ROJAS - 1073729921"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1073729921",
+            "NOMBRES": "IVÁN ALBERT ROJAS",
+            "FIRMA ELLECTRONICA": "IVÁN ALBERT ROJAS - 1073729921",
+            "AL PIE DE LA FIRMA": "IVÁN ALBERT ROJAS - 1073729921"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IVÁN ALBERT ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1073729921",
+            "NOMBRES": "IVÁN ALBERT ROJAS",
+            "SALARIO": "2.916.931",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1073729921",
+            "NOMBRES": "IVÁN ALBERT ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.251.250"
+        }
+    }
+]

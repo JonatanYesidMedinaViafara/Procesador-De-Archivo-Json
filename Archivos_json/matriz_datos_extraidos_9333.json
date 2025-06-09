@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "168846538048",
+            "SOLICITUD": "3579878",
+            "CEDULA": "1142494201",
+            "NOMBRES": "DARIO PÉREZ TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "2.385.013",
+            "FIRMA ELLECTRONICA": "DARIO PÉREZ TRUJILLO - 1142494201"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "168846538048",
+            "NOMBRES": "DARIO PÉREZ TRUJILLO",
+            "CREDITO": "7.266.825",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "296.472",
+            "FIRMA ELLECTRONICA": "DARIO PÉREZ TRUJILLO - 1142494201",
+            "AL PIE DE LA FIRMA": "DARIO PÉREZ TRUJILLO - 1142494201"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1142494201",
+            "NOMBRES": "DARIO PÉREZ TRUJILLO",
+            "FECHA NACIMIENTO": "17/05/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.266.825",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DARIO PÉREZ TRUJILLO - 1142494201",
+            "AL PIE DE LA FIRMA": "DARIO PÉREZ TRUJILLO - 1142494201"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3579878",
+            "CEDULA": "1142494201",
+            "NOMBRES": "DARIO PÉREZ TRUJILLO",
+            "CREDITO": "7.266.825",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "296.472",
+            "E.A": "19.94%",
+            "RECOMPRA O DESEMBOLSO": "2.385.013",
+            "FIRMA ELLECTRONICA": "DARIO PÉREZ TRUJILLO - 1142494201"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1142494201",
+            "NOMBRES": "DARIO PÉREZ TRUJILLO",
+            "FIRMA ELLECTRONICA": "DARIO PÉREZ TRUJILLO - 1142494201"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1142494201",
+            "NOMBRES": "DARIO PÉREZ TRUJILLO",
+            "FIRMA ELLECTRONICA": "DARIO PÉREZ TRUJILLO - 1142494201",
+            "AL PIE DE LA FIRMA": "DARIO PÉREZ TRUJILLO - 1142494201"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO PÉREZ TRUJILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1142494201",
+            "NOMBRES": "DARIO PÉREZ TRUJILLO",
+            "SALARIO": "3.053.994",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1142494201",
+            "NOMBRES": "DARIO PÉREZ TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "2.385.013"
+        }
+    }
+]

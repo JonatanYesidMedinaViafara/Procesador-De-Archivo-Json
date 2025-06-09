@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "920973900642",
+            "SOLICITUD": "8591283",
+            "CEDULA": "1397683809",
+            "NOMBRES": "FERNANDA JOHANA CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "3.491.732",
+            "FIRMA ELLECTRONICA": "FERNANDA JOHANA CORTÉS - 1397683809"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "920973900642",
+            "NOMBRES": "FERNANDA JOHANA CORTÉS",
+            "CREDITO": "11.999.422",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "256.162",
+            "FIRMA ELLECTRONICA": "FERNANDA JOHANA CORTÉS - 1397683809",
+            "AL PIE DE LA FIRMA": "FERNANDA JOHANA CORTÉS - 1397683809"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1397683809",
+            "NOMBRES": "FERNANDA JOHANA CORTÉS",
+            "FECHA NACIMIENTO": "15/06/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.999.422",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FERNANDA JOHANA CORTÉS - 1397683809",
+            "AL PIE DE LA FIRMA": "FERNANDA JOHANA CORTÉS - 1397683809"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8591283",
+            "CEDULA": "1397683809",
+            "NOMBRES": "FERNANDA JOHANA CORTÉS",
+            "CREDITO": "11.999.422",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "256.162",
+            "E.A": "25.72%",
+            "RECOMPRA O DESEMBOLSO": "3.491.732",
+            "FIRMA ELLECTRONICA": "FERNANDA JOHANA CORTÉS - 1397683809"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1397683809",
+            "NOMBRES": "FERNANDA JOHANA CORTÉS",
+            "FIRMA ELLECTRONICA": "FERNANDA JOHANA CORTÉS - 1397683809"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1397683809",
+            "NOMBRES": "FERNANDA JOHANA CORTÉS",
+            "FIRMA ELLECTRONICA": "FERNANDA JOHANA CORTÉS - 1397683809",
+            "AL PIE DE LA FIRMA": "FERNANDA JOHANA CORTÉS - 1397683809"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDA JOHANA CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1397683809",
+            "NOMBRES": "FERNANDA JOHANA CORTÉS",
+            "SALARIO": "2.097.267",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1397683809",
+            "NOMBRES": "FERNANDA JOHANA CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "3.491.732"
+        }
+    }
+]

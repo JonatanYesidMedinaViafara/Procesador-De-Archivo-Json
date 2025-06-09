@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "185852215769",
+            "SOLICITUD": "4692887",
+            "CEDULA": "1866886989",
+            "NOMBRES": "YOLIMA MESA",
+            "RECOMPRA O DESEMBOLSO": "1.976.662",
+            "FIRMA ELLECTRONICA": "YOLIMA MESA - 1866886989"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "185852215769",
+            "NOMBRES": "YOLIMA MESA",
+            "CREDITO": "8.333.215",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "300.604",
+            "FIRMA ELLECTRONICA": "YOLIMA MESA - 1866886989",
+            "AL PIE DE LA FIRMA": "YOLIMA MESA - 1866886989"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1866886989",
+            "NOMBRES": "YOLIMA MESA",
+            "FECHA NACIMIENTO": "10/04/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.333.215",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "YOLIMA MESA - 1866886989",
+            "AL PIE DE LA FIRMA": "YOLIMA MESA - 1866886989"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4692887",
+            "CEDULA": "1866886989",
+            "NOMBRES": "YOLIMA MESA",
+            "CREDITO": "8.333.215",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "300.604",
+            "E.A": "25.58%",
+            "RECOMPRA O DESEMBOLSO": "1.976.662",
+            "FIRMA ELLECTRONICA": "YOLIMA MESA - 1866886989"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1866886989",
+            "NOMBRES": "YOLIMA MESA",
+            "FIRMA ELLECTRONICA": "YOLIMA MESA - 1866886989"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1866886989",
+            "NOMBRES": "YOLIMA MESA",
+            "FIRMA ELLECTRONICA": "YOLIMA MESA - 1866886989",
+            "AL PIE DE LA FIRMA": "YOLIMA MESA - 1866886989"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YOLIMA MESA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1866886989",
+            "NOMBRES": "YOLIMA MESA",
+            "SALARIO": "1.454.912",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1866886989",
+            "NOMBRES": "YOLIMA MESA",
+            "RECOMPRA O DESEMBOLSO": "1.976.662"
+        }
+    }
+]

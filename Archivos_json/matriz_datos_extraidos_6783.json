@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "540550031753",
+            "SOLICITUD": "7630819",
+            "CEDULA": "1199115760",
+            "NOMBRES": "FERNANDO JARAMILLO GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "4.078.732",
+            "FIRMA ELLECTRONICA": "FERNANDO JARAMILLO GIRALDO - 1199115760"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "540550031753",
+            "NOMBRES": "FERNANDO JARAMILLO GIRALDO",
+            "CREDITO": "8.229.457",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "353.665",
+            "FIRMA ELLECTRONICA": "FERNANDO JARAMILLO GIRALDO - 1199115760",
+            "AL PIE DE LA FIRMA": "FERNANDO JARAMILLO GIRALDO - 1199115760"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1199115760",
+            "NOMBRES": "FERNANDO JARAMILLO GIRALDO",
+            "FECHA NACIMIENTO": "08/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.229.457",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNANDO JARAMILLO GIRALDO - 1199115760",
+            "AL PIE DE LA FIRMA": "FERNANDO JARAMILLO GIRALDO - 1199115760"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7630819",
+            "CEDULA": "1199115760",
+            "NOMBRES": "FERNANDO JARAMILLO GIRALDO",
+            "CREDITO": "8.229.457",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "353.665",
+            "E.A": "25.71%",
+            "RECOMPRA O DESEMBOLSO": "4.078.732",
+            "FIRMA ELLECTRONICA": "FERNANDO JARAMILLO GIRALDO - 1199115760"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1199115760",
+            "NOMBRES": "FERNANDO JARAMILLO GIRALDO",
+            "FIRMA ELLECTRONICA": "FERNANDO JARAMILLO GIRALDO - 1199115760"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1199115760",
+            "NOMBRES": "FERNANDO JARAMILLO GIRALDO",
+            "FIRMA ELLECTRONICA": "FERNANDO JARAMILLO GIRALDO - 1199115760",
+            "AL PIE DE LA FIRMA": "FERNANDO JARAMILLO GIRALDO - 1199115760"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO JARAMILLO GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1199115760",
+            "NOMBRES": "FERNANDO JARAMILLO GIRALDO",
+            "SALARIO": "3.762.904",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1199115760",
+            "NOMBRES": "FERNANDO JARAMILLO GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "4.078.732"
+        }
+    }
+]

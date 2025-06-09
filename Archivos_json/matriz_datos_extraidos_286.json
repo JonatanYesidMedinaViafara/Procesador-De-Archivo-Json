@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "245915930631",
+            "SOLICITUD": "6613886",
+            "CEDULA": "1899428264",
+            "NOMBRES": "PAOLA BLANCA SANABRIA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.590.215",
+            "FIRMA ELLECTRONICA": "PAOLA BLANCA SANABRIA DÍAZ - 1899428264"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "245915930631",
+            "NOMBRES": "PAOLA BLANCA SANABRIA DÍAZ",
+            "CREDITO": "11.456.625",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "337.425",
+            "FIRMA ELLECTRONICA": "PAOLA BLANCA SANABRIA DÍAZ - 1899428264",
+            "AL PIE DE LA FIRMA": "PAOLA BLANCA SANABRIA DÍAZ - 1899428264"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1899428264",
+            "NOMBRES": "PAOLA BLANCA SANABRIA DÍAZ",
+            "FECHA NACIMIENTO": "01/01/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.456.625",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "PAOLA BLANCA SANABRIA DÍAZ - 1899428264",
+            "AL PIE DE LA FIRMA": "PAOLA BLANCA SANABRIA DÍAZ - 1899428264"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6613886",
+            "CEDULA": "1899428264",
+            "NOMBRES": "PAOLA BLANCA SANABRIA DÍAZ",
+            "CREDITO": "11.456.625",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "337.425",
+            "E.A": "23.11%",
+            "RECOMPRA O DESEMBOLSO": "3.590.215",
+            "FIRMA ELLECTRONICA": "PAOLA BLANCA SANABRIA DÍAZ - 1899428264"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1899428264",
+            "NOMBRES": "PAOLA BLANCA SANABRIA DÍAZ",
+            "FIRMA ELLECTRONICA": "PAOLA BLANCA SANABRIA DÍAZ - 1899428264"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1899428264",
+            "NOMBRES": "PAOLA BLANCA SANABRIA DÍAZ",
+            "FIRMA ELLECTRONICA": "PAOLA BLANCA SANABRIA DÍAZ - 1899428264",
+            "AL PIE DE LA FIRMA": "PAOLA BLANCA SANABRIA DÍAZ - 1899428264"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA BLANCA SANABRIA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1899428264",
+            "NOMBRES": "PAOLA BLANCA SANABRIA DÍAZ",
+            "SALARIO": "2.286.398",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1899428264",
+            "NOMBRES": "PAOLA BLANCA SANABRIA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.590.215"
+        }
+    }
+]

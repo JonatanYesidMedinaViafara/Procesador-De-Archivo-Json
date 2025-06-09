@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "948785216716",
+            "SOLICITUD": "4058621",
+            "CEDULA": "1850185200",
+            "NOMBRES": "ÁNGELA GARCÍA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.723.657",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA RAMÍREZ - 1850185200"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "948785216716",
+            "NOMBRES": "ÁNGELA GARCÍA RAMÍREZ",
+            "CREDITO": "7.406.582",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "198.404",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA RAMÍREZ - 1850185200",
+            "AL PIE DE LA FIRMA": "ÁNGELA GARCÍA RAMÍREZ - 1850185200"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1850185200",
+            "NOMBRES": "ÁNGELA GARCÍA RAMÍREZ",
+            "FECHA NACIMIENTO": "25/01/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.406.582",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA RAMÍREZ - 1850185200",
+            "AL PIE DE LA FIRMA": "ÁNGELA GARCÍA RAMÍREZ - 1850185200"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4058621",
+            "CEDULA": "1850185200",
+            "NOMBRES": "ÁNGELA GARCÍA RAMÍREZ",
+            "CREDITO": "7.406.582",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "198.404",
+            "E.A": "28.96%",
+            "RECOMPRA O DESEMBOLSO": "3.723.657",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA RAMÍREZ - 1850185200"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1850185200",
+            "NOMBRES": "ÁNGELA GARCÍA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA RAMÍREZ - 1850185200"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1850185200",
+            "NOMBRES": "ÁNGELA GARCÍA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA RAMÍREZ - 1850185200",
+            "AL PIE DE LA FIRMA": "ÁNGELA GARCÍA RAMÍREZ - 1850185200"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGELA GARCÍA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1850185200",
+            "NOMBRES": "ÁNGELA GARCÍA RAMÍREZ",
+            "SALARIO": "3.707.447",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1850185200",
+            "NOMBRES": "ÁNGELA GARCÍA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.723.657"
+        }
+    }
+]

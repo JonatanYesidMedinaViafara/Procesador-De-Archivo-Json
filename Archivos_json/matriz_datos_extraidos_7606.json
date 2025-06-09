@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "416289315050",
+            "SOLICITUD": "1840019",
+            "CEDULA": "1860090249",
+            "NOMBRES": "MICHAEL JUAN QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.501.366",
+            "FIRMA ELLECTRONICA": "MICHAEL JUAN QUINTERO - 1860090249"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "416289315050",
+            "NOMBRES": "MICHAEL JUAN QUINTERO",
+            "CREDITO": "5.474.732",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "171.606",
+            "FIRMA ELLECTRONICA": "MICHAEL JUAN QUINTERO - 1860090249",
+            "AL PIE DE LA FIRMA": "MICHAEL JUAN QUINTERO - 1860090249"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1860090249",
+            "NOMBRES": "MICHAEL JUAN QUINTERO",
+            "FECHA NACIMIENTO": "05/05/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.474.732",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MICHAEL JUAN QUINTERO - 1860090249",
+            "AL PIE DE LA FIRMA": "MICHAEL JUAN QUINTERO - 1860090249"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1840019",
+            "CEDULA": "1860090249",
+            "NOMBRES": "MICHAEL JUAN QUINTERO",
+            "CREDITO": "5.474.732",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "171.606",
+            "E.A": "22.68%",
+            "RECOMPRA O DESEMBOLSO": "1.501.366",
+            "FIRMA ELLECTRONICA": "MICHAEL JUAN QUINTERO - 1860090249"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1860090249",
+            "NOMBRES": "MICHAEL JUAN QUINTERO",
+            "FIRMA ELLECTRONICA": "MICHAEL JUAN QUINTERO - 1860090249"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1860090249",
+            "NOMBRES": "MICHAEL JUAN QUINTERO",
+            "FIRMA ELLECTRONICA": "MICHAEL JUAN QUINTERO - 1860090249",
+            "AL PIE DE LA FIRMA": "MICHAEL JUAN QUINTERO - 1860090249"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MICHAEL JUAN QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1860090249",
+            "NOMBRES": "MICHAEL JUAN QUINTERO",
+            "SALARIO": "1.398.394",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1860090249",
+            "NOMBRES": "MICHAEL JUAN QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.501.366"
+        }
+    }
+]

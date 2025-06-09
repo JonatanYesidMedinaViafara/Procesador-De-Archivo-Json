@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "904153556173",
+            "SOLICITUD": "6689289",
+            "CEDULA": "1838271363",
+            "NOMBRES": "ANDREA GALINDO",
+            "RECOMPRA O DESEMBOLSO": "1.607.349",
+            "FIRMA ELLECTRONICA": "ANDREA GALINDO - 1838271363"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "904153556173",
+            "NOMBRES": "ANDREA GALINDO",
+            "CREDITO": "7.622.450",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "100.365",
+            "FIRMA ELLECTRONICA": "ANDREA GALINDO - 1838271363",
+            "AL PIE DE LA FIRMA": "ANDREA GALINDO - 1838271363"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1838271363",
+            "NOMBRES": "ANDREA GALINDO",
+            "FECHA NACIMIENTO": "31/05/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.622.450",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDREA GALINDO - 1838271363",
+            "AL PIE DE LA FIRMA": "ANDREA GALINDO - 1838271363"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6689289",
+            "CEDULA": "1838271363",
+            "NOMBRES": "ANDREA GALINDO",
+            "CREDITO": "7.622.450",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "100.365",
+            "E.A": "25.48%",
+            "RECOMPRA O DESEMBOLSO": "1.607.349",
+            "FIRMA ELLECTRONICA": "ANDREA GALINDO - 1838271363"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1838271363",
+            "NOMBRES": "ANDREA GALINDO",
+            "FIRMA ELLECTRONICA": "ANDREA GALINDO - 1838271363"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1838271363",
+            "NOMBRES": "ANDREA GALINDO",
+            "FIRMA ELLECTRONICA": "ANDREA GALINDO - 1838271363",
+            "AL PIE DE LA FIRMA": "ANDREA GALINDO - 1838271363"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA GALINDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1838271363",
+            "NOMBRES": "ANDREA GALINDO",
+            "SALARIO": "3.277.499",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1838271363",
+            "NOMBRES": "ANDREA GALINDO",
+            "RECOMPRA O DESEMBOLSO": "1.607.349"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "705088792396",
+            "SOLICITUD": "5326883",
+            "CEDULA": "1281832544",
+            "NOMBRES": "MIGUEL ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "1.138.563",
+            "FIRMA ELLECTRONICA": "MIGUEL ORTIZ - 1281832544"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "705088792396",
+            "NOMBRES": "MIGUEL ORTIZ",
+            "CREDITO": "8.879.773",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "197.887",
+            "FIRMA ELLECTRONICA": "MIGUEL ORTIZ - 1281832544",
+            "AL PIE DE LA FIRMA": "MIGUEL ORTIZ - 1281832544"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1281832544",
+            "NOMBRES": "MIGUEL ORTIZ",
+            "FECHA NACIMIENTO": "09/03/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.879.773",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MIGUEL ORTIZ - 1281832544",
+            "AL PIE DE LA FIRMA": "MIGUEL ORTIZ - 1281832544"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5326883",
+            "CEDULA": "1281832544",
+            "NOMBRES": "MIGUEL ORTIZ",
+            "CREDITO": "8.879.773",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "197.887",
+            "E.A": "18.59%",
+            "RECOMPRA O DESEMBOLSO": "1.138.563",
+            "FIRMA ELLECTRONICA": "MIGUEL ORTIZ - 1281832544"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1281832544",
+            "NOMBRES": "MIGUEL ORTIZ",
+            "FIRMA ELLECTRONICA": "MIGUEL ORTIZ - 1281832544"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1281832544",
+            "NOMBRES": "MIGUEL ORTIZ",
+            "FIRMA ELLECTRONICA": "MIGUEL ORTIZ - 1281832544",
+            "AL PIE DE LA FIRMA": "MIGUEL ORTIZ - 1281832544"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1281832544",
+            "NOMBRES": "MIGUEL ORTIZ",
+            "SALARIO": "1.090.693",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1281832544",
+            "NOMBRES": "MIGUEL ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "1.138.563"
+        }
+    }
+]

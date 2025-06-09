@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "821703498127",
+            "SOLICITUD": "7467919",
+            "CEDULA": "1610166706",
+            "NOMBRES": "FERNANDO CAMPO",
+            "RECOMPRA O DESEMBOLSO": "1.679.575",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMPO - 1610166706"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "821703498127",
+            "NOMBRES": "FERNANDO CAMPO",
+            "CREDITO": "6.193.741",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "272.386",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMPO - 1610166706",
+            "AL PIE DE LA FIRMA": "FERNANDO CAMPO - 1610166706"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1610166706",
+            "NOMBRES": "FERNANDO CAMPO",
+            "FECHA NACIMIENTO": "12/10/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.193.741",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMPO - 1610166706",
+            "AL PIE DE LA FIRMA": "FERNANDO CAMPO - 1610166706"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7467919",
+            "CEDULA": "1610166706",
+            "NOMBRES": "FERNANDO CAMPO",
+            "CREDITO": "6.193.741",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "272.386",
+            "E.A": "19.11%",
+            "RECOMPRA O DESEMBOLSO": "1.679.575",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMPO - 1610166706"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1610166706",
+            "NOMBRES": "FERNANDO CAMPO",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMPO - 1610166706"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1610166706",
+            "NOMBRES": "FERNANDO CAMPO",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMPO - 1610166706",
+            "AL PIE DE LA FIRMA": "FERNANDO CAMPO - 1610166706"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO CAMPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1610166706",
+            "NOMBRES": "FERNANDO CAMPO",
+            "SALARIO": "1.250.866",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1610166706",
+            "NOMBRES": "FERNANDO CAMPO",
+            "RECOMPRA O DESEMBOLSO": "1.679.575"
+        }
+    }
+]

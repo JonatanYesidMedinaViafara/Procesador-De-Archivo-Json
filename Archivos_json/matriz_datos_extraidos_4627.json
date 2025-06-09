@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "119758892078",
+            "SOLICITUD": "5289028",
+            "CEDULA": "1847560102",
+            "NOMBRES": "MARÍA GIRALDO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.627.739",
+            "FIRMA ELLECTRONICA": "MARÍA GIRALDO PÉREZ - 1847560102"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "119758892078",
+            "NOMBRES": "MARÍA GIRALDO PÉREZ",
+            "CREDITO": "9.209.841",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "245.595",
+            "FIRMA ELLECTRONICA": "MARÍA GIRALDO PÉREZ - 1847560102",
+            "AL PIE DE LA FIRMA": "MARÍA GIRALDO PÉREZ - 1847560102"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1847560102",
+            "NOMBRES": "MARÍA GIRALDO PÉREZ",
+            "FECHA NACIMIENTO": "05/03/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.209.841",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA GIRALDO PÉREZ - 1847560102",
+            "AL PIE DE LA FIRMA": "MARÍA GIRALDO PÉREZ - 1847560102"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5289028",
+            "CEDULA": "1847560102",
+            "NOMBRES": "MARÍA GIRALDO PÉREZ",
+            "CREDITO": "9.209.841",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "245.595",
+            "E.A": "18.8%",
+            "RECOMPRA O DESEMBOLSO": "4.627.739",
+            "FIRMA ELLECTRONICA": "MARÍA GIRALDO PÉREZ - 1847560102"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1847560102",
+            "NOMBRES": "MARÍA GIRALDO PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA GIRALDO PÉREZ - 1847560102"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1847560102",
+            "NOMBRES": "MARÍA GIRALDO PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA GIRALDO PÉREZ - 1847560102",
+            "AL PIE DE LA FIRMA": "MARÍA GIRALDO PÉREZ - 1847560102"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA GIRALDO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1847560102",
+            "NOMBRES": "MARÍA GIRALDO PÉREZ",
+            "SALARIO": "3.686.692",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1847560102",
+            "NOMBRES": "MARÍA GIRALDO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.627.739"
+        }
+    }
+]

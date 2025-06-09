@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "272677240756",
+            "SOLICITUD": "1739980",
+            "CEDULA": "1887453686",
+            "NOMBRES": "ALICIA MARÍA PALACIO",
+            "RECOMPRA O DESEMBOLSO": "2.415.084",
+            "FIRMA ELLECTRONICA": "ALICIA MARÍA PALACIO - 1887453686"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "272677240756",
+            "NOMBRES": "ALICIA MARÍA PALACIO",
+            "CREDITO": "15.264.248",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "196.05",
+            "FIRMA ELLECTRONICA": "ALICIA MARÍA PALACIO - 1887453686",
+            "AL PIE DE LA FIRMA": "ALICIA MARÍA PALACIO - 1887453686"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1887453686",
+            "NOMBRES": "ALICIA MARÍA PALACIO",
+            "FECHA NACIMIENTO": "22/01/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.264.248",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALICIA MARÍA PALACIO - 1887453686",
+            "AL PIE DE LA FIRMA": "ALICIA MARÍA PALACIO - 1887453686"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1739980",
+            "CEDULA": "1887453686",
+            "NOMBRES": "ALICIA MARÍA PALACIO",
+            "CREDITO": "15.264.248",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "196.05",
+            "E.A": "18.2%",
+            "RECOMPRA O DESEMBOLSO": "2.415.084",
+            "FIRMA ELLECTRONICA": "ALICIA MARÍA PALACIO - 1887453686"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1887453686",
+            "NOMBRES": "ALICIA MARÍA PALACIO",
+            "FIRMA ELLECTRONICA": "ALICIA MARÍA PALACIO - 1887453686"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1887453686",
+            "NOMBRES": "ALICIA MARÍA PALACIO",
+            "FIRMA ELLECTRONICA": "ALICIA MARÍA PALACIO - 1887453686",
+            "AL PIE DE LA FIRMA": "ALICIA MARÍA PALACIO - 1887453686"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALICIA MARÍA PALACIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1887453686",
+            "NOMBRES": "ALICIA MARÍA PALACIO",
+            "SALARIO": "3.057.894",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1887453686",
+            "NOMBRES": "ALICIA MARÍA PALACIO",
+            "RECOMPRA O DESEMBOLSO": "2.415.084"
+        }
+    }
+]

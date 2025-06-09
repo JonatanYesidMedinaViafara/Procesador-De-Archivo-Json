@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "854669475005",
+            "SOLICITUD": "7697878",
+            "CEDULA": "1668114207",
+            "NOMBRES": "LUIS RICO",
+            "RECOMPRA O DESEMBOLSO": "3.432.616",
+            "FIRMA ELLECTRONICA": "LUIS RICO - 1668114207"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "854669475005",
+            "NOMBRES": "LUIS RICO",
+            "CREDITO": "6.094.965",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "380.926",
+            "FIRMA ELLECTRONICA": "LUIS RICO - 1668114207",
+            "AL PIE DE LA FIRMA": "LUIS RICO - 1668114207"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1668114207",
+            "NOMBRES": "LUIS RICO",
+            "FECHA NACIMIENTO": "24/04/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.094.965",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUIS RICO - 1668114207",
+            "AL PIE DE LA FIRMA": "LUIS RICO - 1668114207"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7697878",
+            "CEDULA": "1668114207",
+            "NOMBRES": "LUIS RICO",
+            "CREDITO": "6.094.965",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "380.926",
+            "E.A": "23.53%",
+            "RECOMPRA O DESEMBOLSO": "3.432.616",
+            "FIRMA ELLECTRONICA": "LUIS RICO - 1668114207"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1668114207",
+            "NOMBRES": "LUIS RICO",
+            "FIRMA ELLECTRONICA": "LUIS RICO - 1668114207"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1668114207",
+            "NOMBRES": "LUIS RICO",
+            "FIRMA ELLECTRONICA": "LUIS RICO - 1668114207",
+            "AL PIE DE LA FIRMA": "LUIS RICO - 1668114207"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS RICO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1668114207",
+            "NOMBRES": "LUIS RICO",
+            "SALARIO": "1.141.108",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1668114207",
+            "NOMBRES": "LUIS RICO",
+            "RECOMPRA O DESEMBOLSO": "3.432.616"
+        }
+    }
+]

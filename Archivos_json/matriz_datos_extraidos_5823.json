@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "450733181566",
+            "SOLICITUD": "3573562",
+            "CEDULA": "1112302765",
+            "NOMBRES": "MABEL OLAYA",
+            "RECOMPRA O DESEMBOLSO": "3.446.930",
+            "FIRMA ELLECTRONICA": "MABEL OLAYA - 1112302765"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "450733181566",
+            "NOMBRES": "MABEL OLAYA",
+            "CREDITO": "6.590.939",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "395.946",
+            "FIRMA ELLECTRONICA": "MABEL OLAYA - 1112302765",
+            "AL PIE DE LA FIRMA": "MABEL OLAYA - 1112302765"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1112302765",
+            "NOMBRES": "MABEL OLAYA",
+            "FECHA NACIMIENTO": "13/06/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.590.939",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MABEL OLAYA - 1112302765",
+            "AL PIE DE LA FIRMA": "MABEL OLAYA - 1112302765"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3573562",
+            "CEDULA": "1112302765",
+            "NOMBRES": "MABEL OLAYA",
+            "CREDITO": "6.590.939",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "395.946",
+            "E.A": "21.91%",
+            "RECOMPRA O DESEMBOLSO": "3.446.930",
+            "FIRMA ELLECTRONICA": "MABEL OLAYA - 1112302765"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1112302765",
+            "NOMBRES": "MABEL OLAYA",
+            "FIRMA ELLECTRONICA": "MABEL OLAYA - 1112302765"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1112302765",
+            "NOMBRES": "MABEL OLAYA",
+            "FIRMA ELLECTRONICA": "MABEL OLAYA - 1112302765",
+            "AL PIE DE LA FIRMA": "MABEL OLAYA - 1112302765"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MABEL OLAYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1112302765",
+            "NOMBRES": "MABEL OLAYA",
+            "SALARIO": "3.198.571",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1112302765",
+            "NOMBRES": "MABEL OLAYA",
+            "RECOMPRA O DESEMBOLSO": "3.446.930"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "526614689868",
+            "SOLICITUD": "4300835",
+            "CEDULA": "1092066049",
+            "NOMBRES": "MIGUEL RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.142.436",
+            "FIRMA ELLECTRONICA": "MIGUEL RAMÍREZ - 1092066049"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "526614689868",
+            "NOMBRES": "MIGUEL RAMÍREZ",
+            "CREDITO": "11.034.495",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "212.213",
+            "FIRMA ELLECTRONICA": "MIGUEL RAMÍREZ - 1092066049",
+            "AL PIE DE LA FIRMA": "MIGUEL RAMÍREZ - 1092066049"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1092066049",
+            "NOMBRES": "MIGUEL RAMÍREZ",
+            "FECHA NACIMIENTO": "04/05/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.034.495",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MIGUEL RAMÍREZ - 1092066049",
+            "AL PIE DE LA FIRMA": "MIGUEL RAMÍREZ - 1092066049"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4300835",
+            "CEDULA": "1092066049",
+            "NOMBRES": "MIGUEL RAMÍREZ",
+            "CREDITO": "11.034.495",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "212.213",
+            "E.A": "23.9%",
+            "RECOMPRA O DESEMBOLSO": "1.142.436",
+            "FIRMA ELLECTRONICA": "MIGUEL RAMÍREZ - 1092066049"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1092066049",
+            "NOMBRES": "MIGUEL RAMÍREZ",
+            "FIRMA ELLECTRONICA": "MIGUEL RAMÍREZ - 1092066049"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1092066049",
+            "NOMBRES": "MIGUEL RAMÍREZ",
+            "FIRMA ELLECTRONICA": "MIGUEL RAMÍREZ - 1092066049",
+            "AL PIE DE LA FIRMA": "MIGUEL RAMÍREZ - 1092066049"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1092066049",
+            "NOMBRES": "MIGUEL RAMÍREZ",
+            "SALARIO": "1.885.639",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1092066049",
+            "NOMBRES": "MIGUEL RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.142.436"
+        }
+    }
+]

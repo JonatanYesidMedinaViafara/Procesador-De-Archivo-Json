@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "632718515905",
+            "SOLICITUD": "3559687",
+            "CEDULA": "1325962398",
+            "NOMBRES": "FERNANDO JHON LÓPEZ RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.363.514",
+            "FIRMA ELLECTRONICA": "FERNANDO JHON LÓPEZ RUIZ - 1325962398"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "632718515905",
+            "NOMBRES": "FERNANDO JHON LÓPEZ RUIZ",
+            "CREDITO": "19.141.317",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "174.338",
+            "FIRMA ELLECTRONICA": "FERNANDO JHON LÓPEZ RUIZ - 1325962398",
+            "AL PIE DE LA FIRMA": "FERNANDO JHON LÓPEZ RUIZ - 1325962398"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1325962398",
+            "NOMBRES": "FERNANDO JHON LÓPEZ RUIZ",
+            "FECHA NACIMIENTO": "24/10/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.141.317",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNANDO JHON LÓPEZ RUIZ - 1325962398",
+            "AL PIE DE LA FIRMA": "FERNANDO JHON LÓPEZ RUIZ - 1325962398"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3559687",
+            "CEDULA": "1325962398",
+            "NOMBRES": "FERNANDO JHON LÓPEZ RUIZ",
+            "CREDITO": "19.141.317",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "174.338",
+            "E.A": "27.15%",
+            "RECOMPRA O DESEMBOLSO": "1.363.514",
+            "FIRMA ELLECTRONICA": "FERNANDO JHON LÓPEZ RUIZ - 1325962398"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1325962398",
+            "NOMBRES": "FERNANDO JHON LÓPEZ RUIZ",
+            "FIRMA ELLECTRONICA": "FERNANDO JHON LÓPEZ RUIZ - 1325962398"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1325962398",
+            "NOMBRES": "FERNANDO JHON LÓPEZ RUIZ",
+            "FIRMA ELLECTRONICA": "FERNANDO JHON LÓPEZ RUIZ - 1325962398",
+            "AL PIE DE LA FIRMA": "FERNANDO JHON LÓPEZ RUIZ - 1325962398"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO JHON LÓPEZ RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1325962398",
+            "NOMBRES": "FERNANDO JHON LÓPEZ RUIZ",
+            "SALARIO": "4.693.879",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1325962398",
+            "NOMBRES": "FERNANDO JHON LÓPEZ RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.363.514"
+        }
+    }
+]

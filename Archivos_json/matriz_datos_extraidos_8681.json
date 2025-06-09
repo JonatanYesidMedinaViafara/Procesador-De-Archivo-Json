@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "333372628758",
+            "SOLICITUD": "5272806",
+            "CEDULA": "1970052460",
+            "NOMBRES": "WILSON CARO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "1.589.504",
+            "FIRMA ELLECTRONICA": "WILSON CARO CASTRO - 1970052460"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "333372628758",
+            "NOMBRES": "WILSON CARO CASTRO",
+            "CREDITO": "13.162.220",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "116.049",
+            "FIRMA ELLECTRONICA": "WILSON CARO CASTRO - 1970052460",
+            "AL PIE DE LA FIRMA": "WILSON CARO CASTRO - 1970052460"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1970052460",
+            "NOMBRES": "WILSON CARO CASTRO",
+            "FECHA NACIMIENTO": "26/10/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.162.220",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "WILSON CARO CASTRO - 1970052460",
+            "AL PIE DE LA FIRMA": "WILSON CARO CASTRO - 1970052460"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5272806",
+            "CEDULA": "1970052460",
+            "NOMBRES": "WILSON CARO CASTRO",
+            "CREDITO": "13.162.220",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "116.049",
+            "E.A": "19.15%",
+            "RECOMPRA O DESEMBOLSO": "1.589.504",
+            "FIRMA ELLECTRONICA": "WILSON CARO CASTRO - 1970052460"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1970052460",
+            "NOMBRES": "WILSON CARO CASTRO",
+            "FIRMA ELLECTRONICA": "WILSON CARO CASTRO - 1970052460"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1970052460",
+            "NOMBRES": "WILSON CARO CASTRO",
+            "FIRMA ELLECTRONICA": "WILSON CARO CASTRO - 1970052460",
+            "AL PIE DE LA FIRMA": "WILSON CARO CASTRO - 1970052460"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WILSON CARO CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1970052460",
+            "NOMBRES": "WILSON CARO CASTRO",
+            "SALARIO": "2.284.667",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1970052460",
+            "NOMBRES": "WILSON CARO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "1.589.504"
+        }
+    }
+]

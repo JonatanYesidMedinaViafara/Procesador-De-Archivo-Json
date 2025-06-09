@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "566444295613",
+            "SOLICITUD": "2725901",
+            "CEDULA": "1565887515",
+            "NOMBRES": "MANUEL CÉSAR ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.969.195",
+            "FIRMA ELLECTRONICA": "MANUEL CÉSAR ZAMBRANO - 1565887515"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "566444295613",
+            "NOMBRES": "MANUEL CÉSAR ZAMBRANO",
+            "CREDITO": "17.504.446",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "264.83",
+            "FIRMA ELLECTRONICA": "MANUEL CÉSAR ZAMBRANO - 1565887515",
+            "AL PIE DE LA FIRMA": "MANUEL CÉSAR ZAMBRANO - 1565887515"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1565887515",
+            "NOMBRES": "MANUEL CÉSAR ZAMBRANO",
+            "FECHA NACIMIENTO": "20/01/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.504.446",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MANUEL CÉSAR ZAMBRANO - 1565887515",
+            "AL PIE DE LA FIRMA": "MANUEL CÉSAR ZAMBRANO - 1565887515"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2725901",
+            "CEDULA": "1565887515",
+            "NOMBRES": "MANUEL CÉSAR ZAMBRANO",
+            "CREDITO": "17.504.446",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "264.83",
+            "E.A": "24.19%",
+            "RECOMPRA O DESEMBOLSO": "4.969.195",
+            "FIRMA ELLECTRONICA": "MANUEL CÉSAR ZAMBRANO - 1565887515"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1565887515",
+            "NOMBRES": "MANUEL CÉSAR ZAMBRANO",
+            "FIRMA ELLECTRONICA": "MANUEL CÉSAR ZAMBRANO - 1565887515"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1565887515",
+            "NOMBRES": "MANUEL CÉSAR ZAMBRANO",
+            "FIRMA ELLECTRONICA": "MANUEL CÉSAR ZAMBRANO - 1565887515",
+            "AL PIE DE LA FIRMA": "MANUEL CÉSAR ZAMBRANO - 1565887515"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL CÉSAR ZAMBRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1565887515",
+            "NOMBRES": "MANUEL CÉSAR ZAMBRANO",
+            "SALARIO": "2.660.348",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1565887515",
+            "NOMBRES": "MANUEL CÉSAR ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.969.195"
+        }
+    }
+]

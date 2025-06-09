@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "661380305387",
+            "SOLICITUD": "9812536",
+            "CEDULA": "1791700204",
+            "NOMBRES": "ERNESTO SERRANO",
+            "RECOMPRA O DESEMBOLSO": "4.348.438",
+            "FIRMA ELLECTRONICA": "ERNESTO SERRANO - 1791700204"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "661380305387",
+            "NOMBRES": "ERNESTO SERRANO",
+            "CREDITO": "6.609.927",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "149.712",
+            "FIRMA ELLECTRONICA": "ERNESTO SERRANO - 1791700204",
+            "AL PIE DE LA FIRMA": "ERNESTO SERRANO - 1791700204"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1791700204",
+            "NOMBRES": "ERNESTO SERRANO",
+            "FECHA NACIMIENTO": "25/06/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.609.927",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ERNESTO SERRANO - 1791700204",
+            "AL PIE DE LA FIRMA": "ERNESTO SERRANO - 1791700204"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9812536",
+            "CEDULA": "1791700204",
+            "NOMBRES": "ERNESTO SERRANO",
+            "CREDITO": "6.609.927",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "149.712",
+            "E.A": "22.62%",
+            "RECOMPRA O DESEMBOLSO": "4.348.438",
+            "FIRMA ELLECTRONICA": "ERNESTO SERRANO - 1791700204"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1791700204",
+            "NOMBRES": "ERNESTO SERRANO",
+            "FIRMA ELLECTRONICA": "ERNESTO SERRANO - 1791700204"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1791700204",
+            "NOMBRES": "ERNESTO SERRANO",
+            "FIRMA ELLECTRONICA": "ERNESTO SERRANO - 1791700204",
+            "AL PIE DE LA FIRMA": "ERNESTO SERRANO - 1791700204"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ERNESTO SERRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1791700204",
+            "NOMBRES": "ERNESTO SERRANO",
+            "SALARIO": "2.129.984",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1791700204",
+            "NOMBRES": "ERNESTO SERRANO",
+            "RECOMPRA O DESEMBOLSO": "4.348.438"
+        }
+    }
+]

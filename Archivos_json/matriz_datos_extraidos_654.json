@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "527275632160",
+            "SOLICITUD": "4984765",
+            "CEDULA": "1399429001",
+            "NOMBRES": "WILLIAM HÉCTOR HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.623.348",
+            "FIRMA ELLECTRONICA": "WILLIAM HÉCTOR HERNÁNDEZ - 1399429001"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "527275632160",
+            "NOMBRES": "WILLIAM HÉCTOR HERNÁNDEZ",
+            "CREDITO": "13.882.262",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "122.852",
+            "FIRMA ELLECTRONICA": "WILLIAM HÉCTOR HERNÁNDEZ - 1399429001",
+            "AL PIE DE LA FIRMA": "WILLIAM HÉCTOR HERNÁNDEZ - 1399429001"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1399429001",
+            "NOMBRES": "WILLIAM HÉCTOR HERNÁNDEZ",
+            "FECHA NACIMIENTO": "25/04/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.882.262",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "WILLIAM HÉCTOR HERNÁNDEZ - 1399429001",
+            "AL PIE DE LA FIRMA": "WILLIAM HÉCTOR HERNÁNDEZ - 1399429001"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4984765",
+            "CEDULA": "1399429001",
+            "NOMBRES": "WILLIAM HÉCTOR HERNÁNDEZ",
+            "CREDITO": "13.882.262",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "122.852",
+            "E.A": "21.76%",
+            "RECOMPRA O DESEMBOLSO": "1.623.348",
+            "FIRMA ELLECTRONICA": "WILLIAM HÉCTOR HERNÁNDEZ - 1399429001"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1399429001",
+            "NOMBRES": "WILLIAM HÉCTOR HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "WILLIAM HÉCTOR HERNÁNDEZ - 1399429001"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1399429001",
+            "NOMBRES": "WILLIAM HÉCTOR HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "WILLIAM HÉCTOR HERNÁNDEZ - 1399429001",
+            "AL PIE DE LA FIRMA": "WILLIAM HÉCTOR HERNÁNDEZ - 1399429001"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WILLIAM HÉCTOR HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1399429001",
+            "NOMBRES": "WILLIAM HÉCTOR HERNÁNDEZ",
+            "SALARIO": "4.043.238",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1399429001",
+            "NOMBRES": "WILLIAM HÉCTOR HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.623.348"
+        }
+    }
+]

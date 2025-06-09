@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "504008090068",
+            "SOLICITUD": "8756203",
+            "CEDULA": "1872629384",
+            "NOMBRES": "ALBA HERRERA CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.762.488",
+            "FIRMA ELLECTRONICA": "ALBA HERRERA CASTILLO - 1872629384"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "504008090068",
+            "NOMBRES": "ALBA HERRERA CASTILLO",
+            "CREDITO": "13.542.908",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "196.899",
+            "FIRMA ELLECTRONICA": "ALBA HERRERA CASTILLO - 1872629384",
+            "AL PIE DE LA FIRMA": "ALBA HERRERA CASTILLO - 1872629384"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1872629384",
+            "NOMBRES": "ALBA HERRERA CASTILLO",
+            "FECHA NACIMIENTO": "24/04/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.542.908",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALBA HERRERA CASTILLO - 1872629384",
+            "AL PIE DE LA FIRMA": "ALBA HERRERA CASTILLO - 1872629384"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8756203",
+            "CEDULA": "1872629384",
+            "NOMBRES": "ALBA HERRERA CASTILLO",
+            "CREDITO": "13.542.908",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "196.899",
+            "E.A": "22.89%",
+            "RECOMPRA O DESEMBOLSO": "4.762.488",
+            "FIRMA ELLECTRONICA": "ALBA HERRERA CASTILLO - 1872629384"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1872629384",
+            "NOMBRES": "ALBA HERRERA CASTILLO",
+            "FIRMA ELLECTRONICA": "ALBA HERRERA CASTILLO - 1872629384"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1872629384",
+            "NOMBRES": "ALBA HERRERA CASTILLO",
+            "FIRMA ELLECTRONICA": "ALBA HERRERA CASTILLO - 1872629384",
+            "AL PIE DE LA FIRMA": "ALBA HERRERA CASTILLO - 1872629384"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBA HERRERA CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1872629384",
+            "NOMBRES": "ALBA HERRERA CASTILLO",
+            "SALARIO": "1.772.581",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1872629384",
+            "NOMBRES": "ALBA HERRERA CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.762.488"
+        }
+    }
+]

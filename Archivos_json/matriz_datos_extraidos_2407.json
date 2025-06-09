@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "627646301760",
+            "SOLICITUD": "4305816",
+            "CEDULA": "1483588756",
+            "NOMBRES": "MARIO QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.206.817",
+            "FIRMA ELLECTRONICA": "MARIO QUINTERO - 1483588756"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "627646301760",
+            "NOMBRES": "MARIO QUINTERO",
+            "CREDITO": "18.519.839",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "369.539",
+            "FIRMA ELLECTRONICA": "MARIO QUINTERO - 1483588756",
+            "AL PIE DE LA FIRMA": "MARIO QUINTERO - 1483588756"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1483588756",
+            "NOMBRES": "MARIO QUINTERO",
+            "FECHA NACIMIENTO": "06/07/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.519.839",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARIO QUINTERO - 1483588756",
+            "AL PIE DE LA FIRMA": "MARIO QUINTERO - 1483588756"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4305816",
+            "CEDULA": "1483588756",
+            "NOMBRES": "MARIO QUINTERO",
+            "CREDITO": "18.519.839",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "369.539",
+            "E.A": "26.55%",
+            "RECOMPRA O DESEMBOLSO": "2.206.817",
+            "FIRMA ELLECTRONICA": "MARIO QUINTERO - 1483588756"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1483588756",
+            "NOMBRES": "MARIO QUINTERO",
+            "FIRMA ELLECTRONICA": "MARIO QUINTERO - 1483588756"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1483588756",
+            "NOMBRES": "MARIO QUINTERO",
+            "FIRMA ELLECTRONICA": "MARIO QUINTERO - 1483588756",
+            "AL PIE DE LA FIRMA": "MARIO QUINTERO - 1483588756"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIO QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1483588756",
+            "NOMBRES": "MARIO QUINTERO",
+            "SALARIO": "2.545.292",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1483588756",
+            "NOMBRES": "MARIO QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.206.817"
+        }
+    }
+]

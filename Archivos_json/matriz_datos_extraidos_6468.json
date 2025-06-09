@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "205953700761",
+            "SOLICITUD": "3490843",
+            "CEDULA": "1383736988",
+            "NOMBRES": "ANDRÉS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.992.481",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ - 1383736988"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "205953700761",
+            "NOMBRES": "ANDRÉS MARTÍNEZ",
+            "CREDITO": "14.798.466",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "307.689",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ - 1383736988",
+            "AL PIE DE LA FIRMA": "ANDRÉS MARTÍNEZ - 1383736988"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1383736988",
+            "NOMBRES": "ANDRÉS MARTÍNEZ",
+            "FECHA NACIMIENTO": "22/07/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.798.466",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ - 1383736988",
+            "AL PIE DE LA FIRMA": "ANDRÉS MARTÍNEZ - 1383736988"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3490843",
+            "CEDULA": "1383736988",
+            "NOMBRES": "ANDRÉS MARTÍNEZ",
+            "CREDITO": "14.798.466",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "307.689",
+            "E.A": "20.46%",
+            "RECOMPRA O DESEMBOLSO": "3.992.481",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ - 1383736988"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1383736988",
+            "NOMBRES": "ANDRÉS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ - 1383736988"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1383736988",
+            "NOMBRES": "ANDRÉS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ - 1383736988",
+            "AL PIE DE LA FIRMA": "ANDRÉS MARTÍNEZ - 1383736988"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1383736988",
+            "NOMBRES": "ANDRÉS MARTÍNEZ",
+            "SALARIO": "3.945.711",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1383736988",
+            "NOMBRES": "ANDRÉS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.992.481"
+        }
+    }
+]

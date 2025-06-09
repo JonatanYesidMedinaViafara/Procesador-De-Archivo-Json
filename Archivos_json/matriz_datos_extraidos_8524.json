@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "492570358314",
+            "SOLICITUD": "1755313",
+            "CEDULA": "1756359785",
+            "NOMBRES": "HERNÁN OSORIO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.257.687",
+            "FIRMA ELLECTRONICA": "HERNÁN OSORIO HERNÁNDEZ - 1756359785"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "492570358314",
+            "NOMBRES": "HERNÁN OSORIO HERNÁNDEZ",
+            "CREDITO": "9.139.179",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "260.706",
+            "FIRMA ELLECTRONICA": "HERNÁN OSORIO HERNÁNDEZ - 1756359785",
+            "AL PIE DE LA FIRMA": "HERNÁN OSORIO HERNÁNDEZ - 1756359785"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1756359785",
+            "NOMBRES": "HERNÁN OSORIO HERNÁNDEZ",
+            "FECHA NACIMIENTO": "26/10/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.139.179",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HERNÁN OSORIO HERNÁNDEZ - 1756359785",
+            "AL PIE DE LA FIRMA": "HERNÁN OSORIO HERNÁNDEZ - 1756359785"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1755313",
+            "CEDULA": "1756359785",
+            "NOMBRES": "HERNÁN OSORIO HERNÁNDEZ",
+            "CREDITO": "9.139.179",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "260.706",
+            "E.A": "18.1%",
+            "RECOMPRA O DESEMBOLSO": "2.257.687",
+            "FIRMA ELLECTRONICA": "HERNÁN OSORIO HERNÁNDEZ - 1756359785"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1756359785",
+            "NOMBRES": "HERNÁN OSORIO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "HERNÁN OSORIO HERNÁNDEZ - 1756359785"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1756359785",
+            "NOMBRES": "HERNÁN OSORIO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "HERNÁN OSORIO HERNÁNDEZ - 1756359785",
+            "AL PIE DE LA FIRMA": "HERNÁN OSORIO HERNÁNDEZ - 1756359785"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNÁN OSORIO HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1756359785",
+            "NOMBRES": "HERNÁN OSORIO HERNÁNDEZ",
+            "SALARIO": "3.585.361",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1756359785",
+            "NOMBRES": "HERNÁN OSORIO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.257.687"
+        }
+    }
+]

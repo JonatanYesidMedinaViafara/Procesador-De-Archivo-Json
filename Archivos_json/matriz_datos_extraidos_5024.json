@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "679261659298",
+            "SOLICITUD": "2924911",
+            "CEDULA": "1674589803",
+            "NOMBRES": "EUGENIA ROMERO",
+            "RECOMPRA O DESEMBOLSO": "4.155.502",
+            "FIRMA ELLECTRONICA": "EUGENIA ROMERO - 1674589803"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "679261659298",
+            "NOMBRES": "EUGENIA ROMERO",
+            "CREDITO": "15.340.752",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "130.177",
+            "FIRMA ELLECTRONICA": "EUGENIA ROMERO - 1674589803",
+            "AL PIE DE LA FIRMA": "EUGENIA ROMERO - 1674589803"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1674589803",
+            "NOMBRES": "EUGENIA ROMERO",
+            "FECHA NACIMIENTO": "29/03/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.340.752",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EUGENIA ROMERO - 1674589803",
+            "AL PIE DE LA FIRMA": "EUGENIA ROMERO - 1674589803"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2924911",
+            "CEDULA": "1674589803",
+            "NOMBRES": "EUGENIA ROMERO",
+            "CREDITO": "15.340.752",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "130.177",
+            "E.A": "28.17%",
+            "RECOMPRA O DESEMBOLSO": "4.155.502",
+            "FIRMA ELLECTRONICA": "EUGENIA ROMERO - 1674589803"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1674589803",
+            "NOMBRES": "EUGENIA ROMERO",
+            "FIRMA ELLECTRONICA": "EUGENIA ROMERO - 1674589803"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1674589803",
+            "NOMBRES": "EUGENIA ROMERO",
+            "FIRMA ELLECTRONICA": "EUGENIA ROMERO - 1674589803",
+            "AL PIE DE LA FIRMA": "EUGENIA ROMERO - 1674589803"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EUGENIA ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1674589803",
+            "NOMBRES": "EUGENIA ROMERO",
+            "SALARIO": "2.853.758",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1674589803",
+            "NOMBRES": "EUGENIA ROMERO",
+            "RECOMPRA O DESEMBOLSO": "4.155.502"
+        }
+    }
+]

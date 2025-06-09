@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "755687987123",
+            "SOLICITUD": "4267820",
+            "CEDULA": "1165986034",
+            "NOMBRES": "JAVIER RICARDO FORERO CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.853.285",
+            "FIRMA ELLECTRONICA": "JAVIER RICARDO FORERO CASTILLO - 1165986034"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "755687987123",
+            "NOMBRES": "JAVIER RICARDO FORERO CASTILLO",
+            "CREDITO": "6.471.935",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "170.276",
+            "FIRMA ELLECTRONICA": "JAVIER RICARDO FORERO CASTILLO - 1165986034",
+            "AL PIE DE LA FIRMA": "JAVIER RICARDO FORERO CASTILLO - 1165986034"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1165986034",
+            "NOMBRES": "JAVIER RICARDO FORERO CASTILLO",
+            "FECHA NACIMIENTO": "01/02/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.471.935",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JAVIER RICARDO FORERO CASTILLO - 1165986034",
+            "AL PIE DE LA FIRMA": "JAVIER RICARDO FORERO CASTILLO - 1165986034"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4267820",
+            "CEDULA": "1165986034",
+            "NOMBRES": "JAVIER RICARDO FORERO CASTILLO",
+            "CREDITO": "6.471.935",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "170.276",
+            "E.A": "21.47%",
+            "RECOMPRA O DESEMBOLSO": "4.853.285",
+            "FIRMA ELLECTRONICA": "JAVIER RICARDO FORERO CASTILLO - 1165986034"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1165986034",
+            "NOMBRES": "JAVIER RICARDO FORERO CASTILLO",
+            "FIRMA ELLECTRONICA": "JAVIER RICARDO FORERO CASTILLO - 1165986034"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1165986034",
+            "NOMBRES": "JAVIER RICARDO FORERO CASTILLO",
+            "FIRMA ELLECTRONICA": "JAVIER RICARDO FORERO CASTILLO - 1165986034",
+            "AL PIE DE LA FIRMA": "JAVIER RICARDO FORERO CASTILLO - 1165986034"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER RICARDO FORERO CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1165986034",
+            "NOMBRES": "JAVIER RICARDO FORERO CASTILLO",
+            "SALARIO": "4.175.971",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1165986034",
+            "NOMBRES": "JAVIER RICARDO FORERO CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.853.285"
+        }
+    }
+]

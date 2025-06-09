@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "249094125170",
+            "SOLICITUD": "4590140",
+            "CEDULA": "1098560972",
+            "NOMBRES": "JOSÉ HUGO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.540.392",
+            "FIRMA ELLECTRONICA": "JOSÉ HUGO GÓMEZ - 1098560972"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "249094125170",
+            "NOMBRES": "JOSÉ HUGO GÓMEZ",
+            "CREDITO": "6.485.349",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.42",
+            "FIRMA ELLECTRONICA": "JOSÉ HUGO GÓMEZ - 1098560972",
+            "AL PIE DE LA FIRMA": "JOSÉ HUGO GÓMEZ - 1098560972"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1098560972",
+            "NOMBRES": "JOSÉ HUGO GÓMEZ",
+            "FECHA NACIMIENTO": "26/06/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.485.349",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ HUGO GÓMEZ - 1098560972",
+            "AL PIE DE LA FIRMA": "JOSÉ HUGO GÓMEZ - 1098560972"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4590140",
+            "CEDULA": "1098560972",
+            "NOMBRES": "JOSÉ HUGO GÓMEZ",
+            "CREDITO": "6.485.349",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.42",
+            "E.A": "19.15%",
+            "RECOMPRA O DESEMBOLSO": "3.540.392",
+            "FIRMA ELLECTRONICA": "JOSÉ HUGO GÓMEZ - 1098560972"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1098560972",
+            "NOMBRES": "JOSÉ HUGO GÓMEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ HUGO GÓMEZ - 1098560972"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1098560972",
+            "NOMBRES": "JOSÉ HUGO GÓMEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ HUGO GÓMEZ - 1098560972",
+            "AL PIE DE LA FIRMA": "JOSÉ HUGO GÓMEZ - 1098560972"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ HUGO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1098560972",
+            "NOMBRES": "JOSÉ HUGO GÓMEZ",
+            "SALARIO": "4.243.403",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1098560972",
+            "NOMBRES": "JOSÉ HUGO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.540.392"
+        }
+    }
+]

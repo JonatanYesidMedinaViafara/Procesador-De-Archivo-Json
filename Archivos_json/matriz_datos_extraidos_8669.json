@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "174107696727",
+            "SOLICITUD": "4711852",
+            "CEDULA": "1529536276",
+            "NOMBRES": "FERNANDO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.950.486",
+            "FIRMA ELLECTRONICA": "FERNANDO DÍAZ - 1529536276"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "174107696727",
+            "NOMBRES": "FERNANDO DÍAZ",
+            "CREDITO": "16.830.230",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "310.832",
+            "FIRMA ELLECTRONICA": "FERNANDO DÍAZ - 1529536276",
+            "AL PIE DE LA FIRMA": "FERNANDO DÍAZ - 1529536276"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1529536276",
+            "NOMBRES": "FERNANDO DÍAZ",
+            "FECHA NACIMIENTO": "27/06/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.830.230",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FERNANDO DÍAZ - 1529536276",
+            "AL PIE DE LA FIRMA": "FERNANDO DÍAZ - 1529536276"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4711852",
+            "CEDULA": "1529536276",
+            "NOMBRES": "FERNANDO DÍAZ",
+            "CREDITO": "16.830.230",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "310.832",
+            "E.A": "24.43%",
+            "RECOMPRA O DESEMBOLSO": "2.950.486",
+            "FIRMA ELLECTRONICA": "FERNANDO DÍAZ - 1529536276"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1529536276",
+            "NOMBRES": "FERNANDO DÍAZ",
+            "FIRMA ELLECTRONICA": "FERNANDO DÍAZ - 1529536276"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1529536276",
+            "NOMBRES": "FERNANDO DÍAZ",
+            "FIRMA ELLECTRONICA": "FERNANDO DÍAZ - 1529536276",
+            "AL PIE DE LA FIRMA": "FERNANDO DÍAZ - 1529536276"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1529536276",
+            "NOMBRES": "FERNANDO DÍAZ",
+            "SALARIO": "1.553.600",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1529536276",
+            "NOMBRES": "FERNANDO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.950.486"
+        }
+    }
+]

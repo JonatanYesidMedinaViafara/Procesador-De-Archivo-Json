@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "212203831875",
+            "SOLICITUD": "2657454",
+            "CEDULA": "1633318116",
+            "NOMBRES": "MARIANA MOLINA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.697.370",
+            "FIRMA ELLECTRONICA": "MARIANA MOLINA GUERRERO - 1633318116"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "212203831875",
+            "NOMBRES": "MARIANA MOLINA GUERRERO",
+            "CREDITO": "18.603.216",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "330.326",
+            "FIRMA ELLECTRONICA": "MARIANA MOLINA GUERRERO - 1633318116",
+            "AL PIE DE LA FIRMA": "MARIANA MOLINA GUERRERO - 1633318116"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1633318116",
+            "NOMBRES": "MARIANA MOLINA GUERRERO",
+            "FECHA NACIMIENTO": "17/09/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.603.216",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARIANA MOLINA GUERRERO - 1633318116",
+            "AL PIE DE LA FIRMA": "MARIANA MOLINA GUERRERO - 1633318116"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2657454",
+            "CEDULA": "1633318116",
+            "NOMBRES": "MARIANA MOLINA GUERRERO",
+            "CREDITO": "18.603.216",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "330.326",
+            "E.A": "28.45%",
+            "RECOMPRA O DESEMBOLSO": "4.697.370",
+            "FIRMA ELLECTRONICA": "MARIANA MOLINA GUERRERO - 1633318116"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1633318116",
+            "NOMBRES": "MARIANA MOLINA GUERRERO",
+            "FIRMA ELLECTRONICA": "MARIANA MOLINA GUERRERO - 1633318116"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1633318116",
+            "NOMBRES": "MARIANA MOLINA GUERRERO",
+            "FIRMA ELLECTRONICA": "MARIANA MOLINA GUERRERO - 1633318116",
+            "AL PIE DE LA FIRMA": "MARIANA MOLINA GUERRERO - 1633318116"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIANA MOLINA GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1633318116",
+            "NOMBRES": "MARIANA MOLINA GUERRERO",
+            "SALARIO": "3.748.186",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1633318116",
+            "NOMBRES": "MARIANA MOLINA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.697.370"
+        }
+    }
+]

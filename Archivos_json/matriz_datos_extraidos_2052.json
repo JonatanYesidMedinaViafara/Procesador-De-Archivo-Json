@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "961169380318",
+            "SOLICITUD": "2375406",
+            "CEDULA": "1581206206",
+            "NOMBRES": "SERGIO CARLOS VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.477.367",
+            "FIRMA ELLECTRONICA": "SERGIO CARLOS VARGAS - 1581206206"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "961169380318",
+            "NOMBRES": "SERGIO CARLOS VARGAS",
+            "CREDITO": "18.448.023",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "346.905",
+            "FIRMA ELLECTRONICA": "SERGIO CARLOS VARGAS - 1581206206",
+            "AL PIE DE LA FIRMA": "SERGIO CARLOS VARGAS - 1581206206"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1581206206",
+            "NOMBRES": "SERGIO CARLOS VARGAS",
+            "FECHA NACIMIENTO": "27/04/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.448.023",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SERGIO CARLOS VARGAS - 1581206206",
+            "AL PIE DE LA FIRMA": "SERGIO CARLOS VARGAS - 1581206206"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2375406",
+            "CEDULA": "1581206206",
+            "NOMBRES": "SERGIO CARLOS VARGAS",
+            "CREDITO": "18.448.023",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "346.905",
+            "E.A": "18.17%",
+            "RECOMPRA O DESEMBOLSO": "2.477.367",
+            "FIRMA ELLECTRONICA": "SERGIO CARLOS VARGAS - 1581206206"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1581206206",
+            "NOMBRES": "SERGIO CARLOS VARGAS",
+            "FIRMA ELLECTRONICA": "SERGIO CARLOS VARGAS - 1581206206"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1581206206",
+            "NOMBRES": "SERGIO CARLOS VARGAS",
+            "FIRMA ELLECTRONICA": "SERGIO CARLOS VARGAS - 1581206206",
+            "AL PIE DE LA FIRMA": "SERGIO CARLOS VARGAS - 1581206206"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SERGIO CARLOS VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1581206206",
+            "NOMBRES": "SERGIO CARLOS VARGAS",
+            "SALARIO": "1.353.056",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1581206206",
+            "NOMBRES": "SERGIO CARLOS VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.477.367"
+        }
+    }
+]

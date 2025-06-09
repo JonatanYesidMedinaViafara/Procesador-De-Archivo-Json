@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "665122559692",
+            "SOLICITUD": "3457475",
+            "CEDULA": "1871163537",
+            "NOMBRES": "ENRIQUE DUARTE MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.531.240",
+            "FIRMA ELLECTRONICA": "ENRIQUE DUARTE MARTÍNEZ - 1871163537"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "665122559692",
+            "NOMBRES": "ENRIQUE DUARTE MARTÍNEZ",
+            "CREDITO": "19.058.226",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "115.833",
+            "FIRMA ELLECTRONICA": "ENRIQUE DUARTE MARTÍNEZ - 1871163537",
+            "AL PIE DE LA FIRMA": "ENRIQUE DUARTE MARTÍNEZ - 1871163537"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1871163537",
+            "NOMBRES": "ENRIQUE DUARTE MARTÍNEZ",
+            "FECHA NACIMIENTO": "11/10/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.058.226",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ENRIQUE DUARTE MARTÍNEZ - 1871163537",
+            "AL PIE DE LA FIRMA": "ENRIQUE DUARTE MARTÍNEZ - 1871163537"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3457475",
+            "CEDULA": "1871163537",
+            "NOMBRES": "ENRIQUE DUARTE MARTÍNEZ",
+            "CREDITO": "19.058.226",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "115.833",
+            "E.A": "20.96%",
+            "RECOMPRA O DESEMBOLSO": "4.531.240",
+            "FIRMA ELLECTRONICA": "ENRIQUE DUARTE MARTÍNEZ - 1871163537"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1871163537",
+            "NOMBRES": "ENRIQUE DUARTE MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE DUARTE MARTÍNEZ - 1871163537"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1871163537",
+            "NOMBRES": "ENRIQUE DUARTE MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE DUARTE MARTÍNEZ - 1871163537",
+            "AL PIE DE LA FIRMA": "ENRIQUE DUARTE MARTÍNEZ - 1871163537"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE DUARTE MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1871163537",
+            "NOMBRES": "ENRIQUE DUARTE MARTÍNEZ",
+            "SALARIO": "4.290.912",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1871163537",
+            "NOMBRES": "ENRIQUE DUARTE MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.531.240"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "523895251425",
+            "SOLICITUD": "9899414",
+            "CEDULA": "1943362804",
+            "NOMBRES": "FERNEY MARÍN",
+            "RECOMPRA O DESEMBOLSO": "2.357.530",
+            "FIRMA ELLECTRONICA": "FERNEY MARÍN - 1943362804"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "523895251425",
+            "NOMBRES": "FERNEY MARÍN",
+            "CREDITO": "6.968.789",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "375.224",
+            "FIRMA ELLECTRONICA": "FERNEY MARÍN - 1943362804",
+            "AL PIE DE LA FIRMA": "FERNEY MARÍN - 1943362804"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1943362804",
+            "NOMBRES": "FERNEY MARÍN",
+            "FECHA NACIMIENTO": "16/07/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.968.789",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNEY MARÍN - 1943362804",
+            "AL PIE DE LA FIRMA": "FERNEY MARÍN - 1943362804"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9899414",
+            "CEDULA": "1943362804",
+            "NOMBRES": "FERNEY MARÍN",
+            "CREDITO": "6.968.789",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "375.224",
+            "E.A": "22.17%",
+            "RECOMPRA O DESEMBOLSO": "2.357.530",
+            "FIRMA ELLECTRONICA": "FERNEY MARÍN - 1943362804"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1943362804",
+            "NOMBRES": "FERNEY MARÍN",
+            "FIRMA ELLECTRONICA": "FERNEY MARÍN - 1943362804"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1943362804",
+            "NOMBRES": "FERNEY MARÍN",
+            "FIRMA ELLECTRONICA": "FERNEY MARÍN - 1943362804",
+            "AL PIE DE LA FIRMA": "FERNEY MARÍN - 1943362804"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNEY MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1943362804",
+            "NOMBRES": "FERNEY MARÍN",
+            "SALARIO": "4.048.941",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1943362804",
+            "NOMBRES": "FERNEY MARÍN",
+            "RECOMPRA O DESEMBOLSO": "2.357.530"
+        }
+    }
+]

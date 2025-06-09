@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "884484269261",
+            "SOLICITUD": "4811171",
+            "CEDULA": "1018840968",
+            "NOMBRES": "MARÍA BARRERA PEREA",
+            "RECOMPRA O DESEMBOLSO": "3.591.812",
+            "FIRMA ELLECTRONICA": "MARÍA BARRERA PEREA - 1018840968"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "884484269261",
+            "NOMBRES": "MARÍA BARRERA PEREA",
+            "CREDITO": "15.736.235",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "288.472",
+            "FIRMA ELLECTRONICA": "MARÍA BARRERA PEREA - 1018840968",
+            "AL PIE DE LA FIRMA": "MARÍA BARRERA PEREA - 1018840968"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1018840968",
+            "NOMBRES": "MARÍA BARRERA PEREA",
+            "FECHA NACIMIENTO": "04/08/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.736.235",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA BARRERA PEREA - 1018840968",
+            "AL PIE DE LA FIRMA": "MARÍA BARRERA PEREA - 1018840968"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4811171",
+            "CEDULA": "1018840968",
+            "NOMBRES": "MARÍA BARRERA PEREA",
+            "CREDITO": "15.736.235",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "288.472",
+            "E.A": "23.41%",
+            "RECOMPRA O DESEMBOLSO": "3.591.812",
+            "FIRMA ELLECTRONICA": "MARÍA BARRERA PEREA - 1018840968"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1018840968",
+            "NOMBRES": "MARÍA BARRERA PEREA",
+            "FIRMA ELLECTRONICA": "MARÍA BARRERA PEREA - 1018840968"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1018840968",
+            "NOMBRES": "MARÍA BARRERA PEREA",
+            "FIRMA ELLECTRONICA": "MARÍA BARRERA PEREA - 1018840968",
+            "AL PIE DE LA FIRMA": "MARÍA BARRERA PEREA - 1018840968"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA BARRERA PEREA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1018840968",
+            "NOMBRES": "MARÍA BARRERA PEREA",
+            "SALARIO": "4.081.597",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1018840968",
+            "NOMBRES": "MARÍA BARRERA PEREA",
+            "RECOMPRA O DESEMBOLSO": "3.591.812"
+        }
+    }
+]

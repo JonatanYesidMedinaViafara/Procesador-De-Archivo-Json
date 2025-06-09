@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "256971299173",
+            "SOLICITUD": "1228285",
+            "CEDULA": "1129592694",
+            "NOMBRES": "GUILLERMO DAVID HERNÁNDEZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.614.918",
+            "FIRMA ELLECTRONICA": "GUILLERMO DAVID HERNÁNDEZ VALENCIA - 1129592694"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "256971299173",
+            "NOMBRES": "GUILLERMO DAVID HERNÁNDEZ VALENCIA",
+            "CREDITO": "8.319.787",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "361.924",
+            "FIRMA ELLECTRONICA": "GUILLERMO DAVID HERNÁNDEZ VALENCIA - 1129592694",
+            "AL PIE DE LA FIRMA": "GUILLERMO DAVID HERNÁNDEZ VALENCIA - 1129592694"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1129592694",
+            "NOMBRES": "GUILLERMO DAVID HERNÁNDEZ VALENCIA",
+            "FECHA NACIMIENTO": "09/10/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.319.787",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "GUILLERMO DAVID HERNÁNDEZ VALENCIA - 1129592694",
+            "AL PIE DE LA FIRMA": "GUILLERMO DAVID HERNÁNDEZ VALENCIA - 1129592694"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1228285",
+            "CEDULA": "1129592694",
+            "NOMBRES": "GUILLERMO DAVID HERNÁNDEZ VALENCIA",
+            "CREDITO": "8.319.787",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "361.924",
+            "E.A": "21.37%",
+            "RECOMPRA O DESEMBOLSO": "2.614.918",
+            "FIRMA ELLECTRONICA": "GUILLERMO DAVID HERNÁNDEZ VALENCIA - 1129592694"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1129592694",
+            "NOMBRES": "GUILLERMO DAVID HERNÁNDEZ VALENCIA",
+            "FIRMA ELLECTRONICA": "GUILLERMO DAVID HERNÁNDEZ VALENCIA - 1129592694"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1129592694",
+            "NOMBRES": "GUILLERMO DAVID HERNÁNDEZ VALENCIA",
+            "FIRMA ELLECTRONICA": "GUILLERMO DAVID HERNÁNDEZ VALENCIA - 1129592694",
+            "AL PIE DE LA FIRMA": "GUILLERMO DAVID HERNÁNDEZ VALENCIA - 1129592694"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GUILLERMO DAVID HERNÁNDEZ VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1129592694",
+            "NOMBRES": "GUILLERMO DAVID HERNÁNDEZ VALENCIA",
+            "SALARIO": "4.358.238",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1129592694",
+            "NOMBRES": "GUILLERMO DAVID HERNÁNDEZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.614.918"
+        }
+    }
+]

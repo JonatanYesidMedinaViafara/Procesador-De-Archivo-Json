@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "321710246916",
+            "SOLICITUD": "3095132",
+            "CEDULA": "1199418562",
+            "NOMBRES": "EDITH REYES FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.985.893",
+            "FIRMA ELLECTRONICA": "EDITH REYES FERNÁNDEZ - 1199418562"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "321710246916",
+            "NOMBRES": "EDITH REYES FERNÁNDEZ",
+            "CREDITO": "8.242.688",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "253.581",
+            "FIRMA ELLECTRONICA": "EDITH REYES FERNÁNDEZ - 1199418562",
+            "AL PIE DE LA FIRMA": "EDITH REYES FERNÁNDEZ - 1199418562"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1199418562",
+            "NOMBRES": "EDITH REYES FERNÁNDEZ",
+            "FECHA NACIMIENTO": "25/10/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.242.688",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDITH REYES FERNÁNDEZ - 1199418562",
+            "AL PIE DE LA FIRMA": "EDITH REYES FERNÁNDEZ - 1199418562"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3095132",
+            "CEDULA": "1199418562",
+            "NOMBRES": "EDITH REYES FERNÁNDEZ",
+            "CREDITO": "8.242.688",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "253.581",
+            "E.A": "28.84%",
+            "RECOMPRA O DESEMBOLSO": "2.985.893",
+            "FIRMA ELLECTRONICA": "EDITH REYES FERNÁNDEZ - 1199418562"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1199418562",
+            "NOMBRES": "EDITH REYES FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "EDITH REYES FERNÁNDEZ - 1199418562"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1199418562",
+            "NOMBRES": "EDITH REYES FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "EDITH REYES FERNÁNDEZ - 1199418562",
+            "AL PIE DE LA FIRMA": "EDITH REYES FERNÁNDEZ - 1199418562"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDITH REYES FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1199418562",
+            "NOMBRES": "EDITH REYES FERNÁNDEZ",
+            "SALARIO": "3.096.973",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1199418562",
+            "NOMBRES": "EDITH REYES FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.985.893"
+        }
+    }
+]

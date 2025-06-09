@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "539223805989",
+            "SOLICITUD": "6238979",
+            "CEDULA": "1128618939",
+            "NOMBRES": "JUDITH FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.344.996",
+            "FIRMA ELLECTRONICA": "JUDITH FERNÁNDEZ - 1128618939"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "539223805989",
+            "NOMBRES": "JUDITH FERNÁNDEZ",
+            "CREDITO": "19.971.478",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "329.981",
+            "FIRMA ELLECTRONICA": "JUDITH FERNÁNDEZ - 1128618939",
+            "AL PIE DE LA FIRMA": "JUDITH FERNÁNDEZ - 1128618939"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1128618939",
+            "NOMBRES": "JUDITH FERNÁNDEZ",
+            "FECHA NACIMIENTO": "07/03/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.971.478",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JUDITH FERNÁNDEZ - 1128618939",
+            "AL PIE DE LA FIRMA": "JUDITH FERNÁNDEZ - 1128618939"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6238979",
+            "CEDULA": "1128618939",
+            "NOMBRES": "JUDITH FERNÁNDEZ",
+            "CREDITO": "19.971.478",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "329.981",
+            "E.A": "25.62%",
+            "RECOMPRA O DESEMBOLSO": "3.344.996",
+            "FIRMA ELLECTRONICA": "JUDITH FERNÁNDEZ - 1128618939"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1128618939",
+            "NOMBRES": "JUDITH FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JUDITH FERNÁNDEZ - 1128618939"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1128618939",
+            "NOMBRES": "JUDITH FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JUDITH FERNÁNDEZ - 1128618939",
+            "AL PIE DE LA FIRMA": "JUDITH FERNÁNDEZ - 1128618939"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUDITH FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1128618939",
+            "NOMBRES": "JUDITH FERNÁNDEZ",
+            "SALARIO": "3.031.277",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1128618939",
+            "NOMBRES": "JUDITH FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.344.996"
+        }
+    }
+]

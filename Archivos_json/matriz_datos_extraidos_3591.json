@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "456605007784",
+            "SOLICITUD": "5542845",
+            "CEDULA": "1381297789",
+            "NOMBRES": "ALEXIS DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.099.466",
+            "FIRMA ELLECTRONICA": "ALEXIS DÍAZ - 1381297789"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "456605007784",
+            "NOMBRES": "ALEXIS DÍAZ",
+            "CREDITO": "12.275.682",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "351.164",
+            "FIRMA ELLECTRONICA": "ALEXIS DÍAZ - 1381297789",
+            "AL PIE DE LA FIRMA": "ALEXIS DÍAZ - 1381297789"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1381297789",
+            "NOMBRES": "ALEXIS DÍAZ",
+            "FECHA NACIMIENTO": "10/01/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.275.682",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALEXIS DÍAZ - 1381297789",
+            "AL PIE DE LA FIRMA": "ALEXIS DÍAZ - 1381297789"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5542845",
+            "CEDULA": "1381297789",
+            "NOMBRES": "ALEXIS DÍAZ",
+            "CREDITO": "12.275.682",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "351.164",
+            "E.A": "19.31%",
+            "RECOMPRA O DESEMBOLSO": "4.099.466",
+            "FIRMA ELLECTRONICA": "ALEXIS DÍAZ - 1381297789"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1381297789",
+            "NOMBRES": "ALEXIS DÍAZ",
+            "FIRMA ELLECTRONICA": "ALEXIS DÍAZ - 1381297789"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1381297789",
+            "NOMBRES": "ALEXIS DÍAZ",
+            "FIRMA ELLECTRONICA": "ALEXIS DÍAZ - 1381297789",
+            "AL PIE DE LA FIRMA": "ALEXIS DÍAZ - 1381297789"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXIS DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1381297789",
+            "NOMBRES": "ALEXIS DÍAZ",
+            "SALARIO": "3.027.980",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1381297789",
+            "NOMBRES": "ALEXIS DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.099.466"
+        }
+    }
+]

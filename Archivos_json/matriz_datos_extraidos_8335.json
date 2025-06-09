@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "737367265371",
+            "SOLICITUD": "7772571",
+            "CEDULA": "1072742472",
+            "NOMBRES": "EDITH STELLA LEÓN DURÁN",
+            "RECOMPRA O DESEMBOLSO": "4.007.505",
+            "FIRMA ELLECTRONICA": "EDITH STELLA LEÓN DURÁN - 1072742472"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "737367265371",
+            "NOMBRES": "EDITH STELLA LEÓN DURÁN",
+            "CREDITO": "16.866.708",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "125.364",
+            "FIRMA ELLECTRONICA": "EDITH STELLA LEÓN DURÁN - 1072742472",
+            "AL PIE DE LA FIRMA": "EDITH STELLA LEÓN DURÁN - 1072742472"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1072742472",
+            "NOMBRES": "EDITH STELLA LEÓN DURÁN",
+            "FECHA NACIMIENTO": "06/07/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.866.708",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "EDITH STELLA LEÓN DURÁN - 1072742472",
+            "AL PIE DE LA FIRMA": "EDITH STELLA LEÓN DURÁN - 1072742472"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7772571",
+            "CEDULA": "1072742472",
+            "NOMBRES": "EDITH STELLA LEÓN DURÁN",
+            "CREDITO": "16.866.708",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "125.364",
+            "E.A": "27.16%",
+            "RECOMPRA O DESEMBOLSO": "4.007.505",
+            "FIRMA ELLECTRONICA": "EDITH STELLA LEÓN DURÁN - 1072742472"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1072742472",
+            "NOMBRES": "EDITH STELLA LEÓN DURÁN",
+            "FIRMA ELLECTRONICA": "EDITH STELLA LEÓN DURÁN - 1072742472"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1072742472",
+            "NOMBRES": "EDITH STELLA LEÓN DURÁN",
+            "FIRMA ELLECTRONICA": "EDITH STELLA LEÓN DURÁN - 1072742472",
+            "AL PIE DE LA FIRMA": "EDITH STELLA LEÓN DURÁN - 1072742472"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDITH STELLA LEÓN DURÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1072742472",
+            "NOMBRES": "EDITH STELLA LEÓN DURÁN",
+            "SALARIO": "3.509.006",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1072742472",
+            "NOMBRES": "EDITH STELLA LEÓN DURÁN",
+            "RECOMPRA O DESEMBOLSO": "4.007.505"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "894369194020",
+            "SOLICITUD": "8442454",
+            "CEDULA": "1718158425",
+            "NOMBRES": "JOSÉ ABEL SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.410.998",
+            "FIRMA ELLECTRONICA": "JOSÉ ABEL SUÁREZ - 1718158425"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "894369194020",
+            "NOMBRES": "JOSÉ ABEL SUÁREZ",
+            "CREDITO": "14.264.995",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "197.481",
+            "FIRMA ELLECTRONICA": "JOSÉ ABEL SUÁREZ - 1718158425",
+            "AL PIE DE LA FIRMA": "JOSÉ ABEL SUÁREZ - 1718158425"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1718158425",
+            "NOMBRES": "JOSÉ ABEL SUÁREZ",
+            "FECHA NACIMIENTO": "25/11/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.264.995",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ ABEL SUÁREZ - 1718158425",
+            "AL PIE DE LA FIRMA": "JOSÉ ABEL SUÁREZ - 1718158425"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8442454",
+            "CEDULA": "1718158425",
+            "NOMBRES": "JOSÉ ABEL SUÁREZ",
+            "CREDITO": "14.264.995",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "197.481",
+            "E.A": "23.0%",
+            "RECOMPRA O DESEMBOLSO": "3.410.998",
+            "FIRMA ELLECTRONICA": "JOSÉ ABEL SUÁREZ - 1718158425"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1718158425",
+            "NOMBRES": "JOSÉ ABEL SUÁREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ ABEL SUÁREZ - 1718158425"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1718158425",
+            "NOMBRES": "JOSÉ ABEL SUÁREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ ABEL SUÁREZ - 1718158425",
+            "AL PIE DE LA FIRMA": "JOSÉ ABEL SUÁREZ - 1718158425"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ABEL SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1718158425",
+            "NOMBRES": "JOSÉ ABEL SUÁREZ",
+            "SALARIO": "2.469.209",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1718158425",
+            "NOMBRES": "JOSÉ ABEL SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.410.998"
+        }
+    }
+]

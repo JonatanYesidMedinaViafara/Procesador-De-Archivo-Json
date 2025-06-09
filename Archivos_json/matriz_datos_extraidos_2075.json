@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "333376984471",
+            "SOLICITUD": "5411061",
+            "CEDULA": "1934796657",
+            "NOMBRES": "VILMA MARGARITA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.623.566",
+            "FIRMA ELLECTRONICA": "VILMA MARGARITA VARGAS - 1934796657"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "333376984471",
+            "NOMBRES": "VILMA MARGARITA VARGAS",
+            "CREDITO": "16.572.032",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "266.626",
+            "FIRMA ELLECTRONICA": "VILMA MARGARITA VARGAS - 1934796657",
+            "AL PIE DE LA FIRMA": "VILMA MARGARITA VARGAS - 1934796657"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1934796657",
+            "NOMBRES": "VILMA MARGARITA VARGAS",
+            "FECHA NACIMIENTO": "09/08/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.572.032",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "VILMA MARGARITA VARGAS - 1934796657",
+            "AL PIE DE LA FIRMA": "VILMA MARGARITA VARGAS - 1934796657"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5411061",
+            "CEDULA": "1934796657",
+            "NOMBRES": "VILMA MARGARITA VARGAS",
+            "CREDITO": "16.572.032",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "266.626",
+            "E.A": "22.66%",
+            "RECOMPRA O DESEMBOLSO": "2.623.566",
+            "FIRMA ELLECTRONICA": "VILMA MARGARITA VARGAS - 1934796657"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1934796657",
+            "NOMBRES": "VILMA MARGARITA VARGAS",
+            "FIRMA ELLECTRONICA": "VILMA MARGARITA VARGAS - 1934796657"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1934796657",
+            "NOMBRES": "VILMA MARGARITA VARGAS",
+            "FIRMA ELLECTRONICA": "VILMA MARGARITA VARGAS - 1934796657",
+            "AL PIE DE LA FIRMA": "VILMA MARGARITA VARGAS - 1934796657"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VILMA MARGARITA VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1934796657",
+            "NOMBRES": "VILMA MARGARITA VARGAS",
+            "SALARIO": "4.041.917",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1934796657",
+            "NOMBRES": "VILMA MARGARITA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.623.566"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "518955502961",
+            "SOLICITUD": "9162795",
+            "CEDULA": "1206722510",
+            "NOMBRES": "LUIS MOLINA CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "2.255.991",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA CÁRDENAS - 1206722510"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "518955502961",
+            "NOMBRES": "LUIS MOLINA CÁRDENAS",
+            "CREDITO": "12.114.391",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "191.779",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA CÁRDENAS - 1206722510",
+            "AL PIE DE LA FIRMA": "LUIS MOLINA CÁRDENAS - 1206722510"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1206722510",
+            "NOMBRES": "LUIS MOLINA CÁRDENAS",
+            "FECHA NACIMIENTO": "20/03/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.114.391",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA CÁRDENAS - 1206722510",
+            "AL PIE DE LA FIRMA": "LUIS MOLINA CÁRDENAS - 1206722510"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9162795",
+            "CEDULA": "1206722510",
+            "NOMBRES": "LUIS MOLINA CÁRDENAS",
+            "CREDITO": "12.114.391",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "191.779",
+            "E.A": "23.56%",
+            "RECOMPRA O DESEMBOLSO": "2.255.991",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA CÁRDENAS - 1206722510"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1206722510",
+            "NOMBRES": "LUIS MOLINA CÁRDENAS",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA CÁRDENAS - 1206722510"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1206722510",
+            "NOMBRES": "LUIS MOLINA CÁRDENAS",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA CÁRDENAS - 1206722510",
+            "AL PIE DE LA FIRMA": "LUIS MOLINA CÁRDENAS - 1206722510"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MOLINA CÁRDENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1206722510",
+            "NOMBRES": "LUIS MOLINA CÁRDENAS",
+            "SALARIO": "4.178.755",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1206722510",
+            "NOMBRES": "LUIS MOLINA CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "2.255.991"
+        }
+    }
+]

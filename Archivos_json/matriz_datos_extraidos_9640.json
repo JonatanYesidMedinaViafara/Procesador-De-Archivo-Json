@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "747832231321",
+            "SOLICITUD": "7264902",
+            "CEDULA": "1423504684",
+            "NOMBRES": "ÓSCAR LUIS LOZANO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.132.351",
+            "FIRMA ELLECTRONICA": "ÓSCAR LUIS LOZANO GÓMEZ - 1423504684"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "747832231321",
+            "NOMBRES": "ÓSCAR LUIS LOZANO GÓMEZ",
+            "CREDITO": "16.225.071",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.412",
+            "FIRMA ELLECTRONICA": "ÓSCAR LUIS LOZANO GÓMEZ - 1423504684",
+            "AL PIE DE LA FIRMA": "ÓSCAR LUIS LOZANO GÓMEZ - 1423504684"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1423504684",
+            "NOMBRES": "ÓSCAR LUIS LOZANO GÓMEZ",
+            "FECHA NACIMIENTO": "03/01/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.225.071",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ÓSCAR LUIS LOZANO GÓMEZ - 1423504684",
+            "AL PIE DE LA FIRMA": "ÓSCAR LUIS LOZANO GÓMEZ - 1423504684"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7264902",
+            "CEDULA": "1423504684",
+            "NOMBRES": "ÓSCAR LUIS LOZANO GÓMEZ",
+            "CREDITO": "16.225.071",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.412",
+            "E.A": "19.31%",
+            "RECOMPRA O DESEMBOLSO": "1.132.351",
+            "FIRMA ELLECTRONICA": "ÓSCAR LUIS LOZANO GÓMEZ - 1423504684"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1423504684",
+            "NOMBRES": "ÓSCAR LUIS LOZANO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR LUIS LOZANO GÓMEZ - 1423504684"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1423504684",
+            "NOMBRES": "ÓSCAR LUIS LOZANO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR LUIS LOZANO GÓMEZ - 1423504684",
+            "AL PIE DE LA FIRMA": "ÓSCAR LUIS LOZANO GÓMEZ - 1423504684"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR LUIS LOZANO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1423504684",
+            "NOMBRES": "ÓSCAR LUIS LOZANO GÓMEZ",
+            "SALARIO": "2.732.515",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1423504684",
+            "NOMBRES": "ÓSCAR LUIS LOZANO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.132.351"
+        }
+    }
+]

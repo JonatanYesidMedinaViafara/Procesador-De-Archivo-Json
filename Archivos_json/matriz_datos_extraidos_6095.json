@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "902973592349",
+            "SOLICITUD": "3612634",
+            "CEDULA": "1265817467",
+            "NOMBRES": "DIEGO MOSQUERA CARO",
+            "RECOMPRA O DESEMBOLSO": "4.840.869",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA CARO - 1265817467"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "902973592349",
+            "NOMBRES": "DIEGO MOSQUERA CARO",
+            "CREDITO": "15.185.282",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "357.891",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA CARO - 1265817467",
+            "AL PIE DE LA FIRMA": "DIEGO MOSQUERA CARO - 1265817467"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1265817467",
+            "NOMBRES": "DIEGO MOSQUERA CARO",
+            "FECHA NACIMIENTO": "27/08/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.185.282",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA CARO - 1265817467",
+            "AL PIE DE LA FIRMA": "DIEGO MOSQUERA CARO - 1265817467"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3612634",
+            "CEDULA": "1265817467",
+            "NOMBRES": "DIEGO MOSQUERA CARO",
+            "CREDITO": "15.185.282",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "357.891",
+            "E.A": "21.55%",
+            "RECOMPRA O DESEMBOLSO": "4.840.869",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA CARO - 1265817467"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1265817467",
+            "NOMBRES": "DIEGO MOSQUERA CARO",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA CARO - 1265817467"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1265817467",
+            "NOMBRES": "DIEGO MOSQUERA CARO",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA CARO - 1265817467",
+            "AL PIE DE LA FIRMA": "DIEGO MOSQUERA CARO - 1265817467"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO MOSQUERA CARO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1265817467",
+            "NOMBRES": "DIEGO MOSQUERA CARO",
+            "SALARIO": "1.268.427",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1265817467",
+            "NOMBRES": "DIEGO MOSQUERA CARO",
+            "RECOMPRA O DESEMBOLSO": "4.840.869"
+        }
+    }
+]

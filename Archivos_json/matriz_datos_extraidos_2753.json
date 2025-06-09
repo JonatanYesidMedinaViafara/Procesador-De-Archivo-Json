@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "548114104075",
+            "SOLICITUD": "5201197",
+            "CEDULA": "1109531112",
+            "NOMBRES": "CARLOS ARTURO RAMOS PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.684.874",
+            "FIRMA ELLECTRONICA": "CARLOS ARTURO RAMOS PÉREZ - 1109531112"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "548114104075",
+            "NOMBRES": "CARLOS ARTURO RAMOS PÉREZ",
+            "CREDITO": "17.274.474",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "307.994",
+            "FIRMA ELLECTRONICA": "CARLOS ARTURO RAMOS PÉREZ - 1109531112",
+            "AL PIE DE LA FIRMA": "CARLOS ARTURO RAMOS PÉREZ - 1109531112"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1109531112",
+            "NOMBRES": "CARLOS ARTURO RAMOS PÉREZ",
+            "FECHA NACIMIENTO": "10/11/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.274.474",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARLOS ARTURO RAMOS PÉREZ - 1109531112",
+            "AL PIE DE LA FIRMA": "CARLOS ARTURO RAMOS PÉREZ - 1109531112"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5201197",
+            "CEDULA": "1109531112",
+            "NOMBRES": "CARLOS ARTURO RAMOS PÉREZ",
+            "CREDITO": "17.274.474",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "307.994",
+            "E.A": "21.52%",
+            "RECOMPRA O DESEMBOLSO": "4.684.874",
+            "FIRMA ELLECTRONICA": "CARLOS ARTURO RAMOS PÉREZ - 1109531112"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1109531112",
+            "NOMBRES": "CARLOS ARTURO RAMOS PÉREZ",
+            "FIRMA ELLECTRONICA": "CARLOS ARTURO RAMOS PÉREZ - 1109531112"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1109531112",
+            "NOMBRES": "CARLOS ARTURO RAMOS PÉREZ",
+            "FIRMA ELLECTRONICA": "CARLOS ARTURO RAMOS PÉREZ - 1109531112",
+            "AL PIE DE LA FIRMA": "CARLOS ARTURO RAMOS PÉREZ - 1109531112"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS ARTURO RAMOS PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1109531112",
+            "NOMBRES": "CARLOS ARTURO RAMOS PÉREZ",
+            "SALARIO": "3.458.495",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1109531112",
+            "NOMBRES": "CARLOS ARTURO RAMOS PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.684.874"
+        }
+    }
+]

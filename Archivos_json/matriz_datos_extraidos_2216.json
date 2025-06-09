@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "592671194873",
+            "SOLICITUD": "3760832",
+            "CEDULA": "1762567065",
+            "NOMBRES": "CARLOS ARIAS",
+            "RECOMPRA O DESEMBOLSO": "1.500.632",
+            "FIRMA ELLECTRONICA": "CARLOS ARIAS - 1762567065"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "592671194873",
+            "NOMBRES": "CARLOS ARIAS",
+            "CREDITO": "13.713.352",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "164.374",
+            "FIRMA ELLECTRONICA": "CARLOS ARIAS - 1762567065",
+            "AL PIE DE LA FIRMA": "CARLOS ARIAS - 1762567065"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1762567065",
+            "NOMBRES": "CARLOS ARIAS",
+            "FECHA NACIMIENTO": "22/01/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.713.352",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS ARIAS - 1762567065",
+            "AL PIE DE LA FIRMA": "CARLOS ARIAS - 1762567065"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3760832",
+            "CEDULA": "1762567065",
+            "NOMBRES": "CARLOS ARIAS",
+            "CREDITO": "13.713.352",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "164.374",
+            "E.A": "23.44%",
+            "RECOMPRA O DESEMBOLSO": "1.500.632",
+            "FIRMA ELLECTRONICA": "CARLOS ARIAS - 1762567065"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1762567065",
+            "NOMBRES": "CARLOS ARIAS",
+            "FIRMA ELLECTRONICA": "CARLOS ARIAS - 1762567065"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1762567065",
+            "NOMBRES": "CARLOS ARIAS",
+            "FIRMA ELLECTRONICA": "CARLOS ARIAS - 1762567065",
+            "AL PIE DE LA FIRMA": "CARLOS ARIAS - 1762567065"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1762567065",
+            "NOMBRES": "CARLOS ARIAS",
+            "SALARIO": "3.445.134",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1762567065",
+            "NOMBRES": "CARLOS ARIAS",
+            "RECOMPRA O DESEMBOLSO": "1.500.632"
+        }
+    }
+]

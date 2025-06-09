@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "603472613463",
+            "SOLICITUD": "3864223",
+            "CEDULA": "1349885294",
+            "NOMBRES": "DIEGO GALVIS GARCÉS",
+            "RECOMPRA O DESEMBOLSO": "4.548.193",
+            "FIRMA ELLECTRONICA": "DIEGO GALVIS GARCÉS - 1349885294"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "603472613463",
+            "NOMBRES": "DIEGO GALVIS GARCÉS",
+            "CREDITO": "7.647.402",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "265.695",
+            "FIRMA ELLECTRONICA": "DIEGO GALVIS GARCÉS - 1349885294",
+            "AL PIE DE LA FIRMA": "DIEGO GALVIS GARCÉS - 1349885294"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1349885294",
+            "NOMBRES": "DIEGO GALVIS GARCÉS",
+            "FECHA NACIMIENTO": "05/08/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.647.402",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DIEGO GALVIS GARCÉS - 1349885294",
+            "AL PIE DE LA FIRMA": "DIEGO GALVIS GARCÉS - 1349885294"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3864223",
+            "CEDULA": "1349885294",
+            "NOMBRES": "DIEGO GALVIS GARCÉS",
+            "CREDITO": "7.647.402",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "265.695",
+            "E.A": "23.93%",
+            "RECOMPRA O DESEMBOLSO": "4.548.193",
+            "FIRMA ELLECTRONICA": "DIEGO GALVIS GARCÉS - 1349885294"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1349885294",
+            "NOMBRES": "DIEGO GALVIS GARCÉS",
+            "FIRMA ELLECTRONICA": "DIEGO GALVIS GARCÉS - 1349885294"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1349885294",
+            "NOMBRES": "DIEGO GALVIS GARCÉS",
+            "FIRMA ELLECTRONICA": "DIEGO GALVIS GARCÉS - 1349885294",
+            "AL PIE DE LA FIRMA": "DIEGO GALVIS GARCÉS - 1349885294"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO GALVIS GARCÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1349885294",
+            "NOMBRES": "DIEGO GALVIS GARCÉS",
+            "SALARIO": "2.272.805",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1349885294",
+            "NOMBRES": "DIEGO GALVIS GARCÉS",
+            "RECOMPRA O DESEMBOLSO": "4.548.193"
+        }
+    }
+]

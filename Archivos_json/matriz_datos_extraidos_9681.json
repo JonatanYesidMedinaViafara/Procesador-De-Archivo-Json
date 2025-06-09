@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "718029120094",
+            "SOLICITUD": "5083311",
+            "CEDULA": "1171703705",
+            "NOMBRES": "ANA DIANA ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "4.634.466",
+            "FIRMA ELLECTRONICA": "ANA DIANA ÁVILA - 1171703705"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "718029120094",
+            "NOMBRES": "ANA DIANA ÁVILA",
+            "CREDITO": "15.707.838",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "357.78",
+            "FIRMA ELLECTRONICA": "ANA DIANA ÁVILA - 1171703705",
+            "AL PIE DE LA FIRMA": "ANA DIANA ÁVILA - 1171703705"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1171703705",
+            "NOMBRES": "ANA DIANA ÁVILA",
+            "FECHA NACIMIENTO": "07/04/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.707.838",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANA DIANA ÁVILA - 1171703705",
+            "AL PIE DE LA FIRMA": "ANA DIANA ÁVILA - 1171703705"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5083311",
+            "CEDULA": "1171703705",
+            "NOMBRES": "ANA DIANA ÁVILA",
+            "CREDITO": "15.707.838",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "357.78",
+            "E.A": "21.56%",
+            "RECOMPRA O DESEMBOLSO": "4.634.466",
+            "FIRMA ELLECTRONICA": "ANA DIANA ÁVILA - 1171703705"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1171703705",
+            "NOMBRES": "ANA DIANA ÁVILA",
+            "FIRMA ELLECTRONICA": "ANA DIANA ÁVILA - 1171703705"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1171703705",
+            "NOMBRES": "ANA DIANA ÁVILA",
+            "FIRMA ELLECTRONICA": "ANA DIANA ÁVILA - 1171703705",
+            "AL PIE DE LA FIRMA": "ANA DIANA ÁVILA - 1171703705"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA DIANA ÁVILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1171703705",
+            "NOMBRES": "ANA DIANA ÁVILA",
+            "SALARIO": "3.033.316",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1171703705",
+            "NOMBRES": "ANA DIANA ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "4.634.466"
+        }
+    }
+]

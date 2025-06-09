@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "497196354261",
+            "SOLICITUD": "1234362",
+            "CEDULA": "1109287899",
+            "NOMBRES": "ANA DIANA MORENO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.803.123",
+            "FIRMA ELLECTRONICA": "ANA DIANA MORENO GÓMEZ - 1109287899"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "497196354261",
+            "NOMBRES": "ANA DIANA MORENO GÓMEZ",
+            "CREDITO": "12.399.663",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "350.598",
+            "FIRMA ELLECTRONICA": "ANA DIANA MORENO GÓMEZ - 1109287899",
+            "AL PIE DE LA FIRMA": "ANA DIANA MORENO GÓMEZ - 1109287899"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1109287899",
+            "NOMBRES": "ANA DIANA MORENO GÓMEZ",
+            "FECHA NACIMIENTO": "01/02/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.399.663",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANA DIANA MORENO GÓMEZ - 1109287899",
+            "AL PIE DE LA FIRMA": "ANA DIANA MORENO GÓMEZ - 1109287899"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1234362",
+            "CEDULA": "1109287899",
+            "NOMBRES": "ANA DIANA MORENO GÓMEZ",
+            "CREDITO": "12.399.663",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "350.598",
+            "E.A": "21.31%",
+            "RECOMPRA O DESEMBOLSO": "1.803.123",
+            "FIRMA ELLECTRONICA": "ANA DIANA MORENO GÓMEZ - 1109287899"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1109287899",
+            "NOMBRES": "ANA DIANA MORENO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANA DIANA MORENO GÓMEZ - 1109287899"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1109287899",
+            "NOMBRES": "ANA DIANA MORENO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANA DIANA MORENO GÓMEZ - 1109287899",
+            "AL PIE DE LA FIRMA": "ANA DIANA MORENO GÓMEZ - 1109287899"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA DIANA MORENO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1109287899",
+            "NOMBRES": "ANA DIANA MORENO GÓMEZ",
+            "SALARIO": "4.300.748",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1109287899",
+            "NOMBRES": "ANA DIANA MORENO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.803.123"
+        }
+    }
+]

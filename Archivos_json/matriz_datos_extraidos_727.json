@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "288201993325",
+            "SOLICITUD": "6763874",
+            "CEDULA": "1471987328",
+            "NOMBRES": "IGNACIO MORALES",
+            "RECOMPRA O DESEMBOLSO": "1.055.777",
+            "FIRMA ELLECTRONICA": "IGNACIO MORALES - 1471987328"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "288201993325",
+            "NOMBRES": "IGNACIO MORALES",
+            "CREDITO": "9.306.616",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "164.292",
+            "FIRMA ELLECTRONICA": "IGNACIO MORALES - 1471987328",
+            "AL PIE DE LA FIRMA": "IGNACIO MORALES - 1471987328"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1471987328",
+            "NOMBRES": "IGNACIO MORALES",
+            "FECHA NACIMIENTO": "26/11/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.306.616",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "IGNACIO MORALES - 1471987328",
+            "AL PIE DE LA FIRMA": "IGNACIO MORALES - 1471987328"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6763874",
+            "CEDULA": "1471987328",
+            "NOMBRES": "IGNACIO MORALES",
+            "CREDITO": "9.306.616",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "164.292",
+            "E.A": "25.69%",
+            "RECOMPRA O DESEMBOLSO": "1.055.777",
+            "FIRMA ELLECTRONICA": "IGNACIO MORALES - 1471987328"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1471987328",
+            "NOMBRES": "IGNACIO MORALES",
+            "FIRMA ELLECTRONICA": "IGNACIO MORALES - 1471987328"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1471987328",
+            "NOMBRES": "IGNACIO MORALES",
+            "FIRMA ELLECTRONICA": "IGNACIO MORALES - 1471987328",
+            "AL PIE DE LA FIRMA": "IGNACIO MORALES - 1471987328"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IGNACIO MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1471987328",
+            "NOMBRES": "IGNACIO MORALES",
+            "SALARIO": "3.566.216",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1471987328",
+            "NOMBRES": "IGNACIO MORALES",
+            "RECOMPRA O DESEMBOLSO": "1.055.777"
+        }
+    }
+]

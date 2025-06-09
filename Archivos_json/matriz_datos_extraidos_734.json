@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "282255335262",
+            "SOLICITUD": "1557872",
+            "CEDULA": "1406747884",
+            "NOMBRES": "AURA ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "4.236.915",
+            "FIRMA ELLECTRONICA": "AURA ACEVEDO - 1406747884"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "282255335262",
+            "NOMBRES": "AURA ACEVEDO",
+            "CREDITO": "8.120.943",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "342.881",
+            "FIRMA ELLECTRONICA": "AURA ACEVEDO - 1406747884",
+            "AL PIE DE LA FIRMA": "AURA ACEVEDO - 1406747884"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1406747884",
+            "NOMBRES": "AURA ACEVEDO",
+            "FECHA NACIMIENTO": "16/10/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.120.943",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "AURA ACEVEDO - 1406747884",
+            "AL PIE DE LA FIRMA": "AURA ACEVEDO - 1406747884"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1557872",
+            "CEDULA": "1406747884",
+            "NOMBRES": "AURA ACEVEDO",
+            "CREDITO": "8.120.943",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "342.881",
+            "E.A": "26.25%",
+            "RECOMPRA O DESEMBOLSO": "4.236.915",
+            "FIRMA ELLECTRONICA": "AURA ACEVEDO - 1406747884"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1406747884",
+            "NOMBRES": "AURA ACEVEDO",
+            "FIRMA ELLECTRONICA": "AURA ACEVEDO - 1406747884"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1406747884",
+            "NOMBRES": "AURA ACEVEDO",
+            "FIRMA ELLECTRONICA": "AURA ACEVEDO - 1406747884",
+            "AL PIE DE LA FIRMA": "AURA ACEVEDO - 1406747884"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AURA ACEVEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1406747884",
+            "NOMBRES": "AURA ACEVEDO",
+            "SALARIO": "4.629.710",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1406747884",
+            "NOMBRES": "AURA ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "4.236.915"
+        }
+    }
+]

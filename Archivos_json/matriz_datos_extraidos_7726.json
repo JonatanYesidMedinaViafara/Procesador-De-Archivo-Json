@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "894860648852",
+            "SOLICITUD": "7440156",
+            "CEDULA": "1752328987",
+            "NOMBRES": "JOHN ANDRÉS GUEVARA",
+            "RECOMPRA O DESEMBOLSO": "4.986.396",
+            "FIRMA ELLECTRONICA": "JOHN ANDRÉS GUEVARA - 1752328987"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "894860648852",
+            "NOMBRES": "JOHN ANDRÉS GUEVARA",
+            "CREDITO": "5.496.097",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "286.897",
+            "FIRMA ELLECTRONICA": "JOHN ANDRÉS GUEVARA - 1752328987",
+            "AL PIE DE LA FIRMA": "JOHN ANDRÉS GUEVARA - 1752328987"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1752328987",
+            "NOMBRES": "JOHN ANDRÉS GUEVARA",
+            "FECHA NACIMIENTO": "05/06/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.496.097",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOHN ANDRÉS GUEVARA - 1752328987",
+            "AL PIE DE LA FIRMA": "JOHN ANDRÉS GUEVARA - 1752328987"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7440156",
+            "CEDULA": "1752328987",
+            "NOMBRES": "JOHN ANDRÉS GUEVARA",
+            "CREDITO": "5.496.097",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "286.897",
+            "E.A": "23.9%",
+            "RECOMPRA O DESEMBOLSO": "4.986.396",
+            "FIRMA ELLECTRONICA": "JOHN ANDRÉS GUEVARA - 1752328987"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1752328987",
+            "NOMBRES": "JOHN ANDRÉS GUEVARA",
+            "FIRMA ELLECTRONICA": "JOHN ANDRÉS GUEVARA - 1752328987"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1752328987",
+            "NOMBRES": "JOHN ANDRÉS GUEVARA",
+            "FIRMA ELLECTRONICA": "JOHN ANDRÉS GUEVARA - 1752328987",
+            "AL PIE DE LA FIRMA": "JOHN ANDRÉS GUEVARA - 1752328987"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN ANDRÉS GUEVARA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1752328987",
+            "NOMBRES": "JOHN ANDRÉS GUEVARA",
+            "SALARIO": "3.791.122",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1752328987",
+            "NOMBRES": "JOHN ANDRÉS GUEVARA",
+            "RECOMPRA O DESEMBOLSO": "4.986.396"
+        }
+    }
+]

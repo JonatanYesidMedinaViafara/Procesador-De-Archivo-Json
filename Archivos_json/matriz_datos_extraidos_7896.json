@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "107447198784",
+            "SOLICITUD": "7453482",
+            "CEDULA": "1773514344",
+            "NOMBRES": "ISABEL PAULA OCHOA",
+            "RECOMPRA O DESEMBOLSO": "2.732.718",
+            "FIRMA ELLECTRONICA": "ISABEL PAULA OCHOA - 1773514344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "107447198784",
+            "NOMBRES": "ISABEL PAULA OCHOA",
+            "CREDITO": "12.918.606",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "156.578",
+            "FIRMA ELLECTRONICA": "ISABEL PAULA OCHOA - 1773514344",
+            "AL PIE DE LA FIRMA": "ISABEL PAULA OCHOA - 1773514344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1773514344",
+            "NOMBRES": "ISABEL PAULA OCHOA",
+            "FECHA NACIMIENTO": "19/02/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.918.606",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ISABEL PAULA OCHOA - 1773514344",
+            "AL PIE DE LA FIRMA": "ISABEL PAULA OCHOA - 1773514344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7453482",
+            "CEDULA": "1773514344",
+            "NOMBRES": "ISABEL PAULA OCHOA",
+            "CREDITO": "12.918.606",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "156.578",
+            "E.A": "23.2%",
+            "RECOMPRA O DESEMBOLSO": "2.732.718",
+            "FIRMA ELLECTRONICA": "ISABEL PAULA OCHOA - 1773514344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1773514344",
+            "NOMBRES": "ISABEL PAULA OCHOA",
+            "FIRMA ELLECTRONICA": "ISABEL PAULA OCHOA - 1773514344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1773514344",
+            "NOMBRES": "ISABEL PAULA OCHOA",
+            "FIRMA ELLECTRONICA": "ISABEL PAULA OCHOA - 1773514344",
+            "AL PIE DE LA FIRMA": "ISABEL PAULA OCHOA - 1773514344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL PAULA OCHOA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1773514344",
+            "NOMBRES": "ISABEL PAULA OCHOA",
+            "SALARIO": "1.574.909",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1773514344",
+            "NOMBRES": "ISABEL PAULA OCHOA",
+            "RECOMPRA O DESEMBOLSO": "2.732.718"
+        }
+    }
+]

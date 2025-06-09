@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "136146592642",
+            "SOLICITUD": "7873528",
+            "CEDULA": "1293751402",
+            "NOMBRES": "SAÚL JAVIER BOLAÑOS",
+            "RECOMPRA O DESEMBOLSO": "3.400.485",
+            "FIRMA ELLECTRONICA": "SAÚL JAVIER BOLAÑOS - 1293751402"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "136146592642",
+            "NOMBRES": "SAÚL JAVIER BOLAÑOS",
+            "CREDITO": "14.750.367",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "303.132",
+            "FIRMA ELLECTRONICA": "SAÚL JAVIER BOLAÑOS - 1293751402",
+            "AL PIE DE LA FIRMA": "SAÚL JAVIER BOLAÑOS - 1293751402"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1293751402",
+            "NOMBRES": "SAÚL JAVIER BOLAÑOS",
+            "FECHA NACIMIENTO": "22/03/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.750.367",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SAÚL JAVIER BOLAÑOS - 1293751402",
+            "AL PIE DE LA FIRMA": "SAÚL JAVIER BOLAÑOS - 1293751402"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7873528",
+            "CEDULA": "1293751402",
+            "NOMBRES": "SAÚL JAVIER BOLAÑOS",
+            "CREDITO": "14.750.367",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "303.132",
+            "E.A": "19.48%",
+            "RECOMPRA O DESEMBOLSO": "3.400.485",
+            "FIRMA ELLECTRONICA": "SAÚL JAVIER BOLAÑOS - 1293751402"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1293751402",
+            "NOMBRES": "SAÚL JAVIER BOLAÑOS",
+            "FIRMA ELLECTRONICA": "SAÚL JAVIER BOLAÑOS - 1293751402"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1293751402",
+            "NOMBRES": "SAÚL JAVIER BOLAÑOS",
+            "FIRMA ELLECTRONICA": "SAÚL JAVIER BOLAÑOS - 1293751402",
+            "AL PIE DE LA FIRMA": "SAÚL JAVIER BOLAÑOS - 1293751402"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SAÚL JAVIER BOLAÑOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1293751402",
+            "NOMBRES": "SAÚL JAVIER BOLAÑOS",
+            "SALARIO": "2.108.329",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1293751402",
+            "NOMBRES": "SAÚL JAVIER BOLAÑOS",
+            "RECOMPRA O DESEMBOLSO": "3.400.485"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "891879530988",
+            "SOLICITUD": "3055638",
+            "CEDULA": "1474529251",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.583.194",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1474529251"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "891879530988",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "CREDITO": "9.984.756",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "352.264",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1474529251",
+            "AL PIE DE LA FIRMA": "CAMILO SUÁREZ - 1474529251"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1474529251",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "FECHA NACIMIENTO": "03/12/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.984.756",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1474529251",
+            "AL PIE DE LA FIRMA": "CAMILO SUÁREZ - 1474529251"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3055638",
+            "CEDULA": "1474529251",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "CREDITO": "9.984.756",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "352.264",
+            "E.A": "22.81%",
+            "RECOMPRA O DESEMBOLSO": "2.583.194",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1474529251"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1474529251",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1474529251"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1474529251",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1474529251",
+            "AL PIE DE LA FIRMA": "CAMILO SUÁREZ - 1474529251"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1474529251",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "SALARIO": "2.536.540",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1474529251",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.583.194"
+        }
+    }
+]

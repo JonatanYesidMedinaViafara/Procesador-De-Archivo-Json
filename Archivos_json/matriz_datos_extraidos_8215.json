@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "129504068980",
+            "SOLICITUD": "3176480",
+            "CEDULA": "1653754958",
+            "NOMBRES": "ALEJANDRO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.354.065",
+            "FIRMA ELLECTRONICA": "ALEJANDRO HERNÁNDEZ - 1653754958"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "129504068980",
+            "NOMBRES": "ALEJANDRO HERNÁNDEZ",
+            "CREDITO": "16.856.921",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "382.154",
+            "FIRMA ELLECTRONICA": "ALEJANDRO HERNÁNDEZ - 1653754958",
+            "AL PIE DE LA FIRMA": "ALEJANDRO HERNÁNDEZ - 1653754958"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1653754958",
+            "NOMBRES": "ALEJANDRO HERNÁNDEZ",
+            "FECHA NACIMIENTO": "05/07/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.856.921",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALEJANDRO HERNÁNDEZ - 1653754958",
+            "AL PIE DE LA FIRMA": "ALEJANDRO HERNÁNDEZ - 1653754958"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3176480",
+            "CEDULA": "1653754958",
+            "NOMBRES": "ALEJANDRO HERNÁNDEZ",
+            "CREDITO": "16.856.921",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "382.154",
+            "E.A": "22.14%",
+            "RECOMPRA O DESEMBOLSO": "2.354.065",
+            "FIRMA ELLECTRONICA": "ALEJANDRO HERNÁNDEZ - 1653754958"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1653754958",
+            "NOMBRES": "ALEJANDRO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRO HERNÁNDEZ - 1653754958"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1653754958",
+            "NOMBRES": "ALEJANDRO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRO HERNÁNDEZ - 1653754958",
+            "AL PIE DE LA FIRMA": "ALEJANDRO HERNÁNDEZ - 1653754958"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1653754958",
+            "NOMBRES": "ALEJANDRO HERNÁNDEZ",
+            "SALARIO": "1.179.762",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1653754958",
+            "NOMBRES": "ALEJANDRO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.354.065"
+        }
+    }
+]

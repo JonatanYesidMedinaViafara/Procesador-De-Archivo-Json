@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "448239369061",
+            "SOLICITUD": "3291218",
+            "CEDULA": "1387958301",
+            "NOMBRES": "ANA KELLY MARÍN",
+            "RECOMPRA O DESEMBOLSO": "4.341.953",
+            "FIRMA ELLECTRONICA": "ANA KELLY MARÍN - 1387958301"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "448239369061",
+            "NOMBRES": "ANA KELLY MARÍN",
+            "CREDITO": "6.950.480",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "318.35",
+            "FIRMA ELLECTRONICA": "ANA KELLY MARÍN - 1387958301",
+            "AL PIE DE LA FIRMA": "ANA KELLY MARÍN - 1387958301"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1387958301",
+            "NOMBRES": "ANA KELLY MARÍN",
+            "FECHA NACIMIENTO": "12/02/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.950.480",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANA KELLY MARÍN - 1387958301",
+            "AL PIE DE LA FIRMA": "ANA KELLY MARÍN - 1387958301"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3291218",
+            "CEDULA": "1387958301",
+            "NOMBRES": "ANA KELLY MARÍN",
+            "CREDITO": "6.950.480",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "318.35",
+            "E.A": "19.66%",
+            "RECOMPRA O DESEMBOLSO": "4.341.953",
+            "FIRMA ELLECTRONICA": "ANA KELLY MARÍN - 1387958301"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1387958301",
+            "NOMBRES": "ANA KELLY MARÍN",
+            "FIRMA ELLECTRONICA": "ANA KELLY MARÍN - 1387958301"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1387958301",
+            "NOMBRES": "ANA KELLY MARÍN",
+            "FIRMA ELLECTRONICA": "ANA KELLY MARÍN - 1387958301",
+            "AL PIE DE LA FIRMA": "ANA KELLY MARÍN - 1387958301"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA KELLY MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1387958301",
+            "NOMBRES": "ANA KELLY MARÍN",
+            "SALARIO": "2.305.617",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1387958301",
+            "NOMBRES": "ANA KELLY MARÍN",
+            "RECOMPRA O DESEMBOLSO": "4.341.953"
+        }
+    }
+]

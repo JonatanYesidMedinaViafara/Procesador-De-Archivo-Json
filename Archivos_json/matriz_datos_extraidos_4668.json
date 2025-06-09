@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "785700137412",
+            "SOLICITUD": "7620706",
+            "CEDULA": "1569313606",
+            "NOMBRES": "FERNANDO WALTER VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.432.753",
+            "FIRMA ELLECTRONICA": "FERNANDO WALTER VARGAS - 1569313606"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "785700137412",
+            "NOMBRES": "FERNANDO WALTER VARGAS",
+            "CREDITO": "19.049.179",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "295.846",
+            "FIRMA ELLECTRONICA": "FERNANDO WALTER VARGAS - 1569313606",
+            "AL PIE DE LA FIRMA": "FERNANDO WALTER VARGAS - 1569313606"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1569313606",
+            "NOMBRES": "FERNANDO WALTER VARGAS",
+            "FECHA NACIMIENTO": "05/03/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.049.179",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNANDO WALTER VARGAS - 1569313606",
+            "AL PIE DE LA FIRMA": "FERNANDO WALTER VARGAS - 1569313606"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7620706",
+            "CEDULA": "1569313606",
+            "NOMBRES": "FERNANDO WALTER VARGAS",
+            "CREDITO": "19.049.179",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "295.846",
+            "E.A": "27.03%",
+            "RECOMPRA O DESEMBOLSO": "3.432.753",
+            "FIRMA ELLECTRONICA": "FERNANDO WALTER VARGAS - 1569313606"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1569313606",
+            "NOMBRES": "FERNANDO WALTER VARGAS",
+            "FIRMA ELLECTRONICA": "FERNANDO WALTER VARGAS - 1569313606"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1569313606",
+            "NOMBRES": "FERNANDO WALTER VARGAS",
+            "FIRMA ELLECTRONICA": "FERNANDO WALTER VARGAS - 1569313606",
+            "AL PIE DE LA FIRMA": "FERNANDO WALTER VARGAS - 1569313606"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO WALTER VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1569313606",
+            "NOMBRES": "FERNANDO WALTER VARGAS",
+            "SALARIO": "2.499.415",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1569313606",
+            "NOMBRES": "FERNANDO WALTER VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.432.753"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "522743922293",
+            "SOLICITUD": "5403614",
+            "CEDULA": "1785711015",
+            "NOMBRES": "SOCORRO PERDOMO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.575.829",
+            "FIRMA ELLECTRONICA": "SOCORRO PERDOMO RINCÓN - 1785711015"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "522743922293",
+            "NOMBRES": "SOCORRO PERDOMO RINCÓN",
+            "CREDITO": "9.145.044",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "293.713",
+            "FIRMA ELLECTRONICA": "SOCORRO PERDOMO RINCÓN - 1785711015",
+            "AL PIE DE LA FIRMA": "SOCORRO PERDOMO RINCÓN - 1785711015"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1785711015",
+            "NOMBRES": "SOCORRO PERDOMO RINCÓN",
+            "FECHA NACIMIENTO": "25/11/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.145.044",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SOCORRO PERDOMO RINCÓN - 1785711015",
+            "AL PIE DE LA FIRMA": "SOCORRO PERDOMO RINCÓN - 1785711015"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5403614",
+            "CEDULA": "1785711015",
+            "NOMBRES": "SOCORRO PERDOMO RINCÓN",
+            "CREDITO": "9.145.044",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "293.713",
+            "E.A": "26.96%",
+            "RECOMPRA O DESEMBOLSO": "3.575.829",
+            "FIRMA ELLECTRONICA": "SOCORRO PERDOMO RINCÓN - 1785711015"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1785711015",
+            "NOMBRES": "SOCORRO PERDOMO RINCÓN",
+            "FIRMA ELLECTRONICA": "SOCORRO PERDOMO RINCÓN - 1785711015"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1785711015",
+            "NOMBRES": "SOCORRO PERDOMO RINCÓN",
+            "FIRMA ELLECTRONICA": "SOCORRO PERDOMO RINCÓN - 1785711015",
+            "AL PIE DE LA FIRMA": "SOCORRO PERDOMO RINCÓN - 1785711015"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SOCORRO PERDOMO RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1785711015",
+            "NOMBRES": "SOCORRO PERDOMO RINCÓN",
+            "SALARIO": "4.958.817",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1785711015",
+            "NOMBRES": "SOCORRO PERDOMO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.575.829"
+        }
+    }
+]

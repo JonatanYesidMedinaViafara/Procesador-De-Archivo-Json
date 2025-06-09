@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "468051814829",
+            "SOLICITUD": "6821483",
+            "CEDULA": "1215028759",
+            "NOMBRES": "CAMILO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "1.642.999",
+            "FIRMA ELLECTRONICA": "CAMILO DÍAZ - 1215028759"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "468051814829",
+            "NOMBRES": "CAMILO DÍAZ",
+            "CREDITO": "12.961.885",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "350.205",
+            "FIRMA ELLECTRONICA": "CAMILO DÍAZ - 1215028759",
+            "AL PIE DE LA FIRMA": "CAMILO DÍAZ - 1215028759"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1215028759",
+            "NOMBRES": "CAMILO DÍAZ",
+            "FECHA NACIMIENTO": "16/09/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.961.885",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAMILO DÍAZ - 1215028759",
+            "AL PIE DE LA FIRMA": "CAMILO DÍAZ - 1215028759"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6821483",
+            "CEDULA": "1215028759",
+            "NOMBRES": "CAMILO DÍAZ",
+            "CREDITO": "12.961.885",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "350.205",
+            "E.A": "26.23%",
+            "RECOMPRA O DESEMBOLSO": "1.642.999",
+            "FIRMA ELLECTRONICA": "CAMILO DÍAZ - 1215028759"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1215028759",
+            "NOMBRES": "CAMILO DÍAZ",
+            "FIRMA ELLECTRONICA": "CAMILO DÍAZ - 1215028759"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1215028759",
+            "NOMBRES": "CAMILO DÍAZ",
+            "FIRMA ELLECTRONICA": "CAMILO DÍAZ - 1215028759",
+            "AL PIE DE LA FIRMA": "CAMILO DÍAZ - 1215028759"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1215028759",
+            "NOMBRES": "CAMILO DÍAZ",
+            "SALARIO": "4.649.245",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1215028759",
+            "NOMBRES": "CAMILO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "1.642.999"
+        }
+    }
+]

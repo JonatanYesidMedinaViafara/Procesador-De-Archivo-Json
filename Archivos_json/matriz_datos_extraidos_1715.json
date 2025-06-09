@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "126846239756",
+            "SOLICITUD": "9207726",
+            "CEDULA": "1482345557",
+            "NOMBRES": "BLANCA GÓMEZ GAITÁN",
+            "RECOMPRA O DESEMBOLSO": "3.361.001",
+            "FIRMA ELLECTRONICA": "BLANCA GÓMEZ GAITÁN - 1482345557"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "126846239756",
+            "NOMBRES": "BLANCA GÓMEZ GAITÁN",
+            "CREDITO": "15.586.055",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "273.552",
+            "FIRMA ELLECTRONICA": "BLANCA GÓMEZ GAITÁN - 1482345557",
+            "AL PIE DE LA FIRMA": "BLANCA GÓMEZ GAITÁN - 1482345557"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1482345557",
+            "NOMBRES": "BLANCA GÓMEZ GAITÁN",
+            "FECHA NACIMIENTO": "05/11/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.586.055",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "BLANCA GÓMEZ GAITÁN - 1482345557",
+            "AL PIE DE LA FIRMA": "BLANCA GÓMEZ GAITÁN - 1482345557"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9207726",
+            "CEDULA": "1482345557",
+            "NOMBRES": "BLANCA GÓMEZ GAITÁN",
+            "CREDITO": "15.586.055",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "273.552",
+            "E.A": "20.48%",
+            "RECOMPRA O DESEMBOLSO": "3.361.001",
+            "FIRMA ELLECTRONICA": "BLANCA GÓMEZ GAITÁN - 1482345557"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1482345557",
+            "NOMBRES": "BLANCA GÓMEZ GAITÁN",
+            "FIRMA ELLECTRONICA": "BLANCA GÓMEZ GAITÁN - 1482345557"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1482345557",
+            "NOMBRES": "BLANCA GÓMEZ GAITÁN",
+            "FIRMA ELLECTRONICA": "BLANCA GÓMEZ GAITÁN - 1482345557",
+            "AL PIE DE LA FIRMA": "BLANCA GÓMEZ GAITÁN - 1482345557"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BLANCA GÓMEZ GAITÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1482345557",
+            "NOMBRES": "BLANCA GÓMEZ GAITÁN",
+            "SALARIO": "4.543.822",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1482345557",
+            "NOMBRES": "BLANCA GÓMEZ GAITÁN",
+            "RECOMPRA O DESEMBOLSO": "3.361.001"
+        }
+    }
+]

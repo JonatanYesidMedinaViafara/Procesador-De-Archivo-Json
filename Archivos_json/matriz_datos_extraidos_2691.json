@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "919957557781",
+            "SOLICITUD": "2167580",
+            "CEDULA": "1174091555",
+            "NOMBRES": "CARLOS DIEGO SALAZAR PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.155.039",
+            "FIRMA ELLECTRONICA": "CARLOS DIEGO SALAZAR PÉREZ - 1174091555"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "919957557781",
+            "NOMBRES": "CARLOS DIEGO SALAZAR PÉREZ",
+            "CREDITO": "11.997.137",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "194.612",
+            "FIRMA ELLECTRONICA": "CARLOS DIEGO SALAZAR PÉREZ - 1174091555",
+            "AL PIE DE LA FIRMA": "CARLOS DIEGO SALAZAR PÉREZ - 1174091555"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1174091555",
+            "NOMBRES": "CARLOS DIEGO SALAZAR PÉREZ",
+            "FECHA NACIMIENTO": "26/04/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.997.137",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS DIEGO SALAZAR PÉREZ - 1174091555",
+            "AL PIE DE LA FIRMA": "CARLOS DIEGO SALAZAR PÉREZ - 1174091555"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2167580",
+            "CEDULA": "1174091555",
+            "NOMBRES": "CARLOS DIEGO SALAZAR PÉREZ",
+            "CREDITO": "11.997.137",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "194.612",
+            "E.A": "24.89%",
+            "RECOMPRA O DESEMBOLSO": "4.155.039",
+            "FIRMA ELLECTRONICA": "CARLOS DIEGO SALAZAR PÉREZ - 1174091555"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1174091555",
+            "NOMBRES": "CARLOS DIEGO SALAZAR PÉREZ",
+            "FIRMA ELLECTRONICA": "CARLOS DIEGO SALAZAR PÉREZ - 1174091555"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1174091555",
+            "NOMBRES": "CARLOS DIEGO SALAZAR PÉREZ",
+            "FIRMA ELLECTRONICA": "CARLOS DIEGO SALAZAR PÉREZ - 1174091555",
+            "AL PIE DE LA FIRMA": "CARLOS DIEGO SALAZAR PÉREZ - 1174091555"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS DIEGO SALAZAR PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1174091555",
+            "NOMBRES": "CARLOS DIEGO SALAZAR PÉREZ",
+            "SALARIO": "2.956.989",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1174091555",
+            "NOMBRES": "CARLOS DIEGO SALAZAR PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.155.039"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "840360841872",
+            "SOLICITUD": "7379488",
+            "CEDULA": "1254113206",
+            "NOMBRES": "KAROL GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.988.135",
+            "FIRMA ELLECTRONICA": "KAROL GARCÍA - 1254113206"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "840360841872",
+            "NOMBRES": "KAROL GARCÍA",
+            "CREDITO": "18.270.304",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "365.408",
+            "FIRMA ELLECTRONICA": "KAROL GARCÍA - 1254113206",
+            "AL PIE DE LA FIRMA": "KAROL GARCÍA - 1254113206"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1254113206",
+            "NOMBRES": "KAROL GARCÍA",
+            "FECHA NACIMIENTO": "22/04/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.270.304",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "KAROL GARCÍA - 1254113206",
+            "AL PIE DE LA FIRMA": "KAROL GARCÍA - 1254113206"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7379488",
+            "CEDULA": "1254113206",
+            "NOMBRES": "KAROL GARCÍA",
+            "CREDITO": "18.270.304",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "365.408",
+            "E.A": "28.75%",
+            "RECOMPRA O DESEMBOLSO": "4.988.135",
+            "FIRMA ELLECTRONICA": "KAROL GARCÍA - 1254113206"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1254113206",
+            "NOMBRES": "KAROL GARCÍA",
+            "FIRMA ELLECTRONICA": "KAROL GARCÍA - 1254113206"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1254113206",
+            "NOMBRES": "KAROL GARCÍA",
+            "FIRMA ELLECTRONICA": "KAROL GARCÍA - 1254113206",
+            "AL PIE DE LA FIRMA": "KAROL GARCÍA - 1254113206"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "KAROL GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1254113206",
+            "NOMBRES": "KAROL GARCÍA",
+            "SALARIO": "3.102.832",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1254113206",
+            "NOMBRES": "KAROL GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.988.135"
+        }
+    }
+]

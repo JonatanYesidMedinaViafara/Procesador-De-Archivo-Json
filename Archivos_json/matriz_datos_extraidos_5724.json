@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "669007888987",
+            "SOLICITUD": "5456928",
+            "CEDULA": "1915014832",
+            "NOMBRES": "LILIANA OMAIRA RANGEL CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.395.135",
+            "FIRMA ELLECTRONICA": "LILIANA OMAIRA RANGEL CORTÉS - 1915014832"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "669007888987",
+            "NOMBRES": "LILIANA OMAIRA RANGEL CORTÉS",
+            "CREDITO": "14.450.687",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "148.851",
+            "FIRMA ELLECTRONICA": "LILIANA OMAIRA RANGEL CORTÉS - 1915014832",
+            "AL PIE DE LA FIRMA": "LILIANA OMAIRA RANGEL CORTÉS - 1915014832"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1915014832",
+            "NOMBRES": "LILIANA OMAIRA RANGEL CORTÉS",
+            "FECHA NACIMIENTO": "27/04/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.450.687",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LILIANA OMAIRA RANGEL CORTÉS - 1915014832",
+            "AL PIE DE LA FIRMA": "LILIANA OMAIRA RANGEL CORTÉS - 1915014832"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5456928",
+            "CEDULA": "1915014832",
+            "NOMBRES": "LILIANA OMAIRA RANGEL CORTÉS",
+            "CREDITO": "14.450.687",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "148.851",
+            "E.A": "25.9%",
+            "RECOMPRA O DESEMBOLSO": "2.395.135",
+            "FIRMA ELLECTRONICA": "LILIANA OMAIRA RANGEL CORTÉS - 1915014832"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1915014832",
+            "NOMBRES": "LILIANA OMAIRA RANGEL CORTÉS",
+            "FIRMA ELLECTRONICA": "LILIANA OMAIRA RANGEL CORTÉS - 1915014832"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1915014832",
+            "NOMBRES": "LILIANA OMAIRA RANGEL CORTÉS",
+            "FIRMA ELLECTRONICA": "LILIANA OMAIRA RANGEL CORTÉS - 1915014832",
+            "AL PIE DE LA FIRMA": "LILIANA OMAIRA RANGEL CORTÉS - 1915014832"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LILIANA OMAIRA RANGEL CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1915014832",
+            "NOMBRES": "LILIANA OMAIRA RANGEL CORTÉS",
+            "SALARIO": "3.845.003",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1915014832",
+            "NOMBRES": "LILIANA OMAIRA RANGEL CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.395.135"
+        }
+    }
+]

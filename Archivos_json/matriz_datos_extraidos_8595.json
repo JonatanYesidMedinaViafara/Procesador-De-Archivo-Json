@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "298648200307",
+            "SOLICITUD": "8403457",
+            "CEDULA": "1867305224",
+            "NOMBRES": "EVER VALENCIA GUEVARA",
+            "RECOMPRA O DESEMBOLSO": "3.743.061",
+            "FIRMA ELLECTRONICA": "EVER VALENCIA GUEVARA - 1867305224"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "298648200307",
+            "NOMBRES": "EVER VALENCIA GUEVARA",
+            "CREDITO": "15.053.186",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "331.232",
+            "FIRMA ELLECTRONICA": "EVER VALENCIA GUEVARA - 1867305224",
+            "AL PIE DE LA FIRMA": "EVER VALENCIA GUEVARA - 1867305224"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1867305224",
+            "NOMBRES": "EVER VALENCIA GUEVARA",
+            "FECHA NACIMIENTO": "10/07/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.053.186",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EVER VALENCIA GUEVARA - 1867305224",
+            "AL PIE DE LA FIRMA": "EVER VALENCIA GUEVARA - 1867305224"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8403457",
+            "CEDULA": "1867305224",
+            "NOMBRES": "EVER VALENCIA GUEVARA",
+            "CREDITO": "15.053.186",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "331.232",
+            "E.A": "24.35%",
+            "RECOMPRA O DESEMBOLSO": "3.743.061",
+            "FIRMA ELLECTRONICA": "EVER VALENCIA GUEVARA - 1867305224"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1867305224",
+            "NOMBRES": "EVER VALENCIA GUEVARA",
+            "FIRMA ELLECTRONICA": "EVER VALENCIA GUEVARA - 1867305224"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1867305224",
+            "NOMBRES": "EVER VALENCIA GUEVARA",
+            "FIRMA ELLECTRONICA": "EVER VALENCIA GUEVARA - 1867305224",
+            "AL PIE DE LA FIRMA": "EVER VALENCIA GUEVARA - 1867305224"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EVER VALENCIA GUEVARA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1867305224",
+            "NOMBRES": "EVER VALENCIA GUEVARA",
+            "SALARIO": "1.880.517",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1867305224",
+            "NOMBRES": "EVER VALENCIA GUEVARA",
+            "RECOMPRA O DESEMBOLSO": "3.743.061"
+        }
+    }
+]

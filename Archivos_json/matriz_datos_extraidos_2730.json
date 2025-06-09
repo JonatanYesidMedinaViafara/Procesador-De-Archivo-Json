@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "303599611098",
+            "SOLICITUD": "8786657",
+            "CEDULA": "1065297344",
+            "NOMBRES": "CAMILO REYES",
+            "RECOMPRA O DESEMBOLSO": "4.711.373",
+            "FIRMA ELLECTRONICA": "CAMILO REYES - 1065297344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "303599611098",
+            "NOMBRES": "CAMILO REYES",
+            "CREDITO": "18.327.120",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "191.903",
+            "FIRMA ELLECTRONICA": "CAMILO REYES - 1065297344",
+            "AL PIE DE LA FIRMA": "CAMILO REYES - 1065297344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1065297344",
+            "NOMBRES": "CAMILO REYES",
+            "FECHA NACIMIENTO": "19/08/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.327.120",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CAMILO REYES - 1065297344",
+            "AL PIE DE LA FIRMA": "CAMILO REYES - 1065297344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8786657",
+            "CEDULA": "1065297344",
+            "NOMBRES": "CAMILO REYES",
+            "CREDITO": "18.327.120",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "191.903",
+            "E.A": "22.25%",
+            "RECOMPRA O DESEMBOLSO": "4.711.373",
+            "FIRMA ELLECTRONICA": "CAMILO REYES - 1065297344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1065297344",
+            "NOMBRES": "CAMILO REYES",
+            "FIRMA ELLECTRONICA": "CAMILO REYES - 1065297344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1065297344",
+            "NOMBRES": "CAMILO REYES",
+            "FIRMA ELLECTRONICA": "CAMILO REYES - 1065297344",
+            "AL PIE DE LA FIRMA": "CAMILO REYES - 1065297344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1065297344",
+            "NOMBRES": "CAMILO REYES",
+            "SALARIO": "4.077.268",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1065297344",
+            "NOMBRES": "CAMILO REYES",
+            "RECOMPRA O DESEMBOLSO": "4.711.373"
+        }
+    }
+]

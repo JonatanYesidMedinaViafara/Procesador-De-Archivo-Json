@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "841360363611",
+            "SOLICITUD": "3804336",
+            "CEDULA": "1759580778",
+            "NOMBRES": "ALBA ISABEL GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.990.673",
+            "FIRMA ELLECTRONICA": "ALBA ISABEL GUTIÉRREZ - 1759580778"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "841360363611",
+            "NOMBRES": "ALBA ISABEL GUTIÉRREZ",
+            "CREDITO": "5.380.022",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "201.061",
+            "FIRMA ELLECTRONICA": "ALBA ISABEL GUTIÉRREZ - 1759580778",
+            "AL PIE DE LA FIRMA": "ALBA ISABEL GUTIÉRREZ - 1759580778"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1759580778",
+            "NOMBRES": "ALBA ISABEL GUTIÉRREZ",
+            "FECHA NACIMIENTO": "14/05/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.380.022",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALBA ISABEL GUTIÉRREZ - 1759580778",
+            "AL PIE DE LA FIRMA": "ALBA ISABEL GUTIÉRREZ - 1759580778"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3804336",
+            "CEDULA": "1759580778",
+            "NOMBRES": "ALBA ISABEL GUTIÉRREZ",
+            "CREDITO": "5.380.022",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "201.061",
+            "E.A": "28.96%",
+            "RECOMPRA O DESEMBOLSO": "3.990.673",
+            "FIRMA ELLECTRONICA": "ALBA ISABEL GUTIÉRREZ - 1759580778"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1759580778",
+            "NOMBRES": "ALBA ISABEL GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ALBA ISABEL GUTIÉRREZ - 1759580778"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1759580778",
+            "NOMBRES": "ALBA ISABEL GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ALBA ISABEL GUTIÉRREZ - 1759580778",
+            "AL PIE DE LA FIRMA": "ALBA ISABEL GUTIÉRREZ - 1759580778"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBA ISABEL GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1759580778",
+            "NOMBRES": "ALBA ISABEL GUTIÉRREZ",
+            "SALARIO": "1.298.721",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1759580778",
+            "NOMBRES": "ALBA ISABEL GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.990.673"
+        }
+    }
+]

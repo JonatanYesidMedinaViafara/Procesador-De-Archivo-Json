@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "669184554180",
+            "SOLICITUD": "6457342",
+            "CEDULA": "1456239580",
+            "NOMBRES": "BETTY HERRERA BARBOSA",
+            "RECOMPRA O DESEMBOLSO": "2.474.146",
+            "FIRMA ELLECTRONICA": "BETTY HERRERA BARBOSA - 1456239580"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "669184554180",
+            "NOMBRES": "BETTY HERRERA BARBOSA",
+            "CREDITO": "11.305.965",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "269.577",
+            "FIRMA ELLECTRONICA": "BETTY HERRERA BARBOSA - 1456239580",
+            "AL PIE DE LA FIRMA": "BETTY HERRERA BARBOSA - 1456239580"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1456239580",
+            "NOMBRES": "BETTY HERRERA BARBOSA",
+            "FECHA NACIMIENTO": "15/11/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.305.965",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "BETTY HERRERA BARBOSA - 1456239580",
+            "AL PIE DE LA FIRMA": "BETTY HERRERA BARBOSA - 1456239580"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6457342",
+            "CEDULA": "1456239580",
+            "NOMBRES": "BETTY HERRERA BARBOSA",
+            "CREDITO": "11.305.965",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "269.577",
+            "E.A": "23.35%",
+            "RECOMPRA O DESEMBOLSO": "2.474.146",
+            "FIRMA ELLECTRONICA": "BETTY HERRERA BARBOSA - 1456239580"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1456239580",
+            "NOMBRES": "BETTY HERRERA BARBOSA",
+            "FIRMA ELLECTRONICA": "BETTY HERRERA BARBOSA - 1456239580"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1456239580",
+            "NOMBRES": "BETTY HERRERA BARBOSA",
+            "FIRMA ELLECTRONICA": "BETTY HERRERA BARBOSA - 1456239580",
+            "AL PIE DE LA FIRMA": "BETTY HERRERA BARBOSA - 1456239580"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BETTY HERRERA BARBOSA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1456239580",
+            "NOMBRES": "BETTY HERRERA BARBOSA",
+            "SALARIO": "1.484.541",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1456239580",
+            "NOMBRES": "BETTY HERRERA BARBOSA",
+            "RECOMPRA O DESEMBOLSO": "2.474.146"
+        }
+    }
+]

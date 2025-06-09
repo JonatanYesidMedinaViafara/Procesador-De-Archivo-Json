@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "633158651717",
+            "SOLICITUD": "4289930",
+            "CEDULA": "1960022180",
+            "NOMBRES": "ALBERTO CAMPO PINTO",
+            "RECOMPRA O DESEMBOLSO": "2.471.861",
+            "FIRMA ELLECTRONICA": "ALBERTO CAMPO PINTO - 1960022180"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "633158651717",
+            "NOMBRES": "ALBERTO CAMPO PINTO",
+            "CREDITO": "9.483.372",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "251.706",
+            "FIRMA ELLECTRONICA": "ALBERTO CAMPO PINTO - 1960022180",
+            "AL PIE DE LA FIRMA": "ALBERTO CAMPO PINTO - 1960022180"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1960022180",
+            "NOMBRES": "ALBERTO CAMPO PINTO",
+            "FECHA NACIMIENTO": "15/05/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.483.372",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALBERTO CAMPO PINTO - 1960022180",
+            "AL PIE DE LA FIRMA": "ALBERTO CAMPO PINTO - 1960022180"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4289930",
+            "CEDULA": "1960022180",
+            "NOMBRES": "ALBERTO CAMPO PINTO",
+            "CREDITO": "9.483.372",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "251.706",
+            "E.A": "23.58%",
+            "RECOMPRA O DESEMBOLSO": "2.471.861",
+            "FIRMA ELLECTRONICA": "ALBERTO CAMPO PINTO - 1960022180"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1960022180",
+            "NOMBRES": "ALBERTO CAMPO PINTO",
+            "FIRMA ELLECTRONICA": "ALBERTO CAMPO PINTO - 1960022180"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1960022180",
+            "NOMBRES": "ALBERTO CAMPO PINTO",
+            "FIRMA ELLECTRONICA": "ALBERTO CAMPO PINTO - 1960022180",
+            "AL PIE DE LA FIRMA": "ALBERTO CAMPO PINTO - 1960022180"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO CAMPO PINTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1960022180",
+            "NOMBRES": "ALBERTO CAMPO PINTO",
+            "SALARIO": "2.319.998",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1960022180",
+            "NOMBRES": "ALBERTO CAMPO PINTO",
+            "RECOMPRA O DESEMBOLSO": "2.471.861"
+        }
+    }
+]

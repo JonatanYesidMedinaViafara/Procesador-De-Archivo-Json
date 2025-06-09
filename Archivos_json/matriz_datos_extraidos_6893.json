@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "762791378487",
+            "SOLICITUD": "2472479",
+            "CEDULA": "1750603227",
+            "NOMBRES": "FREDDY ARROYO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.623.027",
+            "FIRMA ELLECTRONICA": "FREDDY ARROYO MUÑOZ - 1750603227"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "762791378487",
+            "NOMBRES": "FREDDY ARROYO MUÑOZ",
+            "CREDITO": "13.417.680",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "330.216",
+            "FIRMA ELLECTRONICA": "FREDDY ARROYO MUÑOZ - 1750603227",
+            "AL PIE DE LA FIRMA": "FREDDY ARROYO MUÑOZ - 1750603227"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1750603227",
+            "NOMBRES": "FREDDY ARROYO MUÑOZ",
+            "FECHA NACIMIENTO": "15/12/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.417.680",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FREDDY ARROYO MUÑOZ - 1750603227",
+            "AL PIE DE LA FIRMA": "FREDDY ARROYO MUÑOZ - 1750603227"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2472479",
+            "CEDULA": "1750603227",
+            "NOMBRES": "FREDDY ARROYO MUÑOZ",
+            "CREDITO": "13.417.680",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "330.216",
+            "E.A": "18.14%",
+            "RECOMPRA O DESEMBOLSO": "1.623.027",
+            "FIRMA ELLECTRONICA": "FREDDY ARROYO MUÑOZ - 1750603227"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1750603227",
+            "NOMBRES": "FREDDY ARROYO MUÑOZ",
+            "FIRMA ELLECTRONICA": "FREDDY ARROYO MUÑOZ - 1750603227"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1750603227",
+            "NOMBRES": "FREDDY ARROYO MUÑOZ",
+            "FIRMA ELLECTRONICA": "FREDDY ARROYO MUÑOZ - 1750603227",
+            "AL PIE DE LA FIRMA": "FREDDY ARROYO MUÑOZ - 1750603227"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FREDDY ARROYO MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1750603227",
+            "NOMBRES": "FREDDY ARROYO MUÑOZ",
+            "SALARIO": "2.461.485",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1750603227",
+            "NOMBRES": "FREDDY ARROYO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.623.027"
+        }
+    }
+]

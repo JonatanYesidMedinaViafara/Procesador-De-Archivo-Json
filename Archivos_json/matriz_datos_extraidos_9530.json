@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "473654578830",
+            "SOLICITUD": "5722687",
+            "CEDULA": "1509616499",
+            "NOMBRES": "NATALIA JIMÉNEZ VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.751.428",
+            "FIRMA ELLECTRONICA": "NATALIA JIMÉNEZ VEGA - 1509616499"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "473654578830",
+            "NOMBRES": "NATALIA JIMÉNEZ VEGA",
+            "CREDITO": "19.797.146",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "110.038",
+            "FIRMA ELLECTRONICA": "NATALIA JIMÉNEZ VEGA - 1509616499",
+            "AL PIE DE LA FIRMA": "NATALIA JIMÉNEZ VEGA - 1509616499"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1509616499",
+            "NOMBRES": "NATALIA JIMÉNEZ VEGA",
+            "FECHA NACIMIENTO": "30/03/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.797.146",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "NATALIA JIMÉNEZ VEGA - 1509616499",
+            "AL PIE DE LA FIRMA": "NATALIA JIMÉNEZ VEGA - 1509616499"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5722687",
+            "CEDULA": "1509616499",
+            "NOMBRES": "NATALIA JIMÉNEZ VEGA",
+            "CREDITO": "19.797.146",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "110.038",
+            "E.A": "20.17%",
+            "RECOMPRA O DESEMBOLSO": "3.751.428",
+            "FIRMA ELLECTRONICA": "NATALIA JIMÉNEZ VEGA - 1509616499"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1509616499",
+            "NOMBRES": "NATALIA JIMÉNEZ VEGA",
+            "FIRMA ELLECTRONICA": "NATALIA JIMÉNEZ VEGA - 1509616499"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1509616499",
+            "NOMBRES": "NATALIA JIMÉNEZ VEGA",
+            "FIRMA ELLECTRONICA": "NATALIA JIMÉNEZ VEGA - 1509616499",
+            "AL PIE DE LA FIRMA": "NATALIA JIMÉNEZ VEGA - 1509616499"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NATALIA JIMÉNEZ VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1509616499",
+            "NOMBRES": "NATALIA JIMÉNEZ VEGA",
+            "SALARIO": "2.264.372",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1509616499",
+            "NOMBRES": "NATALIA JIMÉNEZ VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.751.428"
+        }
+    }
+]

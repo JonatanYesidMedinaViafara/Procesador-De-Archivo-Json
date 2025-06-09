@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "383694142980",
+            "SOLICITUD": "2427597",
+            "CEDULA": "1269767150",
+            "NOMBRES": "JUAN MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.375.613",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1269767150"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "383694142980",
+            "NOMBRES": "JUAN MEDINA",
+            "CREDITO": "19.039.919",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.045",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1269767150",
+            "AL PIE DE LA FIRMA": "JUAN MEDINA - 1269767150"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1269767150",
+            "NOMBRES": "JUAN MEDINA",
+            "FECHA NACIMIENTO": "13/08/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.039.919",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1269767150",
+            "AL PIE DE LA FIRMA": "JUAN MEDINA - 1269767150"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2427597",
+            "CEDULA": "1269767150",
+            "NOMBRES": "JUAN MEDINA",
+            "CREDITO": "19.039.919",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.045",
+            "E.A": "24.95%",
+            "RECOMPRA O DESEMBOLSO": "3.375.613",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1269767150"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1269767150",
+            "NOMBRES": "JUAN MEDINA",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1269767150"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1269767150",
+            "NOMBRES": "JUAN MEDINA",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1269767150",
+            "AL PIE DE LA FIRMA": "JUAN MEDINA - 1269767150"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1269767150",
+            "NOMBRES": "JUAN MEDINA",
+            "SALARIO": "2.900.727",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1269767150",
+            "NOMBRES": "JUAN MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.375.613"
+        }
+    }
+]

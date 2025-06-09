@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "567688023874",
+            "SOLICITUD": "7407838",
+            "CEDULA": "1222856778",
+            "NOMBRES": "DAVID ORTIZ SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.817.245",
+            "FIRMA ELLECTRONICA": "DAVID ORTIZ SUÁREZ - 1222856778"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "567688023874",
+            "NOMBRES": "DAVID ORTIZ SUÁREZ",
+            "CREDITO": "10.315.585",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "395.778",
+            "FIRMA ELLECTRONICA": "DAVID ORTIZ SUÁREZ - 1222856778",
+            "AL PIE DE LA FIRMA": "DAVID ORTIZ SUÁREZ - 1222856778"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1222856778",
+            "NOMBRES": "DAVID ORTIZ SUÁREZ",
+            "FECHA NACIMIENTO": "18/08/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.315.585",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DAVID ORTIZ SUÁREZ - 1222856778",
+            "AL PIE DE LA FIRMA": "DAVID ORTIZ SUÁREZ - 1222856778"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7407838",
+            "CEDULA": "1222856778",
+            "NOMBRES": "DAVID ORTIZ SUÁREZ",
+            "CREDITO": "10.315.585",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "395.778",
+            "E.A": "22.94%",
+            "RECOMPRA O DESEMBOLSO": "3.817.245",
+            "FIRMA ELLECTRONICA": "DAVID ORTIZ SUÁREZ - 1222856778"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1222856778",
+            "NOMBRES": "DAVID ORTIZ SUÁREZ",
+            "FIRMA ELLECTRONICA": "DAVID ORTIZ SUÁREZ - 1222856778"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1222856778",
+            "NOMBRES": "DAVID ORTIZ SUÁREZ",
+            "FIRMA ELLECTRONICA": "DAVID ORTIZ SUÁREZ - 1222856778",
+            "AL PIE DE LA FIRMA": "DAVID ORTIZ SUÁREZ - 1222856778"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID ORTIZ SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1222856778",
+            "NOMBRES": "DAVID ORTIZ SUÁREZ",
+            "SALARIO": "3.515.611",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1222856778",
+            "NOMBRES": "DAVID ORTIZ SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.817.245"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "759913316166",
+            "SOLICITUD": "5017564",
+            "CEDULA": "1331067105",
+            "NOMBRES": "CATALINA DÍAZ SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.960.860",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ SÁNCHEZ - 1331067105"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "759913316166",
+            "NOMBRES": "CATALINA DÍAZ SÁNCHEZ",
+            "CREDITO": "12.260.315",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "136.857",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ SÁNCHEZ - 1331067105",
+            "AL PIE DE LA FIRMA": "CATALINA DÍAZ SÁNCHEZ - 1331067105"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1331067105",
+            "NOMBRES": "CATALINA DÍAZ SÁNCHEZ",
+            "FECHA NACIMIENTO": "06/01/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.260.315",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ SÁNCHEZ - 1331067105",
+            "AL PIE DE LA FIRMA": "CATALINA DÍAZ SÁNCHEZ - 1331067105"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5017564",
+            "CEDULA": "1331067105",
+            "NOMBRES": "CATALINA DÍAZ SÁNCHEZ",
+            "CREDITO": "12.260.315",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "136.857",
+            "E.A": "26.82%",
+            "RECOMPRA O DESEMBOLSO": "4.960.860",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ SÁNCHEZ - 1331067105"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1331067105",
+            "NOMBRES": "CATALINA DÍAZ SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ SÁNCHEZ - 1331067105"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1331067105",
+            "NOMBRES": "CATALINA DÍAZ SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ SÁNCHEZ - 1331067105",
+            "AL PIE DE LA FIRMA": "CATALINA DÍAZ SÁNCHEZ - 1331067105"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CATALINA DÍAZ SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1331067105",
+            "NOMBRES": "CATALINA DÍAZ SÁNCHEZ",
+            "SALARIO": "4.005.833",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1331067105",
+            "NOMBRES": "CATALINA DÍAZ SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.960.860"
+        }
+    }
+]

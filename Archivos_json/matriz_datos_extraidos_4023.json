@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "821577640998",
+            "SOLICITUD": "1717311",
+            "CEDULA": "1674306491",
+            "NOMBRES": "CRISTIAN CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.662.789",
+            "FIRMA ELLECTRONICA": "CRISTIAN CASTILLO - 1674306491"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "821577640998",
+            "NOMBRES": "CRISTIAN CASTILLO",
+            "CREDITO": "18.350.693",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "342.427",
+            "FIRMA ELLECTRONICA": "CRISTIAN CASTILLO - 1674306491",
+            "AL PIE DE LA FIRMA": "CRISTIAN CASTILLO - 1674306491"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1674306491",
+            "NOMBRES": "CRISTIAN CASTILLO",
+            "FECHA NACIMIENTO": "21/09/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.350.693",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CRISTIAN CASTILLO - 1674306491",
+            "AL PIE DE LA FIRMA": "CRISTIAN CASTILLO - 1674306491"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1717311",
+            "CEDULA": "1674306491",
+            "NOMBRES": "CRISTIAN CASTILLO",
+            "CREDITO": "18.350.693",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "342.427",
+            "E.A": "20.56%",
+            "RECOMPRA O DESEMBOLSO": "2.662.789",
+            "FIRMA ELLECTRONICA": "CRISTIAN CASTILLO - 1674306491"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1674306491",
+            "NOMBRES": "CRISTIAN CASTILLO",
+            "FIRMA ELLECTRONICA": "CRISTIAN CASTILLO - 1674306491"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1674306491",
+            "NOMBRES": "CRISTIAN CASTILLO",
+            "FIRMA ELLECTRONICA": "CRISTIAN CASTILLO - 1674306491",
+            "AL PIE DE LA FIRMA": "CRISTIAN CASTILLO - 1674306491"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTIAN CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1674306491",
+            "NOMBRES": "CRISTIAN CASTILLO",
+            "SALARIO": "3.231.294",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1674306491",
+            "NOMBRES": "CRISTIAN CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.662.789"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "532022238167",
+            "SOLICITUD": "4065415",
+            "CEDULA": "1074345624",
+            "NOMBRES": "FREDDY JUAN GARCÍA SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.388.070",
+            "FIRMA ELLECTRONICA": "FREDDY JUAN GARCÍA SUÁREZ - 1074345624"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "532022238167",
+            "NOMBRES": "FREDDY JUAN GARCÍA SUÁREZ",
+            "CREDITO": "15.856.597",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "215.743",
+            "FIRMA ELLECTRONICA": "FREDDY JUAN GARCÍA SUÁREZ - 1074345624",
+            "AL PIE DE LA FIRMA": "FREDDY JUAN GARCÍA SUÁREZ - 1074345624"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1074345624",
+            "NOMBRES": "FREDDY JUAN GARCÍA SUÁREZ",
+            "FECHA NACIMIENTO": "28/05/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.856.597",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FREDDY JUAN GARCÍA SUÁREZ - 1074345624",
+            "AL PIE DE LA FIRMA": "FREDDY JUAN GARCÍA SUÁREZ - 1074345624"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4065415",
+            "CEDULA": "1074345624",
+            "NOMBRES": "FREDDY JUAN GARCÍA SUÁREZ",
+            "CREDITO": "15.856.597",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "215.743",
+            "E.A": "28.52%",
+            "RECOMPRA O DESEMBOLSO": "2.388.070",
+            "FIRMA ELLECTRONICA": "FREDDY JUAN GARCÍA SUÁREZ - 1074345624"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1074345624",
+            "NOMBRES": "FREDDY JUAN GARCÍA SUÁREZ",
+            "FIRMA ELLECTRONICA": "FREDDY JUAN GARCÍA SUÁREZ - 1074345624"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1074345624",
+            "NOMBRES": "FREDDY JUAN GARCÍA SUÁREZ",
+            "FIRMA ELLECTRONICA": "FREDDY JUAN GARCÍA SUÁREZ - 1074345624",
+            "AL PIE DE LA FIRMA": "FREDDY JUAN GARCÍA SUÁREZ - 1074345624"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FREDDY JUAN GARCÍA SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1074345624",
+            "NOMBRES": "FREDDY JUAN GARCÍA SUÁREZ",
+            "SALARIO": "3.882.877",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1074345624",
+            "NOMBRES": "FREDDY JUAN GARCÍA SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.388.070"
+        }
+    }
+]

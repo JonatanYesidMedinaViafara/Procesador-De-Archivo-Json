@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "324513304133",
+            "SOLICITUD": "5218248",
+            "CEDULA": "1408044105",
+            "NOMBRES": "KARINA PÁEZ ROJAS",
+            "RECOMPRA O DESEMBOLSO": "1.378.294",
+            "FIRMA ELLECTRONICA": "KARINA PÁEZ ROJAS - 1408044105"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "324513304133",
+            "NOMBRES": "KARINA PÁEZ ROJAS",
+            "CREDITO": "7.506.768",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.415",
+            "FIRMA ELLECTRONICA": "KARINA PÁEZ ROJAS - 1408044105",
+            "AL PIE DE LA FIRMA": "KARINA PÁEZ ROJAS - 1408044105"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1408044105",
+            "NOMBRES": "KARINA PÁEZ ROJAS",
+            "FECHA NACIMIENTO": "07/06/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.506.768",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "KARINA PÁEZ ROJAS - 1408044105",
+            "AL PIE DE LA FIRMA": "KARINA PÁEZ ROJAS - 1408044105"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5218248",
+            "CEDULA": "1408044105",
+            "NOMBRES": "KARINA PÁEZ ROJAS",
+            "CREDITO": "7.506.768",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.415",
+            "E.A": "20.82%",
+            "RECOMPRA O DESEMBOLSO": "1.378.294",
+            "FIRMA ELLECTRONICA": "KARINA PÁEZ ROJAS - 1408044105"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1408044105",
+            "NOMBRES": "KARINA PÁEZ ROJAS",
+            "FIRMA ELLECTRONICA": "KARINA PÁEZ ROJAS - 1408044105"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1408044105",
+            "NOMBRES": "KARINA PÁEZ ROJAS",
+            "FIRMA ELLECTRONICA": "KARINA PÁEZ ROJAS - 1408044105",
+            "AL PIE DE LA FIRMA": "KARINA PÁEZ ROJAS - 1408044105"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "KARINA PÁEZ ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1408044105",
+            "NOMBRES": "KARINA PÁEZ ROJAS",
+            "SALARIO": "4.710.095",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1408044105",
+            "NOMBRES": "KARINA PÁEZ ROJAS",
+            "RECOMPRA O DESEMBOLSO": "1.378.294"
+        }
+    }
+]

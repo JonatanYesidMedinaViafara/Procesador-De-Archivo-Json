@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "529506314564",
+            "SOLICITUD": "7494907",
+            "CEDULA": "1045270226",
+            "NOMBRES": "JOSÉ CHÁVEZ",
+            "RECOMPRA O DESEMBOLSO": "2.878.588",
+            "FIRMA ELLECTRONICA": "JOSÉ CHÁVEZ - 1045270226"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "529506314564",
+            "NOMBRES": "JOSÉ CHÁVEZ",
+            "CREDITO": "18.373.233",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "191.32",
+            "FIRMA ELLECTRONICA": "JOSÉ CHÁVEZ - 1045270226",
+            "AL PIE DE LA FIRMA": "JOSÉ CHÁVEZ - 1045270226"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1045270226",
+            "NOMBRES": "JOSÉ CHÁVEZ",
+            "FECHA NACIMIENTO": "22/05/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.373.233",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOSÉ CHÁVEZ - 1045270226",
+            "AL PIE DE LA FIRMA": "JOSÉ CHÁVEZ - 1045270226"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7494907",
+            "CEDULA": "1045270226",
+            "NOMBRES": "JOSÉ CHÁVEZ",
+            "CREDITO": "18.373.233",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "191.32",
+            "E.A": "21.75%",
+            "RECOMPRA O DESEMBOLSO": "2.878.588",
+            "FIRMA ELLECTRONICA": "JOSÉ CHÁVEZ - 1045270226"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1045270226",
+            "NOMBRES": "JOSÉ CHÁVEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ CHÁVEZ - 1045270226"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1045270226",
+            "NOMBRES": "JOSÉ CHÁVEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ CHÁVEZ - 1045270226",
+            "AL PIE DE LA FIRMA": "JOSÉ CHÁVEZ - 1045270226"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ CHÁVEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1045270226",
+            "NOMBRES": "JOSÉ CHÁVEZ",
+            "SALARIO": "2.767.007",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1045270226",
+            "NOMBRES": "JOSÉ CHÁVEZ",
+            "RECOMPRA O DESEMBOLSO": "2.878.588"
+        }
+    }
+]

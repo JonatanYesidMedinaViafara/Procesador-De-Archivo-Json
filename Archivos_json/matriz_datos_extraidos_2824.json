@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "710958328700",
+            "SOLICITUD": "5500260",
+            "CEDULA": "1782250185",
+            "NOMBRES": "RAFAEL RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.178.528",
+            "FIRMA ELLECTRONICA": "RAFAEL RODRÍGUEZ - 1782250185"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "710958328700",
+            "NOMBRES": "RAFAEL RODRÍGUEZ",
+            "CREDITO": "15.193.217",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "127.637",
+            "FIRMA ELLECTRONICA": "RAFAEL RODRÍGUEZ - 1782250185",
+            "AL PIE DE LA FIRMA": "RAFAEL RODRÍGUEZ - 1782250185"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1782250185",
+            "NOMBRES": "RAFAEL RODRÍGUEZ",
+            "FECHA NACIMIENTO": "22/06/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.193.217",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "RAFAEL RODRÍGUEZ - 1782250185",
+            "AL PIE DE LA FIRMA": "RAFAEL RODRÍGUEZ - 1782250185"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5500260",
+            "CEDULA": "1782250185",
+            "NOMBRES": "RAFAEL RODRÍGUEZ",
+            "CREDITO": "15.193.217",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "127.637",
+            "E.A": "28.5%",
+            "RECOMPRA O DESEMBOLSO": "4.178.528",
+            "FIRMA ELLECTRONICA": "RAFAEL RODRÍGUEZ - 1782250185"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1782250185",
+            "NOMBRES": "RAFAEL RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "RAFAEL RODRÍGUEZ - 1782250185"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1782250185",
+            "NOMBRES": "RAFAEL RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "RAFAEL RODRÍGUEZ - 1782250185",
+            "AL PIE DE LA FIRMA": "RAFAEL RODRÍGUEZ - 1782250185"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1782250185",
+            "NOMBRES": "RAFAEL RODRÍGUEZ",
+            "SALARIO": "2.407.468",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1782250185",
+            "NOMBRES": "RAFAEL RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.178.528"
+        }
+    }
+]

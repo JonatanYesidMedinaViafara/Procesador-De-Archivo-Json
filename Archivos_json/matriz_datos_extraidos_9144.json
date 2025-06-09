@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "874300868136",
+            "SOLICITUD": "7832852",
+            "CEDULA": "1187303553",
+            "NOMBRES": "ALCIDES DAVID BERNAL PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.726.417",
+            "FIRMA ELLECTRONICA": "ALCIDES DAVID BERNAL PÉREZ - 1187303553"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "874300868136",
+            "NOMBRES": "ALCIDES DAVID BERNAL PÉREZ",
+            "CREDITO": "13.216.570",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "260.88",
+            "FIRMA ELLECTRONICA": "ALCIDES DAVID BERNAL PÉREZ - 1187303553",
+            "AL PIE DE LA FIRMA": "ALCIDES DAVID BERNAL PÉREZ - 1187303553"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1187303553",
+            "NOMBRES": "ALCIDES DAVID BERNAL PÉREZ",
+            "FECHA NACIMIENTO": "16/01/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.216.570",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALCIDES DAVID BERNAL PÉREZ - 1187303553",
+            "AL PIE DE LA FIRMA": "ALCIDES DAVID BERNAL PÉREZ - 1187303553"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7832852",
+            "CEDULA": "1187303553",
+            "NOMBRES": "ALCIDES DAVID BERNAL PÉREZ",
+            "CREDITO": "13.216.570",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "260.88",
+            "E.A": "26.8%",
+            "RECOMPRA O DESEMBOLSO": "3.726.417",
+            "FIRMA ELLECTRONICA": "ALCIDES DAVID BERNAL PÉREZ - 1187303553"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1187303553",
+            "NOMBRES": "ALCIDES DAVID BERNAL PÉREZ",
+            "FIRMA ELLECTRONICA": "ALCIDES DAVID BERNAL PÉREZ - 1187303553"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1187303553",
+            "NOMBRES": "ALCIDES DAVID BERNAL PÉREZ",
+            "FIRMA ELLECTRONICA": "ALCIDES DAVID BERNAL PÉREZ - 1187303553",
+            "AL PIE DE LA FIRMA": "ALCIDES DAVID BERNAL PÉREZ - 1187303553"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALCIDES DAVID BERNAL PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1187303553",
+            "NOMBRES": "ALCIDES DAVID BERNAL PÉREZ",
+            "SALARIO": "1.227.049",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1187303553",
+            "NOMBRES": "ALCIDES DAVID BERNAL PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.726.417"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "275846864435",
+            "SOLICITUD": "2175471",
+            "CEDULA": "1001067865",
+            "NOMBRES": "EUGENIA KATHERINE MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "4.683.977",
+            "FIRMA ELLECTRONICA": "EUGENIA KATHERINE MOSQUERA - 1001067865"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "275846864435",
+            "NOMBRES": "EUGENIA KATHERINE MOSQUERA",
+            "CREDITO": "11.623.487",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "353.223",
+            "FIRMA ELLECTRONICA": "EUGENIA KATHERINE MOSQUERA - 1001067865",
+            "AL PIE DE LA FIRMA": "EUGENIA KATHERINE MOSQUERA - 1001067865"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1001067865",
+            "NOMBRES": "EUGENIA KATHERINE MOSQUERA",
+            "FECHA NACIMIENTO": "28/09/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.623.487",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EUGENIA KATHERINE MOSQUERA - 1001067865",
+            "AL PIE DE LA FIRMA": "EUGENIA KATHERINE MOSQUERA - 1001067865"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2175471",
+            "CEDULA": "1001067865",
+            "NOMBRES": "EUGENIA KATHERINE MOSQUERA",
+            "CREDITO": "11.623.487",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "353.223",
+            "E.A": "28.53%",
+            "RECOMPRA O DESEMBOLSO": "4.683.977",
+            "FIRMA ELLECTRONICA": "EUGENIA KATHERINE MOSQUERA - 1001067865"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1001067865",
+            "NOMBRES": "EUGENIA KATHERINE MOSQUERA",
+            "FIRMA ELLECTRONICA": "EUGENIA KATHERINE MOSQUERA - 1001067865"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1001067865",
+            "NOMBRES": "EUGENIA KATHERINE MOSQUERA",
+            "FIRMA ELLECTRONICA": "EUGENIA KATHERINE MOSQUERA - 1001067865",
+            "AL PIE DE LA FIRMA": "EUGENIA KATHERINE MOSQUERA - 1001067865"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EUGENIA KATHERINE MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1001067865",
+            "NOMBRES": "EUGENIA KATHERINE MOSQUERA",
+            "SALARIO": "3.359.827",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1001067865",
+            "NOMBRES": "EUGENIA KATHERINE MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "4.683.977"
+        }
+    }
+]

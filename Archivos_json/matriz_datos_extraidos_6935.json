@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "481121408725",
+            "SOLICITUD": "2029330",
+            "CEDULA": "1353501232",
+            "NOMBRES": "MARCELA ESTHER MARTÍNEZ ROA",
+            "RECOMPRA O DESEMBOLSO": "2.764.807",
+            "FIRMA ELLECTRONICA": "MARCELA ESTHER MARTÍNEZ ROA - 1353501232"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "481121408725",
+            "NOMBRES": "MARCELA ESTHER MARTÍNEZ ROA",
+            "CREDITO": "12.660.566",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "359.22",
+            "FIRMA ELLECTRONICA": "MARCELA ESTHER MARTÍNEZ ROA - 1353501232",
+            "AL PIE DE LA FIRMA": "MARCELA ESTHER MARTÍNEZ ROA - 1353501232"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1353501232",
+            "NOMBRES": "MARCELA ESTHER MARTÍNEZ ROA",
+            "FECHA NACIMIENTO": "17/02/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.660.566",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARCELA ESTHER MARTÍNEZ ROA - 1353501232",
+            "AL PIE DE LA FIRMA": "MARCELA ESTHER MARTÍNEZ ROA - 1353501232"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2029330",
+            "CEDULA": "1353501232",
+            "NOMBRES": "MARCELA ESTHER MARTÍNEZ ROA",
+            "CREDITO": "12.660.566",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "359.22",
+            "E.A": "27.92%",
+            "RECOMPRA O DESEMBOLSO": "2.764.807",
+            "FIRMA ELLECTRONICA": "MARCELA ESTHER MARTÍNEZ ROA - 1353501232"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1353501232",
+            "NOMBRES": "MARCELA ESTHER MARTÍNEZ ROA",
+            "FIRMA ELLECTRONICA": "MARCELA ESTHER MARTÍNEZ ROA - 1353501232"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1353501232",
+            "NOMBRES": "MARCELA ESTHER MARTÍNEZ ROA",
+            "FIRMA ELLECTRONICA": "MARCELA ESTHER MARTÍNEZ ROA - 1353501232",
+            "AL PIE DE LA FIRMA": "MARCELA ESTHER MARTÍNEZ ROA - 1353501232"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCELA ESTHER MARTÍNEZ ROA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1353501232",
+            "NOMBRES": "MARCELA ESTHER MARTÍNEZ ROA",
+            "SALARIO": "2.434.350",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1353501232",
+            "NOMBRES": "MARCELA ESTHER MARTÍNEZ ROA",
+            "RECOMPRA O DESEMBOLSO": "2.764.807"
+        }
+    }
+]

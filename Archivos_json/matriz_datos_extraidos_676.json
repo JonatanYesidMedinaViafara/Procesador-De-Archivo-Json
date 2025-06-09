@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "649569262916",
+            "SOLICITUD": "1350969",
+            "CEDULA": "1806248340",
+            "NOMBRES": "MICHAEL CARLOS BONILLA",
+            "RECOMPRA O DESEMBOLSO": "1.422.633",
+            "FIRMA ELLECTRONICA": "MICHAEL CARLOS BONILLA - 1806248340"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "649569262916",
+            "NOMBRES": "MICHAEL CARLOS BONILLA",
+            "CREDITO": "9.294.517",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "342.52",
+            "FIRMA ELLECTRONICA": "MICHAEL CARLOS BONILLA - 1806248340",
+            "AL PIE DE LA FIRMA": "MICHAEL CARLOS BONILLA - 1806248340"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1806248340",
+            "NOMBRES": "MICHAEL CARLOS BONILLA",
+            "FECHA NACIMIENTO": "04/09/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.294.517",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MICHAEL CARLOS BONILLA - 1806248340",
+            "AL PIE DE LA FIRMA": "MICHAEL CARLOS BONILLA - 1806248340"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1350969",
+            "CEDULA": "1806248340",
+            "NOMBRES": "MICHAEL CARLOS BONILLA",
+            "CREDITO": "9.294.517",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "342.52",
+            "E.A": "23.1%",
+            "RECOMPRA O DESEMBOLSO": "1.422.633",
+            "FIRMA ELLECTRONICA": "MICHAEL CARLOS BONILLA - 1806248340"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1806248340",
+            "NOMBRES": "MICHAEL CARLOS BONILLA",
+            "FIRMA ELLECTRONICA": "MICHAEL CARLOS BONILLA - 1806248340"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1806248340",
+            "NOMBRES": "MICHAEL CARLOS BONILLA",
+            "FIRMA ELLECTRONICA": "MICHAEL CARLOS BONILLA - 1806248340",
+            "AL PIE DE LA FIRMA": "MICHAEL CARLOS BONILLA - 1806248340"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MICHAEL CARLOS BONILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1806248340",
+            "NOMBRES": "MICHAEL CARLOS BONILLA",
+            "SALARIO": "3.250.821",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1806248340",
+            "NOMBRES": "MICHAEL CARLOS BONILLA",
+            "RECOMPRA O DESEMBOLSO": "1.422.633"
+        }
+    }
+]

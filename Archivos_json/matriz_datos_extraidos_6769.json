@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "961090474158",
+            "SOLICITUD": "8913498",
+            "CEDULA": "1665509510",
+            "NOMBRES": "ALEXANDER DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.877.492",
+            "FIRMA ELLECTRONICA": "ALEXANDER DÍAZ - 1665509510"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "961090474158",
+            "NOMBRES": "ALEXANDER DÍAZ",
+            "CREDITO": "8.946.769",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "185.321",
+            "FIRMA ELLECTRONICA": "ALEXANDER DÍAZ - 1665509510",
+            "AL PIE DE LA FIRMA": "ALEXANDER DÍAZ - 1665509510"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1665509510",
+            "NOMBRES": "ALEXANDER DÍAZ",
+            "FECHA NACIMIENTO": "01/10/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.946.769",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALEXANDER DÍAZ - 1665509510",
+            "AL PIE DE LA FIRMA": "ALEXANDER DÍAZ - 1665509510"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8913498",
+            "CEDULA": "1665509510",
+            "NOMBRES": "ALEXANDER DÍAZ",
+            "CREDITO": "8.946.769",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "185.321",
+            "E.A": "19.4%",
+            "RECOMPRA O DESEMBOLSO": "2.877.492",
+            "FIRMA ELLECTRONICA": "ALEXANDER DÍAZ - 1665509510"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1665509510",
+            "NOMBRES": "ALEXANDER DÍAZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER DÍAZ - 1665509510"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1665509510",
+            "NOMBRES": "ALEXANDER DÍAZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER DÍAZ - 1665509510",
+            "AL PIE DE LA FIRMA": "ALEXANDER DÍAZ - 1665509510"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1665509510",
+            "NOMBRES": "ALEXANDER DÍAZ",
+            "SALARIO": "3.742.309",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1665509510",
+            "NOMBRES": "ALEXANDER DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.877.492"
+        }
+    }
+]

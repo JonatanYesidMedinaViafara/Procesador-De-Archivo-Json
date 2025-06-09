@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "364679356782",
+            "SOLICITUD": "1725877",
+            "CEDULA": "1151508108",
+            "NOMBRES": "LILIANA GUEVARA",
+            "RECOMPRA O DESEMBOLSO": "2.854.703",
+            "FIRMA ELLECTRONICA": "LILIANA GUEVARA - 1151508108"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "364679356782",
+            "NOMBRES": "LILIANA GUEVARA",
+            "CREDITO": "15.520.687",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "306.747",
+            "FIRMA ELLECTRONICA": "LILIANA GUEVARA - 1151508108",
+            "AL PIE DE LA FIRMA": "LILIANA GUEVARA - 1151508108"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1151508108",
+            "NOMBRES": "LILIANA GUEVARA",
+            "FECHA NACIMIENTO": "04/04/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.520.687",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LILIANA GUEVARA - 1151508108",
+            "AL PIE DE LA FIRMA": "LILIANA GUEVARA - 1151508108"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1725877",
+            "CEDULA": "1151508108",
+            "NOMBRES": "LILIANA GUEVARA",
+            "CREDITO": "15.520.687",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "306.747",
+            "E.A": "21.78%",
+            "RECOMPRA O DESEMBOLSO": "2.854.703",
+            "FIRMA ELLECTRONICA": "LILIANA GUEVARA - 1151508108"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1151508108",
+            "NOMBRES": "LILIANA GUEVARA",
+            "FIRMA ELLECTRONICA": "LILIANA GUEVARA - 1151508108"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1151508108",
+            "NOMBRES": "LILIANA GUEVARA",
+            "FIRMA ELLECTRONICA": "LILIANA GUEVARA - 1151508108",
+            "AL PIE DE LA FIRMA": "LILIANA GUEVARA - 1151508108"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LILIANA GUEVARA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1151508108",
+            "NOMBRES": "LILIANA GUEVARA",
+            "SALARIO": "4.624.409",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1151508108",
+            "NOMBRES": "LILIANA GUEVARA",
+            "RECOMPRA O DESEMBOLSO": "2.854.703"
+        }
+    }
+]

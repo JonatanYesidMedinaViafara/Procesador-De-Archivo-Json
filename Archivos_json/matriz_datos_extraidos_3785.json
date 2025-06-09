@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "778558023418",
+            "SOLICITUD": "9539031",
+            "CEDULA": "1453611786",
+            "NOMBRES": "DIEGO AYALA",
+            "RECOMPRA O DESEMBOLSO": "4.156.626",
+            "FIRMA ELLECTRONICA": "DIEGO AYALA - 1453611786"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "778558023418",
+            "NOMBRES": "DIEGO AYALA",
+            "CREDITO": "16.327.962",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "251.047",
+            "FIRMA ELLECTRONICA": "DIEGO AYALA - 1453611786",
+            "AL PIE DE LA FIRMA": "DIEGO AYALA - 1453611786"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1453611786",
+            "NOMBRES": "DIEGO AYALA",
+            "FECHA NACIMIENTO": "18/08/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.327.962",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DIEGO AYALA - 1453611786",
+            "AL PIE DE LA FIRMA": "DIEGO AYALA - 1453611786"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9539031",
+            "CEDULA": "1453611786",
+            "NOMBRES": "DIEGO AYALA",
+            "CREDITO": "16.327.962",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "251.047",
+            "E.A": "22.46%",
+            "RECOMPRA O DESEMBOLSO": "4.156.626",
+            "FIRMA ELLECTRONICA": "DIEGO AYALA - 1453611786"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1453611786",
+            "NOMBRES": "DIEGO AYALA",
+            "FIRMA ELLECTRONICA": "DIEGO AYALA - 1453611786"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1453611786",
+            "NOMBRES": "DIEGO AYALA",
+            "FIRMA ELLECTRONICA": "DIEGO AYALA - 1453611786",
+            "AL PIE DE LA FIRMA": "DIEGO AYALA - 1453611786"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO AYALA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1453611786",
+            "NOMBRES": "DIEGO AYALA",
+            "SALARIO": "2.258.168",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1453611786",
+            "NOMBRES": "DIEGO AYALA",
+            "RECOMPRA O DESEMBOLSO": "4.156.626"
+        }
+    }
+]

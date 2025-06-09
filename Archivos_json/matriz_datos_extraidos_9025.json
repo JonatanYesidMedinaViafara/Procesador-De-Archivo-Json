@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "598178601160",
+            "SOLICITUD": "2097878",
+            "CEDULA": "1881469782",
+            "NOMBRES": "ESTIVEN CARLOS LÓPEZ OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.855.642",
+            "FIRMA ELLECTRONICA": "ESTIVEN CARLOS LÓPEZ OSORIO - 1881469782"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "598178601160",
+            "NOMBRES": "ESTIVEN CARLOS LÓPEZ OSORIO",
+            "CREDITO": "9.951.978",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "138.927",
+            "FIRMA ELLECTRONICA": "ESTIVEN CARLOS LÓPEZ OSORIO - 1881469782",
+            "AL PIE DE LA FIRMA": "ESTIVEN CARLOS LÓPEZ OSORIO - 1881469782"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1881469782",
+            "NOMBRES": "ESTIVEN CARLOS LÓPEZ OSORIO",
+            "FECHA NACIMIENTO": "10/07/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.951.978",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ESTIVEN CARLOS LÓPEZ OSORIO - 1881469782",
+            "AL PIE DE LA FIRMA": "ESTIVEN CARLOS LÓPEZ OSORIO - 1881469782"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2097878",
+            "CEDULA": "1881469782",
+            "NOMBRES": "ESTIVEN CARLOS LÓPEZ OSORIO",
+            "CREDITO": "9.951.978",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "138.927",
+            "E.A": "26.98%",
+            "RECOMPRA O DESEMBOLSO": "2.855.642",
+            "FIRMA ELLECTRONICA": "ESTIVEN CARLOS LÓPEZ OSORIO - 1881469782"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1881469782",
+            "NOMBRES": "ESTIVEN CARLOS LÓPEZ OSORIO",
+            "FIRMA ELLECTRONICA": "ESTIVEN CARLOS LÓPEZ OSORIO - 1881469782"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1881469782",
+            "NOMBRES": "ESTIVEN CARLOS LÓPEZ OSORIO",
+            "FIRMA ELLECTRONICA": "ESTIVEN CARLOS LÓPEZ OSORIO - 1881469782",
+            "AL PIE DE LA FIRMA": "ESTIVEN CARLOS LÓPEZ OSORIO - 1881469782"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTIVEN CARLOS LÓPEZ OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1881469782",
+            "NOMBRES": "ESTIVEN CARLOS LÓPEZ OSORIO",
+            "SALARIO": "2.628.435",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1881469782",
+            "NOMBRES": "ESTIVEN CARLOS LÓPEZ OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.855.642"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "519219500004",
+            "SOLICITUD": "1809718",
+            "CEDULA": "1690579390",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.120.430",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1690579390"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "519219500004",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "CREDITO": "15.455.280",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "268.861",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1690579390",
+            "AL PIE DE LA FIRMA": "JOSÉ MARTÍNEZ - 1690579390"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1690579390",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "FECHA NACIMIENTO": "09/04/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.455.280",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1690579390",
+            "AL PIE DE LA FIRMA": "JOSÉ MARTÍNEZ - 1690579390"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1809718",
+            "CEDULA": "1690579390",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "CREDITO": "15.455.280",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "268.861",
+            "E.A": "22.5%",
+            "RECOMPRA O DESEMBOLSO": "1.120.430",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1690579390"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1690579390",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1690579390"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1690579390",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ MARTÍNEZ - 1690579390",
+            "AL PIE DE LA FIRMA": "JOSÉ MARTÍNEZ - 1690579390"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1690579390",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "SALARIO": "4.379.056",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1690579390",
+            "NOMBRES": "JOSÉ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.120.430"
+        }
+    }
+]

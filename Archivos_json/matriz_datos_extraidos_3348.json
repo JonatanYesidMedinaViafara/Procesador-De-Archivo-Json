@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "829536881308",
+            "SOLICITUD": "9571730",
+            "CEDULA": "1450960088",
+            "NOMBRES": "ARLEY RIVAS",
+            "RECOMPRA O DESEMBOLSO": "3.577.273",
+            "FIRMA ELLECTRONICA": "ARLEY RIVAS - 1450960088"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "829536881308",
+            "NOMBRES": "ARLEY RIVAS",
+            "CREDITO": "9.336.422",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "235.906",
+            "FIRMA ELLECTRONICA": "ARLEY RIVAS - 1450960088",
+            "AL PIE DE LA FIRMA": "ARLEY RIVAS - 1450960088"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1450960088",
+            "NOMBRES": "ARLEY RIVAS",
+            "FECHA NACIMIENTO": "22/11/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.336.422",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ARLEY RIVAS - 1450960088",
+            "AL PIE DE LA FIRMA": "ARLEY RIVAS - 1450960088"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9571730",
+            "CEDULA": "1450960088",
+            "NOMBRES": "ARLEY RIVAS",
+            "CREDITO": "9.336.422",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "235.906",
+            "E.A": "27.57%",
+            "RECOMPRA O DESEMBOLSO": "3.577.273",
+            "FIRMA ELLECTRONICA": "ARLEY RIVAS - 1450960088"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1450960088",
+            "NOMBRES": "ARLEY RIVAS",
+            "FIRMA ELLECTRONICA": "ARLEY RIVAS - 1450960088"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1450960088",
+            "NOMBRES": "ARLEY RIVAS",
+            "FIRMA ELLECTRONICA": "ARLEY RIVAS - 1450960088",
+            "AL PIE DE LA FIRMA": "ARLEY RIVAS - 1450960088"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARLEY RIVAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1450960088",
+            "NOMBRES": "ARLEY RIVAS",
+            "SALARIO": "1.737.834",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1450960088",
+            "NOMBRES": "ARLEY RIVAS",
+            "RECOMPRA O DESEMBOLSO": "3.577.273"
+        }
+    }
+]

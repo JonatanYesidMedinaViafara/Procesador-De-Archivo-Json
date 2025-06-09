@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "316822678406",
+            "SOLICITUD": "2312791",
+            "CEDULA": "1935927472",
+            "NOMBRES": "ELISA SILVIA GIRALDO LONDOÑO",
+            "RECOMPRA O DESEMBOLSO": "4.566.003",
+            "FIRMA ELLECTRONICA": "ELISA SILVIA GIRALDO LONDOÑO - 1935927472"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "316822678406",
+            "NOMBRES": "ELISA SILVIA GIRALDO LONDOÑO",
+            "CREDITO": "6.073.030",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "156.65",
+            "FIRMA ELLECTRONICA": "ELISA SILVIA GIRALDO LONDOÑO - 1935927472",
+            "AL PIE DE LA FIRMA": "ELISA SILVIA GIRALDO LONDOÑO - 1935927472"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1935927472",
+            "NOMBRES": "ELISA SILVIA GIRALDO LONDOÑO",
+            "FECHA NACIMIENTO": "27/10/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.073.030",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ELISA SILVIA GIRALDO LONDOÑO - 1935927472",
+            "AL PIE DE LA FIRMA": "ELISA SILVIA GIRALDO LONDOÑO - 1935927472"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2312791",
+            "CEDULA": "1935927472",
+            "NOMBRES": "ELISA SILVIA GIRALDO LONDOÑO",
+            "CREDITO": "6.073.030",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "156.65",
+            "E.A": "19.84%",
+            "RECOMPRA O DESEMBOLSO": "4.566.003",
+            "FIRMA ELLECTRONICA": "ELISA SILVIA GIRALDO LONDOÑO - 1935927472"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1935927472",
+            "NOMBRES": "ELISA SILVIA GIRALDO LONDOÑO",
+            "FIRMA ELLECTRONICA": "ELISA SILVIA GIRALDO LONDOÑO - 1935927472"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1935927472",
+            "NOMBRES": "ELISA SILVIA GIRALDO LONDOÑO",
+            "FIRMA ELLECTRONICA": "ELISA SILVIA GIRALDO LONDOÑO - 1935927472",
+            "AL PIE DE LA FIRMA": "ELISA SILVIA GIRALDO LONDOÑO - 1935927472"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELISA SILVIA GIRALDO LONDOÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1935927472",
+            "NOMBRES": "ELISA SILVIA GIRALDO LONDOÑO",
+            "SALARIO": "3.685.419",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1935927472",
+            "NOMBRES": "ELISA SILVIA GIRALDO LONDOÑO",
+            "RECOMPRA O DESEMBOLSO": "4.566.003"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "403154798446",
+            "SOLICITUD": "9211804",
+            "CEDULA": "1337852174",
+            "NOMBRES": "LIDA CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.136.407",
+            "FIRMA ELLECTRONICA": "LIDA CANTILLO - 1337852174"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "403154798446",
+            "NOMBRES": "LIDA CANTILLO",
+            "CREDITO": "14.569.489",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "131.297",
+            "FIRMA ELLECTRONICA": "LIDA CANTILLO - 1337852174",
+            "AL PIE DE LA FIRMA": "LIDA CANTILLO - 1337852174"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1337852174",
+            "NOMBRES": "LIDA CANTILLO",
+            "FECHA NACIMIENTO": "23/01/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.569.489",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LIDA CANTILLO - 1337852174",
+            "AL PIE DE LA FIRMA": "LIDA CANTILLO - 1337852174"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9211804",
+            "CEDULA": "1337852174",
+            "NOMBRES": "LIDA CANTILLO",
+            "CREDITO": "14.569.489",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "131.297",
+            "E.A": "26.03%",
+            "RECOMPRA O DESEMBOLSO": "4.136.407",
+            "FIRMA ELLECTRONICA": "LIDA CANTILLO - 1337852174"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1337852174",
+            "NOMBRES": "LIDA CANTILLO",
+            "FIRMA ELLECTRONICA": "LIDA CANTILLO - 1337852174"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1337852174",
+            "NOMBRES": "LIDA CANTILLO",
+            "FIRMA ELLECTRONICA": "LIDA CANTILLO - 1337852174",
+            "AL PIE DE LA FIRMA": "LIDA CANTILLO - 1337852174"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LIDA CANTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1337852174",
+            "NOMBRES": "LIDA CANTILLO",
+            "SALARIO": "1.739.765",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1337852174",
+            "NOMBRES": "LIDA CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.136.407"
+        }
+    }
+]

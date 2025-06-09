@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "413006248702",
+            "SOLICITUD": "1027201",
+            "CEDULA": "1991989560",
+            "NOMBRES": "MARITZA DORA GARCÉS",
+            "RECOMPRA O DESEMBOLSO": "4.040.218",
+            "FIRMA ELLECTRONICA": "MARITZA DORA GARCÉS - 1991989560"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "413006248702",
+            "NOMBRES": "MARITZA DORA GARCÉS",
+            "CREDITO": "6.899.289",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "297.174",
+            "FIRMA ELLECTRONICA": "MARITZA DORA GARCÉS - 1991989560",
+            "AL PIE DE LA FIRMA": "MARITZA DORA GARCÉS - 1991989560"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1991989560",
+            "NOMBRES": "MARITZA DORA GARCÉS",
+            "FECHA NACIMIENTO": "23/08/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.899.289",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARITZA DORA GARCÉS - 1991989560",
+            "AL PIE DE LA FIRMA": "MARITZA DORA GARCÉS - 1991989560"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1027201",
+            "CEDULA": "1991989560",
+            "NOMBRES": "MARITZA DORA GARCÉS",
+            "CREDITO": "6.899.289",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "297.174",
+            "E.A": "27.3%",
+            "RECOMPRA O DESEMBOLSO": "4.040.218",
+            "FIRMA ELLECTRONICA": "MARITZA DORA GARCÉS - 1991989560"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1991989560",
+            "NOMBRES": "MARITZA DORA GARCÉS",
+            "FIRMA ELLECTRONICA": "MARITZA DORA GARCÉS - 1991989560"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1991989560",
+            "NOMBRES": "MARITZA DORA GARCÉS",
+            "FIRMA ELLECTRONICA": "MARITZA DORA GARCÉS - 1991989560",
+            "AL PIE DE LA FIRMA": "MARITZA DORA GARCÉS - 1991989560"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARITZA DORA GARCÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1991989560",
+            "NOMBRES": "MARITZA DORA GARCÉS",
+            "SALARIO": "4.115.043",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1991989560",
+            "NOMBRES": "MARITZA DORA GARCÉS",
+            "RECOMPRA O DESEMBOLSO": "4.040.218"
+        }
+    }
+]

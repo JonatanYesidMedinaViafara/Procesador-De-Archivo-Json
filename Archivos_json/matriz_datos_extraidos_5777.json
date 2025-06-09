@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "911261921723",
+            "SOLICITUD": "6228121",
+            "CEDULA": "1545689399",
+            "NOMBRES": "DIANA GÓMEZ HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.648.900",
+            "FIRMA ELLECTRONICA": "DIANA GÓMEZ HERRERA - 1545689399"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "911261921723",
+            "NOMBRES": "DIANA GÓMEZ HERRERA",
+            "CREDITO": "14.103.409",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "348.485",
+            "FIRMA ELLECTRONICA": "DIANA GÓMEZ HERRERA - 1545689399",
+            "AL PIE DE LA FIRMA": "DIANA GÓMEZ HERRERA - 1545689399"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1545689399",
+            "NOMBRES": "DIANA GÓMEZ HERRERA",
+            "FECHA NACIMIENTO": "20/05/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.103.409",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DIANA GÓMEZ HERRERA - 1545689399",
+            "AL PIE DE LA FIRMA": "DIANA GÓMEZ HERRERA - 1545689399"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6228121",
+            "CEDULA": "1545689399",
+            "NOMBRES": "DIANA GÓMEZ HERRERA",
+            "CREDITO": "14.103.409",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "348.485",
+            "E.A": "23.79%",
+            "RECOMPRA O DESEMBOLSO": "2.648.900",
+            "FIRMA ELLECTRONICA": "DIANA GÓMEZ HERRERA - 1545689399"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1545689399",
+            "NOMBRES": "DIANA GÓMEZ HERRERA",
+            "FIRMA ELLECTRONICA": "DIANA GÓMEZ HERRERA - 1545689399"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1545689399",
+            "NOMBRES": "DIANA GÓMEZ HERRERA",
+            "FIRMA ELLECTRONICA": "DIANA GÓMEZ HERRERA - 1545689399",
+            "AL PIE DE LA FIRMA": "DIANA GÓMEZ HERRERA - 1545689399"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA GÓMEZ HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1545689399",
+            "NOMBRES": "DIANA GÓMEZ HERRERA",
+            "SALARIO": "3.952.445",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1545689399",
+            "NOMBRES": "DIANA GÓMEZ HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.648.900"
+        }
+    }
+]

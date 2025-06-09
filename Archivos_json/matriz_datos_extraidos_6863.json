@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "786366261640",
+            "SOLICITUD": "2607380",
+            "CEDULA": "1177314430",
+            "NOMBRES": "STELLA VALLEJO",
+            "RECOMPRA O DESEMBOLSO": "2.952.567",
+            "FIRMA ELLECTRONICA": "STELLA VALLEJO - 1177314430"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "786366261640",
+            "NOMBRES": "STELLA VALLEJO",
+            "CREDITO": "17.911.973",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "118.45",
+            "FIRMA ELLECTRONICA": "STELLA VALLEJO - 1177314430",
+            "AL PIE DE LA FIRMA": "STELLA VALLEJO - 1177314430"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1177314430",
+            "NOMBRES": "STELLA VALLEJO",
+            "FECHA NACIMIENTO": "27/04/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.911.973",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "STELLA VALLEJO - 1177314430",
+            "AL PIE DE LA FIRMA": "STELLA VALLEJO - 1177314430"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2607380",
+            "CEDULA": "1177314430",
+            "NOMBRES": "STELLA VALLEJO",
+            "CREDITO": "17.911.973",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "118.45",
+            "E.A": "24.69%",
+            "RECOMPRA O DESEMBOLSO": "2.952.567",
+            "FIRMA ELLECTRONICA": "STELLA VALLEJO - 1177314430"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1177314430",
+            "NOMBRES": "STELLA VALLEJO",
+            "FIRMA ELLECTRONICA": "STELLA VALLEJO - 1177314430"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1177314430",
+            "NOMBRES": "STELLA VALLEJO",
+            "FIRMA ELLECTRONICA": "STELLA VALLEJO - 1177314430",
+            "AL PIE DE LA FIRMA": "STELLA VALLEJO - 1177314430"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "STELLA VALLEJO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1177314430",
+            "NOMBRES": "STELLA VALLEJO",
+            "SALARIO": "1.976.057",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1177314430",
+            "NOMBRES": "STELLA VALLEJO",
+            "RECOMPRA O DESEMBOLSO": "2.952.567"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "182482397191",
+            "SOLICITUD": "8426780",
+            "CEDULA": "1567237375",
+            "NOMBRES": "OMAR SANTIAGO ARIAS",
+            "RECOMPRA O DESEMBOLSO": "3.928.456",
+            "FIRMA ELLECTRONICA": "OMAR SANTIAGO ARIAS - 1567237375"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "182482397191",
+            "NOMBRES": "OMAR SANTIAGO ARIAS",
+            "CREDITO": "19.858.564",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "310.145",
+            "FIRMA ELLECTRONICA": "OMAR SANTIAGO ARIAS - 1567237375",
+            "AL PIE DE LA FIRMA": "OMAR SANTIAGO ARIAS - 1567237375"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1567237375",
+            "NOMBRES": "OMAR SANTIAGO ARIAS",
+            "FECHA NACIMIENTO": "18/09/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.858.564",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "OMAR SANTIAGO ARIAS - 1567237375",
+            "AL PIE DE LA FIRMA": "OMAR SANTIAGO ARIAS - 1567237375"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8426780",
+            "CEDULA": "1567237375",
+            "NOMBRES": "OMAR SANTIAGO ARIAS",
+            "CREDITO": "19.858.564",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "310.145",
+            "E.A": "20.84%",
+            "RECOMPRA O DESEMBOLSO": "3.928.456",
+            "FIRMA ELLECTRONICA": "OMAR SANTIAGO ARIAS - 1567237375"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1567237375",
+            "NOMBRES": "OMAR SANTIAGO ARIAS",
+            "FIRMA ELLECTRONICA": "OMAR SANTIAGO ARIAS - 1567237375"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1567237375",
+            "NOMBRES": "OMAR SANTIAGO ARIAS",
+            "FIRMA ELLECTRONICA": "OMAR SANTIAGO ARIAS - 1567237375",
+            "AL PIE DE LA FIRMA": "OMAR SANTIAGO ARIAS - 1567237375"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR SANTIAGO ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1567237375",
+            "NOMBRES": "OMAR SANTIAGO ARIAS",
+            "SALARIO": "2.611.188",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1567237375",
+            "NOMBRES": "OMAR SANTIAGO ARIAS",
+            "RECOMPRA O DESEMBOLSO": "3.928.456"
+        }
+    }
+]

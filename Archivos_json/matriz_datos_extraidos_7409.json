@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "749432319006",
+            "SOLICITUD": "3588779",
+            "CEDULA": "1010079471",
+            "NOMBRES": "MARÍA VÉLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.527.523",
+            "FIRMA ELLECTRONICA": "MARÍA VÉLEZ - 1010079471"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "749432319006",
+            "NOMBRES": "MARÍA VÉLEZ",
+            "CREDITO": "18.266.207",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "311.694",
+            "FIRMA ELLECTRONICA": "MARÍA VÉLEZ - 1010079471",
+            "AL PIE DE LA FIRMA": "MARÍA VÉLEZ - 1010079471"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1010079471",
+            "NOMBRES": "MARÍA VÉLEZ",
+            "FECHA NACIMIENTO": "14/08/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.266.207",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA VÉLEZ - 1010079471",
+            "AL PIE DE LA FIRMA": "MARÍA VÉLEZ - 1010079471"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3588779",
+            "CEDULA": "1010079471",
+            "NOMBRES": "MARÍA VÉLEZ",
+            "CREDITO": "18.266.207",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "311.694",
+            "E.A": "24.37%",
+            "RECOMPRA O DESEMBOLSO": "4.527.523",
+            "FIRMA ELLECTRONICA": "MARÍA VÉLEZ - 1010079471"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1010079471",
+            "NOMBRES": "MARÍA VÉLEZ",
+            "FIRMA ELLECTRONICA": "MARÍA VÉLEZ - 1010079471"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1010079471",
+            "NOMBRES": "MARÍA VÉLEZ",
+            "FIRMA ELLECTRONICA": "MARÍA VÉLEZ - 1010079471",
+            "AL PIE DE LA FIRMA": "MARÍA VÉLEZ - 1010079471"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA VÉLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1010079471",
+            "NOMBRES": "MARÍA VÉLEZ",
+            "SALARIO": "4.566.267",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1010079471",
+            "NOMBRES": "MARÍA VÉLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.527.523"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "896992239771",
+            "SOLICITUD": "2693586",
+            "CEDULA": "1964715144",
+            "NOMBRES": "ANDREA JOHANNA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "1.639.323",
+            "FIRMA ELLECTRONICA": "ANDREA JOHANNA GIRALDO - 1964715144"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "896992239771",
+            "NOMBRES": "ANDREA JOHANNA GIRALDO",
+            "CREDITO": "5.911.521",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "143.88",
+            "FIRMA ELLECTRONICA": "ANDREA JOHANNA GIRALDO - 1964715144",
+            "AL PIE DE LA FIRMA": "ANDREA JOHANNA GIRALDO - 1964715144"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1964715144",
+            "NOMBRES": "ANDREA JOHANNA GIRALDO",
+            "FECHA NACIMIENTO": "27/12/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.911.521",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDREA JOHANNA GIRALDO - 1964715144",
+            "AL PIE DE LA FIRMA": "ANDREA JOHANNA GIRALDO - 1964715144"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2693586",
+            "CEDULA": "1964715144",
+            "NOMBRES": "ANDREA JOHANNA GIRALDO",
+            "CREDITO": "5.911.521",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "143.88",
+            "E.A": "24.16%",
+            "RECOMPRA O DESEMBOLSO": "1.639.323",
+            "FIRMA ELLECTRONICA": "ANDREA JOHANNA GIRALDO - 1964715144"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1964715144",
+            "NOMBRES": "ANDREA JOHANNA GIRALDO",
+            "FIRMA ELLECTRONICA": "ANDREA JOHANNA GIRALDO - 1964715144"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1964715144",
+            "NOMBRES": "ANDREA JOHANNA GIRALDO",
+            "FIRMA ELLECTRONICA": "ANDREA JOHANNA GIRALDO - 1964715144",
+            "AL PIE DE LA FIRMA": "ANDREA JOHANNA GIRALDO - 1964715144"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA JOHANNA GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1964715144",
+            "NOMBRES": "ANDREA JOHANNA GIRALDO",
+            "SALARIO": "2.483.520",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1964715144",
+            "NOMBRES": "ANDREA JOHANNA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "1.639.323"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "161678008110",
+            "SOLICITUD": "5904306",
+            "CEDULA": "1885827090",
+            "NOMBRES": "NÉSTOR CASTILLO URIBE",
+            "RECOMPRA O DESEMBOLSO": "2.417.262",
+            "FIRMA ELLECTRONICA": "NÉSTOR CASTILLO URIBE - 1885827090"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "161678008110",
+            "NOMBRES": "NÉSTOR CASTILLO URIBE",
+            "CREDITO": "17.202.689",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "286.303",
+            "FIRMA ELLECTRONICA": "NÉSTOR CASTILLO URIBE - 1885827090",
+            "AL PIE DE LA FIRMA": "NÉSTOR CASTILLO URIBE - 1885827090"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1885827090",
+            "NOMBRES": "NÉSTOR CASTILLO URIBE",
+            "FECHA NACIMIENTO": "31/08/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.202.689",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "NÉSTOR CASTILLO URIBE - 1885827090",
+            "AL PIE DE LA FIRMA": "NÉSTOR CASTILLO URIBE - 1885827090"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5904306",
+            "CEDULA": "1885827090",
+            "NOMBRES": "NÉSTOR CASTILLO URIBE",
+            "CREDITO": "17.202.689",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "286.303",
+            "E.A": "20.05%",
+            "RECOMPRA O DESEMBOLSO": "2.417.262",
+            "FIRMA ELLECTRONICA": "NÉSTOR CASTILLO URIBE - 1885827090"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1885827090",
+            "NOMBRES": "NÉSTOR CASTILLO URIBE",
+            "FIRMA ELLECTRONICA": "NÉSTOR CASTILLO URIBE - 1885827090"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1885827090",
+            "NOMBRES": "NÉSTOR CASTILLO URIBE",
+            "FIRMA ELLECTRONICA": "NÉSTOR CASTILLO URIBE - 1885827090",
+            "AL PIE DE LA FIRMA": "NÉSTOR CASTILLO URIBE - 1885827090"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NÉSTOR CASTILLO URIBE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1885827090",
+            "NOMBRES": "NÉSTOR CASTILLO URIBE",
+            "SALARIO": "1.645.409",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1885827090",
+            "NOMBRES": "NÉSTOR CASTILLO URIBE",
+            "RECOMPRA O DESEMBOLSO": "2.417.262"
+        }
+    }
+]

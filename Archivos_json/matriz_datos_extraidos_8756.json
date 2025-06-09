@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "420897192100",
+            "SOLICITUD": "3587856",
+            "CEDULA": "1341078625",
+            "NOMBRES": "JOSÉ GAITÁN DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.722.639",
+            "FIRMA ELLECTRONICA": "JOSÉ GAITÁN DÍAZ - 1341078625"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "420897192100",
+            "NOMBRES": "JOSÉ GAITÁN DÍAZ",
+            "CREDITO": "19.378.265",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.09",
+            "FIRMA ELLECTRONICA": "JOSÉ GAITÁN DÍAZ - 1341078625",
+            "AL PIE DE LA FIRMA": "JOSÉ GAITÁN DÍAZ - 1341078625"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1341078625",
+            "NOMBRES": "JOSÉ GAITÁN DÍAZ",
+            "FECHA NACIMIENTO": "11/04/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.378.265",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ GAITÁN DÍAZ - 1341078625",
+            "AL PIE DE LA FIRMA": "JOSÉ GAITÁN DÍAZ - 1341078625"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3587856",
+            "CEDULA": "1341078625",
+            "NOMBRES": "JOSÉ GAITÁN DÍAZ",
+            "CREDITO": "19.378.265",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.09",
+            "E.A": "24.78%",
+            "RECOMPRA O DESEMBOLSO": "3.722.639",
+            "FIRMA ELLECTRONICA": "JOSÉ GAITÁN DÍAZ - 1341078625"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1341078625",
+            "NOMBRES": "JOSÉ GAITÁN DÍAZ",
+            "FIRMA ELLECTRONICA": "JOSÉ GAITÁN DÍAZ - 1341078625"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1341078625",
+            "NOMBRES": "JOSÉ GAITÁN DÍAZ",
+            "FIRMA ELLECTRONICA": "JOSÉ GAITÁN DÍAZ - 1341078625",
+            "AL PIE DE LA FIRMA": "JOSÉ GAITÁN DÍAZ - 1341078625"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ GAITÁN DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1341078625",
+            "NOMBRES": "JOSÉ GAITÁN DÍAZ",
+            "SALARIO": "1.603.931",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1341078625",
+            "NOMBRES": "JOSÉ GAITÁN DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.722.639"
+        }
+    }
+]

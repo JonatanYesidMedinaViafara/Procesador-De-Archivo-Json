@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "932582288236",
+            "SOLICITUD": "6269858",
+            "CEDULA": "1940584912",
+            "NOMBRES": "JOSÉ RODRÍGUEZ PADILLA",
+            "RECOMPRA O DESEMBOLSO": "1.235.404",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ PADILLA - 1940584912"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "932582288236",
+            "NOMBRES": "JOSÉ RODRÍGUEZ PADILLA",
+            "CREDITO": "13.485.002",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "219.267",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ PADILLA - 1940584912",
+            "AL PIE DE LA FIRMA": "JOSÉ RODRÍGUEZ PADILLA - 1940584912"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1940584912",
+            "NOMBRES": "JOSÉ RODRÍGUEZ PADILLA",
+            "FECHA NACIMIENTO": "18/12/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.485.002",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ PADILLA - 1940584912",
+            "AL PIE DE LA FIRMA": "JOSÉ RODRÍGUEZ PADILLA - 1940584912"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6269858",
+            "CEDULA": "1940584912",
+            "NOMBRES": "JOSÉ RODRÍGUEZ PADILLA",
+            "CREDITO": "13.485.002",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "219.267",
+            "E.A": "28.92%",
+            "RECOMPRA O DESEMBOLSO": "1.235.404",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ PADILLA - 1940584912"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1940584912",
+            "NOMBRES": "JOSÉ RODRÍGUEZ PADILLA",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ PADILLA - 1940584912"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1940584912",
+            "NOMBRES": "JOSÉ RODRÍGUEZ PADILLA",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ PADILLA - 1940584912",
+            "AL PIE DE LA FIRMA": "JOSÉ RODRÍGUEZ PADILLA - 1940584912"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ RODRÍGUEZ PADILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1940584912",
+            "NOMBRES": "JOSÉ RODRÍGUEZ PADILLA",
+            "SALARIO": "4.303.788",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1940584912",
+            "NOMBRES": "JOSÉ RODRÍGUEZ PADILLA",
+            "RECOMPRA O DESEMBOLSO": "1.235.404"
+        }
+    }
+]

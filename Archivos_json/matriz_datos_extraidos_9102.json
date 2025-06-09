@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "621894178641",
+            "SOLICITUD": "5794873",
+            "CEDULA": "1174915499",
+            "NOMBRES": "PAOLA CASTILLO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.299.532",
+            "FIRMA ELLECTRONICA": "PAOLA CASTILLO GÓMEZ - 1174915499"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "621894178641",
+            "NOMBRES": "PAOLA CASTILLO GÓMEZ",
+            "CREDITO": "8.871.589",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "360.92",
+            "FIRMA ELLECTRONICA": "PAOLA CASTILLO GÓMEZ - 1174915499",
+            "AL PIE DE LA FIRMA": "PAOLA CASTILLO GÓMEZ - 1174915499"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1174915499",
+            "NOMBRES": "PAOLA CASTILLO GÓMEZ",
+            "FECHA NACIMIENTO": "11/09/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.871.589",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "PAOLA CASTILLO GÓMEZ - 1174915499",
+            "AL PIE DE LA FIRMA": "PAOLA CASTILLO GÓMEZ - 1174915499"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5794873",
+            "CEDULA": "1174915499",
+            "NOMBRES": "PAOLA CASTILLO GÓMEZ",
+            "CREDITO": "8.871.589",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "360.92",
+            "E.A": "23.47%",
+            "RECOMPRA O DESEMBOLSO": "2.299.532",
+            "FIRMA ELLECTRONICA": "PAOLA CASTILLO GÓMEZ - 1174915499"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1174915499",
+            "NOMBRES": "PAOLA CASTILLO GÓMEZ",
+            "FIRMA ELLECTRONICA": "PAOLA CASTILLO GÓMEZ - 1174915499"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1174915499",
+            "NOMBRES": "PAOLA CASTILLO GÓMEZ",
+            "FIRMA ELLECTRONICA": "PAOLA CASTILLO GÓMEZ - 1174915499",
+            "AL PIE DE LA FIRMA": "PAOLA CASTILLO GÓMEZ - 1174915499"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA CASTILLO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1174915499",
+            "NOMBRES": "PAOLA CASTILLO GÓMEZ",
+            "SALARIO": "4.519.110",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1174915499",
+            "NOMBRES": "PAOLA CASTILLO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.299.532"
+        }
+    }
+]

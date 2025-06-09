@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "758044780063",
+            "SOLICITUD": "8241363",
+            "CEDULA": "1558664343",
+            "NOMBRES": "OLGA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.310.243",
+            "FIRMA ELLECTRONICA": "OLGA GARCÍA - 1558664343"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "758044780063",
+            "NOMBRES": "OLGA GARCÍA",
+            "CREDITO": "16.242.929",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "134.41",
+            "FIRMA ELLECTRONICA": "OLGA GARCÍA - 1558664343",
+            "AL PIE DE LA FIRMA": "OLGA GARCÍA - 1558664343"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1558664343",
+            "NOMBRES": "OLGA GARCÍA",
+            "FECHA NACIMIENTO": "31/03/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.242.929",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "OLGA GARCÍA - 1558664343",
+            "AL PIE DE LA FIRMA": "OLGA GARCÍA - 1558664343"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8241363",
+            "CEDULA": "1558664343",
+            "NOMBRES": "OLGA GARCÍA",
+            "CREDITO": "16.242.929",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "134.41",
+            "E.A": "21.73%",
+            "RECOMPRA O DESEMBOLSO": "1.310.243",
+            "FIRMA ELLECTRONICA": "OLGA GARCÍA - 1558664343"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1558664343",
+            "NOMBRES": "OLGA GARCÍA",
+            "FIRMA ELLECTRONICA": "OLGA GARCÍA - 1558664343"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1558664343",
+            "NOMBRES": "OLGA GARCÍA",
+            "FIRMA ELLECTRONICA": "OLGA GARCÍA - 1558664343",
+            "AL PIE DE LA FIRMA": "OLGA GARCÍA - 1558664343"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OLGA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1558664343",
+            "NOMBRES": "OLGA GARCÍA",
+            "SALARIO": "4.613.592",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1558664343",
+            "NOMBRES": "OLGA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.310.243"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "568999744657",
+            "SOLICITUD": "8289087",
+            "CEDULA": "1288368154",
+            "NOMBRES": "JOEL LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.675.778",
+            "FIRMA ELLECTRONICA": "JOEL LÓPEZ - 1288368154"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "568999744657",
+            "NOMBRES": "JOEL LÓPEZ",
+            "CREDITO": "12.542.009",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "287.714",
+            "FIRMA ELLECTRONICA": "JOEL LÓPEZ - 1288368154",
+            "AL PIE DE LA FIRMA": "JOEL LÓPEZ - 1288368154"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1288368154",
+            "NOMBRES": "JOEL LÓPEZ",
+            "FECHA NACIMIENTO": "12/03/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.542.009",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOEL LÓPEZ - 1288368154",
+            "AL PIE DE LA FIRMA": "JOEL LÓPEZ - 1288368154"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8289087",
+            "CEDULA": "1288368154",
+            "NOMBRES": "JOEL LÓPEZ",
+            "CREDITO": "12.542.009",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "287.714",
+            "E.A": "24.85%",
+            "RECOMPRA O DESEMBOLSO": "3.675.778",
+            "FIRMA ELLECTRONICA": "JOEL LÓPEZ - 1288368154"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1288368154",
+            "NOMBRES": "JOEL LÓPEZ",
+            "FIRMA ELLECTRONICA": "JOEL LÓPEZ - 1288368154"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1288368154",
+            "NOMBRES": "JOEL LÓPEZ",
+            "FIRMA ELLECTRONICA": "JOEL LÓPEZ - 1288368154",
+            "AL PIE DE LA FIRMA": "JOEL LÓPEZ - 1288368154"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOEL LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1288368154",
+            "NOMBRES": "JOEL LÓPEZ",
+            "SALARIO": "4.833.231",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1288368154",
+            "NOMBRES": "JOEL LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.675.778"
+        }
+    }
+]

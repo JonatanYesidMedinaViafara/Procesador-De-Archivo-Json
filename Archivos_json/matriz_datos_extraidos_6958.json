@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "949015664168",
+            "SOLICITUD": "8194270",
+            "CEDULA": "1021271830",
+            "NOMBRES": "CARLOS ANDRÉS RENTERÍA",
+            "RECOMPRA O DESEMBOLSO": "4.541.088",
+            "FIRMA ELLECTRONICA": "CARLOS ANDRÉS RENTERÍA - 1021271830"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "949015664168",
+            "NOMBRES": "CARLOS ANDRÉS RENTERÍA",
+            "CREDITO": "5.345.456",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "233.531",
+            "FIRMA ELLECTRONICA": "CARLOS ANDRÉS RENTERÍA - 1021271830",
+            "AL PIE DE LA FIRMA": "CARLOS ANDRÉS RENTERÍA - 1021271830"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1021271830",
+            "NOMBRES": "CARLOS ANDRÉS RENTERÍA",
+            "FECHA NACIMIENTO": "03/01/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.345.456",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARLOS ANDRÉS RENTERÍA - 1021271830",
+            "AL PIE DE LA FIRMA": "CARLOS ANDRÉS RENTERÍA - 1021271830"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8194270",
+            "CEDULA": "1021271830",
+            "NOMBRES": "CARLOS ANDRÉS RENTERÍA",
+            "CREDITO": "5.345.456",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "233.531",
+            "E.A": "25.4%",
+            "RECOMPRA O DESEMBOLSO": "4.541.088",
+            "FIRMA ELLECTRONICA": "CARLOS ANDRÉS RENTERÍA - 1021271830"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1021271830",
+            "NOMBRES": "CARLOS ANDRÉS RENTERÍA",
+            "FIRMA ELLECTRONICA": "CARLOS ANDRÉS RENTERÍA - 1021271830"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1021271830",
+            "NOMBRES": "CARLOS ANDRÉS RENTERÍA",
+            "FIRMA ELLECTRONICA": "CARLOS ANDRÉS RENTERÍA - 1021271830",
+            "AL PIE DE LA FIRMA": "CARLOS ANDRÉS RENTERÍA - 1021271830"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS ANDRÉS RENTERÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1021271830",
+            "NOMBRES": "CARLOS ANDRÉS RENTERÍA",
+            "SALARIO": "4.936.688",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1021271830",
+            "NOMBRES": "CARLOS ANDRÉS RENTERÍA",
+            "RECOMPRA O DESEMBOLSO": "4.541.088"
+        }
+    }
+]

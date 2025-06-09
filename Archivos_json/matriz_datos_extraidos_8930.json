@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "250286001597",
+            "SOLICITUD": "7034875",
+            "CEDULA": "1476646109",
+            "NOMBRES": "MARÍA CECILIA MONTES CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "2.873.148",
+            "FIRMA ELLECTRONICA": "MARÍA CECILIA MONTES CARVAJAL - 1476646109"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "250286001597",
+            "NOMBRES": "MARÍA CECILIA MONTES CARVAJAL",
+            "CREDITO": "16.096.956",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "332.754",
+            "FIRMA ELLECTRONICA": "MARÍA CECILIA MONTES CARVAJAL - 1476646109",
+            "AL PIE DE LA FIRMA": "MARÍA CECILIA MONTES CARVAJAL - 1476646109"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1476646109",
+            "NOMBRES": "MARÍA CECILIA MONTES CARVAJAL",
+            "FECHA NACIMIENTO": "15/02/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.096.956",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA CECILIA MONTES CARVAJAL - 1476646109",
+            "AL PIE DE LA FIRMA": "MARÍA CECILIA MONTES CARVAJAL - 1476646109"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7034875",
+            "CEDULA": "1476646109",
+            "NOMBRES": "MARÍA CECILIA MONTES CARVAJAL",
+            "CREDITO": "16.096.956",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "332.754",
+            "E.A": "20.39%",
+            "RECOMPRA O DESEMBOLSO": "2.873.148",
+            "FIRMA ELLECTRONICA": "MARÍA CECILIA MONTES CARVAJAL - 1476646109"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1476646109",
+            "NOMBRES": "MARÍA CECILIA MONTES CARVAJAL",
+            "FIRMA ELLECTRONICA": "MARÍA CECILIA MONTES CARVAJAL - 1476646109"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1476646109",
+            "NOMBRES": "MARÍA CECILIA MONTES CARVAJAL",
+            "FIRMA ELLECTRONICA": "MARÍA CECILIA MONTES CARVAJAL - 1476646109",
+            "AL PIE DE LA FIRMA": "MARÍA CECILIA MONTES CARVAJAL - 1476646109"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CECILIA MONTES CARVAJAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1476646109",
+            "NOMBRES": "MARÍA CECILIA MONTES CARVAJAL",
+            "SALARIO": "4.100.001",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1476646109",
+            "NOMBRES": "MARÍA CECILIA MONTES CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "2.873.148"
+        }
+    }
+]

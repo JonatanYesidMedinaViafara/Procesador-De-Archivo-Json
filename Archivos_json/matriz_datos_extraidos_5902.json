@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "275804802894",
+            "SOLICITUD": "4242970",
+            "CEDULA": "1775789715",
+            "NOMBRES": "RAFAEL JOSÉ MEDINA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.708.283",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ MEDINA ROJAS - 1775789715"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "275804802894",
+            "NOMBRES": "RAFAEL JOSÉ MEDINA ROJAS",
+            "CREDITO": "5.720.402",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "334.956",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ MEDINA ROJAS - 1775789715",
+            "AL PIE DE LA FIRMA": "RAFAEL JOSÉ MEDINA ROJAS - 1775789715"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1775789715",
+            "NOMBRES": "RAFAEL JOSÉ MEDINA ROJAS",
+            "FECHA NACIMIENTO": "22/06/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.720.402",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ MEDINA ROJAS - 1775789715",
+            "AL PIE DE LA FIRMA": "RAFAEL JOSÉ MEDINA ROJAS - 1775789715"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4242970",
+            "CEDULA": "1775789715",
+            "NOMBRES": "RAFAEL JOSÉ MEDINA ROJAS",
+            "CREDITO": "5.720.402",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "334.956",
+            "E.A": "27.75%",
+            "RECOMPRA O DESEMBOLSO": "3.708.283",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ MEDINA ROJAS - 1775789715"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1775789715",
+            "NOMBRES": "RAFAEL JOSÉ MEDINA ROJAS",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ MEDINA ROJAS - 1775789715"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1775789715",
+            "NOMBRES": "RAFAEL JOSÉ MEDINA ROJAS",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ MEDINA ROJAS - 1775789715",
+            "AL PIE DE LA FIRMA": "RAFAEL JOSÉ MEDINA ROJAS - 1775789715"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL JOSÉ MEDINA ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1775789715",
+            "NOMBRES": "RAFAEL JOSÉ MEDINA ROJAS",
+            "SALARIO": "3.049.594",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1775789715",
+            "NOMBRES": "RAFAEL JOSÉ MEDINA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.708.283"
+        }
+    }
+]

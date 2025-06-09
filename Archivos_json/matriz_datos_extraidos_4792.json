@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "847643830135",
+            "SOLICITUD": "1550311",
+            "CEDULA": "1022776629",
+            "NOMBRES": "EVER JOHN RAMÍREZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.092.705",
+            "FIRMA ELLECTRONICA": "EVER JOHN RAMÍREZ PÉREZ - 1022776629"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "847643830135",
+            "NOMBRES": "EVER JOHN RAMÍREZ PÉREZ",
+            "CREDITO": "14.191.185",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "159.02",
+            "FIRMA ELLECTRONICA": "EVER JOHN RAMÍREZ PÉREZ - 1022776629",
+            "AL PIE DE LA FIRMA": "EVER JOHN RAMÍREZ PÉREZ - 1022776629"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1022776629",
+            "NOMBRES": "EVER JOHN RAMÍREZ PÉREZ",
+            "FECHA NACIMIENTO": "31/08/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.191.185",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EVER JOHN RAMÍREZ PÉREZ - 1022776629",
+            "AL PIE DE LA FIRMA": "EVER JOHN RAMÍREZ PÉREZ - 1022776629"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1550311",
+            "CEDULA": "1022776629",
+            "NOMBRES": "EVER JOHN RAMÍREZ PÉREZ",
+            "CREDITO": "14.191.185",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "159.02",
+            "E.A": "28.88%",
+            "RECOMPRA O DESEMBOLSO": "2.092.705",
+            "FIRMA ELLECTRONICA": "EVER JOHN RAMÍREZ PÉREZ - 1022776629"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1022776629",
+            "NOMBRES": "EVER JOHN RAMÍREZ PÉREZ",
+            "FIRMA ELLECTRONICA": "EVER JOHN RAMÍREZ PÉREZ - 1022776629"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1022776629",
+            "NOMBRES": "EVER JOHN RAMÍREZ PÉREZ",
+            "FIRMA ELLECTRONICA": "EVER JOHN RAMÍREZ PÉREZ - 1022776629",
+            "AL PIE DE LA FIRMA": "EVER JOHN RAMÍREZ PÉREZ - 1022776629"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EVER JOHN RAMÍREZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1022776629",
+            "NOMBRES": "EVER JOHN RAMÍREZ PÉREZ",
+            "SALARIO": "4.160.506",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1022776629",
+            "NOMBRES": "EVER JOHN RAMÍREZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.092.705"
+        }
+    }
+]

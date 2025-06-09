@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "485128863908",
+            "SOLICITUD": "2299860",
+            "CEDULA": "1786504128",
+            "NOMBRES": "LUZ FERNÁNDEZ GIL",
+            "RECOMPRA O DESEMBOLSO": "2.261.037",
+            "FIRMA ELLECTRONICA": "LUZ FERNÁNDEZ GIL - 1786504128"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "485128863908",
+            "NOMBRES": "LUZ FERNÁNDEZ GIL",
+            "CREDITO": "5.627.678",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "274.016",
+            "FIRMA ELLECTRONICA": "LUZ FERNÁNDEZ GIL - 1786504128",
+            "AL PIE DE LA FIRMA": "LUZ FERNÁNDEZ GIL - 1786504128"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1786504128",
+            "NOMBRES": "LUZ FERNÁNDEZ GIL",
+            "FECHA NACIMIENTO": "03/07/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.627.678",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUZ FERNÁNDEZ GIL - 1786504128",
+            "AL PIE DE LA FIRMA": "LUZ FERNÁNDEZ GIL - 1786504128"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2299860",
+            "CEDULA": "1786504128",
+            "NOMBRES": "LUZ FERNÁNDEZ GIL",
+            "CREDITO": "5.627.678",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "274.016",
+            "E.A": "19.76%",
+            "RECOMPRA O DESEMBOLSO": "2.261.037",
+            "FIRMA ELLECTRONICA": "LUZ FERNÁNDEZ GIL - 1786504128"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1786504128",
+            "NOMBRES": "LUZ FERNÁNDEZ GIL",
+            "FIRMA ELLECTRONICA": "LUZ FERNÁNDEZ GIL - 1786504128"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1786504128",
+            "NOMBRES": "LUZ FERNÁNDEZ GIL",
+            "FIRMA ELLECTRONICA": "LUZ FERNÁNDEZ GIL - 1786504128",
+            "AL PIE DE LA FIRMA": "LUZ FERNÁNDEZ GIL - 1786504128"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ FERNÁNDEZ GIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1786504128",
+            "NOMBRES": "LUZ FERNÁNDEZ GIL",
+            "SALARIO": "4.695.012",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1786504128",
+            "NOMBRES": "LUZ FERNÁNDEZ GIL",
+            "RECOMPRA O DESEMBOLSO": "2.261.037"
+        }
+    }
+]

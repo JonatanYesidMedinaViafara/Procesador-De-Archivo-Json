@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "403404273990",
+            "SOLICITUD": "3876246",
+            "CEDULA": "1438041207",
+            "NOMBRES": "HÉCTOR SANTIAGO SIERRA BRAVO",
+            "RECOMPRA O DESEMBOLSO": "3.495.159",
+            "FIRMA ELLECTRONICA": "HÉCTOR SANTIAGO SIERRA BRAVO - 1438041207"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "403404273990",
+            "NOMBRES": "HÉCTOR SANTIAGO SIERRA BRAVO",
+            "CREDITO": "14.360.371",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "230.105",
+            "FIRMA ELLECTRONICA": "HÉCTOR SANTIAGO SIERRA BRAVO - 1438041207",
+            "AL PIE DE LA FIRMA": "HÉCTOR SANTIAGO SIERRA BRAVO - 1438041207"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1438041207",
+            "NOMBRES": "HÉCTOR SANTIAGO SIERRA BRAVO",
+            "FECHA NACIMIENTO": "25/11/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.360.371",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HÉCTOR SANTIAGO SIERRA BRAVO - 1438041207",
+            "AL PIE DE LA FIRMA": "HÉCTOR SANTIAGO SIERRA BRAVO - 1438041207"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3876246",
+            "CEDULA": "1438041207",
+            "NOMBRES": "HÉCTOR SANTIAGO SIERRA BRAVO",
+            "CREDITO": "14.360.371",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "230.105",
+            "E.A": "25.27%",
+            "RECOMPRA O DESEMBOLSO": "3.495.159",
+            "FIRMA ELLECTRONICA": "HÉCTOR SANTIAGO SIERRA BRAVO - 1438041207"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1438041207",
+            "NOMBRES": "HÉCTOR SANTIAGO SIERRA BRAVO",
+            "FIRMA ELLECTRONICA": "HÉCTOR SANTIAGO SIERRA BRAVO - 1438041207"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1438041207",
+            "NOMBRES": "HÉCTOR SANTIAGO SIERRA BRAVO",
+            "FIRMA ELLECTRONICA": "HÉCTOR SANTIAGO SIERRA BRAVO - 1438041207",
+            "AL PIE DE LA FIRMA": "HÉCTOR SANTIAGO SIERRA BRAVO - 1438041207"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HÉCTOR SANTIAGO SIERRA BRAVO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1438041207",
+            "NOMBRES": "HÉCTOR SANTIAGO SIERRA BRAVO",
+            "SALARIO": "2.933.651",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1438041207",
+            "NOMBRES": "HÉCTOR SANTIAGO SIERRA BRAVO",
+            "RECOMPRA O DESEMBOLSO": "3.495.159"
+        }
+    }
+]

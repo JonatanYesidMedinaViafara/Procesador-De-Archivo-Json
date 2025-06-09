@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "560938142810",
+            "SOLICITUD": "5868484",
+            "CEDULA": "1087212383",
+            "NOMBRES": "CRISTIAN PEREA",
+            "RECOMPRA O DESEMBOLSO": "1.227.904",
+            "FIRMA ELLECTRONICA": "CRISTIAN PEREA - 1087212383"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "560938142810",
+            "NOMBRES": "CRISTIAN PEREA",
+            "CREDITO": "8.108.854",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "151.582",
+            "FIRMA ELLECTRONICA": "CRISTIAN PEREA - 1087212383",
+            "AL PIE DE LA FIRMA": "CRISTIAN PEREA - 1087212383"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1087212383",
+            "NOMBRES": "CRISTIAN PEREA",
+            "FECHA NACIMIENTO": "10/04/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.108.854",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CRISTIAN PEREA - 1087212383",
+            "AL PIE DE LA FIRMA": "CRISTIAN PEREA - 1087212383"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5868484",
+            "CEDULA": "1087212383",
+            "NOMBRES": "CRISTIAN PEREA",
+            "CREDITO": "8.108.854",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "151.582",
+            "E.A": "21.71%",
+            "RECOMPRA O DESEMBOLSO": "1.227.904",
+            "FIRMA ELLECTRONICA": "CRISTIAN PEREA - 1087212383"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1087212383",
+            "NOMBRES": "CRISTIAN PEREA",
+            "FIRMA ELLECTRONICA": "CRISTIAN PEREA - 1087212383"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1087212383",
+            "NOMBRES": "CRISTIAN PEREA",
+            "FIRMA ELLECTRONICA": "CRISTIAN PEREA - 1087212383",
+            "AL PIE DE LA FIRMA": "CRISTIAN PEREA - 1087212383"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTIAN PEREA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1087212383",
+            "NOMBRES": "CRISTIAN PEREA",
+            "SALARIO": "2.644.397",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1087212383",
+            "NOMBRES": "CRISTIAN PEREA",
+            "RECOMPRA O DESEMBOLSO": "1.227.904"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "100722790730",
+            "SOLICITUD": "4843837",
+            "CEDULA": "1353601018",
+            "NOMBRES": "JORGE NARVÁEZ",
+            "RECOMPRA O DESEMBOLSO": "3.110.143",
+            "FIRMA ELLECTRONICA": "JORGE NARVÁEZ - 1353601018"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "100722790730",
+            "NOMBRES": "JORGE NARVÁEZ",
+            "CREDITO": "6.974.049",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "228.597",
+            "FIRMA ELLECTRONICA": "JORGE NARVÁEZ - 1353601018",
+            "AL PIE DE LA FIRMA": "JORGE NARVÁEZ - 1353601018"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1353601018",
+            "NOMBRES": "JORGE NARVÁEZ",
+            "FECHA NACIMIENTO": "08/04/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.974.049",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JORGE NARVÁEZ - 1353601018",
+            "AL PIE DE LA FIRMA": "JORGE NARVÁEZ - 1353601018"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4843837",
+            "CEDULA": "1353601018",
+            "NOMBRES": "JORGE NARVÁEZ",
+            "CREDITO": "6.974.049",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "228.597",
+            "E.A": "23.2%",
+            "RECOMPRA O DESEMBOLSO": "3.110.143",
+            "FIRMA ELLECTRONICA": "JORGE NARVÁEZ - 1353601018"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1353601018",
+            "NOMBRES": "JORGE NARVÁEZ",
+            "FIRMA ELLECTRONICA": "JORGE NARVÁEZ - 1353601018"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1353601018",
+            "NOMBRES": "JORGE NARVÁEZ",
+            "FIRMA ELLECTRONICA": "JORGE NARVÁEZ - 1353601018",
+            "AL PIE DE LA FIRMA": "JORGE NARVÁEZ - 1353601018"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE NARVÁEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1353601018",
+            "NOMBRES": "JORGE NARVÁEZ",
+            "SALARIO": "4.921.231",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1353601018",
+            "NOMBRES": "JORGE NARVÁEZ",
+            "RECOMPRA O DESEMBOLSO": "3.110.143"
+        }
+    }
+]

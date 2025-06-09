@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "233659817910",
+            "SOLICITUD": "9350318",
+            "CEDULA": "1623227087",
+            "NOMBRES": "JOHN CARDONA",
+            "RECOMPRA O DESEMBOLSO": "1.725.869",
+            "FIRMA ELLECTRONICA": "JOHN CARDONA - 1623227087"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "233659817910",
+            "NOMBRES": "JOHN CARDONA",
+            "CREDITO": "10.797.535",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "391.726",
+            "FIRMA ELLECTRONICA": "JOHN CARDONA - 1623227087",
+            "AL PIE DE LA FIRMA": "JOHN CARDONA - 1623227087"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1623227087",
+            "NOMBRES": "JOHN CARDONA",
+            "FECHA NACIMIENTO": "08/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.797.535",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOHN CARDONA - 1623227087",
+            "AL PIE DE LA FIRMA": "JOHN CARDONA - 1623227087"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9350318",
+            "CEDULA": "1623227087",
+            "NOMBRES": "JOHN CARDONA",
+            "CREDITO": "10.797.535",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "391.726",
+            "E.A": "21.52%",
+            "RECOMPRA O DESEMBOLSO": "1.725.869",
+            "FIRMA ELLECTRONICA": "JOHN CARDONA - 1623227087"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1623227087",
+            "NOMBRES": "JOHN CARDONA",
+            "FIRMA ELLECTRONICA": "JOHN CARDONA - 1623227087"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1623227087",
+            "NOMBRES": "JOHN CARDONA",
+            "FIRMA ELLECTRONICA": "JOHN CARDONA - 1623227087",
+            "AL PIE DE LA FIRMA": "JOHN CARDONA - 1623227087"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1623227087",
+            "NOMBRES": "JOHN CARDONA",
+            "SALARIO": "4.757.397",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1623227087",
+            "NOMBRES": "JOHN CARDONA",
+            "RECOMPRA O DESEMBOLSO": "1.725.869"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "976905505104",
+            "SOLICITUD": "9289946",
+            "CEDULA": "1381574424",
+            "NOMBRES": "FERNANDO MÉNDEZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.355.327",
+            "FIRMA ELLECTRONICA": "FERNANDO MÉNDEZ LÓPEZ - 1381574424"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "976905505104",
+            "NOMBRES": "FERNANDO MÉNDEZ LÓPEZ",
+            "CREDITO": "6.257.799",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "332.422",
+            "FIRMA ELLECTRONICA": "FERNANDO MÉNDEZ LÓPEZ - 1381574424",
+            "AL PIE DE LA FIRMA": "FERNANDO MÉNDEZ LÓPEZ - 1381574424"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1381574424",
+            "NOMBRES": "FERNANDO MÉNDEZ LÓPEZ",
+            "FECHA NACIMIENTO": "17/07/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.257.799",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNANDO MÉNDEZ LÓPEZ - 1381574424",
+            "AL PIE DE LA FIRMA": "FERNANDO MÉNDEZ LÓPEZ - 1381574424"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9289946",
+            "CEDULA": "1381574424",
+            "NOMBRES": "FERNANDO MÉNDEZ LÓPEZ",
+            "CREDITO": "6.257.799",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "332.422",
+            "E.A": "23.57%",
+            "RECOMPRA O DESEMBOLSO": "3.355.327",
+            "FIRMA ELLECTRONICA": "FERNANDO MÉNDEZ LÓPEZ - 1381574424"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1381574424",
+            "NOMBRES": "FERNANDO MÉNDEZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "FERNANDO MÉNDEZ LÓPEZ - 1381574424"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1381574424",
+            "NOMBRES": "FERNANDO MÉNDEZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "FERNANDO MÉNDEZ LÓPEZ - 1381574424",
+            "AL PIE DE LA FIRMA": "FERNANDO MÉNDEZ LÓPEZ - 1381574424"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO MÉNDEZ LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1381574424",
+            "NOMBRES": "FERNANDO MÉNDEZ LÓPEZ",
+            "SALARIO": "1.777.742",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1381574424",
+            "NOMBRES": "FERNANDO MÉNDEZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.355.327"
+        }
+    }
+]

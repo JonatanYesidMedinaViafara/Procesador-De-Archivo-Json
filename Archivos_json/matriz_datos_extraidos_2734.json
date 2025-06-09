@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "456336781215",
+            "SOLICITUD": "8731712",
+            "CEDULA": "1938636436",
+            "NOMBRES": "DANNY JUAN ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "4.103.372",
+            "FIRMA ELLECTRONICA": "DANNY JUAN ZAPATA - 1938636436"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "456336781215",
+            "NOMBRES": "DANNY JUAN ZAPATA",
+            "CREDITO": "10.876.528",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "107.444",
+            "FIRMA ELLECTRONICA": "DANNY JUAN ZAPATA - 1938636436",
+            "AL PIE DE LA FIRMA": "DANNY JUAN ZAPATA - 1938636436"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1938636436",
+            "NOMBRES": "DANNY JUAN ZAPATA",
+            "FECHA NACIMIENTO": "01/11/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.876.528",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DANNY JUAN ZAPATA - 1938636436",
+            "AL PIE DE LA FIRMA": "DANNY JUAN ZAPATA - 1938636436"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8731712",
+            "CEDULA": "1938636436",
+            "NOMBRES": "DANNY JUAN ZAPATA",
+            "CREDITO": "10.876.528",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "107.444",
+            "E.A": "20.72%",
+            "RECOMPRA O DESEMBOLSO": "4.103.372",
+            "FIRMA ELLECTRONICA": "DANNY JUAN ZAPATA - 1938636436"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1938636436",
+            "NOMBRES": "DANNY JUAN ZAPATA",
+            "FIRMA ELLECTRONICA": "DANNY JUAN ZAPATA - 1938636436"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1938636436",
+            "NOMBRES": "DANNY JUAN ZAPATA",
+            "FIRMA ELLECTRONICA": "DANNY JUAN ZAPATA - 1938636436",
+            "AL PIE DE LA FIRMA": "DANNY JUAN ZAPATA - 1938636436"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANNY JUAN ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1938636436",
+            "NOMBRES": "DANNY JUAN ZAPATA",
+            "SALARIO": "3.905.256",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1938636436",
+            "NOMBRES": "DANNY JUAN ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "4.103.372"
+        }
+    }
+]

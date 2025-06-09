@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "818846575450",
+            "SOLICITUD": "4549940",
+            "CEDULA": "1054941175",
+            "NOMBRES": "FABIÁN GUERRERO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.283.204",
+            "FIRMA ELLECTRONICA": "FABIÁN GUERRERO DÍAZ - 1054941175"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "818846575450",
+            "NOMBRES": "FABIÁN GUERRERO DÍAZ",
+            "CREDITO": "9.186.477",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "295.295",
+            "FIRMA ELLECTRONICA": "FABIÁN GUERRERO DÍAZ - 1054941175",
+            "AL PIE DE LA FIRMA": "FABIÁN GUERRERO DÍAZ - 1054941175"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1054941175",
+            "NOMBRES": "FABIÁN GUERRERO DÍAZ",
+            "FECHA NACIMIENTO": "16/08/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.186.477",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FABIÁN GUERRERO DÍAZ - 1054941175",
+            "AL PIE DE LA FIRMA": "FABIÁN GUERRERO DÍAZ - 1054941175"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4549940",
+            "CEDULA": "1054941175",
+            "NOMBRES": "FABIÁN GUERRERO DÍAZ",
+            "CREDITO": "9.186.477",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "295.295",
+            "E.A": "27.38%",
+            "RECOMPRA O DESEMBOLSO": "3.283.204",
+            "FIRMA ELLECTRONICA": "FABIÁN GUERRERO DÍAZ - 1054941175"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1054941175",
+            "NOMBRES": "FABIÁN GUERRERO DÍAZ",
+            "FIRMA ELLECTRONICA": "FABIÁN GUERRERO DÍAZ - 1054941175"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1054941175",
+            "NOMBRES": "FABIÁN GUERRERO DÍAZ",
+            "FIRMA ELLECTRONICA": "FABIÁN GUERRERO DÍAZ - 1054941175",
+            "AL PIE DE LA FIRMA": "FABIÁN GUERRERO DÍAZ - 1054941175"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIÁN GUERRERO DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1054941175",
+            "NOMBRES": "FABIÁN GUERRERO DÍAZ",
+            "SALARIO": "3.704.316",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "11/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1054941175",
+            "NOMBRES": "FABIÁN GUERRERO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.283.204"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "543760598440",
+            "SOLICITUD": "4655675",
+            "CEDULA": "1969293517",
+            "NOMBRES": "SERGIO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.208.423",
+            "FIRMA ELLECTRONICA": "SERGIO SUÁREZ - 1969293517"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "543760598440",
+            "NOMBRES": "SERGIO SUÁREZ",
+            "CREDITO": "17.622.228",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "236.67",
+            "FIRMA ELLECTRONICA": "SERGIO SUÁREZ - 1969293517",
+            "AL PIE DE LA FIRMA": "SERGIO SUÁREZ - 1969293517"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1969293517",
+            "NOMBRES": "SERGIO SUÁREZ",
+            "FECHA NACIMIENTO": "24/07/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.622.228",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SERGIO SUÁREZ - 1969293517",
+            "AL PIE DE LA FIRMA": "SERGIO SUÁREZ - 1969293517"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4655675",
+            "CEDULA": "1969293517",
+            "NOMBRES": "SERGIO SUÁREZ",
+            "CREDITO": "17.622.228",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "236.67",
+            "E.A": "27.0%",
+            "RECOMPRA O DESEMBOLSO": "1.208.423",
+            "FIRMA ELLECTRONICA": "SERGIO SUÁREZ - 1969293517"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1969293517",
+            "NOMBRES": "SERGIO SUÁREZ",
+            "FIRMA ELLECTRONICA": "SERGIO SUÁREZ - 1969293517"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1969293517",
+            "NOMBRES": "SERGIO SUÁREZ",
+            "FIRMA ELLECTRONICA": "SERGIO SUÁREZ - 1969293517",
+            "AL PIE DE LA FIRMA": "SERGIO SUÁREZ - 1969293517"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SERGIO SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1969293517",
+            "NOMBRES": "SERGIO SUÁREZ",
+            "SALARIO": "1.571.772",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1969293517",
+            "NOMBRES": "SERGIO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.208.423"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "750800886765",
+            "SOLICITUD": "2972464",
+            "CEDULA": "1674699883",
+            "NOMBRES": "JHON ANTONIO HERNÁNDEZ RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "4.376.870",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO HERNÁNDEZ RINCÓN - 1674699883"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "750800886765",
+            "NOMBRES": "JHON ANTONIO HERNÁNDEZ RINCÓN",
+            "CREDITO": "8.460.653",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "181.348",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO HERNÁNDEZ RINCÓN - 1674699883",
+            "AL PIE DE LA FIRMA": "JHON ANTONIO HERNÁNDEZ RINCÓN - 1674699883"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1674699883",
+            "NOMBRES": "JHON ANTONIO HERNÁNDEZ RINCÓN",
+            "FECHA NACIMIENTO": "22/07/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.460.653",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO HERNÁNDEZ RINCÓN - 1674699883",
+            "AL PIE DE LA FIRMA": "JHON ANTONIO HERNÁNDEZ RINCÓN - 1674699883"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2972464",
+            "CEDULA": "1674699883",
+            "NOMBRES": "JHON ANTONIO HERNÁNDEZ RINCÓN",
+            "CREDITO": "8.460.653",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "181.348",
+            "E.A": "19.53%",
+            "RECOMPRA O DESEMBOLSO": "4.376.870",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO HERNÁNDEZ RINCÓN - 1674699883"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1674699883",
+            "NOMBRES": "JHON ANTONIO HERNÁNDEZ RINCÓN",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO HERNÁNDEZ RINCÓN - 1674699883"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1674699883",
+            "NOMBRES": "JHON ANTONIO HERNÁNDEZ RINCÓN",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO HERNÁNDEZ RINCÓN - 1674699883",
+            "AL PIE DE LA FIRMA": "JHON ANTONIO HERNÁNDEZ RINCÓN - 1674699883"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON ANTONIO HERNÁNDEZ RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1674699883",
+            "NOMBRES": "JHON ANTONIO HERNÁNDEZ RINCÓN",
+            "SALARIO": "1.536.616",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1674699883",
+            "NOMBRES": "JHON ANTONIO HERNÁNDEZ RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "4.376.870"
+        }
+    }
+]

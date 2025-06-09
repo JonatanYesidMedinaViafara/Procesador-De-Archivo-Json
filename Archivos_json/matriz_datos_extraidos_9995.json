@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "450134306532",
+            "SOLICITUD": "9002453",
+            "CEDULA": "1197481382",
+            "NOMBRES": "DARIO MORENO JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.032.853",
+            "FIRMA ELLECTRONICA": "DARIO MORENO JIMÉNEZ - 1197481382"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "450134306532",
+            "NOMBRES": "DARIO MORENO JIMÉNEZ",
+            "CREDITO": "9.258.975",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "278.314",
+            "FIRMA ELLECTRONICA": "DARIO MORENO JIMÉNEZ - 1197481382",
+            "AL PIE DE LA FIRMA": "DARIO MORENO JIMÉNEZ - 1197481382"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1197481382",
+            "NOMBRES": "DARIO MORENO JIMÉNEZ",
+            "FECHA NACIMIENTO": "05/02/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.258.975",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DARIO MORENO JIMÉNEZ - 1197481382",
+            "AL PIE DE LA FIRMA": "DARIO MORENO JIMÉNEZ - 1197481382"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9002453",
+            "CEDULA": "1197481382",
+            "NOMBRES": "DARIO MORENO JIMÉNEZ",
+            "CREDITO": "9.258.975",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "278.314",
+            "E.A": "21.0%",
+            "RECOMPRA O DESEMBOLSO": "2.032.853",
+            "FIRMA ELLECTRONICA": "DARIO MORENO JIMÉNEZ - 1197481382"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1197481382",
+            "NOMBRES": "DARIO MORENO JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "DARIO MORENO JIMÉNEZ - 1197481382"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1197481382",
+            "NOMBRES": "DARIO MORENO JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "DARIO MORENO JIMÉNEZ - 1197481382",
+            "AL PIE DE LA FIRMA": "DARIO MORENO JIMÉNEZ - 1197481382"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO MORENO JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1197481382",
+            "NOMBRES": "DARIO MORENO JIMÉNEZ",
+            "SALARIO": "2.656.532",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1197481382",
+            "NOMBRES": "DARIO MORENO JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.032.853"
+        }
+    }
+]

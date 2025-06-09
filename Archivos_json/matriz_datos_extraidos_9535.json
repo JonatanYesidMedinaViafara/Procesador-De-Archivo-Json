@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "740137251738",
+            "SOLICITUD": "1584932",
+            "CEDULA": "1762494622",
+            "NOMBRES": "CARMEN PADILLA",
+            "RECOMPRA O DESEMBOLSO": "4.880.675",
+            "FIRMA ELLECTRONICA": "CARMEN PADILLA - 1762494622"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "740137251738",
+            "NOMBRES": "CARMEN PADILLA",
+            "CREDITO": "10.037.836",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "122.968",
+            "FIRMA ELLECTRONICA": "CARMEN PADILLA - 1762494622",
+            "AL PIE DE LA FIRMA": "CARMEN PADILLA - 1762494622"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1762494622",
+            "NOMBRES": "CARMEN PADILLA",
+            "FECHA NACIMIENTO": "07/09/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.037.836",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARMEN PADILLA - 1762494622",
+            "AL PIE DE LA FIRMA": "CARMEN PADILLA - 1762494622"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1584932",
+            "CEDULA": "1762494622",
+            "NOMBRES": "CARMEN PADILLA",
+            "CREDITO": "10.037.836",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "122.968",
+            "E.A": "20.77%",
+            "RECOMPRA O DESEMBOLSO": "4.880.675",
+            "FIRMA ELLECTRONICA": "CARMEN PADILLA - 1762494622"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1762494622",
+            "NOMBRES": "CARMEN PADILLA",
+            "FIRMA ELLECTRONICA": "CARMEN PADILLA - 1762494622"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1762494622",
+            "NOMBRES": "CARMEN PADILLA",
+            "FIRMA ELLECTRONICA": "CARMEN PADILLA - 1762494622",
+            "AL PIE DE LA FIRMA": "CARMEN PADILLA - 1762494622"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN PADILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1762494622",
+            "NOMBRES": "CARMEN PADILLA",
+            "SALARIO": "2.581.664",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1762494622",
+            "NOMBRES": "CARMEN PADILLA",
+            "RECOMPRA O DESEMBOLSO": "4.880.675"
+        }
+    }
+]

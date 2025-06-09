@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "842946053627",
+            "SOLICITUD": "7443768",
+            "CEDULA": "1156153859",
+            "NOMBRES": "ISABEL CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "2.208.743",
+            "FIRMA ELLECTRONICA": "ISABEL CEBALLOS - 1156153859"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "842946053627",
+            "NOMBRES": "ISABEL CEBALLOS",
+            "CREDITO": "11.756.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "336.33",
+            "FIRMA ELLECTRONICA": "ISABEL CEBALLOS - 1156153859",
+            "AL PIE DE LA FIRMA": "ISABEL CEBALLOS - 1156153859"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1156153859",
+            "NOMBRES": "ISABEL CEBALLOS",
+            "FECHA NACIMIENTO": "28/04/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.756.775",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ISABEL CEBALLOS - 1156153859",
+            "AL PIE DE LA FIRMA": "ISABEL CEBALLOS - 1156153859"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7443768",
+            "CEDULA": "1156153859",
+            "NOMBRES": "ISABEL CEBALLOS",
+            "CREDITO": "11.756.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "336.33",
+            "E.A": "21.34%",
+            "RECOMPRA O DESEMBOLSO": "2.208.743",
+            "FIRMA ELLECTRONICA": "ISABEL CEBALLOS - 1156153859"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1156153859",
+            "NOMBRES": "ISABEL CEBALLOS",
+            "FIRMA ELLECTRONICA": "ISABEL CEBALLOS - 1156153859"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1156153859",
+            "NOMBRES": "ISABEL CEBALLOS",
+            "FIRMA ELLECTRONICA": "ISABEL CEBALLOS - 1156153859",
+            "AL PIE DE LA FIRMA": "ISABEL CEBALLOS - 1156153859"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL CEBALLOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1156153859",
+            "NOMBRES": "ISABEL CEBALLOS",
+            "SALARIO": "3.314.063",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1156153859",
+            "NOMBRES": "ISABEL CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "2.208.743"
+        }
+    }
+]

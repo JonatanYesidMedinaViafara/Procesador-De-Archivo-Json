@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "949609261769",
+            "SOLICITUD": "4102604",
+            "CEDULA": "1551135117",
+            "NOMBRES": "AMPARO MOSQUERA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.982.030",
+            "FIRMA ELLECTRONICA": "AMPARO MOSQUERA PÉREZ - 1551135117"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "949609261769",
+            "NOMBRES": "AMPARO MOSQUERA PÉREZ",
+            "CREDITO": "18.251.851",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "294.483",
+            "FIRMA ELLECTRONICA": "AMPARO MOSQUERA PÉREZ - 1551135117",
+            "AL PIE DE LA FIRMA": "AMPARO MOSQUERA PÉREZ - 1551135117"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1551135117",
+            "NOMBRES": "AMPARO MOSQUERA PÉREZ",
+            "FECHA NACIMIENTO": "05/07/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.251.851",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "AMPARO MOSQUERA PÉREZ - 1551135117",
+            "AL PIE DE LA FIRMA": "AMPARO MOSQUERA PÉREZ - 1551135117"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4102604",
+            "CEDULA": "1551135117",
+            "NOMBRES": "AMPARO MOSQUERA PÉREZ",
+            "CREDITO": "18.251.851",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "294.483",
+            "E.A": "24.99%",
+            "RECOMPRA O DESEMBOLSO": "1.982.030",
+            "FIRMA ELLECTRONICA": "AMPARO MOSQUERA PÉREZ - 1551135117"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1551135117",
+            "NOMBRES": "AMPARO MOSQUERA PÉREZ",
+            "FIRMA ELLECTRONICA": "AMPARO MOSQUERA PÉREZ - 1551135117"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1551135117",
+            "NOMBRES": "AMPARO MOSQUERA PÉREZ",
+            "FIRMA ELLECTRONICA": "AMPARO MOSQUERA PÉREZ - 1551135117",
+            "AL PIE DE LA FIRMA": "AMPARO MOSQUERA PÉREZ - 1551135117"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AMPARO MOSQUERA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1551135117",
+            "NOMBRES": "AMPARO MOSQUERA PÉREZ",
+            "SALARIO": "1.742.040",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1551135117",
+            "NOMBRES": "AMPARO MOSQUERA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.982.030"
+        }
+    }
+]

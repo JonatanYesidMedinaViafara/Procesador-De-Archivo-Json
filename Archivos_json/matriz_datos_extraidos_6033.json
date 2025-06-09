@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "573921668378",
+            "SOLICITUD": "9209145",
+            "CEDULA": "1742655693",
+            "NOMBRES": "LUCY LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.802.223",
+            "FIRMA ELLECTRONICA": "LUCY LÓPEZ - 1742655693"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "573921668378",
+            "NOMBRES": "LUCY LÓPEZ",
+            "CREDITO": "5.547.463",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "119.742",
+            "FIRMA ELLECTRONICA": "LUCY LÓPEZ - 1742655693",
+            "AL PIE DE LA FIRMA": "LUCY LÓPEZ - 1742655693"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1742655693",
+            "NOMBRES": "LUCY LÓPEZ",
+            "FECHA NACIMIENTO": "22/09/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.547.463",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUCY LÓPEZ - 1742655693",
+            "AL PIE DE LA FIRMA": "LUCY LÓPEZ - 1742655693"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9209145",
+            "CEDULA": "1742655693",
+            "NOMBRES": "LUCY LÓPEZ",
+            "CREDITO": "5.547.463",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "119.742",
+            "E.A": "28.23%",
+            "RECOMPRA O DESEMBOLSO": "3.802.223",
+            "FIRMA ELLECTRONICA": "LUCY LÓPEZ - 1742655693"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1742655693",
+            "NOMBRES": "LUCY LÓPEZ",
+            "FIRMA ELLECTRONICA": "LUCY LÓPEZ - 1742655693"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1742655693",
+            "NOMBRES": "LUCY LÓPEZ",
+            "FIRMA ELLECTRONICA": "LUCY LÓPEZ - 1742655693",
+            "AL PIE DE LA FIRMA": "LUCY LÓPEZ - 1742655693"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCY LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1742655693",
+            "NOMBRES": "LUCY LÓPEZ",
+            "SALARIO": "3.346.158",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1742655693",
+            "NOMBRES": "LUCY LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.802.223"
+        }
+    }
+]

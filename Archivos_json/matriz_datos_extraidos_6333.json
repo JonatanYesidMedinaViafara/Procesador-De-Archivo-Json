@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "549309890113",
+            "SOLICITUD": "5388477",
+            "CEDULA": "1120877907",
+            "NOMBRES": "CARLOS ROA SOTO",
+            "RECOMPRA O DESEMBOLSO": "1.603.369",
+            "FIRMA ELLECTRONICA": "CARLOS ROA SOTO - 1120877907"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "549309890113",
+            "NOMBRES": "CARLOS ROA SOTO",
+            "CREDITO": "12.447.322",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "320.093",
+            "FIRMA ELLECTRONICA": "CARLOS ROA SOTO - 1120877907",
+            "AL PIE DE LA FIRMA": "CARLOS ROA SOTO - 1120877907"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1120877907",
+            "NOMBRES": "CARLOS ROA SOTO",
+            "FECHA NACIMIENTO": "03/07/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.447.322",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARLOS ROA SOTO - 1120877907",
+            "AL PIE DE LA FIRMA": "CARLOS ROA SOTO - 1120877907"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5388477",
+            "CEDULA": "1120877907",
+            "NOMBRES": "CARLOS ROA SOTO",
+            "CREDITO": "12.447.322",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "320.093",
+            "E.A": "20.01%",
+            "RECOMPRA O DESEMBOLSO": "1.603.369",
+            "FIRMA ELLECTRONICA": "CARLOS ROA SOTO - 1120877907"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1120877907",
+            "NOMBRES": "CARLOS ROA SOTO",
+            "FIRMA ELLECTRONICA": "CARLOS ROA SOTO - 1120877907"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1120877907",
+            "NOMBRES": "CARLOS ROA SOTO",
+            "FIRMA ELLECTRONICA": "CARLOS ROA SOTO - 1120877907",
+            "AL PIE DE LA FIRMA": "CARLOS ROA SOTO - 1120877907"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS ROA SOTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1120877907",
+            "NOMBRES": "CARLOS ROA SOTO",
+            "SALARIO": "4.669.940",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1120877907",
+            "NOMBRES": "CARLOS ROA SOTO",
+            "RECOMPRA O DESEMBOLSO": "1.603.369"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "145984023653",
+            "SOLICITUD": "5784734",
+            "CEDULA": "1485582400",
+            "NOMBRES": "LUZ MARTHA GARCÍA OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.595.563",
+            "FIRMA ELLECTRONICA": "LUZ MARTHA GARCÍA OSORIO - 1485582400"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "145984023653",
+            "NOMBRES": "LUZ MARTHA GARCÍA OSORIO",
+            "CREDITO": "10.768.646",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "318.584",
+            "FIRMA ELLECTRONICA": "LUZ MARTHA GARCÍA OSORIO - 1485582400",
+            "AL PIE DE LA FIRMA": "LUZ MARTHA GARCÍA OSORIO - 1485582400"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1485582400",
+            "NOMBRES": "LUZ MARTHA GARCÍA OSORIO",
+            "FECHA NACIMIENTO": "04/05/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.768.646",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ MARTHA GARCÍA OSORIO - 1485582400",
+            "AL PIE DE LA FIRMA": "LUZ MARTHA GARCÍA OSORIO - 1485582400"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5784734",
+            "CEDULA": "1485582400",
+            "NOMBRES": "LUZ MARTHA GARCÍA OSORIO",
+            "CREDITO": "10.768.646",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "318.584",
+            "E.A": "23.64%",
+            "RECOMPRA O DESEMBOLSO": "2.595.563",
+            "FIRMA ELLECTRONICA": "LUZ MARTHA GARCÍA OSORIO - 1485582400"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1485582400",
+            "NOMBRES": "LUZ MARTHA GARCÍA OSORIO",
+            "FIRMA ELLECTRONICA": "LUZ MARTHA GARCÍA OSORIO - 1485582400"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1485582400",
+            "NOMBRES": "LUZ MARTHA GARCÍA OSORIO",
+            "FIRMA ELLECTRONICA": "LUZ MARTHA GARCÍA OSORIO - 1485582400",
+            "AL PIE DE LA FIRMA": "LUZ MARTHA GARCÍA OSORIO - 1485582400"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ MARTHA GARCÍA OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1485582400",
+            "NOMBRES": "LUZ MARTHA GARCÍA OSORIO",
+            "SALARIO": "1.800.252",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1485582400",
+            "NOMBRES": "LUZ MARTHA GARCÍA OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.595.563"
+        }
+    }
+]

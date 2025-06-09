@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "168590702324",
+            "SOLICITUD": "7049919",
+            "CEDULA": "1462358158",
+            "NOMBRES": "MIGUEL HERRERA OCAMPO",
+            "RECOMPRA O DESEMBOLSO": "3.093.420",
+            "FIRMA ELLECTRONICA": "MIGUEL HERRERA OCAMPO - 1462358158"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "168590702324",
+            "NOMBRES": "MIGUEL HERRERA OCAMPO",
+            "CREDITO": "14.897.777",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "228.277",
+            "FIRMA ELLECTRONICA": "MIGUEL HERRERA OCAMPO - 1462358158",
+            "AL PIE DE LA FIRMA": "MIGUEL HERRERA OCAMPO - 1462358158"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1462358158",
+            "NOMBRES": "MIGUEL HERRERA OCAMPO",
+            "FECHA NACIMIENTO": "29/02/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.897.777",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MIGUEL HERRERA OCAMPO - 1462358158",
+            "AL PIE DE LA FIRMA": "MIGUEL HERRERA OCAMPO - 1462358158"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7049919",
+            "CEDULA": "1462358158",
+            "NOMBRES": "MIGUEL HERRERA OCAMPO",
+            "CREDITO": "14.897.777",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "228.277",
+            "E.A": "28.99%",
+            "RECOMPRA O DESEMBOLSO": "3.093.420",
+            "FIRMA ELLECTRONICA": "MIGUEL HERRERA OCAMPO - 1462358158"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1462358158",
+            "NOMBRES": "MIGUEL HERRERA OCAMPO",
+            "FIRMA ELLECTRONICA": "MIGUEL HERRERA OCAMPO - 1462358158"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1462358158",
+            "NOMBRES": "MIGUEL HERRERA OCAMPO",
+            "FIRMA ELLECTRONICA": "MIGUEL HERRERA OCAMPO - 1462358158",
+            "AL PIE DE LA FIRMA": "MIGUEL HERRERA OCAMPO - 1462358158"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL HERRERA OCAMPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1462358158",
+            "NOMBRES": "MIGUEL HERRERA OCAMPO",
+            "SALARIO": "2.766.669",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1462358158",
+            "NOMBRES": "MIGUEL HERRERA OCAMPO",
+            "RECOMPRA O DESEMBOLSO": "3.093.420"
+        }
+    }
+]

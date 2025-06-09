@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "690246906641",
+            "SOLICITUD": "2608967",
+            "CEDULA": "1214069870",
+            "NOMBRES": "DARIO GIL",
+            "RECOMPRA O DESEMBOLSO": "4.135.695",
+            "FIRMA ELLECTRONICA": "DARIO GIL - 1214069870"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "690246906641",
+            "NOMBRES": "DARIO GIL",
+            "CREDITO": "11.584.735",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "293.193",
+            "FIRMA ELLECTRONICA": "DARIO GIL - 1214069870",
+            "AL PIE DE LA FIRMA": "DARIO GIL - 1214069870"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1214069870",
+            "NOMBRES": "DARIO GIL",
+            "FECHA NACIMIENTO": "25/09/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.584.735",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DARIO GIL - 1214069870",
+            "AL PIE DE LA FIRMA": "DARIO GIL - 1214069870"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2608967",
+            "CEDULA": "1214069870",
+            "NOMBRES": "DARIO GIL",
+            "CREDITO": "11.584.735",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "293.193",
+            "E.A": "18.93%",
+            "RECOMPRA O DESEMBOLSO": "4.135.695",
+            "FIRMA ELLECTRONICA": "DARIO GIL - 1214069870"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1214069870",
+            "NOMBRES": "DARIO GIL",
+            "FIRMA ELLECTRONICA": "DARIO GIL - 1214069870"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1214069870",
+            "NOMBRES": "DARIO GIL",
+            "FIRMA ELLECTRONICA": "DARIO GIL - 1214069870",
+            "AL PIE DE LA FIRMA": "DARIO GIL - 1214069870"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO GIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1214069870",
+            "NOMBRES": "DARIO GIL",
+            "SALARIO": "4.239.373",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1214069870",
+            "NOMBRES": "DARIO GIL",
+            "RECOMPRA O DESEMBOLSO": "4.135.695"
+        }
+    }
+]

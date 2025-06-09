@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "978935681933",
+            "SOLICITUD": "6441890",
+            "CEDULA": "1992831538",
+            "NOMBRES": "OMAR GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.889.827",
+            "FIRMA ELLECTRONICA": "OMAR GARCÍA - 1992831538"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "978935681933",
+            "NOMBRES": "OMAR GARCÍA",
+            "CREDITO": "17.965.956",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "270.109",
+            "FIRMA ELLECTRONICA": "OMAR GARCÍA - 1992831538",
+            "AL PIE DE LA FIRMA": "OMAR GARCÍA - 1992831538"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1992831538",
+            "NOMBRES": "OMAR GARCÍA",
+            "FECHA NACIMIENTO": "26/07/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.965.956",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "OMAR GARCÍA - 1992831538",
+            "AL PIE DE LA FIRMA": "OMAR GARCÍA - 1992831538"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6441890",
+            "CEDULA": "1992831538",
+            "NOMBRES": "OMAR GARCÍA",
+            "CREDITO": "17.965.956",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "270.109",
+            "E.A": "19.86%",
+            "RECOMPRA O DESEMBOLSO": "3.889.827",
+            "FIRMA ELLECTRONICA": "OMAR GARCÍA - 1992831538"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1992831538",
+            "NOMBRES": "OMAR GARCÍA",
+            "FIRMA ELLECTRONICA": "OMAR GARCÍA - 1992831538"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1992831538",
+            "NOMBRES": "OMAR GARCÍA",
+            "FIRMA ELLECTRONICA": "OMAR GARCÍA - 1992831538",
+            "AL PIE DE LA FIRMA": "OMAR GARCÍA - 1992831538"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1992831538",
+            "NOMBRES": "OMAR GARCÍA",
+            "SALARIO": "2.851.766",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1992831538",
+            "NOMBRES": "OMAR GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.889.827"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "221940606690",
+            "SOLICITUD": "6631683",
+            "CEDULA": "1270012315",
+            "NOMBRES": "JHON CHACÓN",
+            "RECOMPRA O DESEMBOLSO": "3.123.232",
+            "FIRMA ELLECTRONICA": "JHON CHACÓN - 1270012315"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "221940606690",
+            "NOMBRES": "JHON CHACÓN",
+            "CREDITO": "12.285.629",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "102.744",
+            "FIRMA ELLECTRONICA": "JHON CHACÓN - 1270012315",
+            "AL PIE DE LA FIRMA": "JHON CHACÓN - 1270012315"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1270012315",
+            "NOMBRES": "JHON CHACÓN",
+            "FECHA NACIMIENTO": "01/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.285.629",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JHON CHACÓN - 1270012315",
+            "AL PIE DE LA FIRMA": "JHON CHACÓN - 1270012315"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6631683",
+            "CEDULA": "1270012315",
+            "NOMBRES": "JHON CHACÓN",
+            "CREDITO": "12.285.629",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "102.744",
+            "E.A": "24.71%",
+            "RECOMPRA O DESEMBOLSO": "3.123.232",
+            "FIRMA ELLECTRONICA": "JHON CHACÓN - 1270012315"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1270012315",
+            "NOMBRES": "JHON CHACÓN",
+            "FIRMA ELLECTRONICA": "JHON CHACÓN - 1270012315"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1270012315",
+            "NOMBRES": "JHON CHACÓN",
+            "FIRMA ELLECTRONICA": "JHON CHACÓN - 1270012315",
+            "AL PIE DE LA FIRMA": "JHON CHACÓN - 1270012315"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON CHACÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1270012315",
+            "NOMBRES": "JHON CHACÓN",
+            "SALARIO": "4.910.693",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1270012315",
+            "NOMBRES": "JHON CHACÓN",
+            "RECOMPRA O DESEMBOLSO": "3.123.232"
+        }
+    }
+]

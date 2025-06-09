@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "596491481098",
+            "SOLICITUD": "7985056",
+            "CEDULA": "1829039101",
+            "NOMBRES": "ENRIQUE MANUEL SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.400.345",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANUEL SÁNCHEZ - 1829039101"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "596491481098",
+            "NOMBRES": "ENRIQUE MANUEL SÁNCHEZ",
+            "CREDITO": "5.552.351",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "172.024",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANUEL SÁNCHEZ - 1829039101",
+            "AL PIE DE LA FIRMA": "ENRIQUE MANUEL SÁNCHEZ - 1829039101"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1829039101",
+            "NOMBRES": "ENRIQUE MANUEL SÁNCHEZ",
+            "FECHA NACIMIENTO": "08/09/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.552.351",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANUEL SÁNCHEZ - 1829039101",
+            "AL PIE DE LA FIRMA": "ENRIQUE MANUEL SÁNCHEZ - 1829039101"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7985056",
+            "CEDULA": "1829039101",
+            "NOMBRES": "ENRIQUE MANUEL SÁNCHEZ",
+            "CREDITO": "5.552.351",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "172.024",
+            "E.A": "18.19%",
+            "RECOMPRA O DESEMBOLSO": "3.400.345",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANUEL SÁNCHEZ - 1829039101"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1829039101",
+            "NOMBRES": "ENRIQUE MANUEL SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANUEL SÁNCHEZ - 1829039101"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1829039101",
+            "NOMBRES": "ENRIQUE MANUEL SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANUEL SÁNCHEZ - 1829039101",
+            "AL PIE DE LA FIRMA": "ENRIQUE MANUEL SÁNCHEZ - 1829039101"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE MANUEL SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1829039101",
+            "NOMBRES": "ENRIQUE MANUEL SÁNCHEZ",
+            "SALARIO": "4.149.359",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1829039101",
+            "NOMBRES": "ENRIQUE MANUEL SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.400.345"
+        }
+    }
+]

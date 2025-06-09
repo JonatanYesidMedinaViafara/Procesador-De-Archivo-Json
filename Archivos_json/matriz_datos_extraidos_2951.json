@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "655771115291",
+            "SOLICITUD": "3444152",
+            "CEDULA": "1725902486",
+            "NOMBRES": "CONSUELO RAMÍREZ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.925.181",
+            "FIRMA ELLECTRONICA": "CONSUELO RAMÍREZ RODRÍGUEZ - 1725902486"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "655771115291",
+            "NOMBRES": "CONSUELO RAMÍREZ RODRÍGUEZ",
+            "CREDITO": "10.293.339",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "191.345",
+            "FIRMA ELLECTRONICA": "CONSUELO RAMÍREZ RODRÍGUEZ - 1725902486",
+            "AL PIE DE LA FIRMA": "CONSUELO RAMÍREZ RODRÍGUEZ - 1725902486"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1725902486",
+            "NOMBRES": "CONSUELO RAMÍREZ RODRÍGUEZ",
+            "FECHA NACIMIENTO": "23/10/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.293.339",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CONSUELO RAMÍREZ RODRÍGUEZ - 1725902486",
+            "AL PIE DE LA FIRMA": "CONSUELO RAMÍREZ RODRÍGUEZ - 1725902486"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3444152",
+            "CEDULA": "1725902486",
+            "NOMBRES": "CONSUELO RAMÍREZ RODRÍGUEZ",
+            "CREDITO": "10.293.339",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "191.345",
+            "E.A": "18.78%",
+            "RECOMPRA O DESEMBOLSO": "2.925.181",
+            "FIRMA ELLECTRONICA": "CONSUELO RAMÍREZ RODRÍGUEZ - 1725902486"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1725902486",
+            "NOMBRES": "CONSUELO RAMÍREZ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "CONSUELO RAMÍREZ RODRÍGUEZ - 1725902486"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1725902486",
+            "NOMBRES": "CONSUELO RAMÍREZ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "CONSUELO RAMÍREZ RODRÍGUEZ - 1725902486",
+            "AL PIE DE LA FIRMA": "CONSUELO RAMÍREZ RODRÍGUEZ - 1725902486"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CONSUELO RAMÍREZ RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1725902486",
+            "NOMBRES": "CONSUELO RAMÍREZ RODRÍGUEZ",
+            "SALARIO": "4.905.355",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1725902486",
+            "NOMBRES": "CONSUELO RAMÍREZ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.925.181"
+        }
+    }
+]

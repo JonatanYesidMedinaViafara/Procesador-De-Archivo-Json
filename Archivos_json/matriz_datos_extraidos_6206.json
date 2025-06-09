@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "187577241823",
+            "SOLICITUD": "3081840",
+            "CEDULA": "1243972045",
+            "NOMBRES": "LUIS DAZA",
+            "RECOMPRA O DESEMBOLSO": "1.278.039",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1243972045"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "187577241823",
+            "NOMBRES": "LUIS DAZA",
+            "CREDITO": "6.311.705",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "390.645",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1243972045",
+            "AL PIE DE LA FIRMA": "LUIS DAZA - 1243972045"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1243972045",
+            "NOMBRES": "LUIS DAZA",
+            "FECHA NACIMIENTO": "19/04/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.311.705",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1243972045",
+            "AL PIE DE LA FIRMA": "LUIS DAZA - 1243972045"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3081840",
+            "CEDULA": "1243972045",
+            "NOMBRES": "LUIS DAZA",
+            "CREDITO": "6.311.705",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "390.645",
+            "E.A": "25.67%",
+            "RECOMPRA O DESEMBOLSO": "1.278.039",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1243972045"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1243972045",
+            "NOMBRES": "LUIS DAZA",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1243972045"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1243972045",
+            "NOMBRES": "LUIS DAZA",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1243972045",
+            "AL PIE DE LA FIRMA": "LUIS DAZA - 1243972045"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS DAZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1243972045",
+            "NOMBRES": "LUIS DAZA",
+            "SALARIO": "2.725.704",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1243972045",
+            "NOMBRES": "LUIS DAZA",
+            "RECOMPRA O DESEMBOLSO": "1.278.039"
+        }
+    }
+]

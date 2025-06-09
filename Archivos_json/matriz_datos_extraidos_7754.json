@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "205521309389",
+            "SOLICITUD": "8450683",
+            "CEDULA": "1543834509",
+            "NOMBRES": "ADRIÁN FELIPE MUÑOZ HOYOS",
+            "RECOMPRA O DESEMBOLSO": "1.661.334",
+            "FIRMA ELLECTRONICA": "ADRIÁN FELIPE MUÑOZ HOYOS - 1543834509"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "205521309389",
+            "NOMBRES": "ADRIÁN FELIPE MUÑOZ HOYOS",
+            "CREDITO": "16.140.470",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "281.148",
+            "FIRMA ELLECTRONICA": "ADRIÁN FELIPE MUÑOZ HOYOS - 1543834509",
+            "AL PIE DE LA FIRMA": "ADRIÁN FELIPE MUÑOZ HOYOS - 1543834509"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1543834509",
+            "NOMBRES": "ADRIÁN FELIPE MUÑOZ HOYOS",
+            "FECHA NACIMIENTO": "02/03/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.140.470",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ADRIÁN FELIPE MUÑOZ HOYOS - 1543834509",
+            "AL PIE DE LA FIRMA": "ADRIÁN FELIPE MUÑOZ HOYOS - 1543834509"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8450683",
+            "CEDULA": "1543834509",
+            "NOMBRES": "ADRIÁN FELIPE MUÑOZ HOYOS",
+            "CREDITO": "16.140.470",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "281.148",
+            "E.A": "21.2%",
+            "RECOMPRA O DESEMBOLSO": "1.661.334",
+            "FIRMA ELLECTRONICA": "ADRIÁN FELIPE MUÑOZ HOYOS - 1543834509"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1543834509",
+            "NOMBRES": "ADRIÁN FELIPE MUÑOZ HOYOS",
+            "FIRMA ELLECTRONICA": "ADRIÁN FELIPE MUÑOZ HOYOS - 1543834509"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1543834509",
+            "NOMBRES": "ADRIÁN FELIPE MUÑOZ HOYOS",
+            "FIRMA ELLECTRONICA": "ADRIÁN FELIPE MUÑOZ HOYOS - 1543834509",
+            "AL PIE DE LA FIRMA": "ADRIÁN FELIPE MUÑOZ HOYOS - 1543834509"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ADRIÁN FELIPE MUÑOZ HOYOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1543834509",
+            "NOMBRES": "ADRIÁN FELIPE MUÑOZ HOYOS",
+            "SALARIO": "1.144.569",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1543834509",
+            "NOMBRES": "ADRIÁN FELIPE MUÑOZ HOYOS",
+            "RECOMPRA O DESEMBOLSO": "1.661.334"
+        }
+    }
+]

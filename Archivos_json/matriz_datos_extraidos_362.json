@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "428045295839",
+            "SOLICITUD": "3766154",
+            "CEDULA": "1363911275",
+            "NOMBRES": "JHON GARCÍA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "4.588.432",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA RAMÍREZ - 1363911275"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "428045295839",
+            "NOMBRES": "JHON GARCÍA RAMÍREZ",
+            "CREDITO": "10.815.464",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "111.729",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA RAMÍREZ - 1363911275",
+            "AL PIE DE LA FIRMA": "JHON GARCÍA RAMÍREZ - 1363911275"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1363911275",
+            "NOMBRES": "JHON GARCÍA RAMÍREZ",
+            "FECHA NACIMIENTO": "10/10/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.815.464",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA RAMÍREZ - 1363911275",
+            "AL PIE DE LA FIRMA": "JHON GARCÍA RAMÍREZ - 1363911275"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3766154",
+            "CEDULA": "1363911275",
+            "NOMBRES": "JHON GARCÍA RAMÍREZ",
+            "CREDITO": "10.815.464",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "111.729",
+            "E.A": "25.03%",
+            "RECOMPRA O DESEMBOLSO": "4.588.432",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA RAMÍREZ - 1363911275"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1363911275",
+            "NOMBRES": "JHON GARCÍA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA RAMÍREZ - 1363911275"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1363911275",
+            "NOMBRES": "JHON GARCÍA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA RAMÍREZ - 1363911275",
+            "AL PIE DE LA FIRMA": "JHON GARCÍA RAMÍREZ - 1363911275"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON GARCÍA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1363911275",
+            "NOMBRES": "JHON GARCÍA RAMÍREZ",
+            "SALARIO": "2.871.342",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1363911275",
+            "NOMBRES": "JHON GARCÍA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "4.588.432"
+        }
+    }
+]

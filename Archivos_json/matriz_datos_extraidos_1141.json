@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "486966099059",
+            "SOLICITUD": "2278499",
+            "CEDULA": "1347816857",
+            "NOMBRES": "JOHN HERNÁNDEZ VILLA",
+            "RECOMPRA O DESEMBOLSO": "4.874.230",
+            "FIRMA ELLECTRONICA": "JOHN HERNÁNDEZ VILLA - 1347816857"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "486966099059",
+            "NOMBRES": "JOHN HERNÁNDEZ VILLA",
+            "CREDITO": "5.053.873",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "177.426",
+            "FIRMA ELLECTRONICA": "JOHN HERNÁNDEZ VILLA - 1347816857",
+            "AL PIE DE LA FIRMA": "JOHN HERNÁNDEZ VILLA - 1347816857"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1347816857",
+            "NOMBRES": "JOHN HERNÁNDEZ VILLA",
+            "FECHA NACIMIENTO": "30/04/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.053.873",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOHN HERNÁNDEZ VILLA - 1347816857",
+            "AL PIE DE LA FIRMA": "JOHN HERNÁNDEZ VILLA - 1347816857"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2278499",
+            "CEDULA": "1347816857",
+            "NOMBRES": "JOHN HERNÁNDEZ VILLA",
+            "CREDITO": "5.053.873",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "177.426",
+            "E.A": "22.35%",
+            "RECOMPRA O DESEMBOLSO": "4.874.230",
+            "FIRMA ELLECTRONICA": "JOHN HERNÁNDEZ VILLA - 1347816857"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1347816857",
+            "NOMBRES": "JOHN HERNÁNDEZ VILLA",
+            "FIRMA ELLECTRONICA": "JOHN HERNÁNDEZ VILLA - 1347816857"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1347816857",
+            "NOMBRES": "JOHN HERNÁNDEZ VILLA",
+            "FIRMA ELLECTRONICA": "JOHN HERNÁNDEZ VILLA - 1347816857",
+            "AL PIE DE LA FIRMA": "JOHN HERNÁNDEZ VILLA - 1347816857"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN HERNÁNDEZ VILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1347816857",
+            "NOMBRES": "JOHN HERNÁNDEZ VILLA",
+            "SALARIO": "2.404.354",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1347816857",
+            "NOMBRES": "JOHN HERNÁNDEZ VILLA",
+            "RECOMPRA O DESEMBOLSO": "4.874.230"
+        }
+    }
+]

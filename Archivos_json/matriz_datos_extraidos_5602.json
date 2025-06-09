@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "123536500889",
+            "SOLICITUD": "8404258",
+            "CEDULA": "1155447972",
+            "NOMBRES": "MIREYA QUIROGA MEZA",
+            "RECOMPRA O DESEMBOLSO": "1.854.169",
+            "FIRMA ELLECTRONICA": "MIREYA QUIROGA MEZA - 1155447972"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "123536500889",
+            "NOMBRES": "MIREYA QUIROGA MEZA",
+            "CREDITO": "15.220.185",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "279.026",
+            "FIRMA ELLECTRONICA": "MIREYA QUIROGA MEZA - 1155447972",
+            "AL PIE DE LA FIRMA": "MIREYA QUIROGA MEZA - 1155447972"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1155447972",
+            "NOMBRES": "MIREYA QUIROGA MEZA",
+            "FECHA NACIMIENTO": "20/08/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.220.185",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MIREYA QUIROGA MEZA - 1155447972",
+            "AL PIE DE LA FIRMA": "MIREYA QUIROGA MEZA - 1155447972"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8404258",
+            "CEDULA": "1155447972",
+            "NOMBRES": "MIREYA QUIROGA MEZA",
+            "CREDITO": "15.220.185",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "279.026",
+            "E.A": "25.86%",
+            "RECOMPRA O DESEMBOLSO": "1.854.169",
+            "FIRMA ELLECTRONICA": "MIREYA QUIROGA MEZA - 1155447972"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1155447972",
+            "NOMBRES": "MIREYA QUIROGA MEZA",
+            "FIRMA ELLECTRONICA": "MIREYA QUIROGA MEZA - 1155447972"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1155447972",
+            "NOMBRES": "MIREYA QUIROGA MEZA",
+            "FIRMA ELLECTRONICA": "MIREYA QUIROGA MEZA - 1155447972",
+            "AL PIE DE LA FIRMA": "MIREYA QUIROGA MEZA - 1155447972"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIREYA QUIROGA MEZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1155447972",
+            "NOMBRES": "MIREYA QUIROGA MEZA",
+            "SALARIO": "2.434.289",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1155447972",
+            "NOMBRES": "MIREYA QUIROGA MEZA",
+            "RECOMPRA O DESEMBOLSO": "1.854.169"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "330543519004",
+            "SOLICITUD": "3170381",
+            "CEDULA": "1239300328",
+            "NOMBRES": "FERNANDO JAVIER SIERRA",
+            "RECOMPRA O DESEMBOLSO": "1.901.457",
+            "FIRMA ELLECTRONICA": "FERNANDO JAVIER SIERRA - 1239300328"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "330543519004",
+            "NOMBRES": "FERNANDO JAVIER SIERRA",
+            "CREDITO": "15.048.607",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.668",
+            "FIRMA ELLECTRONICA": "FERNANDO JAVIER SIERRA - 1239300328",
+            "AL PIE DE LA FIRMA": "FERNANDO JAVIER SIERRA - 1239300328"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1239300328",
+            "NOMBRES": "FERNANDO JAVIER SIERRA",
+            "FECHA NACIMIENTO": "10/08/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.048.607",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO JAVIER SIERRA - 1239300328",
+            "AL PIE DE LA FIRMA": "FERNANDO JAVIER SIERRA - 1239300328"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3170381",
+            "CEDULA": "1239300328",
+            "NOMBRES": "FERNANDO JAVIER SIERRA",
+            "CREDITO": "15.048.607",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.668",
+            "E.A": "28.78%",
+            "RECOMPRA O DESEMBOLSO": "1.901.457",
+            "FIRMA ELLECTRONICA": "FERNANDO JAVIER SIERRA - 1239300328"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1239300328",
+            "NOMBRES": "FERNANDO JAVIER SIERRA",
+            "FIRMA ELLECTRONICA": "FERNANDO JAVIER SIERRA - 1239300328"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1239300328",
+            "NOMBRES": "FERNANDO JAVIER SIERRA",
+            "FIRMA ELLECTRONICA": "FERNANDO JAVIER SIERRA - 1239300328",
+            "AL PIE DE LA FIRMA": "FERNANDO JAVIER SIERRA - 1239300328"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO JAVIER SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1239300328",
+            "NOMBRES": "FERNANDO JAVIER SIERRA",
+            "SALARIO": "3.870.533",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1239300328",
+            "NOMBRES": "FERNANDO JAVIER SIERRA",
+            "RECOMPRA O DESEMBOLSO": "1.901.457"
+        }
+    }
+]

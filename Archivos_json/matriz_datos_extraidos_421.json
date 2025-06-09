@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "498509587568",
+            "SOLICITUD": "1793951",
+            "CEDULA": "1563914021",
+            "NOMBRES": "JOHN JAIDER SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.144.728",
+            "FIRMA ELLECTRONICA": "JOHN JAIDER SUÁREZ - 1563914021"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "498509587568",
+            "NOMBRES": "JOHN JAIDER SUÁREZ",
+            "CREDITO": "7.047.467",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "120.906",
+            "FIRMA ELLECTRONICA": "JOHN JAIDER SUÁREZ - 1563914021",
+            "AL PIE DE LA FIRMA": "JOHN JAIDER SUÁREZ - 1563914021"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1563914021",
+            "NOMBRES": "JOHN JAIDER SUÁREZ",
+            "FECHA NACIMIENTO": "28/05/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.047.467",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOHN JAIDER SUÁREZ - 1563914021",
+            "AL PIE DE LA FIRMA": "JOHN JAIDER SUÁREZ - 1563914021"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1793951",
+            "CEDULA": "1563914021",
+            "NOMBRES": "JOHN JAIDER SUÁREZ",
+            "CREDITO": "7.047.467",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "120.906",
+            "E.A": "22.63%",
+            "RECOMPRA O DESEMBOLSO": "1.144.728",
+            "FIRMA ELLECTRONICA": "JOHN JAIDER SUÁREZ - 1563914021"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1563914021",
+            "NOMBRES": "JOHN JAIDER SUÁREZ",
+            "FIRMA ELLECTRONICA": "JOHN JAIDER SUÁREZ - 1563914021"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1563914021",
+            "NOMBRES": "JOHN JAIDER SUÁREZ",
+            "FIRMA ELLECTRONICA": "JOHN JAIDER SUÁREZ - 1563914021",
+            "AL PIE DE LA FIRMA": "JOHN JAIDER SUÁREZ - 1563914021"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN JAIDER SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1563914021",
+            "NOMBRES": "JOHN JAIDER SUÁREZ",
+            "SALARIO": "4.583.731",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1563914021",
+            "NOMBRES": "JOHN JAIDER SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.144.728"
+        }
+    }
+]

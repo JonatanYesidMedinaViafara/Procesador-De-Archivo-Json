@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "800787436621",
+            "SOLICITUD": "8977296",
+            "CEDULA": "1524631856",
+            "NOMBRES": "MAURICIO VÍCTOR RIVERA",
+            "RECOMPRA O DESEMBOLSO": "4.921.805",
+            "FIRMA ELLECTRONICA": "MAURICIO VÍCTOR RIVERA - 1524631856"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "800787436621",
+            "NOMBRES": "MAURICIO VÍCTOR RIVERA",
+            "CREDITO": "12.518.678",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "282.398",
+            "FIRMA ELLECTRONICA": "MAURICIO VÍCTOR RIVERA - 1524631856",
+            "AL PIE DE LA FIRMA": "MAURICIO VÍCTOR RIVERA - 1524631856"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1524631856",
+            "NOMBRES": "MAURICIO VÍCTOR RIVERA",
+            "FECHA NACIMIENTO": "11/03/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.518.678",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MAURICIO VÍCTOR RIVERA - 1524631856",
+            "AL PIE DE LA FIRMA": "MAURICIO VÍCTOR RIVERA - 1524631856"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8977296",
+            "CEDULA": "1524631856",
+            "NOMBRES": "MAURICIO VÍCTOR RIVERA",
+            "CREDITO": "12.518.678",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "282.398",
+            "E.A": "19.4%",
+            "RECOMPRA O DESEMBOLSO": "4.921.805",
+            "FIRMA ELLECTRONICA": "MAURICIO VÍCTOR RIVERA - 1524631856"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1524631856",
+            "NOMBRES": "MAURICIO VÍCTOR RIVERA",
+            "FIRMA ELLECTRONICA": "MAURICIO VÍCTOR RIVERA - 1524631856"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1524631856",
+            "NOMBRES": "MAURICIO VÍCTOR RIVERA",
+            "FIRMA ELLECTRONICA": "MAURICIO VÍCTOR RIVERA - 1524631856",
+            "AL PIE DE LA FIRMA": "MAURICIO VÍCTOR RIVERA - 1524631856"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO VÍCTOR RIVERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1524631856",
+            "NOMBRES": "MAURICIO VÍCTOR RIVERA",
+            "SALARIO": "3.073.018",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1524631856",
+            "NOMBRES": "MAURICIO VÍCTOR RIVERA",
+            "RECOMPRA O DESEMBOLSO": "4.921.805"
+        }
+    }
+]

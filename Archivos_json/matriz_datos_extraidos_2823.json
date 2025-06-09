@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "650902158785",
+            "SOLICITUD": "2456889",
+            "CEDULA": "1023826913",
+            "NOMBRES": "MARTÍN CAICEDO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.693.156",
+            "FIRMA ELLECTRONICA": "MARTÍN CAICEDO HERNÁNDEZ - 1023826913"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "650902158785",
+            "NOMBRES": "MARTÍN CAICEDO HERNÁNDEZ",
+            "CREDITO": "5.039.869",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "268.051",
+            "FIRMA ELLECTRONICA": "MARTÍN CAICEDO HERNÁNDEZ - 1023826913",
+            "AL PIE DE LA FIRMA": "MARTÍN CAICEDO HERNÁNDEZ - 1023826913"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1023826913",
+            "NOMBRES": "MARTÍN CAICEDO HERNÁNDEZ",
+            "FECHA NACIMIENTO": "13/02/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.039.869",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARTÍN CAICEDO HERNÁNDEZ - 1023826913",
+            "AL PIE DE LA FIRMA": "MARTÍN CAICEDO HERNÁNDEZ - 1023826913"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2456889",
+            "CEDULA": "1023826913",
+            "NOMBRES": "MARTÍN CAICEDO HERNÁNDEZ",
+            "CREDITO": "5.039.869",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "268.051",
+            "E.A": "24.11%",
+            "RECOMPRA O DESEMBOLSO": "4.693.156",
+            "FIRMA ELLECTRONICA": "MARTÍN CAICEDO HERNÁNDEZ - 1023826913"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1023826913",
+            "NOMBRES": "MARTÍN CAICEDO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARTÍN CAICEDO HERNÁNDEZ - 1023826913"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1023826913",
+            "NOMBRES": "MARTÍN CAICEDO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARTÍN CAICEDO HERNÁNDEZ - 1023826913",
+            "AL PIE DE LA FIRMA": "MARTÍN CAICEDO HERNÁNDEZ - 1023826913"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTÍN CAICEDO HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1023826913",
+            "NOMBRES": "MARTÍN CAICEDO HERNÁNDEZ",
+            "SALARIO": "3.525.570",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1023826913",
+            "NOMBRES": "MARTÍN CAICEDO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.693.156"
+        }
+    }
+]

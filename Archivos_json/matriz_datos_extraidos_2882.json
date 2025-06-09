@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "300599242574",
+            "SOLICITUD": "4503747",
+            "CEDULA": "1625165770",
+            "NOMBRES": "HÉCTOR REYES",
+            "RECOMPRA O DESEMBOLSO": "1.360.852",
+            "FIRMA ELLECTRONICA": "HÉCTOR REYES - 1625165770"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "300599242574",
+            "NOMBRES": "HÉCTOR REYES",
+            "CREDITO": "6.845.784",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "317.047",
+            "FIRMA ELLECTRONICA": "HÉCTOR REYES - 1625165770",
+            "AL PIE DE LA FIRMA": "HÉCTOR REYES - 1625165770"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1625165770",
+            "NOMBRES": "HÉCTOR REYES",
+            "FECHA NACIMIENTO": "16/06/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.845.784",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "HÉCTOR REYES - 1625165770",
+            "AL PIE DE LA FIRMA": "HÉCTOR REYES - 1625165770"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4503747",
+            "CEDULA": "1625165770",
+            "NOMBRES": "HÉCTOR REYES",
+            "CREDITO": "6.845.784",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "317.047",
+            "E.A": "22.48%",
+            "RECOMPRA O DESEMBOLSO": "1.360.852",
+            "FIRMA ELLECTRONICA": "HÉCTOR REYES - 1625165770"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1625165770",
+            "NOMBRES": "HÉCTOR REYES",
+            "FIRMA ELLECTRONICA": "HÉCTOR REYES - 1625165770"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1625165770",
+            "NOMBRES": "HÉCTOR REYES",
+            "FIRMA ELLECTRONICA": "HÉCTOR REYES - 1625165770",
+            "AL PIE DE LA FIRMA": "HÉCTOR REYES - 1625165770"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HÉCTOR REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1625165770",
+            "NOMBRES": "HÉCTOR REYES",
+            "SALARIO": "3.596.792",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1625165770",
+            "NOMBRES": "HÉCTOR REYES",
+            "RECOMPRA O DESEMBOLSO": "1.360.852"
+        }
+    }
+]

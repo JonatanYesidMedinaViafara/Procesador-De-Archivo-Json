@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "340714806487",
+            "SOLICITUD": "2418713",
+            "CEDULA": "1748549949",
+            "NOMBRES": "LUIS CASTRO RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.758.874",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO RAMÍREZ - 1748549949"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "340714806487",
+            "NOMBRES": "LUIS CASTRO RAMÍREZ",
+            "CREDITO": "5.284.102",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "363.572",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO RAMÍREZ - 1748549949",
+            "AL PIE DE LA FIRMA": "LUIS CASTRO RAMÍREZ - 1748549949"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1748549949",
+            "NOMBRES": "LUIS CASTRO RAMÍREZ",
+            "FECHA NACIMIENTO": "16/02/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.284.102",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO RAMÍREZ - 1748549949",
+            "AL PIE DE LA FIRMA": "LUIS CASTRO RAMÍREZ - 1748549949"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2418713",
+            "CEDULA": "1748549949",
+            "NOMBRES": "LUIS CASTRO RAMÍREZ",
+            "CREDITO": "5.284.102",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "363.572",
+            "E.A": "19.9%",
+            "RECOMPRA O DESEMBOLSO": "2.758.874",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO RAMÍREZ - 1748549949"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1748549949",
+            "NOMBRES": "LUIS CASTRO RAMÍREZ",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO RAMÍREZ - 1748549949"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1748549949",
+            "NOMBRES": "LUIS CASTRO RAMÍREZ",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO RAMÍREZ - 1748549949",
+            "AL PIE DE LA FIRMA": "LUIS CASTRO RAMÍREZ - 1748549949"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS CASTRO RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1748549949",
+            "NOMBRES": "LUIS CASTRO RAMÍREZ",
+            "SALARIO": "1.008.570",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1748549949",
+            "NOMBRES": "LUIS CASTRO RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.758.874"
+        }
+    }
+]

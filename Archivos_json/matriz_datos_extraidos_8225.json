@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "813327670825",
+            "SOLICITUD": "4000404",
+            "CEDULA": "1526551091",
+            "NOMBRES": "JOSÉ SÁNCHEZ RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.658.558",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RAMÍREZ - 1526551091"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "813327670825",
+            "NOMBRES": "JOSÉ SÁNCHEZ RAMÍREZ",
+            "CREDITO": "7.253.355",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "176.867",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RAMÍREZ - 1526551091",
+            "AL PIE DE LA FIRMA": "JOSÉ SÁNCHEZ RAMÍREZ - 1526551091"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1526551091",
+            "NOMBRES": "JOSÉ SÁNCHEZ RAMÍREZ",
+            "FECHA NACIMIENTO": "24/10/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.253.355",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RAMÍREZ - 1526551091",
+            "AL PIE DE LA FIRMA": "JOSÉ SÁNCHEZ RAMÍREZ - 1526551091"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4000404",
+            "CEDULA": "1526551091",
+            "NOMBRES": "JOSÉ SÁNCHEZ RAMÍREZ",
+            "CREDITO": "7.253.355",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "176.867",
+            "E.A": "24.13%",
+            "RECOMPRA O DESEMBOLSO": "3.658.558",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RAMÍREZ - 1526551091"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1526551091",
+            "NOMBRES": "JOSÉ SÁNCHEZ RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RAMÍREZ - 1526551091"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1526551091",
+            "NOMBRES": "JOSÉ SÁNCHEZ RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RAMÍREZ - 1526551091",
+            "AL PIE DE LA FIRMA": "JOSÉ SÁNCHEZ RAMÍREZ - 1526551091"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ SÁNCHEZ RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1526551091",
+            "NOMBRES": "JOSÉ SÁNCHEZ RAMÍREZ",
+            "SALARIO": "2.046.353",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1526551091",
+            "NOMBRES": "JOSÉ SÁNCHEZ RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.658.558"
+        }
+    }
+]

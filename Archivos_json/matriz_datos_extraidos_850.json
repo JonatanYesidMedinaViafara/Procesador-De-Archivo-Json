@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "261130343068",
+            "SOLICITUD": "4320770",
+            "CEDULA": "1374028550",
+            "NOMBRES": "EMIRO SÁNCHEZ MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.242.462",
+            "FIRMA ELLECTRONICA": "EMIRO SÁNCHEZ MÉNDEZ - 1374028550"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "261130343068",
+            "NOMBRES": "EMIRO SÁNCHEZ MÉNDEZ",
+            "CREDITO": "7.668.111",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "302.168",
+            "FIRMA ELLECTRONICA": "EMIRO SÁNCHEZ MÉNDEZ - 1374028550",
+            "AL PIE DE LA FIRMA": "EMIRO SÁNCHEZ MÉNDEZ - 1374028550"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1374028550",
+            "NOMBRES": "EMIRO SÁNCHEZ MÉNDEZ",
+            "FECHA NACIMIENTO": "27/09/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.668.111",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EMIRO SÁNCHEZ MÉNDEZ - 1374028550",
+            "AL PIE DE LA FIRMA": "EMIRO SÁNCHEZ MÉNDEZ - 1374028550"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4320770",
+            "CEDULA": "1374028550",
+            "NOMBRES": "EMIRO SÁNCHEZ MÉNDEZ",
+            "CREDITO": "7.668.111",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "302.168",
+            "E.A": "24.5%",
+            "RECOMPRA O DESEMBOLSO": "4.242.462",
+            "FIRMA ELLECTRONICA": "EMIRO SÁNCHEZ MÉNDEZ - 1374028550"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1374028550",
+            "NOMBRES": "EMIRO SÁNCHEZ MÉNDEZ",
+            "FIRMA ELLECTRONICA": "EMIRO SÁNCHEZ MÉNDEZ - 1374028550"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1374028550",
+            "NOMBRES": "EMIRO SÁNCHEZ MÉNDEZ",
+            "FIRMA ELLECTRONICA": "EMIRO SÁNCHEZ MÉNDEZ - 1374028550",
+            "AL PIE DE LA FIRMA": "EMIRO SÁNCHEZ MÉNDEZ - 1374028550"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMIRO SÁNCHEZ MÉNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1374028550",
+            "NOMBRES": "EMIRO SÁNCHEZ MÉNDEZ",
+            "SALARIO": "1.456.829",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1374028550",
+            "NOMBRES": "EMIRO SÁNCHEZ MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.242.462"
+        }
+    }
+]

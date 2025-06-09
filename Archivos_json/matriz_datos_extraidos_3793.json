@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "555105423167",
+            "SOLICITUD": "2140521",
+            "CEDULA": "1533415338",
+            "NOMBRES": "MARÍA ALEJANDRA TORO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.571.277",
+            "FIRMA ELLECTRONICA": "MARÍA ALEJANDRA TORO GÓMEZ - 1533415338"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "555105423167",
+            "NOMBRES": "MARÍA ALEJANDRA TORO GÓMEZ",
+            "CREDITO": "7.951.447",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "303.142",
+            "FIRMA ELLECTRONICA": "MARÍA ALEJANDRA TORO GÓMEZ - 1533415338",
+            "AL PIE DE LA FIRMA": "MARÍA ALEJANDRA TORO GÓMEZ - 1533415338"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1533415338",
+            "NOMBRES": "MARÍA ALEJANDRA TORO GÓMEZ",
+            "FECHA NACIMIENTO": "02/06/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.951.447",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA ALEJANDRA TORO GÓMEZ - 1533415338",
+            "AL PIE DE LA FIRMA": "MARÍA ALEJANDRA TORO GÓMEZ - 1533415338"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2140521",
+            "CEDULA": "1533415338",
+            "NOMBRES": "MARÍA ALEJANDRA TORO GÓMEZ",
+            "CREDITO": "7.951.447",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "303.142",
+            "E.A": "26.91%",
+            "RECOMPRA O DESEMBOLSO": "4.571.277",
+            "FIRMA ELLECTRONICA": "MARÍA ALEJANDRA TORO GÓMEZ - 1533415338"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1533415338",
+            "NOMBRES": "MARÍA ALEJANDRA TORO GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARÍA ALEJANDRA TORO GÓMEZ - 1533415338"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1533415338",
+            "NOMBRES": "MARÍA ALEJANDRA TORO GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARÍA ALEJANDRA TORO GÓMEZ - 1533415338",
+            "AL PIE DE LA FIRMA": "MARÍA ALEJANDRA TORO GÓMEZ - 1533415338"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ALEJANDRA TORO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1533415338",
+            "NOMBRES": "MARÍA ALEJANDRA TORO GÓMEZ",
+            "SALARIO": "1.487.223",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1533415338",
+            "NOMBRES": "MARÍA ALEJANDRA TORO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.571.277"
+        }
+    }
+]

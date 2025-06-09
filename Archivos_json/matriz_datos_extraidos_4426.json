@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "313547015598",
+            "SOLICITUD": "2227888",
+            "CEDULA": "1169287213",
+            "NOMBRES": "MARÍA KAROL SERNA",
+            "RECOMPRA O DESEMBOLSO": "4.544.066",
+            "FIRMA ELLECTRONICA": "MARÍA KAROL SERNA - 1169287213"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "313547015598",
+            "NOMBRES": "MARÍA KAROL SERNA",
+            "CREDITO": "9.525.278",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.671",
+            "FIRMA ELLECTRONICA": "MARÍA KAROL SERNA - 1169287213",
+            "AL PIE DE LA FIRMA": "MARÍA KAROL SERNA - 1169287213"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1169287213",
+            "NOMBRES": "MARÍA KAROL SERNA",
+            "FECHA NACIMIENTO": "11/12/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.525.278",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA KAROL SERNA - 1169287213",
+            "AL PIE DE LA FIRMA": "MARÍA KAROL SERNA - 1169287213"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2227888",
+            "CEDULA": "1169287213",
+            "NOMBRES": "MARÍA KAROL SERNA",
+            "CREDITO": "9.525.278",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.671",
+            "E.A": "22.09%",
+            "RECOMPRA O DESEMBOLSO": "4.544.066",
+            "FIRMA ELLECTRONICA": "MARÍA KAROL SERNA - 1169287213"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1169287213",
+            "NOMBRES": "MARÍA KAROL SERNA",
+            "FIRMA ELLECTRONICA": "MARÍA KAROL SERNA - 1169287213"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1169287213",
+            "NOMBRES": "MARÍA KAROL SERNA",
+            "FIRMA ELLECTRONICA": "MARÍA KAROL SERNA - 1169287213",
+            "AL PIE DE LA FIRMA": "MARÍA KAROL SERNA - 1169287213"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA KAROL SERNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1169287213",
+            "NOMBRES": "MARÍA KAROL SERNA",
+            "SALARIO": "3.310.876",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1169287213",
+            "NOMBRES": "MARÍA KAROL SERNA",
+            "RECOMPRA O DESEMBOLSO": "4.544.066"
+        }
+    }
+]

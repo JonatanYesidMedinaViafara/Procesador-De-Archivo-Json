@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "343967453909",
+            "SOLICITUD": "9246049",
+            "CEDULA": "1356326798",
+            "NOMBRES": "ABELARDO ANDRÉS PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.912.629",
+            "FIRMA ELLECTRONICA": "ABELARDO ANDRÉS PEÑA - 1356326798"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "343967453909",
+            "NOMBRES": "ABELARDO ANDRÉS PEÑA",
+            "CREDITO": "19.714.901",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "324.31",
+            "FIRMA ELLECTRONICA": "ABELARDO ANDRÉS PEÑA - 1356326798",
+            "AL PIE DE LA FIRMA": "ABELARDO ANDRÉS PEÑA - 1356326798"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1356326798",
+            "NOMBRES": "ABELARDO ANDRÉS PEÑA",
+            "FECHA NACIMIENTO": "30/08/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.714.901",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ABELARDO ANDRÉS PEÑA - 1356326798",
+            "AL PIE DE LA FIRMA": "ABELARDO ANDRÉS PEÑA - 1356326798"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9246049",
+            "CEDULA": "1356326798",
+            "NOMBRES": "ABELARDO ANDRÉS PEÑA",
+            "CREDITO": "19.714.901",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "324.31",
+            "E.A": "25.92%",
+            "RECOMPRA O DESEMBOLSO": "1.912.629",
+            "FIRMA ELLECTRONICA": "ABELARDO ANDRÉS PEÑA - 1356326798"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1356326798",
+            "NOMBRES": "ABELARDO ANDRÉS PEÑA",
+            "FIRMA ELLECTRONICA": "ABELARDO ANDRÉS PEÑA - 1356326798"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1356326798",
+            "NOMBRES": "ABELARDO ANDRÉS PEÑA",
+            "FIRMA ELLECTRONICA": "ABELARDO ANDRÉS PEÑA - 1356326798",
+            "AL PIE DE LA FIRMA": "ABELARDO ANDRÉS PEÑA - 1356326798"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ABELARDO ANDRÉS PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1356326798",
+            "NOMBRES": "ABELARDO ANDRÉS PEÑA",
+            "SALARIO": "1.290.635",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1356326798",
+            "NOMBRES": "ABELARDO ANDRÉS PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.912.629"
+        }
+    }
+]

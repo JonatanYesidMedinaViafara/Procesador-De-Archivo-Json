@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "822871917030",
+            "SOLICITUD": "5101615",
+            "CEDULA": "1386761157",
+            "NOMBRES": "HÉCTOR JOSÉ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.337.441",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ MARTÍNEZ - 1386761157"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "822871917030",
+            "NOMBRES": "HÉCTOR JOSÉ MARTÍNEZ",
+            "CREDITO": "5.030.577",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "372.184",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ MARTÍNEZ - 1386761157",
+            "AL PIE DE LA FIRMA": "HÉCTOR JOSÉ MARTÍNEZ - 1386761157"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1386761157",
+            "NOMBRES": "HÉCTOR JOSÉ MARTÍNEZ",
+            "FECHA NACIMIENTO": "04/08/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.030.577",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ MARTÍNEZ - 1386761157",
+            "AL PIE DE LA FIRMA": "HÉCTOR JOSÉ MARTÍNEZ - 1386761157"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5101615",
+            "CEDULA": "1386761157",
+            "NOMBRES": "HÉCTOR JOSÉ MARTÍNEZ",
+            "CREDITO": "5.030.577",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "372.184",
+            "E.A": "25.61%",
+            "RECOMPRA O DESEMBOLSO": "2.337.441",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ MARTÍNEZ - 1386761157"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1386761157",
+            "NOMBRES": "HÉCTOR JOSÉ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ MARTÍNEZ - 1386761157"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1386761157",
+            "NOMBRES": "HÉCTOR JOSÉ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ MARTÍNEZ - 1386761157",
+            "AL PIE DE LA FIRMA": "HÉCTOR JOSÉ MARTÍNEZ - 1386761157"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HÉCTOR JOSÉ MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1386761157",
+            "NOMBRES": "HÉCTOR JOSÉ MARTÍNEZ",
+            "SALARIO": "3.491.822",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1386761157",
+            "NOMBRES": "HÉCTOR JOSÉ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.337.441"
+        }
+    }
+]

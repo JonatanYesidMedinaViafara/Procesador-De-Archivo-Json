@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "112969693029",
+            "SOLICITUD": "9479154",
+            "CEDULA": "1965617303",
+            "NOMBRES": "ALEJANDRO CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "4.129.738",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CARVAJAL - 1965617303"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "112969693029",
+            "NOMBRES": "ALEJANDRO CARVAJAL",
+            "CREDITO": "19.127.692",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "355.29",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CARVAJAL - 1965617303",
+            "AL PIE DE LA FIRMA": "ALEJANDRO CARVAJAL - 1965617303"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1965617303",
+            "NOMBRES": "ALEJANDRO CARVAJAL",
+            "FECHA NACIMIENTO": "19/07/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.127.692",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CARVAJAL - 1965617303",
+            "AL PIE DE LA FIRMA": "ALEJANDRO CARVAJAL - 1965617303"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9479154",
+            "CEDULA": "1965617303",
+            "NOMBRES": "ALEJANDRO CARVAJAL",
+            "CREDITO": "19.127.692",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "355.29",
+            "E.A": "20.4%",
+            "RECOMPRA O DESEMBOLSO": "4.129.738",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CARVAJAL - 1965617303"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1965617303",
+            "NOMBRES": "ALEJANDRO CARVAJAL",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CARVAJAL - 1965617303"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1965617303",
+            "NOMBRES": "ALEJANDRO CARVAJAL",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CARVAJAL - 1965617303",
+            "AL PIE DE LA FIRMA": "ALEJANDRO CARVAJAL - 1965617303"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO CARVAJAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1965617303",
+            "NOMBRES": "ALEJANDRO CARVAJAL",
+            "SALARIO": "3.610.431",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1965617303",
+            "NOMBRES": "ALEJANDRO CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "4.129.738"
+        }
+    }
+]

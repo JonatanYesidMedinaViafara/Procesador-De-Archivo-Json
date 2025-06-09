@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "640711073782",
+            "SOLICITUD": "4368901",
+            "CEDULA": "1991796957",
+            "NOMBRES": "ARNULFO ARTURO ZAPATA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "1.220.468",
+            "FIRMA ELLECTRONICA": "ARNULFO ARTURO ZAPATA GIRALDO - 1991796957"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "640711073782",
+            "NOMBRES": "ARNULFO ARTURO ZAPATA GIRALDO",
+            "CREDITO": "19.477.171",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "155.537",
+            "FIRMA ELLECTRONICA": "ARNULFO ARTURO ZAPATA GIRALDO - 1991796957",
+            "AL PIE DE LA FIRMA": "ARNULFO ARTURO ZAPATA GIRALDO - 1991796957"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1991796957",
+            "NOMBRES": "ARNULFO ARTURO ZAPATA GIRALDO",
+            "FECHA NACIMIENTO": "06/09/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.477.171",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ARNULFO ARTURO ZAPATA GIRALDO - 1991796957",
+            "AL PIE DE LA FIRMA": "ARNULFO ARTURO ZAPATA GIRALDO - 1991796957"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4368901",
+            "CEDULA": "1991796957",
+            "NOMBRES": "ARNULFO ARTURO ZAPATA GIRALDO",
+            "CREDITO": "19.477.171",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "155.537",
+            "E.A": "28.81%",
+            "RECOMPRA O DESEMBOLSO": "1.220.468",
+            "FIRMA ELLECTRONICA": "ARNULFO ARTURO ZAPATA GIRALDO - 1991796957"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1991796957",
+            "NOMBRES": "ARNULFO ARTURO ZAPATA GIRALDO",
+            "FIRMA ELLECTRONICA": "ARNULFO ARTURO ZAPATA GIRALDO - 1991796957"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1991796957",
+            "NOMBRES": "ARNULFO ARTURO ZAPATA GIRALDO",
+            "FIRMA ELLECTRONICA": "ARNULFO ARTURO ZAPATA GIRALDO - 1991796957",
+            "AL PIE DE LA FIRMA": "ARNULFO ARTURO ZAPATA GIRALDO - 1991796957"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARNULFO ARTURO ZAPATA GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1991796957",
+            "NOMBRES": "ARNULFO ARTURO ZAPATA GIRALDO",
+            "SALARIO": "4.443.932",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1991796957",
+            "NOMBRES": "ARNULFO ARTURO ZAPATA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "1.220.468"
+        }
+    }
+]

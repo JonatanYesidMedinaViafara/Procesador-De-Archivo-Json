@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "119642773157",
+            "SOLICITUD": "3251055",
+            "CEDULA": "1613503661",
+            "NOMBRES": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.449.938",
+            "FIRMA ELLECTRONICA": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ - 1613503661"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "119642773157",
+            "NOMBRES": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ",
+            "CREDITO": "17.555.525",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "322.6",
+            "FIRMA ELLECTRONICA": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ - 1613503661",
+            "AL PIE DE LA FIRMA": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ - 1613503661"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1613503661",
+            "NOMBRES": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ",
+            "FECHA NACIMIENTO": "25/09/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.555.525",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ - 1613503661",
+            "AL PIE DE LA FIRMA": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ - 1613503661"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3251055",
+            "CEDULA": "1613503661",
+            "NOMBRES": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ",
+            "CREDITO": "17.555.525",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "322.6",
+            "E.A": "22.57%",
+            "RECOMPRA O DESEMBOLSO": "3.449.938",
+            "FIRMA ELLECTRONICA": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ - 1613503661"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1613503661",
+            "NOMBRES": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ - 1613503661"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1613503661",
+            "NOMBRES": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ - 1613503661",
+            "AL PIE DE LA FIRMA": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ - 1613503661"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1613503661",
+            "NOMBRES": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ",
+            "SALARIO": "3.783.815",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1613503661",
+            "NOMBRES": "RAMÓN ORLANDO FLÓREZ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.449.938"
+        }
+    }
+]

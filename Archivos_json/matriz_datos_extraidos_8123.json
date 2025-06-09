@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "656785859882",
+            "SOLICITUD": "7234658",
+            "CEDULA": "1702037546",
+            "NOMBRES": "LUCY FERNANDA TORRES",
+            "RECOMPRA O DESEMBOLSO": "1.363.401",
+            "FIRMA ELLECTRONICA": "LUCY FERNANDA TORRES - 1702037546"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "656785859882",
+            "NOMBRES": "LUCY FERNANDA TORRES",
+            "CREDITO": "8.294.153",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "184.694",
+            "FIRMA ELLECTRONICA": "LUCY FERNANDA TORRES - 1702037546",
+            "AL PIE DE LA FIRMA": "LUCY FERNANDA TORRES - 1702037546"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1702037546",
+            "NOMBRES": "LUCY FERNANDA TORRES",
+            "FECHA NACIMIENTO": "18/11/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.294.153",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUCY FERNANDA TORRES - 1702037546",
+            "AL PIE DE LA FIRMA": "LUCY FERNANDA TORRES - 1702037546"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7234658",
+            "CEDULA": "1702037546",
+            "NOMBRES": "LUCY FERNANDA TORRES",
+            "CREDITO": "8.294.153",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "184.694",
+            "E.A": "27.89%",
+            "RECOMPRA O DESEMBOLSO": "1.363.401",
+            "FIRMA ELLECTRONICA": "LUCY FERNANDA TORRES - 1702037546"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1702037546",
+            "NOMBRES": "LUCY FERNANDA TORRES",
+            "FIRMA ELLECTRONICA": "LUCY FERNANDA TORRES - 1702037546"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1702037546",
+            "NOMBRES": "LUCY FERNANDA TORRES",
+            "FIRMA ELLECTRONICA": "LUCY FERNANDA TORRES - 1702037546",
+            "AL PIE DE LA FIRMA": "LUCY FERNANDA TORRES - 1702037546"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCY FERNANDA TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1702037546",
+            "NOMBRES": "LUCY FERNANDA TORRES",
+            "SALARIO": "2.035.883",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1702037546",
+            "NOMBRES": "LUCY FERNANDA TORRES",
+            "RECOMPRA O DESEMBOLSO": "1.363.401"
+        }
+    }
+]

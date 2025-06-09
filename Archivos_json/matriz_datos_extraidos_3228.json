@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "685175962064",
+            "SOLICITUD": "7853968",
+            "CEDULA": "1512518123",
+            "NOMBRES": "ANA SUSANA VEGA",
+            "RECOMPRA O DESEMBOLSO": "2.545.244",
+            "FIRMA ELLECTRONICA": "ANA SUSANA VEGA - 1512518123"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "685175962064",
+            "NOMBRES": "ANA SUSANA VEGA",
+            "CREDITO": "14.726.730",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "230.587",
+            "FIRMA ELLECTRONICA": "ANA SUSANA VEGA - 1512518123",
+            "AL PIE DE LA FIRMA": "ANA SUSANA VEGA - 1512518123"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1512518123",
+            "NOMBRES": "ANA SUSANA VEGA",
+            "FECHA NACIMIENTO": "23/07/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.726.730",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANA SUSANA VEGA - 1512518123",
+            "AL PIE DE LA FIRMA": "ANA SUSANA VEGA - 1512518123"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7853968",
+            "CEDULA": "1512518123",
+            "NOMBRES": "ANA SUSANA VEGA",
+            "CREDITO": "14.726.730",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "230.587",
+            "E.A": "19.15%",
+            "RECOMPRA O DESEMBOLSO": "2.545.244",
+            "FIRMA ELLECTRONICA": "ANA SUSANA VEGA - 1512518123"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1512518123",
+            "NOMBRES": "ANA SUSANA VEGA",
+            "FIRMA ELLECTRONICA": "ANA SUSANA VEGA - 1512518123"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1512518123",
+            "NOMBRES": "ANA SUSANA VEGA",
+            "FIRMA ELLECTRONICA": "ANA SUSANA VEGA - 1512518123",
+            "AL PIE DE LA FIRMA": "ANA SUSANA VEGA - 1512518123"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA SUSANA VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1512518123",
+            "NOMBRES": "ANA SUSANA VEGA",
+            "SALARIO": "4.834.322",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1512518123",
+            "NOMBRES": "ANA SUSANA VEGA",
+            "RECOMPRA O DESEMBOLSO": "2.545.244"
+        }
+    }
+]

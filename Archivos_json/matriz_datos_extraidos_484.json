@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "940951268254",
+            "SOLICITUD": "1608776",
+            "CEDULA": "1584309025",
+            "NOMBRES": "MERCEDES MERCEDES BRAVO",
+            "RECOMPRA O DESEMBOLSO": "2.440.443",
+            "FIRMA ELLECTRONICA": "MERCEDES MERCEDES BRAVO - 1584309025"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "940951268254",
+            "NOMBRES": "MERCEDES MERCEDES BRAVO",
+            "CREDITO": "11.804.109",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "157.608",
+            "FIRMA ELLECTRONICA": "MERCEDES MERCEDES BRAVO - 1584309025",
+            "AL PIE DE LA FIRMA": "MERCEDES MERCEDES BRAVO - 1584309025"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1584309025",
+            "NOMBRES": "MERCEDES MERCEDES BRAVO",
+            "FECHA NACIMIENTO": "05/09/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.804.109",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MERCEDES MERCEDES BRAVO - 1584309025",
+            "AL PIE DE LA FIRMA": "MERCEDES MERCEDES BRAVO - 1584309025"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1608776",
+            "CEDULA": "1584309025",
+            "NOMBRES": "MERCEDES MERCEDES BRAVO",
+            "CREDITO": "11.804.109",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "157.608",
+            "E.A": "23.79%",
+            "RECOMPRA O DESEMBOLSO": "2.440.443",
+            "FIRMA ELLECTRONICA": "MERCEDES MERCEDES BRAVO - 1584309025"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1584309025",
+            "NOMBRES": "MERCEDES MERCEDES BRAVO",
+            "FIRMA ELLECTRONICA": "MERCEDES MERCEDES BRAVO - 1584309025"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1584309025",
+            "NOMBRES": "MERCEDES MERCEDES BRAVO",
+            "FIRMA ELLECTRONICA": "MERCEDES MERCEDES BRAVO - 1584309025",
+            "AL PIE DE LA FIRMA": "MERCEDES MERCEDES BRAVO - 1584309025"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MERCEDES MERCEDES BRAVO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1584309025",
+            "NOMBRES": "MERCEDES MERCEDES BRAVO",
+            "SALARIO": "4.494.282",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1584309025",
+            "NOMBRES": "MERCEDES MERCEDES BRAVO",
+            "RECOMPRA O DESEMBOLSO": "2.440.443"
+        }
+    }
+]

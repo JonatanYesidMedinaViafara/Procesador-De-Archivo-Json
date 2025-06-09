@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "978559724812",
+            "SOLICITUD": "3111081",
+            "CEDULA": "1857683863",
+            "NOMBRES": "DANIELA PAOLA SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "2.345.165",
+            "FIRMA ELLECTRONICA": "DANIELA PAOLA SANDOVAL - 1857683863"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "978559724812",
+            "NOMBRES": "DANIELA PAOLA SANDOVAL",
+            "CREDITO": "6.240.580",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "313.798",
+            "FIRMA ELLECTRONICA": "DANIELA PAOLA SANDOVAL - 1857683863",
+            "AL PIE DE LA FIRMA": "DANIELA PAOLA SANDOVAL - 1857683863"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1857683863",
+            "NOMBRES": "DANIELA PAOLA SANDOVAL",
+            "FECHA NACIMIENTO": "22/12/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.240.580",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DANIELA PAOLA SANDOVAL - 1857683863",
+            "AL PIE DE LA FIRMA": "DANIELA PAOLA SANDOVAL - 1857683863"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3111081",
+            "CEDULA": "1857683863",
+            "NOMBRES": "DANIELA PAOLA SANDOVAL",
+            "CREDITO": "6.240.580",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "313.798",
+            "E.A": "23.34%",
+            "RECOMPRA O DESEMBOLSO": "2.345.165",
+            "FIRMA ELLECTRONICA": "DANIELA PAOLA SANDOVAL - 1857683863"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1857683863",
+            "NOMBRES": "DANIELA PAOLA SANDOVAL",
+            "FIRMA ELLECTRONICA": "DANIELA PAOLA SANDOVAL - 1857683863"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1857683863",
+            "NOMBRES": "DANIELA PAOLA SANDOVAL",
+            "FIRMA ELLECTRONICA": "DANIELA PAOLA SANDOVAL - 1857683863",
+            "AL PIE DE LA FIRMA": "DANIELA PAOLA SANDOVAL - 1857683863"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIELA PAOLA SANDOVAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1857683863",
+            "NOMBRES": "DANIELA PAOLA SANDOVAL",
+            "SALARIO": "1.021.604",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1857683863",
+            "NOMBRES": "DANIELA PAOLA SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "2.345.165"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "443489601345",
+            "SOLICITUD": "8500011",
+            "CEDULA": "1714713598",
+            "NOMBRES": "CARLOS MERCADO",
+            "RECOMPRA O DESEMBOLSO": "4.212.640",
+            "FIRMA ELLECTRONICA": "CARLOS MERCADO - 1714713598"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "443489601345",
+            "NOMBRES": "CARLOS MERCADO",
+            "CREDITO": "19.265.221",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.953",
+            "FIRMA ELLECTRONICA": "CARLOS MERCADO - 1714713598",
+            "AL PIE DE LA FIRMA": "CARLOS MERCADO - 1714713598"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1714713598",
+            "NOMBRES": "CARLOS MERCADO",
+            "FECHA NACIMIENTO": "28/04/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.265.221",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS MERCADO - 1714713598",
+            "AL PIE DE LA FIRMA": "CARLOS MERCADO - 1714713598"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8500011",
+            "CEDULA": "1714713598",
+            "NOMBRES": "CARLOS MERCADO",
+            "CREDITO": "19.265.221",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.953",
+            "E.A": "25.73%",
+            "RECOMPRA O DESEMBOLSO": "4.212.640",
+            "FIRMA ELLECTRONICA": "CARLOS MERCADO - 1714713598"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1714713598",
+            "NOMBRES": "CARLOS MERCADO",
+            "FIRMA ELLECTRONICA": "CARLOS MERCADO - 1714713598"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1714713598",
+            "NOMBRES": "CARLOS MERCADO",
+            "FIRMA ELLECTRONICA": "CARLOS MERCADO - 1714713598",
+            "AL PIE DE LA FIRMA": "CARLOS MERCADO - 1714713598"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS MERCADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1714713598",
+            "NOMBRES": "CARLOS MERCADO",
+            "SALARIO": "2.260.467",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1714713598",
+            "NOMBRES": "CARLOS MERCADO",
+            "RECOMPRA O DESEMBOLSO": "4.212.640"
+        }
+    }
+]

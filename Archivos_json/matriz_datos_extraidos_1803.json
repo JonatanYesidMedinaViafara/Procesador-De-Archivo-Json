@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "129405929573",
+            "SOLICITUD": "1696298",
+            "CEDULA": "1605137073",
+            "NOMBRES": "PATRICIA MORENO",
+            "RECOMPRA O DESEMBOLSO": "2.431.658",
+            "FIRMA ELLECTRONICA": "PATRICIA MORENO - 1605137073"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "129405929573",
+            "NOMBRES": "PATRICIA MORENO",
+            "CREDITO": "13.566.515",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "273.366",
+            "FIRMA ELLECTRONICA": "PATRICIA MORENO - 1605137073",
+            "AL PIE DE LA FIRMA": "PATRICIA MORENO - 1605137073"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1605137073",
+            "NOMBRES": "PATRICIA MORENO",
+            "FECHA NACIMIENTO": "24/06/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.566.515",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "PATRICIA MORENO - 1605137073",
+            "AL PIE DE LA FIRMA": "PATRICIA MORENO - 1605137073"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1696298",
+            "CEDULA": "1605137073",
+            "NOMBRES": "PATRICIA MORENO",
+            "CREDITO": "13.566.515",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "273.366",
+            "E.A": "19.32%",
+            "RECOMPRA O DESEMBOLSO": "2.431.658",
+            "FIRMA ELLECTRONICA": "PATRICIA MORENO - 1605137073"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1605137073",
+            "NOMBRES": "PATRICIA MORENO",
+            "FIRMA ELLECTRONICA": "PATRICIA MORENO - 1605137073"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1605137073",
+            "NOMBRES": "PATRICIA MORENO",
+            "FIRMA ELLECTRONICA": "PATRICIA MORENO - 1605137073",
+            "AL PIE DE LA FIRMA": "PATRICIA MORENO - 1605137073"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1605137073",
+            "NOMBRES": "PATRICIA MORENO",
+            "SALARIO": "2.798.663",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1605137073",
+            "NOMBRES": "PATRICIA MORENO",
+            "RECOMPRA O DESEMBOLSO": "2.431.658"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "777591142687",
+            "SOLICITUD": "3598161",
+            "CEDULA": "1181377100",
+            "NOMBRES": "BLANCA GAMBOA CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "2.888.542",
+            "FIRMA ELLECTRONICA": "BLANCA GAMBOA CARRILLO - 1181377100"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "777591142687",
+            "NOMBRES": "BLANCA GAMBOA CARRILLO",
+            "CREDITO": "8.100.147",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "347.067",
+            "FIRMA ELLECTRONICA": "BLANCA GAMBOA CARRILLO - 1181377100",
+            "AL PIE DE LA FIRMA": "BLANCA GAMBOA CARRILLO - 1181377100"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1181377100",
+            "NOMBRES": "BLANCA GAMBOA CARRILLO",
+            "FECHA NACIMIENTO": "11/02/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.100.147",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "BLANCA GAMBOA CARRILLO - 1181377100",
+            "AL PIE DE LA FIRMA": "BLANCA GAMBOA CARRILLO - 1181377100"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3598161",
+            "CEDULA": "1181377100",
+            "NOMBRES": "BLANCA GAMBOA CARRILLO",
+            "CREDITO": "8.100.147",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "347.067",
+            "E.A": "25.18%",
+            "RECOMPRA O DESEMBOLSO": "2.888.542",
+            "FIRMA ELLECTRONICA": "BLANCA GAMBOA CARRILLO - 1181377100"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1181377100",
+            "NOMBRES": "BLANCA GAMBOA CARRILLO",
+            "FIRMA ELLECTRONICA": "BLANCA GAMBOA CARRILLO - 1181377100"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1181377100",
+            "NOMBRES": "BLANCA GAMBOA CARRILLO",
+            "FIRMA ELLECTRONICA": "BLANCA GAMBOA CARRILLO - 1181377100",
+            "AL PIE DE LA FIRMA": "BLANCA GAMBOA CARRILLO - 1181377100"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BLANCA GAMBOA CARRILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1181377100",
+            "NOMBRES": "BLANCA GAMBOA CARRILLO",
+            "SALARIO": "3.225.138",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1181377100",
+            "NOMBRES": "BLANCA GAMBOA CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "2.888.542"
+        }
+    }
+]

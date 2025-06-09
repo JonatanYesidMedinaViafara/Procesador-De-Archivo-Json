@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "887670633402",
+            "SOLICITUD": "1971608",
+            "CEDULA": "1438924973",
+            "NOMBRES": "ALBA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "3.130.950",
+            "FIRMA ELLECTRONICA": "ALBA PEÑA - 1438924973"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "887670633402",
+            "NOMBRES": "ALBA PEÑA",
+            "CREDITO": "10.817.207",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "348.762",
+            "FIRMA ELLECTRONICA": "ALBA PEÑA - 1438924973",
+            "AL PIE DE LA FIRMA": "ALBA PEÑA - 1438924973"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1438924973",
+            "NOMBRES": "ALBA PEÑA",
+            "FECHA NACIMIENTO": "16/03/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.817.207",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALBA PEÑA - 1438924973",
+            "AL PIE DE LA FIRMA": "ALBA PEÑA - 1438924973"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1971608",
+            "CEDULA": "1438924973",
+            "NOMBRES": "ALBA PEÑA",
+            "CREDITO": "10.817.207",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "348.762",
+            "E.A": "21.21%",
+            "RECOMPRA O DESEMBOLSO": "3.130.950",
+            "FIRMA ELLECTRONICA": "ALBA PEÑA - 1438924973"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1438924973",
+            "NOMBRES": "ALBA PEÑA",
+            "FIRMA ELLECTRONICA": "ALBA PEÑA - 1438924973"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1438924973",
+            "NOMBRES": "ALBA PEÑA",
+            "FIRMA ELLECTRONICA": "ALBA PEÑA - 1438924973",
+            "AL PIE DE LA FIRMA": "ALBA PEÑA - 1438924973"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBA PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1438924973",
+            "NOMBRES": "ALBA PEÑA",
+            "SALARIO": "3.912.525",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1438924973",
+            "NOMBRES": "ALBA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "3.130.950"
+        }
+    }
+]

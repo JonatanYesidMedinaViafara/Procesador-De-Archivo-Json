@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "680432297405",
+            "SOLICITUD": "7812042",
+            "CEDULA": "1264079299",
+            "NOMBRES": "MARÍA LEÓN FORERO",
+            "RECOMPRA O DESEMBOLSO": "3.941.010",
+            "FIRMA ELLECTRONICA": "MARÍA LEÓN FORERO - 1264079299"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "680432297405",
+            "NOMBRES": "MARÍA LEÓN FORERO",
+            "CREDITO": "7.557.520",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "357.948",
+            "FIRMA ELLECTRONICA": "MARÍA LEÓN FORERO - 1264079299",
+            "AL PIE DE LA FIRMA": "MARÍA LEÓN FORERO - 1264079299"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1264079299",
+            "NOMBRES": "MARÍA LEÓN FORERO",
+            "FECHA NACIMIENTO": "25/05/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.557.520",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA LEÓN FORERO - 1264079299",
+            "AL PIE DE LA FIRMA": "MARÍA LEÓN FORERO - 1264079299"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7812042",
+            "CEDULA": "1264079299",
+            "NOMBRES": "MARÍA LEÓN FORERO",
+            "CREDITO": "7.557.520",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "357.948",
+            "E.A": "27.91%",
+            "RECOMPRA O DESEMBOLSO": "3.941.010",
+            "FIRMA ELLECTRONICA": "MARÍA LEÓN FORERO - 1264079299"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1264079299",
+            "NOMBRES": "MARÍA LEÓN FORERO",
+            "FIRMA ELLECTRONICA": "MARÍA LEÓN FORERO - 1264079299"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1264079299",
+            "NOMBRES": "MARÍA LEÓN FORERO",
+            "FIRMA ELLECTRONICA": "MARÍA LEÓN FORERO - 1264079299",
+            "AL PIE DE LA FIRMA": "MARÍA LEÓN FORERO - 1264079299"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LEÓN FORERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1264079299",
+            "NOMBRES": "MARÍA LEÓN FORERO",
+            "SALARIO": "1.275.469",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1264079299",
+            "NOMBRES": "MARÍA LEÓN FORERO",
+            "RECOMPRA O DESEMBOLSO": "3.941.010"
+        }
+    }
+]

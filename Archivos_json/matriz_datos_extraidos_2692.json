@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "805144337888",
+            "SOLICITUD": "5989694",
+            "CEDULA": "1381548503",
+            "NOMBRES": "DARWIN GÓMEZ CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "2.741.733",
+            "FIRMA ELLECTRONICA": "DARWIN GÓMEZ CASTAÑO - 1381548503"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "805144337888",
+            "NOMBRES": "DARWIN GÓMEZ CASTAÑO",
+            "CREDITO": "15.605.337",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.96",
+            "FIRMA ELLECTRONICA": "DARWIN GÓMEZ CASTAÑO - 1381548503",
+            "AL PIE DE LA FIRMA": "DARWIN GÓMEZ CASTAÑO - 1381548503"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1381548503",
+            "NOMBRES": "DARWIN GÓMEZ CASTAÑO",
+            "FECHA NACIMIENTO": "15/10/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.605.337",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DARWIN GÓMEZ CASTAÑO - 1381548503",
+            "AL PIE DE LA FIRMA": "DARWIN GÓMEZ CASTAÑO - 1381548503"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5989694",
+            "CEDULA": "1381548503",
+            "NOMBRES": "DARWIN GÓMEZ CASTAÑO",
+            "CREDITO": "15.605.337",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.96",
+            "E.A": "26.89%",
+            "RECOMPRA O DESEMBOLSO": "2.741.733",
+            "FIRMA ELLECTRONICA": "DARWIN GÓMEZ CASTAÑO - 1381548503"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1381548503",
+            "NOMBRES": "DARWIN GÓMEZ CASTAÑO",
+            "FIRMA ELLECTRONICA": "DARWIN GÓMEZ CASTAÑO - 1381548503"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1381548503",
+            "NOMBRES": "DARWIN GÓMEZ CASTAÑO",
+            "FIRMA ELLECTRONICA": "DARWIN GÓMEZ CASTAÑO - 1381548503",
+            "AL PIE DE LA FIRMA": "DARWIN GÓMEZ CASTAÑO - 1381548503"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARWIN GÓMEZ CASTAÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1381548503",
+            "NOMBRES": "DARWIN GÓMEZ CASTAÑO",
+            "SALARIO": "1.049.667",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1381548503",
+            "NOMBRES": "DARWIN GÓMEZ CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "2.741.733"
+        }
+    }
+]

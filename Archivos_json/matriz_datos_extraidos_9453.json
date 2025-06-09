@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "888292462003",
+            "SOLICITUD": "4592393",
+            "CEDULA": "1596332770",
+            "NOMBRES": "MANUEL ESTRADA",
+            "RECOMPRA O DESEMBOLSO": "4.299.312",
+            "FIRMA ELLECTRONICA": "MANUEL ESTRADA - 1596332770"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "888292462003",
+            "NOMBRES": "MANUEL ESTRADA",
+            "CREDITO": "8.964.560",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "280.5",
+            "FIRMA ELLECTRONICA": "MANUEL ESTRADA - 1596332770",
+            "AL PIE DE LA FIRMA": "MANUEL ESTRADA - 1596332770"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1596332770",
+            "NOMBRES": "MANUEL ESTRADA",
+            "FECHA NACIMIENTO": "09/05/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.964.560",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MANUEL ESTRADA - 1596332770",
+            "AL PIE DE LA FIRMA": "MANUEL ESTRADA - 1596332770"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4592393",
+            "CEDULA": "1596332770",
+            "NOMBRES": "MANUEL ESTRADA",
+            "CREDITO": "8.964.560",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "280.5",
+            "E.A": "19.31%",
+            "RECOMPRA O DESEMBOLSO": "4.299.312",
+            "FIRMA ELLECTRONICA": "MANUEL ESTRADA - 1596332770"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1596332770",
+            "NOMBRES": "MANUEL ESTRADA",
+            "FIRMA ELLECTRONICA": "MANUEL ESTRADA - 1596332770"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1596332770",
+            "NOMBRES": "MANUEL ESTRADA",
+            "FIRMA ELLECTRONICA": "MANUEL ESTRADA - 1596332770",
+            "AL PIE DE LA FIRMA": "MANUEL ESTRADA - 1596332770"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL ESTRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1596332770",
+            "NOMBRES": "MANUEL ESTRADA",
+            "SALARIO": "4.291.457",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1596332770",
+            "NOMBRES": "MANUEL ESTRADA",
+            "RECOMPRA O DESEMBOLSO": "4.299.312"
+        }
+    }
+]

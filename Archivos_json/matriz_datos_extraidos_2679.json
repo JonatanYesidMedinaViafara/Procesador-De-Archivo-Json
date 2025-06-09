@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "430385391790",
+            "SOLICITUD": "4578100",
+            "CEDULA": "1397398957",
+            "NOMBRES": "MANUEL ALBERTO PARRA CANO",
+            "RECOMPRA O DESEMBOLSO": "4.322.802",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO PARRA CANO - 1397398957"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "430385391790",
+            "NOMBRES": "MANUEL ALBERTO PARRA CANO",
+            "CREDITO": "14.488.305",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "356.344",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO PARRA CANO - 1397398957",
+            "AL PIE DE LA FIRMA": "MANUEL ALBERTO PARRA CANO - 1397398957"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1397398957",
+            "NOMBRES": "MANUEL ALBERTO PARRA CANO",
+            "FECHA NACIMIENTO": "25/03/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.488.305",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO PARRA CANO - 1397398957",
+            "AL PIE DE LA FIRMA": "MANUEL ALBERTO PARRA CANO - 1397398957"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4578100",
+            "CEDULA": "1397398957",
+            "NOMBRES": "MANUEL ALBERTO PARRA CANO",
+            "CREDITO": "14.488.305",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "356.344",
+            "E.A": "27.23%",
+            "RECOMPRA O DESEMBOLSO": "4.322.802",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO PARRA CANO - 1397398957"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1397398957",
+            "NOMBRES": "MANUEL ALBERTO PARRA CANO",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO PARRA CANO - 1397398957"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1397398957",
+            "NOMBRES": "MANUEL ALBERTO PARRA CANO",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO PARRA CANO - 1397398957",
+            "AL PIE DE LA FIRMA": "MANUEL ALBERTO PARRA CANO - 1397398957"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL ALBERTO PARRA CANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1397398957",
+            "NOMBRES": "MANUEL ALBERTO PARRA CANO",
+            "SALARIO": "3.302.630",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1397398957",
+            "NOMBRES": "MANUEL ALBERTO PARRA CANO",
+            "RECOMPRA O DESEMBOLSO": "4.322.802"
+        }
+    }
+]

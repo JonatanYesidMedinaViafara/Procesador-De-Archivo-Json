@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "732181397023",
+            "SOLICITUD": "2193432",
+            "CEDULA": "1274303915",
+            "NOMBRES": "CARLOS TORRES",
+            "RECOMPRA O DESEMBOLSO": "1.504.031",
+            "FIRMA ELLECTRONICA": "CARLOS TORRES - 1274303915"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "732181397023",
+            "NOMBRES": "CARLOS TORRES",
+            "CREDITO": "12.092.187",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "132.365",
+            "FIRMA ELLECTRONICA": "CARLOS TORRES - 1274303915",
+            "AL PIE DE LA FIRMA": "CARLOS TORRES - 1274303915"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1274303915",
+            "NOMBRES": "CARLOS TORRES",
+            "FECHA NACIMIENTO": "16/03/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.092.187",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARLOS TORRES - 1274303915",
+            "AL PIE DE LA FIRMA": "CARLOS TORRES - 1274303915"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2193432",
+            "CEDULA": "1274303915",
+            "NOMBRES": "CARLOS TORRES",
+            "CREDITO": "12.092.187",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "132.365",
+            "E.A": "20.01%",
+            "RECOMPRA O DESEMBOLSO": "1.504.031",
+            "FIRMA ELLECTRONICA": "CARLOS TORRES - 1274303915"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1274303915",
+            "NOMBRES": "CARLOS TORRES",
+            "FIRMA ELLECTRONICA": "CARLOS TORRES - 1274303915"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1274303915",
+            "NOMBRES": "CARLOS TORRES",
+            "FIRMA ELLECTRONICA": "CARLOS TORRES - 1274303915",
+            "AL PIE DE LA FIRMA": "CARLOS TORRES - 1274303915"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1274303915",
+            "NOMBRES": "CARLOS TORRES",
+            "SALARIO": "4.545.828",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1274303915",
+            "NOMBRES": "CARLOS TORRES",
+            "RECOMPRA O DESEMBOLSO": "1.504.031"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "290325207663",
+            "SOLICITUD": "6404316",
+            "CEDULA": "1235153550",
+            "NOMBRES": "ELIANA FORERO ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "1.039.073",
+            "FIRMA ELLECTRONICA": "ELIANA FORERO ZAPATA - 1235153550"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "290325207663",
+            "NOMBRES": "ELIANA FORERO ZAPATA",
+            "CREDITO": "10.576.007",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "246.281",
+            "FIRMA ELLECTRONICA": "ELIANA FORERO ZAPATA - 1235153550",
+            "AL PIE DE LA FIRMA": "ELIANA FORERO ZAPATA - 1235153550"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1235153550",
+            "NOMBRES": "ELIANA FORERO ZAPATA",
+            "FECHA NACIMIENTO": "04/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.576.007",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ELIANA FORERO ZAPATA - 1235153550",
+            "AL PIE DE LA FIRMA": "ELIANA FORERO ZAPATA - 1235153550"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6404316",
+            "CEDULA": "1235153550",
+            "NOMBRES": "ELIANA FORERO ZAPATA",
+            "CREDITO": "10.576.007",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "246.281",
+            "E.A": "25.45%",
+            "RECOMPRA O DESEMBOLSO": "1.039.073",
+            "FIRMA ELLECTRONICA": "ELIANA FORERO ZAPATA - 1235153550"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1235153550",
+            "NOMBRES": "ELIANA FORERO ZAPATA",
+            "FIRMA ELLECTRONICA": "ELIANA FORERO ZAPATA - 1235153550"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1235153550",
+            "NOMBRES": "ELIANA FORERO ZAPATA",
+            "FIRMA ELLECTRONICA": "ELIANA FORERO ZAPATA - 1235153550",
+            "AL PIE DE LA FIRMA": "ELIANA FORERO ZAPATA - 1235153550"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELIANA FORERO ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1235153550",
+            "NOMBRES": "ELIANA FORERO ZAPATA",
+            "SALARIO": "2.333.569",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1235153550",
+            "NOMBRES": "ELIANA FORERO ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "1.039.073"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "284345222145",
+            "SOLICITUD": "7874363",
+            "CEDULA": "1187627514",
+            "NOMBRES": "BRAYAN GUTIÉRREZ CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.049.195",
+            "FIRMA ELLECTRONICA": "BRAYAN GUTIÉRREZ CORTÉS - 1187627514"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "284345222145",
+            "NOMBRES": "BRAYAN GUTIÉRREZ CORTÉS",
+            "CREDITO": "5.150.084",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "269.96",
+            "FIRMA ELLECTRONICA": "BRAYAN GUTIÉRREZ CORTÉS - 1187627514",
+            "AL PIE DE LA FIRMA": "BRAYAN GUTIÉRREZ CORTÉS - 1187627514"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1187627514",
+            "NOMBRES": "BRAYAN GUTIÉRREZ CORTÉS",
+            "FECHA NACIMIENTO": "26/09/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.150.084",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "BRAYAN GUTIÉRREZ CORTÉS - 1187627514",
+            "AL PIE DE LA FIRMA": "BRAYAN GUTIÉRREZ CORTÉS - 1187627514"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7874363",
+            "CEDULA": "1187627514",
+            "NOMBRES": "BRAYAN GUTIÉRREZ CORTÉS",
+            "CREDITO": "5.150.084",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "269.96",
+            "E.A": "21.76%",
+            "RECOMPRA O DESEMBOLSO": "2.049.195",
+            "FIRMA ELLECTRONICA": "BRAYAN GUTIÉRREZ CORTÉS - 1187627514"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1187627514",
+            "NOMBRES": "BRAYAN GUTIÉRREZ CORTÉS",
+            "FIRMA ELLECTRONICA": "BRAYAN GUTIÉRREZ CORTÉS - 1187627514"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1187627514",
+            "NOMBRES": "BRAYAN GUTIÉRREZ CORTÉS",
+            "FIRMA ELLECTRONICA": "BRAYAN GUTIÉRREZ CORTÉS - 1187627514",
+            "AL PIE DE LA FIRMA": "BRAYAN GUTIÉRREZ CORTÉS - 1187627514"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BRAYAN GUTIÉRREZ CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1187627514",
+            "NOMBRES": "BRAYAN GUTIÉRREZ CORTÉS",
+            "SALARIO": "1.114.823",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1187627514",
+            "NOMBRES": "BRAYAN GUTIÉRREZ CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.049.195"
+        }
+    }
+]

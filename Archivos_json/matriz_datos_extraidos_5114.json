@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "971133594450",
+            "SOLICITUD": "3154039",
+            "CEDULA": "1420629791",
+            "NOMBRES": "JAIRO PARRA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.485.345",
+            "FIRMA ELLECTRONICA": "JAIRO PARRA SÁNCHEZ - 1420629791"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "971133594450",
+            "NOMBRES": "JAIRO PARRA SÁNCHEZ",
+            "CREDITO": "7.300.125",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "126.706",
+            "FIRMA ELLECTRONICA": "JAIRO PARRA SÁNCHEZ - 1420629791",
+            "AL PIE DE LA FIRMA": "JAIRO PARRA SÁNCHEZ - 1420629791"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1420629791",
+            "NOMBRES": "JAIRO PARRA SÁNCHEZ",
+            "FECHA NACIMIENTO": "21/01/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.300.125",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JAIRO PARRA SÁNCHEZ - 1420629791",
+            "AL PIE DE LA FIRMA": "JAIRO PARRA SÁNCHEZ - 1420629791"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3154039",
+            "CEDULA": "1420629791",
+            "NOMBRES": "JAIRO PARRA SÁNCHEZ",
+            "CREDITO": "7.300.125",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "126.706",
+            "E.A": "27.22%",
+            "RECOMPRA O DESEMBOLSO": "3.485.345",
+            "FIRMA ELLECTRONICA": "JAIRO PARRA SÁNCHEZ - 1420629791"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1420629791",
+            "NOMBRES": "JAIRO PARRA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JAIRO PARRA SÁNCHEZ - 1420629791"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1420629791",
+            "NOMBRES": "JAIRO PARRA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JAIRO PARRA SÁNCHEZ - 1420629791",
+            "AL PIE DE LA FIRMA": "JAIRO PARRA SÁNCHEZ - 1420629791"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIRO PARRA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1420629791",
+            "NOMBRES": "JAIRO PARRA SÁNCHEZ",
+            "SALARIO": "1.334.817",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1420629791",
+            "NOMBRES": "JAIRO PARRA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.485.345"
+        }
+    }
+]

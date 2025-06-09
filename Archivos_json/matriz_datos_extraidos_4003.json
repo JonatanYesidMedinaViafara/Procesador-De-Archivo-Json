@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "458167623178",
+            "SOLICITUD": "6028370",
+            "CEDULA": "1949236732",
+            "NOMBRES": "IVÁN TOVAR GUERRA",
+            "RECOMPRA O DESEMBOLSO": "1.020.905",
+            "FIRMA ELLECTRONICA": "IVÁN TOVAR GUERRA - 1949236732"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "458167623178",
+            "NOMBRES": "IVÁN TOVAR GUERRA",
+            "CREDITO": "12.231.015",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.369",
+            "FIRMA ELLECTRONICA": "IVÁN TOVAR GUERRA - 1949236732",
+            "AL PIE DE LA FIRMA": "IVÁN TOVAR GUERRA - 1949236732"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1949236732",
+            "NOMBRES": "IVÁN TOVAR GUERRA",
+            "FECHA NACIMIENTO": "18/10/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.231.015",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "IVÁN TOVAR GUERRA - 1949236732",
+            "AL PIE DE LA FIRMA": "IVÁN TOVAR GUERRA - 1949236732"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6028370",
+            "CEDULA": "1949236732",
+            "NOMBRES": "IVÁN TOVAR GUERRA",
+            "CREDITO": "12.231.015",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.369",
+            "E.A": "28.05%",
+            "RECOMPRA O DESEMBOLSO": "1.020.905",
+            "FIRMA ELLECTRONICA": "IVÁN TOVAR GUERRA - 1949236732"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1949236732",
+            "NOMBRES": "IVÁN TOVAR GUERRA",
+            "FIRMA ELLECTRONICA": "IVÁN TOVAR GUERRA - 1949236732"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1949236732",
+            "NOMBRES": "IVÁN TOVAR GUERRA",
+            "FIRMA ELLECTRONICA": "IVÁN TOVAR GUERRA - 1949236732",
+            "AL PIE DE LA FIRMA": "IVÁN TOVAR GUERRA - 1949236732"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IVÁN TOVAR GUERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1949236732",
+            "NOMBRES": "IVÁN TOVAR GUERRA",
+            "SALARIO": "1.211.640",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1949236732",
+            "NOMBRES": "IVÁN TOVAR GUERRA",
+            "RECOMPRA O DESEMBOLSO": "1.020.905"
+        }
+    }
+]

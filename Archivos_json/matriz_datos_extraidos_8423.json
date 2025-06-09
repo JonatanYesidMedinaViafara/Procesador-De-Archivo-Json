@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "172158075680",
+            "SOLICITUD": "8288790",
+            "CEDULA": "1234511589",
+            "NOMBRES": "KATHERINE GAITÁN CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "2.532.805",
+            "FIRMA ELLECTRONICA": "KATHERINE GAITÁN CASTELLANOS - 1234511589"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "172158075680",
+            "NOMBRES": "KATHERINE GAITÁN CASTELLANOS",
+            "CREDITO": "12.106.368",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "395.155",
+            "FIRMA ELLECTRONICA": "KATHERINE GAITÁN CASTELLANOS - 1234511589",
+            "AL PIE DE LA FIRMA": "KATHERINE GAITÁN CASTELLANOS - 1234511589"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1234511589",
+            "NOMBRES": "KATHERINE GAITÁN CASTELLANOS",
+            "FECHA NACIMIENTO": "20/02/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.106.368",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "KATHERINE GAITÁN CASTELLANOS - 1234511589",
+            "AL PIE DE LA FIRMA": "KATHERINE GAITÁN CASTELLANOS - 1234511589"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8288790",
+            "CEDULA": "1234511589",
+            "NOMBRES": "KATHERINE GAITÁN CASTELLANOS",
+            "CREDITO": "12.106.368",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "395.155",
+            "E.A": "21.63%",
+            "RECOMPRA O DESEMBOLSO": "2.532.805",
+            "FIRMA ELLECTRONICA": "KATHERINE GAITÁN CASTELLANOS - 1234511589"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1234511589",
+            "NOMBRES": "KATHERINE GAITÁN CASTELLANOS",
+            "FIRMA ELLECTRONICA": "KATHERINE GAITÁN CASTELLANOS - 1234511589"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1234511589",
+            "NOMBRES": "KATHERINE GAITÁN CASTELLANOS",
+            "FIRMA ELLECTRONICA": "KATHERINE GAITÁN CASTELLANOS - 1234511589",
+            "AL PIE DE LA FIRMA": "KATHERINE GAITÁN CASTELLANOS - 1234511589"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "KATHERINE GAITÁN CASTELLANOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1234511589",
+            "NOMBRES": "KATHERINE GAITÁN CASTELLANOS",
+            "SALARIO": "2.281.450",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1234511589",
+            "NOMBRES": "KATHERINE GAITÁN CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "2.532.805"
+        }
+    }
+]

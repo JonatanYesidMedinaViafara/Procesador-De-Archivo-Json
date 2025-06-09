@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "224534611586",
+            "SOLICITUD": "2740143",
+            "CEDULA": "1393717754",
+            "NOMBRES": "ANDRÉS DELGADO QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.002.669",
+            "FIRMA ELLECTRONICA": "ANDRÉS DELGADO QUINTERO - 1393717754"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "224534611586",
+            "NOMBRES": "ANDRÉS DELGADO QUINTERO",
+            "CREDITO": "10.789.215",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "120.358",
+            "FIRMA ELLECTRONICA": "ANDRÉS DELGADO QUINTERO - 1393717754",
+            "AL PIE DE LA FIRMA": "ANDRÉS DELGADO QUINTERO - 1393717754"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1393717754",
+            "NOMBRES": "ANDRÉS DELGADO QUINTERO",
+            "FECHA NACIMIENTO": "30/10/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.789.215",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS DELGADO QUINTERO - 1393717754",
+            "AL PIE DE LA FIRMA": "ANDRÉS DELGADO QUINTERO - 1393717754"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2740143",
+            "CEDULA": "1393717754",
+            "NOMBRES": "ANDRÉS DELGADO QUINTERO",
+            "CREDITO": "10.789.215",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "120.358",
+            "E.A": "20.8%",
+            "RECOMPRA O DESEMBOLSO": "1.002.669",
+            "FIRMA ELLECTRONICA": "ANDRÉS DELGADO QUINTERO - 1393717754"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1393717754",
+            "NOMBRES": "ANDRÉS DELGADO QUINTERO",
+            "FIRMA ELLECTRONICA": "ANDRÉS DELGADO QUINTERO - 1393717754"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1393717754",
+            "NOMBRES": "ANDRÉS DELGADO QUINTERO",
+            "FIRMA ELLECTRONICA": "ANDRÉS DELGADO QUINTERO - 1393717754",
+            "AL PIE DE LA FIRMA": "ANDRÉS DELGADO QUINTERO - 1393717754"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS DELGADO QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1393717754",
+            "NOMBRES": "ANDRÉS DELGADO QUINTERO",
+            "SALARIO": "4.363.939",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1393717754",
+            "NOMBRES": "ANDRÉS DELGADO QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.002.669"
+        }
+    }
+]

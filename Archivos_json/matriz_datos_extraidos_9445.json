@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "329026491369",
+            "SOLICITUD": "8841545",
+            "CEDULA": "1214622669",
+            "NOMBRES": "MARÍA LILIANA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.575.159",
+            "FIRMA ELLECTRONICA": "MARÍA LILIANA GÓMEZ - 1214622669"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "329026491369",
+            "NOMBRES": "MARÍA LILIANA GÓMEZ",
+            "CREDITO": "15.513.500",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "342.352",
+            "FIRMA ELLECTRONICA": "MARÍA LILIANA GÓMEZ - 1214622669",
+            "AL PIE DE LA FIRMA": "MARÍA LILIANA GÓMEZ - 1214622669"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1214622669",
+            "NOMBRES": "MARÍA LILIANA GÓMEZ",
+            "FECHA NACIMIENTO": "23/03/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.513.500",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA LILIANA GÓMEZ - 1214622669",
+            "AL PIE DE LA FIRMA": "MARÍA LILIANA GÓMEZ - 1214622669"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8841545",
+            "CEDULA": "1214622669",
+            "NOMBRES": "MARÍA LILIANA GÓMEZ",
+            "CREDITO": "15.513.500",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "342.352",
+            "E.A": "19.39%",
+            "RECOMPRA O DESEMBOLSO": "1.575.159",
+            "FIRMA ELLECTRONICA": "MARÍA LILIANA GÓMEZ - 1214622669"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1214622669",
+            "NOMBRES": "MARÍA LILIANA GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARÍA LILIANA GÓMEZ - 1214622669"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1214622669",
+            "NOMBRES": "MARÍA LILIANA GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARÍA LILIANA GÓMEZ - 1214622669",
+            "AL PIE DE LA FIRMA": "MARÍA LILIANA GÓMEZ - 1214622669"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LILIANA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1214622669",
+            "NOMBRES": "MARÍA LILIANA GÓMEZ",
+            "SALARIO": "2.297.734",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1214622669",
+            "NOMBRES": "MARÍA LILIANA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.575.159"
+        }
+    }
+]

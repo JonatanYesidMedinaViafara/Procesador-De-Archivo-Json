@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "209964985321",
+            "SOLICITUD": "5227452",
+            "CEDULA": "1042671915",
+            "NOMBRES": "LUIS PÉREZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.527.202",
+            "FIRMA ELLECTRONICA": "LUIS PÉREZ MUÑOZ - 1042671915"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "209964985321",
+            "NOMBRES": "LUIS PÉREZ MUÑOZ",
+            "CREDITO": "9.958.822",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "127.13",
+            "FIRMA ELLECTRONICA": "LUIS PÉREZ MUÑOZ - 1042671915",
+            "AL PIE DE LA FIRMA": "LUIS PÉREZ MUÑOZ - 1042671915"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1042671915",
+            "NOMBRES": "LUIS PÉREZ MUÑOZ",
+            "FECHA NACIMIENTO": "27/07/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.958.822",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS PÉREZ MUÑOZ - 1042671915",
+            "AL PIE DE LA FIRMA": "LUIS PÉREZ MUÑOZ - 1042671915"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5227452",
+            "CEDULA": "1042671915",
+            "NOMBRES": "LUIS PÉREZ MUÑOZ",
+            "CREDITO": "9.958.822",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "127.13",
+            "E.A": "21.28%",
+            "RECOMPRA O DESEMBOLSO": "4.527.202",
+            "FIRMA ELLECTRONICA": "LUIS PÉREZ MUÑOZ - 1042671915"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1042671915",
+            "NOMBRES": "LUIS PÉREZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "LUIS PÉREZ MUÑOZ - 1042671915"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1042671915",
+            "NOMBRES": "LUIS PÉREZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "LUIS PÉREZ MUÑOZ - 1042671915",
+            "AL PIE DE LA FIRMA": "LUIS PÉREZ MUÑOZ - 1042671915"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS PÉREZ MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1042671915",
+            "NOMBRES": "LUIS PÉREZ MUÑOZ",
+            "SALARIO": "3.811.117",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1042671915",
+            "NOMBRES": "LUIS PÉREZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.527.202"
+        }
+    }
+]

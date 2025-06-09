@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "832765513039",
+            "SOLICITUD": "3761905",
+            "CEDULA": "1199087847",
+            "NOMBRES": "MIRIAN MONSALVE BONILLA",
+            "RECOMPRA O DESEMBOLSO": "3.513.602",
+            "FIRMA ELLECTRONICA": "MIRIAN MONSALVE BONILLA - 1199087847"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "832765513039",
+            "NOMBRES": "MIRIAN MONSALVE BONILLA",
+            "CREDITO": "16.561.742",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "245.602",
+            "FIRMA ELLECTRONICA": "MIRIAN MONSALVE BONILLA - 1199087847",
+            "AL PIE DE LA FIRMA": "MIRIAN MONSALVE BONILLA - 1199087847"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1199087847",
+            "NOMBRES": "MIRIAN MONSALVE BONILLA",
+            "FECHA NACIMIENTO": "26/06/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.561.742",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MIRIAN MONSALVE BONILLA - 1199087847",
+            "AL PIE DE LA FIRMA": "MIRIAN MONSALVE BONILLA - 1199087847"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3761905",
+            "CEDULA": "1199087847",
+            "NOMBRES": "MIRIAN MONSALVE BONILLA",
+            "CREDITO": "16.561.742",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "245.602",
+            "E.A": "21.54%",
+            "RECOMPRA O DESEMBOLSO": "3.513.602",
+            "FIRMA ELLECTRONICA": "MIRIAN MONSALVE BONILLA - 1199087847"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1199087847",
+            "NOMBRES": "MIRIAN MONSALVE BONILLA",
+            "FIRMA ELLECTRONICA": "MIRIAN MONSALVE BONILLA - 1199087847"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1199087847",
+            "NOMBRES": "MIRIAN MONSALVE BONILLA",
+            "FIRMA ELLECTRONICA": "MIRIAN MONSALVE BONILLA - 1199087847",
+            "AL PIE DE LA FIRMA": "MIRIAN MONSALVE BONILLA - 1199087847"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIRIAN MONSALVE BONILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1199087847",
+            "NOMBRES": "MIRIAN MONSALVE BONILLA",
+            "SALARIO": "2.792.672",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1199087847",
+            "NOMBRES": "MIRIAN MONSALVE BONILLA",
+            "RECOMPRA O DESEMBOLSO": "3.513.602"
+        }
+    }
+]

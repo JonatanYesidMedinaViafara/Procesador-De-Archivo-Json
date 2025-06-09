@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "924023491685",
+            "SOLICITUD": "2254587",
+            "CEDULA": "1123323947",
+            "NOMBRES": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.821.596",
+            "FIRMA ELLECTRONICA": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA - 1123323947"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "924023491685",
+            "NOMBRES": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA",
+            "CREDITO": "12.079.756",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "371.597",
+            "FIRMA ELLECTRONICA": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA - 1123323947",
+            "AL PIE DE LA FIRMA": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA - 1123323947"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1123323947",
+            "NOMBRES": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA",
+            "FECHA NACIMIENTO": "09/06/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.079.756",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA - 1123323947",
+            "AL PIE DE LA FIRMA": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA - 1123323947"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2254587",
+            "CEDULA": "1123323947",
+            "NOMBRES": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA",
+            "CREDITO": "12.079.756",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "371.597",
+            "E.A": "24.14%",
+            "RECOMPRA O DESEMBOLSO": "2.821.596",
+            "FIRMA ELLECTRONICA": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA - 1123323947"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1123323947",
+            "NOMBRES": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA",
+            "FIRMA ELLECTRONICA": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA - 1123323947"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1123323947",
+            "NOMBRES": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA",
+            "FIRMA ELLECTRONICA": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA - 1123323947",
+            "AL PIE DE LA FIRMA": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA - 1123323947"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1123323947",
+            "NOMBRES": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA",
+            "SALARIO": "1.693.755",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1123323947",
+            "NOMBRES": "CRISTIAN ALBERTO ÁLVAREZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.821.596"
+        }
+    }
+]

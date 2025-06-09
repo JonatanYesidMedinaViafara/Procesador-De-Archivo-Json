@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "140127689690",
+            "SOLICITUD": "3515069",
+            "CEDULA": "1701231723",
+            "NOMBRES": "JOSÉ BETANCUR ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.467.610",
+            "FIRMA ELLECTRONICA": "JOSÉ BETANCUR ROMERO - 1701231723"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "140127689690",
+            "NOMBRES": "JOSÉ BETANCUR ROMERO",
+            "CREDITO": "12.086.221",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "185.419",
+            "FIRMA ELLECTRONICA": "JOSÉ BETANCUR ROMERO - 1701231723",
+            "AL PIE DE LA FIRMA": "JOSÉ BETANCUR ROMERO - 1701231723"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1701231723",
+            "NOMBRES": "JOSÉ BETANCUR ROMERO",
+            "FECHA NACIMIENTO": "15/02/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.086.221",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ BETANCUR ROMERO - 1701231723",
+            "AL PIE DE LA FIRMA": "JOSÉ BETANCUR ROMERO - 1701231723"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3515069",
+            "CEDULA": "1701231723",
+            "NOMBRES": "JOSÉ BETANCUR ROMERO",
+            "CREDITO": "12.086.221",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "185.419",
+            "E.A": "21.65%",
+            "RECOMPRA O DESEMBOLSO": "1.467.610",
+            "FIRMA ELLECTRONICA": "JOSÉ BETANCUR ROMERO - 1701231723"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1701231723",
+            "NOMBRES": "JOSÉ BETANCUR ROMERO",
+            "FIRMA ELLECTRONICA": "JOSÉ BETANCUR ROMERO - 1701231723"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1701231723",
+            "NOMBRES": "JOSÉ BETANCUR ROMERO",
+            "FIRMA ELLECTRONICA": "JOSÉ BETANCUR ROMERO - 1701231723",
+            "AL PIE DE LA FIRMA": "JOSÉ BETANCUR ROMERO - 1701231723"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ BETANCUR ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1701231723",
+            "NOMBRES": "JOSÉ BETANCUR ROMERO",
+            "SALARIO": "1.233.085",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1701231723",
+            "NOMBRES": "JOSÉ BETANCUR ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.467.610"
+        }
+    }
+]

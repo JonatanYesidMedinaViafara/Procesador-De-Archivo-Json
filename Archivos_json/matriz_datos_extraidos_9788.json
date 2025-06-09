@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "163466091353",
+            "SOLICITUD": "4511539",
+            "CEDULA": "1491572038",
+            "NOMBRES": "JIMMY PERDOMO",
+            "RECOMPRA O DESEMBOLSO": "3.653.309",
+            "FIRMA ELLECTRONICA": "JIMMY PERDOMO - 1491572038"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "163466091353",
+            "NOMBRES": "JIMMY PERDOMO",
+            "CREDITO": "6.122.609",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "384.827",
+            "FIRMA ELLECTRONICA": "JIMMY PERDOMO - 1491572038",
+            "AL PIE DE LA FIRMA": "JIMMY PERDOMO - 1491572038"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1491572038",
+            "NOMBRES": "JIMMY PERDOMO",
+            "FECHA NACIMIENTO": "07/07/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.122.609",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JIMMY PERDOMO - 1491572038",
+            "AL PIE DE LA FIRMA": "JIMMY PERDOMO - 1491572038"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4511539",
+            "CEDULA": "1491572038",
+            "NOMBRES": "JIMMY PERDOMO",
+            "CREDITO": "6.122.609",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "384.827",
+            "E.A": "23.87%",
+            "RECOMPRA O DESEMBOLSO": "3.653.309",
+            "FIRMA ELLECTRONICA": "JIMMY PERDOMO - 1491572038"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1491572038",
+            "NOMBRES": "JIMMY PERDOMO",
+            "FIRMA ELLECTRONICA": "JIMMY PERDOMO - 1491572038"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1491572038",
+            "NOMBRES": "JIMMY PERDOMO",
+            "FIRMA ELLECTRONICA": "JIMMY PERDOMO - 1491572038",
+            "AL PIE DE LA FIRMA": "JIMMY PERDOMO - 1491572038"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JIMMY PERDOMO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1491572038",
+            "NOMBRES": "JIMMY PERDOMO",
+            "SALARIO": "4.790.844",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1491572038",
+            "NOMBRES": "JIMMY PERDOMO",
+            "RECOMPRA O DESEMBOLSO": "3.653.309"
+        }
+    }
+]

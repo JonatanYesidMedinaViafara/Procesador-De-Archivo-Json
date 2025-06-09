@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "923156969947",
+            "SOLICITUD": "7574525",
+            "CEDULA": "1384001882",
+            "NOMBRES": "ÁNGELA BONILLA",
+            "RECOMPRA O DESEMBOLSO": "3.798.829",
+            "FIRMA ELLECTRONICA": "ÁNGELA BONILLA - 1384001882"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "923156969947",
+            "NOMBRES": "ÁNGELA BONILLA",
+            "CREDITO": "7.909.802",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "167.514",
+            "FIRMA ELLECTRONICA": "ÁNGELA BONILLA - 1384001882",
+            "AL PIE DE LA FIRMA": "ÁNGELA BONILLA - 1384001882"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1384001882",
+            "NOMBRES": "ÁNGELA BONILLA",
+            "FECHA NACIMIENTO": "20/01/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.909.802",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ÁNGELA BONILLA - 1384001882",
+            "AL PIE DE LA FIRMA": "ÁNGELA BONILLA - 1384001882"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7574525",
+            "CEDULA": "1384001882",
+            "NOMBRES": "ÁNGELA BONILLA",
+            "CREDITO": "7.909.802",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "167.514",
+            "E.A": "19.39%",
+            "RECOMPRA O DESEMBOLSO": "3.798.829",
+            "FIRMA ELLECTRONICA": "ÁNGELA BONILLA - 1384001882"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1384001882",
+            "NOMBRES": "ÁNGELA BONILLA",
+            "FIRMA ELLECTRONICA": "ÁNGELA BONILLA - 1384001882"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1384001882",
+            "NOMBRES": "ÁNGELA BONILLA",
+            "FIRMA ELLECTRONICA": "ÁNGELA BONILLA - 1384001882",
+            "AL PIE DE LA FIRMA": "ÁNGELA BONILLA - 1384001882"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGELA BONILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1384001882",
+            "NOMBRES": "ÁNGELA BONILLA",
+            "SALARIO": "2.082.118",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1384001882",
+            "NOMBRES": "ÁNGELA BONILLA",
+            "RECOMPRA O DESEMBOLSO": "3.798.829"
+        }
+    }
+]

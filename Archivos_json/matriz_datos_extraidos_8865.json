@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "368075100848",
+            "SOLICITUD": "4673284",
+            "CEDULA": "1033449175",
+            "NOMBRES": "JESÚS MENA OSPINA",
+            "RECOMPRA O DESEMBOLSO": "2.117.227",
+            "FIRMA ELLECTRONICA": "JESÚS MENA OSPINA - 1033449175"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "368075100848",
+            "NOMBRES": "JESÚS MENA OSPINA",
+            "CREDITO": "12.436.766",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "135.288",
+            "FIRMA ELLECTRONICA": "JESÚS MENA OSPINA - 1033449175",
+            "AL PIE DE LA FIRMA": "JESÚS MENA OSPINA - 1033449175"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1033449175",
+            "NOMBRES": "JESÚS MENA OSPINA",
+            "FECHA NACIMIENTO": "03/07/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.436.766",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JESÚS MENA OSPINA - 1033449175",
+            "AL PIE DE LA FIRMA": "JESÚS MENA OSPINA - 1033449175"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4673284",
+            "CEDULA": "1033449175",
+            "NOMBRES": "JESÚS MENA OSPINA",
+            "CREDITO": "12.436.766",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "135.288",
+            "E.A": "22.87%",
+            "RECOMPRA O DESEMBOLSO": "2.117.227",
+            "FIRMA ELLECTRONICA": "JESÚS MENA OSPINA - 1033449175"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1033449175",
+            "NOMBRES": "JESÚS MENA OSPINA",
+            "FIRMA ELLECTRONICA": "JESÚS MENA OSPINA - 1033449175"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1033449175",
+            "NOMBRES": "JESÚS MENA OSPINA",
+            "FIRMA ELLECTRONICA": "JESÚS MENA OSPINA - 1033449175",
+            "AL PIE DE LA FIRMA": "JESÚS MENA OSPINA - 1033449175"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS MENA OSPINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1033449175",
+            "NOMBRES": "JESÚS MENA OSPINA",
+            "SALARIO": "4.164.537",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1033449175",
+            "NOMBRES": "JESÚS MENA OSPINA",
+            "RECOMPRA O DESEMBOLSO": "2.117.227"
+        }
+    }
+]

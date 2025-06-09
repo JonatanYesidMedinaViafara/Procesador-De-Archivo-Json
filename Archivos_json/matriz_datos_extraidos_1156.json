@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "469527441426",
+            "SOLICITUD": "1674288",
+            "CEDULA": "1915760910",
+            "NOMBRES": "ÁNGEL CABRERA",
+            "RECOMPRA O DESEMBOLSO": "4.925.000",
+            "FIRMA ELLECTRONICA": "ÁNGEL CABRERA - 1915760910"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "469527441426",
+            "NOMBRES": "ÁNGEL CABRERA",
+            "CREDITO": "15.808.215",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "276.831",
+            "FIRMA ELLECTRONICA": "ÁNGEL CABRERA - 1915760910",
+            "AL PIE DE LA FIRMA": "ÁNGEL CABRERA - 1915760910"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1915760910",
+            "NOMBRES": "ÁNGEL CABRERA",
+            "FECHA NACIMIENTO": "12/01/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.808.215",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ÁNGEL CABRERA - 1915760910",
+            "AL PIE DE LA FIRMA": "ÁNGEL CABRERA - 1915760910"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1674288",
+            "CEDULA": "1915760910",
+            "NOMBRES": "ÁNGEL CABRERA",
+            "CREDITO": "15.808.215",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "276.831",
+            "E.A": "24.9%",
+            "RECOMPRA O DESEMBOLSO": "4.925.000",
+            "FIRMA ELLECTRONICA": "ÁNGEL CABRERA - 1915760910"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1915760910",
+            "NOMBRES": "ÁNGEL CABRERA",
+            "FIRMA ELLECTRONICA": "ÁNGEL CABRERA - 1915760910"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1915760910",
+            "NOMBRES": "ÁNGEL CABRERA",
+            "FIRMA ELLECTRONICA": "ÁNGEL CABRERA - 1915760910",
+            "AL PIE DE LA FIRMA": "ÁNGEL CABRERA - 1915760910"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL CABRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1915760910",
+            "NOMBRES": "ÁNGEL CABRERA",
+            "SALARIO": "1.253.527",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1915760910",
+            "NOMBRES": "ÁNGEL CABRERA",
+            "RECOMPRA O DESEMBOLSO": "4.925.000"
+        }
+    }
+]

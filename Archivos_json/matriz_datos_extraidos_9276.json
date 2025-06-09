@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "784559044681",
+            "SOLICITUD": "5305121",
+            "CEDULA": "1821507134",
+            "NOMBRES": "CARLOS RUIZ ARRIETA",
+            "RECOMPRA O DESEMBOLSO": "1.811.257",
+            "FIRMA ELLECTRONICA": "CARLOS RUIZ ARRIETA - 1821507134"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "784559044681",
+            "NOMBRES": "CARLOS RUIZ ARRIETA",
+            "CREDITO": "12.782.404",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "208.478",
+            "FIRMA ELLECTRONICA": "CARLOS RUIZ ARRIETA - 1821507134",
+            "AL PIE DE LA FIRMA": "CARLOS RUIZ ARRIETA - 1821507134"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1821507134",
+            "NOMBRES": "CARLOS RUIZ ARRIETA",
+            "FECHA NACIMIENTO": "15/07/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.782.404",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS RUIZ ARRIETA - 1821507134",
+            "AL PIE DE LA FIRMA": "CARLOS RUIZ ARRIETA - 1821507134"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5305121",
+            "CEDULA": "1821507134",
+            "NOMBRES": "CARLOS RUIZ ARRIETA",
+            "CREDITO": "12.782.404",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "208.478",
+            "E.A": "21.04%",
+            "RECOMPRA O DESEMBOLSO": "1.811.257",
+            "FIRMA ELLECTRONICA": "CARLOS RUIZ ARRIETA - 1821507134"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1821507134",
+            "NOMBRES": "CARLOS RUIZ ARRIETA",
+            "FIRMA ELLECTRONICA": "CARLOS RUIZ ARRIETA - 1821507134"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1821507134",
+            "NOMBRES": "CARLOS RUIZ ARRIETA",
+            "FIRMA ELLECTRONICA": "CARLOS RUIZ ARRIETA - 1821507134",
+            "AL PIE DE LA FIRMA": "CARLOS RUIZ ARRIETA - 1821507134"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS RUIZ ARRIETA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1821507134",
+            "NOMBRES": "CARLOS RUIZ ARRIETA",
+            "SALARIO": "1.358.176",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1821507134",
+            "NOMBRES": "CARLOS RUIZ ARRIETA",
+            "RECOMPRA O DESEMBOLSO": "1.811.257"
+        }
+    }
+]

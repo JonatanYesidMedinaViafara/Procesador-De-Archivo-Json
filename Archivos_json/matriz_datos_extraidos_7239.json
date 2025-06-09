@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "271275264881",
+            "SOLICITUD": "6242282",
+            "CEDULA": "1193346602",
+            "NOMBRES": "ESTHER GONZÁLES",
+            "RECOMPRA O DESEMBOLSO": "3.987.230",
+            "FIRMA ELLECTRONICA": "ESTHER GONZÁLES - 1193346602"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "271275264881",
+            "NOMBRES": "ESTHER GONZÁLES",
+            "CREDITO": "15.888.683",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "239.222",
+            "FIRMA ELLECTRONICA": "ESTHER GONZÁLES - 1193346602",
+            "AL PIE DE LA FIRMA": "ESTHER GONZÁLES - 1193346602"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1193346602",
+            "NOMBRES": "ESTHER GONZÁLES",
+            "FECHA NACIMIENTO": "11/10/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.888.683",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ESTHER GONZÁLES - 1193346602",
+            "AL PIE DE LA FIRMA": "ESTHER GONZÁLES - 1193346602"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6242282",
+            "CEDULA": "1193346602",
+            "NOMBRES": "ESTHER GONZÁLES",
+            "CREDITO": "15.888.683",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "239.222",
+            "E.A": "24.02%",
+            "RECOMPRA O DESEMBOLSO": "3.987.230",
+            "FIRMA ELLECTRONICA": "ESTHER GONZÁLES - 1193346602"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1193346602",
+            "NOMBRES": "ESTHER GONZÁLES",
+            "FIRMA ELLECTRONICA": "ESTHER GONZÁLES - 1193346602"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1193346602",
+            "NOMBRES": "ESTHER GONZÁLES",
+            "FIRMA ELLECTRONICA": "ESTHER GONZÁLES - 1193346602",
+            "AL PIE DE LA FIRMA": "ESTHER GONZÁLES - 1193346602"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTHER GONZÁLES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1193346602",
+            "NOMBRES": "ESTHER GONZÁLES",
+            "SALARIO": "3.769.860",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1193346602",
+            "NOMBRES": "ESTHER GONZÁLES",
+            "RECOMPRA O DESEMBOLSO": "3.987.230"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "537358085978",
+            "SOLICITUD": "9422803",
+            "CEDULA": "1414400390",
+            "NOMBRES": "RAFAEL GERMÁN MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.086.568",
+            "FIRMA ELLECTRONICA": "RAFAEL GERMÁN MARTÍNEZ - 1414400390"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "537358085978",
+            "NOMBRES": "RAFAEL GERMÁN MARTÍNEZ",
+            "CREDITO": "17.144.943",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "349.05",
+            "FIRMA ELLECTRONICA": "RAFAEL GERMÁN MARTÍNEZ - 1414400390",
+            "AL PIE DE LA FIRMA": "RAFAEL GERMÁN MARTÍNEZ - 1414400390"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1414400390",
+            "NOMBRES": "RAFAEL GERMÁN MARTÍNEZ",
+            "FECHA NACIMIENTO": "13/03/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.144.943",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "RAFAEL GERMÁN MARTÍNEZ - 1414400390",
+            "AL PIE DE LA FIRMA": "RAFAEL GERMÁN MARTÍNEZ - 1414400390"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9422803",
+            "CEDULA": "1414400390",
+            "NOMBRES": "RAFAEL GERMÁN MARTÍNEZ",
+            "CREDITO": "17.144.943",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "349.05",
+            "E.A": "28.11%",
+            "RECOMPRA O DESEMBOLSO": "3.086.568",
+            "FIRMA ELLECTRONICA": "RAFAEL GERMÁN MARTÍNEZ - 1414400390"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1414400390",
+            "NOMBRES": "RAFAEL GERMÁN MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "RAFAEL GERMÁN MARTÍNEZ - 1414400390"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1414400390",
+            "NOMBRES": "RAFAEL GERMÁN MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "RAFAEL GERMÁN MARTÍNEZ - 1414400390",
+            "AL PIE DE LA FIRMA": "RAFAEL GERMÁN MARTÍNEZ - 1414400390"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL GERMÁN MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1414400390",
+            "NOMBRES": "RAFAEL GERMÁN MARTÍNEZ",
+            "SALARIO": "2.043.819",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1414400390",
+            "NOMBRES": "RAFAEL GERMÁN MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.086.568"
+        }
+    }
+]

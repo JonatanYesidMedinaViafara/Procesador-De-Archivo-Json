@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "921165576312",
+            "SOLICITUD": "4460333",
+            "CEDULA": "1720449148",
+            "NOMBRES": "VALENTINA MÓNICA NIETO",
+            "RECOMPRA O DESEMBOLSO": "3.446.889",
+            "FIRMA ELLECTRONICA": "VALENTINA MÓNICA NIETO - 1720449148"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "921165576312",
+            "NOMBRES": "VALENTINA MÓNICA NIETO",
+            "CREDITO": "16.640.905",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "101.174",
+            "FIRMA ELLECTRONICA": "VALENTINA MÓNICA NIETO - 1720449148",
+            "AL PIE DE LA FIRMA": "VALENTINA MÓNICA NIETO - 1720449148"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1720449148",
+            "NOMBRES": "VALENTINA MÓNICA NIETO",
+            "FECHA NACIMIENTO": "03/01/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.640.905",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "VALENTINA MÓNICA NIETO - 1720449148",
+            "AL PIE DE LA FIRMA": "VALENTINA MÓNICA NIETO - 1720449148"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4460333",
+            "CEDULA": "1720449148",
+            "NOMBRES": "VALENTINA MÓNICA NIETO",
+            "CREDITO": "16.640.905",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "101.174",
+            "E.A": "22.51%",
+            "RECOMPRA O DESEMBOLSO": "3.446.889",
+            "FIRMA ELLECTRONICA": "VALENTINA MÓNICA NIETO - 1720449148"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1720449148",
+            "NOMBRES": "VALENTINA MÓNICA NIETO",
+            "FIRMA ELLECTRONICA": "VALENTINA MÓNICA NIETO - 1720449148"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1720449148",
+            "NOMBRES": "VALENTINA MÓNICA NIETO",
+            "FIRMA ELLECTRONICA": "VALENTINA MÓNICA NIETO - 1720449148",
+            "AL PIE DE LA FIRMA": "VALENTINA MÓNICA NIETO - 1720449148"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VALENTINA MÓNICA NIETO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1720449148",
+            "NOMBRES": "VALENTINA MÓNICA NIETO",
+            "SALARIO": "4.332.095",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1720449148",
+            "NOMBRES": "VALENTINA MÓNICA NIETO",
+            "RECOMPRA O DESEMBOLSO": "3.446.889"
+        }
+    }
+]

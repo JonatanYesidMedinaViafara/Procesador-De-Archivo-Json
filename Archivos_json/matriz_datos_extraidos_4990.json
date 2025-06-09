@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "544547301123",
+            "SOLICITUD": "4968942",
+            "CEDULA": "1032823033",
+            "NOMBRES": "ANGIE MARÍA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.613.089",
+            "FIRMA ELLECTRONICA": "ANGIE MARÍA GÓMEZ - 1032823033"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "544547301123",
+            "NOMBRES": "ANGIE MARÍA GÓMEZ",
+            "CREDITO": "11.604.727",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "379.759",
+            "FIRMA ELLECTRONICA": "ANGIE MARÍA GÓMEZ - 1032823033",
+            "AL PIE DE LA FIRMA": "ANGIE MARÍA GÓMEZ - 1032823033"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1032823033",
+            "NOMBRES": "ANGIE MARÍA GÓMEZ",
+            "FECHA NACIMIENTO": "20/10/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.604.727",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANGIE MARÍA GÓMEZ - 1032823033",
+            "AL PIE DE LA FIRMA": "ANGIE MARÍA GÓMEZ - 1032823033"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4968942",
+            "CEDULA": "1032823033",
+            "NOMBRES": "ANGIE MARÍA GÓMEZ",
+            "CREDITO": "11.604.727",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "379.759",
+            "E.A": "21.58%",
+            "RECOMPRA O DESEMBOLSO": "2.613.089",
+            "FIRMA ELLECTRONICA": "ANGIE MARÍA GÓMEZ - 1032823033"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1032823033",
+            "NOMBRES": "ANGIE MARÍA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANGIE MARÍA GÓMEZ - 1032823033"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1032823033",
+            "NOMBRES": "ANGIE MARÍA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANGIE MARÍA GÓMEZ - 1032823033",
+            "AL PIE DE LA FIRMA": "ANGIE MARÍA GÓMEZ - 1032823033"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANGIE MARÍA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1032823033",
+            "NOMBRES": "ANGIE MARÍA GÓMEZ",
+            "SALARIO": "1.037.359",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1032823033",
+            "NOMBRES": "ANGIE MARÍA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.613.089"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "704003062697",
+            "SOLICITUD": "1730996",
+            "CEDULA": "1927677820",
+            "NOMBRES": "DAVID VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.088.539",
+            "FIRMA ELLECTRONICA": "DAVID VALENCIA - 1927677820"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "704003062697",
+            "NOMBRES": "DAVID VALENCIA",
+            "CREDITO": "9.049.861",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.258",
+            "FIRMA ELLECTRONICA": "DAVID VALENCIA - 1927677820",
+            "AL PIE DE LA FIRMA": "DAVID VALENCIA - 1927677820"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1927677820",
+            "NOMBRES": "DAVID VALENCIA",
+            "FECHA NACIMIENTO": "01/12/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.049.861",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DAVID VALENCIA - 1927677820",
+            "AL PIE DE LA FIRMA": "DAVID VALENCIA - 1927677820"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1730996",
+            "CEDULA": "1927677820",
+            "NOMBRES": "DAVID VALENCIA",
+            "CREDITO": "9.049.861",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.258",
+            "E.A": "23.32%",
+            "RECOMPRA O DESEMBOLSO": "2.088.539",
+            "FIRMA ELLECTRONICA": "DAVID VALENCIA - 1927677820"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1927677820",
+            "NOMBRES": "DAVID VALENCIA",
+            "FIRMA ELLECTRONICA": "DAVID VALENCIA - 1927677820"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1927677820",
+            "NOMBRES": "DAVID VALENCIA",
+            "FIRMA ELLECTRONICA": "DAVID VALENCIA - 1927677820",
+            "AL PIE DE LA FIRMA": "DAVID VALENCIA - 1927677820"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1927677820",
+            "NOMBRES": "DAVID VALENCIA",
+            "SALARIO": "1.853.904",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1927677820",
+            "NOMBRES": "DAVID VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.088.539"
+        }
+    }
+]

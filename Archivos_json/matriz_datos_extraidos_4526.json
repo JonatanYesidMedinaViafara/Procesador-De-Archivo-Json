@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "514556146252",
+            "SOLICITUD": "3662349",
+            "CEDULA": "1257642201",
+            "NOMBRES": "ALBERTO GONZALO JIMÉNEZ GONZÁLES",
+            "RECOMPRA O DESEMBOLSO": "4.946.679",
+            "FIRMA ELLECTRONICA": "ALBERTO GONZALO JIMÉNEZ GONZÁLES - 1257642201"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "514556146252",
+            "NOMBRES": "ALBERTO GONZALO JIMÉNEZ GONZÁLES",
+            "CREDITO": "9.049.481",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "340.625",
+            "FIRMA ELLECTRONICA": "ALBERTO GONZALO JIMÉNEZ GONZÁLES - 1257642201",
+            "AL PIE DE LA FIRMA": "ALBERTO GONZALO JIMÉNEZ GONZÁLES - 1257642201"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1257642201",
+            "NOMBRES": "ALBERTO GONZALO JIMÉNEZ GONZÁLES",
+            "FECHA NACIMIENTO": "20/02/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.049.481",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBERTO GONZALO JIMÉNEZ GONZÁLES - 1257642201",
+            "AL PIE DE LA FIRMA": "ALBERTO GONZALO JIMÉNEZ GONZÁLES - 1257642201"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3662349",
+            "CEDULA": "1257642201",
+            "NOMBRES": "ALBERTO GONZALO JIMÉNEZ GONZÁLES",
+            "CREDITO": "9.049.481",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "340.625",
+            "E.A": "25.18%",
+            "RECOMPRA O DESEMBOLSO": "4.946.679",
+            "FIRMA ELLECTRONICA": "ALBERTO GONZALO JIMÉNEZ GONZÁLES - 1257642201"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1257642201",
+            "NOMBRES": "ALBERTO GONZALO JIMÉNEZ GONZÁLES",
+            "FIRMA ELLECTRONICA": "ALBERTO GONZALO JIMÉNEZ GONZÁLES - 1257642201"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1257642201",
+            "NOMBRES": "ALBERTO GONZALO JIMÉNEZ GONZÁLES",
+            "FIRMA ELLECTRONICA": "ALBERTO GONZALO JIMÉNEZ GONZÁLES - 1257642201",
+            "AL PIE DE LA FIRMA": "ALBERTO GONZALO JIMÉNEZ GONZÁLES - 1257642201"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO GONZALO JIMÉNEZ GONZÁLES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1257642201",
+            "NOMBRES": "ALBERTO GONZALO JIMÉNEZ GONZÁLES",
+            "SALARIO": "4.593.756",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1257642201",
+            "NOMBRES": "ALBERTO GONZALO JIMÉNEZ GONZÁLES",
+            "RECOMPRA O DESEMBOLSO": "4.946.679"
+        }
+    }
+]

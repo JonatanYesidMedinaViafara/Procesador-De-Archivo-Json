@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "830583792486",
+            "SOLICITUD": "4264613",
+            "CEDULA": "1488351304",
+            "NOMBRES": "JORGE EMERSON RODRÍGUEZ GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "1.511.786",
+            "FIRMA ELLECTRONICA": "JORGE EMERSON RODRÍGUEZ GARZÓN - 1488351304"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "830583792486",
+            "NOMBRES": "JORGE EMERSON RODRÍGUEZ GARZÓN",
+            "CREDITO": "12.101.841",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "111.49",
+            "FIRMA ELLECTRONICA": "JORGE EMERSON RODRÍGUEZ GARZÓN - 1488351304",
+            "AL PIE DE LA FIRMA": "JORGE EMERSON RODRÍGUEZ GARZÓN - 1488351304"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1488351304",
+            "NOMBRES": "JORGE EMERSON RODRÍGUEZ GARZÓN",
+            "FECHA NACIMIENTO": "15/07/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.101.841",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JORGE EMERSON RODRÍGUEZ GARZÓN - 1488351304",
+            "AL PIE DE LA FIRMA": "JORGE EMERSON RODRÍGUEZ GARZÓN - 1488351304"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4264613",
+            "CEDULA": "1488351304",
+            "NOMBRES": "JORGE EMERSON RODRÍGUEZ GARZÓN",
+            "CREDITO": "12.101.841",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "111.49",
+            "E.A": "18.59%",
+            "RECOMPRA O DESEMBOLSO": "1.511.786",
+            "FIRMA ELLECTRONICA": "JORGE EMERSON RODRÍGUEZ GARZÓN - 1488351304"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1488351304",
+            "NOMBRES": "JORGE EMERSON RODRÍGUEZ GARZÓN",
+            "FIRMA ELLECTRONICA": "JORGE EMERSON RODRÍGUEZ GARZÓN - 1488351304"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1488351304",
+            "NOMBRES": "JORGE EMERSON RODRÍGUEZ GARZÓN",
+            "FIRMA ELLECTRONICA": "JORGE EMERSON RODRÍGUEZ GARZÓN - 1488351304",
+            "AL PIE DE LA FIRMA": "JORGE EMERSON RODRÍGUEZ GARZÓN - 1488351304"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE EMERSON RODRÍGUEZ GARZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1488351304",
+            "NOMBRES": "JORGE EMERSON RODRÍGUEZ GARZÓN",
+            "SALARIO": "1.200.278",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1488351304",
+            "NOMBRES": "JORGE EMERSON RODRÍGUEZ GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "1.511.786"
+        }
+    }
+]

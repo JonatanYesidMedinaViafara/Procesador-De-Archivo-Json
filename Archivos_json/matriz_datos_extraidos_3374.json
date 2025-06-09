@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "762919500814",
+            "SOLICITUD": "2854776",
+            "CEDULA": "1589534713",
+            "NOMBRES": "RAFAEL HERRERA",
+            "RECOMPRA O DESEMBOLSO": "4.009.041",
+            "FIRMA ELLECTRONICA": "RAFAEL HERRERA - 1589534713"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "762919500814",
+            "NOMBRES": "RAFAEL HERRERA",
+            "CREDITO": "16.511.062",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "309.398",
+            "FIRMA ELLECTRONICA": "RAFAEL HERRERA - 1589534713",
+            "AL PIE DE LA FIRMA": "RAFAEL HERRERA - 1589534713"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1589534713",
+            "NOMBRES": "RAFAEL HERRERA",
+            "FECHA NACIMIENTO": "15/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.511.062",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "RAFAEL HERRERA - 1589534713",
+            "AL PIE DE LA FIRMA": "RAFAEL HERRERA - 1589534713"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2854776",
+            "CEDULA": "1589534713",
+            "NOMBRES": "RAFAEL HERRERA",
+            "CREDITO": "16.511.062",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "309.398",
+            "E.A": "28.21%",
+            "RECOMPRA O DESEMBOLSO": "4.009.041",
+            "FIRMA ELLECTRONICA": "RAFAEL HERRERA - 1589534713"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1589534713",
+            "NOMBRES": "RAFAEL HERRERA",
+            "FIRMA ELLECTRONICA": "RAFAEL HERRERA - 1589534713"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1589534713",
+            "NOMBRES": "RAFAEL HERRERA",
+            "FIRMA ELLECTRONICA": "RAFAEL HERRERA - 1589534713",
+            "AL PIE DE LA FIRMA": "RAFAEL HERRERA - 1589534713"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1589534713",
+            "NOMBRES": "RAFAEL HERRERA",
+            "SALARIO": "3.199.872",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1589534713",
+            "NOMBRES": "RAFAEL HERRERA",
+            "RECOMPRA O DESEMBOLSO": "4.009.041"
+        }
+    }
+]

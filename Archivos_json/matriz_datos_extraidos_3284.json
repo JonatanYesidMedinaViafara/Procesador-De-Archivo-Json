@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "718652801904",
+            "SOLICITUD": "9879358",
+            "CEDULA": "1322353321",
+            "NOMBRES": "EDUARDO JOSÉ VALENCIA MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "1.958.877",
+            "FIRMA ELLECTRONICA": "EDUARDO JOSÉ VALENCIA MENDOZA - 1322353321"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "718652801904",
+            "NOMBRES": "EDUARDO JOSÉ VALENCIA MENDOZA",
+            "CREDITO": "10.647.439",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "243.577",
+            "FIRMA ELLECTRONICA": "EDUARDO JOSÉ VALENCIA MENDOZA - 1322353321",
+            "AL PIE DE LA FIRMA": "EDUARDO JOSÉ VALENCIA MENDOZA - 1322353321"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1322353321",
+            "NOMBRES": "EDUARDO JOSÉ VALENCIA MENDOZA",
+            "FECHA NACIMIENTO": "29/09/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.647.439",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "EDUARDO JOSÉ VALENCIA MENDOZA - 1322353321",
+            "AL PIE DE LA FIRMA": "EDUARDO JOSÉ VALENCIA MENDOZA - 1322353321"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9879358",
+            "CEDULA": "1322353321",
+            "NOMBRES": "EDUARDO JOSÉ VALENCIA MENDOZA",
+            "CREDITO": "10.647.439",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "243.577",
+            "E.A": "25.69%",
+            "RECOMPRA O DESEMBOLSO": "1.958.877",
+            "FIRMA ELLECTRONICA": "EDUARDO JOSÉ VALENCIA MENDOZA - 1322353321"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1322353321",
+            "NOMBRES": "EDUARDO JOSÉ VALENCIA MENDOZA",
+            "FIRMA ELLECTRONICA": "EDUARDO JOSÉ VALENCIA MENDOZA - 1322353321"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1322353321",
+            "NOMBRES": "EDUARDO JOSÉ VALENCIA MENDOZA",
+            "FIRMA ELLECTRONICA": "EDUARDO JOSÉ VALENCIA MENDOZA - 1322353321",
+            "AL PIE DE LA FIRMA": "EDUARDO JOSÉ VALENCIA MENDOZA - 1322353321"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO JOSÉ VALENCIA MENDOZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1322353321",
+            "NOMBRES": "EDUARDO JOSÉ VALENCIA MENDOZA",
+            "SALARIO": "1.330.476",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1322353321",
+            "NOMBRES": "EDUARDO JOSÉ VALENCIA MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "1.958.877"
+        }
+    }
+]

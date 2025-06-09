@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "666982552325",
+            "SOLICITUD": "7323714",
+            "CEDULA": "1158286563",
+            "NOMBRES": "LIBARDO BRAVO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.787.152",
+            "FIRMA ELLECTRONICA": "LIBARDO BRAVO GÓMEZ - 1158286563"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "666982552325",
+            "NOMBRES": "LIBARDO BRAVO GÓMEZ",
+            "CREDITO": "6.635.110",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "283.183",
+            "FIRMA ELLECTRONICA": "LIBARDO BRAVO GÓMEZ - 1158286563",
+            "AL PIE DE LA FIRMA": "LIBARDO BRAVO GÓMEZ - 1158286563"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1158286563",
+            "NOMBRES": "LIBARDO BRAVO GÓMEZ",
+            "FECHA NACIMIENTO": "04/11/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.635.110",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LIBARDO BRAVO GÓMEZ - 1158286563",
+            "AL PIE DE LA FIRMA": "LIBARDO BRAVO GÓMEZ - 1158286563"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7323714",
+            "CEDULA": "1158286563",
+            "NOMBRES": "LIBARDO BRAVO GÓMEZ",
+            "CREDITO": "6.635.110",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "283.183",
+            "E.A": "20.92%",
+            "RECOMPRA O DESEMBOLSO": "2.787.152",
+            "FIRMA ELLECTRONICA": "LIBARDO BRAVO GÓMEZ - 1158286563"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1158286563",
+            "NOMBRES": "LIBARDO BRAVO GÓMEZ",
+            "FIRMA ELLECTRONICA": "LIBARDO BRAVO GÓMEZ - 1158286563"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1158286563",
+            "NOMBRES": "LIBARDO BRAVO GÓMEZ",
+            "FIRMA ELLECTRONICA": "LIBARDO BRAVO GÓMEZ - 1158286563",
+            "AL PIE DE LA FIRMA": "LIBARDO BRAVO GÓMEZ - 1158286563"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LIBARDO BRAVO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1158286563",
+            "NOMBRES": "LIBARDO BRAVO GÓMEZ",
+            "SALARIO": "4.131.336",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1158286563",
+            "NOMBRES": "LIBARDO BRAVO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.787.152"
+        }
+    }
+]

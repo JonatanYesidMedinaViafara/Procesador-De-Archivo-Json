@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "506531188813",
+            "SOLICITUD": "7330263",
+            "CEDULA": "1921919404",
+            "NOMBRES": "PABLO GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "2.574.695",
+            "FIRMA ELLECTRONICA": "PABLO GUERRERO - 1921919404"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "506531188813",
+            "NOMBRES": "PABLO GUERRERO",
+            "CREDITO": "9.757.608",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "163.465",
+            "FIRMA ELLECTRONICA": "PABLO GUERRERO - 1921919404",
+            "AL PIE DE LA FIRMA": "PABLO GUERRERO - 1921919404"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1921919404",
+            "NOMBRES": "PABLO GUERRERO",
+            "FECHA NACIMIENTO": "08/07/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.757.608",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PABLO GUERRERO - 1921919404",
+            "AL PIE DE LA FIRMA": "PABLO GUERRERO - 1921919404"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7330263",
+            "CEDULA": "1921919404",
+            "NOMBRES": "PABLO GUERRERO",
+            "CREDITO": "9.757.608",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "163.465",
+            "E.A": "28.92%",
+            "RECOMPRA O DESEMBOLSO": "2.574.695",
+            "FIRMA ELLECTRONICA": "PABLO GUERRERO - 1921919404"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1921919404",
+            "NOMBRES": "PABLO GUERRERO",
+            "FIRMA ELLECTRONICA": "PABLO GUERRERO - 1921919404"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1921919404",
+            "NOMBRES": "PABLO GUERRERO",
+            "FIRMA ELLECTRONICA": "PABLO GUERRERO - 1921919404",
+            "AL PIE DE LA FIRMA": "PABLO GUERRERO - 1921919404"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1921919404",
+            "NOMBRES": "PABLO GUERRERO",
+            "SALARIO": "3.128.565",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1921919404",
+            "NOMBRES": "PABLO GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "2.574.695"
+        }
+    }
+]

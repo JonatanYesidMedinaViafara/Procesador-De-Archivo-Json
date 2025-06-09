@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "684970094075",
+            "SOLICITUD": "4467755",
+            "CEDULA": "1851180332",
+            "NOMBRES": "LORENA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.023.806",
+            "FIRMA ELLECTRONICA": "LORENA RODRÍGUEZ - 1851180332"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "684970094075",
+            "NOMBRES": "LORENA RODRÍGUEZ",
+            "CREDITO": "11.694.020",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "351.952",
+            "FIRMA ELLECTRONICA": "LORENA RODRÍGUEZ - 1851180332",
+            "AL PIE DE LA FIRMA": "LORENA RODRÍGUEZ - 1851180332"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1851180332",
+            "NOMBRES": "LORENA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "09/05/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.694.020",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LORENA RODRÍGUEZ - 1851180332",
+            "AL PIE DE LA FIRMA": "LORENA RODRÍGUEZ - 1851180332"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4467755",
+            "CEDULA": "1851180332",
+            "NOMBRES": "LORENA RODRÍGUEZ",
+            "CREDITO": "11.694.020",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "351.952",
+            "E.A": "19.42%",
+            "RECOMPRA O DESEMBOLSO": "4.023.806",
+            "FIRMA ELLECTRONICA": "LORENA RODRÍGUEZ - 1851180332"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1851180332",
+            "NOMBRES": "LORENA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LORENA RODRÍGUEZ - 1851180332"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1851180332",
+            "NOMBRES": "LORENA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LORENA RODRÍGUEZ - 1851180332",
+            "AL PIE DE LA FIRMA": "LORENA RODRÍGUEZ - 1851180332"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LORENA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1851180332",
+            "NOMBRES": "LORENA RODRÍGUEZ",
+            "SALARIO": "1.634.504",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1851180332",
+            "NOMBRES": "LORENA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.023.806"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "710890721412",
+            "SOLICITUD": "3593821",
+            "CEDULA": "1045147355",
+            "NOMBRES": "EMIRO SEPÚLVEDA",
+            "RECOMPRA O DESEMBOLSO": "3.769.164",
+            "FIRMA ELLECTRONICA": "EMIRO SEPÚLVEDA - 1045147355"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "710890721412",
+            "NOMBRES": "EMIRO SEPÚLVEDA",
+            "CREDITO": "6.651.052",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "211.236",
+            "FIRMA ELLECTRONICA": "EMIRO SEPÚLVEDA - 1045147355",
+            "AL PIE DE LA FIRMA": "EMIRO SEPÚLVEDA - 1045147355"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1045147355",
+            "NOMBRES": "EMIRO SEPÚLVEDA",
+            "FECHA NACIMIENTO": "27/01/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.651.052",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "EMIRO SEPÚLVEDA - 1045147355",
+            "AL PIE DE LA FIRMA": "EMIRO SEPÚLVEDA - 1045147355"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3593821",
+            "CEDULA": "1045147355",
+            "NOMBRES": "EMIRO SEPÚLVEDA",
+            "CREDITO": "6.651.052",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "211.236",
+            "E.A": "18.29%",
+            "RECOMPRA O DESEMBOLSO": "3.769.164",
+            "FIRMA ELLECTRONICA": "EMIRO SEPÚLVEDA - 1045147355"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1045147355",
+            "NOMBRES": "EMIRO SEPÚLVEDA",
+            "FIRMA ELLECTRONICA": "EMIRO SEPÚLVEDA - 1045147355"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1045147355",
+            "NOMBRES": "EMIRO SEPÚLVEDA",
+            "FIRMA ELLECTRONICA": "EMIRO SEPÚLVEDA - 1045147355",
+            "AL PIE DE LA FIRMA": "EMIRO SEPÚLVEDA - 1045147355"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMIRO SEPÚLVEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1045147355",
+            "NOMBRES": "EMIRO SEPÚLVEDA",
+            "SALARIO": "1.790.999",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1045147355",
+            "NOMBRES": "EMIRO SEPÚLVEDA",
+            "RECOMPRA O DESEMBOLSO": "3.769.164"
+        }
+    }
+]

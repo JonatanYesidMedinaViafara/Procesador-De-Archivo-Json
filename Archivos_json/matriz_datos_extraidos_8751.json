@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "655769185540",
+            "SOLICITUD": "5400807",
+            "CEDULA": "1234062758",
+            "NOMBRES": "JANETH MILENA CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.193.402",
+            "FIRMA ELLECTRONICA": "JANETH MILENA CASTRO - 1234062758"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "655769185540",
+            "NOMBRES": "JANETH MILENA CASTRO",
+            "CREDITO": "17.501.815",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "394.484",
+            "FIRMA ELLECTRONICA": "JANETH MILENA CASTRO - 1234062758",
+            "AL PIE DE LA FIRMA": "JANETH MILENA CASTRO - 1234062758"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1234062758",
+            "NOMBRES": "JANETH MILENA CASTRO",
+            "FECHA NACIMIENTO": "02/07/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.501.815",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JANETH MILENA CASTRO - 1234062758",
+            "AL PIE DE LA FIRMA": "JANETH MILENA CASTRO - 1234062758"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5400807",
+            "CEDULA": "1234062758",
+            "NOMBRES": "JANETH MILENA CASTRO",
+            "CREDITO": "17.501.815",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "394.484",
+            "E.A": "19.78%",
+            "RECOMPRA O DESEMBOLSO": "4.193.402",
+            "FIRMA ELLECTRONICA": "JANETH MILENA CASTRO - 1234062758"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1234062758",
+            "NOMBRES": "JANETH MILENA CASTRO",
+            "FIRMA ELLECTRONICA": "JANETH MILENA CASTRO - 1234062758"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1234062758",
+            "NOMBRES": "JANETH MILENA CASTRO",
+            "FIRMA ELLECTRONICA": "JANETH MILENA CASTRO - 1234062758",
+            "AL PIE DE LA FIRMA": "JANETH MILENA CASTRO - 1234062758"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JANETH MILENA CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1234062758",
+            "NOMBRES": "JANETH MILENA CASTRO",
+            "SALARIO": "2.247.838",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1234062758",
+            "NOMBRES": "JANETH MILENA CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.193.402"
+        }
+    }
+]

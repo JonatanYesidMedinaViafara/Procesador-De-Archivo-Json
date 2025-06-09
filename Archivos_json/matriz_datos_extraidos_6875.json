@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "161876422260",
+            "SOLICITUD": "8780270",
+            "CEDULA": "1723900487",
+            "NOMBRES": "RICARDO LUIS CARDONA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.322.479",
+            "FIRMA ELLECTRONICA": "RICARDO LUIS CARDONA PÉREZ - 1723900487"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "161876422260",
+            "NOMBRES": "RICARDO LUIS CARDONA PÉREZ",
+            "CREDITO": "10.968.775",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "149.725",
+            "FIRMA ELLECTRONICA": "RICARDO LUIS CARDONA PÉREZ - 1723900487",
+            "AL PIE DE LA FIRMA": "RICARDO LUIS CARDONA PÉREZ - 1723900487"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1723900487",
+            "NOMBRES": "RICARDO LUIS CARDONA PÉREZ",
+            "FECHA NACIMIENTO": "06/04/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.968.775",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RICARDO LUIS CARDONA PÉREZ - 1723900487",
+            "AL PIE DE LA FIRMA": "RICARDO LUIS CARDONA PÉREZ - 1723900487"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8780270",
+            "CEDULA": "1723900487",
+            "NOMBRES": "RICARDO LUIS CARDONA PÉREZ",
+            "CREDITO": "10.968.775",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "149.725",
+            "E.A": "27.98%",
+            "RECOMPRA O DESEMBOLSO": "4.322.479",
+            "FIRMA ELLECTRONICA": "RICARDO LUIS CARDONA PÉREZ - 1723900487"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1723900487",
+            "NOMBRES": "RICARDO LUIS CARDONA PÉREZ",
+            "FIRMA ELLECTRONICA": "RICARDO LUIS CARDONA PÉREZ - 1723900487"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1723900487",
+            "NOMBRES": "RICARDO LUIS CARDONA PÉREZ",
+            "FIRMA ELLECTRONICA": "RICARDO LUIS CARDONA PÉREZ - 1723900487",
+            "AL PIE DE LA FIRMA": "RICARDO LUIS CARDONA PÉREZ - 1723900487"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RICARDO LUIS CARDONA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1723900487",
+            "NOMBRES": "RICARDO LUIS CARDONA PÉREZ",
+            "SALARIO": "2.124.151",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1723900487",
+            "NOMBRES": "RICARDO LUIS CARDONA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.322.479"
+        }
+    }
+]

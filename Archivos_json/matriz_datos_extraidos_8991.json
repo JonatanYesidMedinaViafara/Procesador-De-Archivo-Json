@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "105512853250",
+            "SOLICITUD": "3419218",
+            "CEDULA": "1316429588",
+            "NOMBRES": "ANA ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "1.832.024",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1316429588"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "105512853250",
+            "NOMBRES": "ANA ACEVEDO",
+            "CREDITO": "6.408.996",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "398.186",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1316429588",
+            "AL PIE DE LA FIRMA": "ANA ACEVEDO - 1316429588"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1316429588",
+            "NOMBRES": "ANA ACEVEDO",
+            "FECHA NACIMIENTO": "14/11/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.408.996",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1316429588",
+            "AL PIE DE LA FIRMA": "ANA ACEVEDO - 1316429588"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3419218",
+            "CEDULA": "1316429588",
+            "NOMBRES": "ANA ACEVEDO",
+            "CREDITO": "6.408.996",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "398.186",
+            "E.A": "18.62%",
+            "RECOMPRA O DESEMBOLSO": "1.832.024",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1316429588"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1316429588",
+            "NOMBRES": "ANA ACEVEDO",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1316429588"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1316429588",
+            "NOMBRES": "ANA ACEVEDO",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1316429588",
+            "AL PIE DE LA FIRMA": "ANA ACEVEDO - 1316429588"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA ACEVEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1316429588",
+            "NOMBRES": "ANA ACEVEDO",
+            "SALARIO": "1.482.457",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1316429588",
+            "NOMBRES": "ANA ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "1.832.024"
+        }
+    }
+]

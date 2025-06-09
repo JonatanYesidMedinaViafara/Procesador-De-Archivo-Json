@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "592255048424",
+            "SOLICITUD": "8114991",
+            "CEDULA": "1566208129",
+            "NOMBRES": "PAOLA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.939.182",
+            "FIRMA ELLECTRONICA": "PAOLA LÓPEZ - 1566208129"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "592255048424",
+            "NOMBRES": "PAOLA LÓPEZ",
+            "CREDITO": "8.624.813",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "219.779",
+            "FIRMA ELLECTRONICA": "PAOLA LÓPEZ - 1566208129",
+            "AL PIE DE LA FIRMA": "PAOLA LÓPEZ - 1566208129"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1566208129",
+            "NOMBRES": "PAOLA LÓPEZ",
+            "FECHA NACIMIENTO": "23/10/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.624.813",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PAOLA LÓPEZ - 1566208129",
+            "AL PIE DE LA FIRMA": "PAOLA LÓPEZ - 1566208129"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8114991",
+            "CEDULA": "1566208129",
+            "NOMBRES": "PAOLA LÓPEZ",
+            "CREDITO": "8.624.813",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "219.779",
+            "E.A": "25.56%",
+            "RECOMPRA O DESEMBOLSO": "4.939.182",
+            "FIRMA ELLECTRONICA": "PAOLA LÓPEZ - 1566208129"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1566208129",
+            "NOMBRES": "PAOLA LÓPEZ",
+            "FIRMA ELLECTRONICA": "PAOLA LÓPEZ - 1566208129"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1566208129",
+            "NOMBRES": "PAOLA LÓPEZ",
+            "FIRMA ELLECTRONICA": "PAOLA LÓPEZ - 1566208129",
+            "AL PIE DE LA FIRMA": "PAOLA LÓPEZ - 1566208129"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1566208129",
+            "NOMBRES": "PAOLA LÓPEZ",
+            "SALARIO": "4.608.327",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1566208129",
+            "NOMBRES": "PAOLA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.939.182"
+        }
+    }
+]

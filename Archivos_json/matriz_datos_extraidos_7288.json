@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "285754500335",
+            "SOLICITUD": "5486173",
+            "CEDULA": "1978587083",
+            "NOMBRES": "PABLO GALLEGO LEÓN",
+            "RECOMPRA O DESEMBOLSO": "4.907.743",
+            "FIRMA ELLECTRONICA": "PABLO GALLEGO LEÓN - 1978587083"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "285754500335",
+            "NOMBRES": "PABLO GALLEGO LEÓN",
+            "CREDITO": "15.724.814",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "212.689",
+            "FIRMA ELLECTRONICA": "PABLO GALLEGO LEÓN - 1978587083",
+            "AL PIE DE LA FIRMA": "PABLO GALLEGO LEÓN - 1978587083"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1978587083",
+            "NOMBRES": "PABLO GALLEGO LEÓN",
+            "FECHA NACIMIENTO": "21/09/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.724.814",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PABLO GALLEGO LEÓN - 1978587083",
+            "AL PIE DE LA FIRMA": "PABLO GALLEGO LEÓN - 1978587083"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5486173",
+            "CEDULA": "1978587083",
+            "NOMBRES": "PABLO GALLEGO LEÓN",
+            "CREDITO": "15.724.814",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "212.689",
+            "E.A": "28.92%",
+            "RECOMPRA O DESEMBOLSO": "4.907.743",
+            "FIRMA ELLECTRONICA": "PABLO GALLEGO LEÓN - 1978587083"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1978587083",
+            "NOMBRES": "PABLO GALLEGO LEÓN",
+            "FIRMA ELLECTRONICA": "PABLO GALLEGO LEÓN - 1978587083"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1978587083",
+            "NOMBRES": "PABLO GALLEGO LEÓN",
+            "FIRMA ELLECTRONICA": "PABLO GALLEGO LEÓN - 1978587083",
+            "AL PIE DE LA FIRMA": "PABLO GALLEGO LEÓN - 1978587083"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO GALLEGO LEÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1978587083",
+            "NOMBRES": "PABLO GALLEGO LEÓN",
+            "SALARIO": "1.259.764",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1978587083",
+            "NOMBRES": "PABLO GALLEGO LEÓN",
+            "RECOMPRA O DESEMBOLSO": "4.907.743"
+        }
+    }
+]

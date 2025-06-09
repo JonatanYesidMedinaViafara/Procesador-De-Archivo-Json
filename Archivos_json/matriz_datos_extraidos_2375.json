@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "108358789651",
+            "SOLICITUD": "3378547",
+            "CEDULA": "1661547711",
+            "NOMBRES": "NELSON GUSTAVO ALZATE",
+            "RECOMPRA O DESEMBOLSO": "2.188.316",
+            "FIRMA ELLECTRONICA": "NELSON GUSTAVO ALZATE - 1661547711"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "108358789651",
+            "NOMBRES": "NELSON GUSTAVO ALZATE",
+            "CREDITO": "5.687.672",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "232.705",
+            "FIRMA ELLECTRONICA": "NELSON GUSTAVO ALZATE - 1661547711",
+            "AL PIE DE LA FIRMA": "NELSON GUSTAVO ALZATE - 1661547711"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1661547711",
+            "NOMBRES": "NELSON GUSTAVO ALZATE",
+            "FECHA NACIMIENTO": "22/05/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.687.672",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "NELSON GUSTAVO ALZATE - 1661547711",
+            "AL PIE DE LA FIRMA": "NELSON GUSTAVO ALZATE - 1661547711"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3378547",
+            "CEDULA": "1661547711",
+            "NOMBRES": "NELSON GUSTAVO ALZATE",
+            "CREDITO": "5.687.672",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "232.705",
+            "E.A": "22.15%",
+            "RECOMPRA O DESEMBOLSO": "2.188.316",
+            "FIRMA ELLECTRONICA": "NELSON GUSTAVO ALZATE - 1661547711"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1661547711",
+            "NOMBRES": "NELSON GUSTAVO ALZATE",
+            "FIRMA ELLECTRONICA": "NELSON GUSTAVO ALZATE - 1661547711"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1661547711",
+            "NOMBRES": "NELSON GUSTAVO ALZATE",
+            "FIRMA ELLECTRONICA": "NELSON GUSTAVO ALZATE - 1661547711",
+            "AL PIE DE LA FIRMA": "NELSON GUSTAVO ALZATE - 1661547711"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NELSON GUSTAVO ALZATE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1661547711",
+            "NOMBRES": "NELSON GUSTAVO ALZATE",
+            "SALARIO": "2.542.850",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1661547711",
+            "NOMBRES": "NELSON GUSTAVO ALZATE",
+            "RECOMPRA O DESEMBOLSO": "2.188.316"
+        }
+    }
+]

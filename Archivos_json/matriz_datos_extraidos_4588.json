@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "179977573210",
+            "SOLICITUD": "7093643",
+            "CEDULA": "1898875982",
+            "NOMBRES": "ANDRÉS JOSÉ AGUIRRE",
+            "RECOMPRA O DESEMBOLSO": "1.967.106",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ AGUIRRE - 1898875982"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "179977573210",
+            "NOMBRES": "ANDRÉS JOSÉ AGUIRRE",
+            "CREDITO": "17.081.649",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "294.843",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ AGUIRRE - 1898875982",
+            "AL PIE DE LA FIRMA": "ANDRÉS JOSÉ AGUIRRE - 1898875982"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1898875982",
+            "NOMBRES": "ANDRÉS JOSÉ AGUIRRE",
+            "FECHA NACIMIENTO": "13/02/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.081.649",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ AGUIRRE - 1898875982",
+            "AL PIE DE LA FIRMA": "ANDRÉS JOSÉ AGUIRRE - 1898875982"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7093643",
+            "CEDULA": "1898875982",
+            "NOMBRES": "ANDRÉS JOSÉ AGUIRRE",
+            "CREDITO": "17.081.649",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "294.843",
+            "E.A": "23.37%",
+            "RECOMPRA O DESEMBOLSO": "1.967.106",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ AGUIRRE - 1898875982"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1898875982",
+            "NOMBRES": "ANDRÉS JOSÉ AGUIRRE",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ AGUIRRE - 1898875982"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1898875982",
+            "NOMBRES": "ANDRÉS JOSÉ AGUIRRE",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ AGUIRRE - 1898875982",
+            "AL PIE DE LA FIRMA": "ANDRÉS JOSÉ AGUIRRE - 1898875982"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS JOSÉ AGUIRRE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1898875982",
+            "NOMBRES": "ANDRÉS JOSÉ AGUIRRE",
+            "SALARIO": "4.751.955",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1898875982",
+            "NOMBRES": "ANDRÉS JOSÉ AGUIRRE",
+            "RECOMPRA O DESEMBOLSO": "1.967.106"
+        }
+    }
+]

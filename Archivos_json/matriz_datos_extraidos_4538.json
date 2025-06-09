@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "811735754185",
+            "SOLICITUD": "7940113",
+            "CEDULA": "1585696988",
+            "NOMBRES": "EDWIN ROA",
+            "RECOMPRA O DESEMBOLSO": "2.424.178",
+            "FIRMA ELLECTRONICA": "EDWIN ROA - 1585696988"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "811735754185",
+            "NOMBRES": "EDWIN ROA",
+            "CREDITO": "17.733.659",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "339.418",
+            "FIRMA ELLECTRONICA": "EDWIN ROA - 1585696988",
+            "AL PIE DE LA FIRMA": "EDWIN ROA - 1585696988"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1585696988",
+            "NOMBRES": "EDWIN ROA",
+            "FECHA NACIMIENTO": "09/12/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.733.659",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDWIN ROA - 1585696988",
+            "AL PIE DE LA FIRMA": "EDWIN ROA - 1585696988"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7940113",
+            "CEDULA": "1585696988",
+            "NOMBRES": "EDWIN ROA",
+            "CREDITO": "17.733.659",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "339.418",
+            "E.A": "18.35%",
+            "RECOMPRA O DESEMBOLSO": "2.424.178",
+            "FIRMA ELLECTRONICA": "EDWIN ROA - 1585696988"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1585696988",
+            "NOMBRES": "EDWIN ROA",
+            "FIRMA ELLECTRONICA": "EDWIN ROA - 1585696988"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1585696988",
+            "NOMBRES": "EDWIN ROA",
+            "FIRMA ELLECTRONICA": "EDWIN ROA - 1585696988",
+            "AL PIE DE LA FIRMA": "EDWIN ROA - 1585696988"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDWIN ROA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1585696988",
+            "NOMBRES": "EDWIN ROA",
+            "SALARIO": "4.049.303",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1585696988",
+            "NOMBRES": "EDWIN ROA",
+            "RECOMPRA O DESEMBOLSO": "2.424.178"
+        }
+    }
+]

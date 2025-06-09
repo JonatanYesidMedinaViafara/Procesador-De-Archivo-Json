@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "922235890572",
+            "SOLICITUD": "7154077",
+            "CEDULA": "1557211279",
+            "NOMBRES": "ISMAEL JUAN SÁNCHEZ TORO",
+            "RECOMPRA O DESEMBOLSO": "4.498.501",
+            "FIRMA ELLECTRONICA": "ISMAEL JUAN SÁNCHEZ TORO - 1557211279"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "922235890572",
+            "NOMBRES": "ISMAEL JUAN SÁNCHEZ TORO",
+            "CREDITO": "15.928.525",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "296.792",
+            "FIRMA ELLECTRONICA": "ISMAEL JUAN SÁNCHEZ TORO - 1557211279",
+            "AL PIE DE LA FIRMA": "ISMAEL JUAN SÁNCHEZ TORO - 1557211279"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1557211279",
+            "NOMBRES": "ISMAEL JUAN SÁNCHEZ TORO",
+            "FECHA NACIMIENTO": "17/10/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.928.525",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ISMAEL JUAN SÁNCHEZ TORO - 1557211279",
+            "AL PIE DE LA FIRMA": "ISMAEL JUAN SÁNCHEZ TORO - 1557211279"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7154077",
+            "CEDULA": "1557211279",
+            "NOMBRES": "ISMAEL JUAN SÁNCHEZ TORO",
+            "CREDITO": "15.928.525",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "296.792",
+            "E.A": "23.31%",
+            "RECOMPRA O DESEMBOLSO": "4.498.501",
+            "FIRMA ELLECTRONICA": "ISMAEL JUAN SÁNCHEZ TORO - 1557211279"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1557211279",
+            "NOMBRES": "ISMAEL JUAN SÁNCHEZ TORO",
+            "FIRMA ELLECTRONICA": "ISMAEL JUAN SÁNCHEZ TORO - 1557211279"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1557211279",
+            "NOMBRES": "ISMAEL JUAN SÁNCHEZ TORO",
+            "FIRMA ELLECTRONICA": "ISMAEL JUAN SÁNCHEZ TORO - 1557211279",
+            "AL PIE DE LA FIRMA": "ISMAEL JUAN SÁNCHEZ TORO - 1557211279"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISMAEL JUAN SÁNCHEZ TORO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1557211279",
+            "NOMBRES": "ISMAEL JUAN SÁNCHEZ TORO",
+            "SALARIO": "2.383.490",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1557211279",
+            "NOMBRES": "ISMAEL JUAN SÁNCHEZ TORO",
+            "RECOMPRA O DESEMBOLSO": "4.498.501"
+        }
+    }
+]

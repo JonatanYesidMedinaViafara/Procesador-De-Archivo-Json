@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "255921772666",
+            "SOLICITUD": "1530731",
+            "CEDULA": "1923552432",
+            "NOMBRES": "RAFAEL ANDRÉS TORRES OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.690.189",
+            "FIRMA ELLECTRONICA": "RAFAEL ANDRÉS TORRES OSORIO - 1923552432"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "255921772666",
+            "NOMBRES": "RAFAEL ANDRÉS TORRES OSORIO",
+            "CREDITO": "15.263.260",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "302.692",
+            "FIRMA ELLECTRONICA": "RAFAEL ANDRÉS TORRES OSORIO - 1923552432",
+            "AL PIE DE LA FIRMA": "RAFAEL ANDRÉS TORRES OSORIO - 1923552432"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1923552432",
+            "NOMBRES": "RAFAEL ANDRÉS TORRES OSORIO",
+            "FECHA NACIMIENTO": "30/10/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.263.260",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "RAFAEL ANDRÉS TORRES OSORIO - 1923552432",
+            "AL PIE DE LA FIRMA": "RAFAEL ANDRÉS TORRES OSORIO - 1923552432"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1530731",
+            "CEDULA": "1923552432",
+            "NOMBRES": "RAFAEL ANDRÉS TORRES OSORIO",
+            "CREDITO": "15.263.260",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "302.692",
+            "E.A": "18.95%",
+            "RECOMPRA O DESEMBOLSO": "2.690.189",
+            "FIRMA ELLECTRONICA": "RAFAEL ANDRÉS TORRES OSORIO - 1923552432"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1923552432",
+            "NOMBRES": "RAFAEL ANDRÉS TORRES OSORIO",
+            "FIRMA ELLECTRONICA": "RAFAEL ANDRÉS TORRES OSORIO - 1923552432"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1923552432",
+            "NOMBRES": "RAFAEL ANDRÉS TORRES OSORIO",
+            "FIRMA ELLECTRONICA": "RAFAEL ANDRÉS TORRES OSORIO - 1923552432",
+            "AL PIE DE LA FIRMA": "RAFAEL ANDRÉS TORRES OSORIO - 1923552432"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL ANDRÉS TORRES OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1923552432",
+            "NOMBRES": "RAFAEL ANDRÉS TORRES OSORIO",
+            "SALARIO": "1.891.399",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1923552432",
+            "NOMBRES": "RAFAEL ANDRÉS TORRES OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.690.189"
+        }
+    }
+]

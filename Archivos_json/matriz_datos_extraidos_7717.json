@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "506296386082",
+            "SOLICITUD": "3689278",
+            "CEDULA": "1237773495",
+            "NOMBRES": "LILIANA ROSA FAJARDO",
+            "RECOMPRA O DESEMBOLSO": "4.668.342",
+            "FIRMA ELLECTRONICA": "LILIANA ROSA FAJARDO - 1237773495"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "506296386082",
+            "NOMBRES": "LILIANA ROSA FAJARDO",
+            "CREDITO": "19.069.102",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "102.331",
+            "FIRMA ELLECTRONICA": "LILIANA ROSA FAJARDO - 1237773495",
+            "AL PIE DE LA FIRMA": "LILIANA ROSA FAJARDO - 1237773495"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1237773495",
+            "NOMBRES": "LILIANA ROSA FAJARDO",
+            "FECHA NACIMIENTO": "15/04/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.069.102",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LILIANA ROSA FAJARDO - 1237773495",
+            "AL PIE DE LA FIRMA": "LILIANA ROSA FAJARDO - 1237773495"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3689278",
+            "CEDULA": "1237773495",
+            "NOMBRES": "LILIANA ROSA FAJARDO",
+            "CREDITO": "19.069.102",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "102.331",
+            "E.A": "28.44%",
+            "RECOMPRA O DESEMBOLSO": "4.668.342",
+            "FIRMA ELLECTRONICA": "LILIANA ROSA FAJARDO - 1237773495"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1237773495",
+            "NOMBRES": "LILIANA ROSA FAJARDO",
+            "FIRMA ELLECTRONICA": "LILIANA ROSA FAJARDO - 1237773495"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1237773495",
+            "NOMBRES": "LILIANA ROSA FAJARDO",
+            "FIRMA ELLECTRONICA": "LILIANA ROSA FAJARDO - 1237773495",
+            "AL PIE DE LA FIRMA": "LILIANA ROSA FAJARDO - 1237773495"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LILIANA ROSA FAJARDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1237773495",
+            "NOMBRES": "LILIANA ROSA FAJARDO",
+            "SALARIO": "1.087.667",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1237773495",
+            "NOMBRES": "LILIANA ROSA FAJARDO",
+            "RECOMPRA O DESEMBOLSO": "4.668.342"
+        }
+    }
+]

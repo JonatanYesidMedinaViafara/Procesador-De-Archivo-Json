@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "213777938321",
+            "SOLICITUD": "4023316",
+            "CEDULA": "1098433785",
+            "NOMBRES": "JUAN VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.450.770",
+            "FIRMA ELLECTRONICA": "JUAN VÁSQUEZ - 1098433785"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "213777938321",
+            "NOMBRES": "JUAN VÁSQUEZ",
+            "CREDITO": "10.198.923",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "148.508",
+            "FIRMA ELLECTRONICA": "JUAN VÁSQUEZ - 1098433785",
+            "AL PIE DE LA FIRMA": "JUAN VÁSQUEZ - 1098433785"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1098433785",
+            "NOMBRES": "JUAN VÁSQUEZ",
+            "FECHA NACIMIENTO": "17/02/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.198.923",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN VÁSQUEZ - 1098433785",
+            "AL PIE DE LA FIRMA": "JUAN VÁSQUEZ - 1098433785"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4023316",
+            "CEDULA": "1098433785",
+            "NOMBRES": "JUAN VÁSQUEZ",
+            "CREDITO": "10.198.923",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "148.508",
+            "E.A": "25.13%",
+            "RECOMPRA O DESEMBOLSO": "1.450.770",
+            "FIRMA ELLECTRONICA": "JUAN VÁSQUEZ - 1098433785"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1098433785",
+            "NOMBRES": "JUAN VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "JUAN VÁSQUEZ - 1098433785"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1098433785",
+            "NOMBRES": "JUAN VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "JUAN VÁSQUEZ - 1098433785",
+            "AL PIE DE LA FIRMA": "JUAN VÁSQUEZ - 1098433785"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN VÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1098433785",
+            "NOMBRES": "JUAN VÁSQUEZ",
+            "SALARIO": "4.696.063",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1098433785",
+            "NOMBRES": "JUAN VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.450.770"
+        }
+    }
+]

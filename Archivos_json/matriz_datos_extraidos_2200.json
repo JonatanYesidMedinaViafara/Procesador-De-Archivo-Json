@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "485789018284",
+            "SOLICITUD": "2345211",
+            "CEDULA": "1927267048",
+            "NOMBRES": "ESTEFANÍA PARRA",
+            "RECOMPRA O DESEMBOLSO": "4.411.047",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA PARRA - 1927267048"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "485789018284",
+            "NOMBRES": "ESTEFANÍA PARRA",
+            "CREDITO": "13.485.772",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "111.934",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA PARRA - 1927267048",
+            "AL PIE DE LA FIRMA": "ESTEFANÍA PARRA - 1927267048"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1927267048",
+            "NOMBRES": "ESTEFANÍA PARRA",
+            "FECHA NACIMIENTO": "22/09/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.485.772",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA PARRA - 1927267048",
+            "AL PIE DE LA FIRMA": "ESTEFANÍA PARRA - 1927267048"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2345211",
+            "CEDULA": "1927267048",
+            "NOMBRES": "ESTEFANÍA PARRA",
+            "CREDITO": "13.485.772",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "111.934",
+            "E.A": "21.24%",
+            "RECOMPRA O DESEMBOLSO": "4.411.047",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA PARRA - 1927267048"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1927267048",
+            "NOMBRES": "ESTEFANÍA PARRA",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA PARRA - 1927267048"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1927267048",
+            "NOMBRES": "ESTEFANÍA PARRA",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA PARRA - 1927267048",
+            "AL PIE DE LA FIRMA": "ESTEFANÍA PARRA - 1927267048"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTEFANÍA PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1927267048",
+            "NOMBRES": "ESTEFANÍA PARRA",
+            "SALARIO": "3.402.266",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1927267048",
+            "NOMBRES": "ESTEFANÍA PARRA",
+            "RECOMPRA O DESEMBOLSO": "4.411.047"
+        }
+    }
+]

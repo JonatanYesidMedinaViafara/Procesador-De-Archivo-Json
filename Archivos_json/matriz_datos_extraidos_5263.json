@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "430212479120",
+            "SOLICITUD": "2219911",
+            "CEDULA": "1971427049",
+            "NOMBRES": "VIVIANA CATALINA OSPINA SIERRA",
+            "RECOMPRA O DESEMBOLSO": "4.940.638",
+            "FIRMA ELLECTRONICA": "VIVIANA CATALINA OSPINA SIERRA - 1971427049"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "430212479120",
+            "NOMBRES": "VIVIANA CATALINA OSPINA SIERRA",
+            "CREDITO": "13.329.707",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "142.284",
+            "FIRMA ELLECTRONICA": "VIVIANA CATALINA OSPINA SIERRA - 1971427049",
+            "AL PIE DE LA FIRMA": "VIVIANA CATALINA OSPINA SIERRA - 1971427049"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1971427049",
+            "NOMBRES": "VIVIANA CATALINA OSPINA SIERRA",
+            "FECHA NACIMIENTO": "27/04/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.329.707",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "VIVIANA CATALINA OSPINA SIERRA - 1971427049",
+            "AL PIE DE LA FIRMA": "VIVIANA CATALINA OSPINA SIERRA - 1971427049"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2219911",
+            "CEDULA": "1971427049",
+            "NOMBRES": "VIVIANA CATALINA OSPINA SIERRA",
+            "CREDITO": "13.329.707",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "142.284",
+            "E.A": "28.6%",
+            "RECOMPRA O DESEMBOLSO": "4.940.638",
+            "FIRMA ELLECTRONICA": "VIVIANA CATALINA OSPINA SIERRA - 1971427049"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1971427049",
+            "NOMBRES": "VIVIANA CATALINA OSPINA SIERRA",
+            "FIRMA ELLECTRONICA": "VIVIANA CATALINA OSPINA SIERRA - 1971427049"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1971427049",
+            "NOMBRES": "VIVIANA CATALINA OSPINA SIERRA",
+            "FIRMA ELLECTRONICA": "VIVIANA CATALINA OSPINA SIERRA - 1971427049",
+            "AL PIE DE LA FIRMA": "VIVIANA CATALINA OSPINA SIERRA - 1971427049"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VIVIANA CATALINA OSPINA SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1971427049",
+            "NOMBRES": "VIVIANA CATALINA OSPINA SIERRA",
+            "SALARIO": "4.298.973",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1971427049",
+            "NOMBRES": "VIVIANA CATALINA OSPINA SIERRA",
+            "RECOMPRA O DESEMBOLSO": "4.940.638"
+        }
+    }
+]

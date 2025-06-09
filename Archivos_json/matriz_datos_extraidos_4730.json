@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "523259368868",
+            "SOLICITUD": "3027793",
+            "CEDULA": "1930321577",
+            "NOMBRES": "LAURA SÁNCHEZ SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "2.560.381",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ SARMIENTO - 1930321577"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "523259368868",
+            "NOMBRES": "LAURA SÁNCHEZ SARMIENTO",
+            "CREDITO": "5.433.745",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "295.54",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ SARMIENTO - 1930321577",
+            "AL PIE DE LA FIRMA": "LAURA SÁNCHEZ SARMIENTO - 1930321577"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1930321577",
+            "NOMBRES": "LAURA SÁNCHEZ SARMIENTO",
+            "FECHA NACIMIENTO": "19/07/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.433.745",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ SARMIENTO - 1930321577",
+            "AL PIE DE LA FIRMA": "LAURA SÁNCHEZ SARMIENTO - 1930321577"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3027793",
+            "CEDULA": "1930321577",
+            "NOMBRES": "LAURA SÁNCHEZ SARMIENTO",
+            "CREDITO": "5.433.745",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "295.54",
+            "E.A": "28.8%",
+            "RECOMPRA O DESEMBOLSO": "2.560.381",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ SARMIENTO - 1930321577"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1930321577",
+            "NOMBRES": "LAURA SÁNCHEZ SARMIENTO",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ SARMIENTO - 1930321577"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1930321577",
+            "NOMBRES": "LAURA SÁNCHEZ SARMIENTO",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ SARMIENTO - 1930321577",
+            "AL PIE DE LA FIRMA": "LAURA SÁNCHEZ SARMIENTO - 1930321577"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA SÁNCHEZ SARMIENTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1930321577",
+            "NOMBRES": "LAURA SÁNCHEZ SARMIENTO",
+            "SALARIO": "4.111.345",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1930321577",
+            "NOMBRES": "LAURA SÁNCHEZ SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "2.560.381"
+        }
+    }
+]

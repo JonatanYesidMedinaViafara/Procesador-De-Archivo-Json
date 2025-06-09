@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "756123339753",
+            "SOLICITUD": "4614341",
+            "CEDULA": "1234467783",
+            "NOMBRES": "ELIANA LEONOR ROMERO VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.016.567",
+            "FIRMA ELLECTRONICA": "ELIANA LEONOR ROMERO VALENCIA - 1234467783"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "756123339753",
+            "NOMBRES": "ELIANA LEONOR ROMERO VALENCIA",
+            "CREDITO": "9.921.145",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "203.026",
+            "FIRMA ELLECTRONICA": "ELIANA LEONOR ROMERO VALENCIA - 1234467783",
+            "AL PIE DE LA FIRMA": "ELIANA LEONOR ROMERO VALENCIA - 1234467783"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1234467783",
+            "NOMBRES": "ELIANA LEONOR ROMERO VALENCIA",
+            "FECHA NACIMIENTO": "23/05/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.921.145",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ELIANA LEONOR ROMERO VALENCIA - 1234467783",
+            "AL PIE DE LA FIRMA": "ELIANA LEONOR ROMERO VALENCIA - 1234467783"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4614341",
+            "CEDULA": "1234467783",
+            "NOMBRES": "ELIANA LEONOR ROMERO VALENCIA",
+            "CREDITO": "9.921.145",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "203.026",
+            "E.A": "18.59%",
+            "RECOMPRA O DESEMBOLSO": "3.016.567",
+            "FIRMA ELLECTRONICA": "ELIANA LEONOR ROMERO VALENCIA - 1234467783"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1234467783",
+            "NOMBRES": "ELIANA LEONOR ROMERO VALENCIA",
+            "FIRMA ELLECTRONICA": "ELIANA LEONOR ROMERO VALENCIA - 1234467783"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1234467783",
+            "NOMBRES": "ELIANA LEONOR ROMERO VALENCIA",
+            "FIRMA ELLECTRONICA": "ELIANA LEONOR ROMERO VALENCIA - 1234467783",
+            "AL PIE DE LA FIRMA": "ELIANA LEONOR ROMERO VALENCIA - 1234467783"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELIANA LEONOR ROMERO VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1234467783",
+            "NOMBRES": "ELIANA LEONOR ROMERO VALENCIA",
+            "SALARIO": "3.437.952",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "29/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1234467783",
+            "NOMBRES": "ELIANA LEONOR ROMERO VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.016.567"
+        }
+    }
+]

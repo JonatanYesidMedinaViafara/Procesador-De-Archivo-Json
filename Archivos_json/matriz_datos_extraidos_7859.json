@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "111860595177",
+            "SOLICITUD": "3217051",
+            "CEDULA": "1069751128",
+            "NOMBRES": "FRANCISCO JHAN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.133.694",
+            "FIRMA ELLECTRONICA": "FRANCISCO JHAN GÓMEZ - 1069751128"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "111860595177",
+            "NOMBRES": "FRANCISCO JHAN GÓMEZ",
+            "CREDITO": "19.578.826",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "187.82",
+            "FIRMA ELLECTRONICA": "FRANCISCO JHAN GÓMEZ - 1069751128",
+            "AL PIE DE LA FIRMA": "FRANCISCO JHAN GÓMEZ - 1069751128"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1069751128",
+            "NOMBRES": "FRANCISCO JHAN GÓMEZ",
+            "FECHA NACIMIENTO": "05/09/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.578.826",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FRANCISCO JHAN GÓMEZ - 1069751128",
+            "AL PIE DE LA FIRMA": "FRANCISCO JHAN GÓMEZ - 1069751128"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3217051",
+            "CEDULA": "1069751128",
+            "NOMBRES": "FRANCISCO JHAN GÓMEZ",
+            "CREDITO": "19.578.826",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "187.82",
+            "E.A": "28.5%",
+            "RECOMPRA O DESEMBOLSO": "4.133.694",
+            "FIRMA ELLECTRONICA": "FRANCISCO JHAN GÓMEZ - 1069751128"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1069751128",
+            "NOMBRES": "FRANCISCO JHAN GÓMEZ",
+            "FIRMA ELLECTRONICA": "FRANCISCO JHAN GÓMEZ - 1069751128"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1069751128",
+            "NOMBRES": "FRANCISCO JHAN GÓMEZ",
+            "FIRMA ELLECTRONICA": "FRANCISCO JHAN GÓMEZ - 1069751128",
+            "AL PIE DE LA FIRMA": "FRANCISCO JHAN GÓMEZ - 1069751128"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO JHAN GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1069751128",
+            "NOMBRES": "FRANCISCO JHAN GÓMEZ",
+            "SALARIO": "3.718.498",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1069751128",
+            "NOMBRES": "FRANCISCO JHAN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.133.694"
+        }
+    }
+]

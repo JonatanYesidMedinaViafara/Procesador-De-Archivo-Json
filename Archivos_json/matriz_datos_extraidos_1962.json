@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "747951125929",
+            "SOLICITUD": "1709861",
+            "CEDULA": "1596026933",
+            "NOMBRES": "NÉSTOR WILMER ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "2.869.465",
+            "FIRMA ELLECTRONICA": "NÉSTOR WILMER ESCOBAR - 1596026933"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "747951125929",
+            "NOMBRES": "NÉSTOR WILMER ESCOBAR",
+            "CREDITO": "5.435.454",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "152.753",
+            "FIRMA ELLECTRONICA": "NÉSTOR WILMER ESCOBAR - 1596026933",
+            "AL PIE DE LA FIRMA": "NÉSTOR WILMER ESCOBAR - 1596026933"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1596026933",
+            "NOMBRES": "NÉSTOR WILMER ESCOBAR",
+            "FECHA NACIMIENTO": "09/03/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.435.454",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "NÉSTOR WILMER ESCOBAR - 1596026933",
+            "AL PIE DE LA FIRMA": "NÉSTOR WILMER ESCOBAR - 1596026933"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1709861",
+            "CEDULA": "1596026933",
+            "NOMBRES": "NÉSTOR WILMER ESCOBAR",
+            "CREDITO": "5.435.454",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "152.753",
+            "E.A": "21.38%",
+            "RECOMPRA O DESEMBOLSO": "2.869.465",
+            "FIRMA ELLECTRONICA": "NÉSTOR WILMER ESCOBAR - 1596026933"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1596026933",
+            "NOMBRES": "NÉSTOR WILMER ESCOBAR",
+            "FIRMA ELLECTRONICA": "NÉSTOR WILMER ESCOBAR - 1596026933"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1596026933",
+            "NOMBRES": "NÉSTOR WILMER ESCOBAR",
+            "FIRMA ELLECTRONICA": "NÉSTOR WILMER ESCOBAR - 1596026933",
+            "AL PIE DE LA FIRMA": "NÉSTOR WILMER ESCOBAR - 1596026933"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NÉSTOR WILMER ESCOBAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1596026933",
+            "NOMBRES": "NÉSTOR WILMER ESCOBAR",
+            "SALARIO": "3.556.804",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1596026933",
+            "NOMBRES": "NÉSTOR WILMER ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "2.869.465"
+        }
+    }
+]

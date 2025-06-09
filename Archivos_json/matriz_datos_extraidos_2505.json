@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "312298556485",
+            "SOLICITUD": "9757982",
+            "CEDULA": "1132615566",
+            "NOMBRES": "AUGUSTO DAVID BERMÚDEZ MESA",
+            "RECOMPRA O DESEMBOLSO": "4.546.735",
+            "FIRMA ELLECTRONICA": "AUGUSTO DAVID BERMÚDEZ MESA - 1132615566"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "312298556485",
+            "NOMBRES": "AUGUSTO DAVID BERMÚDEZ MESA",
+            "CREDITO": "8.878.142",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "326.702",
+            "FIRMA ELLECTRONICA": "AUGUSTO DAVID BERMÚDEZ MESA - 1132615566",
+            "AL PIE DE LA FIRMA": "AUGUSTO DAVID BERMÚDEZ MESA - 1132615566"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1132615566",
+            "NOMBRES": "AUGUSTO DAVID BERMÚDEZ MESA",
+            "FECHA NACIMIENTO": "20/10/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.878.142",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "AUGUSTO DAVID BERMÚDEZ MESA - 1132615566",
+            "AL PIE DE LA FIRMA": "AUGUSTO DAVID BERMÚDEZ MESA - 1132615566"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9757982",
+            "CEDULA": "1132615566",
+            "NOMBRES": "AUGUSTO DAVID BERMÚDEZ MESA",
+            "CREDITO": "8.878.142",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "326.702",
+            "E.A": "22.26%",
+            "RECOMPRA O DESEMBOLSO": "4.546.735",
+            "FIRMA ELLECTRONICA": "AUGUSTO DAVID BERMÚDEZ MESA - 1132615566"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1132615566",
+            "NOMBRES": "AUGUSTO DAVID BERMÚDEZ MESA",
+            "FIRMA ELLECTRONICA": "AUGUSTO DAVID BERMÚDEZ MESA - 1132615566"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1132615566",
+            "NOMBRES": "AUGUSTO DAVID BERMÚDEZ MESA",
+            "FIRMA ELLECTRONICA": "AUGUSTO DAVID BERMÚDEZ MESA - 1132615566",
+            "AL PIE DE LA FIRMA": "AUGUSTO DAVID BERMÚDEZ MESA - 1132615566"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AUGUSTO DAVID BERMÚDEZ MESA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1132615566",
+            "NOMBRES": "AUGUSTO DAVID BERMÚDEZ MESA",
+            "SALARIO": "3.747.297",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1132615566",
+            "NOMBRES": "AUGUSTO DAVID BERMÚDEZ MESA",
+            "RECOMPRA O DESEMBOLSO": "4.546.735"
+        }
+    }
+]

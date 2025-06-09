@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "922793089963",
+            "SOLICITUD": "1144369",
+            "CEDULA": "1810862043",
+            "NOMBRES": "ANDRÉS VARGAS ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "3.400.136",
+            "FIRMA ELLECTRONICA": "ANDRÉS VARGAS ÁVILA - 1810862043"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "922793089963",
+            "NOMBRES": "ANDRÉS VARGAS ÁVILA",
+            "CREDITO": "17.448.336",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "329.443",
+            "FIRMA ELLECTRONICA": "ANDRÉS VARGAS ÁVILA - 1810862043",
+            "AL PIE DE LA FIRMA": "ANDRÉS VARGAS ÁVILA - 1810862043"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1810862043",
+            "NOMBRES": "ANDRÉS VARGAS ÁVILA",
+            "FECHA NACIMIENTO": "31/03/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.448.336",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS VARGAS ÁVILA - 1810862043",
+            "AL PIE DE LA FIRMA": "ANDRÉS VARGAS ÁVILA - 1810862043"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1144369",
+            "CEDULA": "1810862043",
+            "NOMBRES": "ANDRÉS VARGAS ÁVILA",
+            "CREDITO": "17.448.336",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "329.443",
+            "E.A": "19.15%",
+            "RECOMPRA O DESEMBOLSO": "3.400.136",
+            "FIRMA ELLECTRONICA": "ANDRÉS VARGAS ÁVILA - 1810862043"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1810862043",
+            "NOMBRES": "ANDRÉS VARGAS ÁVILA",
+            "FIRMA ELLECTRONICA": "ANDRÉS VARGAS ÁVILA - 1810862043"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1810862043",
+            "NOMBRES": "ANDRÉS VARGAS ÁVILA",
+            "FIRMA ELLECTRONICA": "ANDRÉS VARGAS ÁVILA - 1810862043",
+            "AL PIE DE LA FIRMA": "ANDRÉS VARGAS ÁVILA - 1810862043"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS VARGAS ÁVILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1810862043",
+            "NOMBRES": "ANDRÉS VARGAS ÁVILA",
+            "SALARIO": "3.800.484",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1810862043",
+            "NOMBRES": "ANDRÉS VARGAS ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "3.400.136"
+        }
+    }
+]

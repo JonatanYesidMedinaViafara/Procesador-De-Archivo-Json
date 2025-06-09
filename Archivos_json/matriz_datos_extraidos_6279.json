@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "111533274495",
+            "SOLICITUD": "1268279",
+            "CEDULA": "1060494910",
+            "NOMBRES": "INÉS PAZ",
+            "RECOMPRA O DESEMBOLSO": "3.506.904",
+            "FIRMA ELLECTRONICA": "INÉS PAZ - 1060494910"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "111533274495",
+            "NOMBRES": "INÉS PAZ",
+            "CREDITO": "15.306.128",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "128.613",
+            "FIRMA ELLECTRONICA": "INÉS PAZ - 1060494910",
+            "AL PIE DE LA FIRMA": "INÉS PAZ - 1060494910"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1060494910",
+            "NOMBRES": "INÉS PAZ",
+            "FECHA NACIMIENTO": "09/11/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.306.128",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "INÉS PAZ - 1060494910",
+            "AL PIE DE LA FIRMA": "INÉS PAZ - 1060494910"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1268279",
+            "CEDULA": "1060494910",
+            "NOMBRES": "INÉS PAZ",
+            "CREDITO": "15.306.128",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "128.613",
+            "E.A": "18.96%",
+            "RECOMPRA O DESEMBOLSO": "3.506.904",
+            "FIRMA ELLECTRONICA": "INÉS PAZ - 1060494910"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1060494910",
+            "NOMBRES": "INÉS PAZ",
+            "FIRMA ELLECTRONICA": "INÉS PAZ - 1060494910"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1060494910",
+            "NOMBRES": "INÉS PAZ",
+            "FIRMA ELLECTRONICA": "INÉS PAZ - 1060494910",
+            "AL PIE DE LA FIRMA": "INÉS PAZ - 1060494910"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "INÉS PAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1060494910",
+            "NOMBRES": "INÉS PAZ",
+            "SALARIO": "3.117.086",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1060494910",
+            "NOMBRES": "INÉS PAZ",
+            "RECOMPRA O DESEMBOLSO": "3.506.904"
+        }
+    }
+]

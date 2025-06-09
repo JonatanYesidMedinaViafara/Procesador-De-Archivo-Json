@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "796278369058",
+            "SOLICITUD": "4444754",
+            "CEDULA": "1504028286",
+            "NOMBRES": "ANDRÉS ANDERSON GIL OSPINA",
+            "RECOMPRA O DESEMBOLSO": "1.514.704",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDERSON GIL OSPINA - 1504028286"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "796278369058",
+            "NOMBRES": "ANDRÉS ANDERSON GIL OSPINA",
+            "CREDITO": "10.497.098",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "394.397",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDERSON GIL OSPINA - 1504028286",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDERSON GIL OSPINA - 1504028286"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1504028286",
+            "NOMBRES": "ANDRÉS ANDERSON GIL OSPINA",
+            "FECHA NACIMIENTO": "31/12/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.497.098",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDERSON GIL OSPINA - 1504028286",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDERSON GIL OSPINA - 1504028286"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4444754",
+            "CEDULA": "1504028286",
+            "NOMBRES": "ANDRÉS ANDERSON GIL OSPINA",
+            "CREDITO": "10.497.098",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "394.397",
+            "E.A": "20.86%",
+            "RECOMPRA O DESEMBOLSO": "1.514.704",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDERSON GIL OSPINA - 1504028286"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1504028286",
+            "NOMBRES": "ANDRÉS ANDERSON GIL OSPINA",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDERSON GIL OSPINA - 1504028286"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1504028286",
+            "NOMBRES": "ANDRÉS ANDERSON GIL OSPINA",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDERSON GIL OSPINA - 1504028286",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDERSON GIL OSPINA - 1504028286"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ANDERSON GIL OSPINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1504028286",
+            "NOMBRES": "ANDRÉS ANDERSON GIL OSPINA",
+            "SALARIO": "4.141.528",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1504028286",
+            "NOMBRES": "ANDRÉS ANDERSON GIL OSPINA",
+            "RECOMPRA O DESEMBOLSO": "1.514.704"
+        }
+    }
+]

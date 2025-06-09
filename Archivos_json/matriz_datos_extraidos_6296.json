@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "685847093418",
+            "SOLICITUD": "7772740",
+            "CEDULA": "1967017525",
+            "NOMBRES": "JORGE AGUDELO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.482.737",
+            "FIRMA ELLECTRONICA": "JORGE AGUDELO DÍAZ - 1967017525"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "685847093418",
+            "NOMBRES": "JORGE AGUDELO DÍAZ",
+            "CREDITO": "13.085.820",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "367.18",
+            "FIRMA ELLECTRONICA": "JORGE AGUDELO DÍAZ - 1967017525",
+            "AL PIE DE LA FIRMA": "JORGE AGUDELO DÍAZ - 1967017525"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1967017525",
+            "NOMBRES": "JORGE AGUDELO DÍAZ",
+            "FECHA NACIMIENTO": "02/01/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.085.820",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JORGE AGUDELO DÍAZ - 1967017525",
+            "AL PIE DE LA FIRMA": "JORGE AGUDELO DÍAZ - 1967017525"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7772740",
+            "CEDULA": "1967017525",
+            "NOMBRES": "JORGE AGUDELO DÍAZ",
+            "CREDITO": "13.085.820",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "367.18",
+            "E.A": "27.03%",
+            "RECOMPRA O DESEMBOLSO": "2.482.737",
+            "FIRMA ELLECTRONICA": "JORGE AGUDELO DÍAZ - 1967017525"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1967017525",
+            "NOMBRES": "JORGE AGUDELO DÍAZ",
+            "FIRMA ELLECTRONICA": "JORGE AGUDELO DÍAZ - 1967017525"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1967017525",
+            "NOMBRES": "JORGE AGUDELO DÍAZ",
+            "FIRMA ELLECTRONICA": "JORGE AGUDELO DÍAZ - 1967017525",
+            "AL PIE DE LA FIRMA": "JORGE AGUDELO DÍAZ - 1967017525"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE AGUDELO DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1967017525",
+            "NOMBRES": "JORGE AGUDELO DÍAZ",
+            "SALARIO": "4.522.552",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1967017525",
+            "NOMBRES": "JORGE AGUDELO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.482.737"
+        }
+    }
+]

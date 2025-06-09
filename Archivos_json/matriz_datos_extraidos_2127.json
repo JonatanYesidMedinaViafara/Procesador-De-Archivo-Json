@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "438727238144",
+            "SOLICITUD": "2179091",
+            "CEDULA": "1604626566",
+            "NOMBRES": "ANDREA MARÍA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.970.516",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA SÁNCHEZ - 1604626566"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "438727238144",
+            "NOMBRES": "ANDREA MARÍA SÁNCHEZ",
+            "CREDITO": "16.529.152",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "196.168",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA SÁNCHEZ - 1604626566",
+            "AL PIE DE LA FIRMA": "ANDREA MARÍA SÁNCHEZ - 1604626566"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1604626566",
+            "NOMBRES": "ANDREA MARÍA SÁNCHEZ",
+            "FECHA NACIMIENTO": "29/08/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.529.152",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA SÁNCHEZ - 1604626566",
+            "AL PIE DE LA FIRMA": "ANDREA MARÍA SÁNCHEZ - 1604626566"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2179091",
+            "CEDULA": "1604626566",
+            "NOMBRES": "ANDREA MARÍA SÁNCHEZ",
+            "CREDITO": "16.529.152",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "196.168",
+            "E.A": "19.62%",
+            "RECOMPRA O DESEMBOLSO": "1.970.516",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA SÁNCHEZ - 1604626566"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1604626566",
+            "NOMBRES": "ANDREA MARÍA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA SÁNCHEZ - 1604626566"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1604626566",
+            "NOMBRES": "ANDREA MARÍA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA SÁNCHEZ - 1604626566",
+            "AL PIE DE LA FIRMA": "ANDREA MARÍA SÁNCHEZ - 1604626566"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA MARÍA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1604626566",
+            "NOMBRES": "ANDREA MARÍA SÁNCHEZ",
+            "SALARIO": "3.938.987",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1604626566",
+            "NOMBRES": "ANDREA MARÍA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.970.516"
+        }
+    }
+]

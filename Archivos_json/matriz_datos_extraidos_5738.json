@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "554558880739",
+            "SOLICITUD": "9111586",
+            "CEDULA": "1738138468",
+            "NOMBRES": "MARÍA BOLAÑOS CAMARGO",
+            "RECOMPRA O DESEMBOLSO": "4.539.903",
+            "FIRMA ELLECTRONICA": "MARÍA BOLAÑOS CAMARGO - 1738138468"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "554558880739",
+            "NOMBRES": "MARÍA BOLAÑOS CAMARGO",
+            "CREDITO": "12.432.875",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "391.213",
+            "FIRMA ELLECTRONICA": "MARÍA BOLAÑOS CAMARGO - 1738138468",
+            "AL PIE DE LA FIRMA": "MARÍA BOLAÑOS CAMARGO - 1738138468"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1738138468",
+            "NOMBRES": "MARÍA BOLAÑOS CAMARGO",
+            "FECHA NACIMIENTO": "25/06/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.432.875",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA BOLAÑOS CAMARGO - 1738138468",
+            "AL PIE DE LA FIRMA": "MARÍA BOLAÑOS CAMARGO - 1738138468"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9111586",
+            "CEDULA": "1738138468",
+            "NOMBRES": "MARÍA BOLAÑOS CAMARGO",
+            "CREDITO": "12.432.875",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "391.213",
+            "E.A": "27.41%",
+            "RECOMPRA O DESEMBOLSO": "4.539.903",
+            "FIRMA ELLECTRONICA": "MARÍA BOLAÑOS CAMARGO - 1738138468"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1738138468",
+            "NOMBRES": "MARÍA BOLAÑOS CAMARGO",
+            "FIRMA ELLECTRONICA": "MARÍA BOLAÑOS CAMARGO - 1738138468"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1738138468",
+            "NOMBRES": "MARÍA BOLAÑOS CAMARGO",
+            "FIRMA ELLECTRONICA": "MARÍA BOLAÑOS CAMARGO - 1738138468",
+            "AL PIE DE LA FIRMA": "MARÍA BOLAÑOS CAMARGO - 1738138468"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA BOLAÑOS CAMARGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1738138468",
+            "NOMBRES": "MARÍA BOLAÑOS CAMARGO",
+            "SALARIO": "4.108.536",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1738138468",
+            "NOMBRES": "MARÍA BOLAÑOS CAMARGO",
+            "RECOMPRA O DESEMBOLSO": "4.539.903"
+        }
+    }
+]

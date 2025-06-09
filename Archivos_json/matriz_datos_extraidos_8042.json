@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "144901307204",
+            "SOLICITUD": "5575607",
+            "CEDULA": "1231431493",
+            "NOMBRES": "ALEXANDER VALENCIA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.922.163",
+            "FIRMA ELLECTRONICA": "ALEXANDER VALENCIA QUINTERO - 1231431493"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "144901307204",
+            "NOMBRES": "ALEXANDER VALENCIA QUINTERO",
+            "CREDITO": "17.487.762",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "250.767",
+            "FIRMA ELLECTRONICA": "ALEXANDER VALENCIA QUINTERO - 1231431493",
+            "AL PIE DE LA FIRMA": "ALEXANDER VALENCIA QUINTERO - 1231431493"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1231431493",
+            "NOMBRES": "ALEXANDER VALENCIA QUINTERO",
+            "FECHA NACIMIENTO": "03/09/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.487.762",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALEXANDER VALENCIA QUINTERO - 1231431493",
+            "AL PIE DE LA FIRMA": "ALEXANDER VALENCIA QUINTERO - 1231431493"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5575607",
+            "CEDULA": "1231431493",
+            "NOMBRES": "ALEXANDER VALENCIA QUINTERO",
+            "CREDITO": "17.487.762",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "250.767",
+            "E.A": "24.21%",
+            "RECOMPRA O DESEMBOLSO": "3.922.163",
+            "FIRMA ELLECTRONICA": "ALEXANDER VALENCIA QUINTERO - 1231431493"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1231431493",
+            "NOMBRES": "ALEXANDER VALENCIA QUINTERO",
+            "FIRMA ELLECTRONICA": "ALEXANDER VALENCIA QUINTERO - 1231431493"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1231431493",
+            "NOMBRES": "ALEXANDER VALENCIA QUINTERO",
+            "FIRMA ELLECTRONICA": "ALEXANDER VALENCIA QUINTERO - 1231431493",
+            "AL PIE DE LA FIRMA": "ALEXANDER VALENCIA QUINTERO - 1231431493"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER VALENCIA QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1231431493",
+            "NOMBRES": "ALEXANDER VALENCIA QUINTERO",
+            "SALARIO": "2.153.923",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1231431493",
+            "NOMBRES": "ALEXANDER VALENCIA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.922.163"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "508399444911",
+            "SOLICITUD": "6998494",
+            "CEDULA": "1621473600",
+            "NOMBRES": "CHRISTIAN PINZÓN",
+            "RECOMPRA O DESEMBOLSO": "4.099.235",
+            "FIRMA ELLECTRONICA": "CHRISTIAN PINZÓN - 1621473600"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "508399444911",
+            "NOMBRES": "CHRISTIAN PINZÓN",
+            "CREDITO": "16.019.679",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "172.925",
+            "FIRMA ELLECTRONICA": "CHRISTIAN PINZÓN - 1621473600",
+            "AL PIE DE LA FIRMA": "CHRISTIAN PINZÓN - 1621473600"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1621473600",
+            "NOMBRES": "CHRISTIAN PINZÓN",
+            "FECHA NACIMIENTO": "29/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.019.679",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CHRISTIAN PINZÓN - 1621473600",
+            "AL PIE DE LA FIRMA": "CHRISTIAN PINZÓN - 1621473600"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6998494",
+            "CEDULA": "1621473600",
+            "NOMBRES": "CHRISTIAN PINZÓN",
+            "CREDITO": "16.019.679",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "172.925",
+            "E.A": "24.01%",
+            "RECOMPRA O DESEMBOLSO": "4.099.235",
+            "FIRMA ELLECTRONICA": "CHRISTIAN PINZÓN - 1621473600"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1621473600",
+            "NOMBRES": "CHRISTIAN PINZÓN",
+            "FIRMA ELLECTRONICA": "CHRISTIAN PINZÓN - 1621473600"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1621473600",
+            "NOMBRES": "CHRISTIAN PINZÓN",
+            "FIRMA ELLECTRONICA": "CHRISTIAN PINZÓN - 1621473600",
+            "AL PIE DE LA FIRMA": "CHRISTIAN PINZÓN - 1621473600"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CHRISTIAN PINZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1621473600",
+            "NOMBRES": "CHRISTIAN PINZÓN",
+            "SALARIO": "1.169.874",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1621473600",
+            "NOMBRES": "CHRISTIAN PINZÓN",
+            "RECOMPRA O DESEMBOLSO": "4.099.235"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "841549470829",
+            "SOLICITUD": "3665085",
+            "CEDULA": "1199251831",
+            "NOMBRES": "SOCORRO MESA",
+            "RECOMPRA O DESEMBOLSO": "1.990.131",
+            "FIRMA ELLECTRONICA": "SOCORRO MESA - 1199251831"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "841549470829",
+            "NOMBRES": "SOCORRO MESA",
+            "CREDITO": "17.996.013",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "135.425",
+            "FIRMA ELLECTRONICA": "SOCORRO MESA - 1199251831",
+            "AL PIE DE LA FIRMA": "SOCORRO MESA - 1199251831"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1199251831",
+            "NOMBRES": "SOCORRO MESA",
+            "FECHA NACIMIENTO": "28/08/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.996.013",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SOCORRO MESA - 1199251831",
+            "AL PIE DE LA FIRMA": "SOCORRO MESA - 1199251831"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3665085",
+            "CEDULA": "1199251831",
+            "NOMBRES": "SOCORRO MESA",
+            "CREDITO": "17.996.013",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "135.425",
+            "E.A": "18.61%",
+            "RECOMPRA O DESEMBOLSO": "1.990.131",
+            "FIRMA ELLECTRONICA": "SOCORRO MESA - 1199251831"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1199251831",
+            "NOMBRES": "SOCORRO MESA",
+            "FIRMA ELLECTRONICA": "SOCORRO MESA - 1199251831"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1199251831",
+            "NOMBRES": "SOCORRO MESA",
+            "FIRMA ELLECTRONICA": "SOCORRO MESA - 1199251831",
+            "AL PIE DE LA FIRMA": "SOCORRO MESA - 1199251831"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SOCORRO MESA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1199251831",
+            "NOMBRES": "SOCORRO MESA",
+            "SALARIO": "2.679.347",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1199251831",
+            "NOMBRES": "SOCORRO MESA",
+            "RECOMPRA O DESEMBOLSO": "1.990.131"
+        }
+    }
+]

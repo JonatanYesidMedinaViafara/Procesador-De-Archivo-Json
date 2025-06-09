@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "937703386221",
+            "SOLICITUD": "3914095",
+            "CEDULA": "1146330175",
+            "NOMBRES": "EDUARDO YEPES",
+            "RECOMPRA O DESEMBOLSO": "2.849.099",
+            "FIRMA ELLECTRONICA": "EDUARDO YEPES - 1146330175"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "937703386221",
+            "NOMBRES": "EDUARDO YEPES",
+            "CREDITO": "10.676.868",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "170.379",
+            "FIRMA ELLECTRONICA": "EDUARDO YEPES - 1146330175",
+            "AL PIE DE LA FIRMA": "EDUARDO YEPES - 1146330175"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1146330175",
+            "NOMBRES": "EDUARDO YEPES",
+            "FECHA NACIMIENTO": "20/05/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.676.868",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDUARDO YEPES - 1146330175",
+            "AL PIE DE LA FIRMA": "EDUARDO YEPES - 1146330175"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3914095",
+            "CEDULA": "1146330175",
+            "NOMBRES": "EDUARDO YEPES",
+            "CREDITO": "10.676.868",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "170.379",
+            "E.A": "19.19%",
+            "RECOMPRA O DESEMBOLSO": "2.849.099",
+            "FIRMA ELLECTRONICA": "EDUARDO YEPES - 1146330175"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1146330175",
+            "NOMBRES": "EDUARDO YEPES",
+            "FIRMA ELLECTRONICA": "EDUARDO YEPES - 1146330175"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1146330175",
+            "NOMBRES": "EDUARDO YEPES",
+            "FIRMA ELLECTRONICA": "EDUARDO YEPES - 1146330175",
+            "AL PIE DE LA FIRMA": "EDUARDO YEPES - 1146330175"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO YEPES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1146330175",
+            "NOMBRES": "EDUARDO YEPES",
+            "SALARIO": "1.858.174",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1146330175",
+            "NOMBRES": "EDUARDO YEPES",
+            "RECOMPRA O DESEMBOLSO": "2.849.099"
+        }
+    }
+]

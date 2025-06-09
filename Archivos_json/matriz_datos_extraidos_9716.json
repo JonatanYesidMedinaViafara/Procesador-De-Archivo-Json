@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "269575580655",
+            "SOLICITUD": "6950691",
+            "CEDULA": "1967265540",
+            "NOMBRES": "YESID MIGUEL RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.797.505",
+            "FIRMA ELLECTRONICA": "YESID MIGUEL RODRÍGUEZ - 1967265540"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "269575580655",
+            "NOMBRES": "YESID MIGUEL RODRÍGUEZ",
+            "CREDITO": "6.411.785",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "354.639",
+            "FIRMA ELLECTRONICA": "YESID MIGUEL RODRÍGUEZ - 1967265540",
+            "AL PIE DE LA FIRMA": "YESID MIGUEL RODRÍGUEZ - 1967265540"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1967265540",
+            "NOMBRES": "YESID MIGUEL RODRÍGUEZ",
+            "FECHA NACIMIENTO": "05/04/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.411.785",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "YESID MIGUEL RODRÍGUEZ - 1967265540",
+            "AL PIE DE LA FIRMA": "YESID MIGUEL RODRÍGUEZ - 1967265540"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6950691",
+            "CEDULA": "1967265540",
+            "NOMBRES": "YESID MIGUEL RODRÍGUEZ",
+            "CREDITO": "6.411.785",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "354.639",
+            "E.A": "26.9%",
+            "RECOMPRA O DESEMBOLSO": "2.797.505",
+            "FIRMA ELLECTRONICA": "YESID MIGUEL RODRÍGUEZ - 1967265540"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1967265540",
+            "NOMBRES": "YESID MIGUEL RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "YESID MIGUEL RODRÍGUEZ - 1967265540"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1967265540",
+            "NOMBRES": "YESID MIGUEL RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "YESID MIGUEL RODRÍGUEZ - 1967265540",
+            "AL PIE DE LA FIRMA": "YESID MIGUEL RODRÍGUEZ - 1967265540"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YESID MIGUEL RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1967265540",
+            "NOMBRES": "YESID MIGUEL RODRÍGUEZ",
+            "SALARIO": "3.432.735",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1967265540",
+            "NOMBRES": "YESID MIGUEL RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.797.505"
+        }
+    }
+]

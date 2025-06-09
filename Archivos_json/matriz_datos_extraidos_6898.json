@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "596863895249",
+            "SOLICITUD": "4676759",
+            "CEDULA": "1954278021",
+            "NOMBRES": "PAULA RUEDA",
+            "RECOMPRA O DESEMBOLSO": "4.970.225",
+            "FIRMA ELLECTRONICA": "PAULA RUEDA - 1954278021"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "596863895249",
+            "NOMBRES": "PAULA RUEDA",
+            "CREDITO": "13.190.910",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "189.368",
+            "FIRMA ELLECTRONICA": "PAULA RUEDA - 1954278021",
+            "AL PIE DE LA FIRMA": "PAULA RUEDA - 1954278021"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1954278021",
+            "NOMBRES": "PAULA RUEDA",
+            "FECHA NACIMIENTO": "20/01/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.190.910",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "PAULA RUEDA - 1954278021",
+            "AL PIE DE LA FIRMA": "PAULA RUEDA - 1954278021"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4676759",
+            "CEDULA": "1954278021",
+            "NOMBRES": "PAULA RUEDA",
+            "CREDITO": "13.190.910",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "189.368",
+            "E.A": "24.85%",
+            "RECOMPRA O DESEMBOLSO": "4.970.225",
+            "FIRMA ELLECTRONICA": "PAULA RUEDA - 1954278021"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1954278021",
+            "NOMBRES": "PAULA RUEDA",
+            "FIRMA ELLECTRONICA": "PAULA RUEDA - 1954278021"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1954278021",
+            "NOMBRES": "PAULA RUEDA",
+            "FIRMA ELLECTRONICA": "PAULA RUEDA - 1954278021",
+            "AL PIE DE LA FIRMA": "PAULA RUEDA - 1954278021"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAULA RUEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1954278021",
+            "NOMBRES": "PAULA RUEDA",
+            "SALARIO": "4.036.052",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1954278021",
+            "NOMBRES": "PAULA RUEDA",
+            "RECOMPRA O DESEMBOLSO": "4.970.225"
+        }
+    }
+]

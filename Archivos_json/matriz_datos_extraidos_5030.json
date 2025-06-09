@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "797393938073",
+            "SOLICITUD": "2214943",
+            "CEDULA": "1389179307",
+            "NOMBRES": "YOHANA LEAL",
+            "RECOMPRA O DESEMBOLSO": "4.519.021",
+            "FIRMA ELLECTRONICA": "YOHANA LEAL - 1389179307"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "797393938073",
+            "NOMBRES": "YOHANA LEAL",
+            "CREDITO": "7.324.574",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "122.999",
+            "FIRMA ELLECTRONICA": "YOHANA LEAL - 1389179307",
+            "AL PIE DE LA FIRMA": "YOHANA LEAL - 1389179307"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1389179307",
+            "NOMBRES": "YOHANA LEAL",
+            "FECHA NACIMIENTO": "30/10/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.324.574",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "YOHANA LEAL - 1389179307",
+            "AL PIE DE LA FIRMA": "YOHANA LEAL - 1389179307"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2214943",
+            "CEDULA": "1389179307",
+            "NOMBRES": "YOHANA LEAL",
+            "CREDITO": "7.324.574",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "122.999",
+            "E.A": "26.13%",
+            "RECOMPRA O DESEMBOLSO": "4.519.021",
+            "FIRMA ELLECTRONICA": "YOHANA LEAL - 1389179307"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1389179307",
+            "NOMBRES": "YOHANA LEAL",
+            "FIRMA ELLECTRONICA": "YOHANA LEAL - 1389179307"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1389179307",
+            "NOMBRES": "YOHANA LEAL",
+            "FIRMA ELLECTRONICA": "YOHANA LEAL - 1389179307",
+            "AL PIE DE LA FIRMA": "YOHANA LEAL - 1389179307"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YOHANA LEAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1389179307",
+            "NOMBRES": "YOHANA LEAL",
+            "SALARIO": "3.054.051",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1389179307",
+            "NOMBRES": "YOHANA LEAL",
+            "RECOMPRA O DESEMBOLSO": "4.519.021"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "853196382222",
+            "SOLICITUD": "8807774",
+            "CEDULA": "1004294043",
+            "NOMBRES": "MIGUEL ORLANDO LEÓN",
+            "RECOMPRA O DESEMBOLSO": "1.152.731",
+            "FIRMA ELLECTRONICA": "MIGUEL ORLANDO LEÓN - 1004294043"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "853196382222",
+            "NOMBRES": "MIGUEL ORLANDO LEÓN",
+            "CREDITO": "10.598.349",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "393.767",
+            "FIRMA ELLECTRONICA": "MIGUEL ORLANDO LEÓN - 1004294043",
+            "AL PIE DE LA FIRMA": "MIGUEL ORLANDO LEÓN - 1004294043"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1004294043",
+            "NOMBRES": "MIGUEL ORLANDO LEÓN",
+            "FECHA NACIMIENTO": "24/12/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.598.349",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MIGUEL ORLANDO LEÓN - 1004294043",
+            "AL PIE DE LA FIRMA": "MIGUEL ORLANDO LEÓN - 1004294043"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8807774",
+            "CEDULA": "1004294043",
+            "NOMBRES": "MIGUEL ORLANDO LEÓN",
+            "CREDITO": "10.598.349",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "393.767",
+            "E.A": "22.88%",
+            "RECOMPRA O DESEMBOLSO": "1.152.731",
+            "FIRMA ELLECTRONICA": "MIGUEL ORLANDO LEÓN - 1004294043"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1004294043",
+            "NOMBRES": "MIGUEL ORLANDO LEÓN",
+            "FIRMA ELLECTRONICA": "MIGUEL ORLANDO LEÓN - 1004294043"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1004294043",
+            "NOMBRES": "MIGUEL ORLANDO LEÓN",
+            "FIRMA ELLECTRONICA": "MIGUEL ORLANDO LEÓN - 1004294043",
+            "AL PIE DE LA FIRMA": "MIGUEL ORLANDO LEÓN - 1004294043"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL ORLANDO LEÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1004294043",
+            "NOMBRES": "MIGUEL ORLANDO LEÓN",
+            "SALARIO": "2.010.979",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1004294043",
+            "NOMBRES": "MIGUEL ORLANDO LEÓN",
+            "RECOMPRA O DESEMBOLSO": "1.152.731"
+        }
+    }
+]

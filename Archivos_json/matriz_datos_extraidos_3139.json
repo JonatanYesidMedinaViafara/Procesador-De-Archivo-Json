@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "360805945834",
+            "SOLICITUD": "1224828",
+            "CEDULA": "1336553227",
+            "NOMBRES": "FRANCIA ARENAS",
+            "RECOMPRA O DESEMBOLSO": "2.105.185",
+            "FIRMA ELLECTRONICA": "FRANCIA ARENAS - 1336553227"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "360805945834",
+            "NOMBRES": "FRANCIA ARENAS",
+            "CREDITO": "16.475.077",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "273.021",
+            "FIRMA ELLECTRONICA": "FRANCIA ARENAS - 1336553227",
+            "AL PIE DE LA FIRMA": "FRANCIA ARENAS - 1336553227"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1336553227",
+            "NOMBRES": "FRANCIA ARENAS",
+            "FECHA NACIMIENTO": "30/12/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.475.077",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FRANCIA ARENAS - 1336553227",
+            "AL PIE DE LA FIRMA": "FRANCIA ARENAS - 1336553227"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1224828",
+            "CEDULA": "1336553227",
+            "NOMBRES": "FRANCIA ARENAS",
+            "CREDITO": "16.475.077",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "273.021",
+            "E.A": "27.27%",
+            "RECOMPRA O DESEMBOLSO": "2.105.185",
+            "FIRMA ELLECTRONICA": "FRANCIA ARENAS - 1336553227"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1336553227",
+            "NOMBRES": "FRANCIA ARENAS",
+            "FIRMA ELLECTRONICA": "FRANCIA ARENAS - 1336553227"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1336553227",
+            "NOMBRES": "FRANCIA ARENAS",
+            "FIRMA ELLECTRONICA": "FRANCIA ARENAS - 1336553227",
+            "AL PIE DE LA FIRMA": "FRANCIA ARENAS - 1336553227"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCIA ARENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1336553227",
+            "NOMBRES": "FRANCIA ARENAS",
+            "SALARIO": "2.943.819",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1336553227",
+            "NOMBRES": "FRANCIA ARENAS",
+            "RECOMPRA O DESEMBOLSO": "2.105.185"
+        }
+    }
+]

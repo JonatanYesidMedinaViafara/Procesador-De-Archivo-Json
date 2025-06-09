@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "654489427336",
+            "SOLICITUD": "9215485",
+            "CEDULA": "1663130925",
+            "NOMBRES": "MIREYA LOZANO",
+            "RECOMPRA O DESEMBOLSO": "1.667.956",
+            "FIRMA ELLECTRONICA": "MIREYA LOZANO - 1663130925"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "654489427336",
+            "NOMBRES": "MIREYA LOZANO",
+            "CREDITO": "10.791.949",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "264.79",
+            "FIRMA ELLECTRONICA": "MIREYA LOZANO - 1663130925",
+            "AL PIE DE LA FIRMA": "MIREYA LOZANO - 1663130925"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1663130925",
+            "NOMBRES": "MIREYA LOZANO",
+            "FECHA NACIMIENTO": "15/08/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.791.949",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MIREYA LOZANO - 1663130925",
+            "AL PIE DE LA FIRMA": "MIREYA LOZANO - 1663130925"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9215485",
+            "CEDULA": "1663130925",
+            "NOMBRES": "MIREYA LOZANO",
+            "CREDITO": "10.791.949",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "264.79",
+            "E.A": "23.27%",
+            "RECOMPRA O DESEMBOLSO": "1.667.956",
+            "FIRMA ELLECTRONICA": "MIREYA LOZANO - 1663130925"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1663130925",
+            "NOMBRES": "MIREYA LOZANO",
+            "FIRMA ELLECTRONICA": "MIREYA LOZANO - 1663130925"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1663130925",
+            "NOMBRES": "MIREYA LOZANO",
+            "FIRMA ELLECTRONICA": "MIREYA LOZANO - 1663130925",
+            "AL PIE DE LA FIRMA": "MIREYA LOZANO - 1663130925"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIREYA LOZANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1663130925",
+            "NOMBRES": "MIREYA LOZANO",
+            "SALARIO": "2.801.890",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1663130925",
+            "NOMBRES": "MIREYA LOZANO",
+            "RECOMPRA O DESEMBOLSO": "1.667.956"
+        }
+    }
+]

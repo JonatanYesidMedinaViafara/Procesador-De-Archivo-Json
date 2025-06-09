@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "430975051902",
+            "SOLICITUD": "1988775",
+            "CEDULA": "1458165736",
+            "NOMBRES": "CARLOS JOHN DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.813.417",
+            "FIRMA ELLECTRONICA": "CARLOS JOHN DÍAZ - 1458165736"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "430975051902",
+            "NOMBRES": "CARLOS JOHN DÍAZ",
+            "CREDITO": "19.350.080",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "150.708",
+            "FIRMA ELLECTRONICA": "CARLOS JOHN DÍAZ - 1458165736",
+            "AL PIE DE LA FIRMA": "CARLOS JOHN DÍAZ - 1458165736"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1458165736",
+            "NOMBRES": "CARLOS JOHN DÍAZ",
+            "FECHA NACIMIENTO": "02/12/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.350.080",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS JOHN DÍAZ - 1458165736",
+            "AL PIE DE LA FIRMA": "CARLOS JOHN DÍAZ - 1458165736"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1988775",
+            "CEDULA": "1458165736",
+            "NOMBRES": "CARLOS JOHN DÍAZ",
+            "CREDITO": "19.350.080",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "150.708",
+            "E.A": "19.14%",
+            "RECOMPRA O DESEMBOLSO": "4.813.417",
+            "FIRMA ELLECTRONICA": "CARLOS JOHN DÍAZ - 1458165736"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1458165736",
+            "NOMBRES": "CARLOS JOHN DÍAZ",
+            "FIRMA ELLECTRONICA": "CARLOS JOHN DÍAZ - 1458165736"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1458165736",
+            "NOMBRES": "CARLOS JOHN DÍAZ",
+            "FIRMA ELLECTRONICA": "CARLOS JOHN DÍAZ - 1458165736",
+            "AL PIE DE LA FIRMA": "CARLOS JOHN DÍAZ - 1458165736"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS JOHN DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1458165736",
+            "NOMBRES": "CARLOS JOHN DÍAZ",
+            "SALARIO": "3.710.418",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1458165736",
+            "NOMBRES": "CARLOS JOHN DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.813.417"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "894800327469",
+            "SOLICITUD": "7174558",
+            "CEDULA": "1857142295",
+            "NOMBRES": "CANDELARIA MENA ARENAS",
+            "RECOMPRA O DESEMBOLSO": "4.138.953",
+            "FIRMA ELLECTRONICA": "CANDELARIA MENA ARENAS - 1857142295"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "894800327469",
+            "NOMBRES": "CANDELARIA MENA ARENAS",
+            "CREDITO": "18.731.050",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "280.908",
+            "FIRMA ELLECTRONICA": "CANDELARIA MENA ARENAS - 1857142295",
+            "AL PIE DE LA FIRMA": "CANDELARIA MENA ARENAS - 1857142295"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1857142295",
+            "NOMBRES": "CANDELARIA MENA ARENAS",
+            "FECHA NACIMIENTO": "15/02/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.731.050",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CANDELARIA MENA ARENAS - 1857142295",
+            "AL PIE DE LA FIRMA": "CANDELARIA MENA ARENAS - 1857142295"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7174558",
+            "CEDULA": "1857142295",
+            "NOMBRES": "CANDELARIA MENA ARENAS",
+            "CREDITO": "18.731.050",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "280.908",
+            "E.A": "24.34%",
+            "RECOMPRA O DESEMBOLSO": "4.138.953",
+            "FIRMA ELLECTRONICA": "CANDELARIA MENA ARENAS - 1857142295"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1857142295",
+            "NOMBRES": "CANDELARIA MENA ARENAS",
+            "FIRMA ELLECTRONICA": "CANDELARIA MENA ARENAS - 1857142295"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1857142295",
+            "NOMBRES": "CANDELARIA MENA ARENAS",
+            "FIRMA ELLECTRONICA": "CANDELARIA MENA ARENAS - 1857142295",
+            "AL PIE DE LA FIRMA": "CANDELARIA MENA ARENAS - 1857142295"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CANDELARIA MENA ARENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1857142295",
+            "NOMBRES": "CANDELARIA MENA ARENAS",
+            "SALARIO": "1.647.565",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1857142295",
+            "NOMBRES": "CANDELARIA MENA ARENAS",
+            "RECOMPRA O DESEMBOLSO": "4.138.953"
+        }
+    }
+]

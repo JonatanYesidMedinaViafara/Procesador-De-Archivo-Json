@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "156091169779",
+            "SOLICITUD": "1032932",
+            "CEDULA": "1232851781",
+            "NOMBRES": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "3.995.455",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS - 1232851781"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "156091169779",
+            "NOMBRES": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS",
+            "CREDITO": "8.450.971",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "208.42",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS - 1232851781",
+            "AL PIE DE LA FIRMA": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS - 1232851781"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1232851781",
+            "NOMBRES": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS",
+            "FECHA NACIMIENTO": "03/12/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.450.971",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS - 1232851781",
+            "AL PIE DE LA FIRMA": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS - 1232851781"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1032932",
+            "CEDULA": "1232851781",
+            "NOMBRES": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS",
+            "CREDITO": "8.450.971",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "208.42",
+            "E.A": "26.32%",
+            "RECOMPRA O DESEMBOLSO": "3.995.455",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS - 1232851781"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1232851781",
+            "NOMBRES": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS - 1232851781"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1232851781",
+            "NOMBRES": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS - 1232851781",
+            "AL PIE DE LA FIRMA": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS - 1232851781"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1232851781",
+            "NOMBRES": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS",
+            "SALARIO": "4.527.001",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1232851781",
+            "NOMBRES": "JOSÉ ALEJANDRO SÁNCHEZ CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "3.995.455"
+        }
+    }
+]

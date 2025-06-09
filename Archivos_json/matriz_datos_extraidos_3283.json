@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "901268648213",
+            "SOLICITUD": "8078637",
+            "CEDULA": "1100615207",
+            "NOMBRES": "GUILLERMO GARCÍA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.812.947",
+            "FIRMA ELLECTRONICA": "GUILLERMO GARCÍA DÍAZ - 1100615207"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "901268648213",
+            "NOMBRES": "GUILLERMO GARCÍA DÍAZ",
+            "CREDITO": "10.044.193",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "303.754",
+            "FIRMA ELLECTRONICA": "GUILLERMO GARCÍA DÍAZ - 1100615207",
+            "AL PIE DE LA FIRMA": "GUILLERMO GARCÍA DÍAZ - 1100615207"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1100615207",
+            "NOMBRES": "GUILLERMO GARCÍA DÍAZ",
+            "FECHA NACIMIENTO": "07/01/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.044.193",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "GUILLERMO GARCÍA DÍAZ - 1100615207",
+            "AL PIE DE LA FIRMA": "GUILLERMO GARCÍA DÍAZ - 1100615207"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8078637",
+            "CEDULA": "1100615207",
+            "NOMBRES": "GUILLERMO GARCÍA DÍAZ",
+            "CREDITO": "10.044.193",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "303.754",
+            "E.A": "25.36%",
+            "RECOMPRA O DESEMBOLSO": "4.812.947",
+            "FIRMA ELLECTRONICA": "GUILLERMO GARCÍA DÍAZ - 1100615207"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1100615207",
+            "NOMBRES": "GUILLERMO GARCÍA DÍAZ",
+            "FIRMA ELLECTRONICA": "GUILLERMO GARCÍA DÍAZ - 1100615207"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1100615207",
+            "NOMBRES": "GUILLERMO GARCÍA DÍAZ",
+            "FIRMA ELLECTRONICA": "GUILLERMO GARCÍA DÍAZ - 1100615207",
+            "AL PIE DE LA FIRMA": "GUILLERMO GARCÍA DÍAZ - 1100615207"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GUILLERMO GARCÍA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1100615207",
+            "NOMBRES": "GUILLERMO GARCÍA DÍAZ",
+            "SALARIO": "1.362.570",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1100615207",
+            "NOMBRES": "GUILLERMO GARCÍA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.812.947"
+        }
+    }
+]

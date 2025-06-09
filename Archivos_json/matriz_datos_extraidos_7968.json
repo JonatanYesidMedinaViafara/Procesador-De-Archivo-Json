@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "901657106065",
+            "SOLICITUD": "6576704",
+            "CEDULA": "1512063385",
+            "NOMBRES": "ANTONIO ERNESTO MONTES MOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.320.761",
+            "FIRMA ELLECTRONICA": "ANTONIO ERNESTO MONTES MOLANO - 1512063385"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "901657106065",
+            "NOMBRES": "ANTONIO ERNESTO MONTES MOLANO",
+            "CREDITO": "9.713.364",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "112.366",
+            "FIRMA ELLECTRONICA": "ANTONIO ERNESTO MONTES MOLANO - 1512063385",
+            "AL PIE DE LA FIRMA": "ANTONIO ERNESTO MONTES MOLANO - 1512063385"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1512063385",
+            "NOMBRES": "ANTONIO ERNESTO MONTES MOLANO",
+            "FECHA NACIMIENTO": "28/07/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.713.364",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANTONIO ERNESTO MONTES MOLANO - 1512063385",
+            "AL PIE DE LA FIRMA": "ANTONIO ERNESTO MONTES MOLANO - 1512063385"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6576704",
+            "CEDULA": "1512063385",
+            "NOMBRES": "ANTONIO ERNESTO MONTES MOLANO",
+            "CREDITO": "9.713.364",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "112.366",
+            "E.A": "27.55%",
+            "RECOMPRA O DESEMBOLSO": "2.320.761",
+            "FIRMA ELLECTRONICA": "ANTONIO ERNESTO MONTES MOLANO - 1512063385"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1512063385",
+            "NOMBRES": "ANTONIO ERNESTO MONTES MOLANO",
+            "FIRMA ELLECTRONICA": "ANTONIO ERNESTO MONTES MOLANO - 1512063385"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1512063385",
+            "NOMBRES": "ANTONIO ERNESTO MONTES MOLANO",
+            "FIRMA ELLECTRONICA": "ANTONIO ERNESTO MONTES MOLANO - 1512063385",
+            "AL PIE DE LA FIRMA": "ANTONIO ERNESTO MONTES MOLANO - 1512063385"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO ERNESTO MONTES MOLANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1512063385",
+            "NOMBRES": "ANTONIO ERNESTO MONTES MOLANO",
+            "SALARIO": "2.233.693",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1512063385",
+            "NOMBRES": "ANTONIO ERNESTO MONTES MOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.320.761"
+        }
+    }
+]

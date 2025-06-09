@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "318895043528",
+            "SOLICITUD": "1796890",
+            "CEDULA": "1303622827",
+            "NOMBRES": "CONSUELO CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.248.191",
+            "FIRMA ELLECTRONICA": "CONSUELO CARRILLO - 1303622827"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "318895043528",
+            "NOMBRES": "CONSUELO CARRILLO",
+            "CREDITO": "7.585.728",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "347.822",
+            "FIRMA ELLECTRONICA": "CONSUELO CARRILLO - 1303622827",
+            "AL PIE DE LA FIRMA": "CONSUELO CARRILLO - 1303622827"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1303622827",
+            "NOMBRES": "CONSUELO CARRILLO",
+            "FECHA NACIMIENTO": "14/06/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.585.728",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CONSUELO CARRILLO - 1303622827",
+            "AL PIE DE LA FIRMA": "CONSUELO CARRILLO - 1303622827"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1796890",
+            "CEDULA": "1303622827",
+            "NOMBRES": "CONSUELO CARRILLO",
+            "CREDITO": "7.585.728",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "347.822",
+            "E.A": "26.66%",
+            "RECOMPRA O DESEMBOLSO": "3.248.191",
+            "FIRMA ELLECTRONICA": "CONSUELO CARRILLO - 1303622827"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1303622827",
+            "NOMBRES": "CONSUELO CARRILLO",
+            "FIRMA ELLECTRONICA": "CONSUELO CARRILLO - 1303622827"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1303622827",
+            "NOMBRES": "CONSUELO CARRILLO",
+            "FIRMA ELLECTRONICA": "CONSUELO CARRILLO - 1303622827",
+            "AL PIE DE LA FIRMA": "CONSUELO CARRILLO - 1303622827"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CONSUELO CARRILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1303622827",
+            "NOMBRES": "CONSUELO CARRILLO",
+            "SALARIO": "4.225.900",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1303622827",
+            "NOMBRES": "CONSUELO CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.248.191"
+        }
+    }
+]

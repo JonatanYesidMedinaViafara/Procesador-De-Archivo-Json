@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "194942993475",
+            "SOLICITUD": "1877706",
+            "CEDULA": "1977210704",
+            "NOMBRES": "ANDRÉS ANTONIO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.818.525",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO LÓPEZ - 1977210704"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "194942993475",
+            "NOMBRES": "ANDRÉS ANTONIO LÓPEZ",
+            "CREDITO": "14.655.239",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "235.966",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO LÓPEZ - 1977210704",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANTONIO LÓPEZ - 1977210704"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1977210704",
+            "NOMBRES": "ANDRÉS ANTONIO LÓPEZ",
+            "FECHA NACIMIENTO": "10/03/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.655.239",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO LÓPEZ - 1977210704",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANTONIO LÓPEZ - 1977210704"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1877706",
+            "CEDULA": "1977210704",
+            "NOMBRES": "ANDRÉS ANTONIO LÓPEZ",
+            "CREDITO": "14.655.239",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "235.966",
+            "E.A": "23.09%",
+            "RECOMPRA O DESEMBOLSO": "1.818.525",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO LÓPEZ - 1977210704"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1977210704",
+            "NOMBRES": "ANDRÉS ANTONIO LÓPEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO LÓPEZ - 1977210704"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1977210704",
+            "NOMBRES": "ANDRÉS ANTONIO LÓPEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO LÓPEZ - 1977210704",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANTONIO LÓPEZ - 1977210704"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ANTONIO LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1977210704",
+            "NOMBRES": "ANDRÉS ANTONIO LÓPEZ",
+            "SALARIO": "4.374.457",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1977210704",
+            "NOMBRES": "ANDRÉS ANTONIO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.818.525"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "324983228320",
+            "SOLICITUD": "9405840",
+            "CEDULA": "1601060960",
+            "NOMBRES": "JUAN ÓSCAR FRANCO BAUTISTA",
+            "RECOMPRA O DESEMBOLSO": "4.624.090",
+            "FIRMA ELLECTRONICA": "JUAN ÓSCAR FRANCO BAUTISTA - 1601060960"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "324983228320",
+            "NOMBRES": "JUAN ÓSCAR FRANCO BAUTISTA",
+            "CREDITO": "11.681.338",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "139.923",
+            "FIRMA ELLECTRONICA": "JUAN ÓSCAR FRANCO BAUTISTA - 1601060960",
+            "AL PIE DE LA FIRMA": "JUAN ÓSCAR FRANCO BAUTISTA - 1601060960"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1601060960",
+            "NOMBRES": "JUAN ÓSCAR FRANCO BAUTISTA",
+            "FECHA NACIMIENTO": "08/11/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.681.338",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN ÓSCAR FRANCO BAUTISTA - 1601060960",
+            "AL PIE DE LA FIRMA": "JUAN ÓSCAR FRANCO BAUTISTA - 1601060960"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9405840",
+            "CEDULA": "1601060960",
+            "NOMBRES": "JUAN ÓSCAR FRANCO BAUTISTA",
+            "CREDITO": "11.681.338",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "139.923",
+            "E.A": "19.73%",
+            "RECOMPRA O DESEMBOLSO": "4.624.090",
+            "FIRMA ELLECTRONICA": "JUAN ÓSCAR FRANCO BAUTISTA - 1601060960"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1601060960",
+            "NOMBRES": "JUAN ÓSCAR FRANCO BAUTISTA",
+            "FIRMA ELLECTRONICA": "JUAN ÓSCAR FRANCO BAUTISTA - 1601060960"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1601060960",
+            "NOMBRES": "JUAN ÓSCAR FRANCO BAUTISTA",
+            "FIRMA ELLECTRONICA": "JUAN ÓSCAR FRANCO BAUTISTA - 1601060960",
+            "AL PIE DE LA FIRMA": "JUAN ÓSCAR FRANCO BAUTISTA - 1601060960"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ÓSCAR FRANCO BAUTISTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1601060960",
+            "NOMBRES": "JUAN ÓSCAR FRANCO BAUTISTA",
+            "SALARIO": "3.852.125",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1601060960",
+            "NOMBRES": "JUAN ÓSCAR FRANCO BAUTISTA",
+            "RECOMPRA O DESEMBOLSO": "4.624.090"
+        }
+    }
+]

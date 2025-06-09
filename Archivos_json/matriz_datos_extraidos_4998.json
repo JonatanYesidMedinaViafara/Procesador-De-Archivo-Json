@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "312771420187",
+            "SOLICITUD": "4093512",
+            "CEDULA": "1276428316",
+            "NOMBRES": "FRANCISCO TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.664.709",
+            "FIRMA ELLECTRONICA": "FRANCISCO TORRES - 1276428316"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "312771420187",
+            "NOMBRES": "FRANCISCO TORRES",
+            "CREDITO": "7.255.859",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "193.294",
+            "FIRMA ELLECTRONICA": "FRANCISCO TORRES - 1276428316",
+            "AL PIE DE LA FIRMA": "FRANCISCO TORRES - 1276428316"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1276428316",
+            "NOMBRES": "FRANCISCO TORRES",
+            "FECHA NACIMIENTO": "20/08/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.255.859",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FRANCISCO TORRES - 1276428316",
+            "AL PIE DE LA FIRMA": "FRANCISCO TORRES - 1276428316"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4093512",
+            "CEDULA": "1276428316",
+            "NOMBRES": "FRANCISCO TORRES",
+            "CREDITO": "7.255.859",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "193.294",
+            "E.A": "28.36%",
+            "RECOMPRA O DESEMBOLSO": "2.664.709",
+            "FIRMA ELLECTRONICA": "FRANCISCO TORRES - 1276428316"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1276428316",
+            "NOMBRES": "FRANCISCO TORRES",
+            "FIRMA ELLECTRONICA": "FRANCISCO TORRES - 1276428316"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1276428316",
+            "NOMBRES": "FRANCISCO TORRES",
+            "FIRMA ELLECTRONICA": "FRANCISCO TORRES - 1276428316",
+            "AL PIE DE LA FIRMA": "FRANCISCO TORRES - 1276428316"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1276428316",
+            "NOMBRES": "FRANCISCO TORRES",
+            "SALARIO": "4.388.299",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1276428316",
+            "NOMBRES": "FRANCISCO TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.664.709"
+        }
+    }
+]

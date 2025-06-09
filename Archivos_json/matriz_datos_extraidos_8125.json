@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "205275347194",
+            "SOLICITUD": "2275000",
+            "CEDULA": "1862962738",
+            "NOMBRES": "NOHORA QUINTERO GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "3.458.973",
+            "FIRMA ELLECTRONICA": "NOHORA QUINTERO GALLEGO - 1862962738"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "205275347194",
+            "NOMBRES": "NOHORA QUINTERO GALLEGO",
+            "CREDITO": "5.358.910",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "131.302",
+            "FIRMA ELLECTRONICA": "NOHORA QUINTERO GALLEGO - 1862962738",
+            "AL PIE DE LA FIRMA": "NOHORA QUINTERO GALLEGO - 1862962738"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1862962738",
+            "NOMBRES": "NOHORA QUINTERO GALLEGO",
+            "FECHA NACIMIENTO": "07/04/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.358.910",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "NOHORA QUINTERO GALLEGO - 1862962738",
+            "AL PIE DE LA FIRMA": "NOHORA QUINTERO GALLEGO - 1862962738"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2275000",
+            "CEDULA": "1862962738",
+            "NOMBRES": "NOHORA QUINTERO GALLEGO",
+            "CREDITO": "5.358.910",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "131.302",
+            "E.A": "22.59%",
+            "RECOMPRA O DESEMBOLSO": "3.458.973",
+            "FIRMA ELLECTRONICA": "NOHORA QUINTERO GALLEGO - 1862962738"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1862962738",
+            "NOMBRES": "NOHORA QUINTERO GALLEGO",
+            "FIRMA ELLECTRONICA": "NOHORA QUINTERO GALLEGO - 1862962738"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1862962738",
+            "NOMBRES": "NOHORA QUINTERO GALLEGO",
+            "FIRMA ELLECTRONICA": "NOHORA QUINTERO GALLEGO - 1862962738",
+            "AL PIE DE LA FIRMA": "NOHORA QUINTERO GALLEGO - 1862962738"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NOHORA QUINTERO GALLEGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1862962738",
+            "NOMBRES": "NOHORA QUINTERO GALLEGO",
+            "SALARIO": "1.418.860",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1862962738",
+            "NOMBRES": "NOHORA QUINTERO GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "3.458.973"
+        }
+    }
+]

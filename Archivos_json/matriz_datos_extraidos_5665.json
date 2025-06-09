@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "455172157564",
+            "SOLICITUD": "9168496",
+            "CEDULA": "1850242019",
+            "NOMBRES": "NELSON MENA",
+            "RECOMPRA O DESEMBOLSO": "1.645.718",
+            "FIRMA ELLECTRONICA": "NELSON MENA - 1850242019"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "455172157564",
+            "NOMBRES": "NELSON MENA",
+            "CREDITO": "13.064.486",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "154.78",
+            "FIRMA ELLECTRONICA": "NELSON MENA - 1850242019",
+            "AL PIE DE LA FIRMA": "NELSON MENA - 1850242019"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1850242019",
+            "NOMBRES": "NELSON MENA",
+            "FECHA NACIMIENTO": "24/07/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.064.486",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "NELSON MENA - 1850242019",
+            "AL PIE DE LA FIRMA": "NELSON MENA - 1850242019"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9168496",
+            "CEDULA": "1850242019",
+            "NOMBRES": "NELSON MENA",
+            "CREDITO": "13.064.486",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "154.78",
+            "E.A": "26.63%",
+            "RECOMPRA O DESEMBOLSO": "1.645.718",
+            "FIRMA ELLECTRONICA": "NELSON MENA - 1850242019"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1850242019",
+            "NOMBRES": "NELSON MENA",
+            "FIRMA ELLECTRONICA": "NELSON MENA - 1850242019"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1850242019",
+            "NOMBRES": "NELSON MENA",
+            "FIRMA ELLECTRONICA": "NELSON MENA - 1850242019",
+            "AL PIE DE LA FIRMA": "NELSON MENA - 1850242019"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NELSON MENA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1850242019",
+            "NOMBRES": "NELSON MENA",
+            "SALARIO": "1.895.260",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1850242019",
+            "NOMBRES": "NELSON MENA",
+            "RECOMPRA O DESEMBOLSO": "1.645.718"
+        }
+    }
+]

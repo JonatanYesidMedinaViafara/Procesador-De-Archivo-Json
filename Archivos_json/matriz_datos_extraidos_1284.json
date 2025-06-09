@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "164443081050",
+            "SOLICITUD": "9031217",
+            "CEDULA": "1376746699",
+            "NOMBRES": "MILENA MARÍA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.039.149",
+            "FIRMA ELLECTRONICA": "MILENA MARÍA MARTÍNEZ - 1376746699"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "164443081050",
+            "NOMBRES": "MILENA MARÍA MARTÍNEZ",
+            "CREDITO": "11.594.424",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "274.057",
+            "FIRMA ELLECTRONICA": "MILENA MARÍA MARTÍNEZ - 1376746699",
+            "AL PIE DE LA FIRMA": "MILENA MARÍA MARTÍNEZ - 1376746699"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1376746699",
+            "NOMBRES": "MILENA MARÍA MARTÍNEZ",
+            "FECHA NACIMIENTO": "23/11/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.594.424",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MILENA MARÍA MARTÍNEZ - 1376746699",
+            "AL PIE DE LA FIRMA": "MILENA MARÍA MARTÍNEZ - 1376746699"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9031217",
+            "CEDULA": "1376746699",
+            "NOMBRES": "MILENA MARÍA MARTÍNEZ",
+            "CREDITO": "11.594.424",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "274.057",
+            "E.A": "26.43%",
+            "RECOMPRA O DESEMBOLSO": "4.039.149",
+            "FIRMA ELLECTRONICA": "MILENA MARÍA MARTÍNEZ - 1376746699"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1376746699",
+            "NOMBRES": "MILENA MARÍA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "MILENA MARÍA MARTÍNEZ - 1376746699"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1376746699",
+            "NOMBRES": "MILENA MARÍA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "MILENA MARÍA MARTÍNEZ - 1376746699",
+            "AL PIE DE LA FIRMA": "MILENA MARÍA MARTÍNEZ - 1376746699"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA MARÍA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1376746699",
+            "NOMBRES": "MILENA MARÍA MARTÍNEZ",
+            "SALARIO": "4.289.915",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1376746699",
+            "NOMBRES": "MILENA MARÍA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.039.149"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "989380157462",
+            "SOLICITUD": "9305895",
+            "CEDULA": "1032964319",
+            "NOMBRES": "GILMA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "1.857.817",
+            "FIRMA ELLECTRONICA": "GILMA CÓRDOBA - 1032964319"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "989380157462",
+            "NOMBRES": "GILMA CÓRDOBA",
+            "CREDITO": "11.274.762",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "272.615",
+            "FIRMA ELLECTRONICA": "GILMA CÓRDOBA - 1032964319",
+            "AL PIE DE LA FIRMA": "GILMA CÓRDOBA - 1032964319"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1032964319",
+            "NOMBRES": "GILMA CÓRDOBA",
+            "FECHA NACIMIENTO": "06/03/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.274.762",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "GILMA CÓRDOBA - 1032964319",
+            "AL PIE DE LA FIRMA": "GILMA CÓRDOBA - 1032964319"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9305895",
+            "CEDULA": "1032964319",
+            "NOMBRES": "GILMA CÓRDOBA",
+            "CREDITO": "11.274.762",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "272.615",
+            "E.A": "24.22%",
+            "RECOMPRA O DESEMBOLSO": "1.857.817",
+            "FIRMA ELLECTRONICA": "GILMA CÓRDOBA - 1032964319"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1032964319",
+            "NOMBRES": "GILMA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "GILMA CÓRDOBA - 1032964319"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1032964319",
+            "NOMBRES": "GILMA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "GILMA CÓRDOBA - 1032964319",
+            "AL PIE DE LA FIRMA": "GILMA CÓRDOBA - 1032964319"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GILMA CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1032964319",
+            "NOMBRES": "GILMA CÓRDOBA",
+            "SALARIO": "3.222.833",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1032964319",
+            "NOMBRES": "GILMA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "1.857.817"
+        }
+    }
+]

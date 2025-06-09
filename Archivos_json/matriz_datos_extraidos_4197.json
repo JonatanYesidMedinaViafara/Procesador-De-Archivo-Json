@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "402183996189",
+            "SOLICITUD": "4668623",
+            "CEDULA": "1038574684",
+            "NOMBRES": "DIANA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.573.073",
+            "FIRMA ELLECTRONICA": "DIANA GONZÁLEZ - 1038574684"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "402183996189",
+            "NOMBRES": "DIANA GONZÁLEZ",
+            "CREDITO": "10.821.703",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "331.349",
+            "FIRMA ELLECTRONICA": "DIANA GONZÁLEZ - 1038574684",
+            "AL PIE DE LA FIRMA": "DIANA GONZÁLEZ - 1038574684"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1038574684",
+            "NOMBRES": "DIANA GONZÁLEZ",
+            "FECHA NACIMIENTO": "09/05/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.821.703",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DIANA GONZÁLEZ - 1038574684",
+            "AL PIE DE LA FIRMA": "DIANA GONZÁLEZ - 1038574684"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4668623",
+            "CEDULA": "1038574684",
+            "NOMBRES": "DIANA GONZÁLEZ",
+            "CREDITO": "10.821.703",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "331.349",
+            "E.A": "27.03%",
+            "RECOMPRA O DESEMBOLSO": "1.573.073",
+            "FIRMA ELLECTRONICA": "DIANA GONZÁLEZ - 1038574684"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1038574684",
+            "NOMBRES": "DIANA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "DIANA GONZÁLEZ - 1038574684"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1038574684",
+            "NOMBRES": "DIANA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "DIANA GONZÁLEZ - 1038574684",
+            "AL PIE DE LA FIRMA": "DIANA GONZÁLEZ - 1038574684"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1038574684",
+            "NOMBRES": "DIANA GONZÁLEZ",
+            "SALARIO": "4.636.636",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1038574684",
+            "NOMBRES": "DIANA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.573.073"
+        }
+    }
+]

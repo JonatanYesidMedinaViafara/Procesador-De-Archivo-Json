@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "886198432797",
+            "SOLICITUD": "3108901",
+            "CEDULA": "1285170759",
+            "NOMBRES": "DAVID HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.235.335",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁNDEZ - 1285170759"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "886198432797",
+            "NOMBRES": "DAVID HERNÁNDEZ",
+            "CREDITO": "12.806.535",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "212.684",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁNDEZ - 1285170759",
+            "AL PIE DE LA FIRMA": "DAVID HERNÁNDEZ - 1285170759"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1285170759",
+            "NOMBRES": "DAVID HERNÁNDEZ",
+            "FECHA NACIMIENTO": "17/04/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.806.535",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁNDEZ - 1285170759",
+            "AL PIE DE LA FIRMA": "DAVID HERNÁNDEZ - 1285170759"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3108901",
+            "CEDULA": "1285170759",
+            "NOMBRES": "DAVID HERNÁNDEZ",
+            "CREDITO": "12.806.535",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "212.684",
+            "E.A": "28.21%",
+            "RECOMPRA O DESEMBOLSO": "1.235.335",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁNDEZ - 1285170759"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1285170759",
+            "NOMBRES": "DAVID HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁNDEZ - 1285170759"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1285170759",
+            "NOMBRES": "DAVID HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁNDEZ - 1285170759",
+            "AL PIE DE LA FIRMA": "DAVID HERNÁNDEZ - 1285170759"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1285170759",
+            "NOMBRES": "DAVID HERNÁNDEZ",
+            "SALARIO": "3.177.977",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1285170759",
+            "NOMBRES": "DAVID HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.235.335"
+        }
+    }
+]

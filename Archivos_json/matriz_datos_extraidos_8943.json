@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "446811310269",
+            "SOLICITUD": "9400810",
+            "CEDULA": "1802579151",
+            "NOMBRES": "ROSARIO MARY PAZ",
+            "RECOMPRA O DESEMBOLSO": "3.488.475",
+            "FIRMA ELLECTRONICA": "ROSARIO MARY PAZ - 1802579151"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "446811310269",
+            "NOMBRES": "ROSARIO MARY PAZ",
+            "CREDITO": "7.902.996",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "318.61",
+            "FIRMA ELLECTRONICA": "ROSARIO MARY PAZ - 1802579151",
+            "AL PIE DE LA FIRMA": "ROSARIO MARY PAZ - 1802579151"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1802579151",
+            "NOMBRES": "ROSARIO MARY PAZ",
+            "FECHA NACIMIENTO": "22/05/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.902.996",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ROSARIO MARY PAZ - 1802579151",
+            "AL PIE DE LA FIRMA": "ROSARIO MARY PAZ - 1802579151"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9400810",
+            "CEDULA": "1802579151",
+            "NOMBRES": "ROSARIO MARY PAZ",
+            "CREDITO": "7.902.996",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "318.61",
+            "E.A": "27.1%",
+            "RECOMPRA O DESEMBOLSO": "3.488.475",
+            "FIRMA ELLECTRONICA": "ROSARIO MARY PAZ - 1802579151"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1802579151",
+            "NOMBRES": "ROSARIO MARY PAZ",
+            "FIRMA ELLECTRONICA": "ROSARIO MARY PAZ - 1802579151"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1802579151",
+            "NOMBRES": "ROSARIO MARY PAZ",
+            "FIRMA ELLECTRONICA": "ROSARIO MARY PAZ - 1802579151",
+            "AL PIE DE LA FIRMA": "ROSARIO MARY PAZ - 1802579151"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSARIO MARY PAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1802579151",
+            "NOMBRES": "ROSARIO MARY PAZ",
+            "SALARIO": "4.675.257",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1802579151",
+            "NOMBRES": "ROSARIO MARY PAZ",
+            "RECOMPRA O DESEMBOLSO": "3.488.475"
+        }
+    }
+]

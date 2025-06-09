@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "882290309112",
+            "SOLICITUD": "9616602",
+            "CEDULA": "1294151069",
+            "NOMBRES": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.622.979",
+            "FIRMA ELLECTRONICA": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ - 1294151069"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "882290309112",
+            "NOMBRES": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ",
+            "CREDITO": "6.471.971",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "325.341",
+            "FIRMA ELLECTRONICA": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ - 1294151069",
+            "AL PIE DE LA FIRMA": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ - 1294151069"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1294151069",
+            "NOMBRES": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ",
+            "FECHA NACIMIENTO": "05/01/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.471.971",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ - 1294151069",
+            "AL PIE DE LA FIRMA": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ - 1294151069"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9616602",
+            "CEDULA": "1294151069",
+            "NOMBRES": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ",
+            "CREDITO": "6.471.971",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "325.341",
+            "E.A": "21.88%",
+            "RECOMPRA O DESEMBOLSO": "2.622.979",
+            "FIRMA ELLECTRONICA": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ - 1294151069"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1294151069",
+            "NOMBRES": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ - 1294151069"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1294151069",
+            "NOMBRES": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ - 1294151069",
+            "AL PIE DE LA FIRMA": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ - 1294151069"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1294151069",
+            "NOMBRES": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ",
+            "SALARIO": "1.638.696",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1294151069",
+            "NOMBRES": "MANUEL ÁNGEL MÉNDEZ VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.622.979"
+        }
+    }
+]

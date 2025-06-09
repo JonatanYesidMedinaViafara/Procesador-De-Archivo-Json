@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "596488019156",
+            "SOLICITUD": "9824994",
+            "CEDULA": "1111536061",
+            "NOMBRES": "YESID BURGOS",
+            "RECOMPRA O DESEMBOLSO": "2.922.517",
+            "FIRMA ELLECTRONICA": "YESID BURGOS - 1111536061"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "596488019156",
+            "NOMBRES": "YESID BURGOS",
+            "CREDITO": "19.395.511",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "387.21",
+            "FIRMA ELLECTRONICA": "YESID BURGOS - 1111536061",
+            "AL PIE DE LA FIRMA": "YESID BURGOS - 1111536061"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1111536061",
+            "NOMBRES": "YESID BURGOS",
+            "FECHA NACIMIENTO": "13/10/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.395.511",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "YESID BURGOS - 1111536061",
+            "AL PIE DE LA FIRMA": "YESID BURGOS - 1111536061"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9824994",
+            "CEDULA": "1111536061",
+            "NOMBRES": "YESID BURGOS",
+            "CREDITO": "19.395.511",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "387.21",
+            "E.A": "21.0%",
+            "RECOMPRA O DESEMBOLSO": "2.922.517",
+            "FIRMA ELLECTRONICA": "YESID BURGOS - 1111536061"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1111536061",
+            "NOMBRES": "YESID BURGOS",
+            "FIRMA ELLECTRONICA": "YESID BURGOS - 1111536061"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1111536061",
+            "NOMBRES": "YESID BURGOS",
+            "FIRMA ELLECTRONICA": "YESID BURGOS - 1111536061",
+            "AL PIE DE LA FIRMA": "YESID BURGOS - 1111536061"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YESID BURGOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1111536061",
+            "NOMBRES": "YESID BURGOS",
+            "SALARIO": "2.590.810",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1111536061",
+            "NOMBRES": "YESID BURGOS",
+            "RECOMPRA O DESEMBOLSO": "2.922.517"
+        }
+    }
+]

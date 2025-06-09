@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "385414493973",
+            "SOLICITUD": "6399952",
+            "CEDULA": "1630670347",
+            "NOMBRES": "LUIS ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "2.498.756",
+            "FIRMA ELLECTRONICA": "LUIS ZAPATA - 1630670347"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "385414493973",
+            "NOMBRES": "LUIS ZAPATA",
+            "CREDITO": "10.979.711",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "342.567",
+            "FIRMA ELLECTRONICA": "LUIS ZAPATA - 1630670347",
+            "AL PIE DE LA FIRMA": "LUIS ZAPATA - 1630670347"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1630670347",
+            "NOMBRES": "LUIS ZAPATA",
+            "FECHA NACIMIENTO": "20/03/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.979.711",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS ZAPATA - 1630670347",
+            "AL PIE DE LA FIRMA": "LUIS ZAPATA - 1630670347"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6399952",
+            "CEDULA": "1630670347",
+            "NOMBRES": "LUIS ZAPATA",
+            "CREDITO": "10.979.711",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "342.567",
+            "E.A": "24.58%",
+            "RECOMPRA O DESEMBOLSO": "2.498.756",
+            "FIRMA ELLECTRONICA": "LUIS ZAPATA - 1630670347"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1630670347",
+            "NOMBRES": "LUIS ZAPATA",
+            "FIRMA ELLECTRONICA": "LUIS ZAPATA - 1630670347"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1630670347",
+            "NOMBRES": "LUIS ZAPATA",
+            "FIRMA ELLECTRONICA": "LUIS ZAPATA - 1630670347",
+            "AL PIE DE LA FIRMA": "LUIS ZAPATA - 1630670347"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1630670347",
+            "NOMBRES": "LUIS ZAPATA",
+            "SALARIO": "1.524.994",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "31/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1630670347",
+            "NOMBRES": "LUIS ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "2.498.756"
+        }
+    }
+]

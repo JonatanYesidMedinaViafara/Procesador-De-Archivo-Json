@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "990985402876",
+            "SOLICITUD": "3124325",
+            "CEDULA": "1647272969",
+            "NOMBRES": "JOHANA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "1.683.565",
+            "FIRMA ELLECTRONICA": "JOHANA ORTIZ - 1647272969"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "990985402876",
+            "NOMBRES": "JOHANA ORTIZ",
+            "CREDITO": "5.519.795",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "180.275",
+            "FIRMA ELLECTRONICA": "JOHANA ORTIZ - 1647272969",
+            "AL PIE DE LA FIRMA": "JOHANA ORTIZ - 1647272969"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1647272969",
+            "NOMBRES": "JOHANA ORTIZ",
+            "FECHA NACIMIENTO": "25/11/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.519.795",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOHANA ORTIZ - 1647272969",
+            "AL PIE DE LA FIRMA": "JOHANA ORTIZ - 1647272969"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3124325",
+            "CEDULA": "1647272969",
+            "NOMBRES": "JOHANA ORTIZ",
+            "CREDITO": "5.519.795",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "180.275",
+            "E.A": "22.67%",
+            "RECOMPRA O DESEMBOLSO": "1.683.565",
+            "FIRMA ELLECTRONICA": "JOHANA ORTIZ - 1647272969"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1647272969",
+            "NOMBRES": "JOHANA ORTIZ",
+            "FIRMA ELLECTRONICA": "JOHANA ORTIZ - 1647272969"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1647272969",
+            "NOMBRES": "JOHANA ORTIZ",
+            "FIRMA ELLECTRONICA": "JOHANA ORTIZ - 1647272969",
+            "AL PIE DE LA FIRMA": "JOHANA ORTIZ - 1647272969"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHANA ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1647272969",
+            "NOMBRES": "JOHANA ORTIZ",
+            "SALARIO": "3.785.236",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1647272969",
+            "NOMBRES": "JOHANA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "1.683.565"
+        }
+    }
+]

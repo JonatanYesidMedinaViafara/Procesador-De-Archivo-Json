@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "751352187964",
+            "SOLICITUD": "9220357",
+            "CEDULA": "1009815215",
+            "NOMBRES": "JOSÉ VÍCTOR CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "1.613.545",
+            "FIRMA ELLECTRONICA": "JOSÉ VÍCTOR CASTAÑO - 1009815215"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "751352187964",
+            "NOMBRES": "JOSÉ VÍCTOR CASTAÑO",
+            "CREDITO": "11.159.748",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "397.045",
+            "FIRMA ELLECTRONICA": "JOSÉ VÍCTOR CASTAÑO - 1009815215",
+            "AL PIE DE LA FIRMA": "JOSÉ VÍCTOR CASTAÑO - 1009815215"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1009815215",
+            "NOMBRES": "JOSÉ VÍCTOR CASTAÑO",
+            "FECHA NACIMIENTO": "13/09/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.159.748",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ VÍCTOR CASTAÑO - 1009815215",
+            "AL PIE DE LA FIRMA": "JOSÉ VÍCTOR CASTAÑO - 1009815215"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9220357",
+            "CEDULA": "1009815215",
+            "NOMBRES": "JOSÉ VÍCTOR CASTAÑO",
+            "CREDITO": "11.159.748",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "397.045",
+            "E.A": "24.88%",
+            "RECOMPRA O DESEMBOLSO": "1.613.545",
+            "FIRMA ELLECTRONICA": "JOSÉ VÍCTOR CASTAÑO - 1009815215"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1009815215",
+            "NOMBRES": "JOSÉ VÍCTOR CASTAÑO",
+            "FIRMA ELLECTRONICA": "JOSÉ VÍCTOR CASTAÑO - 1009815215"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1009815215",
+            "NOMBRES": "JOSÉ VÍCTOR CASTAÑO",
+            "FIRMA ELLECTRONICA": "JOSÉ VÍCTOR CASTAÑO - 1009815215",
+            "AL PIE DE LA FIRMA": "JOSÉ VÍCTOR CASTAÑO - 1009815215"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ VÍCTOR CASTAÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1009815215",
+            "NOMBRES": "JOSÉ VÍCTOR CASTAÑO",
+            "SALARIO": "3.995.587",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1009815215",
+            "NOMBRES": "JOSÉ VÍCTOR CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "1.613.545"
+        }
+    }
+]

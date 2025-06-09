@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "341299372558",
+            "SOLICITUD": "1555575",
+            "CEDULA": "1854307344",
+            "NOMBRES": "CARLOS MEJÍA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.464.716",
+            "FIRMA ELLECTRONICA": "CARLOS MEJÍA QUINTERO - 1854307344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "341299372558",
+            "NOMBRES": "CARLOS MEJÍA QUINTERO",
+            "CREDITO": "7.557.383",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "301.652",
+            "FIRMA ELLECTRONICA": "CARLOS MEJÍA QUINTERO - 1854307344",
+            "AL PIE DE LA FIRMA": "CARLOS MEJÍA QUINTERO - 1854307344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1854307344",
+            "NOMBRES": "CARLOS MEJÍA QUINTERO",
+            "FECHA NACIMIENTO": "22/10/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.557.383",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS MEJÍA QUINTERO - 1854307344",
+            "AL PIE DE LA FIRMA": "CARLOS MEJÍA QUINTERO - 1854307344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1555575",
+            "CEDULA": "1854307344",
+            "NOMBRES": "CARLOS MEJÍA QUINTERO",
+            "CREDITO": "7.557.383",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "301.652",
+            "E.A": "18.29%",
+            "RECOMPRA O DESEMBOLSO": "1.464.716",
+            "FIRMA ELLECTRONICA": "CARLOS MEJÍA QUINTERO - 1854307344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1854307344",
+            "NOMBRES": "CARLOS MEJÍA QUINTERO",
+            "FIRMA ELLECTRONICA": "CARLOS MEJÍA QUINTERO - 1854307344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1854307344",
+            "NOMBRES": "CARLOS MEJÍA QUINTERO",
+            "FIRMA ELLECTRONICA": "CARLOS MEJÍA QUINTERO - 1854307344",
+            "AL PIE DE LA FIRMA": "CARLOS MEJÍA QUINTERO - 1854307344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS MEJÍA QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1854307344",
+            "NOMBRES": "CARLOS MEJÍA QUINTERO",
+            "SALARIO": "4.499.680",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1854307344",
+            "NOMBRES": "CARLOS MEJÍA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.464.716"
+        }
+    }
+]

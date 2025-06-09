@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "737432855174",
+            "SOLICITUD": "1966027",
+            "CEDULA": "1507786248",
+            "NOMBRES": "FREDDY JULIO CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "4.449.674",
+            "FIRMA ELLECTRONICA": "FREDDY JULIO CEBALLOS - 1507786248"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "737432855174",
+            "NOMBRES": "FREDDY JULIO CEBALLOS",
+            "CREDITO": "7.217.509",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "260.582",
+            "FIRMA ELLECTRONICA": "FREDDY JULIO CEBALLOS - 1507786248",
+            "AL PIE DE LA FIRMA": "FREDDY JULIO CEBALLOS - 1507786248"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1507786248",
+            "NOMBRES": "FREDDY JULIO CEBALLOS",
+            "FECHA NACIMIENTO": "26/08/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.217.509",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FREDDY JULIO CEBALLOS - 1507786248",
+            "AL PIE DE LA FIRMA": "FREDDY JULIO CEBALLOS - 1507786248"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1966027",
+            "CEDULA": "1507786248",
+            "NOMBRES": "FREDDY JULIO CEBALLOS",
+            "CREDITO": "7.217.509",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "260.582",
+            "E.A": "21.29%",
+            "RECOMPRA O DESEMBOLSO": "4.449.674",
+            "FIRMA ELLECTRONICA": "FREDDY JULIO CEBALLOS - 1507786248"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1507786248",
+            "NOMBRES": "FREDDY JULIO CEBALLOS",
+            "FIRMA ELLECTRONICA": "FREDDY JULIO CEBALLOS - 1507786248"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1507786248",
+            "NOMBRES": "FREDDY JULIO CEBALLOS",
+            "FIRMA ELLECTRONICA": "FREDDY JULIO CEBALLOS - 1507786248",
+            "AL PIE DE LA FIRMA": "FREDDY JULIO CEBALLOS - 1507786248"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FREDDY JULIO CEBALLOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1507786248",
+            "NOMBRES": "FREDDY JULIO CEBALLOS",
+            "SALARIO": "2.063.491",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1507786248",
+            "NOMBRES": "FREDDY JULIO CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "4.449.674"
+        }
+    }
+]

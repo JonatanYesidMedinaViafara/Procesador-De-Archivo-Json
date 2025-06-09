@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "765678518300",
+            "SOLICITUD": "4240284",
+            "CEDULA": "1028264617",
+            "NOMBRES": "RICARDO GERSON MARTÍNEZ RÍOS",
+            "RECOMPRA O DESEMBOLSO": "2.051.354",
+            "FIRMA ELLECTRONICA": "RICARDO GERSON MARTÍNEZ RÍOS - 1028264617"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "765678518300",
+            "NOMBRES": "RICARDO GERSON MARTÍNEZ RÍOS",
+            "CREDITO": "13.857.696",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "197.608",
+            "FIRMA ELLECTRONICA": "RICARDO GERSON MARTÍNEZ RÍOS - 1028264617",
+            "AL PIE DE LA FIRMA": "RICARDO GERSON MARTÍNEZ RÍOS - 1028264617"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1028264617",
+            "NOMBRES": "RICARDO GERSON MARTÍNEZ RÍOS",
+            "FECHA NACIMIENTO": "11/12/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.857.696",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RICARDO GERSON MARTÍNEZ RÍOS - 1028264617",
+            "AL PIE DE LA FIRMA": "RICARDO GERSON MARTÍNEZ RÍOS - 1028264617"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4240284",
+            "CEDULA": "1028264617",
+            "NOMBRES": "RICARDO GERSON MARTÍNEZ RÍOS",
+            "CREDITO": "13.857.696",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "197.608",
+            "E.A": "21.59%",
+            "RECOMPRA O DESEMBOLSO": "2.051.354",
+            "FIRMA ELLECTRONICA": "RICARDO GERSON MARTÍNEZ RÍOS - 1028264617"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1028264617",
+            "NOMBRES": "RICARDO GERSON MARTÍNEZ RÍOS",
+            "FIRMA ELLECTRONICA": "RICARDO GERSON MARTÍNEZ RÍOS - 1028264617"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1028264617",
+            "NOMBRES": "RICARDO GERSON MARTÍNEZ RÍOS",
+            "FIRMA ELLECTRONICA": "RICARDO GERSON MARTÍNEZ RÍOS - 1028264617",
+            "AL PIE DE LA FIRMA": "RICARDO GERSON MARTÍNEZ RÍOS - 1028264617"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RICARDO GERSON MARTÍNEZ RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1028264617",
+            "NOMBRES": "RICARDO GERSON MARTÍNEZ RÍOS",
+            "SALARIO": "1.576.387",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1028264617",
+            "NOMBRES": "RICARDO GERSON MARTÍNEZ RÍOS",
+            "RECOMPRA O DESEMBOLSO": "2.051.354"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "929767172429",
+            "SOLICITUD": "9876431",
+            "CEDULA": "1833258008",
+            "NOMBRES": "JAIME JAIRO JAIMES QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.016.792",
+            "FIRMA ELLECTRONICA": "JAIME JAIRO JAIMES QUINTERO - 1833258008"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "929767172429",
+            "NOMBRES": "JAIME JAIRO JAIMES QUINTERO",
+            "CREDITO": "8.303.710",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.812",
+            "FIRMA ELLECTRONICA": "JAIME JAIRO JAIMES QUINTERO - 1833258008",
+            "AL PIE DE LA FIRMA": "JAIME JAIRO JAIMES QUINTERO - 1833258008"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1833258008",
+            "NOMBRES": "JAIME JAIRO JAIMES QUINTERO",
+            "FECHA NACIMIENTO": "05/03/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.303.710",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAIME JAIRO JAIMES QUINTERO - 1833258008",
+            "AL PIE DE LA FIRMA": "JAIME JAIRO JAIMES QUINTERO - 1833258008"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9876431",
+            "CEDULA": "1833258008",
+            "NOMBRES": "JAIME JAIRO JAIMES QUINTERO",
+            "CREDITO": "8.303.710",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.812",
+            "E.A": "27.3%",
+            "RECOMPRA O DESEMBOLSO": "1.016.792",
+            "FIRMA ELLECTRONICA": "JAIME JAIRO JAIMES QUINTERO - 1833258008"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1833258008",
+            "NOMBRES": "JAIME JAIRO JAIMES QUINTERO",
+            "FIRMA ELLECTRONICA": "JAIME JAIRO JAIMES QUINTERO - 1833258008"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1833258008",
+            "NOMBRES": "JAIME JAIRO JAIMES QUINTERO",
+            "FIRMA ELLECTRONICA": "JAIME JAIRO JAIMES QUINTERO - 1833258008",
+            "AL PIE DE LA FIRMA": "JAIME JAIRO JAIMES QUINTERO - 1833258008"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIME JAIRO JAIMES QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1833258008",
+            "NOMBRES": "JAIME JAIRO JAIMES QUINTERO",
+            "SALARIO": "1.062.036",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1833258008",
+            "NOMBRES": "JAIME JAIRO JAIMES QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.016.792"
+        }
+    }
+]

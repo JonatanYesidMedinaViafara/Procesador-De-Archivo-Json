@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "564961833997",
+            "SOLICITUD": "9458148",
+            "CEDULA": "1940992343",
+            "NOMBRES": "FRANCISCO ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.197.103",
+            "FIRMA ELLECTRONICA": "FRANCISCO ROMERO - 1940992343"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "564961833997",
+            "NOMBRES": "FRANCISCO ROMERO",
+            "CREDITO": "10.818.836",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "254.127",
+            "FIRMA ELLECTRONICA": "FRANCISCO ROMERO - 1940992343",
+            "AL PIE DE LA FIRMA": "FRANCISCO ROMERO - 1940992343"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1940992343",
+            "NOMBRES": "FRANCISCO ROMERO",
+            "FECHA NACIMIENTO": "26/08/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.818.836",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FRANCISCO ROMERO - 1940992343",
+            "AL PIE DE LA FIRMA": "FRANCISCO ROMERO - 1940992343"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9458148",
+            "CEDULA": "1940992343",
+            "NOMBRES": "FRANCISCO ROMERO",
+            "CREDITO": "10.818.836",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "254.127",
+            "E.A": "21.9%",
+            "RECOMPRA O DESEMBOLSO": "1.197.103",
+            "FIRMA ELLECTRONICA": "FRANCISCO ROMERO - 1940992343"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1940992343",
+            "NOMBRES": "FRANCISCO ROMERO",
+            "FIRMA ELLECTRONICA": "FRANCISCO ROMERO - 1940992343"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1940992343",
+            "NOMBRES": "FRANCISCO ROMERO",
+            "FIRMA ELLECTRONICA": "FRANCISCO ROMERO - 1940992343",
+            "AL PIE DE LA FIRMA": "FRANCISCO ROMERO - 1940992343"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1940992343",
+            "NOMBRES": "FRANCISCO ROMERO",
+            "SALARIO": "1.565.953",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1940992343",
+            "NOMBRES": "FRANCISCO ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.197.103"
+        }
+    }
+]

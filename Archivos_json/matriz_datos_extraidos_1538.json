@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "428185358162",
+            "SOLICITUD": "4091191",
+            "CEDULA": "1827011750",
+            "NOMBRES": "LUIS FABIÁN GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "4.032.714",
+            "FIRMA ELLECTRONICA": "LUIS FABIÁN GUTIÉRREZ - 1827011750"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "428185358162",
+            "NOMBRES": "LUIS FABIÁN GUTIÉRREZ",
+            "CREDITO": "7.641.183",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "255.331",
+            "FIRMA ELLECTRONICA": "LUIS FABIÁN GUTIÉRREZ - 1827011750",
+            "AL PIE DE LA FIRMA": "LUIS FABIÁN GUTIÉRREZ - 1827011750"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1827011750",
+            "NOMBRES": "LUIS FABIÁN GUTIÉRREZ",
+            "FECHA NACIMIENTO": "24/09/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.641.183",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS FABIÁN GUTIÉRREZ - 1827011750",
+            "AL PIE DE LA FIRMA": "LUIS FABIÁN GUTIÉRREZ - 1827011750"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4091191",
+            "CEDULA": "1827011750",
+            "NOMBRES": "LUIS FABIÁN GUTIÉRREZ",
+            "CREDITO": "7.641.183",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "255.331",
+            "E.A": "25.36%",
+            "RECOMPRA O DESEMBOLSO": "4.032.714",
+            "FIRMA ELLECTRONICA": "LUIS FABIÁN GUTIÉRREZ - 1827011750"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1827011750",
+            "NOMBRES": "LUIS FABIÁN GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "LUIS FABIÁN GUTIÉRREZ - 1827011750"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1827011750",
+            "NOMBRES": "LUIS FABIÁN GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "LUIS FABIÁN GUTIÉRREZ - 1827011750",
+            "AL PIE DE LA FIRMA": "LUIS FABIÁN GUTIÉRREZ - 1827011750"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS FABIÁN GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1827011750",
+            "NOMBRES": "LUIS FABIÁN GUTIÉRREZ",
+            "SALARIO": "1.122.705",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1827011750",
+            "NOMBRES": "LUIS FABIÁN GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "4.032.714"
+        }
+    }
+]

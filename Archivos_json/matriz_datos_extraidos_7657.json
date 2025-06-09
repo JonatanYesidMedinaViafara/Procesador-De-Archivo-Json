@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "919737527183",
+            "SOLICITUD": "5359190",
+            "CEDULA": "1841563388",
+            "NOMBRES": "ALFREDO NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "4.163.533",
+            "FIRMA ELLECTRONICA": "ALFREDO NAVARRO - 1841563388"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "919737527183",
+            "NOMBRES": "ALFREDO NAVARRO",
+            "CREDITO": "11.965.203",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "134.691",
+            "FIRMA ELLECTRONICA": "ALFREDO NAVARRO - 1841563388",
+            "AL PIE DE LA FIRMA": "ALFREDO NAVARRO - 1841563388"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1841563388",
+            "NOMBRES": "ALFREDO NAVARRO",
+            "FECHA NACIMIENTO": "19/02/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.965.203",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALFREDO NAVARRO - 1841563388",
+            "AL PIE DE LA FIRMA": "ALFREDO NAVARRO - 1841563388"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5359190",
+            "CEDULA": "1841563388",
+            "NOMBRES": "ALFREDO NAVARRO",
+            "CREDITO": "11.965.203",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "134.691",
+            "E.A": "25.58%",
+            "RECOMPRA O DESEMBOLSO": "4.163.533",
+            "FIRMA ELLECTRONICA": "ALFREDO NAVARRO - 1841563388"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1841563388",
+            "NOMBRES": "ALFREDO NAVARRO",
+            "FIRMA ELLECTRONICA": "ALFREDO NAVARRO - 1841563388"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1841563388",
+            "NOMBRES": "ALFREDO NAVARRO",
+            "FIRMA ELLECTRONICA": "ALFREDO NAVARRO - 1841563388",
+            "AL PIE DE LA FIRMA": "ALFREDO NAVARRO - 1841563388"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFREDO NAVARRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1841563388",
+            "NOMBRES": "ALFREDO NAVARRO",
+            "SALARIO": "4.160.932",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1841563388",
+            "NOMBRES": "ALFREDO NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "4.163.533"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "558665141687",
+            "SOLICITUD": "3110543",
+            "CEDULA": "1127626689",
+            "NOMBRES": "JOHAN ARDILA",
+            "RECOMPRA O DESEMBOLSO": "4.639.687",
+            "FIRMA ELLECTRONICA": "JOHAN ARDILA - 1127626689"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "558665141687",
+            "NOMBRES": "JOHAN ARDILA",
+            "CREDITO": "5.620.631",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "348.244",
+            "FIRMA ELLECTRONICA": "JOHAN ARDILA - 1127626689",
+            "AL PIE DE LA FIRMA": "JOHAN ARDILA - 1127626689"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1127626689",
+            "NOMBRES": "JOHAN ARDILA",
+            "FECHA NACIMIENTO": "03/06/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.620.631",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOHAN ARDILA - 1127626689",
+            "AL PIE DE LA FIRMA": "JOHAN ARDILA - 1127626689"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3110543",
+            "CEDULA": "1127626689",
+            "NOMBRES": "JOHAN ARDILA",
+            "CREDITO": "5.620.631",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "348.244",
+            "E.A": "23.0%",
+            "RECOMPRA O DESEMBOLSO": "4.639.687",
+            "FIRMA ELLECTRONICA": "JOHAN ARDILA - 1127626689"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1127626689",
+            "NOMBRES": "JOHAN ARDILA",
+            "FIRMA ELLECTRONICA": "JOHAN ARDILA - 1127626689"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1127626689",
+            "NOMBRES": "JOHAN ARDILA",
+            "FIRMA ELLECTRONICA": "JOHAN ARDILA - 1127626689",
+            "AL PIE DE LA FIRMA": "JOHAN ARDILA - 1127626689"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHAN ARDILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1127626689",
+            "NOMBRES": "JOHAN ARDILA",
+            "SALARIO": "2.553.268",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1127626689",
+            "NOMBRES": "JOHAN ARDILA",
+            "RECOMPRA O DESEMBOLSO": "4.639.687"
+        }
+    }
+]

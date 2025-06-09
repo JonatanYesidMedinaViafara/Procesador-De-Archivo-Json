@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "857948415003",
+            "SOLICITUD": "9766649",
+            "CEDULA": "1068506914",
+            "NOMBRES": "ALBERTO GUEVARA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.279.746",
+            "FIRMA ELLECTRONICA": "ALBERTO GUEVARA MUÑOZ - 1068506914"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "857948415003",
+            "NOMBRES": "ALBERTO GUEVARA MUÑOZ",
+            "CREDITO": "13.914.394",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "180.121",
+            "FIRMA ELLECTRONICA": "ALBERTO GUEVARA MUÑOZ - 1068506914",
+            "AL PIE DE LA FIRMA": "ALBERTO GUEVARA MUÑOZ - 1068506914"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1068506914",
+            "NOMBRES": "ALBERTO GUEVARA MUÑOZ",
+            "FECHA NACIMIENTO": "01/05/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.914.394",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALBERTO GUEVARA MUÑOZ - 1068506914",
+            "AL PIE DE LA FIRMA": "ALBERTO GUEVARA MUÑOZ - 1068506914"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9766649",
+            "CEDULA": "1068506914",
+            "NOMBRES": "ALBERTO GUEVARA MUÑOZ",
+            "CREDITO": "13.914.394",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "180.121",
+            "E.A": "27.78%",
+            "RECOMPRA O DESEMBOLSO": "3.279.746",
+            "FIRMA ELLECTRONICA": "ALBERTO GUEVARA MUÑOZ - 1068506914"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1068506914",
+            "NOMBRES": "ALBERTO GUEVARA MUÑOZ",
+            "FIRMA ELLECTRONICA": "ALBERTO GUEVARA MUÑOZ - 1068506914"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1068506914",
+            "NOMBRES": "ALBERTO GUEVARA MUÑOZ",
+            "FIRMA ELLECTRONICA": "ALBERTO GUEVARA MUÑOZ - 1068506914",
+            "AL PIE DE LA FIRMA": "ALBERTO GUEVARA MUÑOZ - 1068506914"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO GUEVARA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1068506914",
+            "NOMBRES": "ALBERTO GUEVARA MUÑOZ",
+            "SALARIO": "4.242.866",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "11/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1068506914",
+            "NOMBRES": "ALBERTO GUEVARA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.279.746"
+        }
+    }
+]

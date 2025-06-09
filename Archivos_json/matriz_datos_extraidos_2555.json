@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "516272267068",
+            "SOLICITUD": "5798262",
+            "CEDULA": "1649331540",
+            "NOMBRES": "TANIA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.438.714",
+            "FIRMA ELLECTRONICA": "TANIA RAMÍREZ - 1649331540"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "516272267068",
+            "NOMBRES": "TANIA RAMÍREZ",
+            "CREDITO": "15.909.024",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "345.415",
+            "FIRMA ELLECTRONICA": "TANIA RAMÍREZ - 1649331540",
+            "AL PIE DE LA FIRMA": "TANIA RAMÍREZ - 1649331540"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1649331540",
+            "NOMBRES": "TANIA RAMÍREZ",
+            "FECHA NACIMIENTO": "21/08/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.909.024",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "TANIA RAMÍREZ - 1649331540",
+            "AL PIE DE LA FIRMA": "TANIA RAMÍREZ - 1649331540"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5798262",
+            "CEDULA": "1649331540",
+            "NOMBRES": "TANIA RAMÍREZ",
+            "CREDITO": "15.909.024",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "345.415",
+            "E.A": "22.78%",
+            "RECOMPRA O DESEMBOLSO": "2.438.714",
+            "FIRMA ELLECTRONICA": "TANIA RAMÍREZ - 1649331540"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1649331540",
+            "NOMBRES": "TANIA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "TANIA RAMÍREZ - 1649331540"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1649331540",
+            "NOMBRES": "TANIA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "TANIA RAMÍREZ - 1649331540",
+            "AL PIE DE LA FIRMA": "TANIA RAMÍREZ - 1649331540"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TANIA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1649331540",
+            "NOMBRES": "TANIA RAMÍREZ",
+            "SALARIO": "2.021.783",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1649331540",
+            "NOMBRES": "TANIA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.438.714"
+        }
+    }
+]

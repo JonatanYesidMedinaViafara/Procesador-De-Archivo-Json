@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "322209228737",
+            "SOLICITUD": "9736129",
+            "CEDULA": "1601130331",
+            "NOMBRES": "RUBY REYES MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "4.729.151",
+            "FIRMA ELLECTRONICA": "RUBY REYES MOSQUERA - 1601130331"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "322209228737",
+            "NOMBRES": "RUBY REYES MOSQUERA",
+            "CREDITO": "6.526.991",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "157.347",
+            "FIRMA ELLECTRONICA": "RUBY REYES MOSQUERA - 1601130331",
+            "AL PIE DE LA FIRMA": "RUBY REYES MOSQUERA - 1601130331"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1601130331",
+            "NOMBRES": "RUBY REYES MOSQUERA",
+            "FECHA NACIMIENTO": "12/06/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.526.991",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "RUBY REYES MOSQUERA - 1601130331",
+            "AL PIE DE LA FIRMA": "RUBY REYES MOSQUERA - 1601130331"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9736129",
+            "CEDULA": "1601130331",
+            "NOMBRES": "RUBY REYES MOSQUERA",
+            "CREDITO": "6.526.991",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "157.347",
+            "E.A": "21.48%",
+            "RECOMPRA O DESEMBOLSO": "4.729.151",
+            "FIRMA ELLECTRONICA": "RUBY REYES MOSQUERA - 1601130331"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1601130331",
+            "NOMBRES": "RUBY REYES MOSQUERA",
+            "FIRMA ELLECTRONICA": "RUBY REYES MOSQUERA - 1601130331"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1601130331",
+            "NOMBRES": "RUBY REYES MOSQUERA",
+            "FIRMA ELLECTRONICA": "RUBY REYES MOSQUERA - 1601130331",
+            "AL PIE DE LA FIRMA": "RUBY REYES MOSQUERA - 1601130331"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUBY REYES MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1601130331",
+            "NOMBRES": "RUBY REYES MOSQUERA",
+            "SALARIO": "4.237.018",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1601130331",
+            "NOMBRES": "RUBY REYES MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "4.729.151"
+        }
+    }
+]

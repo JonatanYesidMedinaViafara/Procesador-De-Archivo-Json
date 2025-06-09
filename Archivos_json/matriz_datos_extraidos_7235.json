@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "179807286576",
+            "SOLICITUD": "3396440",
+            "CEDULA": "1958415139",
+            "NOMBRES": "FERNANDO CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "4.602.667",
+            "FIRMA ELLECTRONICA": "FERNANDO CÁRDENAS - 1958415139"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "179807286576",
+            "NOMBRES": "FERNANDO CÁRDENAS",
+            "CREDITO": "18.937.643",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "139.512",
+            "FIRMA ELLECTRONICA": "FERNANDO CÁRDENAS - 1958415139",
+            "AL PIE DE LA FIRMA": "FERNANDO CÁRDENAS - 1958415139"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1958415139",
+            "NOMBRES": "FERNANDO CÁRDENAS",
+            "FECHA NACIMIENTO": "03/06/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.937.643",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNANDO CÁRDENAS - 1958415139",
+            "AL PIE DE LA FIRMA": "FERNANDO CÁRDENAS - 1958415139"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3396440",
+            "CEDULA": "1958415139",
+            "NOMBRES": "FERNANDO CÁRDENAS",
+            "CREDITO": "18.937.643",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "139.512",
+            "E.A": "18.45%",
+            "RECOMPRA O DESEMBOLSO": "4.602.667",
+            "FIRMA ELLECTRONICA": "FERNANDO CÁRDENAS - 1958415139"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1958415139",
+            "NOMBRES": "FERNANDO CÁRDENAS",
+            "FIRMA ELLECTRONICA": "FERNANDO CÁRDENAS - 1958415139"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1958415139",
+            "NOMBRES": "FERNANDO CÁRDENAS",
+            "FIRMA ELLECTRONICA": "FERNANDO CÁRDENAS - 1958415139",
+            "AL PIE DE LA FIRMA": "FERNANDO CÁRDENAS - 1958415139"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO CÁRDENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1958415139",
+            "NOMBRES": "FERNANDO CÁRDENAS",
+            "SALARIO": "2.479.955",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1958415139",
+            "NOMBRES": "FERNANDO CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "4.602.667"
+        }
+    }
+]

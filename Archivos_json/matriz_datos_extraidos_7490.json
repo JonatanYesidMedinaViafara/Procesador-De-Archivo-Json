@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "293055710637",
+            "SOLICITUD": "8152759",
+            "CEDULA": "1391800622",
+            "NOMBRES": "ÓSCAR PEÑA",
+            "RECOMPRA O DESEMBOLSO": "4.552.370",
+            "FIRMA ELLECTRONICA": "ÓSCAR PEÑA - 1391800622"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "293055710637",
+            "NOMBRES": "ÓSCAR PEÑA",
+            "CREDITO": "15.318.672",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "386.827",
+            "FIRMA ELLECTRONICA": "ÓSCAR PEÑA - 1391800622",
+            "AL PIE DE LA FIRMA": "ÓSCAR PEÑA - 1391800622"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1391800622",
+            "NOMBRES": "ÓSCAR PEÑA",
+            "FECHA NACIMIENTO": "08/08/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.318.672",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÓSCAR PEÑA - 1391800622",
+            "AL PIE DE LA FIRMA": "ÓSCAR PEÑA - 1391800622"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8152759",
+            "CEDULA": "1391800622",
+            "NOMBRES": "ÓSCAR PEÑA",
+            "CREDITO": "15.318.672",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "386.827",
+            "E.A": "19.97%",
+            "RECOMPRA O DESEMBOLSO": "4.552.370",
+            "FIRMA ELLECTRONICA": "ÓSCAR PEÑA - 1391800622"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1391800622",
+            "NOMBRES": "ÓSCAR PEÑA",
+            "FIRMA ELLECTRONICA": "ÓSCAR PEÑA - 1391800622"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1391800622",
+            "NOMBRES": "ÓSCAR PEÑA",
+            "FIRMA ELLECTRONICA": "ÓSCAR PEÑA - 1391800622",
+            "AL PIE DE LA FIRMA": "ÓSCAR PEÑA - 1391800622"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1391800622",
+            "NOMBRES": "ÓSCAR PEÑA",
+            "SALARIO": "1.239.816",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "29/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1391800622",
+            "NOMBRES": "ÓSCAR PEÑA",
+            "RECOMPRA O DESEMBOLSO": "4.552.370"
+        }
+    }
+]

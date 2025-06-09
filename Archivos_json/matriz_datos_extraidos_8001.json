@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "954340156578",
+            "SOLICITUD": "6097278",
+            "CEDULA": "1950005505",
+            "NOMBRES": "PATRICIA MARÍA ARENAS",
+            "RECOMPRA O DESEMBOLSO": "1.647.938",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA ARENAS - 1950005505"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "954340156578",
+            "NOMBRES": "PATRICIA MARÍA ARENAS",
+            "CREDITO": "15.652.252",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "129.127",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA ARENAS - 1950005505",
+            "AL PIE DE LA FIRMA": "PATRICIA MARÍA ARENAS - 1950005505"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1950005505",
+            "NOMBRES": "PATRICIA MARÍA ARENAS",
+            "FECHA NACIMIENTO": "26/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.652.252",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA ARENAS - 1950005505",
+            "AL PIE DE LA FIRMA": "PATRICIA MARÍA ARENAS - 1950005505"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6097278",
+            "CEDULA": "1950005505",
+            "NOMBRES": "PATRICIA MARÍA ARENAS",
+            "CREDITO": "15.652.252",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "129.127",
+            "E.A": "27.39%",
+            "RECOMPRA O DESEMBOLSO": "1.647.938",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA ARENAS - 1950005505"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1950005505",
+            "NOMBRES": "PATRICIA MARÍA ARENAS",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA ARENAS - 1950005505"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1950005505",
+            "NOMBRES": "PATRICIA MARÍA ARENAS",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA ARENAS - 1950005505",
+            "AL PIE DE LA FIRMA": "PATRICIA MARÍA ARENAS - 1950005505"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA MARÍA ARENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1950005505",
+            "NOMBRES": "PATRICIA MARÍA ARENAS",
+            "SALARIO": "4.531.644",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1950005505",
+            "NOMBRES": "PATRICIA MARÍA ARENAS",
+            "RECOMPRA O DESEMBOLSO": "1.647.938"
+        }
+    }
+]

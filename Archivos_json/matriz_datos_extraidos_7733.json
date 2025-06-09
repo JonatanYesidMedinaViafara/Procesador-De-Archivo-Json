@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "405952567920",
+            "SOLICITUD": "8879741",
+            "CEDULA": "1818736888",
+            "NOMBRES": "DANIEL PÉREZ LUNA",
+            "RECOMPRA O DESEMBOLSO": "4.270.630",
+            "FIRMA ELLECTRONICA": "DANIEL PÉREZ LUNA - 1818736888"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "405952567920",
+            "NOMBRES": "DANIEL PÉREZ LUNA",
+            "CREDITO": "15.699.225",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "157.06",
+            "FIRMA ELLECTRONICA": "DANIEL PÉREZ LUNA - 1818736888",
+            "AL PIE DE LA FIRMA": "DANIEL PÉREZ LUNA - 1818736888"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1818736888",
+            "NOMBRES": "DANIEL PÉREZ LUNA",
+            "FECHA NACIMIENTO": "15/09/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.699.225",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DANIEL PÉREZ LUNA - 1818736888",
+            "AL PIE DE LA FIRMA": "DANIEL PÉREZ LUNA - 1818736888"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8879741",
+            "CEDULA": "1818736888",
+            "NOMBRES": "DANIEL PÉREZ LUNA",
+            "CREDITO": "15.699.225",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "157.06",
+            "E.A": "28.37%",
+            "RECOMPRA O DESEMBOLSO": "4.270.630",
+            "FIRMA ELLECTRONICA": "DANIEL PÉREZ LUNA - 1818736888"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1818736888",
+            "NOMBRES": "DANIEL PÉREZ LUNA",
+            "FIRMA ELLECTRONICA": "DANIEL PÉREZ LUNA - 1818736888"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1818736888",
+            "NOMBRES": "DANIEL PÉREZ LUNA",
+            "FIRMA ELLECTRONICA": "DANIEL PÉREZ LUNA - 1818736888",
+            "AL PIE DE LA FIRMA": "DANIEL PÉREZ LUNA - 1818736888"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL PÉREZ LUNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1818736888",
+            "NOMBRES": "DANIEL PÉREZ LUNA",
+            "SALARIO": "1.997.041",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1818736888",
+            "NOMBRES": "DANIEL PÉREZ LUNA",
+            "RECOMPRA O DESEMBOLSO": "4.270.630"
+        }
+    }
+]

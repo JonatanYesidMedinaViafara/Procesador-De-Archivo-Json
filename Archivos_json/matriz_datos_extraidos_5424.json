@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "920483733627",
+            "SOLICITUD": "4268259",
+            "CEDULA": "1707243275",
+            "NOMBRES": "CLAUDIA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.094.401",
+            "FIRMA ELLECTRONICA": "CLAUDIA LÓPEZ - 1707243275"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "920483733627",
+            "NOMBRES": "CLAUDIA LÓPEZ",
+            "CREDITO": "7.008.474",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "197.078",
+            "FIRMA ELLECTRONICA": "CLAUDIA LÓPEZ - 1707243275",
+            "AL PIE DE LA FIRMA": "CLAUDIA LÓPEZ - 1707243275"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1707243275",
+            "NOMBRES": "CLAUDIA LÓPEZ",
+            "FECHA NACIMIENTO": "16/01/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.008.474",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CLAUDIA LÓPEZ - 1707243275",
+            "AL PIE DE LA FIRMA": "CLAUDIA LÓPEZ - 1707243275"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4268259",
+            "CEDULA": "1707243275",
+            "NOMBRES": "CLAUDIA LÓPEZ",
+            "CREDITO": "7.008.474",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "197.078",
+            "E.A": "28.45%",
+            "RECOMPRA O DESEMBOLSO": "4.094.401",
+            "FIRMA ELLECTRONICA": "CLAUDIA LÓPEZ - 1707243275"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1707243275",
+            "NOMBRES": "CLAUDIA LÓPEZ",
+            "FIRMA ELLECTRONICA": "CLAUDIA LÓPEZ - 1707243275"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1707243275",
+            "NOMBRES": "CLAUDIA LÓPEZ",
+            "FIRMA ELLECTRONICA": "CLAUDIA LÓPEZ - 1707243275",
+            "AL PIE DE LA FIRMA": "CLAUDIA LÓPEZ - 1707243275"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLAUDIA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1707243275",
+            "NOMBRES": "CLAUDIA LÓPEZ",
+            "SALARIO": "3.125.200",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1707243275",
+            "NOMBRES": "CLAUDIA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.094.401"
+        }
+    }
+]

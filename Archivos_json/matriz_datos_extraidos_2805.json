@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "472452974481",
+            "SOLICITUD": "2082760",
+            "CEDULA": "1432039083",
+            "NOMBRES": "CÉSAR SEGUNDO RUIZ CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.904.310",
+            "FIRMA ELLECTRONICA": "CÉSAR SEGUNDO RUIZ CASTILLO - 1432039083"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "472452974481",
+            "NOMBRES": "CÉSAR SEGUNDO RUIZ CASTILLO",
+            "CREDITO": "9.265.277",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "111.133",
+            "FIRMA ELLECTRONICA": "CÉSAR SEGUNDO RUIZ CASTILLO - 1432039083",
+            "AL PIE DE LA FIRMA": "CÉSAR SEGUNDO RUIZ CASTILLO - 1432039083"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1432039083",
+            "NOMBRES": "CÉSAR SEGUNDO RUIZ CASTILLO",
+            "FECHA NACIMIENTO": "25/09/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.265.277",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CÉSAR SEGUNDO RUIZ CASTILLO - 1432039083",
+            "AL PIE DE LA FIRMA": "CÉSAR SEGUNDO RUIZ CASTILLO - 1432039083"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2082760",
+            "CEDULA": "1432039083",
+            "NOMBRES": "CÉSAR SEGUNDO RUIZ CASTILLO",
+            "CREDITO": "9.265.277",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "111.133",
+            "E.A": "27.23%",
+            "RECOMPRA O DESEMBOLSO": "4.904.310",
+            "FIRMA ELLECTRONICA": "CÉSAR SEGUNDO RUIZ CASTILLO - 1432039083"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1432039083",
+            "NOMBRES": "CÉSAR SEGUNDO RUIZ CASTILLO",
+            "FIRMA ELLECTRONICA": "CÉSAR SEGUNDO RUIZ CASTILLO - 1432039083"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1432039083",
+            "NOMBRES": "CÉSAR SEGUNDO RUIZ CASTILLO",
+            "FIRMA ELLECTRONICA": "CÉSAR SEGUNDO RUIZ CASTILLO - 1432039083",
+            "AL PIE DE LA FIRMA": "CÉSAR SEGUNDO RUIZ CASTILLO - 1432039083"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CÉSAR SEGUNDO RUIZ CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1432039083",
+            "NOMBRES": "CÉSAR SEGUNDO RUIZ CASTILLO",
+            "SALARIO": "4.635.786",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1432039083",
+            "NOMBRES": "CÉSAR SEGUNDO RUIZ CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.904.310"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "795730538873",
+            "SOLICITUD": "1438833",
+            "CEDULA": "1014956029",
+            "NOMBRES": "NATALIA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.299.357",
+            "FIRMA ELLECTRONICA": "NATALIA LÓPEZ - 1014956029"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "795730538873",
+            "NOMBRES": "NATALIA LÓPEZ",
+            "CREDITO": "14.385.265",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "161.342",
+            "FIRMA ELLECTRONICA": "NATALIA LÓPEZ - 1014956029",
+            "AL PIE DE LA FIRMA": "NATALIA LÓPEZ - 1014956029"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1014956029",
+            "NOMBRES": "NATALIA LÓPEZ",
+            "FECHA NACIMIENTO": "05/03/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.385.265",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "NATALIA LÓPEZ - 1014956029",
+            "AL PIE DE LA FIRMA": "NATALIA LÓPEZ - 1014956029"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1438833",
+            "CEDULA": "1014956029",
+            "NOMBRES": "NATALIA LÓPEZ",
+            "CREDITO": "14.385.265",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "161.342",
+            "E.A": "27.94%",
+            "RECOMPRA O DESEMBOLSO": "1.299.357",
+            "FIRMA ELLECTRONICA": "NATALIA LÓPEZ - 1014956029"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1014956029",
+            "NOMBRES": "NATALIA LÓPEZ",
+            "FIRMA ELLECTRONICA": "NATALIA LÓPEZ - 1014956029"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1014956029",
+            "NOMBRES": "NATALIA LÓPEZ",
+            "FIRMA ELLECTRONICA": "NATALIA LÓPEZ - 1014956029",
+            "AL PIE DE LA FIRMA": "NATALIA LÓPEZ - 1014956029"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NATALIA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1014956029",
+            "NOMBRES": "NATALIA LÓPEZ",
+            "SALARIO": "1.557.015",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1014956029",
+            "NOMBRES": "NATALIA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.299.357"
+        }
+    }
+]

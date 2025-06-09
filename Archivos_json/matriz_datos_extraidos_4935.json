@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "960968977593",
+            "SOLICITUD": "6274962",
+            "CEDULA": "1320020354",
+            "NOMBRES": "JORGE RÍOS",
+            "RECOMPRA O DESEMBOLSO": "4.259.062",
+            "FIRMA ELLECTRONICA": "JORGE RÍOS - 1320020354"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "960968977593",
+            "NOMBRES": "JORGE RÍOS",
+            "CREDITO": "9.077.453",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "167.361",
+            "FIRMA ELLECTRONICA": "JORGE RÍOS - 1320020354",
+            "AL PIE DE LA FIRMA": "JORGE RÍOS - 1320020354"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1320020354",
+            "NOMBRES": "JORGE RÍOS",
+            "FECHA NACIMIENTO": "02/02/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.077.453",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JORGE RÍOS - 1320020354",
+            "AL PIE DE LA FIRMA": "JORGE RÍOS - 1320020354"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6274962",
+            "CEDULA": "1320020354",
+            "NOMBRES": "JORGE RÍOS",
+            "CREDITO": "9.077.453",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "167.361",
+            "E.A": "20.9%",
+            "RECOMPRA O DESEMBOLSO": "4.259.062",
+            "FIRMA ELLECTRONICA": "JORGE RÍOS - 1320020354"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1320020354",
+            "NOMBRES": "JORGE RÍOS",
+            "FIRMA ELLECTRONICA": "JORGE RÍOS - 1320020354"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1320020354",
+            "NOMBRES": "JORGE RÍOS",
+            "FIRMA ELLECTRONICA": "JORGE RÍOS - 1320020354",
+            "AL PIE DE LA FIRMA": "JORGE RÍOS - 1320020354"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1320020354",
+            "NOMBRES": "JORGE RÍOS",
+            "SALARIO": "3.622.134",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1320020354",
+            "NOMBRES": "JORGE RÍOS",
+            "RECOMPRA O DESEMBOLSO": "4.259.062"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "128403229199",
+            "SOLICITUD": "3722481",
+            "CEDULA": "1455820142",
+            "NOMBRES": "MAGDALENA ISABEL ALVARADO",
+            "RECOMPRA O DESEMBOLSO": "2.485.521",
+            "FIRMA ELLECTRONICA": "MAGDALENA ISABEL ALVARADO - 1455820142"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "128403229199",
+            "NOMBRES": "MAGDALENA ISABEL ALVARADO",
+            "CREDITO": "10.573.709",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "255.489",
+            "FIRMA ELLECTRONICA": "MAGDALENA ISABEL ALVARADO - 1455820142",
+            "AL PIE DE LA FIRMA": "MAGDALENA ISABEL ALVARADO - 1455820142"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1455820142",
+            "NOMBRES": "MAGDALENA ISABEL ALVARADO",
+            "FECHA NACIMIENTO": "29/01/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.573.709",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MAGDALENA ISABEL ALVARADO - 1455820142",
+            "AL PIE DE LA FIRMA": "MAGDALENA ISABEL ALVARADO - 1455820142"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3722481",
+            "CEDULA": "1455820142",
+            "NOMBRES": "MAGDALENA ISABEL ALVARADO",
+            "CREDITO": "10.573.709",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "255.489",
+            "E.A": "21.41%",
+            "RECOMPRA O DESEMBOLSO": "2.485.521",
+            "FIRMA ELLECTRONICA": "MAGDALENA ISABEL ALVARADO - 1455820142"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1455820142",
+            "NOMBRES": "MAGDALENA ISABEL ALVARADO",
+            "FIRMA ELLECTRONICA": "MAGDALENA ISABEL ALVARADO - 1455820142"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1455820142",
+            "NOMBRES": "MAGDALENA ISABEL ALVARADO",
+            "FIRMA ELLECTRONICA": "MAGDALENA ISABEL ALVARADO - 1455820142",
+            "AL PIE DE LA FIRMA": "MAGDALENA ISABEL ALVARADO - 1455820142"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAGDALENA ISABEL ALVARADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1455820142",
+            "NOMBRES": "MAGDALENA ISABEL ALVARADO",
+            "SALARIO": "4.800.499",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1455820142",
+            "NOMBRES": "MAGDALENA ISABEL ALVARADO",
+            "RECOMPRA O DESEMBOLSO": "2.485.521"
+        }
+    }
+]

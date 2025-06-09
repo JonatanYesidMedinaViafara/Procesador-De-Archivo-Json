@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "611813918331",
+            "SOLICITUD": "8408190",
+            "CEDULA": "1964078062",
+            "NOMBRES": "JULIÁN ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.904.496",
+            "FIRMA ELLECTRONICA": "JULIÁN ROJAS - 1964078062"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "611813918331",
+            "NOMBRES": "JULIÁN ROJAS",
+            "CREDITO": "18.483.485",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "380.44",
+            "FIRMA ELLECTRONICA": "JULIÁN ROJAS - 1964078062",
+            "AL PIE DE LA FIRMA": "JULIÁN ROJAS - 1964078062"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1964078062",
+            "NOMBRES": "JULIÁN ROJAS",
+            "FECHA NACIMIENTO": "26/11/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.483.485",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JULIÁN ROJAS - 1964078062",
+            "AL PIE DE LA FIRMA": "JULIÁN ROJAS - 1964078062"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8408190",
+            "CEDULA": "1964078062",
+            "NOMBRES": "JULIÁN ROJAS",
+            "CREDITO": "18.483.485",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "380.44",
+            "E.A": "20.3%",
+            "RECOMPRA O DESEMBOLSO": "2.904.496",
+            "FIRMA ELLECTRONICA": "JULIÁN ROJAS - 1964078062"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1964078062",
+            "NOMBRES": "JULIÁN ROJAS",
+            "FIRMA ELLECTRONICA": "JULIÁN ROJAS - 1964078062"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1964078062",
+            "NOMBRES": "JULIÁN ROJAS",
+            "FIRMA ELLECTRONICA": "JULIÁN ROJAS - 1964078062",
+            "AL PIE DE LA FIRMA": "JULIÁN ROJAS - 1964078062"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIÁN ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1964078062",
+            "NOMBRES": "JULIÁN ROJAS",
+            "SALARIO": "3.221.254",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1964078062",
+            "NOMBRES": "JULIÁN ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.904.496"
+        }
+    }
+]

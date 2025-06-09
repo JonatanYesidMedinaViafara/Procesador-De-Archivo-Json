@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "347089134239",
+            "SOLICITUD": "3238485",
+            "CEDULA": "1152445894",
+            "NOMBRES": "MARÍA GARCÍA NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "1.447.795",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA NAVARRO - 1152445894"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "347089134239",
+            "NOMBRES": "MARÍA GARCÍA NAVARRO",
+            "CREDITO": "13.214.293",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "343.445",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA NAVARRO - 1152445894",
+            "AL PIE DE LA FIRMA": "MARÍA GARCÍA NAVARRO - 1152445894"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1152445894",
+            "NOMBRES": "MARÍA GARCÍA NAVARRO",
+            "FECHA NACIMIENTO": "21/10/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.214.293",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA NAVARRO - 1152445894",
+            "AL PIE DE LA FIRMA": "MARÍA GARCÍA NAVARRO - 1152445894"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3238485",
+            "CEDULA": "1152445894",
+            "NOMBRES": "MARÍA GARCÍA NAVARRO",
+            "CREDITO": "13.214.293",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "343.445",
+            "E.A": "22.74%",
+            "RECOMPRA O DESEMBOLSO": "1.447.795",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA NAVARRO - 1152445894"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1152445894",
+            "NOMBRES": "MARÍA GARCÍA NAVARRO",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA NAVARRO - 1152445894"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1152445894",
+            "NOMBRES": "MARÍA GARCÍA NAVARRO",
+            "FIRMA ELLECTRONICA": "MARÍA GARCÍA NAVARRO - 1152445894",
+            "AL PIE DE LA FIRMA": "MARÍA GARCÍA NAVARRO - 1152445894"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA GARCÍA NAVARRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1152445894",
+            "NOMBRES": "MARÍA GARCÍA NAVARRO",
+            "SALARIO": "2.974.859",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1152445894",
+            "NOMBRES": "MARÍA GARCÍA NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "1.447.795"
+        }
+    }
+]

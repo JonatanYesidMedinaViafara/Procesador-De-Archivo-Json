@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "612174090848",
+            "SOLICITUD": "1610741",
+            "CEDULA": "1167578446",
+            "NOMBRES": "SAMUEL MOSQUERA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.857.763",
+            "FIRMA ELLECTRONICA": "SAMUEL MOSQUERA RAMÍREZ - 1167578446"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "612174090848",
+            "NOMBRES": "SAMUEL MOSQUERA RAMÍREZ",
+            "CREDITO": "6.074.252",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "123.846",
+            "FIRMA ELLECTRONICA": "SAMUEL MOSQUERA RAMÍREZ - 1167578446",
+            "AL PIE DE LA FIRMA": "SAMUEL MOSQUERA RAMÍREZ - 1167578446"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1167578446",
+            "NOMBRES": "SAMUEL MOSQUERA RAMÍREZ",
+            "FECHA NACIMIENTO": "20/10/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.074.252",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SAMUEL MOSQUERA RAMÍREZ - 1167578446",
+            "AL PIE DE LA FIRMA": "SAMUEL MOSQUERA RAMÍREZ - 1167578446"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1610741",
+            "CEDULA": "1167578446",
+            "NOMBRES": "SAMUEL MOSQUERA RAMÍREZ",
+            "CREDITO": "6.074.252",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "123.846",
+            "E.A": "19.58%",
+            "RECOMPRA O DESEMBOLSO": "3.857.763",
+            "FIRMA ELLECTRONICA": "SAMUEL MOSQUERA RAMÍREZ - 1167578446"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1167578446",
+            "NOMBRES": "SAMUEL MOSQUERA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "SAMUEL MOSQUERA RAMÍREZ - 1167578446"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1167578446",
+            "NOMBRES": "SAMUEL MOSQUERA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "SAMUEL MOSQUERA RAMÍREZ - 1167578446",
+            "AL PIE DE LA FIRMA": "SAMUEL MOSQUERA RAMÍREZ - 1167578446"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SAMUEL MOSQUERA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1167578446",
+            "NOMBRES": "SAMUEL MOSQUERA RAMÍREZ",
+            "SALARIO": "1.170.310",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1167578446",
+            "NOMBRES": "SAMUEL MOSQUERA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.857.763"
+        }
+    }
+]

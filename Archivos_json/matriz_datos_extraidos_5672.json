@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "289218050525",
+            "SOLICITUD": "2955820",
+            "CEDULA": "1690235722",
+            "NOMBRES": "JOSÉ CARLOS MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.874.348",
+            "FIRMA ELLECTRONICA": "JOSÉ CARLOS MÉNDEZ - 1690235722"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "289218050525",
+            "NOMBRES": "JOSÉ CARLOS MÉNDEZ",
+            "CREDITO": "11.766.935",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "104.833",
+            "FIRMA ELLECTRONICA": "JOSÉ CARLOS MÉNDEZ - 1690235722",
+            "AL PIE DE LA FIRMA": "JOSÉ CARLOS MÉNDEZ - 1690235722"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1690235722",
+            "NOMBRES": "JOSÉ CARLOS MÉNDEZ",
+            "FECHA NACIMIENTO": "24/10/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.766.935",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOSÉ CARLOS MÉNDEZ - 1690235722",
+            "AL PIE DE LA FIRMA": "JOSÉ CARLOS MÉNDEZ - 1690235722"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2955820",
+            "CEDULA": "1690235722",
+            "NOMBRES": "JOSÉ CARLOS MÉNDEZ",
+            "CREDITO": "11.766.935",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "104.833",
+            "E.A": "28.83%",
+            "RECOMPRA O DESEMBOLSO": "3.874.348",
+            "FIRMA ELLECTRONICA": "JOSÉ CARLOS MÉNDEZ - 1690235722"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1690235722",
+            "NOMBRES": "JOSÉ CARLOS MÉNDEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ CARLOS MÉNDEZ - 1690235722"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1690235722",
+            "NOMBRES": "JOSÉ CARLOS MÉNDEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ CARLOS MÉNDEZ - 1690235722",
+            "AL PIE DE LA FIRMA": "JOSÉ CARLOS MÉNDEZ - 1690235722"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ CARLOS MÉNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1690235722",
+            "NOMBRES": "JOSÉ CARLOS MÉNDEZ",
+            "SALARIO": "3.055.440",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1690235722",
+            "NOMBRES": "JOSÉ CARLOS MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.874.348"
+        }
+    }
+]

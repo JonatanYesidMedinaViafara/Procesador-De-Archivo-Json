@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "799154230134",
+            "SOLICITUD": "9803498",
+            "CEDULA": "1497755443",
+            "NOMBRES": "ROSA LONDOÑO MARÍN",
+            "RECOMPRA O DESEMBOLSO": "4.748.707",
+            "FIRMA ELLECTRONICA": "ROSA LONDOÑO MARÍN - 1497755443"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "799154230134",
+            "NOMBRES": "ROSA LONDOÑO MARÍN",
+            "CREDITO": "15.982.177",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "199.854",
+            "FIRMA ELLECTRONICA": "ROSA LONDOÑO MARÍN - 1497755443",
+            "AL PIE DE LA FIRMA": "ROSA LONDOÑO MARÍN - 1497755443"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1497755443",
+            "NOMBRES": "ROSA LONDOÑO MARÍN",
+            "FECHA NACIMIENTO": "12/03/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.982.177",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ROSA LONDOÑO MARÍN - 1497755443",
+            "AL PIE DE LA FIRMA": "ROSA LONDOÑO MARÍN - 1497755443"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9803498",
+            "CEDULA": "1497755443",
+            "NOMBRES": "ROSA LONDOÑO MARÍN",
+            "CREDITO": "15.982.177",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "199.854",
+            "E.A": "23.02%",
+            "RECOMPRA O DESEMBOLSO": "4.748.707",
+            "FIRMA ELLECTRONICA": "ROSA LONDOÑO MARÍN - 1497755443"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1497755443",
+            "NOMBRES": "ROSA LONDOÑO MARÍN",
+            "FIRMA ELLECTRONICA": "ROSA LONDOÑO MARÍN - 1497755443"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1497755443",
+            "NOMBRES": "ROSA LONDOÑO MARÍN",
+            "FIRMA ELLECTRONICA": "ROSA LONDOÑO MARÍN - 1497755443",
+            "AL PIE DE LA FIRMA": "ROSA LONDOÑO MARÍN - 1497755443"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSA LONDOÑO MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1497755443",
+            "NOMBRES": "ROSA LONDOÑO MARÍN",
+            "SALARIO": "3.950.333",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1497755443",
+            "NOMBRES": "ROSA LONDOÑO MARÍN",
+            "RECOMPRA O DESEMBOLSO": "4.748.707"
+        }
+    }
+]

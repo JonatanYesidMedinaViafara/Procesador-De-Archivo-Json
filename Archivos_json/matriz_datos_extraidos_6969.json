@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "670262848903",
+            "SOLICITUD": "7579984",
+            "CEDULA": "1440693026",
+            "NOMBRES": "ADRIANA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.828.331",
+            "FIRMA ELLECTRONICA": "ADRIANA PÉREZ - 1440693026"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "670262848903",
+            "NOMBRES": "ADRIANA PÉREZ",
+            "CREDITO": "18.335.846",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "390.864",
+            "FIRMA ELLECTRONICA": "ADRIANA PÉREZ - 1440693026",
+            "AL PIE DE LA FIRMA": "ADRIANA PÉREZ - 1440693026"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1440693026",
+            "NOMBRES": "ADRIANA PÉREZ",
+            "FECHA NACIMIENTO": "31/10/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.335.846",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ADRIANA PÉREZ - 1440693026",
+            "AL PIE DE LA FIRMA": "ADRIANA PÉREZ - 1440693026"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7579984",
+            "CEDULA": "1440693026",
+            "NOMBRES": "ADRIANA PÉREZ",
+            "CREDITO": "18.335.846",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "390.864",
+            "E.A": "28.91%",
+            "RECOMPRA O DESEMBOLSO": "3.828.331",
+            "FIRMA ELLECTRONICA": "ADRIANA PÉREZ - 1440693026"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1440693026",
+            "NOMBRES": "ADRIANA PÉREZ",
+            "FIRMA ELLECTRONICA": "ADRIANA PÉREZ - 1440693026"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1440693026",
+            "NOMBRES": "ADRIANA PÉREZ",
+            "FIRMA ELLECTRONICA": "ADRIANA PÉREZ - 1440693026",
+            "AL PIE DE LA FIRMA": "ADRIANA PÉREZ - 1440693026"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ADRIANA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1440693026",
+            "NOMBRES": "ADRIANA PÉREZ",
+            "SALARIO": "4.710.803",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1440693026",
+            "NOMBRES": "ADRIANA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.828.331"
+        }
+    }
+]

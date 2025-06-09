@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "808711494671",
+            "SOLICITUD": "6536878",
+            "CEDULA": "1082975694",
+            "NOMBRES": "ANDRÉS ARMANDO ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "2.490.061",
+            "FIRMA ELLECTRONICA": "ANDRÉS ARMANDO ORTEGA - 1082975694"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "808711494671",
+            "NOMBRES": "ANDRÉS ARMANDO ORTEGA",
+            "CREDITO": "6.630.599",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "274.011",
+            "FIRMA ELLECTRONICA": "ANDRÉS ARMANDO ORTEGA - 1082975694",
+            "AL PIE DE LA FIRMA": "ANDRÉS ARMANDO ORTEGA - 1082975694"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1082975694",
+            "NOMBRES": "ANDRÉS ARMANDO ORTEGA",
+            "FECHA NACIMIENTO": "08/09/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.630.599",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS ARMANDO ORTEGA - 1082975694",
+            "AL PIE DE LA FIRMA": "ANDRÉS ARMANDO ORTEGA - 1082975694"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6536878",
+            "CEDULA": "1082975694",
+            "NOMBRES": "ANDRÉS ARMANDO ORTEGA",
+            "CREDITO": "6.630.599",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "274.011",
+            "E.A": "21.44%",
+            "RECOMPRA O DESEMBOLSO": "2.490.061",
+            "FIRMA ELLECTRONICA": "ANDRÉS ARMANDO ORTEGA - 1082975694"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1082975694",
+            "NOMBRES": "ANDRÉS ARMANDO ORTEGA",
+            "FIRMA ELLECTRONICA": "ANDRÉS ARMANDO ORTEGA - 1082975694"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1082975694",
+            "NOMBRES": "ANDRÉS ARMANDO ORTEGA",
+            "FIRMA ELLECTRONICA": "ANDRÉS ARMANDO ORTEGA - 1082975694",
+            "AL PIE DE LA FIRMA": "ANDRÉS ARMANDO ORTEGA - 1082975694"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ARMANDO ORTEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1082975694",
+            "NOMBRES": "ANDRÉS ARMANDO ORTEGA",
+            "SALARIO": "4.243.956",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1082975694",
+            "NOMBRES": "ANDRÉS ARMANDO ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "2.490.061"
+        }
+    }
+]

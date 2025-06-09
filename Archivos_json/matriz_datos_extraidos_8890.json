@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "536532104323",
+            "SOLICITUD": "1719014",
+            "CEDULA": "1083306263",
+            "NOMBRES": "EDUARDO ARTURO VILLAMIZAR CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.448.178",
+            "FIRMA ELLECTRONICA": "EDUARDO ARTURO VILLAMIZAR CARDONA - 1083306263"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "536532104323",
+            "NOMBRES": "EDUARDO ARTURO VILLAMIZAR CARDONA",
+            "CREDITO": "17.287.537",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "179.041",
+            "FIRMA ELLECTRONICA": "EDUARDO ARTURO VILLAMIZAR CARDONA - 1083306263",
+            "AL PIE DE LA FIRMA": "EDUARDO ARTURO VILLAMIZAR CARDONA - 1083306263"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1083306263",
+            "NOMBRES": "EDUARDO ARTURO VILLAMIZAR CARDONA",
+            "FECHA NACIMIENTO": "24/01/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.287.537",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "EDUARDO ARTURO VILLAMIZAR CARDONA - 1083306263",
+            "AL PIE DE LA FIRMA": "EDUARDO ARTURO VILLAMIZAR CARDONA - 1083306263"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1719014",
+            "CEDULA": "1083306263",
+            "NOMBRES": "EDUARDO ARTURO VILLAMIZAR CARDONA",
+            "CREDITO": "17.287.537",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "179.041",
+            "E.A": "25.46%",
+            "RECOMPRA O DESEMBOLSO": "4.448.178",
+            "FIRMA ELLECTRONICA": "EDUARDO ARTURO VILLAMIZAR CARDONA - 1083306263"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1083306263",
+            "NOMBRES": "EDUARDO ARTURO VILLAMIZAR CARDONA",
+            "FIRMA ELLECTRONICA": "EDUARDO ARTURO VILLAMIZAR CARDONA - 1083306263"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1083306263",
+            "NOMBRES": "EDUARDO ARTURO VILLAMIZAR CARDONA",
+            "FIRMA ELLECTRONICA": "EDUARDO ARTURO VILLAMIZAR CARDONA - 1083306263",
+            "AL PIE DE LA FIRMA": "EDUARDO ARTURO VILLAMIZAR CARDONA - 1083306263"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO ARTURO VILLAMIZAR CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1083306263",
+            "NOMBRES": "EDUARDO ARTURO VILLAMIZAR CARDONA",
+            "SALARIO": "2.687.108",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1083306263",
+            "NOMBRES": "EDUARDO ARTURO VILLAMIZAR CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.448.178"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "257949397020",
+            "SOLICITUD": "9812774",
+            "CEDULA": "1491212953",
+            "NOMBRES": "FRANCISCO REYES",
+            "RECOMPRA O DESEMBOLSO": "3.153.763",
+            "FIRMA ELLECTRONICA": "FRANCISCO REYES - 1491212953"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "257949397020",
+            "NOMBRES": "FRANCISCO REYES",
+            "CREDITO": "18.607.079",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "206.51",
+            "FIRMA ELLECTRONICA": "FRANCISCO REYES - 1491212953",
+            "AL PIE DE LA FIRMA": "FRANCISCO REYES - 1491212953"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1491212953",
+            "NOMBRES": "FRANCISCO REYES",
+            "FECHA NACIMIENTO": "20/05/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.607.079",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FRANCISCO REYES - 1491212953",
+            "AL PIE DE LA FIRMA": "FRANCISCO REYES - 1491212953"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9812774",
+            "CEDULA": "1491212953",
+            "NOMBRES": "FRANCISCO REYES",
+            "CREDITO": "18.607.079",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "206.51",
+            "E.A": "25.73%",
+            "RECOMPRA O DESEMBOLSO": "3.153.763",
+            "FIRMA ELLECTRONICA": "FRANCISCO REYES - 1491212953"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1491212953",
+            "NOMBRES": "FRANCISCO REYES",
+            "FIRMA ELLECTRONICA": "FRANCISCO REYES - 1491212953"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1491212953",
+            "NOMBRES": "FRANCISCO REYES",
+            "FIRMA ELLECTRONICA": "FRANCISCO REYES - 1491212953",
+            "AL PIE DE LA FIRMA": "FRANCISCO REYES - 1491212953"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1491212953",
+            "NOMBRES": "FRANCISCO REYES",
+            "SALARIO": "4.416.009",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1491212953",
+            "NOMBRES": "FRANCISCO REYES",
+            "RECOMPRA O DESEMBOLSO": "3.153.763"
+        }
+    }
+]

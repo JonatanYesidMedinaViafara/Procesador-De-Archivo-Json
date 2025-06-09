@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "223096398133",
+            "SOLICITUD": "9558224",
+            "CEDULA": "1961907475",
+            "NOMBRES": "LIDIA MARÍA RIVERA",
+            "RECOMPRA O DESEMBOLSO": "2.092.998",
+            "FIRMA ELLECTRONICA": "LIDIA MARÍA RIVERA - 1961907475"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "223096398133",
+            "NOMBRES": "LIDIA MARÍA RIVERA",
+            "CREDITO": "12.124.752",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "181.282",
+            "FIRMA ELLECTRONICA": "LIDIA MARÍA RIVERA - 1961907475",
+            "AL PIE DE LA FIRMA": "LIDIA MARÍA RIVERA - 1961907475"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1961907475",
+            "NOMBRES": "LIDIA MARÍA RIVERA",
+            "FECHA NACIMIENTO": "02/04/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.124.752",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LIDIA MARÍA RIVERA - 1961907475",
+            "AL PIE DE LA FIRMA": "LIDIA MARÍA RIVERA - 1961907475"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9558224",
+            "CEDULA": "1961907475",
+            "NOMBRES": "LIDIA MARÍA RIVERA",
+            "CREDITO": "12.124.752",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "181.282",
+            "E.A": "25.37%",
+            "RECOMPRA O DESEMBOLSO": "2.092.998",
+            "FIRMA ELLECTRONICA": "LIDIA MARÍA RIVERA - 1961907475"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1961907475",
+            "NOMBRES": "LIDIA MARÍA RIVERA",
+            "FIRMA ELLECTRONICA": "LIDIA MARÍA RIVERA - 1961907475"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1961907475",
+            "NOMBRES": "LIDIA MARÍA RIVERA",
+            "FIRMA ELLECTRONICA": "LIDIA MARÍA RIVERA - 1961907475",
+            "AL PIE DE LA FIRMA": "LIDIA MARÍA RIVERA - 1961907475"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LIDIA MARÍA RIVERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1961907475",
+            "NOMBRES": "LIDIA MARÍA RIVERA",
+            "SALARIO": "3.064.523",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1961907475",
+            "NOMBRES": "LIDIA MARÍA RIVERA",
+            "RECOMPRA O DESEMBOLSO": "2.092.998"
+        }
+    }
+]

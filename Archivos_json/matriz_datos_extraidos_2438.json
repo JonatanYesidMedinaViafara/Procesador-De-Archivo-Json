@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "834812171034",
+            "SOLICITUD": "7403382",
+            "CEDULA": "1704854284",
+            "NOMBRES": "ANDRÉS JOSÉ GÓMEZ ARÉVALO",
+            "RECOMPRA O DESEMBOLSO": "3.200.546",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GÓMEZ ARÉVALO - 1704854284"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "834812171034",
+            "NOMBRES": "ANDRÉS JOSÉ GÓMEZ ARÉVALO",
+            "CREDITO": "19.166.760",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "264.462",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GÓMEZ ARÉVALO - 1704854284",
+            "AL PIE DE LA FIRMA": "ANDRÉS JOSÉ GÓMEZ ARÉVALO - 1704854284"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1704854284",
+            "NOMBRES": "ANDRÉS JOSÉ GÓMEZ ARÉVALO",
+            "FECHA NACIMIENTO": "07/08/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.166.760",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GÓMEZ ARÉVALO - 1704854284",
+            "AL PIE DE LA FIRMA": "ANDRÉS JOSÉ GÓMEZ ARÉVALO - 1704854284"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7403382",
+            "CEDULA": "1704854284",
+            "NOMBRES": "ANDRÉS JOSÉ GÓMEZ ARÉVALO",
+            "CREDITO": "19.166.760",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "264.462",
+            "E.A": "23.92%",
+            "RECOMPRA O DESEMBOLSO": "3.200.546",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GÓMEZ ARÉVALO - 1704854284"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1704854284",
+            "NOMBRES": "ANDRÉS JOSÉ GÓMEZ ARÉVALO",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GÓMEZ ARÉVALO - 1704854284"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1704854284",
+            "NOMBRES": "ANDRÉS JOSÉ GÓMEZ ARÉVALO",
+            "FIRMA ELLECTRONICA": "ANDRÉS JOSÉ GÓMEZ ARÉVALO - 1704854284",
+            "AL PIE DE LA FIRMA": "ANDRÉS JOSÉ GÓMEZ ARÉVALO - 1704854284"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS JOSÉ GÓMEZ ARÉVALO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1704854284",
+            "NOMBRES": "ANDRÉS JOSÉ GÓMEZ ARÉVALO",
+            "SALARIO": "2.499.405",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1704854284",
+            "NOMBRES": "ANDRÉS JOSÉ GÓMEZ ARÉVALO",
+            "RECOMPRA O DESEMBOLSO": "3.200.546"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "197022939255",
+            "SOLICITUD": "7050787",
+            "CEDULA": "1852881014",
+            "NOMBRES": "ALBERT SUÁREZ OSORIO",
+            "RECOMPRA O DESEMBOLSO": "4.655.781",
+            "FIRMA ELLECTRONICA": "ALBERT SUÁREZ OSORIO - 1852881014"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "197022939255",
+            "NOMBRES": "ALBERT SUÁREZ OSORIO",
+            "CREDITO": "19.080.960",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "316.723",
+            "FIRMA ELLECTRONICA": "ALBERT SUÁREZ OSORIO - 1852881014",
+            "AL PIE DE LA FIRMA": "ALBERT SUÁREZ OSORIO - 1852881014"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1852881014",
+            "NOMBRES": "ALBERT SUÁREZ OSORIO",
+            "FECHA NACIMIENTO": "10/04/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.080.960",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALBERT SUÁREZ OSORIO - 1852881014",
+            "AL PIE DE LA FIRMA": "ALBERT SUÁREZ OSORIO - 1852881014"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7050787",
+            "CEDULA": "1852881014",
+            "NOMBRES": "ALBERT SUÁREZ OSORIO",
+            "CREDITO": "19.080.960",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "316.723",
+            "E.A": "22.95%",
+            "RECOMPRA O DESEMBOLSO": "4.655.781",
+            "FIRMA ELLECTRONICA": "ALBERT SUÁREZ OSORIO - 1852881014"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1852881014",
+            "NOMBRES": "ALBERT SUÁREZ OSORIO",
+            "FIRMA ELLECTRONICA": "ALBERT SUÁREZ OSORIO - 1852881014"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1852881014",
+            "NOMBRES": "ALBERT SUÁREZ OSORIO",
+            "FIRMA ELLECTRONICA": "ALBERT SUÁREZ OSORIO - 1852881014",
+            "AL PIE DE LA FIRMA": "ALBERT SUÁREZ OSORIO - 1852881014"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERT SUÁREZ OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1852881014",
+            "NOMBRES": "ALBERT SUÁREZ OSORIO",
+            "SALARIO": "4.686.834",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1852881014",
+            "NOMBRES": "ALBERT SUÁREZ OSORIO",
+            "RECOMPRA O DESEMBOLSO": "4.655.781"
+        }
+    }
+]

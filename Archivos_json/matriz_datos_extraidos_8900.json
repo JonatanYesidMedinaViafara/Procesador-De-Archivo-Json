@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "224601494997",
+            "SOLICITUD": "7340493",
+            "CEDULA": "1838464395",
+            "NOMBRES": "JHON RUEDA",
+            "RECOMPRA O DESEMBOLSO": "4.110.924",
+            "FIRMA ELLECTRONICA": "JHON RUEDA - 1838464395"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "224601494997",
+            "NOMBRES": "JHON RUEDA",
+            "CREDITO": "7.593.497",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "122.079",
+            "FIRMA ELLECTRONICA": "JHON RUEDA - 1838464395",
+            "AL PIE DE LA FIRMA": "JHON RUEDA - 1838464395"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1838464395",
+            "NOMBRES": "JHON RUEDA",
+            "FECHA NACIMIENTO": "28/01/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.593.497",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JHON RUEDA - 1838464395",
+            "AL PIE DE LA FIRMA": "JHON RUEDA - 1838464395"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7340493",
+            "CEDULA": "1838464395",
+            "NOMBRES": "JHON RUEDA",
+            "CREDITO": "7.593.497",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "122.079",
+            "E.A": "21.51%",
+            "RECOMPRA O DESEMBOLSO": "4.110.924",
+            "FIRMA ELLECTRONICA": "JHON RUEDA - 1838464395"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1838464395",
+            "NOMBRES": "JHON RUEDA",
+            "FIRMA ELLECTRONICA": "JHON RUEDA - 1838464395"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1838464395",
+            "NOMBRES": "JHON RUEDA",
+            "FIRMA ELLECTRONICA": "JHON RUEDA - 1838464395",
+            "AL PIE DE LA FIRMA": "JHON RUEDA - 1838464395"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON RUEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1838464395",
+            "NOMBRES": "JHON RUEDA",
+            "SALARIO": "3.132.341",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1838464395",
+            "NOMBRES": "JHON RUEDA",
+            "RECOMPRA O DESEMBOLSO": "4.110.924"
+        }
+    }
+]

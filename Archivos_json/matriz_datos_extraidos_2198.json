@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "322781918295",
+            "SOLICITUD": "3824628",
+            "CEDULA": "1356664935",
+            "NOMBRES": "JUAN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.275.603",
+            "FIRMA ELLECTRONICA": "JUAN PÉREZ - 1356664935"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "322781918295",
+            "NOMBRES": "JUAN PÉREZ",
+            "CREDITO": "15.340.426",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "223.865",
+            "FIRMA ELLECTRONICA": "JUAN PÉREZ - 1356664935",
+            "AL PIE DE LA FIRMA": "JUAN PÉREZ - 1356664935"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1356664935",
+            "NOMBRES": "JUAN PÉREZ",
+            "FECHA NACIMIENTO": "08/02/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.340.426",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN PÉREZ - 1356664935",
+            "AL PIE DE LA FIRMA": "JUAN PÉREZ - 1356664935"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3824628",
+            "CEDULA": "1356664935",
+            "NOMBRES": "JUAN PÉREZ",
+            "CREDITO": "15.340.426",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "223.865",
+            "E.A": "23.54%",
+            "RECOMPRA O DESEMBOLSO": "1.275.603",
+            "FIRMA ELLECTRONICA": "JUAN PÉREZ - 1356664935"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1356664935",
+            "NOMBRES": "JUAN PÉREZ",
+            "FIRMA ELLECTRONICA": "JUAN PÉREZ - 1356664935"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1356664935",
+            "NOMBRES": "JUAN PÉREZ",
+            "FIRMA ELLECTRONICA": "JUAN PÉREZ - 1356664935",
+            "AL PIE DE LA FIRMA": "JUAN PÉREZ - 1356664935"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1356664935",
+            "NOMBRES": "JUAN PÉREZ",
+            "SALARIO": "3.424.660",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1356664935",
+            "NOMBRES": "JUAN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.275.603"
+        }
+    }
+]

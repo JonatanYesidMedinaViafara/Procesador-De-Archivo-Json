@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "149106132491",
+            "SOLICITUD": "9877547",
+            "CEDULA": "1031011273",
+            "NOMBRES": "ÓSCAR GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.908.951",
+            "FIRMA ELLECTRONICA": "ÓSCAR GUTIÉRREZ - 1031011273"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "149106132491",
+            "NOMBRES": "ÓSCAR GUTIÉRREZ",
+            "CREDITO": "12.520.519",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "271.183",
+            "FIRMA ELLECTRONICA": "ÓSCAR GUTIÉRREZ - 1031011273",
+            "AL PIE DE LA FIRMA": "ÓSCAR GUTIÉRREZ - 1031011273"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1031011273",
+            "NOMBRES": "ÓSCAR GUTIÉRREZ",
+            "FECHA NACIMIENTO": "04/06/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.520.519",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÓSCAR GUTIÉRREZ - 1031011273",
+            "AL PIE DE LA FIRMA": "ÓSCAR GUTIÉRREZ - 1031011273"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9877547",
+            "CEDULA": "1031011273",
+            "NOMBRES": "ÓSCAR GUTIÉRREZ",
+            "CREDITO": "12.520.519",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "271.183",
+            "E.A": "18.41%",
+            "RECOMPRA O DESEMBOLSO": "3.908.951",
+            "FIRMA ELLECTRONICA": "ÓSCAR GUTIÉRREZ - 1031011273"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1031011273",
+            "NOMBRES": "ÓSCAR GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR GUTIÉRREZ - 1031011273"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1031011273",
+            "NOMBRES": "ÓSCAR GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR GUTIÉRREZ - 1031011273",
+            "AL PIE DE LA FIRMA": "ÓSCAR GUTIÉRREZ - 1031011273"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1031011273",
+            "NOMBRES": "ÓSCAR GUTIÉRREZ",
+            "SALARIO": "2.472.448",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1031011273",
+            "NOMBRES": "ÓSCAR GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.908.951"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "987459508780",
+            "SOLICITUD": "2431065",
+            "CEDULA": "1714118501",
+            "NOMBRES": "ADIELA MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.712.287",
+            "FIRMA ELLECTRONICA": "ADIELA MÉNDEZ - 1714118501"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "987459508780",
+            "NOMBRES": "ADIELA MÉNDEZ",
+            "CREDITO": "11.554.821",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "295.13",
+            "FIRMA ELLECTRONICA": "ADIELA MÉNDEZ - 1714118501",
+            "AL PIE DE LA FIRMA": "ADIELA MÉNDEZ - 1714118501"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1714118501",
+            "NOMBRES": "ADIELA MÉNDEZ",
+            "FECHA NACIMIENTO": "22/12/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.554.821",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ADIELA MÉNDEZ - 1714118501",
+            "AL PIE DE LA FIRMA": "ADIELA MÉNDEZ - 1714118501"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2431065",
+            "CEDULA": "1714118501",
+            "NOMBRES": "ADIELA MÉNDEZ",
+            "CREDITO": "11.554.821",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "295.13",
+            "E.A": "28.61%",
+            "RECOMPRA O DESEMBOLSO": "4.712.287",
+            "FIRMA ELLECTRONICA": "ADIELA MÉNDEZ - 1714118501"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1714118501",
+            "NOMBRES": "ADIELA MÉNDEZ",
+            "FIRMA ELLECTRONICA": "ADIELA MÉNDEZ - 1714118501"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1714118501",
+            "NOMBRES": "ADIELA MÉNDEZ",
+            "FIRMA ELLECTRONICA": "ADIELA MÉNDEZ - 1714118501",
+            "AL PIE DE LA FIRMA": "ADIELA MÉNDEZ - 1714118501"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ADIELA MÉNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1714118501",
+            "NOMBRES": "ADIELA MÉNDEZ",
+            "SALARIO": "2.162.577",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1714118501",
+            "NOMBRES": "ADIELA MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.712.287"
+        }
+    }
+]

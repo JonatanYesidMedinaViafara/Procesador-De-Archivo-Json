@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "253125073237",
+            "SOLICITUD": "6206829",
+            "CEDULA": "1576912991",
+            "NOMBRES": "LUCÍA RODRÍGUEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.298.514",
+            "FIRMA ELLECTRONICA": "LUCÍA RODRÍGUEZ PÉREZ - 1576912991"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "253125073237",
+            "NOMBRES": "LUCÍA RODRÍGUEZ PÉREZ",
+            "CREDITO": "14.377.223",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "202.04",
+            "FIRMA ELLECTRONICA": "LUCÍA RODRÍGUEZ PÉREZ - 1576912991",
+            "AL PIE DE LA FIRMA": "LUCÍA RODRÍGUEZ PÉREZ - 1576912991"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1576912991",
+            "NOMBRES": "LUCÍA RODRÍGUEZ PÉREZ",
+            "FECHA NACIMIENTO": "31/03/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.377.223",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUCÍA RODRÍGUEZ PÉREZ - 1576912991",
+            "AL PIE DE LA FIRMA": "LUCÍA RODRÍGUEZ PÉREZ - 1576912991"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6206829",
+            "CEDULA": "1576912991",
+            "NOMBRES": "LUCÍA RODRÍGUEZ PÉREZ",
+            "CREDITO": "14.377.223",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "202.04",
+            "E.A": "22.61%",
+            "RECOMPRA O DESEMBOLSO": "2.298.514",
+            "FIRMA ELLECTRONICA": "LUCÍA RODRÍGUEZ PÉREZ - 1576912991"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1576912991",
+            "NOMBRES": "LUCÍA RODRÍGUEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "LUCÍA RODRÍGUEZ PÉREZ - 1576912991"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1576912991",
+            "NOMBRES": "LUCÍA RODRÍGUEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "LUCÍA RODRÍGUEZ PÉREZ - 1576912991",
+            "AL PIE DE LA FIRMA": "LUCÍA RODRÍGUEZ PÉREZ - 1576912991"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA RODRÍGUEZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1576912991",
+            "NOMBRES": "LUCÍA RODRÍGUEZ PÉREZ",
+            "SALARIO": "3.653.453",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1576912991",
+            "NOMBRES": "LUCÍA RODRÍGUEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.298.514"
+        }
+    }
+]

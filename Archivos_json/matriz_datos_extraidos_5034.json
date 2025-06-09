@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "943376032072",
+            "SOLICITUD": "2173372",
+            "CEDULA": "1648764410",
+            "NOMBRES": "FRANCISCO RIGOBERTO MENA",
+            "RECOMPRA O DESEMBOLSO": "4.577.233",
+            "FIRMA ELLECTRONICA": "FRANCISCO RIGOBERTO MENA - 1648764410"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "943376032072",
+            "NOMBRES": "FRANCISCO RIGOBERTO MENA",
+            "CREDITO": "19.313.834",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "325.647",
+            "FIRMA ELLECTRONICA": "FRANCISCO RIGOBERTO MENA - 1648764410",
+            "AL PIE DE LA FIRMA": "FRANCISCO RIGOBERTO MENA - 1648764410"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1648764410",
+            "NOMBRES": "FRANCISCO RIGOBERTO MENA",
+            "FECHA NACIMIENTO": "10/12/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.313.834",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FRANCISCO RIGOBERTO MENA - 1648764410",
+            "AL PIE DE LA FIRMA": "FRANCISCO RIGOBERTO MENA - 1648764410"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2173372",
+            "CEDULA": "1648764410",
+            "NOMBRES": "FRANCISCO RIGOBERTO MENA",
+            "CREDITO": "19.313.834",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "325.647",
+            "E.A": "18.97%",
+            "RECOMPRA O DESEMBOLSO": "4.577.233",
+            "FIRMA ELLECTRONICA": "FRANCISCO RIGOBERTO MENA - 1648764410"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1648764410",
+            "NOMBRES": "FRANCISCO RIGOBERTO MENA",
+            "FIRMA ELLECTRONICA": "FRANCISCO RIGOBERTO MENA - 1648764410"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1648764410",
+            "NOMBRES": "FRANCISCO RIGOBERTO MENA",
+            "FIRMA ELLECTRONICA": "FRANCISCO RIGOBERTO MENA - 1648764410",
+            "AL PIE DE LA FIRMA": "FRANCISCO RIGOBERTO MENA - 1648764410"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO RIGOBERTO MENA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1648764410",
+            "NOMBRES": "FRANCISCO RIGOBERTO MENA",
+            "SALARIO": "2.232.764",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1648764410",
+            "NOMBRES": "FRANCISCO RIGOBERTO MENA",
+            "RECOMPRA O DESEMBOLSO": "4.577.233"
+        }
+    }
+]

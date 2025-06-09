@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "259294055731",
+            "SOLICITUD": "5194133",
+            "CEDULA": "1129831774",
+            "NOMBRES": "VIVIANA VILLA PARRA",
+            "RECOMPRA O DESEMBOLSO": "2.443.523",
+            "FIRMA ELLECTRONICA": "VIVIANA VILLA PARRA - 1129831774"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "259294055731",
+            "NOMBRES": "VIVIANA VILLA PARRA",
+            "CREDITO": "16.642.879",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "262.777",
+            "FIRMA ELLECTRONICA": "VIVIANA VILLA PARRA - 1129831774",
+            "AL PIE DE LA FIRMA": "VIVIANA VILLA PARRA - 1129831774"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1129831774",
+            "NOMBRES": "VIVIANA VILLA PARRA",
+            "FECHA NACIMIENTO": "03/02/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.642.879",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "VIVIANA VILLA PARRA - 1129831774",
+            "AL PIE DE LA FIRMA": "VIVIANA VILLA PARRA - 1129831774"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5194133",
+            "CEDULA": "1129831774",
+            "NOMBRES": "VIVIANA VILLA PARRA",
+            "CREDITO": "16.642.879",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "262.777",
+            "E.A": "22.03%",
+            "RECOMPRA O DESEMBOLSO": "2.443.523",
+            "FIRMA ELLECTRONICA": "VIVIANA VILLA PARRA - 1129831774"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1129831774",
+            "NOMBRES": "VIVIANA VILLA PARRA",
+            "FIRMA ELLECTRONICA": "VIVIANA VILLA PARRA - 1129831774"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1129831774",
+            "NOMBRES": "VIVIANA VILLA PARRA",
+            "FIRMA ELLECTRONICA": "VIVIANA VILLA PARRA - 1129831774",
+            "AL PIE DE LA FIRMA": "VIVIANA VILLA PARRA - 1129831774"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VIVIANA VILLA PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1129831774",
+            "NOMBRES": "VIVIANA VILLA PARRA",
+            "SALARIO": "2.891.801",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1129831774",
+            "NOMBRES": "VIVIANA VILLA PARRA",
+            "RECOMPRA O DESEMBOLSO": "2.443.523"
+        }
+    }
+]

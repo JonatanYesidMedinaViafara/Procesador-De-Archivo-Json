@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "154376384763",
+            "SOLICITUD": "3464058",
+            "CEDULA": "1505671716",
+            "NOMBRES": "JOSÉ BUSTAMANTE",
+            "RECOMPRA O DESEMBOLSO": "2.852.403",
+            "FIRMA ELLECTRONICA": "JOSÉ BUSTAMANTE - 1505671716"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "154376384763",
+            "NOMBRES": "JOSÉ BUSTAMANTE",
+            "CREDITO": "9.406.849",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "208.637",
+            "FIRMA ELLECTRONICA": "JOSÉ BUSTAMANTE - 1505671716",
+            "AL PIE DE LA FIRMA": "JOSÉ BUSTAMANTE - 1505671716"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1505671716",
+            "NOMBRES": "JOSÉ BUSTAMANTE",
+            "FECHA NACIMIENTO": "22/02/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.406.849",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ BUSTAMANTE - 1505671716",
+            "AL PIE DE LA FIRMA": "JOSÉ BUSTAMANTE - 1505671716"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3464058",
+            "CEDULA": "1505671716",
+            "NOMBRES": "JOSÉ BUSTAMANTE",
+            "CREDITO": "9.406.849",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "208.637",
+            "E.A": "28.45%",
+            "RECOMPRA O DESEMBOLSO": "2.852.403",
+            "FIRMA ELLECTRONICA": "JOSÉ BUSTAMANTE - 1505671716"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1505671716",
+            "NOMBRES": "JOSÉ BUSTAMANTE",
+            "FIRMA ELLECTRONICA": "JOSÉ BUSTAMANTE - 1505671716"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1505671716",
+            "NOMBRES": "JOSÉ BUSTAMANTE",
+            "FIRMA ELLECTRONICA": "JOSÉ BUSTAMANTE - 1505671716",
+            "AL PIE DE LA FIRMA": "JOSÉ BUSTAMANTE - 1505671716"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ BUSTAMANTE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1505671716",
+            "NOMBRES": "JOSÉ BUSTAMANTE",
+            "SALARIO": "2.261.141",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1505671716",
+            "NOMBRES": "JOSÉ BUSTAMANTE",
+            "RECOMPRA O DESEMBOLSO": "2.852.403"
+        }
+    }
+]

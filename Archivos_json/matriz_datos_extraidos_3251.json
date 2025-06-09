@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "689147300005",
+            "SOLICITUD": "1477538",
+            "CEDULA": "1099190714",
+            "NOMBRES": "LUZ ROSA CABALLERO",
+            "RECOMPRA O DESEMBOLSO": "2.541.417",
+            "FIRMA ELLECTRONICA": "LUZ ROSA CABALLERO - 1099190714"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "689147300005",
+            "NOMBRES": "LUZ ROSA CABALLERO",
+            "CREDITO": "10.603.819",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "241.366",
+            "FIRMA ELLECTRONICA": "LUZ ROSA CABALLERO - 1099190714",
+            "AL PIE DE LA FIRMA": "LUZ ROSA CABALLERO - 1099190714"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1099190714",
+            "NOMBRES": "LUZ ROSA CABALLERO",
+            "FECHA NACIMIENTO": "11/09/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.603.819",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUZ ROSA CABALLERO - 1099190714",
+            "AL PIE DE LA FIRMA": "LUZ ROSA CABALLERO - 1099190714"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1477538",
+            "CEDULA": "1099190714",
+            "NOMBRES": "LUZ ROSA CABALLERO",
+            "CREDITO": "10.603.819",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "241.366",
+            "E.A": "19.47%",
+            "RECOMPRA O DESEMBOLSO": "2.541.417",
+            "FIRMA ELLECTRONICA": "LUZ ROSA CABALLERO - 1099190714"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1099190714",
+            "NOMBRES": "LUZ ROSA CABALLERO",
+            "FIRMA ELLECTRONICA": "LUZ ROSA CABALLERO - 1099190714"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1099190714",
+            "NOMBRES": "LUZ ROSA CABALLERO",
+            "FIRMA ELLECTRONICA": "LUZ ROSA CABALLERO - 1099190714",
+            "AL PIE DE LA FIRMA": "LUZ ROSA CABALLERO - 1099190714"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ ROSA CABALLERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1099190714",
+            "NOMBRES": "LUZ ROSA CABALLERO",
+            "SALARIO": "3.976.381",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1099190714",
+            "NOMBRES": "LUZ ROSA CABALLERO",
+            "RECOMPRA O DESEMBOLSO": "2.541.417"
+        }
+    }
+]

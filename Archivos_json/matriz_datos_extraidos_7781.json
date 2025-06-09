@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "759437952420",
+            "SOLICITUD": "6643554",
+            "CEDULA": "1178303847",
+            "NOMBRES": "CARLOS GREGORIO CAMACHO",
+            "RECOMPRA O DESEMBOLSO": "1.410.648",
+            "FIRMA ELLECTRONICA": "CARLOS GREGORIO CAMACHO - 1178303847"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "759437952420",
+            "NOMBRES": "CARLOS GREGORIO CAMACHO",
+            "CREDITO": "13.365.437",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "226.365",
+            "FIRMA ELLECTRONICA": "CARLOS GREGORIO CAMACHO - 1178303847",
+            "AL PIE DE LA FIRMA": "CARLOS GREGORIO CAMACHO - 1178303847"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1178303847",
+            "NOMBRES": "CARLOS GREGORIO CAMACHO",
+            "FECHA NACIMIENTO": "18/10/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.365.437",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS GREGORIO CAMACHO - 1178303847",
+            "AL PIE DE LA FIRMA": "CARLOS GREGORIO CAMACHO - 1178303847"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6643554",
+            "CEDULA": "1178303847",
+            "NOMBRES": "CARLOS GREGORIO CAMACHO",
+            "CREDITO": "13.365.437",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "226.365",
+            "E.A": "25.1%",
+            "RECOMPRA O DESEMBOLSO": "1.410.648",
+            "FIRMA ELLECTRONICA": "CARLOS GREGORIO CAMACHO - 1178303847"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1178303847",
+            "NOMBRES": "CARLOS GREGORIO CAMACHO",
+            "FIRMA ELLECTRONICA": "CARLOS GREGORIO CAMACHO - 1178303847"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1178303847",
+            "NOMBRES": "CARLOS GREGORIO CAMACHO",
+            "FIRMA ELLECTRONICA": "CARLOS GREGORIO CAMACHO - 1178303847",
+            "AL PIE DE LA FIRMA": "CARLOS GREGORIO CAMACHO - 1178303847"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS GREGORIO CAMACHO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1178303847",
+            "NOMBRES": "CARLOS GREGORIO CAMACHO",
+            "SALARIO": "1.385.325",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1178303847",
+            "NOMBRES": "CARLOS GREGORIO CAMACHO",
+            "RECOMPRA O DESEMBOLSO": "1.410.648"
+        }
+    }
+]

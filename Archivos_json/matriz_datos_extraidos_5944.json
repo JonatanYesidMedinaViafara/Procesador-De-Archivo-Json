@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "207735756026",
+            "SOLICITUD": "8527536",
+            "CEDULA": "1122258668",
+            "NOMBRES": "YENNY RANGEL",
+            "RECOMPRA O DESEMBOLSO": "4.521.616",
+            "FIRMA ELLECTRONICA": "YENNY RANGEL - 1122258668"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "207735756026",
+            "NOMBRES": "YENNY RANGEL",
+            "CREDITO": "7.547.103",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "200.444",
+            "FIRMA ELLECTRONICA": "YENNY RANGEL - 1122258668",
+            "AL PIE DE LA FIRMA": "YENNY RANGEL - 1122258668"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1122258668",
+            "NOMBRES": "YENNY RANGEL",
+            "FECHA NACIMIENTO": "06/04/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.547.103",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "YENNY RANGEL - 1122258668",
+            "AL PIE DE LA FIRMA": "YENNY RANGEL - 1122258668"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8527536",
+            "CEDULA": "1122258668",
+            "NOMBRES": "YENNY RANGEL",
+            "CREDITO": "7.547.103",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "200.444",
+            "E.A": "25.76%",
+            "RECOMPRA O DESEMBOLSO": "4.521.616",
+            "FIRMA ELLECTRONICA": "YENNY RANGEL - 1122258668"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1122258668",
+            "NOMBRES": "YENNY RANGEL",
+            "FIRMA ELLECTRONICA": "YENNY RANGEL - 1122258668"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1122258668",
+            "NOMBRES": "YENNY RANGEL",
+            "FIRMA ELLECTRONICA": "YENNY RANGEL - 1122258668",
+            "AL PIE DE LA FIRMA": "YENNY RANGEL - 1122258668"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YENNY RANGEL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1122258668",
+            "NOMBRES": "YENNY RANGEL",
+            "SALARIO": "3.950.766",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1122258668",
+            "NOMBRES": "YENNY RANGEL",
+            "RECOMPRA O DESEMBOLSO": "4.521.616"
+        }
+    }
+]

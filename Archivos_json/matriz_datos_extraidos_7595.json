@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "122162104913",
+            "SOLICITUD": "6589722",
+            "CEDULA": "1205980376",
+            "NOMBRES": "MARIELA OROZCO",
+            "RECOMPRA O DESEMBOLSO": "4.786.815",
+            "FIRMA ELLECTRONICA": "MARIELA OROZCO - 1205980376"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "122162104913",
+            "NOMBRES": "MARIELA OROZCO",
+            "CREDITO": "17.063.092",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "135.294",
+            "FIRMA ELLECTRONICA": "MARIELA OROZCO - 1205980376",
+            "AL PIE DE LA FIRMA": "MARIELA OROZCO - 1205980376"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1205980376",
+            "NOMBRES": "MARIELA OROZCO",
+            "FECHA NACIMIENTO": "08/06/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.063.092",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARIELA OROZCO - 1205980376",
+            "AL PIE DE LA FIRMA": "MARIELA OROZCO - 1205980376"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6589722",
+            "CEDULA": "1205980376",
+            "NOMBRES": "MARIELA OROZCO",
+            "CREDITO": "17.063.092",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "135.294",
+            "E.A": "23.01%",
+            "RECOMPRA O DESEMBOLSO": "4.786.815",
+            "FIRMA ELLECTRONICA": "MARIELA OROZCO - 1205980376"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1205980376",
+            "NOMBRES": "MARIELA OROZCO",
+            "FIRMA ELLECTRONICA": "MARIELA OROZCO - 1205980376"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1205980376",
+            "NOMBRES": "MARIELA OROZCO",
+            "FIRMA ELLECTRONICA": "MARIELA OROZCO - 1205980376",
+            "AL PIE DE LA FIRMA": "MARIELA OROZCO - 1205980376"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIELA OROZCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1205980376",
+            "NOMBRES": "MARIELA OROZCO",
+            "SALARIO": "1.746.780",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1205980376",
+            "NOMBRES": "MARIELA OROZCO",
+            "RECOMPRA O DESEMBOLSO": "4.786.815"
+        }
+    }
+]

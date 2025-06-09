@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "381261581215",
+            "SOLICITUD": "1312936",
+            "CEDULA": "1475471297",
+            "NOMBRES": "ANDREA OBANDO",
+            "RECOMPRA O DESEMBOLSO": "1.575.509",
+            "FIRMA ELLECTRONICA": "ANDREA OBANDO - 1475471297"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "381261581215",
+            "NOMBRES": "ANDREA OBANDO",
+            "CREDITO": "9.305.453",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "357.316",
+            "FIRMA ELLECTRONICA": "ANDREA OBANDO - 1475471297",
+            "AL PIE DE LA FIRMA": "ANDREA OBANDO - 1475471297"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1475471297",
+            "NOMBRES": "ANDREA OBANDO",
+            "FECHA NACIMIENTO": "09/06/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.305.453",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDREA OBANDO - 1475471297",
+            "AL PIE DE LA FIRMA": "ANDREA OBANDO - 1475471297"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1312936",
+            "CEDULA": "1475471297",
+            "NOMBRES": "ANDREA OBANDO",
+            "CREDITO": "9.305.453",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "357.316",
+            "E.A": "24.89%",
+            "RECOMPRA O DESEMBOLSO": "1.575.509",
+            "FIRMA ELLECTRONICA": "ANDREA OBANDO - 1475471297"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1475471297",
+            "NOMBRES": "ANDREA OBANDO",
+            "FIRMA ELLECTRONICA": "ANDREA OBANDO - 1475471297"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1475471297",
+            "NOMBRES": "ANDREA OBANDO",
+            "FIRMA ELLECTRONICA": "ANDREA OBANDO - 1475471297",
+            "AL PIE DE LA FIRMA": "ANDREA OBANDO - 1475471297"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA OBANDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1475471297",
+            "NOMBRES": "ANDREA OBANDO",
+            "SALARIO": "3.702.251",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1475471297",
+            "NOMBRES": "ANDREA OBANDO",
+            "RECOMPRA O DESEMBOLSO": "1.575.509"
+        }
+    }
+]

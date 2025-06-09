@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "482199722997",
+            "SOLICITUD": "5930199",
+            "CEDULA": "1574585791",
+            "NOMBRES": "HERNÁN GREGORIO MORALES PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.121.008",
+            "FIRMA ELLECTRONICA": "HERNÁN GREGORIO MORALES PEÑA - 1574585791"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "482199722997",
+            "NOMBRES": "HERNÁN GREGORIO MORALES PEÑA",
+            "CREDITO": "10.892.471",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "106.858",
+            "FIRMA ELLECTRONICA": "HERNÁN GREGORIO MORALES PEÑA - 1574585791",
+            "AL PIE DE LA FIRMA": "HERNÁN GREGORIO MORALES PEÑA - 1574585791"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1574585791",
+            "NOMBRES": "HERNÁN GREGORIO MORALES PEÑA",
+            "FECHA NACIMIENTO": "25/07/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.892.471",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "HERNÁN GREGORIO MORALES PEÑA - 1574585791",
+            "AL PIE DE LA FIRMA": "HERNÁN GREGORIO MORALES PEÑA - 1574585791"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5930199",
+            "CEDULA": "1574585791",
+            "NOMBRES": "HERNÁN GREGORIO MORALES PEÑA",
+            "CREDITO": "10.892.471",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "106.858",
+            "E.A": "23.82%",
+            "RECOMPRA O DESEMBOLSO": "2.121.008",
+            "FIRMA ELLECTRONICA": "HERNÁN GREGORIO MORALES PEÑA - 1574585791"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1574585791",
+            "NOMBRES": "HERNÁN GREGORIO MORALES PEÑA",
+            "FIRMA ELLECTRONICA": "HERNÁN GREGORIO MORALES PEÑA - 1574585791"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1574585791",
+            "NOMBRES": "HERNÁN GREGORIO MORALES PEÑA",
+            "FIRMA ELLECTRONICA": "HERNÁN GREGORIO MORALES PEÑA - 1574585791",
+            "AL PIE DE LA FIRMA": "HERNÁN GREGORIO MORALES PEÑA - 1574585791"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNÁN GREGORIO MORALES PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1574585791",
+            "NOMBRES": "HERNÁN GREGORIO MORALES PEÑA",
+            "SALARIO": "4.072.413",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1574585791",
+            "NOMBRES": "HERNÁN GREGORIO MORALES PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.121.008"
+        }
+    }
+]

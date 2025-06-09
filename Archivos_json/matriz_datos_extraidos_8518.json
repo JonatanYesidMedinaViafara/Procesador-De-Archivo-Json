@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "318068421102",
+            "SOLICITUD": "7084797",
+            "CEDULA": "1453761136",
+            "NOMBRES": "ANDRÉS PABLO MUÑOZ CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "1.684.188",
+            "FIRMA ELLECTRONICA": "ANDRÉS PABLO MUÑOZ CÓRDOBA - 1453761136"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "318068421102",
+            "NOMBRES": "ANDRÉS PABLO MUÑOZ CÓRDOBA",
+            "CREDITO": "16.352.082",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "286.606",
+            "FIRMA ELLECTRONICA": "ANDRÉS PABLO MUÑOZ CÓRDOBA - 1453761136",
+            "AL PIE DE LA FIRMA": "ANDRÉS PABLO MUÑOZ CÓRDOBA - 1453761136"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1453761136",
+            "NOMBRES": "ANDRÉS PABLO MUÑOZ CÓRDOBA",
+            "FECHA NACIMIENTO": "01/01/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.352.082",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS PABLO MUÑOZ CÓRDOBA - 1453761136",
+            "AL PIE DE LA FIRMA": "ANDRÉS PABLO MUÑOZ CÓRDOBA - 1453761136"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7084797",
+            "CEDULA": "1453761136",
+            "NOMBRES": "ANDRÉS PABLO MUÑOZ CÓRDOBA",
+            "CREDITO": "16.352.082",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "286.606",
+            "E.A": "21.72%",
+            "RECOMPRA O DESEMBOLSO": "1.684.188",
+            "FIRMA ELLECTRONICA": "ANDRÉS PABLO MUÑOZ CÓRDOBA - 1453761136"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1453761136",
+            "NOMBRES": "ANDRÉS PABLO MUÑOZ CÓRDOBA",
+            "FIRMA ELLECTRONICA": "ANDRÉS PABLO MUÑOZ CÓRDOBA - 1453761136"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1453761136",
+            "NOMBRES": "ANDRÉS PABLO MUÑOZ CÓRDOBA",
+            "FIRMA ELLECTRONICA": "ANDRÉS PABLO MUÑOZ CÓRDOBA - 1453761136",
+            "AL PIE DE LA FIRMA": "ANDRÉS PABLO MUÑOZ CÓRDOBA - 1453761136"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS PABLO MUÑOZ CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1453761136",
+            "NOMBRES": "ANDRÉS PABLO MUÑOZ CÓRDOBA",
+            "SALARIO": "2.716.883",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "19/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1453761136",
+            "NOMBRES": "ANDRÉS PABLO MUÑOZ CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "1.684.188"
+        }
+    }
+]

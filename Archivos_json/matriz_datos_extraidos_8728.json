@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "708479645008",
+            "SOLICITUD": "8330708",
+            "CEDULA": "1798883221",
+            "NOMBRES": "RICARDO MELO",
+            "RECOMPRA O DESEMBOLSO": "3.649.627",
+            "FIRMA ELLECTRONICA": "RICARDO MELO - 1798883221"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "708479645008",
+            "NOMBRES": "RICARDO MELO",
+            "CREDITO": "12.761.195",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "310.184",
+            "FIRMA ELLECTRONICA": "RICARDO MELO - 1798883221",
+            "AL PIE DE LA FIRMA": "RICARDO MELO - 1798883221"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1798883221",
+            "NOMBRES": "RICARDO MELO",
+            "FECHA NACIMIENTO": "05/02/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.761.195",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "RICARDO MELO - 1798883221",
+            "AL PIE DE LA FIRMA": "RICARDO MELO - 1798883221"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8330708",
+            "CEDULA": "1798883221",
+            "NOMBRES": "RICARDO MELO",
+            "CREDITO": "12.761.195",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "310.184",
+            "E.A": "18.47%",
+            "RECOMPRA O DESEMBOLSO": "3.649.627",
+            "FIRMA ELLECTRONICA": "RICARDO MELO - 1798883221"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1798883221",
+            "NOMBRES": "RICARDO MELO",
+            "FIRMA ELLECTRONICA": "RICARDO MELO - 1798883221"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1798883221",
+            "NOMBRES": "RICARDO MELO",
+            "FIRMA ELLECTRONICA": "RICARDO MELO - 1798883221",
+            "AL PIE DE LA FIRMA": "RICARDO MELO - 1798883221"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RICARDO MELO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1798883221",
+            "NOMBRES": "RICARDO MELO",
+            "SALARIO": "3.093.396",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1798883221",
+            "NOMBRES": "RICARDO MELO",
+            "RECOMPRA O DESEMBOLSO": "3.649.627"
+        }
+    }
+]

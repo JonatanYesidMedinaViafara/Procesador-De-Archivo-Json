@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "526695105401",
+            "SOLICITUD": "3231552",
+            "CEDULA": "1460084958",
+            "NOMBRES": "ANA RUTH PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.266.671",
+            "FIRMA ELLECTRONICA": "ANA RUTH PÉREZ - 1460084958"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "526695105401",
+            "NOMBRES": "ANA RUTH PÉREZ",
+            "CREDITO": "8.321.230",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "112.133",
+            "FIRMA ELLECTRONICA": "ANA RUTH PÉREZ - 1460084958",
+            "AL PIE DE LA FIRMA": "ANA RUTH PÉREZ - 1460084958"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1460084958",
+            "NOMBRES": "ANA RUTH PÉREZ",
+            "FECHA NACIMIENTO": "31/01/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.321.230",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANA RUTH PÉREZ - 1460084958",
+            "AL PIE DE LA FIRMA": "ANA RUTH PÉREZ - 1460084958"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3231552",
+            "CEDULA": "1460084958",
+            "NOMBRES": "ANA RUTH PÉREZ",
+            "CREDITO": "8.321.230",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "112.133",
+            "E.A": "27.97%",
+            "RECOMPRA O DESEMBOLSO": "2.266.671",
+            "FIRMA ELLECTRONICA": "ANA RUTH PÉREZ - 1460084958"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1460084958",
+            "NOMBRES": "ANA RUTH PÉREZ",
+            "FIRMA ELLECTRONICA": "ANA RUTH PÉREZ - 1460084958"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1460084958",
+            "NOMBRES": "ANA RUTH PÉREZ",
+            "FIRMA ELLECTRONICA": "ANA RUTH PÉREZ - 1460084958",
+            "AL PIE DE LA FIRMA": "ANA RUTH PÉREZ - 1460084958"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA RUTH PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1460084958",
+            "NOMBRES": "ANA RUTH PÉREZ",
+            "SALARIO": "3.959.700",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1460084958",
+            "NOMBRES": "ANA RUTH PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.266.671"
+        }
+    }
+]

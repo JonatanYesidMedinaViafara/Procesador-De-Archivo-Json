@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "368146921118",
+            "SOLICITUD": "4127568",
+            "CEDULA": "1288229848",
+            "NOMBRES": "GLORIA MARÍA GALEANO",
+            "RECOMPRA O DESEMBOLSO": "2.912.085",
+            "FIRMA ELLECTRONICA": "GLORIA MARÍA GALEANO - 1288229848"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "368146921118",
+            "NOMBRES": "GLORIA MARÍA GALEANO",
+            "CREDITO": "16.290.263",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "194.832",
+            "FIRMA ELLECTRONICA": "GLORIA MARÍA GALEANO - 1288229848",
+            "AL PIE DE LA FIRMA": "GLORIA MARÍA GALEANO - 1288229848"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1288229848",
+            "NOMBRES": "GLORIA MARÍA GALEANO",
+            "FECHA NACIMIENTO": "02/12/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.290.263",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GLORIA MARÍA GALEANO - 1288229848",
+            "AL PIE DE LA FIRMA": "GLORIA MARÍA GALEANO - 1288229848"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4127568",
+            "CEDULA": "1288229848",
+            "NOMBRES": "GLORIA MARÍA GALEANO",
+            "CREDITO": "16.290.263",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "194.832",
+            "E.A": "26.32%",
+            "RECOMPRA O DESEMBOLSO": "2.912.085",
+            "FIRMA ELLECTRONICA": "GLORIA MARÍA GALEANO - 1288229848"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1288229848",
+            "NOMBRES": "GLORIA MARÍA GALEANO",
+            "FIRMA ELLECTRONICA": "GLORIA MARÍA GALEANO - 1288229848"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1288229848",
+            "NOMBRES": "GLORIA MARÍA GALEANO",
+            "FIRMA ELLECTRONICA": "GLORIA MARÍA GALEANO - 1288229848",
+            "AL PIE DE LA FIRMA": "GLORIA MARÍA GALEANO - 1288229848"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GLORIA MARÍA GALEANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1288229848",
+            "NOMBRES": "GLORIA MARÍA GALEANO",
+            "SALARIO": "1.859.502",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1288229848",
+            "NOMBRES": "GLORIA MARÍA GALEANO",
+            "RECOMPRA O DESEMBOLSO": "2.912.085"
+        }
+    }
+]

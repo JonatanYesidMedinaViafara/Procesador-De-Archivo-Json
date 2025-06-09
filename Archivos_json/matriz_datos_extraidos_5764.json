@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "136564679416",
+            "SOLICITUD": "9871586",
+            "CEDULA": "1167775986",
+            "NOMBRES": "MAURICIO JUAN CAICEDO",
+            "RECOMPRA O DESEMBOLSO": "2.223.904",
+            "FIRMA ELLECTRONICA": "MAURICIO JUAN CAICEDO - 1167775986"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "136564679416",
+            "NOMBRES": "MAURICIO JUAN CAICEDO",
+            "CREDITO": "15.451.002",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "145.96",
+            "FIRMA ELLECTRONICA": "MAURICIO JUAN CAICEDO - 1167775986",
+            "AL PIE DE LA FIRMA": "MAURICIO JUAN CAICEDO - 1167775986"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1167775986",
+            "NOMBRES": "MAURICIO JUAN CAICEDO",
+            "FECHA NACIMIENTO": "08/12/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.451.002",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MAURICIO JUAN CAICEDO - 1167775986",
+            "AL PIE DE LA FIRMA": "MAURICIO JUAN CAICEDO - 1167775986"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9871586",
+            "CEDULA": "1167775986",
+            "NOMBRES": "MAURICIO JUAN CAICEDO",
+            "CREDITO": "15.451.002",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "145.96",
+            "E.A": "27.24%",
+            "RECOMPRA O DESEMBOLSO": "2.223.904",
+            "FIRMA ELLECTRONICA": "MAURICIO JUAN CAICEDO - 1167775986"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1167775986",
+            "NOMBRES": "MAURICIO JUAN CAICEDO",
+            "FIRMA ELLECTRONICA": "MAURICIO JUAN CAICEDO - 1167775986"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1167775986",
+            "NOMBRES": "MAURICIO JUAN CAICEDO",
+            "FIRMA ELLECTRONICA": "MAURICIO JUAN CAICEDO - 1167775986",
+            "AL PIE DE LA FIRMA": "MAURICIO JUAN CAICEDO - 1167775986"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO JUAN CAICEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1167775986",
+            "NOMBRES": "MAURICIO JUAN CAICEDO",
+            "SALARIO": "1.020.247",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1167775986",
+            "NOMBRES": "MAURICIO JUAN CAICEDO",
+            "RECOMPRA O DESEMBOLSO": "2.223.904"
+        }
+    }
+]

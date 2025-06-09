@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "865083618802",
+            "SOLICITUD": "3745218",
+            "CEDULA": "1482316621",
+            "NOMBRES": "CAMILO VÁSQUEZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "2.525.313",
+            "FIRMA ELLECTRONICA": "CAMILO VÁSQUEZ MEDINA - 1482316621"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "865083618802",
+            "NOMBRES": "CAMILO VÁSQUEZ MEDINA",
+            "CREDITO": "7.361.953",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "173.705",
+            "FIRMA ELLECTRONICA": "CAMILO VÁSQUEZ MEDINA - 1482316621",
+            "AL PIE DE LA FIRMA": "CAMILO VÁSQUEZ MEDINA - 1482316621"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1482316621",
+            "NOMBRES": "CAMILO VÁSQUEZ MEDINA",
+            "FECHA NACIMIENTO": "19/04/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.361.953",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAMILO VÁSQUEZ MEDINA - 1482316621",
+            "AL PIE DE LA FIRMA": "CAMILO VÁSQUEZ MEDINA - 1482316621"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3745218",
+            "CEDULA": "1482316621",
+            "NOMBRES": "CAMILO VÁSQUEZ MEDINA",
+            "CREDITO": "7.361.953",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "173.705",
+            "E.A": "27.86%",
+            "RECOMPRA O DESEMBOLSO": "2.525.313",
+            "FIRMA ELLECTRONICA": "CAMILO VÁSQUEZ MEDINA - 1482316621"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1482316621",
+            "NOMBRES": "CAMILO VÁSQUEZ MEDINA",
+            "FIRMA ELLECTRONICA": "CAMILO VÁSQUEZ MEDINA - 1482316621"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1482316621",
+            "NOMBRES": "CAMILO VÁSQUEZ MEDINA",
+            "FIRMA ELLECTRONICA": "CAMILO VÁSQUEZ MEDINA - 1482316621",
+            "AL PIE DE LA FIRMA": "CAMILO VÁSQUEZ MEDINA - 1482316621"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO VÁSQUEZ MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1482316621",
+            "NOMBRES": "CAMILO VÁSQUEZ MEDINA",
+            "SALARIO": "1.122.638",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1482316621",
+            "NOMBRES": "CAMILO VÁSQUEZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "2.525.313"
+        }
+    }
+]

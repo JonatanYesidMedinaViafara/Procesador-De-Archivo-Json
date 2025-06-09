@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "304787701286",
+            "SOLICITUD": "5421186",
+            "CEDULA": "1641613361",
+            "NOMBRES": "JUAN PINZÓN",
+            "RECOMPRA O DESEMBOLSO": "1.143.828",
+            "FIRMA ELLECTRONICA": "JUAN PINZÓN - 1641613361"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "304787701286",
+            "NOMBRES": "JUAN PINZÓN",
+            "CREDITO": "5.708.559",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "388.356",
+            "FIRMA ELLECTRONICA": "JUAN PINZÓN - 1641613361",
+            "AL PIE DE LA FIRMA": "JUAN PINZÓN - 1641613361"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1641613361",
+            "NOMBRES": "JUAN PINZÓN",
+            "FECHA NACIMIENTO": "15/07/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.708.559",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN PINZÓN - 1641613361",
+            "AL PIE DE LA FIRMA": "JUAN PINZÓN - 1641613361"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5421186",
+            "CEDULA": "1641613361",
+            "NOMBRES": "JUAN PINZÓN",
+            "CREDITO": "5.708.559",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "388.356",
+            "E.A": "28.8%",
+            "RECOMPRA O DESEMBOLSO": "1.143.828",
+            "FIRMA ELLECTRONICA": "JUAN PINZÓN - 1641613361"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1641613361",
+            "NOMBRES": "JUAN PINZÓN",
+            "FIRMA ELLECTRONICA": "JUAN PINZÓN - 1641613361"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1641613361",
+            "NOMBRES": "JUAN PINZÓN",
+            "FIRMA ELLECTRONICA": "JUAN PINZÓN - 1641613361",
+            "AL PIE DE LA FIRMA": "JUAN PINZÓN - 1641613361"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN PINZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1641613361",
+            "NOMBRES": "JUAN PINZÓN",
+            "SALARIO": "4.839.012",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1641613361",
+            "NOMBRES": "JUAN PINZÓN",
+            "RECOMPRA O DESEMBOLSO": "1.143.828"
+        }
+    }
+]

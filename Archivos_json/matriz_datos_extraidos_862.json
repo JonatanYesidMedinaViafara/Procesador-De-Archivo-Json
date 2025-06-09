@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "826886192001",
+            "SOLICITUD": "3032339",
+            "CEDULA": "1541506700",
+            "NOMBRES": "ANTONIO VICENTE PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.223.400",
+            "FIRMA ELLECTRONICA": "ANTONIO VICENTE PÉREZ - 1541506700"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "826886192001",
+            "NOMBRES": "ANTONIO VICENTE PÉREZ",
+            "CREDITO": "6.276.888",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "234.483",
+            "FIRMA ELLECTRONICA": "ANTONIO VICENTE PÉREZ - 1541506700",
+            "AL PIE DE LA FIRMA": "ANTONIO VICENTE PÉREZ - 1541506700"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1541506700",
+            "NOMBRES": "ANTONIO VICENTE PÉREZ",
+            "FECHA NACIMIENTO": "03/06/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.276.888",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANTONIO VICENTE PÉREZ - 1541506700",
+            "AL PIE DE LA FIRMA": "ANTONIO VICENTE PÉREZ - 1541506700"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3032339",
+            "CEDULA": "1541506700",
+            "NOMBRES": "ANTONIO VICENTE PÉREZ",
+            "CREDITO": "6.276.888",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "234.483",
+            "E.A": "27.89%",
+            "RECOMPRA O DESEMBOLSO": "1.223.400",
+            "FIRMA ELLECTRONICA": "ANTONIO VICENTE PÉREZ - 1541506700"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1541506700",
+            "NOMBRES": "ANTONIO VICENTE PÉREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO VICENTE PÉREZ - 1541506700"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1541506700",
+            "NOMBRES": "ANTONIO VICENTE PÉREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO VICENTE PÉREZ - 1541506700",
+            "AL PIE DE LA FIRMA": "ANTONIO VICENTE PÉREZ - 1541506700"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO VICENTE PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1541506700",
+            "NOMBRES": "ANTONIO VICENTE PÉREZ",
+            "SALARIO": "1.394.042",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1541506700",
+            "NOMBRES": "ANTONIO VICENTE PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.223.400"
+        }
+    }
+]

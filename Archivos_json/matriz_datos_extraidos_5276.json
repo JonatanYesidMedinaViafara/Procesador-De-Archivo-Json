@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "157771896357",
+            "SOLICITUD": "1678603",
+            "CEDULA": "1113987189",
+            "NOMBRES": "MERY GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "4.150.491",
+            "FIRMA ELLECTRONICA": "MERY GUZMÁN - 1113987189"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "157771896357",
+            "NOMBRES": "MERY GUZMÁN",
+            "CREDITO": "13.517.068",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "298.758",
+            "FIRMA ELLECTRONICA": "MERY GUZMÁN - 1113987189",
+            "AL PIE DE LA FIRMA": "MERY GUZMÁN - 1113987189"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1113987189",
+            "NOMBRES": "MERY GUZMÁN",
+            "FECHA NACIMIENTO": "04/01/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.517.068",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MERY GUZMÁN - 1113987189",
+            "AL PIE DE LA FIRMA": "MERY GUZMÁN - 1113987189"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1678603",
+            "CEDULA": "1113987189",
+            "NOMBRES": "MERY GUZMÁN",
+            "CREDITO": "13.517.068",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "298.758",
+            "E.A": "21.12%",
+            "RECOMPRA O DESEMBOLSO": "4.150.491",
+            "FIRMA ELLECTRONICA": "MERY GUZMÁN - 1113987189"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1113987189",
+            "NOMBRES": "MERY GUZMÁN",
+            "FIRMA ELLECTRONICA": "MERY GUZMÁN - 1113987189"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1113987189",
+            "NOMBRES": "MERY GUZMÁN",
+            "FIRMA ELLECTRONICA": "MERY GUZMÁN - 1113987189",
+            "AL PIE DE LA FIRMA": "MERY GUZMÁN - 1113987189"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MERY GUZMÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1113987189",
+            "NOMBRES": "MERY GUZMÁN",
+            "SALARIO": "1.663.558",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1113987189",
+            "NOMBRES": "MERY GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "4.150.491"
+        }
+    }
+]

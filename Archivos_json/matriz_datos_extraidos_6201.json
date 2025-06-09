@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "908520171462",
+            "SOLICITUD": "3187364",
+            "CEDULA": "1764575104",
+            "NOMBRES": "JUAN RODRIGO ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "1.931.256",
+            "FIRMA ELLECTRONICA": "JUAN RODRIGO ESCOBAR - 1764575104"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "908520171462",
+            "NOMBRES": "JUAN RODRIGO ESCOBAR",
+            "CREDITO": "5.133.321",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "248.505",
+            "FIRMA ELLECTRONICA": "JUAN RODRIGO ESCOBAR - 1764575104",
+            "AL PIE DE LA FIRMA": "JUAN RODRIGO ESCOBAR - 1764575104"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1764575104",
+            "NOMBRES": "JUAN RODRIGO ESCOBAR",
+            "FECHA NACIMIENTO": "25/03/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.133.321",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN RODRIGO ESCOBAR - 1764575104",
+            "AL PIE DE LA FIRMA": "JUAN RODRIGO ESCOBAR - 1764575104"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3187364",
+            "CEDULA": "1764575104",
+            "NOMBRES": "JUAN RODRIGO ESCOBAR",
+            "CREDITO": "5.133.321",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "248.505",
+            "E.A": "25.13%",
+            "RECOMPRA O DESEMBOLSO": "1.931.256",
+            "FIRMA ELLECTRONICA": "JUAN RODRIGO ESCOBAR - 1764575104"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1764575104",
+            "NOMBRES": "JUAN RODRIGO ESCOBAR",
+            "FIRMA ELLECTRONICA": "JUAN RODRIGO ESCOBAR - 1764575104"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1764575104",
+            "NOMBRES": "JUAN RODRIGO ESCOBAR",
+            "FIRMA ELLECTRONICA": "JUAN RODRIGO ESCOBAR - 1764575104",
+            "AL PIE DE LA FIRMA": "JUAN RODRIGO ESCOBAR - 1764575104"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN RODRIGO ESCOBAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1764575104",
+            "NOMBRES": "JUAN RODRIGO ESCOBAR",
+            "SALARIO": "3.981.577",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1764575104",
+            "NOMBRES": "JUAN RODRIGO ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "1.931.256"
+        }
+    }
+]

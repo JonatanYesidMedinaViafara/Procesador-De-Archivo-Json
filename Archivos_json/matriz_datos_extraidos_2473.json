@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "976956613460",
+            "SOLICITUD": "2387896",
+            "CEDULA": "1987803233",
+            "NOMBRES": "ASTRID TORRES",
+            "RECOMPRA O DESEMBOLSO": "1.377.152",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1987803233"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "976956613460",
+            "NOMBRES": "ASTRID TORRES",
+            "CREDITO": "5.017.525",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "333.694",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1987803233",
+            "AL PIE DE LA FIRMA": "ASTRID TORRES - 1987803233"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1987803233",
+            "NOMBRES": "ASTRID TORRES",
+            "FECHA NACIMIENTO": "07/07/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.017.525",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1987803233",
+            "AL PIE DE LA FIRMA": "ASTRID TORRES - 1987803233"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2387896",
+            "CEDULA": "1987803233",
+            "NOMBRES": "ASTRID TORRES",
+            "CREDITO": "5.017.525",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "333.694",
+            "E.A": "18.89%",
+            "RECOMPRA O DESEMBOLSO": "1.377.152",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1987803233"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1987803233",
+            "NOMBRES": "ASTRID TORRES",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1987803233"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1987803233",
+            "NOMBRES": "ASTRID TORRES",
+            "FIRMA ELLECTRONICA": "ASTRID TORRES - 1987803233",
+            "AL PIE DE LA FIRMA": "ASTRID TORRES - 1987803233"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ASTRID TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1987803233",
+            "NOMBRES": "ASTRID TORRES",
+            "SALARIO": "3.067.665",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1987803233",
+            "NOMBRES": "ASTRID TORRES",
+            "RECOMPRA O DESEMBOLSO": "1.377.152"
+        }
+    }
+]

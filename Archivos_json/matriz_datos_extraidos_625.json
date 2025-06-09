@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "345759931052",
+            "SOLICITUD": "9481672",
+            "CEDULA": "1388283736",
+            "NOMBRES": "JHON ANTONIO BOLÍVAR MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "3.614.906",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO BOLÍVAR MOSQUERA - 1388283736"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "345759931052",
+            "NOMBRES": "JHON ANTONIO BOLÍVAR MOSQUERA",
+            "CREDITO": "19.347.233",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "300.335",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO BOLÍVAR MOSQUERA - 1388283736",
+            "AL PIE DE LA FIRMA": "JHON ANTONIO BOLÍVAR MOSQUERA - 1388283736"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1388283736",
+            "NOMBRES": "JHON ANTONIO BOLÍVAR MOSQUERA",
+            "FECHA NACIMIENTO": "23/07/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.347.233",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO BOLÍVAR MOSQUERA - 1388283736",
+            "AL PIE DE LA FIRMA": "JHON ANTONIO BOLÍVAR MOSQUERA - 1388283736"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9481672",
+            "CEDULA": "1388283736",
+            "NOMBRES": "JHON ANTONIO BOLÍVAR MOSQUERA",
+            "CREDITO": "19.347.233",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "300.335",
+            "E.A": "25.63%",
+            "RECOMPRA O DESEMBOLSO": "3.614.906",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO BOLÍVAR MOSQUERA - 1388283736"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1388283736",
+            "NOMBRES": "JHON ANTONIO BOLÍVAR MOSQUERA",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO BOLÍVAR MOSQUERA - 1388283736"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1388283736",
+            "NOMBRES": "JHON ANTONIO BOLÍVAR MOSQUERA",
+            "FIRMA ELLECTRONICA": "JHON ANTONIO BOLÍVAR MOSQUERA - 1388283736",
+            "AL PIE DE LA FIRMA": "JHON ANTONIO BOLÍVAR MOSQUERA - 1388283736"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON ANTONIO BOLÍVAR MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1388283736",
+            "NOMBRES": "JHON ANTONIO BOLÍVAR MOSQUERA",
+            "SALARIO": "1.400.831",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1388283736",
+            "NOMBRES": "JHON ANTONIO BOLÍVAR MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "3.614.906"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "746882111669",
+            "SOLICITUD": "1516200",
+            "CEDULA": "1759181147",
+            "NOMBRES": "ALEXANDER PINEDA",
+            "RECOMPRA O DESEMBOLSO": "3.637.490",
+            "FIRMA ELLECTRONICA": "ALEXANDER PINEDA - 1759181147"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "746882111669",
+            "NOMBRES": "ALEXANDER PINEDA",
+            "CREDITO": "19.565.223",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "225.424",
+            "FIRMA ELLECTRONICA": "ALEXANDER PINEDA - 1759181147",
+            "AL PIE DE LA FIRMA": "ALEXANDER PINEDA - 1759181147"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1759181147",
+            "NOMBRES": "ALEXANDER PINEDA",
+            "FECHA NACIMIENTO": "05/11/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.565.223",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALEXANDER PINEDA - 1759181147",
+            "AL PIE DE LA FIRMA": "ALEXANDER PINEDA - 1759181147"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1516200",
+            "CEDULA": "1759181147",
+            "NOMBRES": "ALEXANDER PINEDA",
+            "CREDITO": "19.565.223",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "225.424",
+            "E.A": "20.1%",
+            "RECOMPRA O DESEMBOLSO": "3.637.490",
+            "FIRMA ELLECTRONICA": "ALEXANDER PINEDA - 1759181147"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1759181147",
+            "NOMBRES": "ALEXANDER PINEDA",
+            "FIRMA ELLECTRONICA": "ALEXANDER PINEDA - 1759181147"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1759181147",
+            "NOMBRES": "ALEXANDER PINEDA",
+            "FIRMA ELLECTRONICA": "ALEXANDER PINEDA - 1759181147",
+            "AL PIE DE LA FIRMA": "ALEXANDER PINEDA - 1759181147"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER PINEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1759181147",
+            "NOMBRES": "ALEXANDER PINEDA",
+            "SALARIO": "3.135.791",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1759181147",
+            "NOMBRES": "ALEXANDER PINEDA",
+            "RECOMPRA O DESEMBOLSO": "3.637.490"
+        }
+    }
+]

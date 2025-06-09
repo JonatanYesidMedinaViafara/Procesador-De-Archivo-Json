@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "695128891442",
+            "SOLICITUD": "5125953",
+            "CEDULA": "1333941061",
+            "NOMBRES": "EMILIO MAURICIO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.151.252",
+            "FIRMA ELLECTRONICA": "EMILIO MAURICIO PÉREZ - 1333941061"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "695128891442",
+            "NOMBRES": "EMILIO MAURICIO PÉREZ",
+            "CREDITO": "13.098.056",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "171.49",
+            "FIRMA ELLECTRONICA": "EMILIO MAURICIO PÉREZ - 1333941061",
+            "AL PIE DE LA FIRMA": "EMILIO MAURICIO PÉREZ - 1333941061"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1333941061",
+            "NOMBRES": "EMILIO MAURICIO PÉREZ",
+            "FECHA NACIMIENTO": "24/07/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.098.056",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EMILIO MAURICIO PÉREZ - 1333941061",
+            "AL PIE DE LA FIRMA": "EMILIO MAURICIO PÉREZ - 1333941061"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5125953",
+            "CEDULA": "1333941061",
+            "NOMBRES": "EMILIO MAURICIO PÉREZ",
+            "CREDITO": "13.098.056",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "171.49",
+            "E.A": "22.63%",
+            "RECOMPRA O DESEMBOLSO": "3.151.252",
+            "FIRMA ELLECTRONICA": "EMILIO MAURICIO PÉREZ - 1333941061"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1333941061",
+            "NOMBRES": "EMILIO MAURICIO PÉREZ",
+            "FIRMA ELLECTRONICA": "EMILIO MAURICIO PÉREZ - 1333941061"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1333941061",
+            "NOMBRES": "EMILIO MAURICIO PÉREZ",
+            "FIRMA ELLECTRONICA": "EMILIO MAURICIO PÉREZ - 1333941061",
+            "AL PIE DE LA FIRMA": "EMILIO MAURICIO PÉREZ - 1333941061"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMILIO MAURICIO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1333941061",
+            "NOMBRES": "EMILIO MAURICIO PÉREZ",
+            "SALARIO": "2.470.110",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1333941061",
+            "NOMBRES": "EMILIO MAURICIO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.151.252"
+        }
+    }
+]

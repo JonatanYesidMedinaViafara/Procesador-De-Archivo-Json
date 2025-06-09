@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "225428379857",
+            "SOLICITUD": "4339605",
+            "CEDULA": "1352731179",
+            "NOMBRES": "SOFÍA ROSA MÉNDEZ RUIZ",
+            "RECOMPRA O DESEMBOLSO": "3.269.006",
+            "FIRMA ELLECTRONICA": "SOFÍA ROSA MÉNDEZ RUIZ - 1352731179"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "225428379857",
+            "NOMBRES": "SOFÍA ROSA MÉNDEZ RUIZ",
+            "CREDITO": "12.427.503",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "261.193",
+            "FIRMA ELLECTRONICA": "SOFÍA ROSA MÉNDEZ RUIZ - 1352731179",
+            "AL PIE DE LA FIRMA": "SOFÍA ROSA MÉNDEZ RUIZ - 1352731179"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1352731179",
+            "NOMBRES": "SOFÍA ROSA MÉNDEZ RUIZ",
+            "FECHA NACIMIENTO": "19/02/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.427.503",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SOFÍA ROSA MÉNDEZ RUIZ - 1352731179",
+            "AL PIE DE LA FIRMA": "SOFÍA ROSA MÉNDEZ RUIZ - 1352731179"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4339605",
+            "CEDULA": "1352731179",
+            "NOMBRES": "SOFÍA ROSA MÉNDEZ RUIZ",
+            "CREDITO": "12.427.503",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "261.193",
+            "E.A": "27.5%",
+            "RECOMPRA O DESEMBOLSO": "3.269.006",
+            "FIRMA ELLECTRONICA": "SOFÍA ROSA MÉNDEZ RUIZ - 1352731179"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1352731179",
+            "NOMBRES": "SOFÍA ROSA MÉNDEZ RUIZ",
+            "FIRMA ELLECTRONICA": "SOFÍA ROSA MÉNDEZ RUIZ - 1352731179"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1352731179",
+            "NOMBRES": "SOFÍA ROSA MÉNDEZ RUIZ",
+            "FIRMA ELLECTRONICA": "SOFÍA ROSA MÉNDEZ RUIZ - 1352731179",
+            "AL PIE DE LA FIRMA": "SOFÍA ROSA MÉNDEZ RUIZ - 1352731179"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SOFÍA ROSA MÉNDEZ RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1352731179",
+            "NOMBRES": "SOFÍA ROSA MÉNDEZ RUIZ",
+            "SALARIO": "3.981.419",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1352731179",
+            "NOMBRES": "SOFÍA ROSA MÉNDEZ RUIZ",
+            "RECOMPRA O DESEMBOLSO": "3.269.006"
+        }
+    }
+]

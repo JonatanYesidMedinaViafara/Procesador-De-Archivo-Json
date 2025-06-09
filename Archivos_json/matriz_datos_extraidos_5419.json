@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "805365362623",
+            "SOLICITUD": "2232004",
+            "CEDULA": "1238208515",
+            "NOMBRES": "JULIO MARIO SIERRA OSPINA",
+            "RECOMPRA O DESEMBOLSO": "2.387.222",
+            "FIRMA ELLECTRONICA": "JULIO MARIO SIERRA OSPINA - 1238208515"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "805365362623",
+            "NOMBRES": "JULIO MARIO SIERRA OSPINA",
+            "CREDITO": "9.444.200",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "282.611",
+            "FIRMA ELLECTRONICA": "JULIO MARIO SIERRA OSPINA - 1238208515",
+            "AL PIE DE LA FIRMA": "JULIO MARIO SIERRA OSPINA - 1238208515"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1238208515",
+            "NOMBRES": "JULIO MARIO SIERRA OSPINA",
+            "FECHA NACIMIENTO": "15/02/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.444.200",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JULIO MARIO SIERRA OSPINA - 1238208515",
+            "AL PIE DE LA FIRMA": "JULIO MARIO SIERRA OSPINA - 1238208515"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2232004",
+            "CEDULA": "1238208515",
+            "NOMBRES": "JULIO MARIO SIERRA OSPINA",
+            "CREDITO": "9.444.200",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "282.611",
+            "E.A": "23.28%",
+            "RECOMPRA O DESEMBOLSO": "2.387.222",
+            "FIRMA ELLECTRONICA": "JULIO MARIO SIERRA OSPINA - 1238208515"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1238208515",
+            "NOMBRES": "JULIO MARIO SIERRA OSPINA",
+            "FIRMA ELLECTRONICA": "JULIO MARIO SIERRA OSPINA - 1238208515"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1238208515",
+            "NOMBRES": "JULIO MARIO SIERRA OSPINA",
+            "FIRMA ELLECTRONICA": "JULIO MARIO SIERRA OSPINA - 1238208515",
+            "AL PIE DE LA FIRMA": "JULIO MARIO SIERRA OSPINA - 1238208515"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO MARIO SIERRA OSPINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1238208515",
+            "NOMBRES": "JULIO MARIO SIERRA OSPINA",
+            "SALARIO": "1.484.655",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1238208515",
+            "NOMBRES": "JULIO MARIO SIERRA OSPINA",
+            "RECOMPRA O DESEMBOLSO": "2.387.222"
+        }
+    }
+]

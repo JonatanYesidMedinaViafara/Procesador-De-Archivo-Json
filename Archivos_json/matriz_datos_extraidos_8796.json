@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "308864557353",
+            "SOLICITUD": "4055879",
+            "CEDULA": "1436598417",
+            "NOMBRES": "TATIANA VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.415.038",
+            "FIRMA ELLECTRONICA": "TATIANA VEGA - 1436598417"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "308864557353",
+            "NOMBRES": "TATIANA VEGA",
+            "CREDITO": "10.001.630",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "259.166",
+            "FIRMA ELLECTRONICA": "TATIANA VEGA - 1436598417",
+            "AL PIE DE LA FIRMA": "TATIANA VEGA - 1436598417"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1436598417",
+            "NOMBRES": "TATIANA VEGA",
+            "FECHA NACIMIENTO": "10/12/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.001.630",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "TATIANA VEGA - 1436598417",
+            "AL PIE DE LA FIRMA": "TATIANA VEGA - 1436598417"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4055879",
+            "CEDULA": "1436598417",
+            "NOMBRES": "TATIANA VEGA",
+            "CREDITO": "10.001.630",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "259.166",
+            "E.A": "18.89%",
+            "RECOMPRA O DESEMBOLSO": "3.415.038",
+            "FIRMA ELLECTRONICA": "TATIANA VEGA - 1436598417"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1436598417",
+            "NOMBRES": "TATIANA VEGA",
+            "FIRMA ELLECTRONICA": "TATIANA VEGA - 1436598417"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1436598417",
+            "NOMBRES": "TATIANA VEGA",
+            "FIRMA ELLECTRONICA": "TATIANA VEGA - 1436598417",
+            "AL PIE DE LA FIRMA": "TATIANA VEGA - 1436598417"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TATIANA VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1436598417",
+            "NOMBRES": "TATIANA VEGA",
+            "SALARIO": "2.294.395",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1436598417",
+            "NOMBRES": "TATIANA VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.415.038"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "246802134576",
+            "SOLICITUD": "6811056",
+            "CEDULA": "1921492473",
+            "NOMBRES": "SEBASTIÁN GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "3.044.519",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN GUERRERO - 1921492473"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "246802134576",
+            "NOMBRES": "SEBASTIÁN GUERRERO",
+            "CREDITO": "6.116.284",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "372.804",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN GUERRERO - 1921492473",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN GUERRERO - 1921492473"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1921492473",
+            "NOMBRES": "SEBASTIÁN GUERRERO",
+            "FECHA NACIMIENTO": "06/09/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.116.284",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN GUERRERO - 1921492473",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN GUERRERO - 1921492473"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6811056",
+            "CEDULA": "1921492473",
+            "NOMBRES": "SEBASTIÁN GUERRERO",
+            "CREDITO": "6.116.284",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "372.804",
+            "E.A": "27.4%",
+            "RECOMPRA O DESEMBOLSO": "3.044.519",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN GUERRERO - 1921492473"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1921492473",
+            "NOMBRES": "SEBASTIÁN GUERRERO",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN GUERRERO - 1921492473"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1921492473",
+            "NOMBRES": "SEBASTIÁN GUERRERO",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN GUERRERO - 1921492473",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN GUERRERO - 1921492473"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEBASTIÁN GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1921492473",
+            "NOMBRES": "SEBASTIÁN GUERRERO",
+            "SALARIO": "1.502.979",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1921492473",
+            "NOMBRES": "SEBASTIÁN GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "3.044.519"
+        }
+    }
+]

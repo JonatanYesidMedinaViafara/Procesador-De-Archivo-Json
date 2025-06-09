@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "645494866147",
+            "SOLICITUD": "2597588",
+            "CEDULA": "1092343287",
+            "NOMBRES": "JAVIER FELIX CORREA ARIZA",
+            "RECOMPRA O DESEMBOLSO": "2.545.788",
+            "FIRMA ELLECTRONICA": "JAVIER FELIX CORREA ARIZA - 1092343287"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "645494866147",
+            "NOMBRES": "JAVIER FELIX CORREA ARIZA",
+            "CREDITO": "6.759.363",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "207.716",
+            "FIRMA ELLECTRONICA": "JAVIER FELIX CORREA ARIZA - 1092343287",
+            "AL PIE DE LA FIRMA": "JAVIER FELIX CORREA ARIZA - 1092343287"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1092343287",
+            "NOMBRES": "JAVIER FELIX CORREA ARIZA",
+            "FECHA NACIMIENTO": "08/03/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.759.363",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAVIER FELIX CORREA ARIZA - 1092343287",
+            "AL PIE DE LA FIRMA": "JAVIER FELIX CORREA ARIZA - 1092343287"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2597588",
+            "CEDULA": "1092343287",
+            "NOMBRES": "JAVIER FELIX CORREA ARIZA",
+            "CREDITO": "6.759.363",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "207.716",
+            "E.A": "19.05%",
+            "RECOMPRA O DESEMBOLSO": "2.545.788",
+            "FIRMA ELLECTRONICA": "JAVIER FELIX CORREA ARIZA - 1092343287"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1092343287",
+            "NOMBRES": "JAVIER FELIX CORREA ARIZA",
+            "FIRMA ELLECTRONICA": "JAVIER FELIX CORREA ARIZA - 1092343287"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1092343287",
+            "NOMBRES": "JAVIER FELIX CORREA ARIZA",
+            "FIRMA ELLECTRONICA": "JAVIER FELIX CORREA ARIZA - 1092343287",
+            "AL PIE DE LA FIRMA": "JAVIER FELIX CORREA ARIZA - 1092343287"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER FELIX CORREA ARIZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1092343287",
+            "NOMBRES": "JAVIER FELIX CORREA ARIZA",
+            "SALARIO": "1.292.179",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1092343287",
+            "NOMBRES": "JAVIER FELIX CORREA ARIZA",
+            "RECOMPRA O DESEMBOLSO": "2.545.788"
+        }
+    }
+]

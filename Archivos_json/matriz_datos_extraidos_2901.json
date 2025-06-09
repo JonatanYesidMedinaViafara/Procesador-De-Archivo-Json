@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "402983730343",
+            "SOLICITUD": "8527485",
+            "CEDULA": "1205008163",
+            "NOMBRES": "ALEJANDRO ARDILA",
+            "RECOMPRA O DESEMBOLSO": "1.847.687",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ARDILA - 1205008163"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "402983730343",
+            "NOMBRES": "ALEJANDRO ARDILA",
+            "CREDITO": "6.873.754",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "352.362",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ARDILA - 1205008163",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ARDILA - 1205008163"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1205008163",
+            "NOMBRES": "ALEJANDRO ARDILA",
+            "FECHA NACIMIENTO": "09/08/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.873.754",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ARDILA - 1205008163",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ARDILA - 1205008163"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8527485",
+            "CEDULA": "1205008163",
+            "NOMBRES": "ALEJANDRO ARDILA",
+            "CREDITO": "6.873.754",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "352.362",
+            "E.A": "22.73%",
+            "RECOMPRA O DESEMBOLSO": "1.847.687",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ARDILA - 1205008163"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1205008163",
+            "NOMBRES": "ALEJANDRO ARDILA",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ARDILA - 1205008163"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1205008163",
+            "NOMBRES": "ALEJANDRO ARDILA",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ARDILA - 1205008163",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ARDILA - 1205008163"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO ARDILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1205008163",
+            "NOMBRES": "ALEJANDRO ARDILA",
+            "SALARIO": "1.991.611",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1205008163",
+            "NOMBRES": "ALEJANDRO ARDILA",
+            "RECOMPRA O DESEMBOLSO": "1.847.687"
+        }
+    }
+]

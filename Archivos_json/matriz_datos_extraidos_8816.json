@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "213316090397",
+            "SOLICITUD": "5153337",
+            "CEDULA": "1417576553",
+            "NOMBRES": "FERNANDO VÁSQUEZ ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "4.622.796",
+            "FIRMA ELLECTRONICA": "FERNANDO VÁSQUEZ ACEVEDO - 1417576553"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "213316090397",
+            "NOMBRES": "FERNANDO VÁSQUEZ ACEVEDO",
+            "CREDITO": "8.761.075",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "351.131",
+            "FIRMA ELLECTRONICA": "FERNANDO VÁSQUEZ ACEVEDO - 1417576553",
+            "AL PIE DE LA FIRMA": "FERNANDO VÁSQUEZ ACEVEDO - 1417576553"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1417576553",
+            "NOMBRES": "FERNANDO VÁSQUEZ ACEVEDO",
+            "FECHA NACIMIENTO": "25/09/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.761.075",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNANDO VÁSQUEZ ACEVEDO - 1417576553",
+            "AL PIE DE LA FIRMA": "FERNANDO VÁSQUEZ ACEVEDO - 1417576553"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5153337",
+            "CEDULA": "1417576553",
+            "NOMBRES": "FERNANDO VÁSQUEZ ACEVEDO",
+            "CREDITO": "8.761.075",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "351.131",
+            "E.A": "20.77%",
+            "RECOMPRA O DESEMBOLSO": "4.622.796",
+            "FIRMA ELLECTRONICA": "FERNANDO VÁSQUEZ ACEVEDO - 1417576553"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1417576553",
+            "NOMBRES": "FERNANDO VÁSQUEZ ACEVEDO",
+            "FIRMA ELLECTRONICA": "FERNANDO VÁSQUEZ ACEVEDO - 1417576553"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1417576553",
+            "NOMBRES": "FERNANDO VÁSQUEZ ACEVEDO",
+            "FIRMA ELLECTRONICA": "FERNANDO VÁSQUEZ ACEVEDO - 1417576553",
+            "AL PIE DE LA FIRMA": "FERNANDO VÁSQUEZ ACEVEDO - 1417576553"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO VÁSQUEZ ACEVEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1417576553",
+            "NOMBRES": "FERNANDO VÁSQUEZ ACEVEDO",
+            "SALARIO": "1.206.019",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1417576553",
+            "NOMBRES": "FERNANDO VÁSQUEZ ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "4.622.796"
+        }
+    }
+]

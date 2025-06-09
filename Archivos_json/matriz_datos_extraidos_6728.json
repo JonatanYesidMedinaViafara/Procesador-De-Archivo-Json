@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "543642990975",
+            "SOLICITUD": "3435573",
+            "CEDULA": "1073628632",
+            "NOMBRES": "VALERIA CLARA GÓMEZ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "4.847.914",
+            "FIRMA ELLECTRONICA": "VALERIA CLARA GÓMEZ ROMERO - 1073628632"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "543642990975",
+            "NOMBRES": "VALERIA CLARA GÓMEZ ROMERO",
+            "CREDITO": "8.324.214",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "229.663",
+            "FIRMA ELLECTRONICA": "VALERIA CLARA GÓMEZ ROMERO - 1073628632",
+            "AL PIE DE LA FIRMA": "VALERIA CLARA GÓMEZ ROMERO - 1073628632"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1073628632",
+            "NOMBRES": "VALERIA CLARA GÓMEZ ROMERO",
+            "FECHA NACIMIENTO": "22/04/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.324.214",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "VALERIA CLARA GÓMEZ ROMERO - 1073628632",
+            "AL PIE DE LA FIRMA": "VALERIA CLARA GÓMEZ ROMERO - 1073628632"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3435573",
+            "CEDULA": "1073628632",
+            "NOMBRES": "VALERIA CLARA GÓMEZ ROMERO",
+            "CREDITO": "8.324.214",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "229.663",
+            "E.A": "27.74%",
+            "RECOMPRA O DESEMBOLSO": "4.847.914",
+            "FIRMA ELLECTRONICA": "VALERIA CLARA GÓMEZ ROMERO - 1073628632"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1073628632",
+            "NOMBRES": "VALERIA CLARA GÓMEZ ROMERO",
+            "FIRMA ELLECTRONICA": "VALERIA CLARA GÓMEZ ROMERO - 1073628632"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1073628632",
+            "NOMBRES": "VALERIA CLARA GÓMEZ ROMERO",
+            "FIRMA ELLECTRONICA": "VALERIA CLARA GÓMEZ ROMERO - 1073628632",
+            "AL PIE DE LA FIRMA": "VALERIA CLARA GÓMEZ ROMERO - 1073628632"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VALERIA CLARA GÓMEZ ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1073628632",
+            "NOMBRES": "VALERIA CLARA GÓMEZ ROMERO",
+            "SALARIO": "1.592.540",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1073628632",
+            "NOMBRES": "VALERIA CLARA GÓMEZ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "4.847.914"
+        }
+    }
+]

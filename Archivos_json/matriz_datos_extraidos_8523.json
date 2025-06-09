@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "802878433010",
+            "SOLICITUD": "2273065",
+            "CEDULA": "1117575143",
+            "NOMBRES": "JUAN HERRERA BARRAGÁN",
+            "RECOMPRA O DESEMBOLSO": "4.546.410",
+            "FIRMA ELLECTRONICA": "JUAN HERRERA BARRAGÁN - 1117575143"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "802878433010",
+            "NOMBRES": "JUAN HERRERA BARRAGÁN",
+            "CREDITO": "7.353.463",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "333.528",
+            "FIRMA ELLECTRONICA": "JUAN HERRERA BARRAGÁN - 1117575143",
+            "AL PIE DE LA FIRMA": "JUAN HERRERA BARRAGÁN - 1117575143"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1117575143",
+            "NOMBRES": "JUAN HERRERA BARRAGÁN",
+            "FECHA NACIMIENTO": "28/01/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.353.463",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN HERRERA BARRAGÁN - 1117575143",
+            "AL PIE DE LA FIRMA": "JUAN HERRERA BARRAGÁN - 1117575143"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2273065",
+            "CEDULA": "1117575143",
+            "NOMBRES": "JUAN HERRERA BARRAGÁN",
+            "CREDITO": "7.353.463",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "333.528",
+            "E.A": "20.28%",
+            "RECOMPRA O DESEMBOLSO": "4.546.410",
+            "FIRMA ELLECTRONICA": "JUAN HERRERA BARRAGÁN - 1117575143"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1117575143",
+            "NOMBRES": "JUAN HERRERA BARRAGÁN",
+            "FIRMA ELLECTRONICA": "JUAN HERRERA BARRAGÁN - 1117575143"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1117575143",
+            "NOMBRES": "JUAN HERRERA BARRAGÁN",
+            "FIRMA ELLECTRONICA": "JUAN HERRERA BARRAGÁN - 1117575143",
+            "AL PIE DE LA FIRMA": "JUAN HERRERA BARRAGÁN - 1117575143"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN HERRERA BARRAGÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1117575143",
+            "NOMBRES": "JUAN HERRERA BARRAGÁN",
+            "SALARIO": "1.602.111",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1117575143",
+            "NOMBRES": "JUAN HERRERA BARRAGÁN",
+            "RECOMPRA O DESEMBOLSO": "4.546.410"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "790267963421",
+            "SOLICITUD": "8592341",
+            "CEDULA": "1823133011",
+            "NOMBRES": "MAURICIO GIRALDO GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.619.697",
+            "FIRMA ELLECTRONICA": "MAURICIO GIRALDO GONZÁLEZ - 1823133011"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "790267963421",
+            "NOMBRES": "MAURICIO GIRALDO GONZÁLEZ",
+            "CREDITO": "16.903.254",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "297.471",
+            "FIRMA ELLECTRONICA": "MAURICIO GIRALDO GONZÁLEZ - 1823133011",
+            "AL PIE DE LA FIRMA": "MAURICIO GIRALDO GONZÁLEZ - 1823133011"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1823133011",
+            "NOMBRES": "MAURICIO GIRALDO GONZÁLEZ",
+            "FECHA NACIMIENTO": "02/05/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.903.254",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MAURICIO GIRALDO GONZÁLEZ - 1823133011",
+            "AL PIE DE LA FIRMA": "MAURICIO GIRALDO GONZÁLEZ - 1823133011"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8592341",
+            "CEDULA": "1823133011",
+            "NOMBRES": "MAURICIO GIRALDO GONZÁLEZ",
+            "CREDITO": "16.903.254",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "297.471",
+            "E.A": "18.05%",
+            "RECOMPRA O DESEMBOLSO": "4.619.697",
+            "FIRMA ELLECTRONICA": "MAURICIO GIRALDO GONZÁLEZ - 1823133011"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1823133011",
+            "NOMBRES": "MAURICIO GIRALDO GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MAURICIO GIRALDO GONZÁLEZ - 1823133011"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1823133011",
+            "NOMBRES": "MAURICIO GIRALDO GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MAURICIO GIRALDO GONZÁLEZ - 1823133011",
+            "AL PIE DE LA FIRMA": "MAURICIO GIRALDO GONZÁLEZ - 1823133011"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO GIRALDO GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1823133011",
+            "NOMBRES": "MAURICIO GIRALDO GONZÁLEZ",
+            "SALARIO": "2.373.939",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1823133011",
+            "NOMBRES": "MAURICIO GIRALDO GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.619.697"
+        }
+    }
+]

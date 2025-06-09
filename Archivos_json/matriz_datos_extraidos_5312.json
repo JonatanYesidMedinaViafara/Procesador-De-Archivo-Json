@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "905324964563",
+            "SOLICITUD": "5078192",
+            "CEDULA": "1795209386",
+            "NOMBRES": "FABIO ÁNGEL CASTAÑEDA MORENO",
+            "RECOMPRA O DESEMBOLSO": "1.460.855",
+            "FIRMA ELLECTRONICA": "FABIO ÁNGEL CASTAÑEDA MORENO - 1795209386"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "905324964563",
+            "NOMBRES": "FABIO ÁNGEL CASTAÑEDA MORENO",
+            "CREDITO": "5.296.217",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "232.339",
+            "FIRMA ELLECTRONICA": "FABIO ÁNGEL CASTAÑEDA MORENO - 1795209386",
+            "AL PIE DE LA FIRMA": "FABIO ÁNGEL CASTAÑEDA MORENO - 1795209386"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1795209386",
+            "NOMBRES": "FABIO ÁNGEL CASTAÑEDA MORENO",
+            "FECHA NACIMIENTO": "28/06/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.296.217",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FABIO ÁNGEL CASTAÑEDA MORENO - 1795209386",
+            "AL PIE DE LA FIRMA": "FABIO ÁNGEL CASTAÑEDA MORENO - 1795209386"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5078192",
+            "CEDULA": "1795209386",
+            "NOMBRES": "FABIO ÁNGEL CASTAÑEDA MORENO",
+            "CREDITO": "5.296.217",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "232.339",
+            "E.A": "23.91%",
+            "RECOMPRA O DESEMBOLSO": "1.460.855",
+            "FIRMA ELLECTRONICA": "FABIO ÁNGEL CASTAÑEDA MORENO - 1795209386"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1795209386",
+            "NOMBRES": "FABIO ÁNGEL CASTAÑEDA MORENO",
+            "FIRMA ELLECTRONICA": "FABIO ÁNGEL CASTAÑEDA MORENO - 1795209386"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1795209386",
+            "NOMBRES": "FABIO ÁNGEL CASTAÑEDA MORENO",
+            "FIRMA ELLECTRONICA": "FABIO ÁNGEL CASTAÑEDA MORENO - 1795209386",
+            "AL PIE DE LA FIRMA": "FABIO ÁNGEL CASTAÑEDA MORENO - 1795209386"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIO ÁNGEL CASTAÑEDA MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1795209386",
+            "NOMBRES": "FABIO ÁNGEL CASTAÑEDA MORENO",
+            "SALARIO": "1.027.127",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1795209386",
+            "NOMBRES": "FABIO ÁNGEL CASTAÑEDA MORENO",
+            "RECOMPRA O DESEMBOLSO": "1.460.855"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "444810123514",
+            "SOLICITUD": "8621149",
+            "CEDULA": "1114799816",
+            "NOMBRES": "ALEXANDER JAIME QUINTERO GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "2.975.635",
+            "FIRMA ELLECTRONICA": "ALEXANDER JAIME QUINTERO GUTIÉRREZ - 1114799816"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "444810123514",
+            "NOMBRES": "ALEXANDER JAIME QUINTERO GUTIÉRREZ",
+            "CREDITO": "13.411.094",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "277.217",
+            "FIRMA ELLECTRONICA": "ALEXANDER JAIME QUINTERO GUTIÉRREZ - 1114799816",
+            "AL PIE DE LA FIRMA": "ALEXANDER JAIME QUINTERO GUTIÉRREZ - 1114799816"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1114799816",
+            "NOMBRES": "ALEXANDER JAIME QUINTERO GUTIÉRREZ",
+            "FECHA NACIMIENTO": "05/03/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.411.094",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALEXANDER JAIME QUINTERO GUTIÉRREZ - 1114799816",
+            "AL PIE DE LA FIRMA": "ALEXANDER JAIME QUINTERO GUTIÉRREZ - 1114799816"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8621149",
+            "CEDULA": "1114799816",
+            "NOMBRES": "ALEXANDER JAIME QUINTERO GUTIÉRREZ",
+            "CREDITO": "13.411.094",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "277.217",
+            "E.A": "18.64%",
+            "RECOMPRA O DESEMBOLSO": "2.975.635",
+            "FIRMA ELLECTRONICA": "ALEXANDER JAIME QUINTERO GUTIÉRREZ - 1114799816"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1114799816",
+            "NOMBRES": "ALEXANDER JAIME QUINTERO GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER JAIME QUINTERO GUTIÉRREZ - 1114799816"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1114799816",
+            "NOMBRES": "ALEXANDER JAIME QUINTERO GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER JAIME QUINTERO GUTIÉRREZ - 1114799816",
+            "AL PIE DE LA FIRMA": "ALEXANDER JAIME QUINTERO GUTIÉRREZ - 1114799816"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER JAIME QUINTERO GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1114799816",
+            "NOMBRES": "ALEXANDER JAIME QUINTERO GUTIÉRREZ",
+            "SALARIO": "4.856.156",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1114799816",
+            "NOMBRES": "ALEXANDER JAIME QUINTERO GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "2.975.635"
+        }
+    }
+]

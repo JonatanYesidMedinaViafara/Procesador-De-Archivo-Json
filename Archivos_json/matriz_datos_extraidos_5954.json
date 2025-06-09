@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "388696105375",
+            "SOLICITUD": "7431784",
+            "CEDULA": "1006180518",
+            "NOMBRES": "JOSÉ BARRETO",
+            "RECOMPRA O DESEMBOLSO": "3.272.950",
+            "FIRMA ELLECTRONICA": "JOSÉ BARRETO - 1006180518"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "388696105375",
+            "NOMBRES": "JOSÉ BARRETO",
+            "CREDITO": "14.630.016",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "270.147",
+            "FIRMA ELLECTRONICA": "JOSÉ BARRETO - 1006180518",
+            "AL PIE DE LA FIRMA": "JOSÉ BARRETO - 1006180518"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1006180518",
+            "NOMBRES": "JOSÉ BARRETO",
+            "FECHA NACIMIENTO": "21/09/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.630.016",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ BARRETO - 1006180518",
+            "AL PIE DE LA FIRMA": "JOSÉ BARRETO - 1006180518"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7431784",
+            "CEDULA": "1006180518",
+            "NOMBRES": "JOSÉ BARRETO",
+            "CREDITO": "14.630.016",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "270.147",
+            "E.A": "23.29%",
+            "RECOMPRA O DESEMBOLSO": "3.272.950",
+            "FIRMA ELLECTRONICA": "JOSÉ BARRETO - 1006180518"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1006180518",
+            "NOMBRES": "JOSÉ BARRETO",
+            "FIRMA ELLECTRONICA": "JOSÉ BARRETO - 1006180518"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1006180518",
+            "NOMBRES": "JOSÉ BARRETO",
+            "FIRMA ELLECTRONICA": "JOSÉ BARRETO - 1006180518",
+            "AL PIE DE LA FIRMA": "JOSÉ BARRETO - 1006180518"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ BARRETO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1006180518",
+            "NOMBRES": "JOSÉ BARRETO",
+            "SALARIO": "1.164.999",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1006180518",
+            "NOMBRES": "JOSÉ BARRETO",
+            "RECOMPRA O DESEMBOLSO": "3.272.950"
+        }
+    }
+]

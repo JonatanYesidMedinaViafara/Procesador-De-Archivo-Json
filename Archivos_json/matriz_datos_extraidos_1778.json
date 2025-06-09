@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "326660627748",
+            "SOLICITUD": "2421844",
+            "CEDULA": "1284673526",
+            "NOMBRES": "EDGAR RIVAS",
+            "RECOMPRA O DESEMBOLSO": "2.825.688",
+            "FIRMA ELLECTRONICA": "EDGAR RIVAS - 1284673526"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "326660627748",
+            "NOMBRES": "EDGAR RIVAS",
+            "CREDITO": "5.196.508",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "205.327",
+            "FIRMA ELLECTRONICA": "EDGAR RIVAS - 1284673526",
+            "AL PIE DE LA FIRMA": "EDGAR RIVAS - 1284673526"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1284673526",
+            "NOMBRES": "EDGAR RIVAS",
+            "FECHA NACIMIENTO": "19/02/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.196.508",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EDGAR RIVAS - 1284673526",
+            "AL PIE DE LA FIRMA": "EDGAR RIVAS - 1284673526"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2421844",
+            "CEDULA": "1284673526",
+            "NOMBRES": "EDGAR RIVAS",
+            "CREDITO": "5.196.508",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "205.327",
+            "E.A": "28.12%",
+            "RECOMPRA O DESEMBOLSO": "2.825.688",
+            "FIRMA ELLECTRONICA": "EDGAR RIVAS - 1284673526"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1284673526",
+            "NOMBRES": "EDGAR RIVAS",
+            "FIRMA ELLECTRONICA": "EDGAR RIVAS - 1284673526"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1284673526",
+            "NOMBRES": "EDGAR RIVAS",
+            "FIRMA ELLECTRONICA": "EDGAR RIVAS - 1284673526",
+            "AL PIE DE LA FIRMA": "EDGAR RIVAS - 1284673526"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDGAR RIVAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1284673526",
+            "NOMBRES": "EDGAR RIVAS",
+            "SALARIO": "4.021.764",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1284673526",
+            "NOMBRES": "EDGAR RIVAS",
+            "RECOMPRA O DESEMBOLSO": "2.825.688"
+        }
+    }
+]

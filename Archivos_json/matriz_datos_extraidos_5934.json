@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "613797087403",
+            "SOLICITUD": "4268263",
+            "CEDULA": "1804186164",
+            "NOMBRES": "ERNESTO GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.260.463",
+            "FIRMA ELLECTRONICA": "ERNESTO GONZÁLEZ - 1804186164"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "613797087403",
+            "NOMBRES": "ERNESTO GONZÁLEZ",
+            "CREDITO": "13.641.252",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "236.121",
+            "FIRMA ELLECTRONICA": "ERNESTO GONZÁLEZ - 1804186164",
+            "AL PIE DE LA FIRMA": "ERNESTO GONZÁLEZ - 1804186164"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1804186164",
+            "NOMBRES": "ERNESTO GONZÁLEZ",
+            "FECHA NACIMIENTO": "27/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.641.252",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ERNESTO GONZÁLEZ - 1804186164",
+            "AL PIE DE LA FIRMA": "ERNESTO GONZÁLEZ - 1804186164"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4268263",
+            "CEDULA": "1804186164",
+            "NOMBRES": "ERNESTO GONZÁLEZ",
+            "CREDITO": "13.641.252",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "236.121",
+            "E.A": "25.61%",
+            "RECOMPRA O DESEMBOLSO": "3.260.463",
+            "FIRMA ELLECTRONICA": "ERNESTO GONZÁLEZ - 1804186164"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1804186164",
+            "NOMBRES": "ERNESTO GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "ERNESTO GONZÁLEZ - 1804186164"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1804186164",
+            "NOMBRES": "ERNESTO GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "ERNESTO GONZÁLEZ - 1804186164",
+            "AL PIE DE LA FIRMA": "ERNESTO GONZÁLEZ - 1804186164"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ERNESTO GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1804186164",
+            "NOMBRES": "ERNESTO GONZÁLEZ",
+            "SALARIO": "3.729.539",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1804186164",
+            "NOMBRES": "ERNESTO GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.260.463"
+        }
+    }
+]

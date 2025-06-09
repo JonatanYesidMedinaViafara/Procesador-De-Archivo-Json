@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "213883680009",
+            "SOLICITUD": "3679025",
+            "CEDULA": "1305048157",
+            "NOMBRES": "JUAN LUIS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.506.578",
+            "FIRMA ELLECTRONICA": "JUAN LUIS GÓMEZ - 1305048157"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "213883680009",
+            "NOMBRES": "JUAN LUIS GÓMEZ",
+            "CREDITO": "15.766.888",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "217.81",
+            "FIRMA ELLECTRONICA": "JUAN LUIS GÓMEZ - 1305048157",
+            "AL PIE DE LA FIRMA": "JUAN LUIS GÓMEZ - 1305048157"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1305048157",
+            "NOMBRES": "JUAN LUIS GÓMEZ",
+            "FECHA NACIMIENTO": "11/07/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.766.888",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN LUIS GÓMEZ - 1305048157",
+            "AL PIE DE LA FIRMA": "JUAN LUIS GÓMEZ - 1305048157"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3679025",
+            "CEDULA": "1305048157",
+            "NOMBRES": "JUAN LUIS GÓMEZ",
+            "CREDITO": "15.766.888",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "217.81",
+            "E.A": "20.31%",
+            "RECOMPRA O DESEMBOLSO": "2.506.578",
+            "FIRMA ELLECTRONICA": "JUAN LUIS GÓMEZ - 1305048157"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1305048157",
+            "NOMBRES": "JUAN LUIS GÓMEZ",
+            "FIRMA ELLECTRONICA": "JUAN LUIS GÓMEZ - 1305048157"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1305048157",
+            "NOMBRES": "JUAN LUIS GÓMEZ",
+            "FIRMA ELLECTRONICA": "JUAN LUIS GÓMEZ - 1305048157",
+            "AL PIE DE LA FIRMA": "JUAN LUIS GÓMEZ - 1305048157"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN LUIS GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1305048157",
+            "NOMBRES": "JUAN LUIS GÓMEZ",
+            "SALARIO": "3.700.722",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1305048157",
+            "NOMBRES": "JUAN LUIS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.506.578"
+        }
+    }
+]

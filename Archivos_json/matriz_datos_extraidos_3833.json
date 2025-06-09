@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "100669347200",
+            "SOLICITUD": "1324203",
+            "CEDULA": "1310353878",
+            "NOMBRES": "ALEXANDER GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.721.655",
+            "FIRMA ELLECTRONICA": "ALEXANDER GÓMEZ - 1310353878"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "100669347200",
+            "NOMBRES": "ALEXANDER GÓMEZ",
+            "CREDITO": "12.571.028",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "335.016",
+            "FIRMA ELLECTRONICA": "ALEXANDER GÓMEZ - 1310353878",
+            "AL PIE DE LA FIRMA": "ALEXANDER GÓMEZ - 1310353878"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1310353878",
+            "NOMBRES": "ALEXANDER GÓMEZ",
+            "FECHA NACIMIENTO": "02/12/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.571.028",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALEXANDER GÓMEZ - 1310353878",
+            "AL PIE DE LA FIRMA": "ALEXANDER GÓMEZ - 1310353878"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1324203",
+            "CEDULA": "1310353878",
+            "NOMBRES": "ALEXANDER GÓMEZ",
+            "CREDITO": "12.571.028",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "335.016",
+            "E.A": "24.41%",
+            "RECOMPRA O DESEMBOLSO": "1.721.655",
+            "FIRMA ELLECTRONICA": "ALEXANDER GÓMEZ - 1310353878"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1310353878",
+            "NOMBRES": "ALEXANDER GÓMEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER GÓMEZ - 1310353878"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1310353878",
+            "NOMBRES": "ALEXANDER GÓMEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER GÓMEZ - 1310353878",
+            "AL PIE DE LA FIRMA": "ALEXANDER GÓMEZ - 1310353878"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1310353878",
+            "NOMBRES": "ALEXANDER GÓMEZ",
+            "SALARIO": "3.457.910",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1310353878",
+            "NOMBRES": "ALEXANDER GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.721.655"
+        }
+    }
+]

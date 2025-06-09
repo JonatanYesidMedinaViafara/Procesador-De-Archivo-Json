@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "596748289610",
+            "SOLICITUD": "6617425",
+            "CEDULA": "1193621236",
+            "NOMBRES": "JORGE EDISON ORTIZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "1.425.192",
+            "FIRMA ELLECTRONICA": "JORGE EDISON ORTIZ MEDINA - 1193621236"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "596748289610",
+            "NOMBRES": "JORGE EDISON ORTIZ MEDINA",
+            "CREDITO": "12.735.211",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "214.802",
+            "FIRMA ELLECTRONICA": "JORGE EDISON ORTIZ MEDINA - 1193621236",
+            "AL PIE DE LA FIRMA": "JORGE EDISON ORTIZ MEDINA - 1193621236"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1193621236",
+            "NOMBRES": "JORGE EDISON ORTIZ MEDINA",
+            "FECHA NACIMIENTO": "01/05/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.735.211",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JORGE EDISON ORTIZ MEDINA - 1193621236",
+            "AL PIE DE LA FIRMA": "JORGE EDISON ORTIZ MEDINA - 1193621236"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6617425",
+            "CEDULA": "1193621236",
+            "NOMBRES": "JORGE EDISON ORTIZ MEDINA",
+            "CREDITO": "12.735.211",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "214.802",
+            "E.A": "22.94%",
+            "RECOMPRA O DESEMBOLSO": "1.425.192",
+            "FIRMA ELLECTRONICA": "JORGE EDISON ORTIZ MEDINA - 1193621236"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1193621236",
+            "NOMBRES": "JORGE EDISON ORTIZ MEDINA",
+            "FIRMA ELLECTRONICA": "JORGE EDISON ORTIZ MEDINA - 1193621236"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1193621236",
+            "NOMBRES": "JORGE EDISON ORTIZ MEDINA",
+            "FIRMA ELLECTRONICA": "JORGE EDISON ORTIZ MEDINA - 1193621236",
+            "AL PIE DE LA FIRMA": "JORGE EDISON ORTIZ MEDINA - 1193621236"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE EDISON ORTIZ MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1193621236",
+            "NOMBRES": "JORGE EDISON ORTIZ MEDINA",
+            "SALARIO": "1.339.584",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1193621236",
+            "NOMBRES": "JORGE EDISON ORTIZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "1.425.192"
+        }
+    }
+]

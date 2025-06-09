@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "801256108150",
+            "SOLICITUD": "2422808",
+            "CEDULA": "1994682653",
+            "NOMBRES": "MARTÍN SEGUNDO LÓPEZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "3.426.866",
+            "FIRMA ELLECTRONICA": "MARTÍN SEGUNDO LÓPEZ ARIAS - 1994682653"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "801256108150",
+            "NOMBRES": "MARTÍN SEGUNDO LÓPEZ ARIAS",
+            "CREDITO": "6.052.123",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "280.73",
+            "FIRMA ELLECTRONICA": "MARTÍN SEGUNDO LÓPEZ ARIAS - 1994682653",
+            "AL PIE DE LA FIRMA": "MARTÍN SEGUNDO LÓPEZ ARIAS - 1994682653"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1994682653",
+            "NOMBRES": "MARTÍN SEGUNDO LÓPEZ ARIAS",
+            "FECHA NACIMIENTO": "08/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.052.123",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARTÍN SEGUNDO LÓPEZ ARIAS - 1994682653",
+            "AL PIE DE LA FIRMA": "MARTÍN SEGUNDO LÓPEZ ARIAS - 1994682653"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2422808",
+            "CEDULA": "1994682653",
+            "NOMBRES": "MARTÍN SEGUNDO LÓPEZ ARIAS",
+            "CREDITO": "6.052.123",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "280.73",
+            "E.A": "23.22%",
+            "RECOMPRA O DESEMBOLSO": "3.426.866",
+            "FIRMA ELLECTRONICA": "MARTÍN SEGUNDO LÓPEZ ARIAS - 1994682653"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1994682653",
+            "NOMBRES": "MARTÍN SEGUNDO LÓPEZ ARIAS",
+            "FIRMA ELLECTRONICA": "MARTÍN SEGUNDO LÓPEZ ARIAS - 1994682653"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1994682653",
+            "NOMBRES": "MARTÍN SEGUNDO LÓPEZ ARIAS",
+            "FIRMA ELLECTRONICA": "MARTÍN SEGUNDO LÓPEZ ARIAS - 1994682653",
+            "AL PIE DE LA FIRMA": "MARTÍN SEGUNDO LÓPEZ ARIAS - 1994682653"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTÍN SEGUNDO LÓPEZ ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1994682653",
+            "NOMBRES": "MARTÍN SEGUNDO LÓPEZ ARIAS",
+            "SALARIO": "2.293.522",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1994682653",
+            "NOMBRES": "MARTÍN SEGUNDO LÓPEZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "3.426.866"
+        }
+    }
+]

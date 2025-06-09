@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "222443901964",
+            "SOLICITUD": "7343758",
+            "CEDULA": "1256483001",
+            "NOMBRES": "JENNY ZAPATA VELASCO",
+            "RECOMPRA O DESEMBOLSO": "1.586.925",
+            "FIRMA ELLECTRONICA": "JENNY ZAPATA VELASCO - 1256483001"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "222443901964",
+            "NOMBRES": "JENNY ZAPATA VELASCO",
+            "CREDITO": "9.910.048",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "366.652",
+            "FIRMA ELLECTRONICA": "JENNY ZAPATA VELASCO - 1256483001",
+            "AL PIE DE LA FIRMA": "JENNY ZAPATA VELASCO - 1256483001"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1256483001",
+            "NOMBRES": "JENNY ZAPATA VELASCO",
+            "FECHA NACIMIENTO": "25/05/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.910.048",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JENNY ZAPATA VELASCO - 1256483001",
+            "AL PIE DE LA FIRMA": "JENNY ZAPATA VELASCO - 1256483001"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7343758",
+            "CEDULA": "1256483001",
+            "NOMBRES": "JENNY ZAPATA VELASCO",
+            "CREDITO": "9.910.048",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "366.652",
+            "E.A": "27.75%",
+            "RECOMPRA O DESEMBOLSO": "1.586.925",
+            "FIRMA ELLECTRONICA": "JENNY ZAPATA VELASCO - 1256483001"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1256483001",
+            "NOMBRES": "JENNY ZAPATA VELASCO",
+            "FIRMA ELLECTRONICA": "JENNY ZAPATA VELASCO - 1256483001"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1256483001",
+            "NOMBRES": "JENNY ZAPATA VELASCO",
+            "FIRMA ELLECTRONICA": "JENNY ZAPATA VELASCO - 1256483001",
+            "AL PIE DE LA FIRMA": "JENNY ZAPATA VELASCO - 1256483001"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JENNY ZAPATA VELASCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1256483001",
+            "NOMBRES": "JENNY ZAPATA VELASCO",
+            "SALARIO": "2.614.940",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1256483001",
+            "NOMBRES": "JENNY ZAPATA VELASCO",
+            "RECOMPRA O DESEMBOLSO": "1.586.925"
+        }
+    }
+]

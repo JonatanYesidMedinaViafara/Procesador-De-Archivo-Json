@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "800110524406",
+            "SOLICITUD": "1710125",
+            "CEDULA": "1228881042",
+            "NOMBRES": "JESÚS CABALLERO SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "3.183.960",
+            "FIRMA ELLECTRONICA": "JESÚS CABALLERO SANDOVAL - 1228881042"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "800110524406",
+            "NOMBRES": "JESÚS CABALLERO SANDOVAL",
+            "CREDITO": "12.893.572",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "371.513",
+            "FIRMA ELLECTRONICA": "JESÚS CABALLERO SANDOVAL - 1228881042",
+            "AL PIE DE LA FIRMA": "JESÚS CABALLERO SANDOVAL - 1228881042"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1228881042",
+            "NOMBRES": "JESÚS CABALLERO SANDOVAL",
+            "FECHA NACIMIENTO": "31/03/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.893.572",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JESÚS CABALLERO SANDOVAL - 1228881042",
+            "AL PIE DE LA FIRMA": "JESÚS CABALLERO SANDOVAL - 1228881042"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1710125",
+            "CEDULA": "1228881042",
+            "NOMBRES": "JESÚS CABALLERO SANDOVAL",
+            "CREDITO": "12.893.572",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "371.513",
+            "E.A": "24.25%",
+            "RECOMPRA O DESEMBOLSO": "3.183.960",
+            "FIRMA ELLECTRONICA": "JESÚS CABALLERO SANDOVAL - 1228881042"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1228881042",
+            "NOMBRES": "JESÚS CABALLERO SANDOVAL",
+            "FIRMA ELLECTRONICA": "JESÚS CABALLERO SANDOVAL - 1228881042"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1228881042",
+            "NOMBRES": "JESÚS CABALLERO SANDOVAL",
+            "FIRMA ELLECTRONICA": "JESÚS CABALLERO SANDOVAL - 1228881042",
+            "AL PIE DE LA FIRMA": "JESÚS CABALLERO SANDOVAL - 1228881042"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS CABALLERO SANDOVAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1228881042",
+            "NOMBRES": "JESÚS CABALLERO SANDOVAL",
+            "SALARIO": "3.555.803",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1228881042",
+            "NOMBRES": "JESÚS CABALLERO SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "3.183.960"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "897932991352",
+            "SOLICITUD": "7328177",
+            "CEDULA": "1051435002",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.893.992",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1051435002"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "897932991352",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "CREDITO": "9.500.172",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "228.973",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1051435002",
+            "AL PIE DE LA FIRMA": "CECILIA GÓMEZ - 1051435002"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1051435002",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "FECHA NACIMIENTO": "23/01/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.500.172",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1051435002",
+            "AL PIE DE LA FIRMA": "CECILIA GÓMEZ - 1051435002"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7328177",
+            "CEDULA": "1051435002",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "CREDITO": "9.500.172",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "228.973",
+            "E.A": "20.67%",
+            "RECOMPRA O DESEMBOLSO": "1.893.992",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1051435002"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1051435002",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1051435002"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1051435002",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1051435002",
+            "AL PIE DE LA FIRMA": "CECILIA GÓMEZ - 1051435002"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1051435002",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "SALARIO": "2.983.175",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1051435002",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.893.992"
+        }
+    }
+]

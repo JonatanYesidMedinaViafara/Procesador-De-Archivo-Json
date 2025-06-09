@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "571488570548",
+            "SOLICITUD": "4630087",
+            "CEDULA": "1880306871",
+            "NOMBRES": "FABIÁN GÓMEZ FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "3.682.707",
+            "FIRMA ELLECTRONICA": "FABIÁN GÓMEZ FLÓREZ - 1880306871"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "571488570548",
+            "NOMBRES": "FABIÁN GÓMEZ FLÓREZ",
+            "CREDITO": "7.226.812",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "216.424",
+            "FIRMA ELLECTRONICA": "FABIÁN GÓMEZ FLÓREZ - 1880306871",
+            "AL PIE DE LA FIRMA": "FABIÁN GÓMEZ FLÓREZ - 1880306871"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1880306871",
+            "NOMBRES": "FABIÁN GÓMEZ FLÓREZ",
+            "FECHA NACIMIENTO": "31/01/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.226.812",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FABIÁN GÓMEZ FLÓREZ - 1880306871",
+            "AL PIE DE LA FIRMA": "FABIÁN GÓMEZ FLÓREZ - 1880306871"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4630087",
+            "CEDULA": "1880306871",
+            "NOMBRES": "FABIÁN GÓMEZ FLÓREZ",
+            "CREDITO": "7.226.812",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "216.424",
+            "E.A": "23.29%",
+            "RECOMPRA O DESEMBOLSO": "3.682.707",
+            "FIRMA ELLECTRONICA": "FABIÁN GÓMEZ FLÓREZ - 1880306871"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1880306871",
+            "NOMBRES": "FABIÁN GÓMEZ FLÓREZ",
+            "FIRMA ELLECTRONICA": "FABIÁN GÓMEZ FLÓREZ - 1880306871"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1880306871",
+            "NOMBRES": "FABIÁN GÓMEZ FLÓREZ",
+            "FIRMA ELLECTRONICA": "FABIÁN GÓMEZ FLÓREZ - 1880306871",
+            "AL PIE DE LA FIRMA": "FABIÁN GÓMEZ FLÓREZ - 1880306871"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIÁN GÓMEZ FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1880306871",
+            "NOMBRES": "FABIÁN GÓMEZ FLÓREZ",
+            "SALARIO": "2.034.247",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "14/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1880306871",
+            "NOMBRES": "FABIÁN GÓMEZ FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "3.682.707"
+        }
+    }
+]

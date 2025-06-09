@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "299165395393",
+            "SOLICITUD": "9261648",
+            "CEDULA": "1334214365",
+            "NOMBRES": "DIANA ROSA GONZÁLES ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.462.952",
+            "FIRMA ELLECTRONICA": "DIANA ROSA GONZÁLES ÁLVAREZ - 1334214365"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "299165395393",
+            "NOMBRES": "DIANA ROSA GONZÁLES ÁLVAREZ",
+            "CREDITO": "15.447.435",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "143.838",
+            "FIRMA ELLECTRONICA": "DIANA ROSA GONZÁLES ÁLVAREZ - 1334214365",
+            "AL PIE DE LA FIRMA": "DIANA ROSA GONZÁLES ÁLVAREZ - 1334214365"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1334214365",
+            "NOMBRES": "DIANA ROSA GONZÁLES ÁLVAREZ",
+            "FECHA NACIMIENTO": "11/02/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.447.435",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DIANA ROSA GONZÁLES ÁLVAREZ - 1334214365",
+            "AL PIE DE LA FIRMA": "DIANA ROSA GONZÁLES ÁLVAREZ - 1334214365"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9261648",
+            "CEDULA": "1334214365",
+            "NOMBRES": "DIANA ROSA GONZÁLES ÁLVAREZ",
+            "CREDITO": "15.447.435",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "143.838",
+            "E.A": "25.47%",
+            "RECOMPRA O DESEMBOLSO": "4.462.952",
+            "FIRMA ELLECTRONICA": "DIANA ROSA GONZÁLES ÁLVAREZ - 1334214365"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1334214365",
+            "NOMBRES": "DIANA ROSA GONZÁLES ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "DIANA ROSA GONZÁLES ÁLVAREZ - 1334214365"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1334214365",
+            "NOMBRES": "DIANA ROSA GONZÁLES ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "DIANA ROSA GONZÁLES ÁLVAREZ - 1334214365",
+            "AL PIE DE LA FIRMA": "DIANA ROSA GONZÁLES ÁLVAREZ - 1334214365"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA ROSA GONZÁLES ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1334214365",
+            "NOMBRES": "DIANA ROSA GONZÁLES ÁLVAREZ",
+            "SALARIO": "2.259.350",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1334214365",
+            "NOMBRES": "DIANA ROSA GONZÁLES ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.462.952"
+        }
+    }
+]

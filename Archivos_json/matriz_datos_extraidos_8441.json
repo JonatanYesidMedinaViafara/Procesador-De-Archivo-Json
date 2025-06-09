@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "311003765210",
+            "SOLICITUD": "6894150",
+            "CEDULA": "1007443394",
+            "NOMBRES": "OMAIRA MARÍA LONDOÑO",
+            "RECOMPRA O DESEMBOLSO": "4.886.326",
+            "FIRMA ELLECTRONICA": "OMAIRA MARÍA LONDOÑO - 1007443394"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "311003765210",
+            "NOMBRES": "OMAIRA MARÍA LONDOÑO",
+            "CREDITO": "10.775.846",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "167.843",
+            "FIRMA ELLECTRONICA": "OMAIRA MARÍA LONDOÑO - 1007443394",
+            "AL PIE DE LA FIRMA": "OMAIRA MARÍA LONDOÑO - 1007443394"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1007443394",
+            "NOMBRES": "OMAIRA MARÍA LONDOÑO",
+            "FECHA NACIMIENTO": "01/03/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.775.846",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "OMAIRA MARÍA LONDOÑO - 1007443394",
+            "AL PIE DE LA FIRMA": "OMAIRA MARÍA LONDOÑO - 1007443394"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6894150",
+            "CEDULA": "1007443394",
+            "NOMBRES": "OMAIRA MARÍA LONDOÑO",
+            "CREDITO": "10.775.846",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "167.843",
+            "E.A": "25.62%",
+            "RECOMPRA O DESEMBOLSO": "4.886.326",
+            "FIRMA ELLECTRONICA": "OMAIRA MARÍA LONDOÑO - 1007443394"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1007443394",
+            "NOMBRES": "OMAIRA MARÍA LONDOÑO",
+            "FIRMA ELLECTRONICA": "OMAIRA MARÍA LONDOÑO - 1007443394"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1007443394",
+            "NOMBRES": "OMAIRA MARÍA LONDOÑO",
+            "FIRMA ELLECTRONICA": "OMAIRA MARÍA LONDOÑO - 1007443394",
+            "AL PIE DE LA FIRMA": "OMAIRA MARÍA LONDOÑO - 1007443394"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAIRA MARÍA LONDOÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1007443394",
+            "NOMBRES": "OMAIRA MARÍA LONDOÑO",
+            "SALARIO": "4.565.535",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1007443394",
+            "NOMBRES": "OMAIRA MARÍA LONDOÑO",
+            "RECOMPRA O DESEMBOLSO": "4.886.326"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "202749874753",
+            "SOLICITUD": "3539976",
+            "CEDULA": "1201974374",
+            "NOMBRES": "GLORIA MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.592.673",
+            "FIRMA ELLECTRONICA": "GLORIA MORENO - 1201974374"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "202749874753",
+            "NOMBRES": "GLORIA MORENO",
+            "CREDITO": "5.496.191",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "330.297",
+            "FIRMA ELLECTRONICA": "GLORIA MORENO - 1201974374",
+            "AL PIE DE LA FIRMA": "GLORIA MORENO - 1201974374"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1201974374",
+            "NOMBRES": "GLORIA MORENO",
+            "FECHA NACIMIENTO": "27/09/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.496.191",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "GLORIA MORENO - 1201974374",
+            "AL PIE DE LA FIRMA": "GLORIA MORENO - 1201974374"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3539976",
+            "CEDULA": "1201974374",
+            "NOMBRES": "GLORIA MORENO",
+            "CREDITO": "5.496.191",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "330.297",
+            "E.A": "22.62%",
+            "RECOMPRA O DESEMBOLSO": "3.592.673",
+            "FIRMA ELLECTRONICA": "GLORIA MORENO - 1201974374"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1201974374",
+            "NOMBRES": "GLORIA MORENO",
+            "FIRMA ELLECTRONICA": "GLORIA MORENO - 1201974374"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1201974374",
+            "NOMBRES": "GLORIA MORENO",
+            "FIRMA ELLECTRONICA": "GLORIA MORENO - 1201974374",
+            "AL PIE DE LA FIRMA": "GLORIA MORENO - 1201974374"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GLORIA MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1201974374",
+            "NOMBRES": "GLORIA MORENO",
+            "SALARIO": "2.497.557",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1201974374",
+            "NOMBRES": "GLORIA MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.592.673"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "874927967804",
+            "SOLICITUD": "8894004",
+            "CEDULA": "1302335344",
+            "NOMBRES": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.404.283",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ - 1302335344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "874927967804",
+            "NOMBRES": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ",
+            "CREDITO": "19.851.021",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "367.306",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ - 1302335344",
+            "AL PIE DE LA FIRMA": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ - 1302335344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1302335344",
+            "NOMBRES": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ",
+            "FECHA NACIMIENTO": "18/03/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.851.021",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ - 1302335344",
+            "AL PIE DE LA FIRMA": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ - 1302335344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8894004",
+            "CEDULA": "1302335344",
+            "NOMBRES": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ",
+            "CREDITO": "19.851.021",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "367.306",
+            "E.A": "25.44%",
+            "RECOMPRA O DESEMBOLSO": "2.404.283",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ - 1302335344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1302335344",
+            "NOMBRES": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ - 1302335344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1302335344",
+            "NOMBRES": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ - 1302335344",
+            "AL PIE DE LA FIRMA": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ - 1302335344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1302335344",
+            "NOMBRES": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ",
+            "SALARIO": "1.932.396",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1302335344",
+            "NOMBRES": "JUAN JOSÉ SÁNCHEZ VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.404.283"
+        }
+    }
+]

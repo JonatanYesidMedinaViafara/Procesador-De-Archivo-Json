@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "860335657906",
+            "SOLICITUD": "1160714",
+            "CEDULA": "1264453521",
+            "NOMBRES": "DIEGO LÓPEZ FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.852.618",
+            "FIRMA ELLECTRONICA": "DIEGO LÓPEZ FERNÁNDEZ - 1264453521"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "860335657906",
+            "NOMBRES": "DIEGO LÓPEZ FERNÁNDEZ",
+            "CREDITO": "10.086.578",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "159.559",
+            "FIRMA ELLECTRONICA": "DIEGO LÓPEZ FERNÁNDEZ - 1264453521",
+            "AL PIE DE LA FIRMA": "DIEGO LÓPEZ FERNÁNDEZ - 1264453521"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1264453521",
+            "NOMBRES": "DIEGO LÓPEZ FERNÁNDEZ",
+            "FECHA NACIMIENTO": "02/10/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.086.578",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DIEGO LÓPEZ FERNÁNDEZ - 1264453521",
+            "AL PIE DE LA FIRMA": "DIEGO LÓPEZ FERNÁNDEZ - 1264453521"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1160714",
+            "CEDULA": "1264453521",
+            "NOMBRES": "DIEGO LÓPEZ FERNÁNDEZ",
+            "CREDITO": "10.086.578",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "159.559",
+            "E.A": "28.25%",
+            "RECOMPRA O DESEMBOLSO": "3.852.618",
+            "FIRMA ELLECTRONICA": "DIEGO LÓPEZ FERNÁNDEZ - 1264453521"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1264453521",
+            "NOMBRES": "DIEGO LÓPEZ FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "DIEGO LÓPEZ FERNÁNDEZ - 1264453521"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1264453521",
+            "NOMBRES": "DIEGO LÓPEZ FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "DIEGO LÓPEZ FERNÁNDEZ - 1264453521",
+            "AL PIE DE LA FIRMA": "DIEGO LÓPEZ FERNÁNDEZ - 1264453521"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO LÓPEZ FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1264453521",
+            "NOMBRES": "DIEGO LÓPEZ FERNÁNDEZ",
+            "SALARIO": "1.836.182",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1264453521",
+            "NOMBRES": "DIEGO LÓPEZ FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.852.618"
+        }
+    }
+]

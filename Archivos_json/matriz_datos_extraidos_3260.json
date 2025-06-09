@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "353678450215",
+            "SOLICITUD": "3030428",
+            "CEDULA": "1168275459",
+            "NOMBRES": "DIANA GARCÍA NIÑO",
+            "RECOMPRA O DESEMBOLSO": "2.756.305",
+            "FIRMA ELLECTRONICA": "DIANA GARCÍA NIÑO - 1168275459"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "353678450215",
+            "NOMBRES": "DIANA GARCÍA NIÑO",
+            "CREDITO": "10.549.767",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "280.813",
+            "FIRMA ELLECTRONICA": "DIANA GARCÍA NIÑO - 1168275459",
+            "AL PIE DE LA FIRMA": "DIANA GARCÍA NIÑO - 1168275459"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1168275459",
+            "NOMBRES": "DIANA GARCÍA NIÑO",
+            "FECHA NACIMIENTO": "18/05/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.549.767",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DIANA GARCÍA NIÑO - 1168275459",
+            "AL PIE DE LA FIRMA": "DIANA GARCÍA NIÑO - 1168275459"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3030428",
+            "CEDULA": "1168275459",
+            "NOMBRES": "DIANA GARCÍA NIÑO",
+            "CREDITO": "10.549.767",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "280.813",
+            "E.A": "23.01%",
+            "RECOMPRA O DESEMBOLSO": "2.756.305",
+            "FIRMA ELLECTRONICA": "DIANA GARCÍA NIÑO - 1168275459"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1168275459",
+            "NOMBRES": "DIANA GARCÍA NIÑO",
+            "FIRMA ELLECTRONICA": "DIANA GARCÍA NIÑO - 1168275459"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1168275459",
+            "NOMBRES": "DIANA GARCÍA NIÑO",
+            "FIRMA ELLECTRONICA": "DIANA GARCÍA NIÑO - 1168275459",
+            "AL PIE DE LA FIRMA": "DIANA GARCÍA NIÑO - 1168275459"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA GARCÍA NIÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1168275459",
+            "NOMBRES": "DIANA GARCÍA NIÑO",
+            "SALARIO": "2.398.515",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1168275459",
+            "NOMBRES": "DIANA GARCÍA NIÑO",
+            "RECOMPRA O DESEMBOLSO": "2.756.305"
+        }
+    }
+]

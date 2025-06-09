@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "723852584259",
+            "SOLICITUD": "7903082",
+            "CEDULA": "1651679774",
+            "NOMBRES": "HAROLD MORALES",
+            "RECOMPRA O DESEMBOLSO": "4.129.753",
+            "FIRMA ELLECTRONICA": "HAROLD MORALES - 1651679774"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "723852584259",
+            "NOMBRES": "HAROLD MORALES",
+            "CREDITO": "12.900.677",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "213.741",
+            "FIRMA ELLECTRONICA": "HAROLD MORALES - 1651679774",
+            "AL PIE DE LA FIRMA": "HAROLD MORALES - 1651679774"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1651679774",
+            "NOMBRES": "HAROLD MORALES",
+            "FECHA NACIMIENTO": "25/09/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.900.677",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "HAROLD MORALES - 1651679774",
+            "AL PIE DE LA FIRMA": "HAROLD MORALES - 1651679774"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7903082",
+            "CEDULA": "1651679774",
+            "NOMBRES": "HAROLD MORALES",
+            "CREDITO": "12.900.677",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "213.741",
+            "E.A": "20.01%",
+            "RECOMPRA O DESEMBOLSO": "4.129.753",
+            "FIRMA ELLECTRONICA": "HAROLD MORALES - 1651679774"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1651679774",
+            "NOMBRES": "HAROLD MORALES",
+            "FIRMA ELLECTRONICA": "HAROLD MORALES - 1651679774"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1651679774",
+            "NOMBRES": "HAROLD MORALES",
+            "FIRMA ELLECTRONICA": "HAROLD MORALES - 1651679774",
+            "AL PIE DE LA FIRMA": "HAROLD MORALES - 1651679774"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HAROLD MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1651679774",
+            "NOMBRES": "HAROLD MORALES",
+            "SALARIO": "2.420.256",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1651679774",
+            "NOMBRES": "HAROLD MORALES",
+            "RECOMPRA O DESEMBOLSO": "4.129.753"
+        }
+    }
+]

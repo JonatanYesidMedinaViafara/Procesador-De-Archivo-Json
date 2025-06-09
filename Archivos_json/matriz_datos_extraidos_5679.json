@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "480179519902",
+            "SOLICITUD": "7350159",
+            "CEDULA": "1515846772",
+            "NOMBRES": "MARÍA ELENA RAMÍREZ MESA",
+            "RECOMPRA O DESEMBOLSO": "4.561.846",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA RAMÍREZ MESA - 1515846772"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "480179519902",
+            "NOMBRES": "MARÍA ELENA RAMÍREZ MESA",
+            "CREDITO": "16.493.780",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "390.406",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA RAMÍREZ MESA - 1515846772",
+            "AL PIE DE LA FIRMA": "MARÍA ELENA RAMÍREZ MESA - 1515846772"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1515846772",
+            "NOMBRES": "MARÍA ELENA RAMÍREZ MESA",
+            "FECHA NACIMIENTO": "15/12/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.493.780",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA RAMÍREZ MESA - 1515846772",
+            "AL PIE DE LA FIRMA": "MARÍA ELENA RAMÍREZ MESA - 1515846772"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7350159",
+            "CEDULA": "1515846772",
+            "NOMBRES": "MARÍA ELENA RAMÍREZ MESA",
+            "CREDITO": "16.493.780",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "390.406",
+            "E.A": "27.09%",
+            "RECOMPRA O DESEMBOLSO": "4.561.846",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA RAMÍREZ MESA - 1515846772"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1515846772",
+            "NOMBRES": "MARÍA ELENA RAMÍREZ MESA",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA RAMÍREZ MESA - 1515846772"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1515846772",
+            "NOMBRES": "MARÍA ELENA RAMÍREZ MESA",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA RAMÍREZ MESA - 1515846772",
+            "AL PIE DE LA FIRMA": "MARÍA ELENA RAMÍREZ MESA - 1515846772"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ELENA RAMÍREZ MESA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1515846772",
+            "NOMBRES": "MARÍA ELENA RAMÍREZ MESA",
+            "SALARIO": "3.879.986",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1515846772",
+            "NOMBRES": "MARÍA ELENA RAMÍREZ MESA",
+            "RECOMPRA O DESEMBOLSO": "4.561.846"
+        }
+    }
+]

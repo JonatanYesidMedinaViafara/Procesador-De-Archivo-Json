@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "121332297198",
+            "SOLICITUD": "1494447",
+            "CEDULA": "1940280220",
+            "NOMBRES": "DARIO ALEXANDER MORENO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.095.124",
+            "FIRMA ELLECTRONICA": "DARIO ALEXANDER MORENO MUÑOZ - 1940280220"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "121332297198",
+            "NOMBRES": "DARIO ALEXANDER MORENO MUÑOZ",
+            "CREDITO": "16.798.414",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "347.358",
+            "FIRMA ELLECTRONICA": "DARIO ALEXANDER MORENO MUÑOZ - 1940280220",
+            "AL PIE DE LA FIRMA": "DARIO ALEXANDER MORENO MUÑOZ - 1940280220"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1940280220",
+            "NOMBRES": "DARIO ALEXANDER MORENO MUÑOZ",
+            "FECHA NACIMIENTO": "15/01/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.798.414",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DARIO ALEXANDER MORENO MUÑOZ - 1940280220",
+            "AL PIE DE LA FIRMA": "DARIO ALEXANDER MORENO MUÑOZ - 1940280220"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1494447",
+            "CEDULA": "1940280220",
+            "NOMBRES": "DARIO ALEXANDER MORENO MUÑOZ",
+            "CREDITO": "16.798.414",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "347.358",
+            "E.A": "21.12%",
+            "RECOMPRA O DESEMBOLSO": "4.095.124",
+            "FIRMA ELLECTRONICA": "DARIO ALEXANDER MORENO MUÑOZ - 1940280220"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1940280220",
+            "NOMBRES": "DARIO ALEXANDER MORENO MUÑOZ",
+            "FIRMA ELLECTRONICA": "DARIO ALEXANDER MORENO MUÑOZ - 1940280220"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1940280220",
+            "NOMBRES": "DARIO ALEXANDER MORENO MUÑOZ",
+            "FIRMA ELLECTRONICA": "DARIO ALEXANDER MORENO MUÑOZ - 1940280220",
+            "AL PIE DE LA FIRMA": "DARIO ALEXANDER MORENO MUÑOZ - 1940280220"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO ALEXANDER MORENO MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1940280220",
+            "NOMBRES": "DARIO ALEXANDER MORENO MUÑOZ",
+            "SALARIO": "2.094.036",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1940280220",
+            "NOMBRES": "DARIO ALEXANDER MORENO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.095.124"
+        }
+    }
+]

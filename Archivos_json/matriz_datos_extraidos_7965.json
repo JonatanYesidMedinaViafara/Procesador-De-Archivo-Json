@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "799460354665",
+            "SOLICITUD": "3938998",
+            "CEDULA": "1299364852",
+            "NOMBRES": "JHON EDGAR DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.594.418",
+            "FIRMA ELLECTRONICA": "JHON EDGAR DÍAZ - 1299364852"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "799460354665",
+            "NOMBRES": "JHON EDGAR DÍAZ",
+            "CREDITO": "9.493.725",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "330.987",
+            "FIRMA ELLECTRONICA": "JHON EDGAR DÍAZ - 1299364852",
+            "AL PIE DE LA FIRMA": "JHON EDGAR DÍAZ - 1299364852"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1299364852",
+            "NOMBRES": "JHON EDGAR DÍAZ",
+            "FECHA NACIMIENTO": "28/11/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.493.725",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JHON EDGAR DÍAZ - 1299364852",
+            "AL PIE DE LA FIRMA": "JHON EDGAR DÍAZ - 1299364852"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3938998",
+            "CEDULA": "1299364852",
+            "NOMBRES": "JHON EDGAR DÍAZ",
+            "CREDITO": "9.493.725",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "330.987",
+            "E.A": "22.6%",
+            "RECOMPRA O DESEMBOLSO": "2.594.418",
+            "FIRMA ELLECTRONICA": "JHON EDGAR DÍAZ - 1299364852"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1299364852",
+            "NOMBRES": "JHON EDGAR DÍAZ",
+            "FIRMA ELLECTRONICA": "JHON EDGAR DÍAZ - 1299364852"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1299364852",
+            "NOMBRES": "JHON EDGAR DÍAZ",
+            "FIRMA ELLECTRONICA": "JHON EDGAR DÍAZ - 1299364852",
+            "AL PIE DE LA FIRMA": "JHON EDGAR DÍAZ - 1299364852"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON EDGAR DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1299364852",
+            "NOMBRES": "JHON EDGAR DÍAZ",
+            "SALARIO": "4.068.180",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1299364852",
+            "NOMBRES": "JHON EDGAR DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.594.418"
+        }
+    }
+]

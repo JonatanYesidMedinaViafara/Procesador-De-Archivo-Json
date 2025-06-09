@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "310825830776",
+            "SOLICITUD": "5854281",
+            "CEDULA": "1385251437",
+            "NOMBRES": "ALONSO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.561.187",
+            "FIRMA ELLECTRONICA": "ALONSO MARTÍNEZ - 1385251437"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "310825830776",
+            "NOMBRES": "ALONSO MARTÍNEZ",
+            "CREDITO": "9.657.495",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "198.912",
+            "FIRMA ELLECTRONICA": "ALONSO MARTÍNEZ - 1385251437",
+            "AL PIE DE LA FIRMA": "ALONSO MARTÍNEZ - 1385251437"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1385251437",
+            "NOMBRES": "ALONSO MARTÍNEZ",
+            "FECHA NACIMIENTO": "03/05/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.657.495",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALONSO MARTÍNEZ - 1385251437",
+            "AL PIE DE LA FIRMA": "ALONSO MARTÍNEZ - 1385251437"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5854281",
+            "CEDULA": "1385251437",
+            "NOMBRES": "ALONSO MARTÍNEZ",
+            "CREDITO": "9.657.495",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "198.912",
+            "E.A": "24.37%",
+            "RECOMPRA O DESEMBOLSO": "2.561.187",
+            "FIRMA ELLECTRONICA": "ALONSO MARTÍNEZ - 1385251437"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1385251437",
+            "NOMBRES": "ALONSO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ALONSO MARTÍNEZ - 1385251437"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1385251437",
+            "NOMBRES": "ALONSO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ALONSO MARTÍNEZ - 1385251437",
+            "AL PIE DE LA FIRMA": "ALONSO MARTÍNEZ - 1385251437"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALONSO MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1385251437",
+            "NOMBRES": "ALONSO MARTÍNEZ",
+            "SALARIO": "4.762.764",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1385251437",
+            "NOMBRES": "ALONSO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.561.187"
+        }
+    }
+]

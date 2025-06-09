@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "619730814064",
+            "SOLICITUD": "1394453",
+            "CEDULA": "1838471435",
+            "NOMBRES": "SEGUNDO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.384.280",
+            "FIRMA ELLECTRONICA": "SEGUNDO GARCÍA - 1838471435"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "619730814064",
+            "NOMBRES": "SEGUNDO GARCÍA",
+            "CREDITO": "7.922.029",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "193.407",
+            "FIRMA ELLECTRONICA": "SEGUNDO GARCÍA - 1838471435",
+            "AL PIE DE LA FIRMA": "SEGUNDO GARCÍA - 1838471435"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1838471435",
+            "NOMBRES": "SEGUNDO GARCÍA",
+            "FECHA NACIMIENTO": "09/05/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.922.029",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SEGUNDO GARCÍA - 1838471435",
+            "AL PIE DE LA FIRMA": "SEGUNDO GARCÍA - 1838471435"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1394453",
+            "CEDULA": "1838471435",
+            "NOMBRES": "SEGUNDO GARCÍA",
+            "CREDITO": "7.922.029",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "193.407",
+            "E.A": "25.03%",
+            "RECOMPRA O DESEMBOLSO": "2.384.280",
+            "FIRMA ELLECTRONICA": "SEGUNDO GARCÍA - 1838471435"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1838471435",
+            "NOMBRES": "SEGUNDO GARCÍA",
+            "FIRMA ELLECTRONICA": "SEGUNDO GARCÍA - 1838471435"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1838471435",
+            "NOMBRES": "SEGUNDO GARCÍA",
+            "FIRMA ELLECTRONICA": "SEGUNDO GARCÍA - 1838471435",
+            "AL PIE DE LA FIRMA": "SEGUNDO GARCÍA - 1838471435"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEGUNDO GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1838471435",
+            "NOMBRES": "SEGUNDO GARCÍA",
+            "SALARIO": "4.742.908",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1838471435",
+            "NOMBRES": "SEGUNDO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.384.280"
+        }
+    }
+]

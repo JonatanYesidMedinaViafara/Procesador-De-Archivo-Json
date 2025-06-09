@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "718574140011",
+            "SOLICITUD": "6321269",
+            "CEDULA": "1594616881",
+            "NOMBRES": "PEDRO FERNANDO RINCÓN VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.421.814",
+            "FIRMA ELLECTRONICA": "PEDRO FERNANDO RINCÓN VARGAS - 1594616881"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "718574140011",
+            "NOMBRES": "PEDRO FERNANDO RINCÓN VARGAS",
+            "CREDITO": "12.614.607",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "283.84",
+            "FIRMA ELLECTRONICA": "PEDRO FERNANDO RINCÓN VARGAS - 1594616881",
+            "AL PIE DE LA FIRMA": "PEDRO FERNANDO RINCÓN VARGAS - 1594616881"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1594616881",
+            "NOMBRES": "PEDRO FERNANDO RINCÓN VARGAS",
+            "FECHA NACIMIENTO": "07/05/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.614.607",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PEDRO FERNANDO RINCÓN VARGAS - 1594616881",
+            "AL PIE DE LA FIRMA": "PEDRO FERNANDO RINCÓN VARGAS - 1594616881"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6321269",
+            "CEDULA": "1594616881",
+            "NOMBRES": "PEDRO FERNANDO RINCÓN VARGAS",
+            "CREDITO": "12.614.607",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "283.84",
+            "E.A": "25.71%",
+            "RECOMPRA O DESEMBOLSO": "3.421.814",
+            "FIRMA ELLECTRONICA": "PEDRO FERNANDO RINCÓN VARGAS - 1594616881"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1594616881",
+            "NOMBRES": "PEDRO FERNANDO RINCÓN VARGAS",
+            "FIRMA ELLECTRONICA": "PEDRO FERNANDO RINCÓN VARGAS - 1594616881"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1594616881",
+            "NOMBRES": "PEDRO FERNANDO RINCÓN VARGAS",
+            "FIRMA ELLECTRONICA": "PEDRO FERNANDO RINCÓN VARGAS - 1594616881",
+            "AL PIE DE LA FIRMA": "PEDRO FERNANDO RINCÓN VARGAS - 1594616881"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PEDRO FERNANDO RINCÓN VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1594616881",
+            "NOMBRES": "PEDRO FERNANDO RINCÓN VARGAS",
+            "SALARIO": "3.031.755",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1594616881",
+            "NOMBRES": "PEDRO FERNANDO RINCÓN VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.421.814"
+        }
+    }
+]

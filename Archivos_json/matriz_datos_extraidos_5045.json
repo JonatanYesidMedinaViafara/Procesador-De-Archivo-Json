@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "484338936579",
+            "SOLICITUD": "9599062",
+            "CEDULA": "1462337310",
+            "NOMBRES": "ANDERSON HERRERA",
+            "RECOMPRA O DESEMBOLSO": "4.312.701",
+            "FIRMA ELLECTRONICA": "ANDERSON HERRERA - 1462337310"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "484338936579",
+            "NOMBRES": "ANDERSON HERRERA",
+            "CREDITO": "19.405.994",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "163.664",
+            "FIRMA ELLECTRONICA": "ANDERSON HERRERA - 1462337310",
+            "AL PIE DE LA FIRMA": "ANDERSON HERRERA - 1462337310"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1462337310",
+            "NOMBRES": "ANDERSON HERRERA",
+            "FECHA NACIMIENTO": "09/02/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.405.994",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDERSON HERRERA - 1462337310",
+            "AL PIE DE LA FIRMA": "ANDERSON HERRERA - 1462337310"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9599062",
+            "CEDULA": "1462337310",
+            "NOMBRES": "ANDERSON HERRERA",
+            "CREDITO": "19.405.994",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "163.664",
+            "E.A": "21.75%",
+            "RECOMPRA O DESEMBOLSO": "4.312.701",
+            "FIRMA ELLECTRONICA": "ANDERSON HERRERA - 1462337310"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1462337310",
+            "NOMBRES": "ANDERSON HERRERA",
+            "FIRMA ELLECTRONICA": "ANDERSON HERRERA - 1462337310"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1462337310",
+            "NOMBRES": "ANDERSON HERRERA",
+            "FIRMA ELLECTRONICA": "ANDERSON HERRERA - 1462337310",
+            "AL PIE DE LA FIRMA": "ANDERSON HERRERA - 1462337310"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDERSON HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1462337310",
+            "NOMBRES": "ANDERSON HERRERA",
+            "SALARIO": "1.246.494",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1462337310",
+            "NOMBRES": "ANDERSON HERRERA",
+            "RECOMPRA O DESEMBOLSO": "4.312.701"
+        }
+    }
+]

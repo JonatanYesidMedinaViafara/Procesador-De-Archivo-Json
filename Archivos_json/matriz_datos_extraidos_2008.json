@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "569285890213",
+            "SOLICITUD": "1825344",
+            "CEDULA": "1849225383",
+            "NOMBRES": "ADRIÁN ANDRÉS ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "2.819.239",
+            "FIRMA ELLECTRONICA": "ADRIÁN ANDRÉS ANDRADE - 1849225383"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "569285890213",
+            "NOMBRES": "ADRIÁN ANDRÉS ANDRADE",
+            "CREDITO": "8.016.414",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "124.786",
+            "FIRMA ELLECTRONICA": "ADRIÁN ANDRÉS ANDRADE - 1849225383",
+            "AL PIE DE LA FIRMA": "ADRIÁN ANDRÉS ANDRADE - 1849225383"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1849225383",
+            "NOMBRES": "ADRIÁN ANDRÉS ANDRADE",
+            "FECHA NACIMIENTO": "01/12/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.016.414",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ADRIÁN ANDRÉS ANDRADE - 1849225383",
+            "AL PIE DE LA FIRMA": "ADRIÁN ANDRÉS ANDRADE - 1849225383"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1825344",
+            "CEDULA": "1849225383",
+            "NOMBRES": "ADRIÁN ANDRÉS ANDRADE",
+            "CREDITO": "8.016.414",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "124.786",
+            "E.A": "26.36%",
+            "RECOMPRA O DESEMBOLSO": "2.819.239",
+            "FIRMA ELLECTRONICA": "ADRIÁN ANDRÉS ANDRADE - 1849225383"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1849225383",
+            "NOMBRES": "ADRIÁN ANDRÉS ANDRADE",
+            "FIRMA ELLECTRONICA": "ADRIÁN ANDRÉS ANDRADE - 1849225383"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1849225383",
+            "NOMBRES": "ADRIÁN ANDRÉS ANDRADE",
+            "FIRMA ELLECTRONICA": "ADRIÁN ANDRÉS ANDRADE - 1849225383",
+            "AL PIE DE LA FIRMA": "ADRIÁN ANDRÉS ANDRADE - 1849225383"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ADRIÁN ANDRÉS ANDRADE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1849225383",
+            "NOMBRES": "ADRIÁN ANDRÉS ANDRADE",
+            "SALARIO": "1.883.800",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1849225383",
+            "NOMBRES": "ADRIÁN ANDRÉS ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "2.819.239"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "792433395302",
+            "SOLICITUD": "7246665",
+            "CEDULA": "1443491743",
+            "NOMBRES": "YERSON SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "4.559.417",
+            "FIRMA ELLECTRONICA": "YERSON SUÁREZ - 1443491743"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "792433395302",
+            "NOMBRES": "YERSON SUÁREZ",
+            "CREDITO": "7.575.344",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "168.166",
+            "FIRMA ELLECTRONICA": "YERSON SUÁREZ - 1443491743",
+            "AL PIE DE LA FIRMA": "YERSON SUÁREZ - 1443491743"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1443491743",
+            "NOMBRES": "YERSON SUÁREZ",
+            "FECHA NACIMIENTO": "10/06/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.575.344",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "YERSON SUÁREZ - 1443491743",
+            "AL PIE DE LA FIRMA": "YERSON SUÁREZ - 1443491743"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7246665",
+            "CEDULA": "1443491743",
+            "NOMBRES": "YERSON SUÁREZ",
+            "CREDITO": "7.575.344",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "168.166",
+            "E.A": "21.02%",
+            "RECOMPRA O DESEMBOLSO": "4.559.417",
+            "FIRMA ELLECTRONICA": "YERSON SUÁREZ - 1443491743"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1443491743",
+            "NOMBRES": "YERSON SUÁREZ",
+            "FIRMA ELLECTRONICA": "YERSON SUÁREZ - 1443491743"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1443491743",
+            "NOMBRES": "YERSON SUÁREZ",
+            "FIRMA ELLECTRONICA": "YERSON SUÁREZ - 1443491743",
+            "AL PIE DE LA FIRMA": "YERSON SUÁREZ - 1443491743"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YERSON SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1443491743",
+            "NOMBRES": "YERSON SUÁREZ",
+            "SALARIO": "4.167.282",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1443491743",
+            "NOMBRES": "YERSON SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "4.559.417"
+        }
+    }
+]

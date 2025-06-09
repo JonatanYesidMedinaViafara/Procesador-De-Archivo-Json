@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "488837559844",
+            "SOLICITUD": "8895090",
+            "CEDULA": "1184840505",
+            "NOMBRES": "ISABEL GÓMEZ SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "2.853.859",
+            "FIRMA ELLECTRONICA": "ISABEL GÓMEZ SANDOVAL - 1184840505"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "488837559844",
+            "NOMBRES": "ISABEL GÓMEZ SANDOVAL",
+            "CREDITO": "10.899.546",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "320.283",
+            "FIRMA ELLECTRONICA": "ISABEL GÓMEZ SANDOVAL - 1184840505",
+            "AL PIE DE LA FIRMA": "ISABEL GÓMEZ SANDOVAL - 1184840505"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1184840505",
+            "NOMBRES": "ISABEL GÓMEZ SANDOVAL",
+            "FECHA NACIMIENTO": "29/10/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.899.546",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ISABEL GÓMEZ SANDOVAL - 1184840505",
+            "AL PIE DE LA FIRMA": "ISABEL GÓMEZ SANDOVAL - 1184840505"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8895090",
+            "CEDULA": "1184840505",
+            "NOMBRES": "ISABEL GÓMEZ SANDOVAL",
+            "CREDITO": "10.899.546",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "320.283",
+            "E.A": "26.4%",
+            "RECOMPRA O DESEMBOLSO": "2.853.859",
+            "FIRMA ELLECTRONICA": "ISABEL GÓMEZ SANDOVAL - 1184840505"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1184840505",
+            "NOMBRES": "ISABEL GÓMEZ SANDOVAL",
+            "FIRMA ELLECTRONICA": "ISABEL GÓMEZ SANDOVAL - 1184840505"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1184840505",
+            "NOMBRES": "ISABEL GÓMEZ SANDOVAL",
+            "FIRMA ELLECTRONICA": "ISABEL GÓMEZ SANDOVAL - 1184840505",
+            "AL PIE DE LA FIRMA": "ISABEL GÓMEZ SANDOVAL - 1184840505"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL GÓMEZ SANDOVAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1184840505",
+            "NOMBRES": "ISABEL GÓMEZ SANDOVAL",
+            "SALARIO": "1.868.726",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1184840505",
+            "NOMBRES": "ISABEL GÓMEZ SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "2.853.859"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "194178908486",
+            "SOLICITUD": "2953951",
+            "CEDULA": "1427589244",
+            "NOMBRES": "ORLANDO PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.244.683",
+            "FIRMA ELLECTRONICA": "ORLANDO PEÑA - 1427589244"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "194178908486",
+            "NOMBRES": "ORLANDO PEÑA",
+            "CREDITO": "16.614.625",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "240.922",
+            "FIRMA ELLECTRONICA": "ORLANDO PEÑA - 1427589244",
+            "AL PIE DE LA FIRMA": "ORLANDO PEÑA - 1427589244"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1427589244",
+            "NOMBRES": "ORLANDO PEÑA",
+            "FECHA NACIMIENTO": "10/01/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.614.625",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ORLANDO PEÑA - 1427589244",
+            "AL PIE DE LA FIRMA": "ORLANDO PEÑA - 1427589244"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2953951",
+            "CEDULA": "1427589244",
+            "NOMBRES": "ORLANDO PEÑA",
+            "CREDITO": "16.614.625",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "240.922",
+            "E.A": "23.07%",
+            "RECOMPRA O DESEMBOLSO": "2.244.683",
+            "FIRMA ELLECTRONICA": "ORLANDO PEÑA - 1427589244"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1427589244",
+            "NOMBRES": "ORLANDO PEÑA",
+            "FIRMA ELLECTRONICA": "ORLANDO PEÑA - 1427589244"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1427589244",
+            "NOMBRES": "ORLANDO PEÑA",
+            "FIRMA ELLECTRONICA": "ORLANDO PEÑA - 1427589244",
+            "AL PIE DE LA FIRMA": "ORLANDO PEÑA - 1427589244"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ORLANDO PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1427589244",
+            "NOMBRES": "ORLANDO PEÑA",
+            "SALARIO": "2.794.595",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1427589244",
+            "NOMBRES": "ORLANDO PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.244.683"
+        }
+    }
+]

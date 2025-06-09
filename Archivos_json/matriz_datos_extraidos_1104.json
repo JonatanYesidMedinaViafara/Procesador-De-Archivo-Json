@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "910714492495",
+            "SOLICITUD": "2938862",
+            "CEDULA": "1605071250",
+            "NOMBRES": "ALEXANDER RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.830.432",
+            "FIRMA ELLECTRONICA": "ALEXANDER RODRÍGUEZ - 1605071250"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "910714492495",
+            "NOMBRES": "ALEXANDER RODRÍGUEZ",
+            "CREDITO": "11.622.530",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "229.193",
+            "FIRMA ELLECTRONICA": "ALEXANDER RODRÍGUEZ - 1605071250",
+            "AL PIE DE LA FIRMA": "ALEXANDER RODRÍGUEZ - 1605071250"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1605071250",
+            "NOMBRES": "ALEXANDER RODRÍGUEZ",
+            "FECHA NACIMIENTO": "02/01/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.622.530",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALEXANDER RODRÍGUEZ - 1605071250",
+            "AL PIE DE LA FIRMA": "ALEXANDER RODRÍGUEZ - 1605071250"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2938862",
+            "CEDULA": "1605071250",
+            "NOMBRES": "ALEXANDER RODRÍGUEZ",
+            "CREDITO": "11.622.530",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "229.193",
+            "E.A": "27.97%",
+            "RECOMPRA O DESEMBOLSO": "1.830.432",
+            "FIRMA ELLECTRONICA": "ALEXANDER RODRÍGUEZ - 1605071250"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1605071250",
+            "NOMBRES": "ALEXANDER RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER RODRÍGUEZ - 1605071250"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1605071250",
+            "NOMBRES": "ALEXANDER RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER RODRÍGUEZ - 1605071250",
+            "AL PIE DE LA FIRMA": "ALEXANDER RODRÍGUEZ - 1605071250"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1605071250",
+            "NOMBRES": "ALEXANDER RODRÍGUEZ",
+            "SALARIO": "4.236.679",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1605071250",
+            "NOMBRES": "ALEXANDER RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.830.432"
+        }
+    }
+]

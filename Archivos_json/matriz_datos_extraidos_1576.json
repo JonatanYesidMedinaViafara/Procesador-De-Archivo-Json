@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "724404032374",
+            "SOLICITUD": "8251909",
+            "CEDULA": "1821192377",
+            "NOMBRES": "MARÍA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "4.583.592",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA - 1821192377"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "724404032374",
+            "NOMBRES": "MARÍA HERRERA",
+            "CREDITO": "11.685.286",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "276.871",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA - 1821192377",
+            "AL PIE DE LA FIRMA": "MARÍA HERRERA - 1821192377"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1821192377",
+            "NOMBRES": "MARÍA HERRERA",
+            "FECHA NACIMIENTO": "21/03/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.685.286",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA - 1821192377",
+            "AL PIE DE LA FIRMA": "MARÍA HERRERA - 1821192377"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8251909",
+            "CEDULA": "1821192377",
+            "NOMBRES": "MARÍA HERRERA",
+            "CREDITO": "11.685.286",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "276.871",
+            "E.A": "18.31%",
+            "RECOMPRA O DESEMBOLSO": "4.583.592",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA - 1821192377"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1821192377",
+            "NOMBRES": "MARÍA HERRERA",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA - 1821192377"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1821192377",
+            "NOMBRES": "MARÍA HERRERA",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA - 1821192377",
+            "AL PIE DE LA FIRMA": "MARÍA HERRERA - 1821192377"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1821192377",
+            "NOMBRES": "MARÍA HERRERA",
+            "SALARIO": "2.674.442",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1821192377",
+            "NOMBRES": "MARÍA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "4.583.592"
+        }
+    }
+]

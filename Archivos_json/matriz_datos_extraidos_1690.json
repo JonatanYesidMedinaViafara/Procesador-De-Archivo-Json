@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "733254727800",
+            "SOLICITUD": "9102780",
+            "CEDULA": "1532985336",
+            "NOMBRES": "CARMENZA JULIA MEJÍA",
+            "RECOMPRA O DESEMBOLSO": "3.275.060",
+            "FIRMA ELLECTRONICA": "CARMENZA JULIA MEJÍA - 1532985336"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "733254727800",
+            "NOMBRES": "CARMENZA JULIA MEJÍA",
+            "CREDITO": "13.478.498",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "350.365",
+            "FIRMA ELLECTRONICA": "CARMENZA JULIA MEJÍA - 1532985336",
+            "AL PIE DE LA FIRMA": "CARMENZA JULIA MEJÍA - 1532985336"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1532985336",
+            "NOMBRES": "CARMENZA JULIA MEJÍA",
+            "FECHA NACIMIENTO": "21/11/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.478.498",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARMENZA JULIA MEJÍA - 1532985336",
+            "AL PIE DE LA FIRMA": "CARMENZA JULIA MEJÍA - 1532985336"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9102780",
+            "CEDULA": "1532985336",
+            "NOMBRES": "CARMENZA JULIA MEJÍA",
+            "CREDITO": "13.478.498",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "350.365",
+            "E.A": "20.39%",
+            "RECOMPRA O DESEMBOLSO": "3.275.060",
+            "FIRMA ELLECTRONICA": "CARMENZA JULIA MEJÍA - 1532985336"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1532985336",
+            "NOMBRES": "CARMENZA JULIA MEJÍA",
+            "FIRMA ELLECTRONICA": "CARMENZA JULIA MEJÍA - 1532985336"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1532985336",
+            "NOMBRES": "CARMENZA JULIA MEJÍA",
+            "FIRMA ELLECTRONICA": "CARMENZA JULIA MEJÍA - 1532985336",
+            "AL PIE DE LA FIRMA": "CARMENZA JULIA MEJÍA - 1532985336"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMENZA JULIA MEJÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1532985336",
+            "NOMBRES": "CARMENZA JULIA MEJÍA",
+            "SALARIO": "1.412.124",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1532985336",
+            "NOMBRES": "CARMENZA JULIA MEJÍA",
+            "RECOMPRA O DESEMBOLSO": "3.275.060"
+        }
+    }
+]

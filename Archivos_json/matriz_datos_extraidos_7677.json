@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "150647003790",
+            "SOLICITUD": "7370490",
+            "CEDULA": "1581532129",
+            "NOMBRES": "JULIO ALEJANDRO ARDILA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "1.574.670",
+            "FIRMA ELLECTRONICA": "JULIO ALEJANDRO ARDILA GIRALDO - 1581532129"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "150647003790",
+            "NOMBRES": "JULIO ALEJANDRO ARDILA GIRALDO",
+            "CREDITO": "9.489.295",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "185.058",
+            "FIRMA ELLECTRONICA": "JULIO ALEJANDRO ARDILA GIRALDO - 1581532129",
+            "AL PIE DE LA FIRMA": "JULIO ALEJANDRO ARDILA GIRALDO - 1581532129"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1581532129",
+            "NOMBRES": "JULIO ALEJANDRO ARDILA GIRALDO",
+            "FECHA NACIMIENTO": "20/11/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.489.295",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JULIO ALEJANDRO ARDILA GIRALDO - 1581532129",
+            "AL PIE DE LA FIRMA": "JULIO ALEJANDRO ARDILA GIRALDO - 1581532129"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7370490",
+            "CEDULA": "1581532129",
+            "NOMBRES": "JULIO ALEJANDRO ARDILA GIRALDO",
+            "CREDITO": "9.489.295",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "185.058",
+            "E.A": "24.63%",
+            "RECOMPRA O DESEMBOLSO": "1.574.670",
+            "FIRMA ELLECTRONICA": "JULIO ALEJANDRO ARDILA GIRALDO - 1581532129"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1581532129",
+            "NOMBRES": "JULIO ALEJANDRO ARDILA GIRALDO",
+            "FIRMA ELLECTRONICA": "JULIO ALEJANDRO ARDILA GIRALDO - 1581532129"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1581532129",
+            "NOMBRES": "JULIO ALEJANDRO ARDILA GIRALDO",
+            "FIRMA ELLECTRONICA": "JULIO ALEJANDRO ARDILA GIRALDO - 1581532129",
+            "AL PIE DE LA FIRMA": "JULIO ALEJANDRO ARDILA GIRALDO - 1581532129"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO ALEJANDRO ARDILA GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1581532129",
+            "NOMBRES": "JULIO ALEJANDRO ARDILA GIRALDO",
+            "SALARIO": "1.524.830",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1581532129",
+            "NOMBRES": "JULIO ALEJANDRO ARDILA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "1.574.670"
+        }
+    }
+]

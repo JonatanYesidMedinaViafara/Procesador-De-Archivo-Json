@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "124877746064",
+            "SOLICITUD": "9218692",
+            "CEDULA": "1134255451",
+            "NOMBRES": "LUIS DAZA",
+            "RECOMPRA O DESEMBOLSO": "3.071.534",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1134255451"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "124877746064",
+            "NOMBRES": "LUIS DAZA",
+            "CREDITO": "7.582.773",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "289.138",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1134255451",
+            "AL PIE DE LA FIRMA": "LUIS DAZA - 1134255451"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1134255451",
+            "NOMBRES": "LUIS DAZA",
+            "FECHA NACIMIENTO": "30/12/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.582.773",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1134255451",
+            "AL PIE DE LA FIRMA": "LUIS DAZA - 1134255451"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9218692",
+            "CEDULA": "1134255451",
+            "NOMBRES": "LUIS DAZA",
+            "CREDITO": "7.582.773",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "289.138",
+            "E.A": "25.89%",
+            "RECOMPRA O DESEMBOLSO": "3.071.534",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1134255451"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1134255451",
+            "NOMBRES": "LUIS DAZA",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1134255451"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1134255451",
+            "NOMBRES": "LUIS DAZA",
+            "FIRMA ELLECTRONICA": "LUIS DAZA - 1134255451",
+            "AL PIE DE LA FIRMA": "LUIS DAZA - 1134255451"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS DAZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1134255451",
+            "NOMBRES": "LUIS DAZA",
+            "SALARIO": "1.719.233",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1134255451",
+            "NOMBRES": "LUIS DAZA",
+            "RECOMPRA O DESEMBOLSO": "3.071.534"
+        }
+    }
+]

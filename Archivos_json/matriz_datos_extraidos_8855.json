@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "151309525656",
+            "SOLICITUD": "8922378",
+            "CEDULA": "1465133845",
+            "NOMBRES": "MARÍA VERÓNICA RIVERA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.800.035",
+            "FIRMA ELLECTRONICA": "MARÍA VERÓNICA RIVERA PÉREZ - 1465133845"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "151309525656",
+            "NOMBRES": "MARÍA VERÓNICA RIVERA PÉREZ",
+            "CREDITO": "11.964.206",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "151.081",
+            "FIRMA ELLECTRONICA": "MARÍA VERÓNICA RIVERA PÉREZ - 1465133845",
+            "AL PIE DE LA FIRMA": "MARÍA VERÓNICA RIVERA PÉREZ - 1465133845"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1465133845",
+            "NOMBRES": "MARÍA VERÓNICA RIVERA PÉREZ",
+            "FECHA NACIMIENTO": "11/02/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.964.206",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA VERÓNICA RIVERA PÉREZ - 1465133845",
+            "AL PIE DE LA FIRMA": "MARÍA VERÓNICA RIVERA PÉREZ - 1465133845"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8922378",
+            "CEDULA": "1465133845",
+            "NOMBRES": "MARÍA VERÓNICA RIVERA PÉREZ",
+            "CREDITO": "11.964.206",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "151.081",
+            "E.A": "25.68%",
+            "RECOMPRA O DESEMBOLSO": "4.800.035",
+            "FIRMA ELLECTRONICA": "MARÍA VERÓNICA RIVERA PÉREZ - 1465133845"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1465133845",
+            "NOMBRES": "MARÍA VERÓNICA RIVERA PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA VERÓNICA RIVERA PÉREZ - 1465133845"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1465133845",
+            "NOMBRES": "MARÍA VERÓNICA RIVERA PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA VERÓNICA RIVERA PÉREZ - 1465133845",
+            "AL PIE DE LA FIRMA": "MARÍA VERÓNICA RIVERA PÉREZ - 1465133845"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA VERÓNICA RIVERA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1465133845",
+            "NOMBRES": "MARÍA VERÓNICA RIVERA PÉREZ",
+            "SALARIO": "3.589.176",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1465133845",
+            "NOMBRES": "MARÍA VERÓNICA RIVERA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.800.035"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "825132646047",
+            "SOLICITUD": "7365222",
+            "CEDULA": "1776585960",
+            "NOMBRES": "LUIS JULIÁN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.377.375",
+            "FIRMA ELLECTRONICA": "LUIS JULIÁN PÉREZ - 1776585960"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "825132646047",
+            "NOMBRES": "LUIS JULIÁN PÉREZ",
+            "CREDITO": "14.017.713",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "194.444",
+            "FIRMA ELLECTRONICA": "LUIS JULIÁN PÉREZ - 1776585960",
+            "AL PIE DE LA FIRMA": "LUIS JULIÁN PÉREZ - 1776585960"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1776585960",
+            "NOMBRES": "LUIS JULIÁN PÉREZ",
+            "FECHA NACIMIENTO": "13/12/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.017.713",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS JULIÁN PÉREZ - 1776585960",
+            "AL PIE DE LA FIRMA": "LUIS JULIÁN PÉREZ - 1776585960"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7365222",
+            "CEDULA": "1776585960",
+            "NOMBRES": "LUIS JULIÁN PÉREZ",
+            "CREDITO": "14.017.713",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "194.444",
+            "E.A": "24.95%",
+            "RECOMPRA O DESEMBOLSO": "3.377.375",
+            "FIRMA ELLECTRONICA": "LUIS JULIÁN PÉREZ - 1776585960"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1776585960",
+            "NOMBRES": "LUIS JULIÁN PÉREZ",
+            "FIRMA ELLECTRONICA": "LUIS JULIÁN PÉREZ - 1776585960"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1776585960",
+            "NOMBRES": "LUIS JULIÁN PÉREZ",
+            "FIRMA ELLECTRONICA": "LUIS JULIÁN PÉREZ - 1776585960",
+            "AL PIE DE LA FIRMA": "LUIS JULIÁN PÉREZ - 1776585960"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS JULIÁN PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1776585960",
+            "NOMBRES": "LUIS JULIÁN PÉREZ",
+            "SALARIO": "4.592.001",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1776585960",
+            "NOMBRES": "LUIS JULIÁN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.377.375"
+        }
+    }
+]

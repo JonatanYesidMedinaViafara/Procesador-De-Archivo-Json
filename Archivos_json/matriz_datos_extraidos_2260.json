@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "981803000122",
+            "SOLICITUD": "9633741",
+            "CEDULA": "1481718913",
+            "NOMBRES": "GUSTAVO JESÚS RUIZ",
+            "RECOMPRA O DESEMBOLSO": "4.682.257",
+            "FIRMA ELLECTRONICA": "GUSTAVO JESÚS RUIZ - 1481718913"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "981803000122",
+            "NOMBRES": "GUSTAVO JESÚS RUIZ",
+            "CREDITO": "15.496.715",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "164.942",
+            "FIRMA ELLECTRONICA": "GUSTAVO JESÚS RUIZ - 1481718913",
+            "AL PIE DE LA FIRMA": "GUSTAVO JESÚS RUIZ - 1481718913"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1481718913",
+            "NOMBRES": "GUSTAVO JESÚS RUIZ",
+            "FECHA NACIMIENTO": "20/10/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.496.715",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GUSTAVO JESÚS RUIZ - 1481718913",
+            "AL PIE DE LA FIRMA": "GUSTAVO JESÚS RUIZ - 1481718913"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9633741",
+            "CEDULA": "1481718913",
+            "NOMBRES": "GUSTAVO JESÚS RUIZ",
+            "CREDITO": "15.496.715",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "164.942",
+            "E.A": "26.49%",
+            "RECOMPRA O DESEMBOLSO": "4.682.257",
+            "FIRMA ELLECTRONICA": "GUSTAVO JESÚS RUIZ - 1481718913"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1481718913",
+            "NOMBRES": "GUSTAVO JESÚS RUIZ",
+            "FIRMA ELLECTRONICA": "GUSTAVO JESÚS RUIZ - 1481718913"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1481718913",
+            "NOMBRES": "GUSTAVO JESÚS RUIZ",
+            "FIRMA ELLECTRONICA": "GUSTAVO JESÚS RUIZ - 1481718913",
+            "AL PIE DE LA FIRMA": "GUSTAVO JESÚS RUIZ - 1481718913"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GUSTAVO JESÚS RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1481718913",
+            "NOMBRES": "GUSTAVO JESÚS RUIZ",
+            "SALARIO": "1.361.072",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1481718913",
+            "NOMBRES": "GUSTAVO JESÚS RUIZ",
+            "RECOMPRA O DESEMBOLSO": "4.682.257"
+        }
+    }
+]

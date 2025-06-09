@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "725829196878",
+            "SOLICITUD": "5025982",
+            "CEDULA": "1190818713",
+            "NOMBRES": "MANUEL PEDRO DURÁN",
+            "RECOMPRA O DESEMBOLSO": "3.077.870",
+            "FIRMA ELLECTRONICA": "MANUEL PEDRO DURÁN - 1190818713"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "725829196878",
+            "NOMBRES": "MANUEL PEDRO DURÁN",
+            "CREDITO": "12.523.636",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "237.456",
+            "FIRMA ELLECTRONICA": "MANUEL PEDRO DURÁN - 1190818713",
+            "AL PIE DE LA FIRMA": "MANUEL PEDRO DURÁN - 1190818713"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1190818713",
+            "NOMBRES": "MANUEL PEDRO DURÁN",
+            "FECHA NACIMIENTO": "08/08/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.523.636",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MANUEL PEDRO DURÁN - 1190818713",
+            "AL PIE DE LA FIRMA": "MANUEL PEDRO DURÁN - 1190818713"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5025982",
+            "CEDULA": "1190818713",
+            "NOMBRES": "MANUEL PEDRO DURÁN",
+            "CREDITO": "12.523.636",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "237.456",
+            "E.A": "20.72%",
+            "RECOMPRA O DESEMBOLSO": "3.077.870",
+            "FIRMA ELLECTRONICA": "MANUEL PEDRO DURÁN - 1190818713"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1190818713",
+            "NOMBRES": "MANUEL PEDRO DURÁN",
+            "FIRMA ELLECTRONICA": "MANUEL PEDRO DURÁN - 1190818713"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1190818713",
+            "NOMBRES": "MANUEL PEDRO DURÁN",
+            "FIRMA ELLECTRONICA": "MANUEL PEDRO DURÁN - 1190818713",
+            "AL PIE DE LA FIRMA": "MANUEL PEDRO DURÁN - 1190818713"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL PEDRO DURÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1190818713",
+            "NOMBRES": "MANUEL PEDRO DURÁN",
+            "SALARIO": "4.327.864",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1190818713",
+            "NOMBRES": "MANUEL PEDRO DURÁN",
+            "RECOMPRA O DESEMBOLSO": "3.077.870"
+        }
+    }
+]

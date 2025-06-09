@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "275720665282",
+            "SOLICITUD": "4852523",
+            "CEDULA": "1084167579",
+            "NOMBRES": "ÁNGELA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.107.686",
+            "FIRMA ELLECTRONICA": "ÁNGELA HERNÁNDEZ - 1084167579"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "275720665282",
+            "NOMBRES": "ÁNGELA HERNÁNDEZ",
+            "CREDITO": "6.707.726",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "227.202",
+            "FIRMA ELLECTRONICA": "ÁNGELA HERNÁNDEZ - 1084167579",
+            "AL PIE DE LA FIRMA": "ÁNGELA HERNÁNDEZ - 1084167579"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1084167579",
+            "NOMBRES": "ÁNGELA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "01/09/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.707.726",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ÁNGELA HERNÁNDEZ - 1084167579",
+            "AL PIE DE LA FIRMA": "ÁNGELA HERNÁNDEZ - 1084167579"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4852523",
+            "CEDULA": "1084167579",
+            "NOMBRES": "ÁNGELA HERNÁNDEZ",
+            "CREDITO": "6.707.726",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "227.202",
+            "E.A": "22.33%",
+            "RECOMPRA O DESEMBOLSO": "3.107.686",
+            "FIRMA ELLECTRONICA": "ÁNGELA HERNÁNDEZ - 1084167579"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1084167579",
+            "NOMBRES": "ÁNGELA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ÁNGELA HERNÁNDEZ - 1084167579"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1084167579",
+            "NOMBRES": "ÁNGELA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ÁNGELA HERNÁNDEZ - 1084167579",
+            "AL PIE DE LA FIRMA": "ÁNGELA HERNÁNDEZ - 1084167579"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGELA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1084167579",
+            "NOMBRES": "ÁNGELA HERNÁNDEZ",
+            "SALARIO": "1.704.790",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1084167579",
+            "NOMBRES": "ÁNGELA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.107.686"
+        }
+    }
+]

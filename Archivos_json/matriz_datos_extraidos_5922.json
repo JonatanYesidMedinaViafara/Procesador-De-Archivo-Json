@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "756217689072",
+            "SOLICITUD": "2140127",
+            "CEDULA": "1326473344",
+            "NOMBRES": "JOSÉ ALBERTO MOLINA",
+            "RECOMPRA O DESEMBOLSO": "1.226.023",
+            "FIRMA ELLECTRONICA": "JOSÉ ALBERTO MOLINA - 1326473344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "756217689072",
+            "NOMBRES": "JOSÉ ALBERTO MOLINA",
+            "CREDITO": "16.679.247",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "170.714",
+            "FIRMA ELLECTRONICA": "JOSÉ ALBERTO MOLINA - 1326473344",
+            "AL PIE DE LA FIRMA": "JOSÉ ALBERTO MOLINA - 1326473344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1326473344",
+            "NOMBRES": "JOSÉ ALBERTO MOLINA",
+            "FECHA NACIMIENTO": "27/02/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.679.247",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOSÉ ALBERTO MOLINA - 1326473344",
+            "AL PIE DE LA FIRMA": "JOSÉ ALBERTO MOLINA - 1326473344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2140127",
+            "CEDULA": "1326473344",
+            "NOMBRES": "JOSÉ ALBERTO MOLINA",
+            "CREDITO": "16.679.247",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "170.714",
+            "E.A": "22.58%",
+            "RECOMPRA O DESEMBOLSO": "1.226.023",
+            "FIRMA ELLECTRONICA": "JOSÉ ALBERTO MOLINA - 1326473344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1326473344",
+            "NOMBRES": "JOSÉ ALBERTO MOLINA",
+            "FIRMA ELLECTRONICA": "JOSÉ ALBERTO MOLINA - 1326473344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1326473344",
+            "NOMBRES": "JOSÉ ALBERTO MOLINA",
+            "FIRMA ELLECTRONICA": "JOSÉ ALBERTO MOLINA - 1326473344",
+            "AL PIE DE LA FIRMA": "JOSÉ ALBERTO MOLINA - 1326473344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ALBERTO MOLINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1326473344",
+            "NOMBRES": "JOSÉ ALBERTO MOLINA",
+            "SALARIO": "2.020.246",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1326473344",
+            "NOMBRES": "JOSÉ ALBERTO MOLINA",
+            "RECOMPRA O DESEMBOLSO": "1.226.023"
+        }
+    }
+]

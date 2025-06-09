@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "928710970823",
+            "SOLICITUD": "7863950",
+            "CEDULA": "1362432874",
+            "NOMBRES": "LINA MARÍA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.197.397",
+            "FIRMA ELLECTRONICA": "LINA MARÍA MUÑOZ - 1362432874"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "928710970823",
+            "NOMBRES": "LINA MARÍA MUÑOZ",
+            "CREDITO": "9.401.733",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "237.789",
+            "FIRMA ELLECTRONICA": "LINA MARÍA MUÑOZ - 1362432874",
+            "AL PIE DE LA FIRMA": "LINA MARÍA MUÑOZ - 1362432874"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1362432874",
+            "NOMBRES": "LINA MARÍA MUÑOZ",
+            "FECHA NACIMIENTO": "19/10/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.401.733",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LINA MARÍA MUÑOZ - 1362432874",
+            "AL PIE DE LA FIRMA": "LINA MARÍA MUÑOZ - 1362432874"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7863950",
+            "CEDULA": "1362432874",
+            "NOMBRES": "LINA MARÍA MUÑOZ",
+            "CREDITO": "9.401.733",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "237.789",
+            "E.A": "21.41%",
+            "RECOMPRA O DESEMBOLSO": "4.197.397",
+            "FIRMA ELLECTRONICA": "LINA MARÍA MUÑOZ - 1362432874"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1362432874",
+            "NOMBRES": "LINA MARÍA MUÑOZ",
+            "FIRMA ELLECTRONICA": "LINA MARÍA MUÑOZ - 1362432874"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1362432874",
+            "NOMBRES": "LINA MARÍA MUÑOZ",
+            "FIRMA ELLECTRONICA": "LINA MARÍA MUÑOZ - 1362432874",
+            "AL PIE DE LA FIRMA": "LINA MARÍA MUÑOZ - 1362432874"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LINA MARÍA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1362432874",
+            "NOMBRES": "LINA MARÍA MUÑOZ",
+            "SALARIO": "4.276.341",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1362432874",
+            "NOMBRES": "LINA MARÍA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.197.397"
+        }
+    }
+]

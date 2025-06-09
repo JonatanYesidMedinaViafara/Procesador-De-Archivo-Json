@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "483115977845",
+            "SOLICITUD": "2534296",
+            "CEDULA": "1530257451",
+            "NOMBRES": "ANTONIO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.877.935",
+            "FIRMA ELLECTRONICA": "ANTONIO FERNÁNDEZ - 1530257451"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "483115977845",
+            "NOMBRES": "ANTONIO FERNÁNDEZ",
+            "CREDITO": "19.235.812",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "152.492",
+            "FIRMA ELLECTRONICA": "ANTONIO FERNÁNDEZ - 1530257451",
+            "AL PIE DE LA FIRMA": "ANTONIO FERNÁNDEZ - 1530257451"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1530257451",
+            "NOMBRES": "ANTONIO FERNÁNDEZ",
+            "FECHA NACIMIENTO": "02/06/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.235.812",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANTONIO FERNÁNDEZ - 1530257451",
+            "AL PIE DE LA FIRMA": "ANTONIO FERNÁNDEZ - 1530257451"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2534296",
+            "CEDULA": "1530257451",
+            "NOMBRES": "ANTONIO FERNÁNDEZ",
+            "CREDITO": "19.235.812",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "152.492",
+            "E.A": "26.55%",
+            "RECOMPRA O DESEMBOLSO": "2.877.935",
+            "FIRMA ELLECTRONICA": "ANTONIO FERNÁNDEZ - 1530257451"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1530257451",
+            "NOMBRES": "ANTONIO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ANTONIO FERNÁNDEZ - 1530257451"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1530257451",
+            "NOMBRES": "ANTONIO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ANTONIO FERNÁNDEZ - 1530257451",
+            "AL PIE DE LA FIRMA": "ANTONIO FERNÁNDEZ - 1530257451"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1530257451",
+            "NOMBRES": "ANTONIO FERNÁNDEZ",
+            "SALARIO": "2.078.703",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1530257451",
+            "NOMBRES": "ANTONIO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.877.935"
+        }
+    }
+]

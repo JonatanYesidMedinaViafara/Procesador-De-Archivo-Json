@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "334973821040",
+            "SOLICITUD": "3944784",
+            "CEDULA": "1346220997",
+            "NOMBRES": "ANDREA CAICEDO",
+            "RECOMPRA O DESEMBOLSO": "2.181.027",
+            "FIRMA ELLECTRONICA": "ANDREA CAICEDO - 1346220997"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "334973821040",
+            "NOMBRES": "ANDREA CAICEDO",
+            "CREDITO": "14.121.949",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "240.983",
+            "FIRMA ELLECTRONICA": "ANDREA CAICEDO - 1346220997",
+            "AL PIE DE LA FIRMA": "ANDREA CAICEDO - 1346220997"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1346220997",
+            "NOMBRES": "ANDREA CAICEDO",
+            "FECHA NACIMIENTO": "17/01/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.121.949",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDREA CAICEDO - 1346220997",
+            "AL PIE DE LA FIRMA": "ANDREA CAICEDO - 1346220997"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3944784",
+            "CEDULA": "1346220997",
+            "NOMBRES": "ANDREA CAICEDO",
+            "CREDITO": "14.121.949",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "240.983",
+            "E.A": "20.8%",
+            "RECOMPRA O DESEMBOLSO": "2.181.027",
+            "FIRMA ELLECTRONICA": "ANDREA CAICEDO - 1346220997"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1346220997",
+            "NOMBRES": "ANDREA CAICEDO",
+            "FIRMA ELLECTRONICA": "ANDREA CAICEDO - 1346220997"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1346220997",
+            "NOMBRES": "ANDREA CAICEDO",
+            "FIRMA ELLECTRONICA": "ANDREA CAICEDO - 1346220997",
+            "AL PIE DE LA FIRMA": "ANDREA CAICEDO - 1346220997"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA CAICEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1346220997",
+            "NOMBRES": "ANDREA CAICEDO",
+            "SALARIO": "3.298.533",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1346220997",
+            "NOMBRES": "ANDREA CAICEDO",
+            "RECOMPRA O DESEMBOLSO": "2.181.027"
+        }
+    }
+]

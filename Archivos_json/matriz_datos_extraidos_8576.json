@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "363194819263",
+            "SOLICITUD": "1822535",
+            "CEDULA": "1631998776",
+            "NOMBRES": "TOMÁS ROBERTO SOTO CORREA",
+            "RECOMPRA O DESEMBOLSO": "3.620.220",
+            "FIRMA ELLECTRONICA": "TOMÁS ROBERTO SOTO CORREA - 1631998776"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "363194819263",
+            "NOMBRES": "TOMÁS ROBERTO SOTO CORREA",
+            "CREDITO": "7.244.372",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "345.217",
+            "FIRMA ELLECTRONICA": "TOMÁS ROBERTO SOTO CORREA - 1631998776",
+            "AL PIE DE LA FIRMA": "TOMÁS ROBERTO SOTO CORREA - 1631998776"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1631998776",
+            "NOMBRES": "TOMÁS ROBERTO SOTO CORREA",
+            "FECHA NACIMIENTO": "30/08/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.244.372",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "TOMÁS ROBERTO SOTO CORREA - 1631998776",
+            "AL PIE DE LA FIRMA": "TOMÁS ROBERTO SOTO CORREA - 1631998776"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1822535",
+            "CEDULA": "1631998776",
+            "NOMBRES": "TOMÁS ROBERTO SOTO CORREA",
+            "CREDITO": "7.244.372",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "345.217",
+            "E.A": "22.33%",
+            "RECOMPRA O DESEMBOLSO": "3.620.220",
+            "FIRMA ELLECTRONICA": "TOMÁS ROBERTO SOTO CORREA - 1631998776"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1631998776",
+            "NOMBRES": "TOMÁS ROBERTO SOTO CORREA",
+            "FIRMA ELLECTRONICA": "TOMÁS ROBERTO SOTO CORREA - 1631998776"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1631998776",
+            "NOMBRES": "TOMÁS ROBERTO SOTO CORREA",
+            "FIRMA ELLECTRONICA": "TOMÁS ROBERTO SOTO CORREA - 1631998776",
+            "AL PIE DE LA FIRMA": "TOMÁS ROBERTO SOTO CORREA - 1631998776"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TOMÁS ROBERTO SOTO CORREA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1631998776",
+            "NOMBRES": "TOMÁS ROBERTO SOTO CORREA",
+            "SALARIO": "2.602.308",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1631998776",
+            "NOMBRES": "TOMÁS ROBERTO SOTO CORREA",
+            "RECOMPRA O DESEMBOLSO": "3.620.220"
+        }
+    }
+]

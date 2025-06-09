@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "692268267334",
+            "SOLICITUD": "7629214",
+            "CEDULA": "1438076360",
+            "NOMBRES": "ROBERTO JOSÉ BECERRA",
+            "RECOMPRA O DESEMBOLSO": "4.999.182",
+            "FIRMA ELLECTRONICA": "ROBERTO JOSÉ BECERRA - 1438076360"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "692268267334",
+            "NOMBRES": "ROBERTO JOSÉ BECERRA",
+            "CREDITO": "18.296.655",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "185.664",
+            "FIRMA ELLECTRONICA": "ROBERTO JOSÉ BECERRA - 1438076360",
+            "AL PIE DE LA FIRMA": "ROBERTO JOSÉ BECERRA - 1438076360"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1438076360",
+            "NOMBRES": "ROBERTO JOSÉ BECERRA",
+            "FECHA NACIMIENTO": "22/10/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.296.655",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ROBERTO JOSÉ BECERRA - 1438076360",
+            "AL PIE DE LA FIRMA": "ROBERTO JOSÉ BECERRA - 1438076360"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7629214",
+            "CEDULA": "1438076360",
+            "NOMBRES": "ROBERTO JOSÉ BECERRA",
+            "CREDITO": "18.296.655",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "185.664",
+            "E.A": "22.43%",
+            "RECOMPRA O DESEMBOLSO": "4.999.182",
+            "FIRMA ELLECTRONICA": "ROBERTO JOSÉ BECERRA - 1438076360"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1438076360",
+            "NOMBRES": "ROBERTO JOSÉ BECERRA",
+            "FIRMA ELLECTRONICA": "ROBERTO JOSÉ BECERRA - 1438076360"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1438076360",
+            "NOMBRES": "ROBERTO JOSÉ BECERRA",
+            "FIRMA ELLECTRONICA": "ROBERTO JOSÉ BECERRA - 1438076360",
+            "AL PIE DE LA FIRMA": "ROBERTO JOSÉ BECERRA - 1438076360"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROBERTO JOSÉ BECERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1438076360",
+            "NOMBRES": "ROBERTO JOSÉ BECERRA",
+            "SALARIO": "3.861.067",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1438076360",
+            "NOMBRES": "ROBERTO JOSÉ BECERRA",
+            "RECOMPRA O DESEMBOLSO": "4.999.182"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "529930930812",
+            "SOLICITUD": "8990540",
+            "CEDULA": "1403601041",
+            "NOMBRES": "JULIO JEFERSON GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.219.366",
+            "FIRMA ELLECTRONICA": "JULIO JEFERSON GONZÁLEZ - 1403601041"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "529930930812",
+            "NOMBRES": "JULIO JEFERSON GONZÁLEZ",
+            "CREDITO": "12.045.537",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "280.348",
+            "FIRMA ELLECTRONICA": "JULIO JEFERSON GONZÁLEZ - 1403601041",
+            "AL PIE DE LA FIRMA": "JULIO JEFERSON GONZÁLEZ - 1403601041"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1403601041",
+            "NOMBRES": "JULIO JEFERSON GONZÁLEZ",
+            "FECHA NACIMIENTO": "04/01/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.045.537",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JULIO JEFERSON GONZÁLEZ - 1403601041",
+            "AL PIE DE LA FIRMA": "JULIO JEFERSON GONZÁLEZ - 1403601041"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8990540",
+            "CEDULA": "1403601041",
+            "NOMBRES": "JULIO JEFERSON GONZÁLEZ",
+            "CREDITO": "12.045.537",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "280.348",
+            "E.A": "26.6%",
+            "RECOMPRA O DESEMBOLSO": "1.219.366",
+            "FIRMA ELLECTRONICA": "JULIO JEFERSON GONZÁLEZ - 1403601041"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1403601041",
+            "NOMBRES": "JULIO JEFERSON GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "JULIO JEFERSON GONZÁLEZ - 1403601041"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1403601041",
+            "NOMBRES": "JULIO JEFERSON GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "JULIO JEFERSON GONZÁLEZ - 1403601041",
+            "AL PIE DE LA FIRMA": "JULIO JEFERSON GONZÁLEZ - 1403601041"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO JEFERSON GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1403601041",
+            "NOMBRES": "JULIO JEFERSON GONZÁLEZ",
+            "SALARIO": "2.203.170",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1403601041",
+            "NOMBRES": "JULIO JEFERSON GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.219.366"
+        }
+    }
+]

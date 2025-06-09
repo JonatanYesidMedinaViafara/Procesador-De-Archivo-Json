@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "754717919332",
+            "SOLICITUD": "6342498",
+            "CEDULA": "1931104310",
+            "NOMBRES": "FELIX DÍAZ ESPITIA",
+            "RECOMPRA O DESEMBOLSO": "4.152.675",
+            "FIRMA ELLECTRONICA": "FELIX DÍAZ ESPITIA - 1931104310"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "754717919332",
+            "NOMBRES": "FELIX DÍAZ ESPITIA",
+            "CREDITO": "9.560.462",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "168.951",
+            "FIRMA ELLECTRONICA": "FELIX DÍAZ ESPITIA - 1931104310",
+            "AL PIE DE LA FIRMA": "FELIX DÍAZ ESPITIA - 1931104310"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1931104310",
+            "NOMBRES": "FELIX DÍAZ ESPITIA",
+            "FECHA NACIMIENTO": "11/08/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.560.462",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FELIX DÍAZ ESPITIA - 1931104310",
+            "AL PIE DE LA FIRMA": "FELIX DÍAZ ESPITIA - 1931104310"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6342498",
+            "CEDULA": "1931104310",
+            "NOMBRES": "FELIX DÍAZ ESPITIA",
+            "CREDITO": "9.560.462",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "168.951",
+            "E.A": "18.41%",
+            "RECOMPRA O DESEMBOLSO": "4.152.675",
+            "FIRMA ELLECTRONICA": "FELIX DÍAZ ESPITIA - 1931104310"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1931104310",
+            "NOMBRES": "FELIX DÍAZ ESPITIA",
+            "FIRMA ELLECTRONICA": "FELIX DÍAZ ESPITIA - 1931104310"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1931104310",
+            "NOMBRES": "FELIX DÍAZ ESPITIA",
+            "FIRMA ELLECTRONICA": "FELIX DÍAZ ESPITIA - 1931104310",
+            "AL PIE DE LA FIRMA": "FELIX DÍAZ ESPITIA - 1931104310"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FELIX DÍAZ ESPITIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1931104310",
+            "NOMBRES": "FELIX DÍAZ ESPITIA",
+            "SALARIO": "1.278.570",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1931104310",
+            "NOMBRES": "FELIX DÍAZ ESPITIA",
+            "RECOMPRA O DESEMBOLSO": "4.152.675"
+        }
+    }
+]

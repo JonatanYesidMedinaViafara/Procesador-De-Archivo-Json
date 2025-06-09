@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "674818381125",
+            "SOLICITUD": "8350990",
+            "CEDULA": "1163558828",
+            "NOMBRES": "ANDRÉS RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.009.972",
+            "FIRMA ELLECTRONICA": "ANDRÉS RODRÍGUEZ - 1163558828"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "674818381125",
+            "NOMBRES": "ANDRÉS RODRÍGUEZ",
+            "CREDITO": "19.719.999",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.626",
+            "FIRMA ELLECTRONICA": "ANDRÉS RODRÍGUEZ - 1163558828",
+            "AL PIE DE LA FIRMA": "ANDRÉS RODRÍGUEZ - 1163558828"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1163558828",
+            "NOMBRES": "ANDRÉS RODRÍGUEZ",
+            "FECHA NACIMIENTO": "31/07/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.719.999",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS RODRÍGUEZ - 1163558828",
+            "AL PIE DE LA FIRMA": "ANDRÉS RODRÍGUEZ - 1163558828"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8350990",
+            "CEDULA": "1163558828",
+            "NOMBRES": "ANDRÉS RODRÍGUEZ",
+            "CREDITO": "19.719.999",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.626",
+            "E.A": "20.93%",
+            "RECOMPRA O DESEMBOLSO": "1.009.972",
+            "FIRMA ELLECTRONICA": "ANDRÉS RODRÍGUEZ - 1163558828"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1163558828",
+            "NOMBRES": "ANDRÉS RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS RODRÍGUEZ - 1163558828"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1163558828",
+            "NOMBRES": "ANDRÉS RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS RODRÍGUEZ - 1163558828",
+            "AL PIE DE LA FIRMA": "ANDRÉS RODRÍGUEZ - 1163558828"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1163558828",
+            "NOMBRES": "ANDRÉS RODRÍGUEZ",
+            "SALARIO": "4.077.285",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1163558828",
+            "NOMBRES": "ANDRÉS RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.009.972"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "751481697375",
+            "SOLICITUD": "3931300",
+            "CEDULA": "1405021121",
+            "NOMBRES": "DANILO PINEDA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "1.890.494",
+            "FIRMA ELLECTRONICA": "DANILO PINEDA VARGAS - 1405021121"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "751481697375",
+            "NOMBRES": "DANILO PINEDA VARGAS",
+            "CREDITO": "9.067.547",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "184.786",
+            "FIRMA ELLECTRONICA": "DANILO PINEDA VARGAS - 1405021121",
+            "AL PIE DE LA FIRMA": "DANILO PINEDA VARGAS - 1405021121"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1405021121",
+            "NOMBRES": "DANILO PINEDA VARGAS",
+            "FECHA NACIMIENTO": "10/06/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.067.547",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DANILO PINEDA VARGAS - 1405021121",
+            "AL PIE DE LA FIRMA": "DANILO PINEDA VARGAS - 1405021121"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3931300",
+            "CEDULA": "1405021121",
+            "NOMBRES": "DANILO PINEDA VARGAS",
+            "CREDITO": "9.067.547",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "184.786",
+            "E.A": "21.55%",
+            "RECOMPRA O DESEMBOLSO": "1.890.494",
+            "FIRMA ELLECTRONICA": "DANILO PINEDA VARGAS - 1405021121"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1405021121",
+            "NOMBRES": "DANILO PINEDA VARGAS",
+            "FIRMA ELLECTRONICA": "DANILO PINEDA VARGAS - 1405021121"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1405021121",
+            "NOMBRES": "DANILO PINEDA VARGAS",
+            "FIRMA ELLECTRONICA": "DANILO PINEDA VARGAS - 1405021121",
+            "AL PIE DE LA FIRMA": "DANILO PINEDA VARGAS - 1405021121"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANILO PINEDA VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1405021121",
+            "NOMBRES": "DANILO PINEDA VARGAS",
+            "SALARIO": "2.262.727",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1405021121",
+            "NOMBRES": "DANILO PINEDA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "1.890.494"
+        }
+    }
+]

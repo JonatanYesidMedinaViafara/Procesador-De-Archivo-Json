@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "347420348140",
+            "SOLICITUD": "8261348",
+            "CEDULA": "1912286296",
+            "NOMBRES": "MARÍA LUZ FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.606.053",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ FLÓREZ - 1912286296"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "347420348140",
+            "NOMBRES": "MARÍA LUZ FLÓREZ",
+            "CREDITO": "9.524.228",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "350.899",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ FLÓREZ - 1912286296",
+            "AL PIE DE LA FIRMA": "MARÍA LUZ FLÓREZ - 1912286296"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1912286296",
+            "NOMBRES": "MARÍA LUZ FLÓREZ",
+            "FECHA NACIMIENTO": "24/07/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.524.228",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ FLÓREZ - 1912286296",
+            "AL PIE DE LA FIRMA": "MARÍA LUZ FLÓREZ - 1912286296"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8261348",
+            "CEDULA": "1912286296",
+            "NOMBRES": "MARÍA LUZ FLÓREZ",
+            "CREDITO": "9.524.228",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "350.899",
+            "E.A": "18.24%",
+            "RECOMPRA O DESEMBOLSO": "4.606.053",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ FLÓREZ - 1912286296"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1912286296",
+            "NOMBRES": "MARÍA LUZ FLÓREZ",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ FLÓREZ - 1912286296"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1912286296",
+            "NOMBRES": "MARÍA LUZ FLÓREZ",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ FLÓREZ - 1912286296",
+            "AL PIE DE LA FIRMA": "MARÍA LUZ FLÓREZ - 1912286296"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LUZ FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1912286296",
+            "NOMBRES": "MARÍA LUZ FLÓREZ",
+            "SALARIO": "1.173.010",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1912286296",
+            "NOMBRES": "MARÍA LUZ FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.606.053"
+        }
+    }
+]

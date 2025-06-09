@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "515551696581",
+            "SOLICITUD": "5174169",
+            "CEDULA": "1909154752",
+            "NOMBRES": "RAFAEL ANAYA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.689.480",
+            "FIRMA ELLECTRONICA": "RAFAEL ANAYA DÍAZ - 1909154752"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "515551696581",
+            "NOMBRES": "RAFAEL ANAYA DÍAZ",
+            "CREDITO": "10.397.302",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "395.054",
+            "FIRMA ELLECTRONICA": "RAFAEL ANAYA DÍAZ - 1909154752",
+            "AL PIE DE LA FIRMA": "RAFAEL ANAYA DÍAZ - 1909154752"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1909154752",
+            "NOMBRES": "RAFAEL ANAYA DÍAZ",
+            "FECHA NACIMIENTO": "07/09/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.397.302",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RAFAEL ANAYA DÍAZ - 1909154752",
+            "AL PIE DE LA FIRMA": "RAFAEL ANAYA DÍAZ - 1909154752"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5174169",
+            "CEDULA": "1909154752",
+            "NOMBRES": "RAFAEL ANAYA DÍAZ",
+            "CREDITO": "10.397.302",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "395.054",
+            "E.A": "27.82%",
+            "RECOMPRA O DESEMBOLSO": "2.689.480",
+            "FIRMA ELLECTRONICA": "RAFAEL ANAYA DÍAZ - 1909154752"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1909154752",
+            "NOMBRES": "RAFAEL ANAYA DÍAZ",
+            "FIRMA ELLECTRONICA": "RAFAEL ANAYA DÍAZ - 1909154752"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1909154752",
+            "NOMBRES": "RAFAEL ANAYA DÍAZ",
+            "FIRMA ELLECTRONICA": "RAFAEL ANAYA DÍAZ - 1909154752",
+            "AL PIE DE LA FIRMA": "RAFAEL ANAYA DÍAZ - 1909154752"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL ANAYA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1909154752",
+            "NOMBRES": "RAFAEL ANAYA DÍAZ",
+            "SALARIO": "2.579.406",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1909154752",
+            "NOMBRES": "RAFAEL ANAYA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.689.480"
+        }
+    }
+]

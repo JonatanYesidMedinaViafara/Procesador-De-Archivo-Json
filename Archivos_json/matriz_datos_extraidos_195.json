@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "114760297381",
+            "SOLICITUD": "4692539",
+            "CEDULA": "1957989586",
+            "NOMBRES": "LUIS HERNÁNDEZ VÉLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.410.183",
+            "FIRMA ELLECTRONICA": "LUIS HERNÁNDEZ VÉLEZ - 1957989586"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "114760297381",
+            "NOMBRES": "LUIS HERNÁNDEZ VÉLEZ",
+            "CREDITO": "14.058.711",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "317.211",
+            "FIRMA ELLECTRONICA": "LUIS HERNÁNDEZ VÉLEZ - 1957989586",
+            "AL PIE DE LA FIRMA": "LUIS HERNÁNDEZ VÉLEZ - 1957989586"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1957989586",
+            "NOMBRES": "LUIS HERNÁNDEZ VÉLEZ",
+            "FECHA NACIMIENTO": "29/10/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.058.711",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS HERNÁNDEZ VÉLEZ - 1957989586",
+            "AL PIE DE LA FIRMA": "LUIS HERNÁNDEZ VÉLEZ - 1957989586"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4692539",
+            "CEDULA": "1957989586",
+            "NOMBRES": "LUIS HERNÁNDEZ VÉLEZ",
+            "CREDITO": "14.058.711",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "317.211",
+            "E.A": "24.62%",
+            "RECOMPRA O DESEMBOLSO": "2.410.183",
+            "FIRMA ELLECTRONICA": "LUIS HERNÁNDEZ VÉLEZ - 1957989586"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1957989586",
+            "NOMBRES": "LUIS HERNÁNDEZ VÉLEZ",
+            "FIRMA ELLECTRONICA": "LUIS HERNÁNDEZ VÉLEZ - 1957989586"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1957989586",
+            "NOMBRES": "LUIS HERNÁNDEZ VÉLEZ",
+            "FIRMA ELLECTRONICA": "LUIS HERNÁNDEZ VÉLEZ - 1957989586",
+            "AL PIE DE LA FIRMA": "LUIS HERNÁNDEZ VÉLEZ - 1957989586"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS HERNÁNDEZ VÉLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1957989586",
+            "NOMBRES": "LUIS HERNÁNDEZ VÉLEZ",
+            "SALARIO": "4.416.764",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1957989586",
+            "NOMBRES": "LUIS HERNÁNDEZ VÉLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.410.183"
+        }
+    }
+]

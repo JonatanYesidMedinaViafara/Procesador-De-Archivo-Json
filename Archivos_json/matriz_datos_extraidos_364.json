@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "183956167818",
+            "SOLICITUD": "1293169",
+            "CEDULA": "1818217915",
+            "NOMBRES": "SMITH BUITRAGO MONTES",
+            "RECOMPRA O DESEMBOLSO": "1.869.190",
+            "FIRMA ELLECTRONICA": "SMITH BUITRAGO MONTES - 1818217915"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "183956167818",
+            "NOMBRES": "SMITH BUITRAGO MONTES",
+            "CREDITO": "16.115.329",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "273.927",
+            "FIRMA ELLECTRONICA": "SMITH BUITRAGO MONTES - 1818217915",
+            "AL PIE DE LA FIRMA": "SMITH BUITRAGO MONTES - 1818217915"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1818217915",
+            "NOMBRES": "SMITH BUITRAGO MONTES",
+            "FECHA NACIMIENTO": "23/10/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.115.329",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SMITH BUITRAGO MONTES - 1818217915",
+            "AL PIE DE LA FIRMA": "SMITH BUITRAGO MONTES - 1818217915"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1293169",
+            "CEDULA": "1818217915",
+            "NOMBRES": "SMITH BUITRAGO MONTES",
+            "CREDITO": "16.115.329",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "273.927",
+            "E.A": "24.61%",
+            "RECOMPRA O DESEMBOLSO": "1.869.190",
+            "FIRMA ELLECTRONICA": "SMITH BUITRAGO MONTES - 1818217915"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1818217915",
+            "NOMBRES": "SMITH BUITRAGO MONTES",
+            "FIRMA ELLECTRONICA": "SMITH BUITRAGO MONTES - 1818217915"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1818217915",
+            "NOMBRES": "SMITH BUITRAGO MONTES",
+            "FIRMA ELLECTRONICA": "SMITH BUITRAGO MONTES - 1818217915",
+            "AL PIE DE LA FIRMA": "SMITH BUITRAGO MONTES - 1818217915"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SMITH BUITRAGO MONTES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1818217915",
+            "NOMBRES": "SMITH BUITRAGO MONTES",
+            "SALARIO": "3.029.472",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1818217915",
+            "NOMBRES": "SMITH BUITRAGO MONTES",
+            "RECOMPRA O DESEMBOLSO": "1.869.190"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "545560510238",
+            "SOLICITUD": "6323270",
+            "CEDULA": "1961843664",
+            "NOMBRES": "RODRIGO LUIS GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "4.704.917",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS GUTIÉRREZ - 1961843664"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "545560510238",
+            "NOMBRES": "RODRIGO LUIS GUTIÉRREZ",
+            "CREDITO": "9.012.044",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "203.922",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS GUTIÉRREZ - 1961843664",
+            "AL PIE DE LA FIRMA": "RODRIGO LUIS GUTIÉRREZ - 1961843664"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1961843664",
+            "NOMBRES": "RODRIGO LUIS GUTIÉRREZ",
+            "FECHA NACIMIENTO": "29/07/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.012.044",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS GUTIÉRREZ - 1961843664",
+            "AL PIE DE LA FIRMA": "RODRIGO LUIS GUTIÉRREZ - 1961843664"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6323270",
+            "CEDULA": "1961843664",
+            "NOMBRES": "RODRIGO LUIS GUTIÉRREZ",
+            "CREDITO": "9.012.044",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "203.922",
+            "E.A": "25.78%",
+            "RECOMPRA O DESEMBOLSO": "4.704.917",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS GUTIÉRREZ - 1961843664"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1961843664",
+            "NOMBRES": "RODRIGO LUIS GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS GUTIÉRREZ - 1961843664"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1961843664",
+            "NOMBRES": "RODRIGO LUIS GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS GUTIÉRREZ - 1961843664",
+            "AL PIE DE LA FIRMA": "RODRIGO LUIS GUTIÉRREZ - 1961843664"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RODRIGO LUIS GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1961843664",
+            "NOMBRES": "RODRIGO LUIS GUTIÉRREZ",
+            "SALARIO": "2.530.490",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1961843664",
+            "NOMBRES": "RODRIGO LUIS GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "4.704.917"
+        }
+    }
+]

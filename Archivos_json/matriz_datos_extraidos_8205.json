@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "694803253829",
+            "SOLICITUD": "2289641",
+            "CEDULA": "1622994278",
+            "NOMBRES": "MARÍA DÍAZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.313.016",
+            "FIRMA ELLECTRONICA": "MARÍA DÍAZ PÉREZ - 1622994278"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "694803253829",
+            "NOMBRES": "MARÍA DÍAZ PÉREZ",
+            "CREDITO": "5.338.677",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "258.719",
+            "FIRMA ELLECTRONICA": "MARÍA DÍAZ PÉREZ - 1622994278",
+            "AL PIE DE LA FIRMA": "MARÍA DÍAZ PÉREZ - 1622994278"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1622994278",
+            "NOMBRES": "MARÍA DÍAZ PÉREZ",
+            "FECHA NACIMIENTO": "17/09/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.338.677",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA DÍAZ PÉREZ - 1622994278",
+            "AL PIE DE LA FIRMA": "MARÍA DÍAZ PÉREZ - 1622994278"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2289641",
+            "CEDULA": "1622994278",
+            "NOMBRES": "MARÍA DÍAZ PÉREZ",
+            "CREDITO": "5.338.677",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "258.719",
+            "E.A": "27.63%",
+            "RECOMPRA O DESEMBOLSO": "2.313.016",
+            "FIRMA ELLECTRONICA": "MARÍA DÍAZ PÉREZ - 1622994278"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1622994278",
+            "NOMBRES": "MARÍA DÍAZ PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA DÍAZ PÉREZ - 1622994278"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1622994278",
+            "NOMBRES": "MARÍA DÍAZ PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA DÍAZ PÉREZ - 1622994278",
+            "AL PIE DE LA FIRMA": "MARÍA DÍAZ PÉREZ - 1622994278"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA DÍAZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1622994278",
+            "NOMBRES": "MARÍA DÍAZ PÉREZ",
+            "SALARIO": "4.582.972",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1622994278",
+            "NOMBRES": "MARÍA DÍAZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.313.016"
+        }
+    }
+]

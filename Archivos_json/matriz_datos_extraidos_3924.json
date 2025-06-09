@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "702220324327",
+            "SOLICITUD": "9368395",
+            "CEDULA": "1285662795",
+            "NOMBRES": "PAOLA MORA",
+            "RECOMPRA O DESEMBOLSO": "4.548.393",
+            "FIRMA ELLECTRONICA": "PAOLA MORA - 1285662795"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "702220324327",
+            "NOMBRES": "PAOLA MORA",
+            "CREDITO": "8.935.438",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "285.54",
+            "FIRMA ELLECTRONICA": "PAOLA MORA - 1285662795",
+            "AL PIE DE LA FIRMA": "PAOLA MORA - 1285662795"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1285662795",
+            "NOMBRES": "PAOLA MORA",
+            "FECHA NACIMIENTO": "12/08/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.935.438",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PAOLA MORA - 1285662795",
+            "AL PIE DE LA FIRMA": "PAOLA MORA - 1285662795"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9368395",
+            "CEDULA": "1285662795",
+            "NOMBRES": "PAOLA MORA",
+            "CREDITO": "8.935.438",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "285.54",
+            "E.A": "20.37%",
+            "RECOMPRA O DESEMBOLSO": "4.548.393",
+            "FIRMA ELLECTRONICA": "PAOLA MORA - 1285662795"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1285662795",
+            "NOMBRES": "PAOLA MORA",
+            "FIRMA ELLECTRONICA": "PAOLA MORA - 1285662795"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1285662795",
+            "NOMBRES": "PAOLA MORA",
+            "FIRMA ELLECTRONICA": "PAOLA MORA - 1285662795",
+            "AL PIE DE LA FIRMA": "PAOLA MORA - 1285662795"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA MORA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1285662795",
+            "NOMBRES": "PAOLA MORA",
+            "SALARIO": "4.552.682",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1285662795",
+            "NOMBRES": "PAOLA MORA",
+            "RECOMPRA O DESEMBOLSO": "4.548.393"
+        }
+    }
+]

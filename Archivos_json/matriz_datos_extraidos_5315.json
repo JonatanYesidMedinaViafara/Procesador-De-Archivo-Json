@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "603684513299",
+            "SOLICITUD": "7687754",
+            "CEDULA": "1542044760",
+            "NOMBRES": "PATRICIA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.328.959",
+            "FIRMA ELLECTRONICA": "PATRICIA HERNÁNDEZ - 1542044760"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "603684513299",
+            "NOMBRES": "PATRICIA HERNÁNDEZ",
+            "CREDITO": "13.111.597",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "358.141",
+            "FIRMA ELLECTRONICA": "PATRICIA HERNÁNDEZ - 1542044760",
+            "AL PIE DE LA FIRMA": "PATRICIA HERNÁNDEZ - 1542044760"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1542044760",
+            "NOMBRES": "PATRICIA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "17/11/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.111.597",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "PATRICIA HERNÁNDEZ - 1542044760",
+            "AL PIE DE LA FIRMA": "PATRICIA HERNÁNDEZ - 1542044760"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7687754",
+            "CEDULA": "1542044760",
+            "NOMBRES": "PATRICIA HERNÁNDEZ",
+            "CREDITO": "13.111.597",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "358.141",
+            "E.A": "25.57%",
+            "RECOMPRA O DESEMBOLSO": "2.328.959",
+            "FIRMA ELLECTRONICA": "PATRICIA HERNÁNDEZ - 1542044760"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1542044760",
+            "NOMBRES": "PATRICIA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "PATRICIA HERNÁNDEZ - 1542044760"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1542044760",
+            "NOMBRES": "PATRICIA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "PATRICIA HERNÁNDEZ - 1542044760",
+            "AL PIE DE LA FIRMA": "PATRICIA HERNÁNDEZ - 1542044760"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1542044760",
+            "NOMBRES": "PATRICIA HERNÁNDEZ",
+            "SALARIO": "3.721.506",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1542044760",
+            "NOMBRES": "PATRICIA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.328.959"
+        }
+    }
+]

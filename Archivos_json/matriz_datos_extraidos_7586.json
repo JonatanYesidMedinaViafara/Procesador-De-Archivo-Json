@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "366631533969",
+            "SOLICITUD": "9095462",
+            "CEDULA": "1966064706",
+            "NOMBRES": "LINA NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "1.354.845",
+            "FIRMA ELLECTRONICA": "LINA NAVARRO - 1966064706"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "366631533969",
+            "NOMBRES": "LINA NAVARRO",
+            "CREDITO": "12.430.023",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "319.884",
+            "FIRMA ELLECTRONICA": "LINA NAVARRO - 1966064706",
+            "AL PIE DE LA FIRMA": "LINA NAVARRO - 1966064706"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1966064706",
+            "NOMBRES": "LINA NAVARRO",
+            "FECHA NACIMIENTO": "19/12/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.430.023",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LINA NAVARRO - 1966064706",
+            "AL PIE DE LA FIRMA": "LINA NAVARRO - 1966064706"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9095462",
+            "CEDULA": "1966064706",
+            "NOMBRES": "LINA NAVARRO",
+            "CREDITO": "12.430.023",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "319.884",
+            "E.A": "25.94%",
+            "RECOMPRA O DESEMBOLSO": "1.354.845",
+            "FIRMA ELLECTRONICA": "LINA NAVARRO - 1966064706"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1966064706",
+            "NOMBRES": "LINA NAVARRO",
+            "FIRMA ELLECTRONICA": "LINA NAVARRO - 1966064706"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1966064706",
+            "NOMBRES": "LINA NAVARRO",
+            "FIRMA ELLECTRONICA": "LINA NAVARRO - 1966064706",
+            "AL PIE DE LA FIRMA": "LINA NAVARRO - 1966064706"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LINA NAVARRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1966064706",
+            "NOMBRES": "LINA NAVARRO",
+            "SALARIO": "2.922.201",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1966064706",
+            "NOMBRES": "LINA NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "1.354.845"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "907280614260",
+            "SOLICITUD": "1559145",
+            "CEDULA": "1965270976",
+            "NOMBRES": "MARIO MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.634.886",
+            "FIRMA ELLECTRONICA": "MARIO MOSQUERA - 1965270976"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "907280614260",
+            "NOMBRES": "MARIO MOSQUERA",
+            "CREDITO": "8.486.826",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "292.623",
+            "FIRMA ELLECTRONICA": "MARIO MOSQUERA - 1965270976",
+            "AL PIE DE LA FIRMA": "MARIO MOSQUERA - 1965270976"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1965270976",
+            "NOMBRES": "MARIO MOSQUERA",
+            "FECHA NACIMIENTO": "12/08/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.486.826",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARIO MOSQUERA - 1965270976",
+            "AL PIE DE LA FIRMA": "MARIO MOSQUERA - 1965270976"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1559145",
+            "CEDULA": "1965270976",
+            "NOMBRES": "MARIO MOSQUERA",
+            "CREDITO": "8.486.826",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "292.623",
+            "E.A": "27.11%",
+            "RECOMPRA O DESEMBOLSO": "1.634.886",
+            "FIRMA ELLECTRONICA": "MARIO MOSQUERA - 1965270976"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1965270976",
+            "NOMBRES": "MARIO MOSQUERA",
+            "FIRMA ELLECTRONICA": "MARIO MOSQUERA - 1965270976"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1965270976",
+            "NOMBRES": "MARIO MOSQUERA",
+            "FIRMA ELLECTRONICA": "MARIO MOSQUERA - 1965270976",
+            "AL PIE DE LA FIRMA": "MARIO MOSQUERA - 1965270976"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIO MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1965270976",
+            "NOMBRES": "MARIO MOSQUERA",
+            "SALARIO": "3.802.546",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1965270976",
+            "NOMBRES": "MARIO MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.634.886"
+        }
+    }
+]

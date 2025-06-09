@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "185111738066",
+            "SOLICITUD": "2186711",
+            "CEDULA": "1190990740",
+            "NOMBRES": "DAVID JOHN AMAYA",
+            "RECOMPRA O DESEMBOLSO": "2.736.686",
+            "FIRMA ELLECTRONICA": "DAVID JOHN AMAYA - 1190990740"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "185111738066",
+            "NOMBRES": "DAVID JOHN AMAYA",
+            "CREDITO": "16.976.791",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "102.224",
+            "FIRMA ELLECTRONICA": "DAVID JOHN AMAYA - 1190990740",
+            "AL PIE DE LA FIRMA": "DAVID JOHN AMAYA - 1190990740"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1190990740",
+            "NOMBRES": "DAVID JOHN AMAYA",
+            "FECHA NACIMIENTO": "21/08/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.976.791",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DAVID JOHN AMAYA - 1190990740",
+            "AL PIE DE LA FIRMA": "DAVID JOHN AMAYA - 1190990740"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2186711",
+            "CEDULA": "1190990740",
+            "NOMBRES": "DAVID JOHN AMAYA",
+            "CREDITO": "16.976.791",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "102.224",
+            "E.A": "18.47%",
+            "RECOMPRA O DESEMBOLSO": "2.736.686",
+            "FIRMA ELLECTRONICA": "DAVID JOHN AMAYA - 1190990740"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1190990740",
+            "NOMBRES": "DAVID JOHN AMAYA",
+            "FIRMA ELLECTRONICA": "DAVID JOHN AMAYA - 1190990740"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1190990740",
+            "NOMBRES": "DAVID JOHN AMAYA",
+            "FIRMA ELLECTRONICA": "DAVID JOHN AMAYA - 1190990740",
+            "AL PIE DE LA FIRMA": "DAVID JOHN AMAYA - 1190990740"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID JOHN AMAYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1190990740",
+            "NOMBRES": "DAVID JOHN AMAYA",
+            "SALARIO": "1.177.107",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1190990740",
+            "NOMBRES": "DAVID JOHN AMAYA",
+            "RECOMPRA O DESEMBOLSO": "2.736.686"
+        }
+    }
+]

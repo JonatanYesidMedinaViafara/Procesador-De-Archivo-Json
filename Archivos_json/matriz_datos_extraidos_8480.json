@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "872207056811",
+            "SOLICITUD": "1278959",
+            "CEDULA": "1998803886",
+            "NOMBRES": "LUZ HELENA PÉREZ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.285.504",
+            "FIRMA ELLECTRONICA": "LUZ HELENA PÉREZ RODRÍGUEZ - 1998803886"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "872207056811",
+            "NOMBRES": "LUZ HELENA PÉREZ RODRÍGUEZ",
+            "CREDITO": "10.356.060",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "377.947",
+            "FIRMA ELLECTRONICA": "LUZ HELENA PÉREZ RODRÍGUEZ - 1998803886",
+            "AL PIE DE LA FIRMA": "LUZ HELENA PÉREZ RODRÍGUEZ - 1998803886"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1998803886",
+            "NOMBRES": "LUZ HELENA PÉREZ RODRÍGUEZ",
+            "FECHA NACIMIENTO": "05/01/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.356.060",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ HELENA PÉREZ RODRÍGUEZ - 1998803886",
+            "AL PIE DE LA FIRMA": "LUZ HELENA PÉREZ RODRÍGUEZ - 1998803886"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1278959",
+            "CEDULA": "1998803886",
+            "NOMBRES": "LUZ HELENA PÉREZ RODRÍGUEZ",
+            "CREDITO": "10.356.060",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "377.947",
+            "E.A": "22.48%",
+            "RECOMPRA O DESEMBOLSO": "4.285.504",
+            "FIRMA ELLECTRONICA": "LUZ HELENA PÉREZ RODRÍGUEZ - 1998803886"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1998803886",
+            "NOMBRES": "LUZ HELENA PÉREZ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LUZ HELENA PÉREZ RODRÍGUEZ - 1998803886"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1998803886",
+            "NOMBRES": "LUZ HELENA PÉREZ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LUZ HELENA PÉREZ RODRÍGUEZ - 1998803886",
+            "AL PIE DE LA FIRMA": "LUZ HELENA PÉREZ RODRÍGUEZ - 1998803886"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ HELENA PÉREZ RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1998803886",
+            "NOMBRES": "LUZ HELENA PÉREZ RODRÍGUEZ",
+            "SALARIO": "3.331.044",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1998803886",
+            "NOMBRES": "LUZ HELENA PÉREZ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.285.504"
+        }
+    }
+]

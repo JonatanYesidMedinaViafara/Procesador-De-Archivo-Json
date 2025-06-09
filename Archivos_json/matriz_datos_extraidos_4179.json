@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "750153084894",
+            "SOLICITUD": "1206321",
+            "CEDULA": "1759065673",
+            "NOMBRES": "VICENTE DIEGO RAMOS",
+            "RECOMPRA O DESEMBOLSO": "1.759.941",
+            "FIRMA ELLECTRONICA": "VICENTE DIEGO RAMOS - 1759065673"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "750153084894",
+            "NOMBRES": "VICENTE DIEGO RAMOS",
+            "CREDITO": "8.040.145",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "257.546",
+            "FIRMA ELLECTRONICA": "VICENTE DIEGO RAMOS - 1759065673",
+            "AL PIE DE LA FIRMA": "VICENTE DIEGO RAMOS - 1759065673"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1759065673",
+            "NOMBRES": "VICENTE DIEGO RAMOS",
+            "FECHA NACIMIENTO": "25/04/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.040.145",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "VICENTE DIEGO RAMOS - 1759065673",
+            "AL PIE DE LA FIRMA": "VICENTE DIEGO RAMOS - 1759065673"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1206321",
+            "CEDULA": "1759065673",
+            "NOMBRES": "VICENTE DIEGO RAMOS",
+            "CREDITO": "8.040.145",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "257.546",
+            "E.A": "27.46%",
+            "RECOMPRA O DESEMBOLSO": "1.759.941",
+            "FIRMA ELLECTRONICA": "VICENTE DIEGO RAMOS - 1759065673"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1759065673",
+            "NOMBRES": "VICENTE DIEGO RAMOS",
+            "FIRMA ELLECTRONICA": "VICENTE DIEGO RAMOS - 1759065673"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1759065673",
+            "NOMBRES": "VICENTE DIEGO RAMOS",
+            "FIRMA ELLECTRONICA": "VICENTE DIEGO RAMOS - 1759065673",
+            "AL PIE DE LA FIRMA": "VICENTE DIEGO RAMOS - 1759065673"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VICENTE DIEGO RAMOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1759065673",
+            "NOMBRES": "VICENTE DIEGO RAMOS",
+            "SALARIO": "1.994.009",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1759065673",
+            "NOMBRES": "VICENTE DIEGO RAMOS",
+            "RECOMPRA O DESEMBOLSO": "1.759.941"
+        }
+    }
+]

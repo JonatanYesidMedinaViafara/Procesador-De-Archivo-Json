@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "818683073687",
+            "SOLICITUD": "9121190",
+            "CEDULA": "1952344344",
+            "NOMBRES": "MILENA ÁNGEL",
+            "RECOMPRA O DESEMBOLSO": "4.399.503",
+            "FIRMA ELLECTRONICA": "MILENA ÁNGEL - 1952344344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "818683073687",
+            "NOMBRES": "MILENA ÁNGEL",
+            "CREDITO": "7.267.549",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "235.038",
+            "FIRMA ELLECTRONICA": "MILENA ÁNGEL - 1952344344",
+            "AL PIE DE LA FIRMA": "MILENA ÁNGEL - 1952344344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1952344344",
+            "NOMBRES": "MILENA ÁNGEL",
+            "FECHA NACIMIENTO": "18/12/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.267.549",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MILENA ÁNGEL - 1952344344",
+            "AL PIE DE LA FIRMA": "MILENA ÁNGEL - 1952344344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9121190",
+            "CEDULA": "1952344344",
+            "NOMBRES": "MILENA ÁNGEL",
+            "CREDITO": "7.267.549",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "235.038",
+            "E.A": "27.01%",
+            "RECOMPRA O DESEMBOLSO": "4.399.503",
+            "FIRMA ELLECTRONICA": "MILENA ÁNGEL - 1952344344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1952344344",
+            "NOMBRES": "MILENA ÁNGEL",
+            "FIRMA ELLECTRONICA": "MILENA ÁNGEL - 1952344344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1952344344",
+            "NOMBRES": "MILENA ÁNGEL",
+            "FIRMA ELLECTRONICA": "MILENA ÁNGEL - 1952344344",
+            "AL PIE DE LA FIRMA": "MILENA ÁNGEL - 1952344344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA ÁNGEL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1952344344",
+            "NOMBRES": "MILENA ÁNGEL",
+            "SALARIO": "2.007.890",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1952344344",
+            "NOMBRES": "MILENA ÁNGEL",
+            "RECOMPRA O DESEMBOLSO": "4.399.503"
+        }
+    }
+]

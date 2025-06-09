@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "340183922931",
+            "SOLICITUD": "5516731",
+            "CEDULA": "1925057286",
+            "NOMBRES": "RAFAEL ARRIETA",
+            "RECOMPRA O DESEMBOLSO": "4.319.488",
+            "FIRMA ELLECTRONICA": "RAFAEL ARRIETA - 1925057286"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "340183922931",
+            "NOMBRES": "RAFAEL ARRIETA",
+            "CREDITO": "10.057.839",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "177.684",
+            "FIRMA ELLECTRONICA": "RAFAEL ARRIETA - 1925057286",
+            "AL PIE DE LA FIRMA": "RAFAEL ARRIETA - 1925057286"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1925057286",
+            "NOMBRES": "RAFAEL ARRIETA",
+            "FECHA NACIMIENTO": "30/07/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.057.839",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "RAFAEL ARRIETA - 1925057286",
+            "AL PIE DE LA FIRMA": "RAFAEL ARRIETA - 1925057286"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5516731",
+            "CEDULA": "1925057286",
+            "NOMBRES": "RAFAEL ARRIETA",
+            "CREDITO": "10.057.839",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "177.684",
+            "E.A": "20.02%",
+            "RECOMPRA O DESEMBOLSO": "4.319.488",
+            "FIRMA ELLECTRONICA": "RAFAEL ARRIETA - 1925057286"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1925057286",
+            "NOMBRES": "RAFAEL ARRIETA",
+            "FIRMA ELLECTRONICA": "RAFAEL ARRIETA - 1925057286"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1925057286",
+            "NOMBRES": "RAFAEL ARRIETA",
+            "FIRMA ELLECTRONICA": "RAFAEL ARRIETA - 1925057286",
+            "AL PIE DE LA FIRMA": "RAFAEL ARRIETA - 1925057286"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL ARRIETA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1925057286",
+            "NOMBRES": "RAFAEL ARRIETA",
+            "SALARIO": "1.901.380",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1925057286",
+            "NOMBRES": "RAFAEL ARRIETA",
+            "RECOMPRA O DESEMBOLSO": "4.319.488"
+        }
+    }
+]

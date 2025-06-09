@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "599620356885",
+            "SOLICITUD": "1445979",
+            "CEDULA": "1426571268",
+            "NOMBRES": "JHON CAMILO ALARCÓN GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.484.384",
+            "FIRMA ELLECTRONICA": "JHON CAMILO ALARCÓN GONZÁLEZ - 1426571268"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "599620356885",
+            "NOMBRES": "JHON CAMILO ALARCÓN GONZÁLEZ",
+            "CREDITO": "19.043.178",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "134.977",
+            "FIRMA ELLECTRONICA": "JHON CAMILO ALARCÓN GONZÁLEZ - 1426571268",
+            "AL PIE DE LA FIRMA": "JHON CAMILO ALARCÓN GONZÁLEZ - 1426571268"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1426571268",
+            "NOMBRES": "JHON CAMILO ALARCÓN GONZÁLEZ",
+            "FECHA NACIMIENTO": "01/03/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.043.178",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JHON CAMILO ALARCÓN GONZÁLEZ - 1426571268",
+            "AL PIE DE LA FIRMA": "JHON CAMILO ALARCÓN GONZÁLEZ - 1426571268"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1445979",
+            "CEDULA": "1426571268",
+            "NOMBRES": "JHON CAMILO ALARCÓN GONZÁLEZ",
+            "CREDITO": "19.043.178",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "134.977",
+            "E.A": "25.68%",
+            "RECOMPRA O DESEMBOLSO": "3.484.384",
+            "FIRMA ELLECTRONICA": "JHON CAMILO ALARCÓN GONZÁLEZ - 1426571268"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1426571268",
+            "NOMBRES": "JHON CAMILO ALARCÓN GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "JHON CAMILO ALARCÓN GONZÁLEZ - 1426571268"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1426571268",
+            "NOMBRES": "JHON CAMILO ALARCÓN GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "JHON CAMILO ALARCÓN GONZÁLEZ - 1426571268",
+            "AL PIE DE LA FIRMA": "JHON CAMILO ALARCÓN GONZÁLEZ - 1426571268"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON CAMILO ALARCÓN GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1426571268",
+            "NOMBRES": "JHON CAMILO ALARCÓN GONZÁLEZ",
+            "SALARIO": "2.424.391",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1426571268",
+            "NOMBRES": "JHON CAMILO ALARCÓN GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.484.384"
+        }
+    }
+]

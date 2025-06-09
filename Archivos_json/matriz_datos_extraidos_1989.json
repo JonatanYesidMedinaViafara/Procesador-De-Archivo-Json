@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "666080888862",
+            "SOLICITUD": "9405316",
+            "CEDULA": "1580583082",
+            "NOMBRES": "MÓNICA PATRICIA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.480.779",
+            "FIRMA ELLECTRONICA": "MÓNICA PATRICIA DÍAZ - 1580583082"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "666080888862",
+            "NOMBRES": "MÓNICA PATRICIA DÍAZ",
+            "CREDITO": "18.713.689",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "200.932",
+            "FIRMA ELLECTRONICA": "MÓNICA PATRICIA DÍAZ - 1580583082",
+            "AL PIE DE LA FIRMA": "MÓNICA PATRICIA DÍAZ - 1580583082"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1580583082",
+            "NOMBRES": "MÓNICA PATRICIA DÍAZ",
+            "FECHA NACIMIENTO": "07/02/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.713.689",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MÓNICA PATRICIA DÍAZ - 1580583082",
+            "AL PIE DE LA FIRMA": "MÓNICA PATRICIA DÍAZ - 1580583082"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9405316",
+            "CEDULA": "1580583082",
+            "NOMBRES": "MÓNICA PATRICIA DÍAZ",
+            "CREDITO": "18.713.689",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "200.932",
+            "E.A": "25.91%",
+            "RECOMPRA O DESEMBOLSO": "3.480.779",
+            "FIRMA ELLECTRONICA": "MÓNICA PATRICIA DÍAZ - 1580583082"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1580583082",
+            "NOMBRES": "MÓNICA PATRICIA DÍAZ",
+            "FIRMA ELLECTRONICA": "MÓNICA PATRICIA DÍAZ - 1580583082"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1580583082",
+            "NOMBRES": "MÓNICA PATRICIA DÍAZ",
+            "FIRMA ELLECTRONICA": "MÓNICA PATRICIA DÍAZ - 1580583082",
+            "AL PIE DE LA FIRMA": "MÓNICA PATRICIA DÍAZ - 1580583082"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MÓNICA PATRICIA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1580583082",
+            "NOMBRES": "MÓNICA PATRICIA DÍAZ",
+            "SALARIO": "4.672.606",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1580583082",
+            "NOMBRES": "MÓNICA PATRICIA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.480.779"
+        }
+    }
+]

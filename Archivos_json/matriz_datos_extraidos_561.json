@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "105833320072",
+            "SOLICITUD": "2532619",
+            "CEDULA": "1140945507",
+            "NOMBRES": "MARY ELIZABETH LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.001.600",
+            "FIRMA ELLECTRONICA": "MARY ELIZABETH LÓPEZ - 1140945507"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "105833320072",
+            "NOMBRES": "MARY ELIZABETH LÓPEZ",
+            "CREDITO": "5.653.026",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "247.75",
+            "FIRMA ELLECTRONICA": "MARY ELIZABETH LÓPEZ - 1140945507",
+            "AL PIE DE LA FIRMA": "MARY ELIZABETH LÓPEZ - 1140945507"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1140945507",
+            "NOMBRES": "MARY ELIZABETH LÓPEZ",
+            "FECHA NACIMIENTO": "31/03/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.653.026",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARY ELIZABETH LÓPEZ - 1140945507",
+            "AL PIE DE LA FIRMA": "MARY ELIZABETH LÓPEZ - 1140945507"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2532619",
+            "CEDULA": "1140945507",
+            "NOMBRES": "MARY ELIZABETH LÓPEZ",
+            "CREDITO": "5.653.026",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "247.75",
+            "E.A": "24.83%",
+            "RECOMPRA O DESEMBOLSO": "2.001.600",
+            "FIRMA ELLECTRONICA": "MARY ELIZABETH LÓPEZ - 1140945507"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1140945507",
+            "NOMBRES": "MARY ELIZABETH LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARY ELIZABETH LÓPEZ - 1140945507"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1140945507",
+            "NOMBRES": "MARY ELIZABETH LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARY ELIZABETH LÓPEZ - 1140945507",
+            "AL PIE DE LA FIRMA": "MARY ELIZABETH LÓPEZ - 1140945507"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARY ELIZABETH LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1140945507",
+            "NOMBRES": "MARY ELIZABETH LÓPEZ",
+            "SALARIO": "3.281.314",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1140945507",
+            "NOMBRES": "MARY ELIZABETH LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.001.600"
+        }
+    }
+]

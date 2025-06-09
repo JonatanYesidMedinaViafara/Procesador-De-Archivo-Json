@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "491513317484",
+            "SOLICITUD": "1805004",
+            "CEDULA": "1454486453",
+            "NOMBRES": "MARÍA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "4.328.253",
+            "FIRMA ELLECTRONICA": "MARÍA ORTIZ - 1454486453"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "491513317484",
+            "NOMBRES": "MARÍA ORTIZ",
+            "CREDITO": "10.406.338",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "185.461",
+            "FIRMA ELLECTRONICA": "MARÍA ORTIZ - 1454486453",
+            "AL PIE DE LA FIRMA": "MARÍA ORTIZ - 1454486453"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1454486453",
+            "NOMBRES": "MARÍA ORTIZ",
+            "FECHA NACIMIENTO": "07/07/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.406.338",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA ORTIZ - 1454486453",
+            "AL PIE DE LA FIRMA": "MARÍA ORTIZ - 1454486453"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1805004",
+            "CEDULA": "1454486453",
+            "NOMBRES": "MARÍA ORTIZ",
+            "CREDITO": "10.406.338",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "185.461",
+            "E.A": "20.32%",
+            "RECOMPRA O DESEMBOLSO": "4.328.253",
+            "FIRMA ELLECTRONICA": "MARÍA ORTIZ - 1454486453"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1454486453",
+            "NOMBRES": "MARÍA ORTIZ",
+            "FIRMA ELLECTRONICA": "MARÍA ORTIZ - 1454486453"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1454486453",
+            "NOMBRES": "MARÍA ORTIZ",
+            "FIRMA ELLECTRONICA": "MARÍA ORTIZ - 1454486453",
+            "AL PIE DE LA FIRMA": "MARÍA ORTIZ - 1454486453"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1454486453",
+            "NOMBRES": "MARÍA ORTIZ",
+            "SALARIO": "3.642.650",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1454486453",
+            "NOMBRES": "MARÍA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "4.328.253"
+        }
+    }
+]

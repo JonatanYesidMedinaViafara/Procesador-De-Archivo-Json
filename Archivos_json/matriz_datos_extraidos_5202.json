@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "229330113166",
+            "SOLICITUD": "7435842",
+            "CEDULA": "1393161722",
+            "NOMBRES": "SONIA FLÓREZ RUEDA",
+            "RECOMPRA O DESEMBOLSO": "4.680.707",
+            "FIRMA ELLECTRONICA": "SONIA FLÓREZ RUEDA - 1393161722"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "229330113166",
+            "NOMBRES": "SONIA FLÓREZ RUEDA",
+            "CREDITO": "18.712.007",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "392.4",
+            "FIRMA ELLECTRONICA": "SONIA FLÓREZ RUEDA - 1393161722",
+            "AL PIE DE LA FIRMA": "SONIA FLÓREZ RUEDA - 1393161722"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1393161722",
+            "NOMBRES": "SONIA FLÓREZ RUEDA",
+            "FECHA NACIMIENTO": "08/08/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.712.007",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SONIA FLÓREZ RUEDA - 1393161722",
+            "AL PIE DE LA FIRMA": "SONIA FLÓREZ RUEDA - 1393161722"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7435842",
+            "CEDULA": "1393161722",
+            "NOMBRES": "SONIA FLÓREZ RUEDA",
+            "CREDITO": "18.712.007",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "392.4",
+            "E.A": "22.42%",
+            "RECOMPRA O DESEMBOLSO": "4.680.707",
+            "FIRMA ELLECTRONICA": "SONIA FLÓREZ RUEDA - 1393161722"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1393161722",
+            "NOMBRES": "SONIA FLÓREZ RUEDA",
+            "FIRMA ELLECTRONICA": "SONIA FLÓREZ RUEDA - 1393161722"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1393161722",
+            "NOMBRES": "SONIA FLÓREZ RUEDA",
+            "FIRMA ELLECTRONICA": "SONIA FLÓREZ RUEDA - 1393161722",
+            "AL PIE DE LA FIRMA": "SONIA FLÓREZ RUEDA - 1393161722"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SONIA FLÓREZ RUEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1393161722",
+            "NOMBRES": "SONIA FLÓREZ RUEDA",
+            "SALARIO": "2.508.348",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1393161722",
+            "NOMBRES": "SONIA FLÓREZ RUEDA",
+            "RECOMPRA O DESEMBOLSO": "4.680.707"
+        }
+    }
+]

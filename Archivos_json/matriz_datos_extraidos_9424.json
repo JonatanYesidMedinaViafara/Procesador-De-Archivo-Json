@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "983113895568",
+            "SOLICITUD": "1423127",
+            "CEDULA": "1588172007",
+            "NOMBRES": "JULIÁN CÉSAR MORALES RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.947.172",
+            "FIRMA ELLECTRONICA": "JULIÁN CÉSAR MORALES RODRÍGUEZ - 1588172007"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "983113895568",
+            "NOMBRES": "JULIÁN CÉSAR MORALES RODRÍGUEZ",
+            "CREDITO": "10.905.002",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "285.115",
+            "FIRMA ELLECTRONICA": "JULIÁN CÉSAR MORALES RODRÍGUEZ - 1588172007",
+            "AL PIE DE LA FIRMA": "JULIÁN CÉSAR MORALES RODRÍGUEZ - 1588172007"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1588172007",
+            "NOMBRES": "JULIÁN CÉSAR MORALES RODRÍGUEZ",
+            "FECHA NACIMIENTO": "11/06/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.905.002",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JULIÁN CÉSAR MORALES RODRÍGUEZ - 1588172007",
+            "AL PIE DE LA FIRMA": "JULIÁN CÉSAR MORALES RODRÍGUEZ - 1588172007"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1423127",
+            "CEDULA": "1588172007",
+            "NOMBRES": "JULIÁN CÉSAR MORALES RODRÍGUEZ",
+            "CREDITO": "10.905.002",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "285.115",
+            "E.A": "23.75%",
+            "RECOMPRA O DESEMBOLSO": "4.947.172",
+            "FIRMA ELLECTRONICA": "JULIÁN CÉSAR MORALES RODRÍGUEZ - 1588172007"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1588172007",
+            "NOMBRES": "JULIÁN CÉSAR MORALES RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JULIÁN CÉSAR MORALES RODRÍGUEZ - 1588172007"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1588172007",
+            "NOMBRES": "JULIÁN CÉSAR MORALES RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JULIÁN CÉSAR MORALES RODRÍGUEZ - 1588172007",
+            "AL PIE DE LA FIRMA": "JULIÁN CÉSAR MORALES RODRÍGUEZ - 1588172007"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIÁN CÉSAR MORALES RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1588172007",
+            "NOMBRES": "JULIÁN CÉSAR MORALES RODRÍGUEZ",
+            "SALARIO": "1.586.951",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1588172007",
+            "NOMBRES": "JULIÁN CÉSAR MORALES RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.947.172"
+        }
+    }
+]

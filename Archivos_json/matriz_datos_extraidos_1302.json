@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "295792567837",
+            "SOLICITUD": "3675711",
+            "CEDULA": "1280945327",
+            "NOMBRES": "JOSÉ MORALES GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.262.501",
+            "FIRMA ELLECTRONICA": "JOSÉ MORALES GARCÍA - 1280945327"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "295792567837",
+            "NOMBRES": "JOSÉ MORALES GARCÍA",
+            "CREDITO": "12.011.461",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "284.546",
+            "FIRMA ELLECTRONICA": "JOSÉ MORALES GARCÍA - 1280945327",
+            "AL PIE DE LA FIRMA": "JOSÉ MORALES GARCÍA - 1280945327"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1280945327",
+            "NOMBRES": "JOSÉ MORALES GARCÍA",
+            "FECHA NACIMIENTO": "15/09/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.011.461",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ MORALES GARCÍA - 1280945327",
+            "AL PIE DE LA FIRMA": "JOSÉ MORALES GARCÍA - 1280945327"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3675711",
+            "CEDULA": "1280945327",
+            "NOMBRES": "JOSÉ MORALES GARCÍA",
+            "CREDITO": "12.011.461",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "284.546",
+            "E.A": "23.69%",
+            "RECOMPRA O DESEMBOLSO": "1.262.501",
+            "FIRMA ELLECTRONICA": "JOSÉ MORALES GARCÍA - 1280945327"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1280945327",
+            "NOMBRES": "JOSÉ MORALES GARCÍA",
+            "FIRMA ELLECTRONICA": "JOSÉ MORALES GARCÍA - 1280945327"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1280945327",
+            "NOMBRES": "JOSÉ MORALES GARCÍA",
+            "FIRMA ELLECTRONICA": "JOSÉ MORALES GARCÍA - 1280945327",
+            "AL PIE DE LA FIRMA": "JOSÉ MORALES GARCÍA - 1280945327"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ MORALES GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1280945327",
+            "NOMBRES": "JOSÉ MORALES GARCÍA",
+            "SALARIO": "4.765.938",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1280945327",
+            "NOMBRES": "JOSÉ MORALES GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.262.501"
+        }
+    }
+]

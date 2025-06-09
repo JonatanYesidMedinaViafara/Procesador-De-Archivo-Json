@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "520500278311",
+            "SOLICITUD": "6150926",
+            "CEDULA": "1995233087",
+            "NOMBRES": "ANDRÉS PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.214.655",
+            "FIRMA ELLECTRONICA": "ANDRÉS PÉREZ - 1995233087"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "520500278311",
+            "NOMBRES": "ANDRÉS PÉREZ",
+            "CREDITO": "10.339.667",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "268.947",
+            "FIRMA ELLECTRONICA": "ANDRÉS PÉREZ - 1995233087",
+            "AL PIE DE LA FIRMA": "ANDRÉS PÉREZ - 1995233087"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1995233087",
+            "NOMBRES": "ANDRÉS PÉREZ",
+            "FECHA NACIMIENTO": "09/02/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.339.667",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS PÉREZ - 1995233087",
+            "AL PIE DE LA FIRMA": "ANDRÉS PÉREZ - 1995233087"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6150926",
+            "CEDULA": "1995233087",
+            "NOMBRES": "ANDRÉS PÉREZ",
+            "CREDITO": "10.339.667",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "268.947",
+            "E.A": "26.25%",
+            "RECOMPRA O DESEMBOLSO": "1.214.655",
+            "FIRMA ELLECTRONICA": "ANDRÉS PÉREZ - 1995233087"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1995233087",
+            "NOMBRES": "ANDRÉS PÉREZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS PÉREZ - 1995233087"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1995233087",
+            "NOMBRES": "ANDRÉS PÉREZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS PÉREZ - 1995233087",
+            "AL PIE DE LA FIRMA": "ANDRÉS PÉREZ - 1995233087"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1995233087",
+            "NOMBRES": "ANDRÉS PÉREZ",
+            "SALARIO": "2.189.646",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1995233087",
+            "NOMBRES": "ANDRÉS PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.214.655"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "598088740185",
+            "SOLICITUD": "8126138",
+            "CEDULA": "1162178323",
+            "NOMBRES": "MARÍA TORRES",
+            "RECOMPRA O DESEMBOLSO": "3.182.613",
+            "FIRMA ELLECTRONICA": "MARÍA TORRES - 1162178323"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "598088740185",
+            "NOMBRES": "MARÍA TORRES",
+            "CREDITO": "18.382.726",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "209.751",
+            "FIRMA ELLECTRONICA": "MARÍA TORRES - 1162178323",
+            "AL PIE DE LA FIRMA": "MARÍA TORRES - 1162178323"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1162178323",
+            "NOMBRES": "MARÍA TORRES",
+            "FECHA NACIMIENTO": "20/12/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.382.726",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA TORRES - 1162178323",
+            "AL PIE DE LA FIRMA": "MARÍA TORRES - 1162178323"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8126138",
+            "CEDULA": "1162178323",
+            "NOMBRES": "MARÍA TORRES",
+            "CREDITO": "18.382.726",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "209.751",
+            "E.A": "19.04%",
+            "RECOMPRA O DESEMBOLSO": "3.182.613",
+            "FIRMA ELLECTRONICA": "MARÍA TORRES - 1162178323"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1162178323",
+            "NOMBRES": "MARÍA TORRES",
+            "FIRMA ELLECTRONICA": "MARÍA TORRES - 1162178323"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1162178323",
+            "NOMBRES": "MARÍA TORRES",
+            "FIRMA ELLECTRONICA": "MARÍA TORRES - 1162178323",
+            "AL PIE DE LA FIRMA": "MARÍA TORRES - 1162178323"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1162178323",
+            "NOMBRES": "MARÍA TORRES",
+            "SALARIO": "2.230.397",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1162178323",
+            "NOMBRES": "MARÍA TORRES",
+            "RECOMPRA O DESEMBOLSO": "3.182.613"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "486352799929",
+            "SOLICITUD": "7771057",
+            "CEDULA": "1672713277",
+            "NOMBRES": "ANDRÉS ÁVILA PARDO",
+            "RECOMPRA O DESEMBOLSO": "3.687.724",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÁVILA PARDO - 1672713277"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "486352799929",
+            "NOMBRES": "ANDRÉS ÁVILA PARDO",
+            "CREDITO": "10.666.619",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.987",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÁVILA PARDO - 1672713277",
+            "AL PIE DE LA FIRMA": "ANDRÉS ÁVILA PARDO - 1672713277"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1672713277",
+            "NOMBRES": "ANDRÉS ÁVILA PARDO",
+            "FECHA NACIMIENTO": "04/04/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.666.619",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÁVILA PARDO - 1672713277",
+            "AL PIE DE LA FIRMA": "ANDRÉS ÁVILA PARDO - 1672713277"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7771057",
+            "CEDULA": "1672713277",
+            "NOMBRES": "ANDRÉS ÁVILA PARDO",
+            "CREDITO": "10.666.619",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.987",
+            "E.A": "24.05%",
+            "RECOMPRA O DESEMBOLSO": "3.687.724",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÁVILA PARDO - 1672713277"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1672713277",
+            "NOMBRES": "ANDRÉS ÁVILA PARDO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÁVILA PARDO - 1672713277"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1672713277",
+            "NOMBRES": "ANDRÉS ÁVILA PARDO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÁVILA PARDO - 1672713277",
+            "AL PIE DE LA FIRMA": "ANDRÉS ÁVILA PARDO - 1672713277"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ÁVILA PARDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1672713277",
+            "NOMBRES": "ANDRÉS ÁVILA PARDO",
+            "SALARIO": "1.501.428",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1672713277",
+            "NOMBRES": "ANDRÉS ÁVILA PARDO",
+            "RECOMPRA O DESEMBOLSO": "3.687.724"
+        }
+    }
+]

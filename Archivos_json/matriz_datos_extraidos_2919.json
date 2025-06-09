@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "153626082426",
+            "SOLICITUD": "1782018",
+            "CEDULA": "1793478465",
+            "NOMBRES": "ALBERTO ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "1.019.571",
+            "FIRMA ELLECTRONICA": "ALBERTO ACOSTA - 1793478465"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "153626082426",
+            "NOMBRES": "ALBERTO ACOSTA",
+            "CREDITO": "18.149.227",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "332.594",
+            "FIRMA ELLECTRONICA": "ALBERTO ACOSTA - 1793478465",
+            "AL PIE DE LA FIRMA": "ALBERTO ACOSTA - 1793478465"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1793478465",
+            "NOMBRES": "ALBERTO ACOSTA",
+            "FECHA NACIMIENTO": "15/03/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.149.227",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALBERTO ACOSTA - 1793478465",
+            "AL PIE DE LA FIRMA": "ALBERTO ACOSTA - 1793478465"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1782018",
+            "CEDULA": "1793478465",
+            "NOMBRES": "ALBERTO ACOSTA",
+            "CREDITO": "18.149.227",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "332.594",
+            "E.A": "20.53%",
+            "RECOMPRA O DESEMBOLSO": "1.019.571",
+            "FIRMA ELLECTRONICA": "ALBERTO ACOSTA - 1793478465"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1793478465",
+            "NOMBRES": "ALBERTO ACOSTA",
+            "FIRMA ELLECTRONICA": "ALBERTO ACOSTA - 1793478465"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1793478465",
+            "NOMBRES": "ALBERTO ACOSTA",
+            "FIRMA ELLECTRONICA": "ALBERTO ACOSTA - 1793478465",
+            "AL PIE DE LA FIRMA": "ALBERTO ACOSTA - 1793478465"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1793478465",
+            "NOMBRES": "ALBERTO ACOSTA",
+            "SALARIO": "4.886.073",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1793478465",
+            "NOMBRES": "ALBERTO ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "1.019.571"
+        }
+    }
+]

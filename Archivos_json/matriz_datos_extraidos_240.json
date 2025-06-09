@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "815023450455",
+            "SOLICITUD": "7510545",
+            "CEDULA": "1375852662",
+            "NOMBRES": "MAURICIO PINTO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.456.611",
+            "FIRMA ELLECTRONICA": "MAURICIO PINTO SUÁREZ - 1375852662"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "815023450455",
+            "NOMBRES": "MAURICIO PINTO SUÁREZ",
+            "CREDITO": "19.890.612",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "269.692",
+            "FIRMA ELLECTRONICA": "MAURICIO PINTO SUÁREZ - 1375852662",
+            "AL PIE DE LA FIRMA": "MAURICIO PINTO SUÁREZ - 1375852662"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1375852662",
+            "NOMBRES": "MAURICIO PINTO SUÁREZ",
+            "FECHA NACIMIENTO": "14/01/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.890.612",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MAURICIO PINTO SUÁREZ - 1375852662",
+            "AL PIE DE LA FIRMA": "MAURICIO PINTO SUÁREZ - 1375852662"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7510545",
+            "CEDULA": "1375852662",
+            "NOMBRES": "MAURICIO PINTO SUÁREZ",
+            "CREDITO": "19.890.612",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "269.692",
+            "E.A": "18.04%",
+            "RECOMPRA O DESEMBOLSO": "1.456.611",
+            "FIRMA ELLECTRONICA": "MAURICIO PINTO SUÁREZ - 1375852662"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1375852662",
+            "NOMBRES": "MAURICIO PINTO SUÁREZ",
+            "FIRMA ELLECTRONICA": "MAURICIO PINTO SUÁREZ - 1375852662"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1375852662",
+            "NOMBRES": "MAURICIO PINTO SUÁREZ",
+            "FIRMA ELLECTRONICA": "MAURICIO PINTO SUÁREZ - 1375852662",
+            "AL PIE DE LA FIRMA": "MAURICIO PINTO SUÁREZ - 1375852662"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO PINTO SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1375852662",
+            "NOMBRES": "MAURICIO PINTO SUÁREZ",
+            "SALARIO": "2.638.079",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1375852662",
+            "NOMBRES": "MAURICIO PINTO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.456.611"
+        }
+    }
+]

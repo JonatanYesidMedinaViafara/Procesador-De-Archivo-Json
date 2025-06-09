@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "103108750882",
+            "SOLICITUD": "9135544",
+            "CEDULA": "1550979394",
+            "NOMBRES": "MARÍA RENTERÍA BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "4.990.228",
+            "FIRMA ELLECTRONICA": "MARÍA RENTERÍA BELTRÁN - 1550979394"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "103108750882",
+            "NOMBRES": "MARÍA RENTERÍA BELTRÁN",
+            "CREDITO": "13.808.529",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "325.954",
+            "FIRMA ELLECTRONICA": "MARÍA RENTERÍA BELTRÁN - 1550979394",
+            "AL PIE DE LA FIRMA": "MARÍA RENTERÍA BELTRÁN - 1550979394"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1550979394",
+            "NOMBRES": "MARÍA RENTERÍA BELTRÁN",
+            "FECHA NACIMIENTO": "23/11/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.808.529",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA RENTERÍA BELTRÁN - 1550979394",
+            "AL PIE DE LA FIRMA": "MARÍA RENTERÍA BELTRÁN - 1550979394"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9135544",
+            "CEDULA": "1550979394",
+            "NOMBRES": "MARÍA RENTERÍA BELTRÁN",
+            "CREDITO": "13.808.529",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "325.954",
+            "E.A": "18.89%",
+            "RECOMPRA O DESEMBOLSO": "4.990.228",
+            "FIRMA ELLECTRONICA": "MARÍA RENTERÍA BELTRÁN - 1550979394"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1550979394",
+            "NOMBRES": "MARÍA RENTERÍA BELTRÁN",
+            "FIRMA ELLECTRONICA": "MARÍA RENTERÍA BELTRÁN - 1550979394"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1550979394",
+            "NOMBRES": "MARÍA RENTERÍA BELTRÁN",
+            "FIRMA ELLECTRONICA": "MARÍA RENTERÍA BELTRÁN - 1550979394",
+            "AL PIE DE LA FIRMA": "MARÍA RENTERÍA BELTRÁN - 1550979394"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA RENTERÍA BELTRÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1550979394",
+            "NOMBRES": "MARÍA RENTERÍA BELTRÁN",
+            "SALARIO": "4.385.830",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1550979394",
+            "NOMBRES": "MARÍA RENTERÍA BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "4.990.228"
+        }
+    }
+]

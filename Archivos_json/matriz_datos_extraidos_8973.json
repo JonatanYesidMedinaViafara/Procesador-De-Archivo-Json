@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "843324868546",
+            "SOLICITUD": "5674768",
+            "CEDULA": "1232437289",
+            "NOMBRES": "LEÓN ESTEBAN HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.365.303",
+            "FIRMA ELLECTRONICA": "LEÓN ESTEBAN HERNÁNDEZ - 1232437289"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "843324868546",
+            "NOMBRES": "LEÓN ESTEBAN HERNÁNDEZ",
+            "CREDITO": "9.161.242",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "282.164",
+            "FIRMA ELLECTRONICA": "LEÓN ESTEBAN HERNÁNDEZ - 1232437289",
+            "AL PIE DE LA FIRMA": "LEÓN ESTEBAN HERNÁNDEZ - 1232437289"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1232437289",
+            "NOMBRES": "LEÓN ESTEBAN HERNÁNDEZ",
+            "FECHA NACIMIENTO": "07/12/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.161.242",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LEÓN ESTEBAN HERNÁNDEZ - 1232437289",
+            "AL PIE DE LA FIRMA": "LEÓN ESTEBAN HERNÁNDEZ - 1232437289"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5674768",
+            "CEDULA": "1232437289",
+            "NOMBRES": "LEÓN ESTEBAN HERNÁNDEZ",
+            "CREDITO": "9.161.242",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "282.164",
+            "E.A": "24.52%",
+            "RECOMPRA O DESEMBOLSO": "2.365.303",
+            "FIRMA ELLECTRONICA": "LEÓN ESTEBAN HERNÁNDEZ - 1232437289"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1232437289",
+            "NOMBRES": "LEÓN ESTEBAN HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "LEÓN ESTEBAN HERNÁNDEZ - 1232437289"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1232437289",
+            "NOMBRES": "LEÓN ESTEBAN HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "LEÓN ESTEBAN HERNÁNDEZ - 1232437289",
+            "AL PIE DE LA FIRMA": "LEÓN ESTEBAN HERNÁNDEZ - 1232437289"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEÓN ESTEBAN HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1232437289",
+            "NOMBRES": "LEÓN ESTEBAN HERNÁNDEZ",
+            "SALARIO": "4.318.277",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1232437289",
+            "NOMBRES": "LEÓN ESTEBAN HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.365.303"
+        }
+    }
+]

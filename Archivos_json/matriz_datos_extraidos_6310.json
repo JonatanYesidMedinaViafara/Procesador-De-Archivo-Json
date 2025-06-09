@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "524109564168",
+            "SOLICITUD": "8456408",
+            "CEDULA": "1559231850",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.279.029",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1559231850"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "524109564168",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "CREDITO": "15.968.218",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.729",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1559231850",
+            "AL PIE DE LA FIRMA": "SANTIAGO RODRÍGUEZ - 1559231850"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1559231850",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "10/06/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.968.218",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1559231850",
+            "AL PIE DE LA FIRMA": "SANTIAGO RODRÍGUEZ - 1559231850"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8456408",
+            "CEDULA": "1559231850",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "CREDITO": "15.968.218",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.729",
+            "E.A": "26.09%",
+            "RECOMPRA O DESEMBOLSO": "4.279.029",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1559231850"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1559231850",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1559231850"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1559231850",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1559231850",
+            "AL PIE DE LA FIRMA": "SANTIAGO RODRÍGUEZ - 1559231850"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANTIAGO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1559231850",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "SALARIO": "3.947.759",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1559231850",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.279.029"
+        }
+    }
+]

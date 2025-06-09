@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "206129588137",
+            "SOLICITUD": "7073672",
+            "CEDULA": "1130922100",
+            "NOMBRES": "MARÍA FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.251.878",
+            "FIRMA ELLECTRONICA": "MARÍA FLÓREZ - 1130922100"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "206129588137",
+            "NOMBRES": "MARÍA FLÓREZ",
+            "CREDITO": "14.834.129",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "237.297",
+            "FIRMA ELLECTRONICA": "MARÍA FLÓREZ - 1130922100",
+            "AL PIE DE LA FIRMA": "MARÍA FLÓREZ - 1130922100"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1130922100",
+            "NOMBRES": "MARÍA FLÓREZ",
+            "FECHA NACIMIENTO": "30/04/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.834.129",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA FLÓREZ - 1130922100",
+            "AL PIE DE LA FIRMA": "MARÍA FLÓREZ - 1130922100"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7073672",
+            "CEDULA": "1130922100",
+            "NOMBRES": "MARÍA FLÓREZ",
+            "CREDITO": "14.834.129",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "237.297",
+            "E.A": "20.11%",
+            "RECOMPRA O DESEMBOLSO": "1.251.878",
+            "FIRMA ELLECTRONICA": "MARÍA FLÓREZ - 1130922100"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1130922100",
+            "NOMBRES": "MARÍA FLÓREZ",
+            "FIRMA ELLECTRONICA": "MARÍA FLÓREZ - 1130922100"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1130922100",
+            "NOMBRES": "MARÍA FLÓREZ",
+            "FIRMA ELLECTRONICA": "MARÍA FLÓREZ - 1130922100",
+            "AL PIE DE LA FIRMA": "MARÍA FLÓREZ - 1130922100"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1130922100",
+            "NOMBRES": "MARÍA FLÓREZ",
+            "SALARIO": "2.891.730",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1130922100",
+            "NOMBRES": "MARÍA FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.251.878"
+        }
+    }
+]

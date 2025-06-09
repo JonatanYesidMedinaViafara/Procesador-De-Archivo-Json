@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "339088495246",
+            "SOLICITUD": "9054769",
+            "CEDULA": "1843745845",
+            "NOMBRES": "JUDITH MARÍA MOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.877.700",
+            "FIRMA ELLECTRONICA": "JUDITH MARÍA MOLANO - 1843745845"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "339088495246",
+            "NOMBRES": "JUDITH MARÍA MOLANO",
+            "CREDITO": "11.936.942",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "265.137",
+            "FIRMA ELLECTRONICA": "JUDITH MARÍA MOLANO - 1843745845",
+            "AL PIE DE LA FIRMA": "JUDITH MARÍA MOLANO - 1843745845"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1843745845",
+            "NOMBRES": "JUDITH MARÍA MOLANO",
+            "FECHA NACIMIENTO": "11/05/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.936.942",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUDITH MARÍA MOLANO - 1843745845",
+            "AL PIE DE LA FIRMA": "JUDITH MARÍA MOLANO - 1843745845"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9054769",
+            "CEDULA": "1843745845",
+            "NOMBRES": "JUDITH MARÍA MOLANO",
+            "CREDITO": "11.936.942",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "265.137",
+            "E.A": "26.35%",
+            "RECOMPRA O DESEMBOLSO": "2.877.700",
+            "FIRMA ELLECTRONICA": "JUDITH MARÍA MOLANO - 1843745845"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1843745845",
+            "NOMBRES": "JUDITH MARÍA MOLANO",
+            "FIRMA ELLECTRONICA": "JUDITH MARÍA MOLANO - 1843745845"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1843745845",
+            "NOMBRES": "JUDITH MARÍA MOLANO",
+            "FIRMA ELLECTRONICA": "JUDITH MARÍA MOLANO - 1843745845",
+            "AL PIE DE LA FIRMA": "JUDITH MARÍA MOLANO - 1843745845"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUDITH MARÍA MOLANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1843745845",
+            "NOMBRES": "JUDITH MARÍA MOLANO",
+            "SALARIO": "4.382.051",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1843745845",
+            "NOMBRES": "JUDITH MARÍA MOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.877.700"
+        }
+    }
+]

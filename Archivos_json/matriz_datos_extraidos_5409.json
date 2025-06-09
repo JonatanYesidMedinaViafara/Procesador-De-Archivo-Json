@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "470329682346",
+            "SOLICITUD": "3129590",
+            "CEDULA": "1971909782",
+            "NOMBRES": "JAVIER PINTO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.554.939",
+            "FIRMA ELLECTRONICA": "JAVIER PINTO GARCÍA - 1971909782"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "470329682346",
+            "NOMBRES": "JAVIER PINTO GARCÍA",
+            "CREDITO": "17.646.604",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "222.716",
+            "FIRMA ELLECTRONICA": "JAVIER PINTO GARCÍA - 1971909782",
+            "AL PIE DE LA FIRMA": "JAVIER PINTO GARCÍA - 1971909782"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1971909782",
+            "NOMBRES": "JAVIER PINTO GARCÍA",
+            "FECHA NACIMIENTO": "10/01/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.646.604",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JAVIER PINTO GARCÍA - 1971909782",
+            "AL PIE DE LA FIRMA": "JAVIER PINTO GARCÍA - 1971909782"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3129590",
+            "CEDULA": "1971909782",
+            "NOMBRES": "JAVIER PINTO GARCÍA",
+            "CREDITO": "17.646.604",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "222.716",
+            "E.A": "21.12%",
+            "RECOMPRA O DESEMBOLSO": "4.554.939",
+            "FIRMA ELLECTRONICA": "JAVIER PINTO GARCÍA - 1971909782"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1971909782",
+            "NOMBRES": "JAVIER PINTO GARCÍA",
+            "FIRMA ELLECTRONICA": "JAVIER PINTO GARCÍA - 1971909782"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1971909782",
+            "NOMBRES": "JAVIER PINTO GARCÍA",
+            "FIRMA ELLECTRONICA": "JAVIER PINTO GARCÍA - 1971909782",
+            "AL PIE DE LA FIRMA": "JAVIER PINTO GARCÍA - 1971909782"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER PINTO GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1971909782",
+            "NOMBRES": "JAVIER PINTO GARCÍA",
+            "SALARIO": "2.292.284",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1971909782",
+            "NOMBRES": "JAVIER PINTO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.554.939"
+        }
+    }
+]

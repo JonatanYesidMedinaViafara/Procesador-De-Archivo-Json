@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "990636695889",
+            "SOLICITUD": "9779645",
+            "CEDULA": "1285110871",
+            "NOMBRES": "JUAN AGUDELO AMAYA",
+            "RECOMPRA O DESEMBOLSO": "2.802.348",
+            "FIRMA ELLECTRONICA": "JUAN AGUDELO AMAYA - 1285110871"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "990636695889",
+            "NOMBRES": "JUAN AGUDELO AMAYA",
+            "CREDITO": "11.768.985",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "267.506",
+            "FIRMA ELLECTRONICA": "JUAN AGUDELO AMAYA - 1285110871",
+            "AL PIE DE LA FIRMA": "JUAN AGUDELO AMAYA - 1285110871"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1285110871",
+            "NOMBRES": "JUAN AGUDELO AMAYA",
+            "FECHA NACIMIENTO": "06/08/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.768.985",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN AGUDELO AMAYA - 1285110871",
+            "AL PIE DE LA FIRMA": "JUAN AGUDELO AMAYA - 1285110871"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9779645",
+            "CEDULA": "1285110871",
+            "NOMBRES": "JUAN AGUDELO AMAYA",
+            "CREDITO": "11.768.985",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "267.506",
+            "E.A": "21.86%",
+            "RECOMPRA O DESEMBOLSO": "2.802.348",
+            "FIRMA ELLECTRONICA": "JUAN AGUDELO AMAYA - 1285110871"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1285110871",
+            "NOMBRES": "JUAN AGUDELO AMAYA",
+            "FIRMA ELLECTRONICA": "JUAN AGUDELO AMAYA - 1285110871"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1285110871",
+            "NOMBRES": "JUAN AGUDELO AMAYA",
+            "FIRMA ELLECTRONICA": "JUAN AGUDELO AMAYA - 1285110871",
+            "AL PIE DE LA FIRMA": "JUAN AGUDELO AMAYA - 1285110871"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN AGUDELO AMAYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1285110871",
+            "NOMBRES": "JUAN AGUDELO AMAYA",
+            "SALARIO": "1.872.922",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1285110871",
+            "NOMBRES": "JUAN AGUDELO AMAYA",
+            "RECOMPRA O DESEMBOLSO": "2.802.348"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "180582471306",
+            "SOLICITUD": "2637234",
+            "CEDULA": "1609415701",
+            "NOMBRES": "CÉSAR LUIS VARGAS",
+            "RECOMPRA O DESEMBOLSO": "1.176.982",
+            "FIRMA ELLECTRONICA": "CÉSAR LUIS VARGAS - 1609415701"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "180582471306",
+            "NOMBRES": "CÉSAR LUIS VARGAS",
+            "CREDITO": "12.561.613",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "355.137",
+            "FIRMA ELLECTRONICA": "CÉSAR LUIS VARGAS - 1609415701",
+            "AL PIE DE LA FIRMA": "CÉSAR LUIS VARGAS - 1609415701"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1609415701",
+            "NOMBRES": "CÉSAR LUIS VARGAS",
+            "FECHA NACIMIENTO": "01/08/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.561.613",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CÉSAR LUIS VARGAS - 1609415701",
+            "AL PIE DE LA FIRMA": "CÉSAR LUIS VARGAS - 1609415701"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2637234",
+            "CEDULA": "1609415701",
+            "NOMBRES": "CÉSAR LUIS VARGAS",
+            "CREDITO": "12.561.613",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "355.137",
+            "E.A": "18.29%",
+            "RECOMPRA O DESEMBOLSO": "1.176.982",
+            "FIRMA ELLECTRONICA": "CÉSAR LUIS VARGAS - 1609415701"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1609415701",
+            "NOMBRES": "CÉSAR LUIS VARGAS",
+            "FIRMA ELLECTRONICA": "CÉSAR LUIS VARGAS - 1609415701"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1609415701",
+            "NOMBRES": "CÉSAR LUIS VARGAS",
+            "FIRMA ELLECTRONICA": "CÉSAR LUIS VARGAS - 1609415701",
+            "AL PIE DE LA FIRMA": "CÉSAR LUIS VARGAS - 1609415701"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CÉSAR LUIS VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1609415701",
+            "NOMBRES": "CÉSAR LUIS VARGAS",
+            "SALARIO": "1.705.103",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1609415701",
+            "NOMBRES": "CÉSAR LUIS VARGAS",
+            "RECOMPRA O DESEMBOLSO": "1.176.982"
+        }
+    }
+]

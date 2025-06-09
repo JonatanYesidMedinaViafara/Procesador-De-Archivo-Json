@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "216486405853",
+            "SOLICITUD": "9788102",
+            "CEDULA": "1259964592",
+            "NOMBRES": "LUCÍA CABRERA FORERO",
+            "RECOMPRA O DESEMBOLSO": "1.704.690",
+            "FIRMA ELLECTRONICA": "LUCÍA CABRERA FORERO - 1259964592"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "216486405853",
+            "NOMBRES": "LUCÍA CABRERA FORERO",
+            "CREDITO": "15.697.926",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "243.887",
+            "FIRMA ELLECTRONICA": "LUCÍA CABRERA FORERO - 1259964592",
+            "AL PIE DE LA FIRMA": "LUCÍA CABRERA FORERO - 1259964592"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1259964592",
+            "NOMBRES": "LUCÍA CABRERA FORERO",
+            "FECHA NACIMIENTO": "20/02/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.697.926",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUCÍA CABRERA FORERO - 1259964592",
+            "AL PIE DE LA FIRMA": "LUCÍA CABRERA FORERO - 1259964592"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9788102",
+            "CEDULA": "1259964592",
+            "NOMBRES": "LUCÍA CABRERA FORERO",
+            "CREDITO": "15.697.926",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "243.887",
+            "E.A": "20.85%",
+            "RECOMPRA O DESEMBOLSO": "1.704.690",
+            "FIRMA ELLECTRONICA": "LUCÍA CABRERA FORERO - 1259964592"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1259964592",
+            "NOMBRES": "LUCÍA CABRERA FORERO",
+            "FIRMA ELLECTRONICA": "LUCÍA CABRERA FORERO - 1259964592"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1259964592",
+            "NOMBRES": "LUCÍA CABRERA FORERO",
+            "FIRMA ELLECTRONICA": "LUCÍA CABRERA FORERO - 1259964592",
+            "AL PIE DE LA FIRMA": "LUCÍA CABRERA FORERO - 1259964592"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA CABRERA FORERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1259964592",
+            "NOMBRES": "LUCÍA CABRERA FORERO",
+            "SALARIO": "3.650.001",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1259964592",
+            "NOMBRES": "LUCÍA CABRERA FORERO",
+            "RECOMPRA O DESEMBOLSO": "1.704.690"
+        }
+    }
+]

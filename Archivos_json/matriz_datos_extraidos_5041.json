@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "221955350955",
+            "SOLICITUD": "3610007",
+            "CEDULA": "1104523026",
+            "NOMBRES": "DANIEL DAVID CASTILLO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.868.380",
+            "FIRMA ELLECTRONICA": "DANIEL DAVID CASTILLO PÉREZ - 1104523026"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "221955350955",
+            "NOMBRES": "DANIEL DAVID CASTILLO PÉREZ",
+            "CREDITO": "7.149.974",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "129.063",
+            "FIRMA ELLECTRONICA": "DANIEL DAVID CASTILLO PÉREZ - 1104523026",
+            "AL PIE DE LA FIRMA": "DANIEL DAVID CASTILLO PÉREZ - 1104523026"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1104523026",
+            "NOMBRES": "DANIEL DAVID CASTILLO PÉREZ",
+            "FECHA NACIMIENTO": "14/06/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.149.974",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DANIEL DAVID CASTILLO PÉREZ - 1104523026",
+            "AL PIE DE LA FIRMA": "DANIEL DAVID CASTILLO PÉREZ - 1104523026"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3610007",
+            "CEDULA": "1104523026",
+            "NOMBRES": "DANIEL DAVID CASTILLO PÉREZ",
+            "CREDITO": "7.149.974",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "129.063",
+            "E.A": "21.72%",
+            "RECOMPRA O DESEMBOLSO": "4.868.380",
+            "FIRMA ELLECTRONICA": "DANIEL DAVID CASTILLO PÉREZ - 1104523026"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1104523026",
+            "NOMBRES": "DANIEL DAVID CASTILLO PÉREZ",
+            "FIRMA ELLECTRONICA": "DANIEL DAVID CASTILLO PÉREZ - 1104523026"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1104523026",
+            "NOMBRES": "DANIEL DAVID CASTILLO PÉREZ",
+            "FIRMA ELLECTRONICA": "DANIEL DAVID CASTILLO PÉREZ - 1104523026",
+            "AL PIE DE LA FIRMA": "DANIEL DAVID CASTILLO PÉREZ - 1104523026"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL DAVID CASTILLO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1104523026",
+            "NOMBRES": "DANIEL DAVID CASTILLO PÉREZ",
+            "SALARIO": "4.205.423",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1104523026",
+            "NOMBRES": "DANIEL DAVID CASTILLO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.868.380"
+        }
+    }
+]

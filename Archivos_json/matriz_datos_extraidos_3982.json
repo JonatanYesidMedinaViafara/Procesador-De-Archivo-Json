@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "171196045694",
+            "SOLICITUD": "4422234",
+            "CEDULA": "1017434989",
+            "NOMBRES": "LUZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "3.041.901",
+            "FIRMA ELLECTRONICA": "LUZ ARIAS - 1017434989"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "171196045694",
+            "NOMBRES": "LUZ ARIAS",
+            "CREDITO": "18.105.283",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "345.698",
+            "FIRMA ELLECTRONICA": "LUZ ARIAS - 1017434989",
+            "AL PIE DE LA FIRMA": "LUZ ARIAS - 1017434989"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1017434989",
+            "NOMBRES": "LUZ ARIAS",
+            "FECHA NACIMIENTO": "20/08/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.105.283",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ ARIAS - 1017434989",
+            "AL PIE DE LA FIRMA": "LUZ ARIAS - 1017434989"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4422234",
+            "CEDULA": "1017434989",
+            "NOMBRES": "LUZ ARIAS",
+            "CREDITO": "18.105.283",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "345.698",
+            "E.A": "21.89%",
+            "RECOMPRA O DESEMBOLSO": "3.041.901",
+            "FIRMA ELLECTRONICA": "LUZ ARIAS - 1017434989"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1017434989",
+            "NOMBRES": "LUZ ARIAS",
+            "FIRMA ELLECTRONICA": "LUZ ARIAS - 1017434989"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1017434989",
+            "NOMBRES": "LUZ ARIAS",
+            "FIRMA ELLECTRONICA": "LUZ ARIAS - 1017434989",
+            "AL PIE DE LA FIRMA": "LUZ ARIAS - 1017434989"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1017434989",
+            "NOMBRES": "LUZ ARIAS",
+            "SALARIO": "2.033.208",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1017434989",
+            "NOMBRES": "LUZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "3.041.901"
+        }
+    }
+]

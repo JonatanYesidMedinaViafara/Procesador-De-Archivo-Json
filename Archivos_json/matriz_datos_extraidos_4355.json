@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "319312255750",
+            "SOLICITUD": "1522991",
+            "CEDULA": "1092562487",
+            "NOMBRES": "ANDREA ZAMBRANO JAIMES",
+            "RECOMPRA O DESEMBOLSO": "3.447.382",
+            "FIRMA ELLECTRONICA": "ANDREA ZAMBRANO JAIMES - 1092562487"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "319312255750",
+            "NOMBRES": "ANDREA ZAMBRANO JAIMES",
+            "CREDITO": "6.946.372",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "207.913",
+            "FIRMA ELLECTRONICA": "ANDREA ZAMBRANO JAIMES - 1092562487",
+            "AL PIE DE LA FIRMA": "ANDREA ZAMBRANO JAIMES - 1092562487"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1092562487",
+            "NOMBRES": "ANDREA ZAMBRANO JAIMES",
+            "FECHA NACIMIENTO": "19/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.946.372",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDREA ZAMBRANO JAIMES - 1092562487",
+            "AL PIE DE LA FIRMA": "ANDREA ZAMBRANO JAIMES - 1092562487"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1522991",
+            "CEDULA": "1092562487",
+            "NOMBRES": "ANDREA ZAMBRANO JAIMES",
+            "CREDITO": "6.946.372",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "207.913",
+            "E.A": "22.66%",
+            "RECOMPRA O DESEMBOLSO": "3.447.382",
+            "FIRMA ELLECTRONICA": "ANDREA ZAMBRANO JAIMES - 1092562487"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1092562487",
+            "NOMBRES": "ANDREA ZAMBRANO JAIMES",
+            "FIRMA ELLECTRONICA": "ANDREA ZAMBRANO JAIMES - 1092562487"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1092562487",
+            "NOMBRES": "ANDREA ZAMBRANO JAIMES",
+            "FIRMA ELLECTRONICA": "ANDREA ZAMBRANO JAIMES - 1092562487",
+            "AL PIE DE LA FIRMA": "ANDREA ZAMBRANO JAIMES - 1092562487"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA ZAMBRANO JAIMES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1092562487",
+            "NOMBRES": "ANDREA ZAMBRANO JAIMES",
+            "SALARIO": "1.949.660",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1092562487",
+            "NOMBRES": "ANDREA ZAMBRANO JAIMES",
+            "RECOMPRA O DESEMBOLSO": "3.447.382"
+        }
+    }
+]

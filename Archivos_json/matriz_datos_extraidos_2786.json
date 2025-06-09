@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "251299613662",
+            "SOLICITUD": "2885056",
+            "CEDULA": "1732051461",
+            "NOMBRES": "ALFONSO DUQUE",
+            "RECOMPRA O DESEMBOLSO": "1.657.940",
+            "FIRMA ELLECTRONICA": "ALFONSO DUQUE - 1732051461"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "251299613662",
+            "NOMBRES": "ALFONSO DUQUE",
+            "CREDITO": "16.779.606",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "339.145",
+            "FIRMA ELLECTRONICA": "ALFONSO DUQUE - 1732051461",
+            "AL PIE DE LA FIRMA": "ALFONSO DUQUE - 1732051461"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1732051461",
+            "NOMBRES": "ALFONSO DUQUE",
+            "FECHA NACIMIENTO": "11/05/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.779.606",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALFONSO DUQUE - 1732051461",
+            "AL PIE DE LA FIRMA": "ALFONSO DUQUE - 1732051461"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2885056",
+            "CEDULA": "1732051461",
+            "NOMBRES": "ALFONSO DUQUE",
+            "CREDITO": "16.779.606",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "339.145",
+            "E.A": "25.18%",
+            "RECOMPRA O DESEMBOLSO": "1.657.940",
+            "FIRMA ELLECTRONICA": "ALFONSO DUQUE - 1732051461"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1732051461",
+            "NOMBRES": "ALFONSO DUQUE",
+            "FIRMA ELLECTRONICA": "ALFONSO DUQUE - 1732051461"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1732051461",
+            "NOMBRES": "ALFONSO DUQUE",
+            "FIRMA ELLECTRONICA": "ALFONSO DUQUE - 1732051461",
+            "AL PIE DE LA FIRMA": "ALFONSO DUQUE - 1732051461"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFONSO DUQUE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1732051461",
+            "NOMBRES": "ALFONSO DUQUE",
+            "SALARIO": "1.921.144",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1732051461",
+            "NOMBRES": "ALFONSO DUQUE",
+            "RECOMPRA O DESEMBOLSO": "1.657.940"
+        }
+    }
+]

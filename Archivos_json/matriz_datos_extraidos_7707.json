@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "875819301933",
+            "SOLICITUD": "3526590",
+            "CEDULA": "1908744021",
+            "NOMBRES": "JUAN EDUARDO FONSECA",
+            "RECOMPRA O DESEMBOLSO": "1.704.346",
+            "FIRMA ELLECTRONICA": "JUAN EDUARDO FONSECA - 1908744021"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "875819301933",
+            "NOMBRES": "JUAN EDUARDO FONSECA",
+            "CREDITO": "16.887.313",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "201.652",
+            "FIRMA ELLECTRONICA": "JUAN EDUARDO FONSECA - 1908744021",
+            "AL PIE DE LA FIRMA": "JUAN EDUARDO FONSECA - 1908744021"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1908744021",
+            "NOMBRES": "JUAN EDUARDO FONSECA",
+            "FECHA NACIMIENTO": "11/10/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.887.313",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN EDUARDO FONSECA - 1908744021",
+            "AL PIE DE LA FIRMA": "JUAN EDUARDO FONSECA - 1908744021"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3526590",
+            "CEDULA": "1908744021",
+            "NOMBRES": "JUAN EDUARDO FONSECA",
+            "CREDITO": "16.887.313",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "201.652",
+            "E.A": "22.24%",
+            "RECOMPRA O DESEMBOLSO": "1.704.346",
+            "FIRMA ELLECTRONICA": "JUAN EDUARDO FONSECA - 1908744021"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1908744021",
+            "NOMBRES": "JUAN EDUARDO FONSECA",
+            "FIRMA ELLECTRONICA": "JUAN EDUARDO FONSECA - 1908744021"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1908744021",
+            "NOMBRES": "JUAN EDUARDO FONSECA",
+            "FIRMA ELLECTRONICA": "JUAN EDUARDO FONSECA - 1908744021",
+            "AL PIE DE LA FIRMA": "JUAN EDUARDO FONSECA - 1908744021"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN EDUARDO FONSECA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1908744021",
+            "NOMBRES": "JUAN EDUARDO FONSECA",
+            "SALARIO": "2.126.082",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1908744021",
+            "NOMBRES": "JUAN EDUARDO FONSECA",
+            "RECOMPRA O DESEMBOLSO": "1.704.346"
+        }
+    }
+]

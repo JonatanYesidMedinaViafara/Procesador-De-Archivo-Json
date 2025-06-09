@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "777805828437",
+            "SOLICITUD": "7080721",
+            "CEDULA": "1754092194",
+            "NOMBRES": "JAVIER NICOLÁS TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.279.850",
+            "FIRMA ELLECTRONICA": "JAVIER NICOLÁS TORRES - 1754092194"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "777805828437",
+            "NOMBRES": "JAVIER NICOLÁS TORRES",
+            "CREDITO": "9.797.702",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "276.943",
+            "FIRMA ELLECTRONICA": "JAVIER NICOLÁS TORRES - 1754092194",
+            "AL PIE DE LA FIRMA": "JAVIER NICOLÁS TORRES - 1754092194"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1754092194",
+            "NOMBRES": "JAVIER NICOLÁS TORRES",
+            "FECHA NACIMIENTO": "18/03/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.797.702",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAVIER NICOLÁS TORRES - 1754092194",
+            "AL PIE DE LA FIRMA": "JAVIER NICOLÁS TORRES - 1754092194"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7080721",
+            "CEDULA": "1754092194",
+            "NOMBRES": "JAVIER NICOLÁS TORRES",
+            "CREDITO": "9.797.702",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "276.943",
+            "E.A": "23.59%",
+            "RECOMPRA O DESEMBOLSO": "2.279.850",
+            "FIRMA ELLECTRONICA": "JAVIER NICOLÁS TORRES - 1754092194"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1754092194",
+            "NOMBRES": "JAVIER NICOLÁS TORRES",
+            "FIRMA ELLECTRONICA": "JAVIER NICOLÁS TORRES - 1754092194"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1754092194",
+            "NOMBRES": "JAVIER NICOLÁS TORRES",
+            "FIRMA ELLECTRONICA": "JAVIER NICOLÁS TORRES - 1754092194",
+            "AL PIE DE LA FIRMA": "JAVIER NICOLÁS TORRES - 1754092194"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER NICOLÁS TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1754092194",
+            "NOMBRES": "JAVIER NICOLÁS TORRES",
+            "SALARIO": "3.893.972",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1754092194",
+            "NOMBRES": "JAVIER NICOLÁS TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.279.850"
+        }
+    }
+]

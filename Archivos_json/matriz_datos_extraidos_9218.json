@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "190031151946",
+            "SOLICITUD": "9864453",
+            "CEDULA": "1736380097",
+            "NOMBRES": "ALBERTO RUBÉN LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.521.538",
+            "FIRMA ELLECTRONICA": "ALBERTO RUBÉN LÓPEZ - 1736380097"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "190031151946",
+            "NOMBRES": "ALBERTO RUBÉN LÓPEZ",
+            "CREDITO": "11.404.755",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "298.317",
+            "FIRMA ELLECTRONICA": "ALBERTO RUBÉN LÓPEZ - 1736380097",
+            "AL PIE DE LA FIRMA": "ALBERTO RUBÉN LÓPEZ - 1736380097"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1736380097",
+            "NOMBRES": "ALBERTO RUBÉN LÓPEZ",
+            "FECHA NACIMIENTO": "24/01/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.404.755",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBERTO RUBÉN LÓPEZ - 1736380097",
+            "AL PIE DE LA FIRMA": "ALBERTO RUBÉN LÓPEZ - 1736380097"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9864453",
+            "CEDULA": "1736380097",
+            "NOMBRES": "ALBERTO RUBÉN LÓPEZ",
+            "CREDITO": "11.404.755",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "298.317",
+            "E.A": "27.28%",
+            "RECOMPRA O DESEMBOLSO": "2.521.538",
+            "FIRMA ELLECTRONICA": "ALBERTO RUBÉN LÓPEZ - 1736380097"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1736380097",
+            "NOMBRES": "ALBERTO RUBÉN LÓPEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO RUBÉN LÓPEZ - 1736380097"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1736380097",
+            "NOMBRES": "ALBERTO RUBÉN LÓPEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO RUBÉN LÓPEZ - 1736380097",
+            "AL PIE DE LA FIRMA": "ALBERTO RUBÉN LÓPEZ - 1736380097"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO RUBÉN LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1736380097",
+            "NOMBRES": "ALBERTO RUBÉN LÓPEZ",
+            "SALARIO": "1.483.437",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1736380097",
+            "NOMBRES": "ALBERTO RUBÉN LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.521.538"
+        }
+    }
+]

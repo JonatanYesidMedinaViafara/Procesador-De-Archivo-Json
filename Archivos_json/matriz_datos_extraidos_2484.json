@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "217005318020",
+            "SOLICITUD": "3837382",
+            "CEDULA": "1791844779",
+            "NOMBRES": "MIGUEL OROZCO",
+            "RECOMPRA O DESEMBOLSO": "3.881.411",
+            "FIRMA ELLECTRONICA": "MIGUEL OROZCO - 1791844779"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "217005318020",
+            "NOMBRES": "MIGUEL OROZCO",
+            "CREDITO": "12.846.929",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "167.965",
+            "FIRMA ELLECTRONICA": "MIGUEL OROZCO - 1791844779",
+            "AL PIE DE LA FIRMA": "MIGUEL OROZCO - 1791844779"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1791844779",
+            "NOMBRES": "MIGUEL OROZCO",
+            "FECHA NACIMIENTO": "03/09/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.846.929",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MIGUEL OROZCO - 1791844779",
+            "AL PIE DE LA FIRMA": "MIGUEL OROZCO - 1791844779"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3837382",
+            "CEDULA": "1791844779",
+            "NOMBRES": "MIGUEL OROZCO",
+            "CREDITO": "12.846.929",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "167.965",
+            "E.A": "28.95%",
+            "RECOMPRA O DESEMBOLSO": "3.881.411",
+            "FIRMA ELLECTRONICA": "MIGUEL OROZCO - 1791844779"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1791844779",
+            "NOMBRES": "MIGUEL OROZCO",
+            "FIRMA ELLECTRONICA": "MIGUEL OROZCO - 1791844779"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1791844779",
+            "NOMBRES": "MIGUEL OROZCO",
+            "FIRMA ELLECTRONICA": "MIGUEL OROZCO - 1791844779",
+            "AL PIE DE LA FIRMA": "MIGUEL OROZCO - 1791844779"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL OROZCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1791844779",
+            "NOMBRES": "MIGUEL OROZCO",
+            "SALARIO": "2.654.577",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1791844779",
+            "NOMBRES": "MIGUEL OROZCO",
+            "RECOMPRA O DESEMBOLSO": "3.881.411"
+        }
+    }
+]

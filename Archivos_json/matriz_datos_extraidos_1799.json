@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "300397693241",
+            "SOLICITUD": "3987723",
+            "CEDULA": "1374147473",
+            "NOMBRES": "JUAN DANIEL GÓMEZ NÚÑEZ",
+            "RECOMPRA O DESEMBOLSO": "1.100.246",
+            "FIRMA ELLECTRONICA": "JUAN DANIEL GÓMEZ NÚÑEZ - 1374147473"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "300397693241",
+            "NOMBRES": "JUAN DANIEL GÓMEZ NÚÑEZ",
+            "CREDITO": "7.187.731",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "164.168",
+            "FIRMA ELLECTRONICA": "JUAN DANIEL GÓMEZ NÚÑEZ - 1374147473",
+            "AL PIE DE LA FIRMA": "JUAN DANIEL GÓMEZ NÚÑEZ - 1374147473"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1374147473",
+            "NOMBRES": "JUAN DANIEL GÓMEZ NÚÑEZ",
+            "FECHA NACIMIENTO": "25/04/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.187.731",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN DANIEL GÓMEZ NÚÑEZ - 1374147473",
+            "AL PIE DE LA FIRMA": "JUAN DANIEL GÓMEZ NÚÑEZ - 1374147473"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3987723",
+            "CEDULA": "1374147473",
+            "NOMBRES": "JUAN DANIEL GÓMEZ NÚÑEZ",
+            "CREDITO": "7.187.731",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "164.168",
+            "E.A": "23.37%",
+            "RECOMPRA O DESEMBOLSO": "1.100.246",
+            "FIRMA ELLECTRONICA": "JUAN DANIEL GÓMEZ NÚÑEZ - 1374147473"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1374147473",
+            "NOMBRES": "JUAN DANIEL GÓMEZ NÚÑEZ",
+            "FIRMA ELLECTRONICA": "JUAN DANIEL GÓMEZ NÚÑEZ - 1374147473"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1374147473",
+            "NOMBRES": "JUAN DANIEL GÓMEZ NÚÑEZ",
+            "FIRMA ELLECTRONICA": "JUAN DANIEL GÓMEZ NÚÑEZ - 1374147473",
+            "AL PIE DE LA FIRMA": "JUAN DANIEL GÓMEZ NÚÑEZ - 1374147473"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN DANIEL GÓMEZ NÚÑEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1374147473",
+            "NOMBRES": "JUAN DANIEL GÓMEZ NÚÑEZ",
+            "SALARIO": "4.823.985",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1374147473",
+            "NOMBRES": "JUAN DANIEL GÓMEZ NÚÑEZ",
+            "RECOMPRA O DESEMBOLSO": "1.100.246"
+        }
+    }
+]

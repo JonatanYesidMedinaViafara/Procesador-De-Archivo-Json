@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "373298798129",
+            "SOLICITUD": "6828043",
+            "CEDULA": "1519491972",
+            "NOMBRES": "SANDRA MUÑOZ AMAYA",
+            "RECOMPRA O DESEMBOLSO": "2.879.903",
+            "FIRMA ELLECTRONICA": "SANDRA MUÑOZ AMAYA - 1519491972"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "373298798129",
+            "NOMBRES": "SANDRA MUÑOZ AMAYA",
+            "CREDITO": "17.347.914",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "190.801",
+            "FIRMA ELLECTRONICA": "SANDRA MUÑOZ AMAYA - 1519491972",
+            "AL PIE DE LA FIRMA": "SANDRA MUÑOZ AMAYA - 1519491972"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1519491972",
+            "NOMBRES": "SANDRA MUÑOZ AMAYA",
+            "FECHA NACIMIENTO": "03/07/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.347.914",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SANDRA MUÑOZ AMAYA - 1519491972",
+            "AL PIE DE LA FIRMA": "SANDRA MUÑOZ AMAYA - 1519491972"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6828043",
+            "CEDULA": "1519491972",
+            "NOMBRES": "SANDRA MUÑOZ AMAYA",
+            "CREDITO": "17.347.914",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "190.801",
+            "E.A": "18.81%",
+            "RECOMPRA O DESEMBOLSO": "2.879.903",
+            "FIRMA ELLECTRONICA": "SANDRA MUÑOZ AMAYA - 1519491972"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1519491972",
+            "NOMBRES": "SANDRA MUÑOZ AMAYA",
+            "FIRMA ELLECTRONICA": "SANDRA MUÑOZ AMAYA - 1519491972"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1519491972",
+            "NOMBRES": "SANDRA MUÑOZ AMAYA",
+            "FIRMA ELLECTRONICA": "SANDRA MUÑOZ AMAYA - 1519491972",
+            "AL PIE DE LA FIRMA": "SANDRA MUÑOZ AMAYA - 1519491972"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA MUÑOZ AMAYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1519491972",
+            "NOMBRES": "SANDRA MUÑOZ AMAYA",
+            "SALARIO": "1.939.797",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1519491972",
+            "NOMBRES": "SANDRA MUÑOZ AMAYA",
+            "RECOMPRA O DESEMBOLSO": "2.879.903"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "913765971113",
+            "SOLICITUD": "7529703",
+            "CEDULA": "1246615508",
+            "NOMBRES": "ENRIQUE JOSÉ MENDOZA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.264.361",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ MENDOZA GÓMEZ - 1246615508"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "913765971113",
+            "NOMBRES": "ENRIQUE JOSÉ MENDOZA GÓMEZ",
+            "CREDITO": "14.965.315",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "211.487",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ MENDOZA GÓMEZ - 1246615508",
+            "AL PIE DE LA FIRMA": "ENRIQUE JOSÉ MENDOZA GÓMEZ - 1246615508"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1246615508",
+            "NOMBRES": "ENRIQUE JOSÉ MENDOZA GÓMEZ",
+            "FECHA NACIMIENTO": "13/09/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.965.315",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ MENDOZA GÓMEZ - 1246615508",
+            "AL PIE DE LA FIRMA": "ENRIQUE JOSÉ MENDOZA GÓMEZ - 1246615508"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7529703",
+            "CEDULA": "1246615508",
+            "NOMBRES": "ENRIQUE JOSÉ MENDOZA GÓMEZ",
+            "CREDITO": "14.965.315",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "211.487",
+            "E.A": "23.7%",
+            "RECOMPRA O DESEMBOLSO": "4.264.361",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ MENDOZA GÓMEZ - 1246615508"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1246615508",
+            "NOMBRES": "ENRIQUE JOSÉ MENDOZA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ MENDOZA GÓMEZ - 1246615508"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1246615508",
+            "NOMBRES": "ENRIQUE JOSÉ MENDOZA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ MENDOZA GÓMEZ - 1246615508",
+            "AL PIE DE LA FIRMA": "ENRIQUE JOSÉ MENDOZA GÓMEZ - 1246615508"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE JOSÉ MENDOZA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1246615508",
+            "NOMBRES": "ENRIQUE JOSÉ MENDOZA GÓMEZ",
+            "SALARIO": "3.749.164",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1246615508",
+            "NOMBRES": "ENRIQUE JOSÉ MENDOZA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.264.361"
+        }
+    }
+]

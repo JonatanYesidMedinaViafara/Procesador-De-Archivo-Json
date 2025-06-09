@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "910460085678",
+            "SOLICITUD": "5717559",
+            "CEDULA": "1990090236",
+            "NOMBRES": "EMMA MARÍA TORO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.088.620",
+            "FIRMA ELLECTRONICA": "EMMA MARÍA TORO LÓPEZ - 1990090236"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "910460085678",
+            "NOMBRES": "EMMA MARÍA TORO LÓPEZ",
+            "CREDITO": "14.986.894",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "154.255",
+            "FIRMA ELLECTRONICA": "EMMA MARÍA TORO LÓPEZ - 1990090236",
+            "AL PIE DE LA FIRMA": "EMMA MARÍA TORO LÓPEZ - 1990090236"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1990090236",
+            "NOMBRES": "EMMA MARÍA TORO LÓPEZ",
+            "FECHA NACIMIENTO": "19/11/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.986.894",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EMMA MARÍA TORO LÓPEZ - 1990090236",
+            "AL PIE DE LA FIRMA": "EMMA MARÍA TORO LÓPEZ - 1990090236"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5717559",
+            "CEDULA": "1990090236",
+            "NOMBRES": "EMMA MARÍA TORO LÓPEZ",
+            "CREDITO": "14.986.894",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "154.255",
+            "E.A": "28.39%",
+            "RECOMPRA O DESEMBOLSO": "2.088.620",
+            "FIRMA ELLECTRONICA": "EMMA MARÍA TORO LÓPEZ - 1990090236"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1990090236",
+            "NOMBRES": "EMMA MARÍA TORO LÓPEZ",
+            "FIRMA ELLECTRONICA": "EMMA MARÍA TORO LÓPEZ - 1990090236"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1990090236",
+            "NOMBRES": "EMMA MARÍA TORO LÓPEZ",
+            "FIRMA ELLECTRONICA": "EMMA MARÍA TORO LÓPEZ - 1990090236",
+            "AL PIE DE LA FIRMA": "EMMA MARÍA TORO LÓPEZ - 1990090236"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMMA MARÍA TORO LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1990090236",
+            "NOMBRES": "EMMA MARÍA TORO LÓPEZ",
+            "SALARIO": "4.347.973",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1990090236",
+            "NOMBRES": "EMMA MARÍA TORO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.088.620"
+        }
+    }
+]

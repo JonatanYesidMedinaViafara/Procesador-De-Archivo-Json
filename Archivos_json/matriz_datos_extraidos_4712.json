@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "673841634270",
+            "SOLICITUD": "6759173",
+            "CEDULA": "1073473689",
+            "NOMBRES": "MARTHA ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "1.130.185",
+            "FIRMA ELLECTRONICA": "MARTHA ZAPATA - 1073473689"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "673841634270",
+            "NOMBRES": "MARTHA ZAPATA",
+            "CREDITO": "11.913.402",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "205.467",
+            "FIRMA ELLECTRONICA": "MARTHA ZAPATA - 1073473689",
+            "AL PIE DE LA FIRMA": "MARTHA ZAPATA - 1073473689"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1073473689",
+            "NOMBRES": "MARTHA ZAPATA",
+            "FECHA NACIMIENTO": "14/12/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.913.402",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARTHA ZAPATA - 1073473689",
+            "AL PIE DE LA FIRMA": "MARTHA ZAPATA - 1073473689"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6759173",
+            "CEDULA": "1073473689",
+            "NOMBRES": "MARTHA ZAPATA",
+            "CREDITO": "11.913.402",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "205.467",
+            "E.A": "23.38%",
+            "RECOMPRA O DESEMBOLSO": "1.130.185",
+            "FIRMA ELLECTRONICA": "MARTHA ZAPATA - 1073473689"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1073473689",
+            "NOMBRES": "MARTHA ZAPATA",
+            "FIRMA ELLECTRONICA": "MARTHA ZAPATA - 1073473689"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1073473689",
+            "NOMBRES": "MARTHA ZAPATA",
+            "FIRMA ELLECTRONICA": "MARTHA ZAPATA - 1073473689",
+            "AL PIE DE LA FIRMA": "MARTHA ZAPATA - 1073473689"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTHA ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1073473689",
+            "NOMBRES": "MARTHA ZAPATA",
+            "SALARIO": "2.372.734",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1073473689",
+            "NOMBRES": "MARTHA ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "1.130.185"
+        }
+    }
+]

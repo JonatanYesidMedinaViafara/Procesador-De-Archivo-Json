@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "501798457589",
+            "SOLICITUD": "9990748",
+            "CEDULA": "1134877707",
+            "NOMBRES": "ALEJANDRA MARTÍNEZ REYES",
+            "RECOMPRA O DESEMBOLSO": "3.257.417",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARTÍNEZ REYES - 1134877707"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "501798457589",
+            "NOMBRES": "ALEJANDRA MARTÍNEZ REYES",
+            "CREDITO": "6.277.001",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "335.042",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARTÍNEZ REYES - 1134877707",
+            "AL PIE DE LA FIRMA": "ALEJANDRA MARTÍNEZ REYES - 1134877707"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1134877707",
+            "NOMBRES": "ALEJANDRA MARTÍNEZ REYES",
+            "FECHA NACIMIENTO": "23/09/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.277.001",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARTÍNEZ REYES - 1134877707",
+            "AL PIE DE LA FIRMA": "ALEJANDRA MARTÍNEZ REYES - 1134877707"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9990748",
+            "CEDULA": "1134877707",
+            "NOMBRES": "ALEJANDRA MARTÍNEZ REYES",
+            "CREDITO": "6.277.001",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "335.042",
+            "E.A": "25.36%",
+            "RECOMPRA O DESEMBOLSO": "3.257.417",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARTÍNEZ REYES - 1134877707"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1134877707",
+            "NOMBRES": "ALEJANDRA MARTÍNEZ REYES",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARTÍNEZ REYES - 1134877707"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1134877707",
+            "NOMBRES": "ALEJANDRA MARTÍNEZ REYES",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARTÍNEZ REYES - 1134877707",
+            "AL PIE DE LA FIRMA": "ALEJANDRA MARTÍNEZ REYES - 1134877707"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRA MARTÍNEZ REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1134877707",
+            "NOMBRES": "ALEJANDRA MARTÍNEZ REYES",
+            "SALARIO": "3.061.774",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1134877707",
+            "NOMBRES": "ALEJANDRA MARTÍNEZ REYES",
+            "RECOMPRA O DESEMBOLSO": "3.257.417"
+        }
+    }
+]

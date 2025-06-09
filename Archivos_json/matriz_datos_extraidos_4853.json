@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "654059025833",
+            "SOLICITUD": "2018175",
+            "CEDULA": "1159303762",
+            "NOMBRES": "ALFONSO MOSQUERA GALEANO",
+            "RECOMPRA O DESEMBOLSO": "2.978.569",
+            "FIRMA ELLECTRONICA": "ALFONSO MOSQUERA GALEANO - 1159303762"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "654059025833",
+            "NOMBRES": "ALFONSO MOSQUERA GALEANO",
+            "CREDITO": "9.106.644",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "131.925",
+            "FIRMA ELLECTRONICA": "ALFONSO MOSQUERA GALEANO - 1159303762",
+            "AL PIE DE LA FIRMA": "ALFONSO MOSQUERA GALEANO - 1159303762"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1159303762",
+            "NOMBRES": "ALFONSO MOSQUERA GALEANO",
+            "FECHA NACIMIENTO": "10/07/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.106.644",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALFONSO MOSQUERA GALEANO - 1159303762",
+            "AL PIE DE LA FIRMA": "ALFONSO MOSQUERA GALEANO - 1159303762"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2018175",
+            "CEDULA": "1159303762",
+            "NOMBRES": "ALFONSO MOSQUERA GALEANO",
+            "CREDITO": "9.106.644",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "131.925",
+            "E.A": "27.48%",
+            "RECOMPRA O DESEMBOLSO": "2.978.569",
+            "FIRMA ELLECTRONICA": "ALFONSO MOSQUERA GALEANO - 1159303762"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1159303762",
+            "NOMBRES": "ALFONSO MOSQUERA GALEANO",
+            "FIRMA ELLECTRONICA": "ALFONSO MOSQUERA GALEANO - 1159303762"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1159303762",
+            "NOMBRES": "ALFONSO MOSQUERA GALEANO",
+            "FIRMA ELLECTRONICA": "ALFONSO MOSQUERA GALEANO - 1159303762",
+            "AL PIE DE LA FIRMA": "ALFONSO MOSQUERA GALEANO - 1159303762"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFONSO MOSQUERA GALEANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1159303762",
+            "NOMBRES": "ALFONSO MOSQUERA GALEANO",
+            "SALARIO": "2.460.269",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1159303762",
+            "NOMBRES": "ALFONSO MOSQUERA GALEANO",
+            "RECOMPRA O DESEMBOLSO": "2.978.569"
+        }
+    }
+]

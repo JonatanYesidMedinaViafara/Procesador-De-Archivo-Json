@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "202504156873",
+            "SOLICITUD": "7094248",
+            "CEDULA": "1968785187",
+            "NOMBRES": "ENRIQUE MAURICIO ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.914.357",
+            "FIRMA ELLECTRONICA": "ENRIQUE MAURICIO ROJAS - 1968785187"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "202504156873",
+            "NOMBRES": "ENRIQUE MAURICIO ROJAS",
+            "CREDITO": "8.164.612",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "135.248",
+            "FIRMA ELLECTRONICA": "ENRIQUE MAURICIO ROJAS - 1968785187",
+            "AL PIE DE LA FIRMA": "ENRIQUE MAURICIO ROJAS - 1968785187"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1968785187",
+            "NOMBRES": "ENRIQUE MAURICIO ROJAS",
+            "FECHA NACIMIENTO": "17/08/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.164.612",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ENRIQUE MAURICIO ROJAS - 1968785187",
+            "AL PIE DE LA FIRMA": "ENRIQUE MAURICIO ROJAS - 1968785187"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7094248",
+            "CEDULA": "1968785187",
+            "NOMBRES": "ENRIQUE MAURICIO ROJAS",
+            "CREDITO": "8.164.612",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "135.248",
+            "E.A": "18.45%",
+            "RECOMPRA O DESEMBOLSO": "4.914.357",
+            "FIRMA ELLECTRONICA": "ENRIQUE MAURICIO ROJAS - 1968785187"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1968785187",
+            "NOMBRES": "ENRIQUE MAURICIO ROJAS",
+            "FIRMA ELLECTRONICA": "ENRIQUE MAURICIO ROJAS - 1968785187"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1968785187",
+            "NOMBRES": "ENRIQUE MAURICIO ROJAS",
+            "FIRMA ELLECTRONICA": "ENRIQUE MAURICIO ROJAS - 1968785187",
+            "AL PIE DE LA FIRMA": "ENRIQUE MAURICIO ROJAS - 1968785187"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE MAURICIO ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1968785187",
+            "NOMBRES": "ENRIQUE MAURICIO ROJAS",
+            "SALARIO": "4.929.245",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1968785187",
+            "NOMBRES": "ENRIQUE MAURICIO ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.914.357"
+        }
+    }
+]

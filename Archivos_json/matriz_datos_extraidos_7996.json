@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "931149185813",
+            "SOLICITUD": "6411517",
+            "CEDULA": "1919186278",
+            "NOMBRES": "JULIÁN SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.755.636",
+            "FIRMA ELLECTRONICA": "JULIÁN SALAZAR - 1919186278"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "931149185813",
+            "NOMBRES": "JULIÁN SALAZAR",
+            "CREDITO": "8.404.463",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "238.1",
+            "FIRMA ELLECTRONICA": "JULIÁN SALAZAR - 1919186278",
+            "AL PIE DE LA FIRMA": "JULIÁN SALAZAR - 1919186278"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1919186278",
+            "NOMBRES": "JULIÁN SALAZAR",
+            "FECHA NACIMIENTO": "26/02/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.404.463",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JULIÁN SALAZAR - 1919186278",
+            "AL PIE DE LA FIRMA": "JULIÁN SALAZAR - 1919186278"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6411517",
+            "CEDULA": "1919186278",
+            "NOMBRES": "JULIÁN SALAZAR",
+            "CREDITO": "8.404.463",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "238.1",
+            "E.A": "26.17%",
+            "RECOMPRA O DESEMBOLSO": "1.755.636",
+            "FIRMA ELLECTRONICA": "JULIÁN SALAZAR - 1919186278"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1919186278",
+            "NOMBRES": "JULIÁN SALAZAR",
+            "FIRMA ELLECTRONICA": "JULIÁN SALAZAR - 1919186278"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1919186278",
+            "NOMBRES": "JULIÁN SALAZAR",
+            "FIRMA ELLECTRONICA": "JULIÁN SALAZAR - 1919186278",
+            "AL PIE DE LA FIRMA": "JULIÁN SALAZAR - 1919186278"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIÁN SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1919186278",
+            "NOMBRES": "JULIÁN SALAZAR",
+            "SALARIO": "4.231.542",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1919186278",
+            "NOMBRES": "JULIÁN SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.755.636"
+        }
+    }
+]

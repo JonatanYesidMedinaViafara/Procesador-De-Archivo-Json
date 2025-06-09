@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "750364122934",
+            "SOLICITUD": "5289437",
+            "CEDULA": "1016686548",
+            "NOMBRES": "GLORIA GÓMEZ GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "4.433.738",
+            "FIRMA ELLECTRONICA": "GLORIA GÓMEZ GIRALDO - 1016686548"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "750364122934",
+            "NOMBRES": "GLORIA GÓMEZ GIRALDO",
+            "CREDITO": "13.729.851",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "213.448",
+            "FIRMA ELLECTRONICA": "GLORIA GÓMEZ GIRALDO - 1016686548",
+            "AL PIE DE LA FIRMA": "GLORIA GÓMEZ GIRALDO - 1016686548"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1016686548",
+            "NOMBRES": "GLORIA GÓMEZ GIRALDO",
+            "FECHA NACIMIENTO": "24/02/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.729.851",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "GLORIA GÓMEZ GIRALDO - 1016686548",
+            "AL PIE DE LA FIRMA": "GLORIA GÓMEZ GIRALDO - 1016686548"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5289437",
+            "CEDULA": "1016686548",
+            "NOMBRES": "GLORIA GÓMEZ GIRALDO",
+            "CREDITO": "13.729.851",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "213.448",
+            "E.A": "27.53%",
+            "RECOMPRA O DESEMBOLSO": "4.433.738",
+            "FIRMA ELLECTRONICA": "GLORIA GÓMEZ GIRALDO - 1016686548"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1016686548",
+            "NOMBRES": "GLORIA GÓMEZ GIRALDO",
+            "FIRMA ELLECTRONICA": "GLORIA GÓMEZ GIRALDO - 1016686548"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1016686548",
+            "NOMBRES": "GLORIA GÓMEZ GIRALDO",
+            "FIRMA ELLECTRONICA": "GLORIA GÓMEZ GIRALDO - 1016686548",
+            "AL PIE DE LA FIRMA": "GLORIA GÓMEZ GIRALDO - 1016686548"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GLORIA GÓMEZ GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1016686548",
+            "NOMBRES": "GLORIA GÓMEZ GIRALDO",
+            "SALARIO": "1.323.415",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1016686548",
+            "NOMBRES": "GLORIA GÓMEZ GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "4.433.738"
+        }
+    }
+]

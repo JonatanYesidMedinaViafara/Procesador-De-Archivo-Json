@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "177951170663",
+            "SOLICITUD": "2565122",
+            "CEDULA": "1703862556",
+            "NOMBRES": "PAOLA PEÑA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.587.069",
+            "FIRMA ELLECTRONICA": "PAOLA PEÑA PEÑA - 1703862556"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "177951170663",
+            "NOMBRES": "PAOLA PEÑA PEÑA",
+            "CREDITO": "12.350.612",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "334.754",
+            "FIRMA ELLECTRONICA": "PAOLA PEÑA PEÑA - 1703862556",
+            "AL PIE DE LA FIRMA": "PAOLA PEÑA PEÑA - 1703862556"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1703862556",
+            "NOMBRES": "PAOLA PEÑA PEÑA",
+            "FECHA NACIMIENTO": "18/11/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.350.612",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "PAOLA PEÑA PEÑA - 1703862556",
+            "AL PIE DE LA FIRMA": "PAOLA PEÑA PEÑA - 1703862556"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2565122",
+            "CEDULA": "1703862556",
+            "NOMBRES": "PAOLA PEÑA PEÑA",
+            "CREDITO": "12.350.612",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "334.754",
+            "E.A": "18.0%",
+            "RECOMPRA O DESEMBOLSO": "2.587.069",
+            "FIRMA ELLECTRONICA": "PAOLA PEÑA PEÑA - 1703862556"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1703862556",
+            "NOMBRES": "PAOLA PEÑA PEÑA",
+            "FIRMA ELLECTRONICA": "PAOLA PEÑA PEÑA - 1703862556"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1703862556",
+            "NOMBRES": "PAOLA PEÑA PEÑA",
+            "FIRMA ELLECTRONICA": "PAOLA PEÑA PEÑA - 1703862556",
+            "AL PIE DE LA FIRMA": "PAOLA PEÑA PEÑA - 1703862556"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA PEÑA PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1703862556",
+            "NOMBRES": "PAOLA PEÑA PEÑA",
+            "SALARIO": "2.363.566",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1703862556",
+            "NOMBRES": "PAOLA PEÑA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.587.069"
+        }
+    }
+]

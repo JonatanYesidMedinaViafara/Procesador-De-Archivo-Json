@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "119018843847",
+            "SOLICITUD": "7153360",
+            "CEDULA": "1057395658",
+            "NOMBRES": "DIEGO DIEGO PÉREZ MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.731.746",
+            "FIRMA ELLECTRONICA": "DIEGO DIEGO PÉREZ MOSQUERA - 1057395658"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "119018843847",
+            "NOMBRES": "DIEGO DIEGO PÉREZ MOSQUERA",
+            "CREDITO": "12.678.783",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "184.399",
+            "FIRMA ELLECTRONICA": "DIEGO DIEGO PÉREZ MOSQUERA - 1057395658",
+            "AL PIE DE LA FIRMA": "DIEGO DIEGO PÉREZ MOSQUERA - 1057395658"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1057395658",
+            "NOMBRES": "DIEGO DIEGO PÉREZ MOSQUERA",
+            "FECHA NACIMIENTO": "23/01/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.678.783",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DIEGO DIEGO PÉREZ MOSQUERA - 1057395658",
+            "AL PIE DE LA FIRMA": "DIEGO DIEGO PÉREZ MOSQUERA - 1057395658"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7153360",
+            "CEDULA": "1057395658",
+            "NOMBRES": "DIEGO DIEGO PÉREZ MOSQUERA",
+            "CREDITO": "12.678.783",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "184.399",
+            "E.A": "19.27%",
+            "RECOMPRA O DESEMBOLSO": "1.731.746",
+            "FIRMA ELLECTRONICA": "DIEGO DIEGO PÉREZ MOSQUERA - 1057395658"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1057395658",
+            "NOMBRES": "DIEGO DIEGO PÉREZ MOSQUERA",
+            "FIRMA ELLECTRONICA": "DIEGO DIEGO PÉREZ MOSQUERA - 1057395658"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1057395658",
+            "NOMBRES": "DIEGO DIEGO PÉREZ MOSQUERA",
+            "FIRMA ELLECTRONICA": "DIEGO DIEGO PÉREZ MOSQUERA - 1057395658",
+            "AL PIE DE LA FIRMA": "DIEGO DIEGO PÉREZ MOSQUERA - 1057395658"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO DIEGO PÉREZ MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1057395658",
+            "NOMBRES": "DIEGO DIEGO PÉREZ MOSQUERA",
+            "SALARIO": "1.891.268",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1057395658",
+            "NOMBRES": "DIEGO DIEGO PÉREZ MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.731.746"
+        }
+    }
+]

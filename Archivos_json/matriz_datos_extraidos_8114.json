@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "196950333828",
+            "SOLICITUD": "2369431",
+            "CEDULA": "1195283629",
+            "NOMBRES": "MILENA ELIZABETH PACHECO",
+            "RECOMPRA O DESEMBOLSO": "3.512.416",
+            "FIRMA ELLECTRONICA": "MILENA ELIZABETH PACHECO - 1195283629"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "196950333828",
+            "NOMBRES": "MILENA ELIZABETH PACHECO",
+            "CREDITO": "12.876.009",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "392.549",
+            "FIRMA ELLECTRONICA": "MILENA ELIZABETH PACHECO - 1195283629",
+            "AL PIE DE LA FIRMA": "MILENA ELIZABETH PACHECO - 1195283629"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1195283629",
+            "NOMBRES": "MILENA ELIZABETH PACHECO",
+            "FECHA NACIMIENTO": "31/05/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.876.009",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MILENA ELIZABETH PACHECO - 1195283629",
+            "AL PIE DE LA FIRMA": "MILENA ELIZABETH PACHECO - 1195283629"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2369431",
+            "CEDULA": "1195283629",
+            "NOMBRES": "MILENA ELIZABETH PACHECO",
+            "CREDITO": "12.876.009",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "392.549",
+            "E.A": "20.42%",
+            "RECOMPRA O DESEMBOLSO": "3.512.416",
+            "FIRMA ELLECTRONICA": "MILENA ELIZABETH PACHECO - 1195283629"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1195283629",
+            "NOMBRES": "MILENA ELIZABETH PACHECO",
+            "FIRMA ELLECTRONICA": "MILENA ELIZABETH PACHECO - 1195283629"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1195283629",
+            "NOMBRES": "MILENA ELIZABETH PACHECO",
+            "FIRMA ELLECTRONICA": "MILENA ELIZABETH PACHECO - 1195283629",
+            "AL PIE DE LA FIRMA": "MILENA ELIZABETH PACHECO - 1195283629"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA ELIZABETH PACHECO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1195283629",
+            "NOMBRES": "MILENA ELIZABETH PACHECO",
+            "SALARIO": "3.304.239",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1195283629",
+            "NOMBRES": "MILENA ELIZABETH PACHECO",
+            "RECOMPRA O DESEMBOLSO": "3.512.416"
+        }
+    }
+]

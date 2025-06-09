@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "126397609173",
+            "SOLICITUD": "1458242",
+            "CEDULA": "1401246495",
+            "NOMBRES": "ALBA LARA",
+            "RECOMPRA O DESEMBOLSO": "1.918.966",
+            "FIRMA ELLECTRONICA": "ALBA LARA - 1401246495"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "126397609173",
+            "NOMBRES": "ALBA LARA",
+            "CREDITO": "16.794.938",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "375.256",
+            "FIRMA ELLECTRONICA": "ALBA LARA - 1401246495",
+            "AL PIE DE LA FIRMA": "ALBA LARA - 1401246495"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1401246495",
+            "NOMBRES": "ALBA LARA",
+            "FECHA NACIMIENTO": "05/01/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.794.938",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBA LARA - 1401246495",
+            "AL PIE DE LA FIRMA": "ALBA LARA - 1401246495"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1458242",
+            "CEDULA": "1401246495",
+            "NOMBRES": "ALBA LARA",
+            "CREDITO": "16.794.938",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "375.256",
+            "E.A": "20.58%",
+            "RECOMPRA O DESEMBOLSO": "1.918.966",
+            "FIRMA ELLECTRONICA": "ALBA LARA - 1401246495"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1401246495",
+            "NOMBRES": "ALBA LARA",
+            "FIRMA ELLECTRONICA": "ALBA LARA - 1401246495"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1401246495",
+            "NOMBRES": "ALBA LARA",
+            "FIRMA ELLECTRONICA": "ALBA LARA - 1401246495",
+            "AL PIE DE LA FIRMA": "ALBA LARA - 1401246495"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBA LARA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1401246495",
+            "NOMBRES": "ALBA LARA",
+            "SALARIO": "1.922.013",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1401246495",
+            "NOMBRES": "ALBA LARA",
+            "RECOMPRA O DESEMBOLSO": "1.918.966"
+        }
+    }
+]

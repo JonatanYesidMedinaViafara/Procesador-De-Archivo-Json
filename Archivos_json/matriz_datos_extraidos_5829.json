@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "174886874926",
+            "SOLICITUD": "8004284",
+            "CEDULA": "1133087881",
+            "NOMBRES": "DAVID LÓPEZ ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "2.648.900",
+            "FIRMA ELLECTRONICA": "DAVID LÓPEZ ÁLVAREZ - 1133087881"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "174886874926",
+            "NOMBRES": "DAVID LÓPEZ ÁLVAREZ",
+            "CREDITO": "5.226.813",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "351.934",
+            "FIRMA ELLECTRONICA": "DAVID LÓPEZ ÁLVAREZ - 1133087881",
+            "AL PIE DE LA FIRMA": "DAVID LÓPEZ ÁLVAREZ - 1133087881"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1133087881",
+            "NOMBRES": "DAVID LÓPEZ ÁLVAREZ",
+            "FECHA NACIMIENTO": "11/08/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.226.813",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DAVID LÓPEZ ÁLVAREZ - 1133087881",
+            "AL PIE DE LA FIRMA": "DAVID LÓPEZ ÁLVAREZ - 1133087881"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8004284",
+            "CEDULA": "1133087881",
+            "NOMBRES": "DAVID LÓPEZ ÁLVAREZ",
+            "CREDITO": "5.226.813",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "351.934",
+            "E.A": "26.66%",
+            "RECOMPRA O DESEMBOLSO": "2.648.900",
+            "FIRMA ELLECTRONICA": "DAVID LÓPEZ ÁLVAREZ - 1133087881"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1133087881",
+            "NOMBRES": "DAVID LÓPEZ ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "DAVID LÓPEZ ÁLVAREZ - 1133087881"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1133087881",
+            "NOMBRES": "DAVID LÓPEZ ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "DAVID LÓPEZ ÁLVAREZ - 1133087881",
+            "AL PIE DE LA FIRMA": "DAVID LÓPEZ ÁLVAREZ - 1133087881"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID LÓPEZ ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1133087881",
+            "NOMBRES": "DAVID LÓPEZ ÁLVAREZ",
+            "SALARIO": "2.076.565",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1133087881",
+            "NOMBRES": "DAVID LÓPEZ ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "2.648.900"
+        }
+    }
+]

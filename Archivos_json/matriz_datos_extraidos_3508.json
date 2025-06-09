@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "241567150059",
+            "SOLICITUD": "3445237",
+            "CEDULA": "1391803398",
+            "NOMBRES": "JOSÉ AGUIRRE ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "3.740.124",
+            "FIRMA ELLECTRONICA": "JOSÉ AGUIRRE ORTEGA - 1391803398"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "241567150059",
+            "NOMBRES": "JOSÉ AGUIRRE ORTEGA",
+            "CREDITO": "13.171.166",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "153.748",
+            "FIRMA ELLECTRONICA": "JOSÉ AGUIRRE ORTEGA - 1391803398",
+            "AL PIE DE LA FIRMA": "JOSÉ AGUIRRE ORTEGA - 1391803398"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1391803398",
+            "NOMBRES": "JOSÉ AGUIRRE ORTEGA",
+            "FECHA NACIMIENTO": "28/04/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.171.166",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ AGUIRRE ORTEGA - 1391803398",
+            "AL PIE DE LA FIRMA": "JOSÉ AGUIRRE ORTEGA - 1391803398"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3445237",
+            "CEDULA": "1391803398",
+            "NOMBRES": "JOSÉ AGUIRRE ORTEGA",
+            "CREDITO": "13.171.166",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "153.748",
+            "E.A": "24.83%",
+            "RECOMPRA O DESEMBOLSO": "3.740.124",
+            "FIRMA ELLECTRONICA": "JOSÉ AGUIRRE ORTEGA - 1391803398"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1391803398",
+            "NOMBRES": "JOSÉ AGUIRRE ORTEGA",
+            "FIRMA ELLECTRONICA": "JOSÉ AGUIRRE ORTEGA - 1391803398"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1391803398",
+            "NOMBRES": "JOSÉ AGUIRRE ORTEGA",
+            "FIRMA ELLECTRONICA": "JOSÉ AGUIRRE ORTEGA - 1391803398",
+            "AL PIE DE LA FIRMA": "JOSÉ AGUIRRE ORTEGA - 1391803398"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ AGUIRRE ORTEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1391803398",
+            "NOMBRES": "JOSÉ AGUIRRE ORTEGA",
+            "SALARIO": "4.630.224",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1391803398",
+            "NOMBRES": "JOSÉ AGUIRRE ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "3.740.124"
+        }
+    }
+]

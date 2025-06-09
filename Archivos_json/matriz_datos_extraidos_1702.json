@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "904050611482",
+            "SOLICITUD": "8438996",
+            "CEDULA": "1905802686",
+            "NOMBRES": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA",
+            "RECOMPRA O DESEMBOLSO": "3.097.442",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA - 1905802686"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "904050611482",
+            "NOMBRES": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA",
+            "CREDITO": "7.524.583",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "320.774",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA - 1905802686",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA - 1905802686"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1905802686",
+            "NOMBRES": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA",
+            "FECHA NACIMIENTO": "15/02/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.524.583",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA - 1905802686",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA - 1905802686"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8438996",
+            "CEDULA": "1905802686",
+            "NOMBRES": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA",
+            "CREDITO": "7.524.583",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "320.774",
+            "E.A": "19.74%",
+            "RECOMPRA O DESEMBOLSO": "3.097.442",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA - 1905802686"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1905802686",
+            "NOMBRES": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA - 1905802686"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1905802686",
+            "NOMBRES": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA - 1905802686",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA - 1905802686"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1905802686",
+            "NOMBRES": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA",
+            "SALARIO": "4.777.901",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1905802686",
+            "NOMBRES": "ANDRÉS ALBEIRO RODRÍGUEZ ORJUELA",
+            "RECOMPRA O DESEMBOLSO": "3.097.442"
+        }
+    }
+]

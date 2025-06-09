@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "614954547722",
+            "SOLICITUD": "9899233",
+            "CEDULA": "1482898510",
+            "NOMBRES": "EDUARDO MESA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "1.112.160",
+            "FIRMA ELLECTRONICA": "EDUARDO MESA HERRERA - 1482898510"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "614954547722",
+            "NOMBRES": "EDUARDO MESA HERRERA",
+            "CREDITO": "9.921.295",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "133.911",
+            "FIRMA ELLECTRONICA": "EDUARDO MESA HERRERA - 1482898510",
+            "AL PIE DE LA FIRMA": "EDUARDO MESA HERRERA - 1482898510"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1482898510",
+            "NOMBRES": "EDUARDO MESA HERRERA",
+            "FECHA NACIMIENTO": "06/08/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.921.295",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EDUARDO MESA HERRERA - 1482898510",
+            "AL PIE DE LA FIRMA": "EDUARDO MESA HERRERA - 1482898510"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9899233",
+            "CEDULA": "1482898510",
+            "NOMBRES": "EDUARDO MESA HERRERA",
+            "CREDITO": "9.921.295",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "133.911",
+            "E.A": "19.26%",
+            "RECOMPRA O DESEMBOLSO": "1.112.160",
+            "FIRMA ELLECTRONICA": "EDUARDO MESA HERRERA - 1482898510"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1482898510",
+            "NOMBRES": "EDUARDO MESA HERRERA",
+            "FIRMA ELLECTRONICA": "EDUARDO MESA HERRERA - 1482898510"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1482898510",
+            "NOMBRES": "EDUARDO MESA HERRERA",
+            "FIRMA ELLECTRONICA": "EDUARDO MESA HERRERA - 1482898510",
+            "AL PIE DE LA FIRMA": "EDUARDO MESA HERRERA - 1482898510"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO MESA HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1482898510",
+            "NOMBRES": "EDUARDO MESA HERRERA",
+            "SALARIO": "3.972.711",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1482898510",
+            "NOMBRES": "EDUARDO MESA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "1.112.160"
+        }
+    }
+]

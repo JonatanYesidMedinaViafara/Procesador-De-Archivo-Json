@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "671597105579",
+            "SOLICITUD": "8219039",
+            "CEDULA": "1703988710",
+            "NOMBRES": "JUAN CAMILO CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "1.644.060",
+            "FIRMA ELLECTRONICA": "JUAN CAMILO CASTILLO - 1703988710"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "671597105579",
+            "NOMBRES": "JUAN CAMILO CASTILLO",
+            "CREDITO": "17.084.288",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "226.42",
+            "FIRMA ELLECTRONICA": "JUAN CAMILO CASTILLO - 1703988710",
+            "AL PIE DE LA FIRMA": "JUAN CAMILO CASTILLO - 1703988710"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1703988710",
+            "NOMBRES": "JUAN CAMILO CASTILLO",
+            "FECHA NACIMIENTO": "22/04/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.084.288",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN CAMILO CASTILLO - 1703988710",
+            "AL PIE DE LA FIRMA": "JUAN CAMILO CASTILLO - 1703988710"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8219039",
+            "CEDULA": "1703988710",
+            "NOMBRES": "JUAN CAMILO CASTILLO",
+            "CREDITO": "17.084.288",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "226.42",
+            "E.A": "26.8%",
+            "RECOMPRA O DESEMBOLSO": "1.644.060",
+            "FIRMA ELLECTRONICA": "JUAN CAMILO CASTILLO - 1703988710"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1703988710",
+            "NOMBRES": "JUAN CAMILO CASTILLO",
+            "FIRMA ELLECTRONICA": "JUAN CAMILO CASTILLO - 1703988710"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1703988710",
+            "NOMBRES": "JUAN CAMILO CASTILLO",
+            "FIRMA ELLECTRONICA": "JUAN CAMILO CASTILLO - 1703988710",
+            "AL PIE DE LA FIRMA": "JUAN CAMILO CASTILLO - 1703988710"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN CAMILO CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1703988710",
+            "NOMBRES": "JUAN CAMILO CASTILLO",
+            "SALARIO": "3.077.002",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1703988710",
+            "NOMBRES": "JUAN CAMILO CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "1.644.060"
+        }
+    }
+]

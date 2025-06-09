@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "171282073566",
+            "SOLICITUD": "9504944",
+            "CEDULA": "1973348928",
+            "NOMBRES": "CAMILO FELIPE RAMÍREZ CARDOZO",
+            "RECOMPRA O DESEMBOLSO": "3.852.910",
+            "FIRMA ELLECTRONICA": "CAMILO FELIPE RAMÍREZ CARDOZO - 1973348928"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "171282073566",
+            "NOMBRES": "CAMILO FELIPE RAMÍREZ CARDOZO",
+            "CREDITO": "15.441.675",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "365.547",
+            "FIRMA ELLECTRONICA": "CAMILO FELIPE RAMÍREZ CARDOZO - 1973348928",
+            "AL PIE DE LA FIRMA": "CAMILO FELIPE RAMÍREZ CARDOZO - 1973348928"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1973348928",
+            "NOMBRES": "CAMILO FELIPE RAMÍREZ CARDOZO",
+            "FECHA NACIMIENTO": "02/12/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.441.675",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CAMILO FELIPE RAMÍREZ CARDOZO - 1973348928",
+            "AL PIE DE LA FIRMA": "CAMILO FELIPE RAMÍREZ CARDOZO - 1973348928"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9504944",
+            "CEDULA": "1973348928",
+            "NOMBRES": "CAMILO FELIPE RAMÍREZ CARDOZO",
+            "CREDITO": "15.441.675",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "365.547",
+            "E.A": "25.57%",
+            "RECOMPRA O DESEMBOLSO": "3.852.910",
+            "FIRMA ELLECTRONICA": "CAMILO FELIPE RAMÍREZ CARDOZO - 1973348928"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1973348928",
+            "NOMBRES": "CAMILO FELIPE RAMÍREZ CARDOZO",
+            "FIRMA ELLECTRONICA": "CAMILO FELIPE RAMÍREZ CARDOZO - 1973348928"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1973348928",
+            "NOMBRES": "CAMILO FELIPE RAMÍREZ CARDOZO",
+            "FIRMA ELLECTRONICA": "CAMILO FELIPE RAMÍREZ CARDOZO - 1973348928",
+            "AL PIE DE LA FIRMA": "CAMILO FELIPE RAMÍREZ CARDOZO - 1973348928"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO FELIPE RAMÍREZ CARDOZO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1973348928",
+            "NOMBRES": "CAMILO FELIPE RAMÍREZ CARDOZO",
+            "SALARIO": "3.786.194",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1973348928",
+            "NOMBRES": "CAMILO FELIPE RAMÍREZ CARDOZO",
+            "RECOMPRA O DESEMBOLSO": "3.852.910"
+        }
+    }
+]

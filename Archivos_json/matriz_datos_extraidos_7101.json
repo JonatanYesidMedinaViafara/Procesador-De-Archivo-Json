@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "225435529356",
+            "SOLICITUD": "2883007",
+            "CEDULA": "1620600007",
+            "NOMBRES": "KAROL ISABEL CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.717.079",
+            "FIRMA ELLECTRONICA": "KAROL ISABEL CARDONA - 1620600007"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "225435529356",
+            "NOMBRES": "KAROL ISABEL CARDONA",
+            "CREDITO": "10.530.303",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "300.83",
+            "FIRMA ELLECTRONICA": "KAROL ISABEL CARDONA - 1620600007",
+            "AL PIE DE LA FIRMA": "KAROL ISABEL CARDONA - 1620600007"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1620600007",
+            "NOMBRES": "KAROL ISABEL CARDONA",
+            "FECHA NACIMIENTO": "01/11/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.530.303",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "KAROL ISABEL CARDONA - 1620600007",
+            "AL PIE DE LA FIRMA": "KAROL ISABEL CARDONA - 1620600007"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2883007",
+            "CEDULA": "1620600007",
+            "NOMBRES": "KAROL ISABEL CARDONA",
+            "CREDITO": "10.530.303",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "300.83",
+            "E.A": "27.59%",
+            "RECOMPRA O DESEMBOLSO": "4.717.079",
+            "FIRMA ELLECTRONICA": "KAROL ISABEL CARDONA - 1620600007"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1620600007",
+            "NOMBRES": "KAROL ISABEL CARDONA",
+            "FIRMA ELLECTRONICA": "KAROL ISABEL CARDONA - 1620600007"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1620600007",
+            "NOMBRES": "KAROL ISABEL CARDONA",
+            "FIRMA ELLECTRONICA": "KAROL ISABEL CARDONA - 1620600007",
+            "AL PIE DE LA FIRMA": "KAROL ISABEL CARDONA - 1620600007"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "KAROL ISABEL CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1620600007",
+            "NOMBRES": "KAROL ISABEL CARDONA",
+            "SALARIO": "4.327.599",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1620600007",
+            "NOMBRES": "KAROL ISABEL CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.717.079"
+        }
+    }
+]

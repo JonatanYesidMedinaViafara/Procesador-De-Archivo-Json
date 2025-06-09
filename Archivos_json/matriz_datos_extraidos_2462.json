@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "822514608880",
+            "SOLICITUD": "9838693",
+            "CEDULA": "1375993075",
+            "NOMBRES": "PABLO RUIZ RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.796.361",
+            "FIRMA ELLECTRONICA": "PABLO RUIZ RÍOS - 1375993075"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "822514608880",
+            "NOMBRES": "PABLO RUIZ RÍOS",
+            "CREDITO": "10.875.210",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "178.437",
+            "FIRMA ELLECTRONICA": "PABLO RUIZ RÍOS - 1375993075",
+            "AL PIE DE LA FIRMA": "PABLO RUIZ RÍOS - 1375993075"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1375993075",
+            "NOMBRES": "PABLO RUIZ RÍOS",
+            "FECHA NACIMIENTO": "09/11/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.875.210",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "PABLO RUIZ RÍOS - 1375993075",
+            "AL PIE DE LA FIRMA": "PABLO RUIZ RÍOS - 1375993075"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9838693",
+            "CEDULA": "1375993075",
+            "NOMBRES": "PABLO RUIZ RÍOS",
+            "CREDITO": "10.875.210",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "178.437",
+            "E.A": "18.18%",
+            "RECOMPRA O DESEMBOLSO": "3.796.361",
+            "FIRMA ELLECTRONICA": "PABLO RUIZ RÍOS - 1375993075"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1375993075",
+            "NOMBRES": "PABLO RUIZ RÍOS",
+            "FIRMA ELLECTRONICA": "PABLO RUIZ RÍOS - 1375993075"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1375993075",
+            "NOMBRES": "PABLO RUIZ RÍOS",
+            "FIRMA ELLECTRONICA": "PABLO RUIZ RÍOS - 1375993075",
+            "AL PIE DE LA FIRMA": "PABLO RUIZ RÍOS - 1375993075"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO RUIZ RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1375993075",
+            "NOMBRES": "PABLO RUIZ RÍOS",
+            "SALARIO": "1.586.775",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1375993075",
+            "NOMBRES": "PABLO RUIZ RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.796.361"
+        }
+    }
+]

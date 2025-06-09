@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "309069632811",
+            "SOLICITUD": "6438422",
+            "CEDULA": "1851974591",
+            "NOMBRES": "DAVID CARDONA",
+            "RECOMPRA O DESEMBOLSO": "1.542.315",
+            "FIRMA ELLECTRONICA": "DAVID CARDONA - 1851974591"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "309069632811",
+            "NOMBRES": "DAVID CARDONA",
+            "CREDITO": "6.922.445",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "319.443",
+            "FIRMA ELLECTRONICA": "DAVID CARDONA - 1851974591",
+            "AL PIE DE LA FIRMA": "DAVID CARDONA - 1851974591"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1851974591",
+            "NOMBRES": "DAVID CARDONA",
+            "FECHA NACIMIENTO": "20/02/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.922.445",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DAVID CARDONA - 1851974591",
+            "AL PIE DE LA FIRMA": "DAVID CARDONA - 1851974591"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6438422",
+            "CEDULA": "1851974591",
+            "NOMBRES": "DAVID CARDONA",
+            "CREDITO": "6.922.445",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "319.443",
+            "E.A": "28.61%",
+            "RECOMPRA O DESEMBOLSO": "1.542.315",
+            "FIRMA ELLECTRONICA": "DAVID CARDONA - 1851974591"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1851974591",
+            "NOMBRES": "DAVID CARDONA",
+            "FIRMA ELLECTRONICA": "DAVID CARDONA - 1851974591"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1851974591",
+            "NOMBRES": "DAVID CARDONA",
+            "FIRMA ELLECTRONICA": "DAVID CARDONA - 1851974591",
+            "AL PIE DE LA FIRMA": "DAVID CARDONA - 1851974591"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1851974591",
+            "NOMBRES": "DAVID CARDONA",
+            "SALARIO": "1.599.718",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1851974591",
+            "NOMBRES": "DAVID CARDONA",
+            "RECOMPRA O DESEMBOLSO": "1.542.315"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "782246053027",
+            "SOLICITUD": "4831128",
+            "CEDULA": "1054117533",
+            "NOMBRES": "ÓSCAR RODRÍGUEZ JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.929.895",
+            "FIRMA ELLECTRONICA": "ÓSCAR RODRÍGUEZ JIMÉNEZ - 1054117533"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "782246053027",
+            "NOMBRES": "ÓSCAR RODRÍGUEZ JIMÉNEZ",
+            "CREDITO": "15.389.579",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "240.625",
+            "FIRMA ELLECTRONICA": "ÓSCAR RODRÍGUEZ JIMÉNEZ - 1054117533",
+            "AL PIE DE LA FIRMA": "ÓSCAR RODRÍGUEZ JIMÉNEZ - 1054117533"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1054117533",
+            "NOMBRES": "ÓSCAR RODRÍGUEZ JIMÉNEZ",
+            "FECHA NACIMIENTO": "07/02/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.389.579",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ÓSCAR RODRÍGUEZ JIMÉNEZ - 1054117533",
+            "AL PIE DE LA FIRMA": "ÓSCAR RODRÍGUEZ JIMÉNEZ - 1054117533"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4831128",
+            "CEDULA": "1054117533",
+            "NOMBRES": "ÓSCAR RODRÍGUEZ JIMÉNEZ",
+            "CREDITO": "15.389.579",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "240.625",
+            "E.A": "19.19%",
+            "RECOMPRA O DESEMBOLSO": "4.929.895",
+            "FIRMA ELLECTRONICA": "ÓSCAR RODRÍGUEZ JIMÉNEZ - 1054117533"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1054117533",
+            "NOMBRES": "ÓSCAR RODRÍGUEZ JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR RODRÍGUEZ JIMÉNEZ - 1054117533"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1054117533",
+            "NOMBRES": "ÓSCAR RODRÍGUEZ JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR RODRÍGUEZ JIMÉNEZ - 1054117533",
+            "AL PIE DE LA FIRMA": "ÓSCAR RODRÍGUEZ JIMÉNEZ - 1054117533"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR RODRÍGUEZ JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1054117533",
+            "NOMBRES": "ÓSCAR RODRÍGUEZ JIMÉNEZ",
+            "SALARIO": "3.593.551",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1054117533",
+            "NOMBRES": "ÓSCAR RODRÍGUEZ JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.929.895"
+        }
+    }
+]

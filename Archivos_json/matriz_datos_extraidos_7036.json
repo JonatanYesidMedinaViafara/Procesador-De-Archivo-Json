@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "236373021735",
+            "SOLICITUD": "6732434",
+            "CEDULA": "1351562637",
+            "NOMBRES": "LUZ ZAPATA CARMONA",
+            "RECOMPRA O DESEMBOLSO": "4.769.772",
+            "FIRMA ELLECTRONICA": "LUZ ZAPATA CARMONA - 1351562637"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "236373021735",
+            "NOMBRES": "LUZ ZAPATA CARMONA",
+            "CREDITO": "13.373.215",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "294.025",
+            "FIRMA ELLECTRONICA": "LUZ ZAPATA CARMONA - 1351562637",
+            "AL PIE DE LA FIRMA": "LUZ ZAPATA CARMONA - 1351562637"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1351562637",
+            "NOMBRES": "LUZ ZAPATA CARMONA",
+            "FECHA NACIMIENTO": "13/11/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.373.215",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ ZAPATA CARMONA - 1351562637",
+            "AL PIE DE LA FIRMA": "LUZ ZAPATA CARMONA - 1351562637"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6732434",
+            "CEDULA": "1351562637",
+            "NOMBRES": "LUZ ZAPATA CARMONA",
+            "CREDITO": "13.373.215",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "294.025",
+            "E.A": "21.66%",
+            "RECOMPRA O DESEMBOLSO": "4.769.772",
+            "FIRMA ELLECTRONICA": "LUZ ZAPATA CARMONA - 1351562637"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1351562637",
+            "NOMBRES": "LUZ ZAPATA CARMONA",
+            "FIRMA ELLECTRONICA": "LUZ ZAPATA CARMONA - 1351562637"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1351562637",
+            "NOMBRES": "LUZ ZAPATA CARMONA",
+            "FIRMA ELLECTRONICA": "LUZ ZAPATA CARMONA - 1351562637",
+            "AL PIE DE LA FIRMA": "LUZ ZAPATA CARMONA - 1351562637"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ ZAPATA CARMONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1351562637",
+            "NOMBRES": "LUZ ZAPATA CARMONA",
+            "SALARIO": "4.752.793",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1351562637",
+            "NOMBRES": "LUZ ZAPATA CARMONA",
+            "RECOMPRA O DESEMBOLSO": "4.769.772"
+        }
+    }
+]

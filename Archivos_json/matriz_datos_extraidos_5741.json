@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "388643886451",
+            "SOLICITUD": "4111608",
+            "CEDULA": "1988256867",
+            "NOMBRES": "FERNANDA MENESES",
+            "RECOMPRA O DESEMBOLSO": "2.421.082",
+            "FIRMA ELLECTRONICA": "FERNANDA MENESES - 1988256867"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "388643886451",
+            "NOMBRES": "FERNANDA MENESES",
+            "CREDITO": "7.328.041",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "290.199",
+            "FIRMA ELLECTRONICA": "FERNANDA MENESES - 1988256867",
+            "AL PIE DE LA FIRMA": "FERNANDA MENESES - 1988256867"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1988256867",
+            "NOMBRES": "FERNANDA MENESES",
+            "FECHA NACIMIENTO": "06/04/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.328.041",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FERNANDA MENESES - 1988256867",
+            "AL PIE DE LA FIRMA": "FERNANDA MENESES - 1988256867"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4111608",
+            "CEDULA": "1988256867",
+            "NOMBRES": "FERNANDA MENESES",
+            "CREDITO": "7.328.041",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "290.199",
+            "E.A": "19.13%",
+            "RECOMPRA O DESEMBOLSO": "2.421.082",
+            "FIRMA ELLECTRONICA": "FERNANDA MENESES - 1988256867"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1988256867",
+            "NOMBRES": "FERNANDA MENESES",
+            "FIRMA ELLECTRONICA": "FERNANDA MENESES - 1988256867"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1988256867",
+            "NOMBRES": "FERNANDA MENESES",
+            "FIRMA ELLECTRONICA": "FERNANDA MENESES - 1988256867",
+            "AL PIE DE LA FIRMA": "FERNANDA MENESES - 1988256867"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDA MENESES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1988256867",
+            "NOMBRES": "FERNANDA MENESES",
+            "SALARIO": "2.421.413",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1988256867",
+            "NOMBRES": "FERNANDA MENESES",
+            "RECOMPRA O DESEMBOLSO": "2.421.082"
+        }
+    }
+]

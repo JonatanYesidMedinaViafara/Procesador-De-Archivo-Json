@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "114884991573",
+            "SOLICITUD": "9075329",
+            "CEDULA": "1205800615",
+            "NOMBRES": "ANA SANDRA GONZÁLEZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.694.417",
+            "FIRMA ELLECTRONICA": "ANA SANDRA GONZÁLEZ VALENCIA - 1205800615"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "114884991573",
+            "NOMBRES": "ANA SANDRA GONZÁLEZ VALENCIA",
+            "CREDITO": "10.554.644",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "117.412",
+            "FIRMA ELLECTRONICA": "ANA SANDRA GONZÁLEZ VALENCIA - 1205800615",
+            "AL PIE DE LA FIRMA": "ANA SANDRA GONZÁLEZ VALENCIA - 1205800615"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1205800615",
+            "NOMBRES": "ANA SANDRA GONZÁLEZ VALENCIA",
+            "FECHA NACIMIENTO": "04/05/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.554.644",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANA SANDRA GONZÁLEZ VALENCIA - 1205800615",
+            "AL PIE DE LA FIRMA": "ANA SANDRA GONZÁLEZ VALENCIA - 1205800615"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9075329",
+            "CEDULA": "1205800615",
+            "NOMBRES": "ANA SANDRA GONZÁLEZ VALENCIA",
+            "CREDITO": "10.554.644",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "117.412",
+            "E.A": "25.66%",
+            "RECOMPRA O DESEMBOLSO": "1.694.417",
+            "FIRMA ELLECTRONICA": "ANA SANDRA GONZÁLEZ VALENCIA - 1205800615"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1205800615",
+            "NOMBRES": "ANA SANDRA GONZÁLEZ VALENCIA",
+            "FIRMA ELLECTRONICA": "ANA SANDRA GONZÁLEZ VALENCIA - 1205800615"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1205800615",
+            "NOMBRES": "ANA SANDRA GONZÁLEZ VALENCIA",
+            "FIRMA ELLECTRONICA": "ANA SANDRA GONZÁLEZ VALENCIA - 1205800615",
+            "AL PIE DE LA FIRMA": "ANA SANDRA GONZÁLEZ VALENCIA - 1205800615"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA SANDRA GONZÁLEZ VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1205800615",
+            "NOMBRES": "ANA SANDRA GONZÁLEZ VALENCIA",
+            "SALARIO": "2.374.040",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1205800615",
+            "NOMBRES": "ANA SANDRA GONZÁLEZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.694.417"
+        }
+    }
+]

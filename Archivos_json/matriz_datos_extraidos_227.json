@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "522186106564",
+            "SOLICITUD": "7709749",
+            "CEDULA": "1995270928",
+            "NOMBRES": "LUIS SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.745.031",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1995270928"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "522186106564",
+            "NOMBRES": "LUIS SUÁREZ",
+            "CREDITO": "13.283.144",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "396.586",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1995270928",
+            "AL PIE DE LA FIRMA": "LUIS SUÁREZ - 1995270928"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1995270928",
+            "NOMBRES": "LUIS SUÁREZ",
+            "FECHA NACIMIENTO": "25/02/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.283.144",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1995270928",
+            "AL PIE DE LA FIRMA": "LUIS SUÁREZ - 1995270928"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7709749",
+            "CEDULA": "1995270928",
+            "NOMBRES": "LUIS SUÁREZ",
+            "CREDITO": "13.283.144",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "396.586",
+            "E.A": "28.96%",
+            "RECOMPRA O DESEMBOLSO": "1.745.031",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1995270928"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1995270928",
+            "NOMBRES": "LUIS SUÁREZ",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1995270928"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1995270928",
+            "NOMBRES": "LUIS SUÁREZ",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1995270928",
+            "AL PIE DE LA FIRMA": "LUIS SUÁREZ - 1995270928"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1995270928",
+            "NOMBRES": "LUIS SUÁREZ",
+            "SALARIO": "3.038.638",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1995270928",
+            "NOMBRES": "LUIS SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.745.031"
+        }
+    }
+]

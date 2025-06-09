@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "714990269727",
+            "SOLICITUD": "9391601",
+            "CEDULA": "1537918811",
+            "NOMBRES": "OLGA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.233.058",
+            "FIRMA ELLECTRONICA": "OLGA RUIZ - 1537918811"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "714990269727",
+            "NOMBRES": "OLGA RUIZ",
+            "CREDITO": "5.042.883",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "140.727",
+            "FIRMA ELLECTRONICA": "OLGA RUIZ - 1537918811",
+            "AL PIE DE LA FIRMA": "OLGA RUIZ - 1537918811"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1537918811",
+            "NOMBRES": "OLGA RUIZ",
+            "FECHA NACIMIENTO": "19/12/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.042.883",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "OLGA RUIZ - 1537918811",
+            "AL PIE DE LA FIRMA": "OLGA RUIZ - 1537918811"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9391601",
+            "CEDULA": "1537918811",
+            "NOMBRES": "OLGA RUIZ",
+            "CREDITO": "5.042.883",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "140.727",
+            "E.A": "24.69%",
+            "RECOMPRA O DESEMBOLSO": "1.233.058",
+            "FIRMA ELLECTRONICA": "OLGA RUIZ - 1537918811"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1537918811",
+            "NOMBRES": "OLGA RUIZ",
+            "FIRMA ELLECTRONICA": "OLGA RUIZ - 1537918811"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1537918811",
+            "NOMBRES": "OLGA RUIZ",
+            "FIRMA ELLECTRONICA": "OLGA RUIZ - 1537918811",
+            "AL PIE DE LA FIRMA": "OLGA RUIZ - 1537918811"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OLGA RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1537918811",
+            "NOMBRES": "OLGA RUIZ",
+            "SALARIO": "1.415.380",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1537918811",
+            "NOMBRES": "OLGA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.233.058"
+        }
+    }
+]

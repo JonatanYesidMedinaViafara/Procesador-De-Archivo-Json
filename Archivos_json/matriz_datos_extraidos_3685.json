@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "970126389441",
+            "SOLICITUD": "2331663",
+            "CEDULA": "1567545324",
+            "NOMBRES": "ORLANDO ARIAS BARBOSA",
+            "RECOMPRA O DESEMBOLSO": "2.208.862",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS BARBOSA - 1567545324"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "970126389441",
+            "NOMBRES": "ORLANDO ARIAS BARBOSA",
+            "CREDITO": "10.146.505",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "206.336",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS BARBOSA - 1567545324",
+            "AL PIE DE LA FIRMA": "ORLANDO ARIAS BARBOSA - 1567545324"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1567545324",
+            "NOMBRES": "ORLANDO ARIAS BARBOSA",
+            "FECHA NACIMIENTO": "17/03/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.146.505",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS BARBOSA - 1567545324",
+            "AL PIE DE LA FIRMA": "ORLANDO ARIAS BARBOSA - 1567545324"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2331663",
+            "CEDULA": "1567545324",
+            "NOMBRES": "ORLANDO ARIAS BARBOSA",
+            "CREDITO": "10.146.505",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "206.336",
+            "E.A": "21.45%",
+            "RECOMPRA O DESEMBOLSO": "2.208.862",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS BARBOSA - 1567545324"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1567545324",
+            "NOMBRES": "ORLANDO ARIAS BARBOSA",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS BARBOSA - 1567545324"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1567545324",
+            "NOMBRES": "ORLANDO ARIAS BARBOSA",
+            "FIRMA ELLECTRONICA": "ORLANDO ARIAS BARBOSA - 1567545324",
+            "AL PIE DE LA FIRMA": "ORLANDO ARIAS BARBOSA - 1567545324"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ORLANDO ARIAS BARBOSA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1567545324",
+            "NOMBRES": "ORLANDO ARIAS BARBOSA",
+            "SALARIO": "1.054.518",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1567545324",
+            "NOMBRES": "ORLANDO ARIAS BARBOSA",
+            "RECOMPRA O DESEMBOLSO": "2.208.862"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "871703575633",
+            "SOLICITUD": "2187854",
+            "CEDULA": "1196555211",
+            "NOMBRES": "EUGENIA MARÍA FAJARDO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.760.580",
+            "FIRMA ELLECTRONICA": "EUGENIA MARÍA FAJARDO MARTÍNEZ - 1196555211"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "871703575633",
+            "NOMBRES": "EUGENIA MARÍA FAJARDO MARTÍNEZ",
+            "CREDITO": "14.302.225",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "314.651",
+            "FIRMA ELLECTRONICA": "EUGENIA MARÍA FAJARDO MARTÍNEZ - 1196555211",
+            "AL PIE DE LA FIRMA": "EUGENIA MARÍA FAJARDO MARTÍNEZ - 1196555211"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1196555211",
+            "NOMBRES": "EUGENIA MARÍA FAJARDO MARTÍNEZ",
+            "FECHA NACIMIENTO": "27/01/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.302.225",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "EUGENIA MARÍA FAJARDO MARTÍNEZ - 1196555211",
+            "AL PIE DE LA FIRMA": "EUGENIA MARÍA FAJARDO MARTÍNEZ - 1196555211"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2187854",
+            "CEDULA": "1196555211",
+            "NOMBRES": "EUGENIA MARÍA FAJARDO MARTÍNEZ",
+            "CREDITO": "14.302.225",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "314.651",
+            "E.A": "20.37%",
+            "RECOMPRA O DESEMBOLSO": "3.760.580",
+            "FIRMA ELLECTRONICA": "EUGENIA MARÍA FAJARDO MARTÍNEZ - 1196555211"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1196555211",
+            "NOMBRES": "EUGENIA MARÍA FAJARDO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "EUGENIA MARÍA FAJARDO MARTÍNEZ - 1196555211"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1196555211",
+            "NOMBRES": "EUGENIA MARÍA FAJARDO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "EUGENIA MARÍA FAJARDO MARTÍNEZ - 1196555211",
+            "AL PIE DE LA FIRMA": "EUGENIA MARÍA FAJARDO MARTÍNEZ - 1196555211"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EUGENIA MARÍA FAJARDO MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1196555211",
+            "NOMBRES": "EUGENIA MARÍA FAJARDO MARTÍNEZ",
+            "SALARIO": "2.521.657",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1196555211",
+            "NOMBRES": "EUGENIA MARÍA FAJARDO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.760.580"
+        }
+    }
+]

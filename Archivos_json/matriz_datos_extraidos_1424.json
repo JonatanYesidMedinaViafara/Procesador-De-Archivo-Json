@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "251486212858",
+            "SOLICITUD": "5915132",
+            "CEDULA": "1548136835",
+            "NOMBRES": "ÁNGEL VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.870.477",
+            "FIRMA ELLECTRONICA": "ÁNGEL VÁSQUEZ - 1548136835"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "251486212858",
+            "NOMBRES": "ÁNGEL VÁSQUEZ",
+            "CREDITO": "13.430.857",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.267",
+            "FIRMA ELLECTRONICA": "ÁNGEL VÁSQUEZ - 1548136835",
+            "AL PIE DE LA FIRMA": "ÁNGEL VÁSQUEZ - 1548136835"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1548136835",
+            "NOMBRES": "ÁNGEL VÁSQUEZ",
+            "FECHA NACIMIENTO": "14/01/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.430.857",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ÁNGEL VÁSQUEZ - 1548136835",
+            "AL PIE DE LA FIRMA": "ÁNGEL VÁSQUEZ - 1548136835"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5915132",
+            "CEDULA": "1548136835",
+            "NOMBRES": "ÁNGEL VÁSQUEZ",
+            "CREDITO": "13.430.857",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.267",
+            "E.A": "21.65%",
+            "RECOMPRA O DESEMBOLSO": "4.870.477",
+            "FIRMA ELLECTRONICA": "ÁNGEL VÁSQUEZ - 1548136835"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1548136835",
+            "NOMBRES": "ÁNGEL VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "ÁNGEL VÁSQUEZ - 1548136835"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1548136835",
+            "NOMBRES": "ÁNGEL VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "ÁNGEL VÁSQUEZ - 1548136835",
+            "AL PIE DE LA FIRMA": "ÁNGEL VÁSQUEZ - 1548136835"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL VÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1548136835",
+            "NOMBRES": "ÁNGEL VÁSQUEZ",
+            "SALARIO": "1.649.882",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1548136835",
+            "NOMBRES": "ÁNGEL VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.870.477"
+        }
+    }
+]

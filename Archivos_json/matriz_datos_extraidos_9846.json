@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "356884862866",
+            "SOLICITUD": "9147395",
+            "CEDULA": "1832126523",
+            "NOMBRES": "FABIÁN VÉLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.559.674",
+            "FIRMA ELLECTRONICA": "FABIÁN VÉLEZ - 1832126523"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "356884862866",
+            "NOMBRES": "FABIÁN VÉLEZ",
+            "CREDITO": "7.112.531",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "309.189",
+            "FIRMA ELLECTRONICA": "FABIÁN VÉLEZ - 1832126523",
+            "AL PIE DE LA FIRMA": "FABIÁN VÉLEZ - 1832126523"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1832126523",
+            "NOMBRES": "FABIÁN VÉLEZ",
+            "FECHA NACIMIENTO": "16/01/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.112.531",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FABIÁN VÉLEZ - 1832126523",
+            "AL PIE DE LA FIRMA": "FABIÁN VÉLEZ - 1832126523"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9147395",
+            "CEDULA": "1832126523",
+            "NOMBRES": "FABIÁN VÉLEZ",
+            "CREDITO": "7.112.531",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "309.189",
+            "E.A": "19.01%",
+            "RECOMPRA O DESEMBOLSO": "4.559.674",
+            "FIRMA ELLECTRONICA": "FABIÁN VÉLEZ - 1832126523"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1832126523",
+            "NOMBRES": "FABIÁN VÉLEZ",
+            "FIRMA ELLECTRONICA": "FABIÁN VÉLEZ - 1832126523"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1832126523",
+            "NOMBRES": "FABIÁN VÉLEZ",
+            "FIRMA ELLECTRONICA": "FABIÁN VÉLEZ - 1832126523",
+            "AL PIE DE LA FIRMA": "FABIÁN VÉLEZ - 1832126523"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIÁN VÉLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1832126523",
+            "NOMBRES": "FABIÁN VÉLEZ",
+            "SALARIO": "1.004.884",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1832126523",
+            "NOMBRES": "FABIÁN VÉLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.559.674"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "347791676052",
+            "SOLICITUD": "3621008",
+            "CEDULA": "1999837282",
+            "NOMBRES": "ANTONIO GILDARDO QUINTERO MURILLO",
+            "RECOMPRA O DESEMBOLSO": "3.126.352",
+            "FIRMA ELLECTRONICA": "ANTONIO GILDARDO QUINTERO MURILLO - 1999837282"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "347791676052",
+            "NOMBRES": "ANTONIO GILDARDO QUINTERO MURILLO",
+            "CREDITO": "5.512.174",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "349.931",
+            "FIRMA ELLECTRONICA": "ANTONIO GILDARDO QUINTERO MURILLO - 1999837282",
+            "AL PIE DE LA FIRMA": "ANTONIO GILDARDO QUINTERO MURILLO - 1999837282"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1999837282",
+            "NOMBRES": "ANTONIO GILDARDO QUINTERO MURILLO",
+            "FECHA NACIMIENTO": "29/07/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.512.174",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANTONIO GILDARDO QUINTERO MURILLO - 1999837282",
+            "AL PIE DE LA FIRMA": "ANTONIO GILDARDO QUINTERO MURILLO - 1999837282"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3621008",
+            "CEDULA": "1999837282",
+            "NOMBRES": "ANTONIO GILDARDO QUINTERO MURILLO",
+            "CREDITO": "5.512.174",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "349.931",
+            "E.A": "23.73%",
+            "RECOMPRA O DESEMBOLSO": "3.126.352",
+            "FIRMA ELLECTRONICA": "ANTONIO GILDARDO QUINTERO MURILLO - 1999837282"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1999837282",
+            "NOMBRES": "ANTONIO GILDARDO QUINTERO MURILLO",
+            "FIRMA ELLECTRONICA": "ANTONIO GILDARDO QUINTERO MURILLO - 1999837282"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1999837282",
+            "NOMBRES": "ANTONIO GILDARDO QUINTERO MURILLO",
+            "FIRMA ELLECTRONICA": "ANTONIO GILDARDO QUINTERO MURILLO - 1999837282",
+            "AL PIE DE LA FIRMA": "ANTONIO GILDARDO QUINTERO MURILLO - 1999837282"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO GILDARDO QUINTERO MURILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1999837282",
+            "NOMBRES": "ANTONIO GILDARDO QUINTERO MURILLO",
+            "SALARIO": "4.566.300",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "11/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1999837282",
+            "NOMBRES": "ANTONIO GILDARDO QUINTERO MURILLO",
+            "RECOMPRA O DESEMBOLSO": "3.126.352"
+        }
+    }
+]

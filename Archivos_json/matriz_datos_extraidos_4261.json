@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "405426008070",
+            "SOLICITUD": "2683735",
+            "CEDULA": "1689353335",
+            "NOMBRES": "CARMEN GÓMEZ TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "1.123.437",
+            "FIRMA ELLECTRONICA": "CARMEN GÓMEZ TRUJILLO - 1689353335"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "405426008070",
+            "NOMBRES": "CARMEN GÓMEZ TRUJILLO",
+            "CREDITO": "6.474.472",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "298.35",
+            "FIRMA ELLECTRONICA": "CARMEN GÓMEZ TRUJILLO - 1689353335",
+            "AL PIE DE LA FIRMA": "CARMEN GÓMEZ TRUJILLO - 1689353335"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1689353335",
+            "NOMBRES": "CARMEN GÓMEZ TRUJILLO",
+            "FECHA NACIMIENTO": "18/01/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.474.472",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARMEN GÓMEZ TRUJILLO - 1689353335",
+            "AL PIE DE LA FIRMA": "CARMEN GÓMEZ TRUJILLO - 1689353335"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2683735",
+            "CEDULA": "1689353335",
+            "NOMBRES": "CARMEN GÓMEZ TRUJILLO",
+            "CREDITO": "6.474.472",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "298.35",
+            "E.A": "24.98%",
+            "RECOMPRA O DESEMBOLSO": "1.123.437",
+            "FIRMA ELLECTRONICA": "CARMEN GÓMEZ TRUJILLO - 1689353335"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1689353335",
+            "NOMBRES": "CARMEN GÓMEZ TRUJILLO",
+            "FIRMA ELLECTRONICA": "CARMEN GÓMEZ TRUJILLO - 1689353335"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1689353335",
+            "NOMBRES": "CARMEN GÓMEZ TRUJILLO",
+            "FIRMA ELLECTRONICA": "CARMEN GÓMEZ TRUJILLO - 1689353335",
+            "AL PIE DE LA FIRMA": "CARMEN GÓMEZ TRUJILLO - 1689353335"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN GÓMEZ TRUJILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1689353335",
+            "NOMBRES": "CARMEN GÓMEZ TRUJILLO",
+            "SALARIO": "1.460.721",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1689353335",
+            "NOMBRES": "CARMEN GÓMEZ TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "1.123.437"
+        }
+    }
+]

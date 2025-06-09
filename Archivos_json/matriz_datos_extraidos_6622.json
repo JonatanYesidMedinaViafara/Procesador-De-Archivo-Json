@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "188525493673",
+            "SOLICITUD": "5553906",
+            "CEDULA": "1089757004",
+            "NOMBRES": "HELENA CORREA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.889.791",
+            "FIRMA ELLECTRONICA": "HELENA CORREA MARTÍNEZ - 1089757004"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "188525493673",
+            "NOMBRES": "HELENA CORREA MARTÍNEZ",
+            "CREDITO": "8.094.378",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "176.638",
+            "FIRMA ELLECTRONICA": "HELENA CORREA MARTÍNEZ - 1089757004",
+            "AL PIE DE LA FIRMA": "HELENA CORREA MARTÍNEZ - 1089757004"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1089757004",
+            "NOMBRES": "HELENA CORREA MARTÍNEZ",
+            "FECHA NACIMIENTO": "28/07/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.094.378",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "HELENA CORREA MARTÍNEZ - 1089757004",
+            "AL PIE DE LA FIRMA": "HELENA CORREA MARTÍNEZ - 1089757004"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5553906",
+            "CEDULA": "1089757004",
+            "NOMBRES": "HELENA CORREA MARTÍNEZ",
+            "CREDITO": "8.094.378",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "176.638",
+            "E.A": "27.6%",
+            "RECOMPRA O DESEMBOLSO": "2.889.791",
+            "FIRMA ELLECTRONICA": "HELENA CORREA MARTÍNEZ - 1089757004"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1089757004",
+            "NOMBRES": "HELENA CORREA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "HELENA CORREA MARTÍNEZ - 1089757004"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1089757004",
+            "NOMBRES": "HELENA CORREA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "HELENA CORREA MARTÍNEZ - 1089757004",
+            "AL PIE DE LA FIRMA": "HELENA CORREA MARTÍNEZ - 1089757004"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HELENA CORREA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1089757004",
+            "NOMBRES": "HELENA CORREA MARTÍNEZ",
+            "SALARIO": "1.928.833",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1089757004",
+            "NOMBRES": "HELENA CORREA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.889.791"
+        }
+    }
+]

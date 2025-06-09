@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "957262320654",
+            "SOLICITUD": "7072756",
+            "CEDULA": "1509792972",
+            "NOMBRES": "LUZ BELTRÁN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.715.884",
+            "FIRMA ELLECTRONICA": "LUZ BELTRÁN GÓMEZ - 1509792972"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "957262320654",
+            "NOMBRES": "LUZ BELTRÁN GÓMEZ",
+            "CREDITO": "18.605.173",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "340.487",
+            "FIRMA ELLECTRONICA": "LUZ BELTRÁN GÓMEZ - 1509792972",
+            "AL PIE DE LA FIRMA": "LUZ BELTRÁN GÓMEZ - 1509792972"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1509792972",
+            "NOMBRES": "LUZ BELTRÁN GÓMEZ",
+            "FECHA NACIMIENTO": "24/02/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.605.173",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ BELTRÁN GÓMEZ - 1509792972",
+            "AL PIE DE LA FIRMA": "LUZ BELTRÁN GÓMEZ - 1509792972"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7072756",
+            "CEDULA": "1509792972",
+            "NOMBRES": "LUZ BELTRÁN GÓMEZ",
+            "CREDITO": "18.605.173",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "340.487",
+            "E.A": "27.82%",
+            "RECOMPRA O DESEMBOLSO": "2.715.884",
+            "FIRMA ELLECTRONICA": "LUZ BELTRÁN GÓMEZ - 1509792972"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1509792972",
+            "NOMBRES": "LUZ BELTRÁN GÓMEZ",
+            "FIRMA ELLECTRONICA": "LUZ BELTRÁN GÓMEZ - 1509792972"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1509792972",
+            "NOMBRES": "LUZ BELTRÁN GÓMEZ",
+            "FIRMA ELLECTRONICA": "LUZ BELTRÁN GÓMEZ - 1509792972",
+            "AL PIE DE LA FIRMA": "LUZ BELTRÁN GÓMEZ - 1509792972"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ BELTRÁN GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1509792972",
+            "NOMBRES": "LUZ BELTRÁN GÓMEZ",
+            "SALARIO": "2.485.584",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1509792972",
+            "NOMBRES": "LUZ BELTRÁN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.715.884"
+        }
+    }
+]

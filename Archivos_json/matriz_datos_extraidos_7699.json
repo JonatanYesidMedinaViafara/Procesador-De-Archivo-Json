@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "991074406417",
+            "SOLICITUD": "5199070",
+            "CEDULA": "1564095567",
+            "NOMBRES": "ARTURO ARÉVALO",
+            "RECOMPRA O DESEMBOLSO": "2.265.373",
+            "FIRMA ELLECTRONICA": "ARTURO ARÉVALO - 1564095567"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "991074406417",
+            "NOMBRES": "ARTURO ARÉVALO",
+            "CREDITO": "10.407.319",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "210.736",
+            "FIRMA ELLECTRONICA": "ARTURO ARÉVALO - 1564095567",
+            "AL PIE DE LA FIRMA": "ARTURO ARÉVALO - 1564095567"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1564095567",
+            "NOMBRES": "ARTURO ARÉVALO",
+            "FECHA NACIMIENTO": "05/11/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.407.319",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ARTURO ARÉVALO - 1564095567",
+            "AL PIE DE LA FIRMA": "ARTURO ARÉVALO - 1564095567"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5199070",
+            "CEDULA": "1564095567",
+            "NOMBRES": "ARTURO ARÉVALO",
+            "CREDITO": "10.407.319",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "210.736",
+            "E.A": "27.3%",
+            "RECOMPRA O DESEMBOLSO": "2.265.373",
+            "FIRMA ELLECTRONICA": "ARTURO ARÉVALO - 1564095567"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1564095567",
+            "NOMBRES": "ARTURO ARÉVALO",
+            "FIRMA ELLECTRONICA": "ARTURO ARÉVALO - 1564095567"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1564095567",
+            "NOMBRES": "ARTURO ARÉVALO",
+            "FIRMA ELLECTRONICA": "ARTURO ARÉVALO - 1564095567",
+            "AL PIE DE LA FIRMA": "ARTURO ARÉVALO - 1564095567"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARTURO ARÉVALO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1564095567",
+            "NOMBRES": "ARTURO ARÉVALO",
+            "SALARIO": "4.730.691",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1564095567",
+            "NOMBRES": "ARTURO ARÉVALO",
+            "RECOMPRA O DESEMBOLSO": "2.265.373"
+        }
+    }
+]

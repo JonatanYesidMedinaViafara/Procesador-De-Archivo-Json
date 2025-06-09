@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "450974928916",
+            "SOLICITUD": "2304240",
+            "CEDULA": "1389418553",
+            "NOMBRES": "LUIS JUAN GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "1.762.672",
+            "FIRMA ELLECTRONICA": "LUIS JUAN GUERRERO - 1389418553"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "450974928916",
+            "NOMBRES": "LUIS JUAN GUERRERO",
+            "CREDITO": "5.506.834",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "397.116",
+            "FIRMA ELLECTRONICA": "LUIS JUAN GUERRERO - 1389418553",
+            "AL PIE DE LA FIRMA": "LUIS JUAN GUERRERO - 1389418553"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1389418553",
+            "NOMBRES": "LUIS JUAN GUERRERO",
+            "FECHA NACIMIENTO": "24/03/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.506.834",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUIS JUAN GUERRERO - 1389418553",
+            "AL PIE DE LA FIRMA": "LUIS JUAN GUERRERO - 1389418553"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2304240",
+            "CEDULA": "1389418553",
+            "NOMBRES": "LUIS JUAN GUERRERO",
+            "CREDITO": "5.506.834",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "397.116",
+            "E.A": "19.67%",
+            "RECOMPRA O DESEMBOLSO": "1.762.672",
+            "FIRMA ELLECTRONICA": "LUIS JUAN GUERRERO - 1389418553"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1389418553",
+            "NOMBRES": "LUIS JUAN GUERRERO",
+            "FIRMA ELLECTRONICA": "LUIS JUAN GUERRERO - 1389418553"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1389418553",
+            "NOMBRES": "LUIS JUAN GUERRERO",
+            "FIRMA ELLECTRONICA": "LUIS JUAN GUERRERO - 1389418553",
+            "AL PIE DE LA FIRMA": "LUIS JUAN GUERRERO - 1389418553"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS JUAN GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1389418553",
+            "NOMBRES": "LUIS JUAN GUERRERO",
+            "SALARIO": "2.738.090",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1389418553",
+            "NOMBRES": "LUIS JUAN GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "1.762.672"
+        }
+    }
+]

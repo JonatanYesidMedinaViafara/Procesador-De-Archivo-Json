@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "221807575775",
+            "SOLICITUD": "7746052",
+            "CEDULA": "1489036054",
+            "NOMBRES": "SEBASTIÁN CARMONA",
+            "RECOMPRA O DESEMBOLSO": "2.559.011",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN CARMONA - 1489036054"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "221807575775",
+            "NOMBRES": "SEBASTIÁN CARMONA",
+            "CREDITO": "10.340.970",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "265.718",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN CARMONA - 1489036054",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN CARMONA - 1489036054"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1489036054",
+            "NOMBRES": "SEBASTIÁN CARMONA",
+            "FECHA NACIMIENTO": "27/03/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.340.970",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN CARMONA - 1489036054",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN CARMONA - 1489036054"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7746052",
+            "CEDULA": "1489036054",
+            "NOMBRES": "SEBASTIÁN CARMONA",
+            "CREDITO": "10.340.970",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "265.718",
+            "E.A": "28.99%",
+            "RECOMPRA O DESEMBOLSO": "2.559.011",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN CARMONA - 1489036054"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1489036054",
+            "NOMBRES": "SEBASTIÁN CARMONA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN CARMONA - 1489036054"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1489036054",
+            "NOMBRES": "SEBASTIÁN CARMONA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN CARMONA - 1489036054",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN CARMONA - 1489036054"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEBASTIÁN CARMONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1489036054",
+            "NOMBRES": "SEBASTIÁN CARMONA",
+            "SALARIO": "4.297.854",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1489036054",
+            "NOMBRES": "SEBASTIÁN CARMONA",
+            "RECOMPRA O DESEMBOLSO": "2.559.011"
+        }
+    }
+]

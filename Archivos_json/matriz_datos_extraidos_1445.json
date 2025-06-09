@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "872684887949",
+            "SOLICITUD": "4212544",
+            "CEDULA": "1055332588",
+            "NOMBRES": "JUAN GUERRA ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.046.904",
+            "FIRMA ELLECTRONICA": "JUAN GUERRA ZAMBRANO - 1055332588"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "872684887949",
+            "NOMBRES": "JUAN GUERRA ZAMBRANO",
+            "CREDITO": "12.124.447",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "137.19",
+            "FIRMA ELLECTRONICA": "JUAN GUERRA ZAMBRANO - 1055332588",
+            "AL PIE DE LA FIRMA": "JUAN GUERRA ZAMBRANO - 1055332588"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1055332588",
+            "NOMBRES": "JUAN GUERRA ZAMBRANO",
+            "FECHA NACIMIENTO": "01/11/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.124.447",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN GUERRA ZAMBRANO - 1055332588",
+            "AL PIE DE LA FIRMA": "JUAN GUERRA ZAMBRANO - 1055332588"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4212544",
+            "CEDULA": "1055332588",
+            "NOMBRES": "JUAN GUERRA ZAMBRANO",
+            "CREDITO": "12.124.447",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "137.19",
+            "E.A": "28.4%",
+            "RECOMPRA O DESEMBOLSO": "4.046.904",
+            "FIRMA ELLECTRONICA": "JUAN GUERRA ZAMBRANO - 1055332588"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1055332588",
+            "NOMBRES": "JUAN GUERRA ZAMBRANO",
+            "FIRMA ELLECTRONICA": "JUAN GUERRA ZAMBRANO - 1055332588"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1055332588",
+            "NOMBRES": "JUAN GUERRA ZAMBRANO",
+            "FIRMA ELLECTRONICA": "JUAN GUERRA ZAMBRANO - 1055332588",
+            "AL PIE DE LA FIRMA": "JUAN GUERRA ZAMBRANO - 1055332588"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN GUERRA ZAMBRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1055332588",
+            "NOMBRES": "JUAN GUERRA ZAMBRANO",
+            "SALARIO": "3.084.974",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1055332588",
+            "NOMBRES": "JUAN GUERRA ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.046.904"
+        }
+    }
+]

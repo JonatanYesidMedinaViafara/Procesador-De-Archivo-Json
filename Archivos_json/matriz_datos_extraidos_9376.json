@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "684705588360",
+            "SOLICITUD": "3885401",
+            "CEDULA": "1857749810",
+            "NOMBRES": "ALFREDO MONROY",
+            "RECOMPRA O DESEMBOLSO": "4.401.287",
+            "FIRMA ELLECTRONICA": "ALFREDO MONROY - 1857749810"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "684705588360",
+            "NOMBRES": "ALFREDO MONROY",
+            "CREDITO": "8.909.838",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "143.562",
+            "FIRMA ELLECTRONICA": "ALFREDO MONROY - 1857749810",
+            "AL PIE DE LA FIRMA": "ALFREDO MONROY - 1857749810"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1857749810",
+            "NOMBRES": "ALFREDO MONROY",
+            "FECHA NACIMIENTO": "05/02/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.909.838",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALFREDO MONROY - 1857749810",
+            "AL PIE DE LA FIRMA": "ALFREDO MONROY - 1857749810"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3885401",
+            "CEDULA": "1857749810",
+            "NOMBRES": "ALFREDO MONROY",
+            "CREDITO": "8.909.838",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "143.562",
+            "E.A": "25.47%",
+            "RECOMPRA O DESEMBOLSO": "4.401.287",
+            "FIRMA ELLECTRONICA": "ALFREDO MONROY - 1857749810"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1857749810",
+            "NOMBRES": "ALFREDO MONROY",
+            "FIRMA ELLECTRONICA": "ALFREDO MONROY - 1857749810"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1857749810",
+            "NOMBRES": "ALFREDO MONROY",
+            "FIRMA ELLECTRONICA": "ALFREDO MONROY - 1857749810",
+            "AL PIE DE LA FIRMA": "ALFREDO MONROY - 1857749810"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFREDO MONROY"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1857749810",
+            "NOMBRES": "ALFREDO MONROY",
+            "SALARIO": "3.918.962",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1857749810",
+            "NOMBRES": "ALFREDO MONROY",
+            "RECOMPRA O DESEMBOLSO": "4.401.287"
+        }
+    }
+]

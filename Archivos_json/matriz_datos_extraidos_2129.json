@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "731242260250",
+            "SOLICITUD": "3618893",
+            "CEDULA": "1698102589",
+            "NOMBRES": "LUIS MARTÍNEZ PARRA",
+            "RECOMPRA O DESEMBOLSO": "3.984.241",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ PARRA - 1698102589"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "731242260250",
+            "NOMBRES": "LUIS MARTÍNEZ PARRA",
+            "CREDITO": "14.064.905",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "328.152",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ PARRA - 1698102589",
+            "AL PIE DE LA FIRMA": "LUIS MARTÍNEZ PARRA - 1698102589"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1698102589",
+            "NOMBRES": "LUIS MARTÍNEZ PARRA",
+            "FECHA NACIMIENTO": "07/03/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.064.905",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ PARRA - 1698102589",
+            "AL PIE DE LA FIRMA": "LUIS MARTÍNEZ PARRA - 1698102589"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3618893",
+            "CEDULA": "1698102589",
+            "NOMBRES": "LUIS MARTÍNEZ PARRA",
+            "CREDITO": "14.064.905",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "328.152",
+            "E.A": "28.41%",
+            "RECOMPRA O DESEMBOLSO": "3.984.241",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ PARRA - 1698102589"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1698102589",
+            "NOMBRES": "LUIS MARTÍNEZ PARRA",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ PARRA - 1698102589"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1698102589",
+            "NOMBRES": "LUIS MARTÍNEZ PARRA",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ PARRA - 1698102589",
+            "AL PIE DE LA FIRMA": "LUIS MARTÍNEZ PARRA - 1698102589"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MARTÍNEZ PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1698102589",
+            "NOMBRES": "LUIS MARTÍNEZ PARRA",
+            "SALARIO": "3.746.309",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1698102589",
+            "NOMBRES": "LUIS MARTÍNEZ PARRA",
+            "RECOMPRA O DESEMBOLSO": "3.984.241"
+        }
+    }
+]

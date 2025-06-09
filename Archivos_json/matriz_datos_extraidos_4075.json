@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "971921399666",
+            "SOLICITUD": "7952844",
+            "CEDULA": "1727592422",
+            "NOMBRES": "DIEGO VERGARA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.470.108",
+            "FIRMA ELLECTRONICA": "DIEGO VERGARA PÉREZ - 1727592422"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "971921399666",
+            "NOMBRES": "DIEGO VERGARA PÉREZ",
+            "CREDITO": "6.050.532",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "250.895",
+            "FIRMA ELLECTRONICA": "DIEGO VERGARA PÉREZ - 1727592422",
+            "AL PIE DE LA FIRMA": "DIEGO VERGARA PÉREZ - 1727592422"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1727592422",
+            "NOMBRES": "DIEGO VERGARA PÉREZ",
+            "FECHA NACIMIENTO": "26/05/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.050.532",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DIEGO VERGARA PÉREZ - 1727592422",
+            "AL PIE DE LA FIRMA": "DIEGO VERGARA PÉREZ - 1727592422"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7952844",
+            "CEDULA": "1727592422",
+            "NOMBRES": "DIEGO VERGARA PÉREZ",
+            "CREDITO": "6.050.532",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "250.895",
+            "E.A": "28.85%",
+            "RECOMPRA O DESEMBOLSO": "4.470.108",
+            "FIRMA ELLECTRONICA": "DIEGO VERGARA PÉREZ - 1727592422"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1727592422",
+            "NOMBRES": "DIEGO VERGARA PÉREZ",
+            "FIRMA ELLECTRONICA": "DIEGO VERGARA PÉREZ - 1727592422"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1727592422",
+            "NOMBRES": "DIEGO VERGARA PÉREZ",
+            "FIRMA ELLECTRONICA": "DIEGO VERGARA PÉREZ - 1727592422",
+            "AL PIE DE LA FIRMA": "DIEGO VERGARA PÉREZ - 1727592422"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO VERGARA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1727592422",
+            "NOMBRES": "DIEGO VERGARA PÉREZ",
+            "SALARIO": "2.878.102",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1727592422",
+            "NOMBRES": "DIEGO VERGARA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.470.108"
+        }
+    }
+]

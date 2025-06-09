@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "399019614143",
+            "SOLICITUD": "7234808",
+            "CEDULA": "1970703707",
+            "NOMBRES": "LAURA BLANCO CUESTA",
+            "RECOMPRA O DESEMBOLSO": "1.130.404",
+            "FIRMA ELLECTRONICA": "LAURA BLANCO CUESTA - 1970703707"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "399019614143",
+            "NOMBRES": "LAURA BLANCO CUESTA",
+            "CREDITO": "8.827.343",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "298.32",
+            "FIRMA ELLECTRONICA": "LAURA BLANCO CUESTA - 1970703707",
+            "AL PIE DE LA FIRMA": "LAURA BLANCO CUESTA - 1970703707"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1970703707",
+            "NOMBRES": "LAURA BLANCO CUESTA",
+            "FECHA NACIMIENTO": "16/03/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.827.343",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LAURA BLANCO CUESTA - 1970703707",
+            "AL PIE DE LA FIRMA": "LAURA BLANCO CUESTA - 1970703707"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7234808",
+            "CEDULA": "1970703707",
+            "NOMBRES": "LAURA BLANCO CUESTA",
+            "CREDITO": "8.827.343",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "298.32",
+            "E.A": "21.01%",
+            "RECOMPRA O DESEMBOLSO": "1.130.404",
+            "FIRMA ELLECTRONICA": "LAURA BLANCO CUESTA - 1970703707"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1970703707",
+            "NOMBRES": "LAURA BLANCO CUESTA",
+            "FIRMA ELLECTRONICA": "LAURA BLANCO CUESTA - 1970703707"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1970703707",
+            "NOMBRES": "LAURA BLANCO CUESTA",
+            "FIRMA ELLECTRONICA": "LAURA BLANCO CUESTA - 1970703707",
+            "AL PIE DE LA FIRMA": "LAURA BLANCO CUESTA - 1970703707"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA BLANCO CUESTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1970703707",
+            "NOMBRES": "LAURA BLANCO CUESTA",
+            "SALARIO": "3.776.796",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1970703707",
+            "NOMBRES": "LAURA BLANCO CUESTA",
+            "RECOMPRA O DESEMBOLSO": "1.130.404"
+        }
+    }
+]

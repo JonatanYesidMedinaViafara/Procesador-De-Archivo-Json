@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "225878605948",
+            "SOLICITUD": "9511055",
+            "CEDULA": "1044950028",
+            "NOMBRES": "TERESA ANA CABALLERO",
+            "RECOMPRA O DESEMBOLSO": "3.605.262",
+            "FIRMA ELLECTRONICA": "TERESA ANA CABALLERO - 1044950028"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "225878605948",
+            "NOMBRES": "TERESA ANA CABALLERO",
+            "CREDITO": "8.162.009",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "149.203",
+            "FIRMA ELLECTRONICA": "TERESA ANA CABALLERO - 1044950028",
+            "AL PIE DE LA FIRMA": "TERESA ANA CABALLERO - 1044950028"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1044950028",
+            "NOMBRES": "TERESA ANA CABALLERO",
+            "FECHA NACIMIENTO": "16/07/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.162.009",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "TERESA ANA CABALLERO - 1044950028",
+            "AL PIE DE LA FIRMA": "TERESA ANA CABALLERO - 1044950028"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9511055",
+            "CEDULA": "1044950028",
+            "NOMBRES": "TERESA ANA CABALLERO",
+            "CREDITO": "8.162.009",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "149.203",
+            "E.A": "27.55%",
+            "RECOMPRA O DESEMBOLSO": "3.605.262",
+            "FIRMA ELLECTRONICA": "TERESA ANA CABALLERO - 1044950028"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1044950028",
+            "NOMBRES": "TERESA ANA CABALLERO",
+            "FIRMA ELLECTRONICA": "TERESA ANA CABALLERO - 1044950028"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1044950028",
+            "NOMBRES": "TERESA ANA CABALLERO",
+            "FIRMA ELLECTRONICA": "TERESA ANA CABALLERO - 1044950028",
+            "AL PIE DE LA FIRMA": "TERESA ANA CABALLERO - 1044950028"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TERESA ANA CABALLERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1044950028",
+            "NOMBRES": "TERESA ANA CABALLERO",
+            "SALARIO": "3.532.910",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1044950028",
+            "NOMBRES": "TERESA ANA CABALLERO",
+            "RECOMPRA O DESEMBOLSO": "3.605.262"
+        }
+    }
+]

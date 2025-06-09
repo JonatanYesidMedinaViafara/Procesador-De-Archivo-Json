@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "275963913623",
+            "SOLICITUD": "5192247",
+            "CEDULA": "1412696265",
+            "NOMBRES": "GONZALO PAZ",
+            "RECOMPRA O DESEMBOLSO": "2.397.577",
+            "FIRMA ELLECTRONICA": "GONZALO PAZ - 1412696265"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "275963913623",
+            "NOMBRES": "GONZALO PAZ",
+            "CREDITO": "16.485.637",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "112.665",
+            "FIRMA ELLECTRONICA": "GONZALO PAZ - 1412696265",
+            "AL PIE DE LA FIRMA": "GONZALO PAZ - 1412696265"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1412696265",
+            "NOMBRES": "GONZALO PAZ",
+            "FECHA NACIMIENTO": "19/01/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.485.637",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "GONZALO PAZ - 1412696265",
+            "AL PIE DE LA FIRMA": "GONZALO PAZ - 1412696265"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5192247",
+            "CEDULA": "1412696265",
+            "NOMBRES": "GONZALO PAZ",
+            "CREDITO": "16.485.637",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "112.665",
+            "E.A": "27.71%",
+            "RECOMPRA O DESEMBOLSO": "2.397.577",
+            "FIRMA ELLECTRONICA": "GONZALO PAZ - 1412696265"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1412696265",
+            "NOMBRES": "GONZALO PAZ",
+            "FIRMA ELLECTRONICA": "GONZALO PAZ - 1412696265"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1412696265",
+            "NOMBRES": "GONZALO PAZ",
+            "FIRMA ELLECTRONICA": "GONZALO PAZ - 1412696265",
+            "AL PIE DE LA FIRMA": "GONZALO PAZ - 1412696265"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GONZALO PAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1412696265",
+            "NOMBRES": "GONZALO PAZ",
+            "SALARIO": "1.466.249",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1412696265",
+            "NOMBRES": "GONZALO PAZ",
+            "RECOMPRA O DESEMBOLSO": "2.397.577"
+        }
+    }
+]

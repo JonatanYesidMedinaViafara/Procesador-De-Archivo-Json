@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "374545976348",
+            "SOLICITUD": "4152196",
+            "CEDULA": "1352940332",
+            "NOMBRES": "MILENA MEDINA CANO",
+            "RECOMPRA O DESEMBOLSO": "4.852.819",
+            "FIRMA ELLECTRONICA": "MILENA MEDINA CANO - 1352940332"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "374545976348",
+            "NOMBRES": "MILENA MEDINA CANO",
+            "CREDITO": "9.972.185",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "264.215",
+            "FIRMA ELLECTRONICA": "MILENA MEDINA CANO - 1352940332",
+            "AL PIE DE LA FIRMA": "MILENA MEDINA CANO - 1352940332"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1352940332",
+            "NOMBRES": "MILENA MEDINA CANO",
+            "FECHA NACIMIENTO": "01/10/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.972.185",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MILENA MEDINA CANO - 1352940332",
+            "AL PIE DE LA FIRMA": "MILENA MEDINA CANO - 1352940332"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4152196",
+            "CEDULA": "1352940332",
+            "NOMBRES": "MILENA MEDINA CANO",
+            "CREDITO": "9.972.185",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "264.215",
+            "E.A": "23.3%",
+            "RECOMPRA O DESEMBOLSO": "4.852.819",
+            "FIRMA ELLECTRONICA": "MILENA MEDINA CANO - 1352940332"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1352940332",
+            "NOMBRES": "MILENA MEDINA CANO",
+            "FIRMA ELLECTRONICA": "MILENA MEDINA CANO - 1352940332"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1352940332",
+            "NOMBRES": "MILENA MEDINA CANO",
+            "FIRMA ELLECTRONICA": "MILENA MEDINA CANO - 1352940332",
+            "AL PIE DE LA FIRMA": "MILENA MEDINA CANO - 1352940332"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA MEDINA CANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1352940332",
+            "NOMBRES": "MILENA MEDINA CANO",
+            "SALARIO": "3.052.713",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1352940332",
+            "NOMBRES": "MILENA MEDINA CANO",
+            "RECOMPRA O DESEMBOLSO": "4.852.819"
+        }
+    }
+]

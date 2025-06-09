@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "540653266048",
+            "SOLICITUD": "9322221",
+            "CEDULA": "1187561881",
+            "NOMBRES": "LUZ GÓMEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.423.528",
+            "FIRMA ELLECTRONICA": "LUZ GÓMEZ PÉREZ - 1187561881"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "540653266048",
+            "NOMBRES": "LUZ GÓMEZ PÉREZ",
+            "CREDITO": "16.169.732",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "369.491",
+            "FIRMA ELLECTRONICA": "LUZ GÓMEZ PÉREZ - 1187561881",
+            "AL PIE DE LA FIRMA": "LUZ GÓMEZ PÉREZ - 1187561881"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1187561881",
+            "NOMBRES": "LUZ GÓMEZ PÉREZ",
+            "FECHA NACIMIENTO": "06/07/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.169.732",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUZ GÓMEZ PÉREZ - 1187561881",
+            "AL PIE DE LA FIRMA": "LUZ GÓMEZ PÉREZ - 1187561881"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9322221",
+            "CEDULA": "1187561881",
+            "NOMBRES": "LUZ GÓMEZ PÉREZ",
+            "CREDITO": "16.169.732",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "369.491",
+            "E.A": "20.65%",
+            "RECOMPRA O DESEMBOLSO": "1.423.528",
+            "FIRMA ELLECTRONICA": "LUZ GÓMEZ PÉREZ - 1187561881"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1187561881",
+            "NOMBRES": "LUZ GÓMEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "LUZ GÓMEZ PÉREZ - 1187561881"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1187561881",
+            "NOMBRES": "LUZ GÓMEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "LUZ GÓMEZ PÉREZ - 1187561881",
+            "AL PIE DE LA FIRMA": "LUZ GÓMEZ PÉREZ - 1187561881"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ GÓMEZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1187561881",
+            "NOMBRES": "LUZ GÓMEZ PÉREZ",
+            "SALARIO": "4.314.731",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1187561881",
+            "NOMBRES": "LUZ GÓMEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.423.528"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "789189132564",
+            "SOLICITUD": "3953774",
+            "CEDULA": "1942475478",
+            "NOMBRES": "CÉSAR MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.356.275",
+            "FIRMA ELLECTRONICA": "CÉSAR MORENO - 1942475478"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "789189132564",
+            "NOMBRES": "CÉSAR MORENO",
+            "CREDITO": "19.217.569",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "171.247",
+            "FIRMA ELLECTRONICA": "CÉSAR MORENO - 1942475478",
+            "AL PIE DE LA FIRMA": "CÉSAR MORENO - 1942475478"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1942475478",
+            "NOMBRES": "CÉSAR MORENO",
+            "FECHA NACIMIENTO": "16/08/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.217.569",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CÉSAR MORENO - 1942475478",
+            "AL PIE DE LA FIRMA": "CÉSAR MORENO - 1942475478"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3953774",
+            "CEDULA": "1942475478",
+            "NOMBRES": "CÉSAR MORENO",
+            "CREDITO": "19.217.569",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "171.247",
+            "E.A": "25.35%",
+            "RECOMPRA O DESEMBOLSO": "3.356.275",
+            "FIRMA ELLECTRONICA": "CÉSAR MORENO - 1942475478"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1942475478",
+            "NOMBRES": "CÉSAR MORENO",
+            "FIRMA ELLECTRONICA": "CÉSAR MORENO - 1942475478"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1942475478",
+            "NOMBRES": "CÉSAR MORENO",
+            "FIRMA ELLECTRONICA": "CÉSAR MORENO - 1942475478",
+            "AL PIE DE LA FIRMA": "CÉSAR MORENO - 1942475478"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CÉSAR MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1942475478",
+            "NOMBRES": "CÉSAR MORENO",
+            "SALARIO": "4.491.544",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1942475478",
+            "NOMBRES": "CÉSAR MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.356.275"
+        }
+    }
+]

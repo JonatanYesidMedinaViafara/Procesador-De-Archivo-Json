@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "115864561112",
+            "SOLICITUD": "4515243",
+            "CEDULA": "1765712209",
+            "NOMBRES": "ANDREA CARMEN CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.897.349",
+            "FIRMA ELLECTRONICA": "ANDREA CARMEN CASTRO - 1765712209"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "115864561112",
+            "NOMBRES": "ANDREA CARMEN CASTRO",
+            "CREDITO": "6.717.553",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "388.883",
+            "FIRMA ELLECTRONICA": "ANDREA CARMEN CASTRO - 1765712209",
+            "AL PIE DE LA FIRMA": "ANDREA CARMEN CASTRO - 1765712209"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1765712209",
+            "NOMBRES": "ANDREA CARMEN CASTRO",
+            "FECHA NACIMIENTO": "13/11/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.717.553",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDREA CARMEN CASTRO - 1765712209",
+            "AL PIE DE LA FIRMA": "ANDREA CARMEN CASTRO - 1765712209"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4515243",
+            "CEDULA": "1765712209",
+            "NOMBRES": "ANDREA CARMEN CASTRO",
+            "CREDITO": "6.717.553",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "388.883",
+            "E.A": "22.2%",
+            "RECOMPRA O DESEMBOLSO": "4.897.349",
+            "FIRMA ELLECTRONICA": "ANDREA CARMEN CASTRO - 1765712209"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1765712209",
+            "NOMBRES": "ANDREA CARMEN CASTRO",
+            "FIRMA ELLECTRONICA": "ANDREA CARMEN CASTRO - 1765712209"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1765712209",
+            "NOMBRES": "ANDREA CARMEN CASTRO",
+            "FIRMA ELLECTRONICA": "ANDREA CARMEN CASTRO - 1765712209",
+            "AL PIE DE LA FIRMA": "ANDREA CARMEN CASTRO - 1765712209"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA CARMEN CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1765712209",
+            "NOMBRES": "ANDREA CARMEN CASTRO",
+            "SALARIO": "1.947.668",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1765712209",
+            "NOMBRES": "ANDREA CARMEN CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.897.349"
+        }
+    }
+]

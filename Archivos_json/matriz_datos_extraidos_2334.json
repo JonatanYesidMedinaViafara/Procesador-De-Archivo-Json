@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "770264784471",
+            "SOLICITUD": "3478042",
+            "CEDULA": "1363938183",
+            "NOMBRES": "MARINA GÓMEZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "4.633.463",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ ARIAS - 1363938183"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "770264784471",
+            "NOMBRES": "MARINA GÓMEZ ARIAS",
+            "CREDITO": "14.860.009",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "144.201",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ ARIAS - 1363938183",
+            "AL PIE DE LA FIRMA": "MARINA GÓMEZ ARIAS - 1363938183"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1363938183",
+            "NOMBRES": "MARINA GÓMEZ ARIAS",
+            "FECHA NACIMIENTO": "12/12/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.860.009",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ ARIAS - 1363938183",
+            "AL PIE DE LA FIRMA": "MARINA GÓMEZ ARIAS - 1363938183"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3478042",
+            "CEDULA": "1363938183",
+            "NOMBRES": "MARINA GÓMEZ ARIAS",
+            "CREDITO": "14.860.009",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "144.201",
+            "E.A": "25.11%",
+            "RECOMPRA O DESEMBOLSO": "4.633.463",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ ARIAS - 1363938183"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1363938183",
+            "NOMBRES": "MARINA GÓMEZ ARIAS",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ ARIAS - 1363938183"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1363938183",
+            "NOMBRES": "MARINA GÓMEZ ARIAS",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ ARIAS - 1363938183",
+            "AL PIE DE LA FIRMA": "MARINA GÓMEZ ARIAS - 1363938183"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARINA GÓMEZ ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1363938183",
+            "NOMBRES": "MARINA GÓMEZ ARIAS",
+            "SALARIO": "2.559.222",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1363938183",
+            "NOMBRES": "MARINA GÓMEZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "4.633.463"
+        }
+    }
+]

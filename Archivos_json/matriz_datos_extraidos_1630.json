@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "181907065830",
+            "SOLICITUD": "1405118",
+            "CEDULA": "1361121142",
+            "NOMBRES": "JHON LÓPEZ GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "3.208.728",
+            "FIRMA ELLECTRONICA": "JHON LÓPEZ GARZÓN - 1361121142"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "181907065830",
+            "NOMBRES": "JHON LÓPEZ GARZÓN",
+            "CREDITO": "9.488.480",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "124.886",
+            "FIRMA ELLECTRONICA": "JHON LÓPEZ GARZÓN - 1361121142",
+            "AL PIE DE LA FIRMA": "JHON LÓPEZ GARZÓN - 1361121142"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1361121142",
+            "NOMBRES": "JHON LÓPEZ GARZÓN",
+            "FECHA NACIMIENTO": "18/01/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.488.480",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JHON LÓPEZ GARZÓN - 1361121142",
+            "AL PIE DE LA FIRMA": "JHON LÓPEZ GARZÓN - 1361121142"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1405118",
+            "CEDULA": "1361121142",
+            "NOMBRES": "JHON LÓPEZ GARZÓN",
+            "CREDITO": "9.488.480",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "124.886",
+            "E.A": "22.64%",
+            "RECOMPRA O DESEMBOLSO": "3.208.728",
+            "FIRMA ELLECTRONICA": "JHON LÓPEZ GARZÓN - 1361121142"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1361121142",
+            "NOMBRES": "JHON LÓPEZ GARZÓN",
+            "FIRMA ELLECTRONICA": "JHON LÓPEZ GARZÓN - 1361121142"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1361121142",
+            "NOMBRES": "JHON LÓPEZ GARZÓN",
+            "FIRMA ELLECTRONICA": "JHON LÓPEZ GARZÓN - 1361121142",
+            "AL PIE DE LA FIRMA": "JHON LÓPEZ GARZÓN - 1361121142"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON LÓPEZ GARZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1361121142",
+            "NOMBRES": "JHON LÓPEZ GARZÓN",
+            "SALARIO": "1.996.826",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1361121142",
+            "NOMBRES": "JHON LÓPEZ GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "3.208.728"
+        }
+    }
+]

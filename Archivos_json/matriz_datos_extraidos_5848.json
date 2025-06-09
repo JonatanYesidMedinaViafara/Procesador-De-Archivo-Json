@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "913287304609",
+            "SOLICITUD": "8755006",
+            "CEDULA": "1087873265",
+            "NOMBRES": "LUIS EDUARDO CUÉLLAR",
+            "RECOMPRA O DESEMBOLSO": "4.296.546",
+            "FIRMA ELLECTRONICA": "LUIS EDUARDO CUÉLLAR - 1087873265"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "913287304609",
+            "NOMBRES": "LUIS EDUARDO CUÉLLAR",
+            "CREDITO": "10.371.049",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "290.71",
+            "FIRMA ELLECTRONICA": "LUIS EDUARDO CUÉLLAR - 1087873265",
+            "AL PIE DE LA FIRMA": "LUIS EDUARDO CUÉLLAR - 1087873265"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1087873265",
+            "NOMBRES": "LUIS EDUARDO CUÉLLAR",
+            "FECHA NACIMIENTO": "27/03/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.371.049",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS EDUARDO CUÉLLAR - 1087873265",
+            "AL PIE DE LA FIRMA": "LUIS EDUARDO CUÉLLAR - 1087873265"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8755006",
+            "CEDULA": "1087873265",
+            "NOMBRES": "LUIS EDUARDO CUÉLLAR",
+            "CREDITO": "10.371.049",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "290.71",
+            "E.A": "21.52%",
+            "RECOMPRA O DESEMBOLSO": "4.296.546",
+            "FIRMA ELLECTRONICA": "LUIS EDUARDO CUÉLLAR - 1087873265"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1087873265",
+            "NOMBRES": "LUIS EDUARDO CUÉLLAR",
+            "FIRMA ELLECTRONICA": "LUIS EDUARDO CUÉLLAR - 1087873265"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1087873265",
+            "NOMBRES": "LUIS EDUARDO CUÉLLAR",
+            "FIRMA ELLECTRONICA": "LUIS EDUARDO CUÉLLAR - 1087873265",
+            "AL PIE DE LA FIRMA": "LUIS EDUARDO CUÉLLAR - 1087873265"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS EDUARDO CUÉLLAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1087873265",
+            "NOMBRES": "LUIS EDUARDO CUÉLLAR",
+            "SALARIO": "1.455.417",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1087873265",
+            "NOMBRES": "LUIS EDUARDO CUÉLLAR",
+            "RECOMPRA O DESEMBOLSO": "4.296.546"
+        }
+    }
+]

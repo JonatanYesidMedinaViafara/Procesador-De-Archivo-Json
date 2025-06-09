@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "870609276615",
+            "SOLICITUD": "7194995",
+            "CEDULA": "1478970194",
+            "NOMBRES": "FELIPE VEGA",
+            "RECOMPRA O DESEMBOLSO": "1.662.699",
+            "FIRMA ELLECTRONICA": "FELIPE VEGA - 1478970194"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "870609276615",
+            "NOMBRES": "FELIPE VEGA",
+            "CREDITO": "7.493.523",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "342.594",
+            "FIRMA ELLECTRONICA": "FELIPE VEGA - 1478970194",
+            "AL PIE DE LA FIRMA": "FELIPE VEGA - 1478970194"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1478970194",
+            "NOMBRES": "FELIPE VEGA",
+            "FECHA NACIMIENTO": "19/10/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.493.523",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FELIPE VEGA - 1478970194",
+            "AL PIE DE LA FIRMA": "FELIPE VEGA - 1478970194"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7194995",
+            "CEDULA": "1478970194",
+            "NOMBRES": "FELIPE VEGA",
+            "CREDITO": "7.493.523",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "342.594",
+            "E.A": "23.93%",
+            "RECOMPRA O DESEMBOLSO": "1.662.699",
+            "FIRMA ELLECTRONICA": "FELIPE VEGA - 1478970194"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1478970194",
+            "NOMBRES": "FELIPE VEGA",
+            "FIRMA ELLECTRONICA": "FELIPE VEGA - 1478970194"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1478970194",
+            "NOMBRES": "FELIPE VEGA",
+            "FIRMA ELLECTRONICA": "FELIPE VEGA - 1478970194",
+            "AL PIE DE LA FIRMA": "FELIPE VEGA - 1478970194"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FELIPE VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1478970194",
+            "NOMBRES": "FELIPE VEGA",
+            "SALARIO": "2.614.664",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1478970194",
+            "NOMBRES": "FELIPE VEGA",
+            "RECOMPRA O DESEMBOLSO": "1.662.699"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "759696003126",
+            "SOLICITUD": "3915280",
+            "CEDULA": "1049264080",
+            "NOMBRES": "ROSA POLO RUEDA",
+            "RECOMPRA O DESEMBOLSO": "3.562.887",
+            "FIRMA ELLECTRONICA": "ROSA POLO RUEDA - 1049264080"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "759696003126",
+            "NOMBRES": "ROSA POLO RUEDA",
+            "CREDITO": "12.861.574",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "223.814",
+            "FIRMA ELLECTRONICA": "ROSA POLO RUEDA - 1049264080",
+            "AL PIE DE LA FIRMA": "ROSA POLO RUEDA - 1049264080"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1049264080",
+            "NOMBRES": "ROSA POLO RUEDA",
+            "FECHA NACIMIENTO": "18/09/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.861.574",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ROSA POLO RUEDA - 1049264080",
+            "AL PIE DE LA FIRMA": "ROSA POLO RUEDA - 1049264080"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3915280",
+            "CEDULA": "1049264080",
+            "NOMBRES": "ROSA POLO RUEDA",
+            "CREDITO": "12.861.574",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "223.814",
+            "E.A": "27.0%",
+            "RECOMPRA O DESEMBOLSO": "3.562.887",
+            "FIRMA ELLECTRONICA": "ROSA POLO RUEDA - 1049264080"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1049264080",
+            "NOMBRES": "ROSA POLO RUEDA",
+            "FIRMA ELLECTRONICA": "ROSA POLO RUEDA - 1049264080"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1049264080",
+            "NOMBRES": "ROSA POLO RUEDA",
+            "FIRMA ELLECTRONICA": "ROSA POLO RUEDA - 1049264080",
+            "AL PIE DE LA FIRMA": "ROSA POLO RUEDA - 1049264080"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSA POLO RUEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1049264080",
+            "NOMBRES": "ROSA POLO RUEDA",
+            "SALARIO": "1.819.424",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1049264080",
+            "NOMBRES": "ROSA POLO RUEDA",
+            "RECOMPRA O DESEMBOLSO": "3.562.887"
+        }
+    }
+]

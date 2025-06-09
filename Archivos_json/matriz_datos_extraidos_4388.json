@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "897348192272",
+            "SOLICITUD": "7397450",
+            "CEDULA": "1755398830",
+            "NOMBRES": "CLAUDIA BARRERA",
+            "RECOMPRA O DESEMBOLSO": "4.561.087",
+            "FIRMA ELLECTRONICA": "CLAUDIA BARRERA - 1755398830"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "897348192272",
+            "NOMBRES": "CLAUDIA BARRERA",
+            "CREDITO": "14.324.906",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "244.701",
+            "FIRMA ELLECTRONICA": "CLAUDIA BARRERA - 1755398830",
+            "AL PIE DE LA FIRMA": "CLAUDIA BARRERA - 1755398830"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1755398830",
+            "NOMBRES": "CLAUDIA BARRERA",
+            "FECHA NACIMIENTO": "11/09/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.324.906",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CLAUDIA BARRERA - 1755398830",
+            "AL PIE DE LA FIRMA": "CLAUDIA BARRERA - 1755398830"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7397450",
+            "CEDULA": "1755398830",
+            "NOMBRES": "CLAUDIA BARRERA",
+            "CREDITO": "14.324.906",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "244.701",
+            "E.A": "19.29%",
+            "RECOMPRA O DESEMBOLSO": "4.561.087",
+            "FIRMA ELLECTRONICA": "CLAUDIA BARRERA - 1755398830"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1755398830",
+            "NOMBRES": "CLAUDIA BARRERA",
+            "FIRMA ELLECTRONICA": "CLAUDIA BARRERA - 1755398830"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1755398830",
+            "NOMBRES": "CLAUDIA BARRERA",
+            "FIRMA ELLECTRONICA": "CLAUDIA BARRERA - 1755398830",
+            "AL PIE DE LA FIRMA": "CLAUDIA BARRERA - 1755398830"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLAUDIA BARRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1755398830",
+            "NOMBRES": "CLAUDIA BARRERA",
+            "SALARIO": "4.179.425",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1755398830",
+            "NOMBRES": "CLAUDIA BARRERA",
+            "RECOMPRA O DESEMBOLSO": "4.561.087"
+        }
+    }
+]

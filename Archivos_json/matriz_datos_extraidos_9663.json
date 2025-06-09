@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "244223578058",
+            "SOLICITUD": "5431438",
+            "CEDULA": "1611925577",
+            "NOMBRES": "JOSÉ FREDY VILLEGAS CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.596.533",
+            "FIRMA ELLECTRONICA": "JOSÉ FREDY VILLEGAS CORREDOR - 1611925577"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "244223578058",
+            "NOMBRES": "JOSÉ FREDY VILLEGAS CORREDOR",
+            "CREDITO": "5.024.669",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "268.926",
+            "FIRMA ELLECTRONICA": "JOSÉ FREDY VILLEGAS CORREDOR - 1611925577",
+            "AL PIE DE LA FIRMA": "JOSÉ FREDY VILLEGAS CORREDOR - 1611925577"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1611925577",
+            "NOMBRES": "JOSÉ FREDY VILLEGAS CORREDOR",
+            "FECHA NACIMIENTO": "24/02/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.024.669",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ FREDY VILLEGAS CORREDOR - 1611925577",
+            "AL PIE DE LA FIRMA": "JOSÉ FREDY VILLEGAS CORREDOR - 1611925577"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5431438",
+            "CEDULA": "1611925577",
+            "NOMBRES": "JOSÉ FREDY VILLEGAS CORREDOR",
+            "CREDITO": "5.024.669",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "268.926",
+            "E.A": "24.53%",
+            "RECOMPRA O DESEMBOLSO": "3.596.533",
+            "FIRMA ELLECTRONICA": "JOSÉ FREDY VILLEGAS CORREDOR - 1611925577"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1611925577",
+            "NOMBRES": "JOSÉ FREDY VILLEGAS CORREDOR",
+            "FIRMA ELLECTRONICA": "JOSÉ FREDY VILLEGAS CORREDOR - 1611925577"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1611925577",
+            "NOMBRES": "JOSÉ FREDY VILLEGAS CORREDOR",
+            "FIRMA ELLECTRONICA": "JOSÉ FREDY VILLEGAS CORREDOR - 1611925577",
+            "AL PIE DE LA FIRMA": "JOSÉ FREDY VILLEGAS CORREDOR - 1611925577"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ FREDY VILLEGAS CORREDOR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1611925577",
+            "NOMBRES": "JOSÉ FREDY VILLEGAS CORREDOR",
+            "SALARIO": "1.412.970",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1611925577",
+            "NOMBRES": "JOSÉ FREDY VILLEGAS CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.596.533"
+        }
+    }
+]

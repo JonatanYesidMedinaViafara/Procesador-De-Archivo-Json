@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "679194253969",
+            "SOLICITUD": "2351792",
+            "CEDULA": "1915220452",
+            "NOMBRES": "JULIÁN MARTÍNEZ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.930.989",
+            "FIRMA ELLECTRONICA": "JULIÁN MARTÍNEZ GARCÍA - 1915220452"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "679194253969",
+            "NOMBRES": "JULIÁN MARTÍNEZ GARCÍA",
+            "CREDITO": "18.685.115",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "282.067",
+            "FIRMA ELLECTRONICA": "JULIÁN MARTÍNEZ GARCÍA - 1915220452",
+            "AL PIE DE LA FIRMA": "JULIÁN MARTÍNEZ GARCÍA - 1915220452"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1915220452",
+            "NOMBRES": "JULIÁN MARTÍNEZ GARCÍA",
+            "FECHA NACIMIENTO": "02/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.685.115",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JULIÁN MARTÍNEZ GARCÍA - 1915220452",
+            "AL PIE DE LA FIRMA": "JULIÁN MARTÍNEZ GARCÍA - 1915220452"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2351792",
+            "CEDULA": "1915220452",
+            "NOMBRES": "JULIÁN MARTÍNEZ GARCÍA",
+            "CREDITO": "18.685.115",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "282.067",
+            "E.A": "25.12%",
+            "RECOMPRA O DESEMBOLSO": "1.930.989",
+            "FIRMA ELLECTRONICA": "JULIÁN MARTÍNEZ GARCÍA - 1915220452"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1915220452",
+            "NOMBRES": "JULIÁN MARTÍNEZ GARCÍA",
+            "FIRMA ELLECTRONICA": "JULIÁN MARTÍNEZ GARCÍA - 1915220452"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1915220452",
+            "NOMBRES": "JULIÁN MARTÍNEZ GARCÍA",
+            "FIRMA ELLECTRONICA": "JULIÁN MARTÍNEZ GARCÍA - 1915220452",
+            "AL PIE DE LA FIRMA": "JULIÁN MARTÍNEZ GARCÍA - 1915220452"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIÁN MARTÍNEZ GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1915220452",
+            "NOMBRES": "JULIÁN MARTÍNEZ GARCÍA",
+            "SALARIO": "3.636.865",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1915220452",
+            "NOMBRES": "JULIÁN MARTÍNEZ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.930.989"
+        }
+    }
+]

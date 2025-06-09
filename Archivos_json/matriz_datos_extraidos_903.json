@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "328450733721",
+            "SOLICITUD": "1964955",
+            "CEDULA": "1112973012",
+            "NOMBRES": "JULIA MARINA ÁNGEL",
+            "RECOMPRA O DESEMBOLSO": "4.728.618",
+            "FIRMA ELLECTRONICA": "JULIA MARINA ÁNGEL - 1112973012"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "328450733721",
+            "NOMBRES": "JULIA MARINA ÁNGEL",
+            "CREDITO": "6.324.212",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "212.263",
+            "FIRMA ELLECTRONICA": "JULIA MARINA ÁNGEL - 1112973012",
+            "AL PIE DE LA FIRMA": "JULIA MARINA ÁNGEL - 1112973012"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1112973012",
+            "NOMBRES": "JULIA MARINA ÁNGEL",
+            "FECHA NACIMIENTO": "01/11/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.324.212",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JULIA MARINA ÁNGEL - 1112973012",
+            "AL PIE DE LA FIRMA": "JULIA MARINA ÁNGEL - 1112973012"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1964955",
+            "CEDULA": "1112973012",
+            "NOMBRES": "JULIA MARINA ÁNGEL",
+            "CREDITO": "6.324.212",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "212.263",
+            "E.A": "27.83%",
+            "RECOMPRA O DESEMBOLSO": "4.728.618",
+            "FIRMA ELLECTRONICA": "JULIA MARINA ÁNGEL - 1112973012"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1112973012",
+            "NOMBRES": "JULIA MARINA ÁNGEL",
+            "FIRMA ELLECTRONICA": "JULIA MARINA ÁNGEL - 1112973012"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1112973012",
+            "NOMBRES": "JULIA MARINA ÁNGEL",
+            "FIRMA ELLECTRONICA": "JULIA MARINA ÁNGEL - 1112973012",
+            "AL PIE DE LA FIRMA": "JULIA MARINA ÁNGEL - 1112973012"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIA MARINA ÁNGEL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1112973012",
+            "NOMBRES": "JULIA MARINA ÁNGEL",
+            "SALARIO": "3.909.986",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1112973012",
+            "NOMBRES": "JULIA MARINA ÁNGEL",
+            "RECOMPRA O DESEMBOLSO": "4.728.618"
+        }
+    }
+]

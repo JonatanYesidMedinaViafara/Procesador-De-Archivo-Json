@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "564751081823",
+            "SOLICITUD": "5658264",
+            "CEDULA": "1975463094",
+            "NOMBRES": "ANA MENA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "2.870.726",
+            "FIRMA ELLECTRONICA": "ANA MENA ORTIZ - 1975463094"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "564751081823",
+            "NOMBRES": "ANA MENA ORTIZ",
+            "CREDITO": "9.133.218",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "380.277",
+            "FIRMA ELLECTRONICA": "ANA MENA ORTIZ - 1975463094",
+            "AL PIE DE LA FIRMA": "ANA MENA ORTIZ - 1975463094"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1975463094",
+            "NOMBRES": "ANA MENA ORTIZ",
+            "FECHA NACIMIENTO": "26/06/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.133.218",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANA MENA ORTIZ - 1975463094",
+            "AL PIE DE LA FIRMA": "ANA MENA ORTIZ - 1975463094"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5658264",
+            "CEDULA": "1975463094",
+            "NOMBRES": "ANA MENA ORTIZ",
+            "CREDITO": "9.133.218",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "380.277",
+            "E.A": "26.2%",
+            "RECOMPRA O DESEMBOLSO": "2.870.726",
+            "FIRMA ELLECTRONICA": "ANA MENA ORTIZ - 1975463094"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1975463094",
+            "NOMBRES": "ANA MENA ORTIZ",
+            "FIRMA ELLECTRONICA": "ANA MENA ORTIZ - 1975463094"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1975463094",
+            "NOMBRES": "ANA MENA ORTIZ",
+            "FIRMA ELLECTRONICA": "ANA MENA ORTIZ - 1975463094",
+            "AL PIE DE LA FIRMA": "ANA MENA ORTIZ - 1975463094"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA MENA ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1975463094",
+            "NOMBRES": "ANA MENA ORTIZ",
+            "SALARIO": "2.969.655",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1975463094",
+            "NOMBRES": "ANA MENA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "2.870.726"
+        }
+    }
+]

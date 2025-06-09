@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "522891021075",
+            "SOLICITUD": "3085579",
+            "CEDULA": "1613717874",
+            "NOMBRES": "MARÍA HERRERA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.439.260",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA PÉREZ - 1613717874"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "522891021075",
+            "NOMBRES": "MARÍA HERRERA PÉREZ",
+            "CREDITO": "8.905.522",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "191.004",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA PÉREZ - 1613717874",
+            "AL PIE DE LA FIRMA": "MARÍA HERRERA PÉREZ - 1613717874"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1613717874",
+            "NOMBRES": "MARÍA HERRERA PÉREZ",
+            "FECHA NACIMIENTO": "02/01/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.905.522",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA PÉREZ - 1613717874",
+            "AL PIE DE LA FIRMA": "MARÍA HERRERA PÉREZ - 1613717874"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3085579",
+            "CEDULA": "1613717874",
+            "NOMBRES": "MARÍA HERRERA PÉREZ",
+            "CREDITO": "8.905.522",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "191.004",
+            "E.A": "18.58%",
+            "RECOMPRA O DESEMBOLSO": "4.439.260",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA PÉREZ - 1613717874"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1613717874",
+            "NOMBRES": "MARÍA HERRERA PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA PÉREZ - 1613717874"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1613717874",
+            "NOMBRES": "MARÍA HERRERA PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA HERRERA PÉREZ - 1613717874",
+            "AL PIE DE LA FIRMA": "MARÍA HERRERA PÉREZ - 1613717874"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA HERRERA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1613717874",
+            "NOMBRES": "MARÍA HERRERA PÉREZ",
+            "SALARIO": "2.942.194",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1613717874",
+            "NOMBRES": "MARÍA HERRERA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.439.260"
+        }
+    }
+]

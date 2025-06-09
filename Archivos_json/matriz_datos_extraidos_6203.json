@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "746563456073",
+            "SOLICITUD": "5221290",
+            "CEDULA": "1741962879",
+            "NOMBRES": "KELLY MARÍA SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.549.851",
+            "FIRMA ELLECTRONICA": "KELLY MARÍA SUÁREZ - 1741962879"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "746563456073",
+            "NOMBRES": "KELLY MARÍA SUÁREZ",
+            "CREDITO": "18.545.739",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "342.226",
+            "FIRMA ELLECTRONICA": "KELLY MARÍA SUÁREZ - 1741962879",
+            "AL PIE DE LA FIRMA": "KELLY MARÍA SUÁREZ - 1741962879"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1741962879",
+            "NOMBRES": "KELLY MARÍA SUÁREZ",
+            "FECHA NACIMIENTO": "12/09/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.545.739",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "KELLY MARÍA SUÁREZ - 1741962879",
+            "AL PIE DE LA FIRMA": "KELLY MARÍA SUÁREZ - 1741962879"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5221290",
+            "CEDULA": "1741962879",
+            "NOMBRES": "KELLY MARÍA SUÁREZ",
+            "CREDITO": "18.545.739",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "342.226",
+            "E.A": "21.96%",
+            "RECOMPRA O DESEMBOLSO": "1.549.851",
+            "FIRMA ELLECTRONICA": "KELLY MARÍA SUÁREZ - 1741962879"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1741962879",
+            "NOMBRES": "KELLY MARÍA SUÁREZ",
+            "FIRMA ELLECTRONICA": "KELLY MARÍA SUÁREZ - 1741962879"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1741962879",
+            "NOMBRES": "KELLY MARÍA SUÁREZ",
+            "FIRMA ELLECTRONICA": "KELLY MARÍA SUÁREZ - 1741962879",
+            "AL PIE DE LA FIRMA": "KELLY MARÍA SUÁREZ - 1741962879"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "KELLY MARÍA SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1741962879",
+            "NOMBRES": "KELLY MARÍA SUÁREZ",
+            "SALARIO": "3.997.401",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1741962879",
+            "NOMBRES": "KELLY MARÍA SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.549.851"
+        }
+    }
+]

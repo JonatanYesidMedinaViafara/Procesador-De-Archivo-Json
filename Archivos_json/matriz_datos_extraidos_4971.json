@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "154244608873",
+            "SOLICITUD": "3395282",
+            "CEDULA": "1629684147",
+            "NOMBRES": "TOMÁS JAIRO CORREA",
+            "RECOMPRA O DESEMBOLSO": "4.259.678",
+            "FIRMA ELLECTRONICA": "TOMÁS JAIRO CORREA - 1629684147"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "154244608873",
+            "NOMBRES": "TOMÁS JAIRO CORREA",
+            "CREDITO": "17.465.595",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "105.129",
+            "FIRMA ELLECTRONICA": "TOMÁS JAIRO CORREA - 1629684147",
+            "AL PIE DE LA FIRMA": "TOMÁS JAIRO CORREA - 1629684147"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1629684147",
+            "NOMBRES": "TOMÁS JAIRO CORREA",
+            "FECHA NACIMIENTO": "21/01/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.465.595",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "TOMÁS JAIRO CORREA - 1629684147",
+            "AL PIE DE LA FIRMA": "TOMÁS JAIRO CORREA - 1629684147"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3395282",
+            "CEDULA": "1629684147",
+            "NOMBRES": "TOMÁS JAIRO CORREA",
+            "CREDITO": "17.465.595",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "105.129",
+            "E.A": "19.28%",
+            "RECOMPRA O DESEMBOLSO": "4.259.678",
+            "FIRMA ELLECTRONICA": "TOMÁS JAIRO CORREA - 1629684147"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1629684147",
+            "NOMBRES": "TOMÁS JAIRO CORREA",
+            "FIRMA ELLECTRONICA": "TOMÁS JAIRO CORREA - 1629684147"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1629684147",
+            "NOMBRES": "TOMÁS JAIRO CORREA",
+            "FIRMA ELLECTRONICA": "TOMÁS JAIRO CORREA - 1629684147",
+            "AL PIE DE LA FIRMA": "TOMÁS JAIRO CORREA - 1629684147"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TOMÁS JAIRO CORREA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1629684147",
+            "NOMBRES": "TOMÁS JAIRO CORREA",
+            "SALARIO": "1.256.753",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1629684147",
+            "NOMBRES": "TOMÁS JAIRO CORREA",
+            "RECOMPRA O DESEMBOLSO": "4.259.678"
+        }
+    }
+]

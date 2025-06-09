@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "746025709644",
+            "SOLICITUD": "7191654",
+            "CEDULA": "1875973969",
+            "NOMBRES": "DIANA PARDO",
+            "RECOMPRA O DESEMBOLSO": "4.058.542",
+            "FIRMA ELLECTRONICA": "DIANA PARDO - 1875973969"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "746025709644",
+            "NOMBRES": "DIANA PARDO",
+            "CREDITO": "5.403.101",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "359.065",
+            "FIRMA ELLECTRONICA": "DIANA PARDO - 1875973969",
+            "AL PIE DE LA FIRMA": "DIANA PARDO - 1875973969"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1875973969",
+            "NOMBRES": "DIANA PARDO",
+            "FECHA NACIMIENTO": "02/03/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.403.101",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DIANA PARDO - 1875973969",
+            "AL PIE DE LA FIRMA": "DIANA PARDO - 1875973969"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7191654",
+            "CEDULA": "1875973969",
+            "NOMBRES": "DIANA PARDO",
+            "CREDITO": "5.403.101",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "359.065",
+            "E.A": "20.61%",
+            "RECOMPRA O DESEMBOLSO": "4.058.542",
+            "FIRMA ELLECTRONICA": "DIANA PARDO - 1875973969"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1875973969",
+            "NOMBRES": "DIANA PARDO",
+            "FIRMA ELLECTRONICA": "DIANA PARDO - 1875973969"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1875973969",
+            "NOMBRES": "DIANA PARDO",
+            "FIRMA ELLECTRONICA": "DIANA PARDO - 1875973969",
+            "AL PIE DE LA FIRMA": "DIANA PARDO - 1875973969"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA PARDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1875973969",
+            "NOMBRES": "DIANA PARDO",
+            "SALARIO": "1.034.874",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1875973969",
+            "NOMBRES": "DIANA PARDO",
+            "RECOMPRA O DESEMBOLSO": "4.058.542"
+        }
+    }
+]

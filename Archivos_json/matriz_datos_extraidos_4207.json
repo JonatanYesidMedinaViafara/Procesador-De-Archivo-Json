@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "361852683018",
+            "SOLICITUD": "6364138",
+            "CEDULA": "1117344956",
+            "NOMBRES": "CARLOS GIL HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.821.125",
+            "FIRMA ELLECTRONICA": "CARLOS GIL HURTADO - 1117344956"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "361852683018",
+            "NOMBRES": "CARLOS GIL HURTADO",
+            "CREDITO": "16.605.642",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "164.619",
+            "FIRMA ELLECTRONICA": "CARLOS GIL HURTADO - 1117344956",
+            "AL PIE DE LA FIRMA": "CARLOS GIL HURTADO - 1117344956"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1117344956",
+            "NOMBRES": "CARLOS GIL HURTADO",
+            "FECHA NACIMIENTO": "09/04/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.605.642",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS GIL HURTADO - 1117344956",
+            "AL PIE DE LA FIRMA": "CARLOS GIL HURTADO - 1117344956"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6364138",
+            "CEDULA": "1117344956",
+            "NOMBRES": "CARLOS GIL HURTADO",
+            "CREDITO": "16.605.642",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "164.619",
+            "E.A": "26.5%",
+            "RECOMPRA O DESEMBOLSO": "3.821.125",
+            "FIRMA ELLECTRONICA": "CARLOS GIL HURTADO - 1117344956"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1117344956",
+            "NOMBRES": "CARLOS GIL HURTADO",
+            "FIRMA ELLECTRONICA": "CARLOS GIL HURTADO - 1117344956"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1117344956",
+            "NOMBRES": "CARLOS GIL HURTADO",
+            "FIRMA ELLECTRONICA": "CARLOS GIL HURTADO - 1117344956",
+            "AL PIE DE LA FIRMA": "CARLOS GIL HURTADO - 1117344956"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS GIL HURTADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1117344956",
+            "NOMBRES": "CARLOS GIL HURTADO",
+            "SALARIO": "3.844.371",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1117344956",
+            "NOMBRES": "CARLOS GIL HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.821.125"
+        }
+    }
+]

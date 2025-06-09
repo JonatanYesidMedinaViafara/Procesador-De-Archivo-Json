@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "778516850250",
+            "SOLICITUD": "9561240",
+            "CEDULA": "1263832108",
+            "NOMBRES": "JUAN ADOLFO VERGARA",
+            "RECOMPRA O DESEMBOLSO": "2.002.230",
+            "FIRMA ELLECTRONICA": "JUAN ADOLFO VERGARA - 1263832108"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "778516850250",
+            "NOMBRES": "JUAN ADOLFO VERGARA",
+            "CREDITO": "6.179.986",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "131.999",
+            "FIRMA ELLECTRONICA": "JUAN ADOLFO VERGARA - 1263832108",
+            "AL PIE DE LA FIRMA": "JUAN ADOLFO VERGARA - 1263832108"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1263832108",
+            "NOMBRES": "JUAN ADOLFO VERGARA",
+            "FECHA NACIMIENTO": "23/02/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.179.986",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN ADOLFO VERGARA - 1263832108",
+            "AL PIE DE LA FIRMA": "JUAN ADOLFO VERGARA - 1263832108"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9561240",
+            "CEDULA": "1263832108",
+            "NOMBRES": "JUAN ADOLFO VERGARA",
+            "CREDITO": "6.179.986",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "131.999",
+            "E.A": "22.73%",
+            "RECOMPRA O DESEMBOLSO": "2.002.230",
+            "FIRMA ELLECTRONICA": "JUAN ADOLFO VERGARA - 1263832108"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1263832108",
+            "NOMBRES": "JUAN ADOLFO VERGARA",
+            "FIRMA ELLECTRONICA": "JUAN ADOLFO VERGARA - 1263832108"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1263832108",
+            "NOMBRES": "JUAN ADOLFO VERGARA",
+            "FIRMA ELLECTRONICA": "JUAN ADOLFO VERGARA - 1263832108",
+            "AL PIE DE LA FIRMA": "JUAN ADOLFO VERGARA - 1263832108"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ADOLFO VERGARA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1263832108",
+            "NOMBRES": "JUAN ADOLFO VERGARA",
+            "SALARIO": "4.354.021",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1263832108",
+            "NOMBRES": "JUAN ADOLFO VERGARA",
+            "RECOMPRA O DESEMBOLSO": "2.002.230"
+        }
+    }
+]

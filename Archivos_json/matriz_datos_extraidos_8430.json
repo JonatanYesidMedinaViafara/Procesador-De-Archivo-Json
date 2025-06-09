@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "119846673777",
+            "SOLICITUD": "3838785",
+            "CEDULA": "1812957917",
+            "NOMBRES": "DARIO HENRY FRANCO GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "2.889.516",
+            "FIRMA ELLECTRONICA": "DARIO HENRY FRANCO GIRALDO - 1812957917"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "119846673777",
+            "NOMBRES": "DARIO HENRY FRANCO GIRALDO",
+            "CREDITO": "10.483.887",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "282.103",
+            "FIRMA ELLECTRONICA": "DARIO HENRY FRANCO GIRALDO - 1812957917",
+            "AL PIE DE LA FIRMA": "DARIO HENRY FRANCO GIRALDO - 1812957917"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1812957917",
+            "NOMBRES": "DARIO HENRY FRANCO GIRALDO",
+            "FECHA NACIMIENTO": "25/02/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.483.887",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DARIO HENRY FRANCO GIRALDO - 1812957917",
+            "AL PIE DE LA FIRMA": "DARIO HENRY FRANCO GIRALDO - 1812957917"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3838785",
+            "CEDULA": "1812957917",
+            "NOMBRES": "DARIO HENRY FRANCO GIRALDO",
+            "CREDITO": "10.483.887",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "282.103",
+            "E.A": "25.32%",
+            "RECOMPRA O DESEMBOLSO": "2.889.516",
+            "FIRMA ELLECTRONICA": "DARIO HENRY FRANCO GIRALDO - 1812957917"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1812957917",
+            "NOMBRES": "DARIO HENRY FRANCO GIRALDO",
+            "FIRMA ELLECTRONICA": "DARIO HENRY FRANCO GIRALDO - 1812957917"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1812957917",
+            "NOMBRES": "DARIO HENRY FRANCO GIRALDO",
+            "FIRMA ELLECTRONICA": "DARIO HENRY FRANCO GIRALDO - 1812957917",
+            "AL PIE DE LA FIRMA": "DARIO HENRY FRANCO GIRALDO - 1812957917"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO HENRY FRANCO GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1812957917",
+            "NOMBRES": "DARIO HENRY FRANCO GIRALDO",
+            "SALARIO": "3.081.728",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1812957917",
+            "NOMBRES": "DARIO HENRY FRANCO GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "2.889.516"
+        }
+    }
+]

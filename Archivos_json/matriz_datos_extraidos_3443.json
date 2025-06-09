@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "798204597234",
+            "SOLICITUD": "9009420",
+            "CEDULA": "1370351150",
+            "NOMBRES": "JUAN GUZMÁN VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "2.738.356",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN VANEGAS - 1370351150"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "798204597234",
+            "NOMBRES": "JUAN GUZMÁN VANEGAS",
+            "CREDITO": "5.416.180",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "300.161",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN VANEGAS - 1370351150",
+            "AL PIE DE LA FIRMA": "JUAN GUZMÁN VANEGAS - 1370351150"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1370351150",
+            "NOMBRES": "JUAN GUZMÁN VANEGAS",
+            "FECHA NACIMIENTO": "10/08/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.416.180",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN VANEGAS - 1370351150",
+            "AL PIE DE LA FIRMA": "JUAN GUZMÁN VANEGAS - 1370351150"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9009420",
+            "CEDULA": "1370351150",
+            "NOMBRES": "JUAN GUZMÁN VANEGAS",
+            "CREDITO": "5.416.180",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "300.161",
+            "E.A": "24.84%",
+            "RECOMPRA O DESEMBOLSO": "2.738.356",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN VANEGAS - 1370351150"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1370351150",
+            "NOMBRES": "JUAN GUZMÁN VANEGAS",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN VANEGAS - 1370351150"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1370351150",
+            "NOMBRES": "JUAN GUZMÁN VANEGAS",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN VANEGAS - 1370351150",
+            "AL PIE DE LA FIRMA": "JUAN GUZMÁN VANEGAS - 1370351150"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN GUZMÁN VANEGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1370351150",
+            "NOMBRES": "JUAN GUZMÁN VANEGAS",
+            "SALARIO": "1.032.005",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1370351150",
+            "NOMBRES": "JUAN GUZMÁN VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "2.738.356"
+        }
+    }
+]

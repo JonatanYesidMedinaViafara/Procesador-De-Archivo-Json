@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "586922614848",
+            "SOLICITUD": "4906412",
+            "CEDULA": "1230691878",
+            "NOMBRES": "MARÍA ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "2.049.556",
+            "FIRMA ELLECTRONICA": "MARÍA ZAPATA - 1230691878"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "586922614848",
+            "NOMBRES": "MARÍA ZAPATA",
+            "CREDITO": "11.986.736",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "319.608",
+            "FIRMA ELLECTRONICA": "MARÍA ZAPATA - 1230691878",
+            "AL PIE DE LA FIRMA": "MARÍA ZAPATA - 1230691878"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1230691878",
+            "NOMBRES": "MARÍA ZAPATA",
+            "FECHA NACIMIENTO": "12/05/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.986.736",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA ZAPATA - 1230691878",
+            "AL PIE DE LA FIRMA": "MARÍA ZAPATA - 1230691878"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4906412",
+            "CEDULA": "1230691878",
+            "NOMBRES": "MARÍA ZAPATA",
+            "CREDITO": "11.986.736",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "319.608",
+            "E.A": "20.59%",
+            "RECOMPRA O DESEMBOLSO": "2.049.556",
+            "FIRMA ELLECTRONICA": "MARÍA ZAPATA - 1230691878"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1230691878",
+            "NOMBRES": "MARÍA ZAPATA",
+            "FIRMA ELLECTRONICA": "MARÍA ZAPATA - 1230691878"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1230691878",
+            "NOMBRES": "MARÍA ZAPATA",
+            "FIRMA ELLECTRONICA": "MARÍA ZAPATA - 1230691878",
+            "AL PIE DE LA FIRMA": "MARÍA ZAPATA - 1230691878"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1230691878",
+            "NOMBRES": "MARÍA ZAPATA",
+            "SALARIO": "1.973.198",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1230691878",
+            "NOMBRES": "MARÍA ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "2.049.556"
+        }
+    }
+]

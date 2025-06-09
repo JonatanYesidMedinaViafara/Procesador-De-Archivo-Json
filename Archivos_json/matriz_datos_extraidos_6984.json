@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "173102763547",
+            "SOLICITUD": "8089741",
+            "CEDULA": "1810284430",
+            "NOMBRES": "FERNANDO MEJÍA RESTREPO",
+            "RECOMPRA O DESEMBOLSO": "4.163.470",
+            "FIRMA ELLECTRONICA": "FERNANDO MEJÍA RESTREPO - 1810284430"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "173102763547",
+            "NOMBRES": "FERNANDO MEJÍA RESTREPO",
+            "CREDITO": "10.698.306",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "250.615",
+            "FIRMA ELLECTRONICA": "FERNANDO MEJÍA RESTREPO - 1810284430",
+            "AL PIE DE LA FIRMA": "FERNANDO MEJÍA RESTREPO - 1810284430"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1810284430",
+            "NOMBRES": "FERNANDO MEJÍA RESTREPO",
+            "FECHA NACIMIENTO": "08/07/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.698.306",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO MEJÍA RESTREPO - 1810284430",
+            "AL PIE DE LA FIRMA": "FERNANDO MEJÍA RESTREPO - 1810284430"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8089741",
+            "CEDULA": "1810284430",
+            "NOMBRES": "FERNANDO MEJÍA RESTREPO",
+            "CREDITO": "10.698.306",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "250.615",
+            "E.A": "21.53%",
+            "RECOMPRA O DESEMBOLSO": "4.163.470",
+            "FIRMA ELLECTRONICA": "FERNANDO MEJÍA RESTREPO - 1810284430"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1810284430",
+            "NOMBRES": "FERNANDO MEJÍA RESTREPO",
+            "FIRMA ELLECTRONICA": "FERNANDO MEJÍA RESTREPO - 1810284430"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1810284430",
+            "NOMBRES": "FERNANDO MEJÍA RESTREPO",
+            "FIRMA ELLECTRONICA": "FERNANDO MEJÍA RESTREPO - 1810284430",
+            "AL PIE DE LA FIRMA": "FERNANDO MEJÍA RESTREPO - 1810284430"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO MEJÍA RESTREPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1810284430",
+            "NOMBRES": "FERNANDO MEJÍA RESTREPO",
+            "SALARIO": "3.421.990",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1810284430",
+            "NOMBRES": "FERNANDO MEJÍA RESTREPO",
+            "RECOMPRA O DESEMBOLSO": "4.163.470"
+        }
+    }
+]

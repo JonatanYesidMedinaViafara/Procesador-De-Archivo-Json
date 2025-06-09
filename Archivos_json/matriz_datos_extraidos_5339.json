@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "537383427050",
+            "SOLICITUD": "5271495",
+            "CEDULA": "1289232312",
+            "NOMBRES": "CARLOS BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "1.212.623",
+            "FIRMA ELLECTRONICA": "CARLOS BELTRÁN - 1289232312"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "537383427050",
+            "NOMBRES": "CARLOS BELTRÁN",
+            "CREDITO": "6.484.389",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "392.068",
+            "FIRMA ELLECTRONICA": "CARLOS BELTRÁN - 1289232312",
+            "AL PIE DE LA FIRMA": "CARLOS BELTRÁN - 1289232312"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1289232312",
+            "NOMBRES": "CARLOS BELTRÁN",
+            "FECHA NACIMIENTO": "25/02/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.484.389",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS BELTRÁN - 1289232312",
+            "AL PIE DE LA FIRMA": "CARLOS BELTRÁN - 1289232312"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5271495",
+            "CEDULA": "1289232312",
+            "NOMBRES": "CARLOS BELTRÁN",
+            "CREDITO": "6.484.389",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "392.068",
+            "E.A": "20.31%",
+            "RECOMPRA O DESEMBOLSO": "1.212.623",
+            "FIRMA ELLECTRONICA": "CARLOS BELTRÁN - 1289232312"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1289232312",
+            "NOMBRES": "CARLOS BELTRÁN",
+            "FIRMA ELLECTRONICA": "CARLOS BELTRÁN - 1289232312"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1289232312",
+            "NOMBRES": "CARLOS BELTRÁN",
+            "FIRMA ELLECTRONICA": "CARLOS BELTRÁN - 1289232312",
+            "AL PIE DE LA FIRMA": "CARLOS BELTRÁN - 1289232312"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS BELTRÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1289232312",
+            "NOMBRES": "CARLOS BELTRÁN",
+            "SALARIO": "3.571.409",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1289232312",
+            "NOMBRES": "CARLOS BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "1.212.623"
+        }
+    }
+]

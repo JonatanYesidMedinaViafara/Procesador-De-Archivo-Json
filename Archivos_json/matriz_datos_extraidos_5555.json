@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "604443213541",
+            "SOLICITUD": "1861679",
+            "CEDULA": "1001869945",
+            "NOMBRES": "ISABEL HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.514.560",
+            "FIRMA ELLECTRONICA": "ISABEL HERRERA - 1001869945"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "604443213541",
+            "NOMBRES": "ISABEL HERRERA",
+            "CREDITO": "6.257.524",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "233.764",
+            "FIRMA ELLECTRONICA": "ISABEL HERRERA - 1001869945",
+            "AL PIE DE LA FIRMA": "ISABEL HERRERA - 1001869945"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1001869945",
+            "NOMBRES": "ISABEL HERRERA",
+            "FECHA NACIMIENTO": "27/05/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.257.524",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ISABEL HERRERA - 1001869945",
+            "AL PIE DE LA FIRMA": "ISABEL HERRERA - 1001869945"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1861679",
+            "CEDULA": "1001869945",
+            "NOMBRES": "ISABEL HERRERA",
+            "CREDITO": "6.257.524",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "233.764",
+            "E.A": "18.83%",
+            "RECOMPRA O DESEMBOLSO": "2.514.560",
+            "FIRMA ELLECTRONICA": "ISABEL HERRERA - 1001869945"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1001869945",
+            "NOMBRES": "ISABEL HERRERA",
+            "FIRMA ELLECTRONICA": "ISABEL HERRERA - 1001869945"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1001869945",
+            "NOMBRES": "ISABEL HERRERA",
+            "FIRMA ELLECTRONICA": "ISABEL HERRERA - 1001869945",
+            "AL PIE DE LA FIRMA": "ISABEL HERRERA - 1001869945"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1001869945",
+            "NOMBRES": "ISABEL HERRERA",
+            "SALARIO": "2.548.414",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1001869945",
+            "NOMBRES": "ISABEL HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.514.560"
+        }
+    }
+]

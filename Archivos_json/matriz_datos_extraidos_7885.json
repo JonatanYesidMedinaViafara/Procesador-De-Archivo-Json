@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "310754038791",
+            "SOLICITUD": "9455345",
+            "CEDULA": "1986093205",
+            "NOMBRES": "MERCEDES CAMILA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.178.115",
+            "FIRMA ELLECTRONICA": "MERCEDES CAMILA MUÑOZ - 1986093205"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "310754038791",
+            "NOMBRES": "MERCEDES CAMILA MUÑOZ",
+            "CREDITO": "11.512.133",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "202.786",
+            "FIRMA ELLECTRONICA": "MERCEDES CAMILA MUÑOZ - 1986093205",
+            "AL PIE DE LA FIRMA": "MERCEDES CAMILA MUÑOZ - 1986093205"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1986093205",
+            "NOMBRES": "MERCEDES CAMILA MUÑOZ",
+            "FECHA NACIMIENTO": "05/06/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.512.133",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MERCEDES CAMILA MUÑOZ - 1986093205",
+            "AL PIE DE LA FIRMA": "MERCEDES CAMILA MUÑOZ - 1986093205"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9455345",
+            "CEDULA": "1986093205",
+            "NOMBRES": "MERCEDES CAMILA MUÑOZ",
+            "CREDITO": "11.512.133",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "202.786",
+            "E.A": "19.48%",
+            "RECOMPRA O DESEMBOLSO": "1.178.115",
+            "FIRMA ELLECTRONICA": "MERCEDES CAMILA MUÑOZ - 1986093205"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1986093205",
+            "NOMBRES": "MERCEDES CAMILA MUÑOZ",
+            "FIRMA ELLECTRONICA": "MERCEDES CAMILA MUÑOZ - 1986093205"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1986093205",
+            "NOMBRES": "MERCEDES CAMILA MUÑOZ",
+            "FIRMA ELLECTRONICA": "MERCEDES CAMILA MUÑOZ - 1986093205",
+            "AL PIE DE LA FIRMA": "MERCEDES CAMILA MUÑOZ - 1986093205"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MERCEDES CAMILA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1986093205",
+            "NOMBRES": "MERCEDES CAMILA MUÑOZ",
+            "SALARIO": "3.968.859",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1986093205",
+            "NOMBRES": "MERCEDES CAMILA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.178.115"
+        }
+    }
+]

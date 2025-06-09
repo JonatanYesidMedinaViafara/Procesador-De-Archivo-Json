@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "273137242165",
+            "SOLICITUD": "3246870",
+            "CEDULA": "1103950941",
+            "NOMBRES": "ELMER AGUDELO ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "2.751.991",
+            "FIRMA ELLECTRONICA": "ELMER AGUDELO ZAPATA - 1103950941"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "273137242165",
+            "NOMBRES": "ELMER AGUDELO ZAPATA",
+            "CREDITO": "14.284.444",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "314.199",
+            "FIRMA ELLECTRONICA": "ELMER AGUDELO ZAPATA - 1103950941",
+            "AL PIE DE LA FIRMA": "ELMER AGUDELO ZAPATA - 1103950941"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1103950941",
+            "NOMBRES": "ELMER AGUDELO ZAPATA",
+            "FECHA NACIMIENTO": "13/09/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.284.444",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ELMER AGUDELO ZAPATA - 1103950941",
+            "AL PIE DE LA FIRMA": "ELMER AGUDELO ZAPATA - 1103950941"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3246870",
+            "CEDULA": "1103950941",
+            "NOMBRES": "ELMER AGUDELO ZAPATA",
+            "CREDITO": "14.284.444",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "314.199",
+            "E.A": "25.04%",
+            "RECOMPRA O DESEMBOLSO": "2.751.991",
+            "FIRMA ELLECTRONICA": "ELMER AGUDELO ZAPATA - 1103950941"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1103950941",
+            "NOMBRES": "ELMER AGUDELO ZAPATA",
+            "FIRMA ELLECTRONICA": "ELMER AGUDELO ZAPATA - 1103950941"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1103950941",
+            "NOMBRES": "ELMER AGUDELO ZAPATA",
+            "FIRMA ELLECTRONICA": "ELMER AGUDELO ZAPATA - 1103950941",
+            "AL PIE DE LA FIRMA": "ELMER AGUDELO ZAPATA - 1103950941"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELMER AGUDELO ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1103950941",
+            "NOMBRES": "ELMER AGUDELO ZAPATA",
+            "SALARIO": "1.125.328",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1103950941",
+            "NOMBRES": "ELMER AGUDELO ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "2.751.991"
+        }
+    }
+]

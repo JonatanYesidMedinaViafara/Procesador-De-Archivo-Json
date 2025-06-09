@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "643388464438",
+            "SOLICITUD": "2238577",
+            "CEDULA": "1981593318",
+            "NOMBRES": "GERMÁN ANTONIO GARCÍA DUARTE",
+            "RECOMPRA O DESEMBOLSO": "3.039.416",
+            "FIRMA ELLECTRONICA": "GERMÁN ANTONIO GARCÍA DUARTE - 1981593318"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "643388464438",
+            "NOMBRES": "GERMÁN ANTONIO GARCÍA DUARTE",
+            "CREDITO": "17.993.643",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "160.364",
+            "FIRMA ELLECTRONICA": "GERMÁN ANTONIO GARCÍA DUARTE - 1981593318",
+            "AL PIE DE LA FIRMA": "GERMÁN ANTONIO GARCÍA DUARTE - 1981593318"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1981593318",
+            "NOMBRES": "GERMÁN ANTONIO GARCÍA DUARTE",
+            "FECHA NACIMIENTO": "24/01/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.993.643",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "GERMÁN ANTONIO GARCÍA DUARTE - 1981593318",
+            "AL PIE DE LA FIRMA": "GERMÁN ANTONIO GARCÍA DUARTE - 1981593318"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2238577",
+            "CEDULA": "1981593318",
+            "NOMBRES": "GERMÁN ANTONIO GARCÍA DUARTE",
+            "CREDITO": "17.993.643",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "160.364",
+            "E.A": "22.76%",
+            "RECOMPRA O DESEMBOLSO": "3.039.416",
+            "FIRMA ELLECTRONICA": "GERMÁN ANTONIO GARCÍA DUARTE - 1981593318"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1981593318",
+            "NOMBRES": "GERMÁN ANTONIO GARCÍA DUARTE",
+            "FIRMA ELLECTRONICA": "GERMÁN ANTONIO GARCÍA DUARTE - 1981593318"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1981593318",
+            "NOMBRES": "GERMÁN ANTONIO GARCÍA DUARTE",
+            "FIRMA ELLECTRONICA": "GERMÁN ANTONIO GARCÍA DUARTE - 1981593318",
+            "AL PIE DE LA FIRMA": "GERMÁN ANTONIO GARCÍA DUARTE - 1981593318"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GERMÁN ANTONIO GARCÍA DUARTE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1981593318",
+            "NOMBRES": "GERMÁN ANTONIO GARCÍA DUARTE",
+            "SALARIO": "4.712.278",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1981593318",
+            "NOMBRES": "GERMÁN ANTONIO GARCÍA DUARTE",
+            "RECOMPRA O DESEMBOLSO": "3.039.416"
+        }
+    }
+]

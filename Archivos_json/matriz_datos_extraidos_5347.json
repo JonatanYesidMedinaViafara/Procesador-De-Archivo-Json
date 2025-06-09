@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "781096381899",
+            "SOLICITUD": "2241621",
+            "CEDULA": "1281641911",
+            "NOMBRES": "EMILSE URIBE",
+            "RECOMPRA O DESEMBOLSO": "4.558.099",
+            "FIRMA ELLECTRONICA": "EMILSE URIBE - 1281641911"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "781096381899",
+            "NOMBRES": "EMILSE URIBE",
+            "CREDITO": "8.596.535",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "397.64",
+            "FIRMA ELLECTRONICA": "EMILSE URIBE - 1281641911",
+            "AL PIE DE LA FIRMA": "EMILSE URIBE - 1281641911"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1281641911",
+            "NOMBRES": "EMILSE URIBE",
+            "FECHA NACIMIENTO": "09/05/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.596.535",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EMILSE URIBE - 1281641911",
+            "AL PIE DE LA FIRMA": "EMILSE URIBE - 1281641911"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2241621",
+            "CEDULA": "1281641911",
+            "NOMBRES": "EMILSE URIBE",
+            "CREDITO": "8.596.535",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "397.64",
+            "E.A": "21.46%",
+            "RECOMPRA O DESEMBOLSO": "4.558.099",
+            "FIRMA ELLECTRONICA": "EMILSE URIBE - 1281641911"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1281641911",
+            "NOMBRES": "EMILSE URIBE",
+            "FIRMA ELLECTRONICA": "EMILSE URIBE - 1281641911"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1281641911",
+            "NOMBRES": "EMILSE URIBE",
+            "FIRMA ELLECTRONICA": "EMILSE URIBE - 1281641911",
+            "AL PIE DE LA FIRMA": "EMILSE URIBE - 1281641911"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMILSE URIBE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1281641911",
+            "NOMBRES": "EMILSE URIBE",
+            "SALARIO": "3.289.111",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1281641911",
+            "NOMBRES": "EMILSE URIBE",
+            "RECOMPRA O DESEMBOLSO": "4.558.099"
+        }
+    }
+]

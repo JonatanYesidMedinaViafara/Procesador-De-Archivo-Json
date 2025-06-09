@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "578303392962",
+            "SOLICITUD": "7924243",
+            "CEDULA": "1578718877",
+            "NOMBRES": "ANTONIO LÓPEZ CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "4.520.447",
+            "FIRMA ELLECTRONICA": "ANTONIO LÓPEZ CÁRDENAS - 1578718877"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "578303392962",
+            "NOMBRES": "ANTONIO LÓPEZ CÁRDENAS",
+            "CREDITO": "18.228.500",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "173.909",
+            "FIRMA ELLECTRONICA": "ANTONIO LÓPEZ CÁRDENAS - 1578718877",
+            "AL PIE DE LA FIRMA": "ANTONIO LÓPEZ CÁRDENAS - 1578718877"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1578718877",
+            "NOMBRES": "ANTONIO LÓPEZ CÁRDENAS",
+            "FECHA NACIMIENTO": "12/06/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.228.500",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANTONIO LÓPEZ CÁRDENAS - 1578718877",
+            "AL PIE DE LA FIRMA": "ANTONIO LÓPEZ CÁRDENAS - 1578718877"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7924243",
+            "CEDULA": "1578718877",
+            "NOMBRES": "ANTONIO LÓPEZ CÁRDENAS",
+            "CREDITO": "18.228.500",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "173.909",
+            "E.A": "24.18%",
+            "RECOMPRA O DESEMBOLSO": "4.520.447",
+            "FIRMA ELLECTRONICA": "ANTONIO LÓPEZ CÁRDENAS - 1578718877"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1578718877",
+            "NOMBRES": "ANTONIO LÓPEZ CÁRDENAS",
+            "FIRMA ELLECTRONICA": "ANTONIO LÓPEZ CÁRDENAS - 1578718877"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1578718877",
+            "NOMBRES": "ANTONIO LÓPEZ CÁRDENAS",
+            "FIRMA ELLECTRONICA": "ANTONIO LÓPEZ CÁRDENAS - 1578718877",
+            "AL PIE DE LA FIRMA": "ANTONIO LÓPEZ CÁRDENAS - 1578718877"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO LÓPEZ CÁRDENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1578718877",
+            "NOMBRES": "ANTONIO LÓPEZ CÁRDENAS",
+            "SALARIO": "3.797.031",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1578718877",
+            "NOMBRES": "ANTONIO LÓPEZ CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "4.520.447"
+        }
+    }
+]

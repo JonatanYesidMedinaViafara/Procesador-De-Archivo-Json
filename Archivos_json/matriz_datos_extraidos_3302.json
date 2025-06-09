@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "380800275711",
+            "SOLICITUD": "5384123",
+            "CEDULA": "1912183891",
+            "NOMBRES": "FERNANDA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "1.097.952",
+            "FIRMA ELLECTRONICA": "FERNANDA CÓRDOBA - 1912183891"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "380800275711",
+            "NOMBRES": "FERNANDA CÓRDOBA",
+            "CREDITO": "5.821.844",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "317.978",
+            "FIRMA ELLECTRONICA": "FERNANDA CÓRDOBA - 1912183891",
+            "AL PIE DE LA FIRMA": "FERNANDA CÓRDOBA - 1912183891"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1912183891",
+            "NOMBRES": "FERNANDA CÓRDOBA",
+            "FECHA NACIMIENTO": "25/06/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.821.844",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FERNANDA CÓRDOBA - 1912183891",
+            "AL PIE DE LA FIRMA": "FERNANDA CÓRDOBA - 1912183891"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5384123",
+            "CEDULA": "1912183891",
+            "NOMBRES": "FERNANDA CÓRDOBA",
+            "CREDITO": "5.821.844",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "317.978",
+            "E.A": "24.4%",
+            "RECOMPRA O DESEMBOLSO": "1.097.952",
+            "FIRMA ELLECTRONICA": "FERNANDA CÓRDOBA - 1912183891"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1912183891",
+            "NOMBRES": "FERNANDA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "FERNANDA CÓRDOBA - 1912183891"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1912183891",
+            "NOMBRES": "FERNANDA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "FERNANDA CÓRDOBA - 1912183891",
+            "AL PIE DE LA FIRMA": "FERNANDA CÓRDOBA - 1912183891"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDA CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1912183891",
+            "NOMBRES": "FERNANDA CÓRDOBA",
+            "SALARIO": "4.486.910",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1912183891",
+            "NOMBRES": "FERNANDA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "1.097.952"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "712627317735",
+            "SOLICITUD": "1684944",
+            "CEDULA": "1854998479",
+            "NOMBRES": "ÁLVARO BEJARANO",
+            "RECOMPRA O DESEMBOLSO": "2.979.460",
+            "FIRMA ELLECTRONICA": "ÁLVARO BEJARANO - 1854998479"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "712627317735",
+            "NOMBRES": "ÁLVARO BEJARANO",
+            "CREDITO": "10.747.030",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "273.59",
+            "FIRMA ELLECTRONICA": "ÁLVARO BEJARANO - 1854998479",
+            "AL PIE DE LA FIRMA": "ÁLVARO BEJARANO - 1854998479"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1854998479",
+            "NOMBRES": "ÁLVARO BEJARANO",
+            "FECHA NACIMIENTO": "18/08/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.747.030",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ÁLVARO BEJARANO - 1854998479",
+            "AL PIE DE LA FIRMA": "ÁLVARO BEJARANO - 1854998479"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1684944",
+            "CEDULA": "1854998479",
+            "NOMBRES": "ÁLVARO BEJARANO",
+            "CREDITO": "10.747.030",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "273.59",
+            "E.A": "27.38%",
+            "RECOMPRA O DESEMBOLSO": "2.979.460",
+            "FIRMA ELLECTRONICA": "ÁLVARO BEJARANO - 1854998479"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1854998479",
+            "NOMBRES": "ÁLVARO BEJARANO",
+            "FIRMA ELLECTRONICA": "ÁLVARO BEJARANO - 1854998479"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1854998479",
+            "NOMBRES": "ÁLVARO BEJARANO",
+            "FIRMA ELLECTRONICA": "ÁLVARO BEJARANO - 1854998479",
+            "AL PIE DE LA FIRMA": "ÁLVARO BEJARANO - 1854998479"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO BEJARANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1854998479",
+            "NOMBRES": "ÁLVARO BEJARANO",
+            "SALARIO": "3.935.121",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1854998479",
+            "NOMBRES": "ÁLVARO BEJARANO",
+            "RECOMPRA O DESEMBOLSO": "2.979.460"
+        }
+    }
+]

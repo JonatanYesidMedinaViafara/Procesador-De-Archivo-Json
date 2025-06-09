@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "195542393295",
+            "SOLICITUD": "4021595",
+            "CEDULA": "1828937078",
+            "NOMBRES": "ANDRÉS PARRA",
+            "RECOMPRA O DESEMBOLSO": "1.977.705",
+            "FIRMA ELLECTRONICA": "ANDRÉS PARRA - 1828937078"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "195542393295",
+            "NOMBRES": "ANDRÉS PARRA",
+            "CREDITO": "17.204.745",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "255.373",
+            "FIRMA ELLECTRONICA": "ANDRÉS PARRA - 1828937078",
+            "AL PIE DE LA FIRMA": "ANDRÉS PARRA - 1828937078"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1828937078",
+            "NOMBRES": "ANDRÉS PARRA",
+            "FECHA NACIMIENTO": "23/03/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.204.745",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS PARRA - 1828937078",
+            "AL PIE DE LA FIRMA": "ANDRÉS PARRA - 1828937078"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4021595",
+            "CEDULA": "1828937078",
+            "NOMBRES": "ANDRÉS PARRA",
+            "CREDITO": "17.204.745",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "255.373",
+            "E.A": "20.59%",
+            "RECOMPRA O DESEMBOLSO": "1.977.705",
+            "FIRMA ELLECTRONICA": "ANDRÉS PARRA - 1828937078"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1828937078",
+            "NOMBRES": "ANDRÉS PARRA",
+            "FIRMA ELLECTRONICA": "ANDRÉS PARRA - 1828937078"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1828937078",
+            "NOMBRES": "ANDRÉS PARRA",
+            "FIRMA ELLECTRONICA": "ANDRÉS PARRA - 1828937078",
+            "AL PIE DE LA FIRMA": "ANDRÉS PARRA - 1828937078"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1828937078",
+            "NOMBRES": "ANDRÉS PARRA",
+            "SALARIO": "2.686.327",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1828937078",
+            "NOMBRES": "ANDRÉS PARRA",
+            "RECOMPRA O DESEMBOLSO": "1.977.705"
+        }
+    }
+]

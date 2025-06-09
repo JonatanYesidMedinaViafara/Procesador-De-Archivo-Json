@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "479251492218",
+            "SOLICITUD": "6826504",
+            "CEDULA": "1508008086",
+            "NOMBRES": "GERARDO CALDERÓN OVIEDO",
+            "RECOMPRA O DESEMBOLSO": "1.032.666",
+            "FIRMA ELLECTRONICA": "GERARDO CALDERÓN OVIEDO - 1508008086"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "479251492218",
+            "NOMBRES": "GERARDO CALDERÓN OVIEDO",
+            "CREDITO": "19.574.445",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "231.907",
+            "FIRMA ELLECTRONICA": "GERARDO CALDERÓN OVIEDO - 1508008086",
+            "AL PIE DE LA FIRMA": "GERARDO CALDERÓN OVIEDO - 1508008086"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1508008086",
+            "NOMBRES": "GERARDO CALDERÓN OVIEDO",
+            "FECHA NACIMIENTO": "14/05/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.574.445",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GERARDO CALDERÓN OVIEDO - 1508008086",
+            "AL PIE DE LA FIRMA": "GERARDO CALDERÓN OVIEDO - 1508008086"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6826504",
+            "CEDULA": "1508008086",
+            "NOMBRES": "GERARDO CALDERÓN OVIEDO",
+            "CREDITO": "19.574.445",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "231.907",
+            "E.A": "26.45%",
+            "RECOMPRA O DESEMBOLSO": "1.032.666",
+            "FIRMA ELLECTRONICA": "GERARDO CALDERÓN OVIEDO - 1508008086"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1508008086",
+            "NOMBRES": "GERARDO CALDERÓN OVIEDO",
+            "FIRMA ELLECTRONICA": "GERARDO CALDERÓN OVIEDO - 1508008086"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1508008086",
+            "NOMBRES": "GERARDO CALDERÓN OVIEDO",
+            "FIRMA ELLECTRONICA": "GERARDO CALDERÓN OVIEDO - 1508008086",
+            "AL PIE DE LA FIRMA": "GERARDO CALDERÓN OVIEDO - 1508008086"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GERARDO CALDERÓN OVIEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1508008086",
+            "NOMBRES": "GERARDO CALDERÓN OVIEDO",
+            "SALARIO": "1.139.027",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1508008086",
+            "NOMBRES": "GERARDO CALDERÓN OVIEDO",
+            "RECOMPRA O DESEMBOLSO": "1.032.666"
+        }
+    }
+]

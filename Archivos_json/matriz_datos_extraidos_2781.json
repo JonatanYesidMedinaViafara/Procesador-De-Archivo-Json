@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "656855780153",
+            "SOLICITUD": "3058521",
+            "CEDULA": "1252137600",
+            "NOMBRES": "MARÍA LIZETH PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.897.012",
+            "FIRMA ELLECTRONICA": "MARÍA LIZETH PEÑA - 1252137600"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "656855780153",
+            "NOMBRES": "MARÍA LIZETH PEÑA",
+            "CREDITO": "9.672.912",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "209.622",
+            "FIRMA ELLECTRONICA": "MARÍA LIZETH PEÑA - 1252137600",
+            "AL PIE DE LA FIRMA": "MARÍA LIZETH PEÑA - 1252137600"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1252137600",
+            "NOMBRES": "MARÍA LIZETH PEÑA",
+            "FECHA NACIMIENTO": "20/12/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.672.912",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA LIZETH PEÑA - 1252137600",
+            "AL PIE DE LA FIRMA": "MARÍA LIZETH PEÑA - 1252137600"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3058521",
+            "CEDULA": "1252137600",
+            "NOMBRES": "MARÍA LIZETH PEÑA",
+            "CREDITO": "9.672.912",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "209.622",
+            "E.A": "23.39%",
+            "RECOMPRA O DESEMBOLSO": "2.897.012",
+            "FIRMA ELLECTRONICA": "MARÍA LIZETH PEÑA - 1252137600"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1252137600",
+            "NOMBRES": "MARÍA LIZETH PEÑA",
+            "FIRMA ELLECTRONICA": "MARÍA LIZETH PEÑA - 1252137600"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1252137600",
+            "NOMBRES": "MARÍA LIZETH PEÑA",
+            "FIRMA ELLECTRONICA": "MARÍA LIZETH PEÑA - 1252137600",
+            "AL PIE DE LA FIRMA": "MARÍA LIZETH PEÑA - 1252137600"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LIZETH PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1252137600",
+            "NOMBRES": "MARÍA LIZETH PEÑA",
+            "SALARIO": "4.378.843",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1252137600",
+            "NOMBRES": "MARÍA LIZETH PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.897.012"
+        }
+    }
+]

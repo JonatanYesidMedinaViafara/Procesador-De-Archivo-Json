@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "317777567225",
+            "SOLICITUD": "9232149",
+            "CEDULA": "1160356590",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.004.698",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1160356590"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "317777567225",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "CREDITO": "19.313.896",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "282.389",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1160356590",
+            "AL PIE DE LA FIRMA": "LUIS MARTÍNEZ - 1160356590"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1160356590",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "FECHA NACIMIENTO": "30/10/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.313.896",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1160356590",
+            "AL PIE DE LA FIRMA": "LUIS MARTÍNEZ - 1160356590"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9232149",
+            "CEDULA": "1160356590",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "CREDITO": "19.313.896",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "282.389",
+            "E.A": "20.62%",
+            "RECOMPRA O DESEMBOLSO": "2.004.698",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1160356590"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1160356590",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1160356590"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1160356590",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1160356590",
+            "AL PIE DE LA FIRMA": "LUIS MARTÍNEZ - 1160356590"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1160356590",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "SALARIO": "4.750.909",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1160356590",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.004.698"
+        }
+    }
+]

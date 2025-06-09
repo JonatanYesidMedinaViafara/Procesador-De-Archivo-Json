@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "881538238270",
+            "SOLICITUD": "2788344",
+            "CEDULA": "1087092058",
+            "NOMBRES": "STELLA MURILLO GIL",
+            "RECOMPRA O DESEMBOLSO": "1.437.925",
+            "FIRMA ELLECTRONICA": "STELLA MURILLO GIL - 1087092058"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "881538238270",
+            "NOMBRES": "STELLA MURILLO GIL",
+            "CREDITO": "19.896.638",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "360.321",
+            "FIRMA ELLECTRONICA": "STELLA MURILLO GIL - 1087092058",
+            "AL PIE DE LA FIRMA": "STELLA MURILLO GIL - 1087092058"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1087092058",
+            "NOMBRES": "STELLA MURILLO GIL",
+            "FECHA NACIMIENTO": "10/01/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.896.638",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "STELLA MURILLO GIL - 1087092058",
+            "AL PIE DE LA FIRMA": "STELLA MURILLO GIL - 1087092058"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2788344",
+            "CEDULA": "1087092058",
+            "NOMBRES": "STELLA MURILLO GIL",
+            "CREDITO": "19.896.638",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "360.321",
+            "E.A": "27.51%",
+            "RECOMPRA O DESEMBOLSO": "1.437.925",
+            "FIRMA ELLECTRONICA": "STELLA MURILLO GIL - 1087092058"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1087092058",
+            "NOMBRES": "STELLA MURILLO GIL",
+            "FIRMA ELLECTRONICA": "STELLA MURILLO GIL - 1087092058"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1087092058",
+            "NOMBRES": "STELLA MURILLO GIL",
+            "FIRMA ELLECTRONICA": "STELLA MURILLO GIL - 1087092058",
+            "AL PIE DE LA FIRMA": "STELLA MURILLO GIL - 1087092058"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "STELLA MURILLO GIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1087092058",
+            "NOMBRES": "STELLA MURILLO GIL",
+            "SALARIO": "3.246.098",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1087092058",
+            "NOMBRES": "STELLA MURILLO GIL",
+            "RECOMPRA O DESEMBOLSO": "1.437.925"
+        }
+    }
+]

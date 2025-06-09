@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "557605077153",
+            "SOLICITUD": "2119456",
+            "CEDULA": "1202627394",
+            "NOMBRES": "ROCÍO MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "2.068.614",
+            "FIRMA ELLECTRONICA": "ROCÍO MENDOZA - 1202627394"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "557605077153",
+            "NOMBRES": "ROCÍO MENDOZA",
+            "CREDITO": "15.968.604",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "378.808",
+            "FIRMA ELLECTRONICA": "ROCÍO MENDOZA - 1202627394",
+            "AL PIE DE LA FIRMA": "ROCÍO MENDOZA - 1202627394"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1202627394",
+            "NOMBRES": "ROCÍO MENDOZA",
+            "FECHA NACIMIENTO": "23/01/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.968.604",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ROCÍO MENDOZA - 1202627394",
+            "AL PIE DE LA FIRMA": "ROCÍO MENDOZA - 1202627394"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2119456",
+            "CEDULA": "1202627394",
+            "NOMBRES": "ROCÍO MENDOZA",
+            "CREDITO": "15.968.604",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "378.808",
+            "E.A": "27.17%",
+            "RECOMPRA O DESEMBOLSO": "2.068.614",
+            "FIRMA ELLECTRONICA": "ROCÍO MENDOZA - 1202627394"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1202627394",
+            "NOMBRES": "ROCÍO MENDOZA",
+            "FIRMA ELLECTRONICA": "ROCÍO MENDOZA - 1202627394"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1202627394",
+            "NOMBRES": "ROCÍO MENDOZA",
+            "FIRMA ELLECTRONICA": "ROCÍO MENDOZA - 1202627394",
+            "AL PIE DE LA FIRMA": "ROCÍO MENDOZA - 1202627394"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROCÍO MENDOZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1202627394",
+            "NOMBRES": "ROCÍO MENDOZA",
+            "SALARIO": "1.047.240",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1202627394",
+            "NOMBRES": "ROCÍO MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "2.068.614"
+        }
+    }
+]

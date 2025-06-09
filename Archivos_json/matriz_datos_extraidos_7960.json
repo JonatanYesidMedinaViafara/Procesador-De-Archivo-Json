@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "576922283243",
+            "SOLICITUD": "1374059",
+            "CEDULA": "1530152454",
+            "NOMBRES": "GUSTAVO HENAO",
+            "RECOMPRA O DESEMBOLSO": "4.577.374",
+            "FIRMA ELLECTRONICA": "GUSTAVO HENAO - 1530152454"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "576922283243",
+            "NOMBRES": "GUSTAVO HENAO",
+            "CREDITO": "6.085.580",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "315.793",
+            "FIRMA ELLECTRONICA": "GUSTAVO HENAO - 1530152454",
+            "AL PIE DE LA FIRMA": "GUSTAVO HENAO - 1530152454"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1530152454",
+            "NOMBRES": "GUSTAVO HENAO",
+            "FECHA NACIMIENTO": "04/05/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.085.580",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "GUSTAVO HENAO - 1530152454",
+            "AL PIE DE LA FIRMA": "GUSTAVO HENAO - 1530152454"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1374059",
+            "CEDULA": "1530152454",
+            "NOMBRES": "GUSTAVO HENAO",
+            "CREDITO": "6.085.580",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "315.793",
+            "E.A": "21.42%",
+            "RECOMPRA O DESEMBOLSO": "4.577.374",
+            "FIRMA ELLECTRONICA": "GUSTAVO HENAO - 1530152454"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1530152454",
+            "NOMBRES": "GUSTAVO HENAO",
+            "FIRMA ELLECTRONICA": "GUSTAVO HENAO - 1530152454"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1530152454",
+            "NOMBRES": "GUSTAVO HENAO",
+            "FIRMA ELLECTRONICA": "GUSTAVO HENAO - 1530152454",
+            "AL PIE DE LA FIRMA": "GUSTAVO HENAO - 1530152454"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GUSTAVO HENAO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1530152454",
+            "NOMBRES": "GUSTAVO HENAO",
+            "SALARIO": "2.478.575",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1530152454",
+            "NOMBRES": "GUSTAVO HENAO",
+            "RECOMPRA O DESEMBOLSO": "4.577.374"
+        }
+    }
+]

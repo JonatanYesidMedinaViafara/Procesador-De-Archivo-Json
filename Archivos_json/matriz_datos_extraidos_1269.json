@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "723433491114",
+            "SOLICITUD": "5869770",
+            "CEDULA": "1561281139",
+            "NOMBRES": "JUAN NELSON CASTELLANOS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.849.201",
+            "FIRMA ELLECTRONICA": "JUAN NELSON CASTELLANOS GÓMEZ - 1561281139"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "723433491114",
+            "NOMBRES": "JUAN NELSON CASTELLANOS GÓMEZ",
+            "CREDITO": "14.216.491",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.933",
+            "FIRMA ELLECTRONICA": "JUAN NELSON CASTELLANOS GÓMEZ - 1561281139",
+            "AL PIE DE LA FIRMA": "JUAN NELSON CASTELLANOS GÓMEZ - 1561281139"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1561281139",
+            "NOMBRES": "JUAN NELSON CASTELLANOS GÓMEZ",
+            "FECHA NACIMIENTO": "17/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.216.491",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN NELSON CASTELLANOS GÓMEZ - 1561281139",
+            "AL PIE DE LA FIRMA": "JUAN NELSON CASTELLANOS GÓMEZ - 1561281139"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5869770",
+            "CEDULA": "1561281139",
+            "NOMBRES": "JUAN NELSON CASTELLANOS GÓMEZ",
+            "CREDITO": "14.216.491",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.933",
+            "E.A": "22.03%",
+            "RECOMPRA O DESEMBOLSO": "2.849.201",
+            "FIRMA ELLECTRONICA": "JUAN NELSON CASTELLANOS GÓMEZ - 1561281139"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1561281139",
+            "NOMBRES": "JUAN NELSON CASTELLANOS GÓMEZ",
+            "FIRMA ELLECTRONICA": "JUAN NELSON CASTELLANOS GÓMEZ - 1561281139"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1561281139",
+            "NOMBRES": "JUAN NELSON CASTELLANOS GÓMEZ",
+            "FIRMA ELLECTRONICA": "JUAN NELSON CASTELLANOS GÓMEZ - 1561281139",
+            "AL PIE DE LA FIRMA": "JUAN NELSON CASTELLANOS GÓMEZ - 1561281139"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN NELSON CASTELLANOS GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1561281139",
+            "NOMBRES": "JUAN NELSON CASTELLANOS GÓMEZ",
+            "SALARIO": "4.580.543",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1561281139",
+            "NOMBRES": "JUAN NELSON CASTELLANOS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.849.201"
+        }
+    }
+]

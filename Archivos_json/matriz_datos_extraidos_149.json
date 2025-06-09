@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "535412564437",
+            "SOLICITUD": "1740595",
+            "CEDULA": "1053759027",
+            "NOMBRES": "PATRICIA ARENAS RIVERA",
+            "RECOMPRA O DESEMBOLSO": "1.006.784",
+            "FIRMA ELLECTRONICA": "PATRICIA ARENAS RIVERA - 1053759027"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "535412564437",
+            "NOMBRES": "PATRICIA ARENAS RIVERA",
+            "CREDITO": "18.530.552",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "193.067",
+            "FIRMA ELLECTRONICA": "PATRICIA ARENAS RIVERA - 1053759027",
+            "AL PIE DE LA FIRMA": "PATRICIA ARENAS RIVERA - 1053759027"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1053759027",
+            "NOMBRES": "PATRICIA ARENAS RIVERA",
+            "FECHA NACIMIENTO": "29/09/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.530.552",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "PATRICIA ARENAS RIVERA - 1053759027",
+            "AL PIE DE LA FIRMA": "PATRICIA ARENAS RIVERA - 1053759027"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1740595",
+            "CEDULA": "1053759027",
+            "NOMBRES": "PATRICIA ARENAS RIVERA",
+            "CREDITO": "18.530.552",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "193.067",
+            "E.A": "27.19%",
+            "RECOMPRA O DESEMBOLSO": "1.006.784",
+            "FIRMA ELLECTRONICA": "PATRICIA ARENAS RIVERA - 1053759027"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1053759027",
+            "NOMBRES": "PATRICIA ARENAS RIVERA",
+            "FIRMA ELLECTRONICA": "PATRICIA ARENAS RIVERA - 1053759027"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1053759027",
+            "NOMBRES": "PATRICIA ARENAS RIVERA",
+            "FIRMA ELLECTRONICA": "PATRICIA ARENAS RIVERA - 1053759027",
+            "AL PIE DE LA FIRMA": "PATRICIA ARENAS RIVERA - 1053759027"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA ARENAS RIVERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1053759027",
+            "NOMBRES": "PATRICIA ARENAS RIVERA",
+            "SALARIO": "2.826.063",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1053759027",
+            "NOMBRES": "PATRICIA ARENAS RIVERA",
+            "RECOMPRA O DESEMBOLSO": "1.006.784"
+        }
+    }
+]

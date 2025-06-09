@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "317877631918",
+            "SOLICITUD": "4285800",
+            "CEDULA": "1543184674",
+            "NOMBRES": "ALEXIS MARCOS HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.738.445",
+            "FIRMA ELLECTRONICA": "ALEXIS MARCOS HERNÁNDEZ - 1543184674"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "317877631918",
+            "NOMBRES": "ALEXIS MARCOS HERNÁNDEZ",
+            "CREDITO": "19.138.523",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "262.809",
+            "FIRMA ELLECTRONICA": "ALEXIS MARCOS HERNÁNDEZ - 1543184674",
+            "AL PIE DE LA FIRMA": "ALEXIS MARCOS HERNÁNDEZ - 1543184674"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1543184674",
+            "NOMBRES": "ALEXIS MARCOS HERNÁNDEZ",
+            "FECHA NACIMIENTO": "11/09/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.138.523",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALEXIS MARCOS HERNÁNDEZ - 1543184674",
+            "AL PIE DE LA FIRMA": "ALEXIS MARCOS HERNÁNDEZ - 1543184674"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4285800",
+            "CEDULA": "1543184674",
+            "NOMBRES": "ALEXIS MARCOS HERNÁNDEZ",
+            "CREDITO": "19.138.523",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "262.809",
+            "E.A": "20.04%",
+            "RECOMPRA O DESEMBOLSO": "1.738.445",
+            "FIRMA ELLECTRONICA": "ALEXIS MARCOS HERNÁNDEZ - 1543184674"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1543184674",
+            "NOMBRES": "ALEXIS MARCOS HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ALEXIS MARCOS HERNÁNDEZ - 1543184674"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1543184674",
+            "NOMBRES": "ALEXIS MARCOS HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ALEXIS MARCOS HERNÁNDEZ - 1543184674",
+            "AL PIE DE LA FIRMA": "ALEXIS MARCOS HERNÁNDEZ - 1543184674"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXIS MARCOS HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1543184674",
+            "NOMBRES": "ALEXIS MARCOS HERNÁNDEZ",
+            "SALARIO": "3.820.400",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1543184674",
+            "NOMBRES": "ALEXIS MARCOS HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.738.445"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "281264634328",
+            "SOLICITUD": "4248923",
+            "CEDULA": "1357325890",
+            "NOMBRES": "CARLOS ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "1.262.424",
+            "FIRMA ELLECTRONICA": "CARLOS ÁVILA - 1357325890"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "281264634328",
+            "NOMBRES": "CARLOS ÁVILA",
+            "CREDITO": "8.684.953",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "380.293",
+            "FIRMA ELLECTRONICA": "CARLOS ÁVILA - 1357325890",
+            "AL PIE DE LA FIRMA": "CARLOS ÁVILA - 1357325890"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1357325890",
+            "NOMBRES": "CARLOS ÁVILA",
+            "FECHA NACIMIENTO": "22/06/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.684.953",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARLOS ÁVILA - 1357325890",
+            "AL PIE DE LA FIRMA": "CARLOS ÁVILA - 1357325890"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4248923",
+            "CEDULA": "1357325890",
+            "NOMBRES": "CARLOS ÁVILA",
+            "CREDITO": "8.684.953",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "380.293",
+            "E.A": "19.0%",
+            "RECOMPRA O DESEMBOLSO": "1.262.424",
+            "FIRMA ELLECTRONICA": "CARLOS ÁVILA - 1357325890"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1357325890",
+            "NOMBRES": "CARLOS ÁVILA",
+            "FIRMA ELLECTRONICA": "CARLOS ÁVILA - 1357325890"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1357325890",
+            "NOMBRES": "CARLOS ÁVILA",
+            "FIRMA ELLECTRONICA": "CARLOS ÁVILA - 1357325890",
+            "AL PIE DE LA FIRMA": "CARLOS ÁVILA - 1357325890"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS ÁVILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1357325890",
+            "NOMBRES": "CARLOS ÁVILA",
+            "SALARIO": "4.935.631",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1357325890",
+            "NOMBRES": "CARLOS ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "1.262.424"
+        }
+    }
+]

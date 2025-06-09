@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "921680458969",
+            "SOLICITUD": "7104360",
+            "CEDULA": "1833843416",
+            "NOMBRES": "ENRIQUE BONILLA",
+            "RECOMPRA O DESEMBOLSO": "4.686.539",
+            "FIRMA ELLECTRONICA": "ENRIQUE BONILLA - 1833843416"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "921680458969",
+            "NOMBRES": "ENRIQUE BONILLA",
+            "CREDITO": "15.543.231",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "162.425",
+            "FIRMA ELLECTRONICA": "ENRIQUE BONILLA - 1833843416",
+            "AL PIE DE LA FIRMA": "ENRIQUE BONILLA - 1833843416"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1833843416",
+            "NOMBRES": "ENRIQUE BONILLA",
+            "FECHA NACIMIENTO": "10/07/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.543.231",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ENRIQUE BONILLA - 1833843416",
+            "AL PIE DE LA FIRMA": "ENRIQUE BONILLA - 1833843416"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7104360",
+            "CEDULA": "1833843416",
+            "NOMBRES": "ENRIQUE BONILLA",
+            "CREDITO": "15.543.231",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "162.425",
+            "E.A": "20.87%",
+            "RECOMPRA O DESEMBOLSO": "4.686.539",
+            "FIRMA ELLECTRONICA": "ENRIQUE BONILLA - 1833843416"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1833843416",
+            "NOMBRES": "ENRIQUE BONILLA",
+            "FIRMA ELLECTRONICA": "ENRIQUE BONILLA - 1833843416"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1833843416",
+            "NOMBRES": "ENRIQUE BONILLA",
+            "FIRMA ELLECTRONICA": "ENRIQUE BONILLA - 1833843416",
+            "AL PIE DE LA FIRMA": "ENRIQUE BONILLA - 1833843416"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE BONILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1833843416",
+            "NOMBRES": "ENRIQUE BONILLA",
+            "SALARIO": "1.791.832",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1833843416",
+            "NOMBRES": "ENRIQUE BONILLA",
+            "RECOMPRA O DESEMBOLSO": "4.686.539"
+        }
+    }
+]

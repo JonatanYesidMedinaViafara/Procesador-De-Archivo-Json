@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "899002906084",
+            "SOLICITUD": "9870961",
+            "CEDULA": "1957066324",
+            "NOMBRES": "REINALDO MANUEL MEDINA",
+            "RECOMPRA O DESEMBOLSO": "2.970.622",
+            "FIRMA ELLECTRONICA": "REINALDO MANUEL MEDINA - 1957066324"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "899002906084",
+            "NOMBRES": "REINALDO MANUEL MEDINA",
+            "CREDITO": "19.709.135",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "281.711",
+            "FIRMA ELLECTRONICA": "REINALDO MANUEL MEDINA - 1957066324",
+            "AL PIE DE LA FIRMA": "REINALDO MANUEL MEDINA - 1957066324"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1957066324",
+            "NOMBRES": "REINALDO MANUEL MEDINA",
+            "FECHA NACIMIENTO": "17/05/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.709.135",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "REINALDO MANUEL MEDINA - 1957066324",
+            "AL PIE DE LA FIRMA": "REINALDO MANUEL MEDINA - 1957066324"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9870961",
+            "CEDULA": "1957066324",
+            "NOMBRES": "REINALDO MANUEL MEDINA",
+            "CREDITO": "19.709.135",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "281.711",
+            "E.A": "21.67%",
+            "RECOMPRA O DESEMBOLSO": "2.970.622",
+            "FIRMA ELLECTRONICA": "REINALDO MANUEL MEDINA - 1957066324"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1957066324",
+            "NOMBRES": "REINALDO MANUEL MEDINA",
+            "FIRMA ELLECTRONICA": "REINALDO MANUEL MEDINA - 1957066324"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1957066324",
+            "NOMBRES": "REINALDO MANUEL MEDINA",
+            "FIRMA ELLECTRONICA": "REINALDO MANUEL MEDINA - 1957066324",
+            "AL PIE DE LA FIRMA": "REINALDO MANUEL MEDINA - 1957066324"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "REINALDO MANUEL MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1957066324",
+            "NOMBRES": "REINALDO MANUEL MEDINA",
+            "SALARIO": "2.690.891",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1957066324",
+            "NOMBRES": "REINALDO MANUEL MEDINA",
+            "RECOMPRA O DESEMBOLSO": "2.970.622"
+        }
+    }
+]

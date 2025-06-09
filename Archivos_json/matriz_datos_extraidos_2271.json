@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "103932918571",
+            "SOLICITUD": "2084583",
+            "CEDULA": "1946356384",
+            "NOMBRES": "JAIRO JAVIER MARTÍNEZ HOYOS",
+            "RECOMPRA O DESEMBOLSO": "4.093.003",
+            "FIRMA ELLECTRONICA": "JAIRO JAVIER MARTÍNEZ HOYOS - 1946356384"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "103932918571",
+            "NOMBRES": "JAIRO JAVIER MARTÍNEZ HOYOS",
+            "CREDITO": "7.346.102",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "363.354",
+            "FIRMA ELLECTRONICA": "JAIRO JAVIER MARTÍNEZ HOYOS - 1946356384",
+            "AL PIE DE LA FIRMA": "JAIRO JAVIER MARTÍNEZ HOYOS - 1946356384"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1946356384",
+            "NOMBRES": "JAIRO JAVIER MARTÍNEZ HOYOS",
+            "FECHA NACIMIENTO": "31/10/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.346.102",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JAIRO JAVIER MARTÍNEZ HOYOS - 1946356384",
+            "AL PIE DE LA FIRMA": "JAIRO JAVIER MARTÍNEZ HOYOS - 1946356384"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2084583",
+            "CEDULA": "1946356384",
+            "NOMBRES": "JAIRO JAVIER MARTÍNEZ HOYOS",
+            "CREDITO": "7.346.102",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "363.354",
+            "E.A": "20.43%",
+            "RECOMPRA O DESEMBOLSO": "4.093.003",
+            "FIRMA ELLECTRONICA": "JAIRO JAVIER MARTÍNEZ HOYOS - 1946356384"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1946356384",
+            "NOMBRES": "JAIRO JAVIER MARTÍNEZ HOYOS",
+            "FIRMA ELLECTRONICA": "JAIRO JAVIER MARTÍNEZ HOYOS - 1946356384"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1946356384",
+            "NOMBRES": "JAIRO JAVIER MARTÍNEZ HOYOS",
+            "FIRMA ELLECTRONICA": "JAIRO JAVIER MARTÍNEZ HOYOS - 1946356384",
+            "AL PIE DE LA FIRMA": "JAIRO JAVIER MARTÍNEZ HOYOS - 1946356384"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIRO JAVIER MARTÍNEZ HOYOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1946356384",
+            "NOMBRES": "JAIRO JAVIER MARTÍNEZ HOYOS",
+            "SALARIO": "2.529.326",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1946356384",
+            "NOMBRES": "JAIRO JAVIER MARTÍNEZ HOYOS",
+            "RECOMPRA O DESEMBOLSO": "4.093.003"
+        }
+    }
+]

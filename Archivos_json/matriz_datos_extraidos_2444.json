@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "885579935582",
+            "SOLICITUD": "2054683",
+            "CEDULA": "1876911512",
+            "NOMBRES": "MIGUEL BAUTISTA",
+            "RECOMPRA O DESEMBOLSO": "1.991.044",
+            "FIRMA ELLECTRONICA": "MIGUEL BAUTISTA - 1876911512"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "885579935582",
+            "NOMBRES": "MIGUEL BAUTISTA",
+            "CREDITO": "13.179.357",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "146.125",
+            "FIRMA ELLECTRONICA": "MIGUEL BAUTISTA - 1876911512",
+            "AL PIE DE LA FIRMA": "MIGUEL BAUTISTA - 1876911512"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1876911512",
+            "NOMBRES": "MIGUEL BAUTISTA",
+            "FECHA NACIMIENTO": "29/12/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.179.357",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MIGUEL BAUTISTA - 1876911512",
+            "AL PIE DE LA FIRMA": "MIGUEL BAUTISTA - 1876911512"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2054683",
+            "CEDULA": "1876911512",
+            "NOMBRES": "MIGUEL BAUTISTA",
+            "CREDITO": "13.179.357",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "146.125",
+            "E.A": "24.67%",
+            "RECOMPRA O DESEMBOLSO": "1.991.044",
+            "FIRMA ELLECTRONICA": "MIGUEL BAUTISTA - 1876911512"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1876911512",
+            "NOMBRES": "MIGUEL BAUTISTA",
+            "FIRMA ELLECTRONICA": "MIGUEL BAUTISTA - 1876911512"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1876911512",
+            "NOMBRES": "MIGUEL BAUTISTA",
+            "FIRMA ELLECTRONICA": "MIGUEL BAUTISTA - 1876911512",
+            "AL PIE DE LA FIRMA": "MIGUEL BAUTISTA - 1876911512"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL BAUTISTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1876911512",
+            "NOMBRES": "MIGUEL BAUTISTA",
+            "SALARIO": "3.508.797",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1876911512",
+            "NOMBRES": "MIGUEL BAUTISTA",
+            "RECOMPRA O DESEMBOLSO": "1.991.044"
+        }
+    }
+]

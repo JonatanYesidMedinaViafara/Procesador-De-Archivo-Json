@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "232881099572",
+            "SOLICITUD": "2149248",
+            "CEDULA": "1754167254",
+            "NOMBRES": "JIMENA CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "4.201.227",
+            "FIRMA ELLECTRONICA": "JIMENA CORTÉS - 1754167254"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "232881099572",
+            "NOMBRES": "JIMENA CORTÉS",
+            "CREDITO": "14.474.777",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "347.299",
+            "FIRMA ELLECTRONICA": "JIMENA CORTÉS - 1754167254",
+            "AL PIE DE LA FIRMA": "JIMENA CORTÉS - 1754167254"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1754167254",
+            "NOMBRES": "JIMENA CORTÉS",
+            "FECHA NACIMIENTO": "15/07/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.474.777",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JIMENA CORTÉS - 1754167254",
+            "AL PIE DE LA FIRMA": "JIMENA CORTÉS - 1754167254"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2149248",
+            "CEDULA": "1754167254",
+            "NOMBRES": "JIMENA CORTÉS",
+            "CREDITO": "14.474.777",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "347.299",
+            "E.A": "27.98%",
+            "RECOMPRA O DESEMBOLSO": "4.201.227",
+            "FIRMA ELLECTRONICA": "JIMENA CORTÉS - 1754167254"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1754167254",
+            "NOMBRES": "JIMENA CORTÉS",
+            "FIRMA ELLECTRONICA": "JIMENA CORTÉS - 1754167254"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1754167254",
+            "NOMBRES": "JIMENA CORTÉS",
+            "FIRMA ELLECTRONICA": "JIMENA CORTÉS - 1754167254",
+            "AL PIE DE LA FIRMA": "JIMENA CORTÉS - 1754167254"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JIMENA CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1754167254",
+            "NOMBRES": "JIMENA CORTÉS",
+            "SALARIO": "4.024.786",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1754167254",
+            "NOMBRES": "JIMENA CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "4.201.227"
+        }
+    }
+]

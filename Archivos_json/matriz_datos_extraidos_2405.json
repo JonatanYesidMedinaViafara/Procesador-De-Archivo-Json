@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "903471549139",
+            "SOLICITUD": "1874987",
+            "CEDULA": "1183179761",
+            "NOMBRES": "CLAUDIA SANDRA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.803.390",
+            "FIRMA ELLECTRONICA": "CLAUDIA SANDRA GIRALDO - 1183179761"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "903471549139",
+            "NOMBRES": "CLAUDIA SANDRA GIRALDO",
+            "CREDITO": "14.956.280",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "193.277",
+            "FIRMA ELLECTRONICA": "CLAUDIA SANDRA GIRALDO - 1183179761",
+            "AL PIE DE LA FIRMA": "CLAUDIA SANDRA GIRALDO - 1183179761"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1183179761",
+            "NOMBRES": "CLAUDIA SANDRA GIRALDO",
+            "FECHA NACIMIENTO": "10/05/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.956.280",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CLAUDIA SANDRA GIRALDO - 1183179761",
+            "AL PIE DE LA FIRMA": "CLAUDIA SANDRA GIRALDO - 1183179761"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1874987",
+            "CEDULA": "1183179761",
+            "NOMBRES": "CLAUDIA SANDRA GIRALDO",
+            "CREDITO": "14.956.280",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "193.277",
+            "E.A": "28.99%",
+            "RECOMPRA O DESEMBOLSO": "3.803.390",
+            "FIRMA ELLECTRONICA": "CLAUDIA SANDRA GIRALDO - 1183179761"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1183179761",
+            "NOMBRES": "CLAUDIA SANDRA GIRALDO",
+            "FIRMA ELLECTRONICA": "CLAUDIA SANDRA GIRALDO - 1183179761"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1183179761",
+            "NOMBRES": "CLAUDIA SANDRA GIRALDO",
+            "FIRMA ELLECTRONICA": "CLAUDIA SANDRA GIRALDO - 1183179761",
+            "AL PIE DE LA FIRMA": "CLAUDIA SANDRA GIRALDO - 1183179761"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLAUDIA SANDRA GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1183179761",
+            "NOMBRES": "CLAUDIA SANDRA GIRALDO",
+            "SALARIO": "2.397.075",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1183179761",
+            "NOMBRES": "CLAUDIA SANDRA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.803.390"
+        }
+    }
+]

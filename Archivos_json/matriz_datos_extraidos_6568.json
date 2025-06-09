@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "630548686831",
+            "SOLICITUD": "1249000",
+            "CEDULA": "1380705830",
+            "NOMBRES": "CARLOS GABRIEL GONZÁLES",
+            "RECOMPRA O DESEMBOLSO": "2.333.483",
+            "FIRMA ELLECTRONICA": "CARLOS GABRIEL GONZÁLES - 1380705830"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "630548686831",
+            "NOMBRES": "CARLOS GABRIEL GONZÁLES",
+            "CREDITO": "13.854.377",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "337.878",
+            "FIRMA ELLECTRONICA": "CARLOS GABRIEL GONZÁLES - 1380705830",
+            "AL PIE DE LA FIRMA": "CARLOS GABRIEL GONZÁLES - 1380705830"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1380705830",
+            "NOMBRES": "CARLOS GABRIEL GONZÁLES",
+            "FECHA NACIMIENTO": "03/06/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.854.377",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS GABRIEL GONZÁLES - 1380705830",
+            "AL PIE DE LA FIRMA": "CARLOS GABRIEL GONZÁLES - 1380705830"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1249000",
+            "CEDULA": "1380705830",
+            "NOMBRES": "CARLOS GABRIEL GONZÁLES",
+            "CREDITO": "13.854.377",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "337.878",
+            "E.A": "24.34%",
+            "RECOMPRA O DESEMBOLSO": "2.333.483",
+            "FIRMA ELLECTRONICA": "CARLOS GABRIEL GONZÁLES - 1380705830"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1380705830",
+            "NOMBRES": "CARLOS GABRIEL GONZÁLES",
+            "FIRMA ELLECTRONICA": "CARLOS GABRIEL GONZÁLES - 1380705830"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1380705830",
+            "NOMBRES": "CARLOS GABRIEL GONZÁLES",
+            "FIRMA ELLECTRONICA": "CARLOS GABRIEL GONZÁLES - 1380705830",
+            "AL PIE DE LA FIRMA": "CARLOS GABRIEL GONZÁLES - 1380705830"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS GABRIEL GONZÁLES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1380705830",
+            "NOMBRES": "CARLOS GABRIEL GONZÁLES",
+            "SALARIO": "1.804.074",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1380705830",
+            "NOMBRES": "CARLOS GABRIEL GONZÁLES",
+            "RECOMPRA O DESEMBOLSO": "2.333.483"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "438543767799",
+            "SOLICITUD": "3212698",
+            "CEDULA": "1493162636",
+            "NOMBRES": "DARIO MONTOYA MALDONADO",
+            "RECOMPRA O DESEMBOLSO": "4.534.824",
+            "FIRMA ELLECTRONICA": "DARIO MONTOYA MALDONADO - 1493162636"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "438543767799",
+            "NOMBRES": "DARIO MONTOYA MALDONADO",
+            "CREDITO": "9.021.510",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "362.366",
+            "FIRMA ELLECTRONICA": "DARIO MONTOYA MALDONADO - 1493162636",
+            "AL PIE DE LA FIRMA": "DARIO MONTOYA MALDONADO - 1493162636"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1493162636",
+            "NOMBRES": "DARIO MONTOYA MALDONADO",
+            "FECHA NACIMIENTO": "07/01/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.021.510",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DARIO MONTOYA MALDONADO - 1493162636",
+            "AL PIE DE LA FIRMA": "DARIO MONTOYA MALDONADO - 1493162636"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3212698",
+            "CEDULA": "1493162636",
+            "NOMBRES": "DARIO MONTOYA MALDONADO",
+            "CREDITO": "9.021.510",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "362.366",
+            "E.A": "26.2%",
+            "RECOMPRA O DESEMBOLSO": "4.534.824",
+            "FIRMA ELLECTRONICA": "DARIO MONTOYA MALDONADO - 1493162636"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1493162636",
+            "NOMBRES": "DARIO MONTOYA MALDONADO",
+            "FIRMA ELLECTRONICA": "DARIO MONTOYA MALDONADO - 1493162636"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1493162636",
+            "NOMBRES": "DARIO MONTOYA MALDONADO",
+            "FIRMA ELLECTRONICA": "DARIO MONTOYA MALDONADO - 1493162636",
+            "AL PIE DE LA FIRMA": "DARIO MONTOYA MALDONADO - 1493162636"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO MONTOYA MALDONADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1493162636",
+            "NOMBRES": "DARIO MONTOYA MALDONADO",
+            "SALARIO": "2.673.104",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1493162636",
+            "NOMBRES": "DARIO MONTOYA MALDONADO",
+            "RECOMPRA O DESEMBOLSO": "4.534.824"
+        }
+    }
+]

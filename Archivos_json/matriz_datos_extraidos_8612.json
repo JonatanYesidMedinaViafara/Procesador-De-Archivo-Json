@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "301000373515",
+            "SOLICITUD": "9382136",
+            "CEDULA": "1110559465",
+            "NOMBRES": "TERESA CONSUELO ARIAS JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.423.423",
+            "FIRMA ELLECTRONICA": "TERESA CONSUELO ARIAS JIMÉNEZ - 1110559465"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "301000373515",
+            "NOMBRES": "TERESA CONSUELO ARIAS JIMÉNEZ",
+            "CREDITO": "17.729.685",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "113.758",
+            "FIRMA ELLECTRONICA": "TERESA CONSUELO ARIAS JIMÉNEZ - 1110559465",
+            "AL PIE DE LA FIRMA": "TERESA CONSUELO ARIAS JIMÉNEZ - 1110559465"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1110559465",
+            "NOMBRES": "TERESA CONSUELO ARIAS JIMÉNEZ",
+            "FECHA NACIMIENTO": "28/06/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.729.685",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "TERESA CONSUELO ARIAS JIMÉNEZ - 1110559465",
+            "AL PIE DE LA FIRMA": "TERESA CONSUELO ARIAS JIMÉNEZ - 1110559465"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9382136",
+            "CEDULA": "1110559465",
+            "NOMBRES": "TERESA CONSUELO ARIAS JIMÉNEZ",
+            "CREDITO": "17.729.685",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "113.758",
+            "E.A": "28.75%",
+            "RECOMPRA O DESEMBOLSO": "4.423.423",
+            "FIRMA ELLECTRONICA": "TERESA CONSUELO ARIAS JIMÉNEZ - 1110559465"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1110559465",
+            "NOMBRES": "TERESA CONSUELO ARIAS JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "TERESA CONSUELO ARIAS JIMÉNEZ - 1110559465"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1110559465",
+            "NOMBRES": "TERESA CONSUELO ARIAS JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "TERESA CONSUELO ARIAS JIMÉNEZ - 1110559465",
+            "AL PIE DE LA FIRMA": "TERESA CONSUELO ARIAS JIMÉNEZ - 1110559465"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TERESA CONSUELO ARIAS JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1110559465",
+            "NOMBRES": "TERESA CONSUELO ARIAS JIMÉNEZ",
+            "SALARIO": "3.238.590",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1110559465",
+            "NOMBRES": "TERESA CONSUELO ARIAS JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.423.423"
+        }
+    }
+]

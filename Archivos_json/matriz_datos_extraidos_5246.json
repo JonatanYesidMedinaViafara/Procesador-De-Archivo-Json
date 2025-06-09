@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "904259389570",
+            "SOLICITUD": "4428377",
+            "CEDULA": "1962122536",
+            "NOMBRES": "JOSÉ CORREA",
+            "RECOMPRA O DESEMBOLSO": "4.484.558",
+            "FIRMA ELLECTRONICA": "JOSÉ CORREA - 1962122536"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "904259389570",
+            "NOMBRES": "JOSÉ CORREA",
+            "CREDITO": "11.946.965",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "375.525",
+            "FIRMA ELLECTRONICA": "JOSÉ CORREA - 1962122536",
+            "AL PIE DE LA FIRMA": "JOSÉ CORREA - 1962122536"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1962122536",
+            "NOMBRES": "JOSÉ CORREA",
+            "FECHA NACIMIENTO": "30/12/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.946.965",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ CORREA - 1962122536",
+            "AL PIE DE LA FIRMA": "JOSÉ CORREA - 1962122536"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4428377",
+            "CEDULA": "1962122536",
+            "NOMBRES": "JOSÉ CORREA",
+            "CREDITO": "11.946.965",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "375.525",
+            "E.A": "23.52%",
+            "RECOMPRA O DESEMBOLSO": "4.484.558",
+            "FIRMA ELLECTRONICA": "JOSÉ CORREA - 1962122536"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1962122536",
+            "NOMBRES": "JOSÉ CORREA",
+            "FIRMA ELLECTRONICA": "JOSÉ CORREA - 1962122536"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1962122536",
+            "NOMBRES": "JOSÉ CORREA",
+            "FIRMA ELLECTRONICA": "JOSÉ CORREA - 1962122536",
+            "AL PIE DE LA FIRMA": "JOSÉ CORREA - 1962122536"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ CORREA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1962122536",
+            "NOMBRES": "JOSÉ CORREA",
+            "SALARIO": "1.122.317",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1962122536",
+            "NOMBRES": "JOSÉ CORREA",
+            "RECOMPRA O DESEMBOLSO": "4.484.558"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "261657131844",
+            "SOLICITUD": "5615663",
+            "CEDULA": "1882123097",
+            "NOMBRES": "CLARA STELLA BLANCO",
+            "RECOMPRA O DESEMBOLSO": "1.434.600",
+            "FIRMA ELLECTRONICA": "CLARA STELLA BLANCO - 1882123097"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "261657131844",
+            "NOMBRES": "CLARA STELLA BLANCO",
+            "CREDITO": "7.803.036",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "264.535",
+            "FIRMA ELLECTRONICA": "CLARA STELLA BLANCO - 1882123097",
+            "AL PIE DE LA FIRMA": "CLARA STELLA BLANCO - 1882123097"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1882123097",
+            "NOMBRES": "CLARA STELLA BLANCO",
+            "FECHA NACIMIENTO": "06/06/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.803.036",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CLARA STELLA BLANCO - 1882123097",
+            "AL PIE DE LA FIRMA": "CLARA STELLA BLANCO - 1882123097"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5615663",
+            "CEDULA": "1882123097",
+            "NOMBRES": "CLARA STELLA BLANCO",
+            "CREDITO": "7.803.036",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "264.535",
+            "E.A": "24.45%",
+            "RECOMPRA O DESEMBOLSO": "1.434.600",
+            "FIRMA ELLECTRONICA": "CLARA STELLA BLANCO - 1882123097"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1882123097",
+            "NOMBRES": "CLARA STELLA BLANCO",
+            "FIRMA ELLECTRONICA": "CLARA STELLA BLANCO - 1882123097"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1882123097",
+            "NOMBRES": "CLARA STELLA BLANCO",
+            "FIRMA ELLECTRONICA": "CLARA STELLA BLANCO - 1882123097",
+            "AL PIE DE LA FIRMA": "CLARA STELLA BLANCO - 1882123097"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLARA STELLA BLANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1882123097",
+            "NOMBRES": "CLARA STELLA BLANCO",
+            "SALARIO": "3.670.350",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1882123097",
+            "NOMBRES": "CLARA STELLA BLANCO",
+            "RECOMPRA O DESEMBOLSO": "1.434.600"
+        }
+    }
+]

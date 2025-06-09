@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "859366046585",
+            "SOLICITUD": "7784016",
+            "CEDULA": "1950029020",
+            "NOMBRES": "PAULINA CABRERA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.231.395",
+            "FIRMA ELLECTRONICA": "PAULINA CABRERA GUERRERO - 1950029020"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "859366046585",
+            "NOMBRES": "PAULINA CABRERA GUERRERO",
+            "CREDITO": "18.845.015",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "141.366",
+            "FIRMA ELLECTRONICA": "PAULINA CABRERA GUERRERO - 1950029020",
+            "AL PIE DE LA FIRMA": "PAULINA CABRERA GUERRERO - 1950029020"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1950029020",
+            "NOMBRES": "PAULINA CABRERA GUERRERO",
+            "FECHA NACIMIENTO": "29/08/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.845.015",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "PAULINA CABRERA GUERRERO - 1950029020",
+            "AL PIE DE LA FIRMA": "PAULINA CABRERA GUERRERO - 1950029020"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7784016",
+            "CEDULA": "1950029020",
+            "NOMBRES": "PAULINA CABRERA GUERRERO",
+            "CREDITO": "18.845.015",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "141.366",
+            "E.A": "23.26%",
+            "RECOMPRA O DESEMBOLSO": "4.231.395",
+            "FIRMA ELLECTRONICA": "PAULINA CABRERA GUERRERO - 1950029020"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1950029020",
+            "NOMBRES": "PAULINA CABRERA GUERRERO",
+            "FIRMA ELLECTRONICA": "PAULINA CABRERA GUERRERO - 1950029020"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1950029020",
+            "NOMBRES": "PAULINA CABRERA GUERRERO",
+            "FIRMA ELLECTRONICA": "PAULINA CABRERA GUERRERO - 1950029020",
+            "AL PIE DE LA FIRMA": "PAULINA CABRERA GUERRERO - 1950029020"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAULINA CABRERA GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1950029020",
+            "NOMBRES": "PAULINA CABRERA GUERRERO",
+            "SALARIO": "2.221.891",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1950029020",
+            "NOMBRES": "PAULINA CABRERA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.231.395"
+        }
+    }
+]

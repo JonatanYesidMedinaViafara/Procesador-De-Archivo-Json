@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "475966842059",
+            "SOLICITUD": "2234962",
+            "CEDULA": "1092494580",
+            "NOMBRES": "LUIS PADILLA ARTEAGA",
+            "RECOMPRA O DESEMBOLSO": "3.764.291",
+            "FIRMA ELLECTRONICA": "LUIS PADILLA ARTEAGA - 1092494580"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "475966842059",
+            "NOMBRES": "LUIS PADILLA ARTEAGA",
+            "CREDITO": "9.040.102",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "162.458",
+            "FIRMA ELLECTRONICA": "LUIS PADILLA ARTEAGA - 1092494580",
+            "AL PIE DE LA FIRMA": "LUIS PADILLA ARTEAGA - 1092494580"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1092494580",
+            "NOMBRES": "LUIS PADILLA ARTEAGA",
+            "FECHA NACIMIENTO": "31/05/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.040.102",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUIS PADILLA ARTEAGA - 1092494580",
+            "AL PIE DE LA FIRMA": "LUIS PADILLA ARTEAGA - 1092494580"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2234962",
+            "CEDULA": "1092494580",
+            "NOMBRES": "LUIS PADILLA ARTEAGA",
+            "CREDITO": "9.040.102",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "162.458",
+            "E.A": "19.62%",
+            "RECOMPRA O DESEMBOLSO": "3.764.291",
+            "FIRMA ELLECTRONICA": "LUIS PADILLA ARTEAGA - 1092494580"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1092494580",
+            "NOMBRES": "LUIS PADILLA ARTEAGA",
+            "FIRMA ELLECTRONICA": "LUIS PADILLA ARTEAGA - 1092494580"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1092494580",
+            "NOMBRES": "LUIS PADILLA ARTEAGA",
+            "FIRMA ELLECTRONICA": "LUIS PADILLA ARTEAGA - 1092494580",
+            "AL PIE DE LA FIRMA": "LUIS PADILLA ARTEAGA - 1092494580"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS PADILLA ARTEAGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1092494580",
+            "NOMBRES": "LUIS PADILLA ARTEAGA",
+            "SALARIO": "2.085.430",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1092494580",
+            "NOMBRES": "LUIS PADILLA ARTEAGA",
+            "RECOMPRA O DESEMBOLSO": "3.764.291"
+        }
+    }
+]

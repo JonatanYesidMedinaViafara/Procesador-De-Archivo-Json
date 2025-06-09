@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "605378214349",
+            "SOLICITUD": "3273729",
+            "CEDULA": "1963534034",
+            "NOMBRES": "ANDRÉS BARRERA ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "4.982.704",
+            "FIRMA ELLECTRONICA": "ANDRÉS BARRERA ESCOBAR - 1963534034"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "605378214349",
+            "NOMBRES": "ANDRÉS BARRERA ESCOBAR",
+            "CREDITO": "8.312.366",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "262.717",
+            "FIRMA ELLECTRONICA": "ANDRÉS BARRERA ESCOBAR - 1963534034",
+            "AL PIE DE LA FIRMA": "ANDRÉS BARRERA ESCOBAR - 1963534034"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1963534034",
+            "NOMBRES": "ANDRÉS BARRERA ESCOBAR",
+            "FECHA NACIMIENTO": "03/07/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.312.366",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS BARRERA ESCOBAR - 1963534034",
+            "AL PIE DE LA FIRMA": "ANDRÉS BARRERA ESCOBAR - 1963534034"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3273729",
+            "CEDULA": "1963534034",
+            "NOMBRES": "ANDRÉS BARRERA ESCOBAR",
+            "CREDITO": "8.312.366",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "262.717",
+            "E.A": "20.4%",
+            "RECOMPRA O DESEMBOLSO": "4.982.704",
+            "FIRMA ELLECTRONICA": "ANDRÉS BARRERA ESCOBAR - 1963534034"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1963534034",
+            "NOMBRES": "ANDRÉS BARRERA ESCOBAR",
+            "FIRMA ELLECTRONICA": "ANDRÉS BARRERA ESCOBAR - 1963534034"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1963534034",
+            "NOMBRES": "ANDRÉS BARRERA ESCOBAR",
+            "FIRMA ELLECTRONICA": "ANDRÉS BARRERA ESCOBAR - 1963534034",
+            "AL PIE DE LA FIRMA": "ANDRÉS BARRERA ESCOBAR - 1963534034"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS BARRERA ESCOBAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1963534034",
+            "NOMBRES": "ANDRÉS BARRERA ESCOBAR",
+            "SALARIO": "3.558.674",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1963534034",
+            "NOMBRES": "ANDRÉS BARRERA ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "4.982.704"
+        }
+    }
+]

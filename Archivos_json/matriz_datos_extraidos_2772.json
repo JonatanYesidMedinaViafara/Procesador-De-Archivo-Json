@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "570460228369",
+            "SOLICITUD": "5426604",
+            "CEDULA": "1873998634",
+            "NOMBRES": "MARY OSORIO",
+            "RECOMPRA O DESEMBOLSO": "3.514.103",
+            "FIRMA ELLECTRONICA": "MARY OSORIO - 1873998634"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "570460228369",
+            "NOMBRES": "MARY OSORIO",
+            "CREDITO": "6.525.201",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "164.592",
+            "FIRMA ELLECTRONICA": "MARY OSORIO - 1873998634",
+            "AL PIE DE LA FIRMA": "MARY OSORIO - 1873998634"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1873998634",
+            "NOMBRES": "MARY OSORIO",
+            "FECHA NACIMIENTO": "04/06/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.525.201",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARY OSORIO - 1873998634",
+            "AL PIE DE LA FIRMA": "MARY OSORIO - 1873998634"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5426604",
+            "CEDULA": "1873998634",
+            "NOMBRES": "MARY OSORIO",
+            "CREDITO": "6.525.201",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "164.592",
+            "E.A": "20.82%",
+            "RECOMPRA O DESEMBOLSO": "3.514.103",
+            "FIRMA ELLECTRONICA": "MARY OSORIO - 1873998634"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1873998634",
+            "NOMBRES": "MARY OSORIO",
+            "FIRMA ELLECTRONICA": "MARY OSORIO - 1873998634"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1873998634",
+            "NOMBRES": "MARY OSORIO",
+            "FIRMA ELLECTRONICA": "MARY OSORIO - 1873998634",
+            "AL PIE DE LA FIRMA": "MARY OSORIO - 1873998634"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARY OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1873998634",
+            "NOMBRES": "MARY OSORIO",
+            "SALARIO": "4.260.424",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1873998634",
+            "NOMBRES": "MARY OSORIO",
+            "RECOMPRA O DESEMBOLSO": "3.514.103"
+        }
+    }
+]

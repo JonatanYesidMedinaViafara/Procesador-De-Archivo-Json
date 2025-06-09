@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "812403711732",
+            "SOLICITUD": "1296011",
+            "CEDULA": "1312044454",
+            "NOMBRES": "AURA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.583.021",
+            "FIRMA ELLECTRONICA": "AURA MUÑOZ - 1312044454"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "812403711732",
+            "NOMBRES": "AURA MUÑOZ",
+            "CREDITO": "7.202.762",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "177.547",
+            "FIRMA ELLECTRONICA": "AURA MUÑOZ - 1312044454",
+            "AL PIE DE LA FIRMA": "AURA MUÑOZ - 1312044454"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1312044454",
+            "NOMBRES": "AURA MUÑOZ",
+            "FECHA NACIMIENTO": "12/09/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.202.762",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "AURA MUÑOZ - 1312044454",
+            "AL PIE DE LA FIRMA": "AURA MUÑOZ - 1312044454"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1296011",
+            "CEDULA": "1312044454",
+            "NOMBRES": "AURA MUÑOZ",
+            "CREDITO": "7.202.762",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "177.547",
+            "E.A": "24.19%",
+            "RECOMPRA O DESEMBOLSO": "2.583.021",
+            "FIRMA ELLECTRONICA": "AURA MUÑOZ - 1312044454"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1312044454",
+            "NOMBRES": "AURA MUÑOZ",
+            "FIRMA ELLECTRONICA": "AURA MUÑOZ - 1312044454"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1312044454",
+            "NOMBRES": "AURA MUÑOZ",
+            "FIRMA ELLECTRONICA": "AURA MUÑOZ - 1312044454",
+            "AL PIE DE LA FIRMA": "AURA MUÑOZ - 1312044454"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AURA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1312044454",
+            "NOMBRES": "AURA MUÑOZ",
+            "SALARIO": "3.449.425",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1312044454",
+            "NOMBRES": "AURA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.583.021"
+        }
+    }
+]

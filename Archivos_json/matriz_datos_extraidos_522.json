@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "544980432990",
+            "SOLICITUD": "1166882",
+            "CEDULA": "1133424844",
+            "NOMBRES": "NUBIA PARRA",
+            "RECOMPRA O DESEMBOLSO": "3.554.507",
+            "FIRMA ELLECTRONICA": "NUBIA PARRA - 1133424844"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "544980432990",
+            "NOMBRES": "NUBIA PARRA",
+            "CREDITO": "8.264.359",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "362.411",
+            "FIRMA ELLECTRONICA": "NUBIA PARRA - 1133424844",
+            "AL PIE DE LA FIRMA": "NUBIA PARRA - 1133424844"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1133424844",
+            "NOMBRES": "NUBIA PARRA",
+            "FECHA NACIMIENTO": "14/02/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.264.359",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "NUBIA PARRA - 1133424844",
+            "AL PIE DE LA FIRMA": "NUBIA PARRA - 1133424844"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1166882",
+            "CEDULA": "1133424844",
+            "NOMBRES": "NUBIA PARRA",
+            "CREDITO": "8.264.359",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "362.411",
+            "E.A": "28.56%",
+            "RECOMPRA O DESEMBOLSO": "3.554.507",
+            "FIRMA ELLECTRONICA": "NUBIA PARRA - 1133424844"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1133424844",
+            "NOMBRES": "NUBIA PARRA",
+            "FIRMA ELLECTRONICA": "NUBIA PARRA - 1133424844"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1133424844",
+            "NOMBRES": "NUBIA PARRA",
+            "FIRMA ELLECTRONICA": "NUBIA PARRA - 1133424844",
+            "AL PIE DE LA FIRMA": "NUBIA PARRA - 1133424844"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NUBIA PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1133424844",
+            "NOMBRES": "NUBIA PARRA",
+            "SALARIO": "3.658.163",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1133424844",
+            "NOMBRES": "NUBIA PARRA",
+            "RECOMPRA O DESEMBOLSO": "3.554.507"
+        }
+    }
+]

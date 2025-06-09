@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "125866611547",
+            "SOLICITUD": "8719426",
+            "CEDULA": "1333722006",
+            "NOMBRES": "FERNEY CALDERÓN FRANCO",
+            "RECOMPRA O DESEMBOLSO": "1.266.897",
+            "FIRMA ELLECTRONICA": "FERNEY CALDERÓN FRANCO - 1333722006"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "125866611547",
+            "NOMBRES": "FERNEY CALDERÓN FRANCO",
+            "CREDITO": "12.209.153",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "240.708",
+            "FIRMA ELLECTRONICA": "FERNEY CALDERÓN FRANCO - 1333722006",
+            "AL PIE DE LA FIRMA": "FERNEY CALDERÓN FRANCO - 1333722006"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1333722006",
+            "NOMBRES": "FERNEY CALDERÓN FRANCO",
+            "FECHA NACIMIENTO": "11/11/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.209.153",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FERNEY CALDERÓN FRANCO - 1333722006",
+            "AL PIE DE LA FIRMA": "FERNEY CALDERÓN FRANCO - 1333722006"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8719426",
+            "CEDULA": "1333722006",
+            "NOMBRES": "FERNEY CALDERÓN FRANCO",
+            "CREDITO": "12.209.153",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "240.708",
+            "E.A": "18.48%",
+            "RECOMPRA O DESEMBOLSO": "1.266.897",
+            "FIRMA ELLECTRONICA": "FERNEY CALDERÓN FRANCO - 1333722006"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1333722006",
+            "NOMBRES": "FERNEY CALDERÓN FRANCO",
+            "FIRMA ELLECTRONICA": "FERNEY CALDERÓN FRANCO - 1333722006"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1333722006",
+            "NOMBRES": "FERNEY CALDERÓN FRANCO",
+            "FIRMA ELLECTRONICA": "FERNEY CALDERÓN FRANCO - 1333722006",
+            "AL PIE DE LA FIRMA": "FERNEY CALDERÓN FRANCO - 1333722006"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNEY CALDERÓN FRANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1333722006",
+            "NOMBRES": "FERNEY CALDERÓN FRANCO",
+            "SALARIO": "1.376.810",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1333722006",
+            "NOMBRES": "FERNEY CALDERÓN FRANCO",
+            "RECOMPRA O DESEMBOLSO": "1.266.897"
+        }
+    }
+]

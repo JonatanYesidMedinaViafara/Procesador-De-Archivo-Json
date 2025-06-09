@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "359760074221",
+            "SOLICITUD": "3667336",
+            "CEDULA": "1107671202",
+            "NOMBRES": "NANCY PÉREZ MARÍN",
+            "RECOMPRA O DESEMBOLSO": "1.953.790",
+            "FIRMA ELLECTRONICA": "NANCY PÉREZ MARÍN - 1107671202"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "359760074221",
+            "NOMBRES": "NANCY PÉREZ MARÍN",
+            "CREDITO": "19.952.016",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "171.822",
+            "FIRMA ELLECTRONICA": "NANCY PÉREZ MARÍN - 1107671202",
+            "AL PIE DE LA FIRMA": "NANCY PÉREZ MARÍN - 1107671202"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1107671202",
+            "NOMBRES": "NANCY PÉREZ MARÍN",
+            "FECHA NACIMIENTO": "20/05/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.952.016",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "NANCY PÉREZ MARÍN - 1107671202",
+            "AL PIE DE LA FIRMA": "NANCY PÉREZ MARÍN - 1107671202"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3667336",
+            "CEDULA": "1107671202",
+            "NOMBRES": "NANCY PÉREZ MARÍN",
+            "CREDITO": "19.952.016",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "171.822",
+            "E.A": "28.39%",
+            "RECOMPRA O DESEMBOLSO": "1.953.790",
+            "FIRMA ELLECTRONICA": "NANCY PÉREZ MARÍN - 1107671202"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1107671202",
+            "NOMBRES": "NANCY PÉREZ MARÍN",
+            "FIRMA ELLECTRONICA": "NANCY PÉREZ MARÍN - 1107671202"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1107671202",
+            "NOMBRES": "NANCY PÉREZ MARÍN",
+            "FIRMA ELLECTRONICA": "NANCY PÉREZ MARÍN - 1107671202",
+            "AL PIE DE LA FIRMA": "NANCY PÉREZ MARÍN - 1107671202"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NANCY PÉREZ MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1107671202",
+            "NOMBRES": "NANCY PÉREZ MARÍN",
+            "SALARIO": "1.534.170",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1107671202",
+            "NOMBRES": "NANCY PÉREZ MARÍN",
+            "RECOMPRA O DESEMBOLSO": "1.953.790"
+        }
+    }
+]

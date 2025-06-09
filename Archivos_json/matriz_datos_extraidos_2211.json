@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "961827989239",
+            "SOLICITUD": "5865771",
+            "CEDULA": "1856317092",
+            "NOMBRES": "SMITH IVÁN MEDINA RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.184.126",
+            "FIRMA ELLECTRONICA": "SMITH IVÁN MEDINA RÍOS - 1856317092"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "961827989239",
+            "NOMBRES": "SMITH IVÁN MEDINA RÍOS",
+            "CREDITO": "13.523.858",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.802",
+            "FIRMA ELLECTRONICA": "SMITH IVÁN MEDINA RÍOS - 1856317092",
+            "AL PIE DE LA FIRMA": "SMITH IVÁN MEDINA RÍOS - 1856317092"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1856317092",
+            "NOMBRES": "SMITH IVÁN MEDINA RÍOS",
+            "FECHA NACIMIENTO": "22/08/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.523.858",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SMITH IVÁN MEDINA RÍOS - 1856317092",
+            "AL PIE DE LA FIRMA": "SMITH IVÁN MEDINA RÍOS - 1856317092"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5865771",
+            "CEDULA": "1856317092",
+            "NOMBRES": "SMITH IVÁN MEDINA RÍOS",
+            "CREDITO": "13.523.858",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.802",
+            "E.A": "28.08%",
+            "RECOMPRA O DESEMBOLSO": "3.184.126",
+            "FIRMA ELLECTRONICA": "SMITH IVÁN MEDINA RÍOS - 1856317092"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1856317092",
+            "NOMBRES": "SMITH IVÁN MEDINA RÍOS",
+            "FIRMA ELLECTRONICA": "SMITH IVÁN MEDINA RÍOS - 1856317092"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1856317092",
+            "NOMBRES": "SMITH IVÁN MEDINA RÍOS",
+            "FIRMA ELLECTRONICA": "SMITH IVÁN MEDINA RÍOS - 1856317092",
+            "AL PIE DE LA FIRMA": "SMITH IVÁN MEDINA RÍOS - 1856317092"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SMITH IVÁN MEDINA RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1856317092",
+            "NOMBRES": "SMITH IVÁN MEDINA RÍOS",
+            "SALARIO": "1.427.930",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1856317092",
+            "NOMBRES": "SMITH IVÁN MEDINA RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.184.126"
+        }
+    }
+]

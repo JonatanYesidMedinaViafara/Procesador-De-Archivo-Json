@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "332540552260",
+            "SOLICITUD": "8244765",
+            "CEDULA": "1037802572",
+            "NOMBRES": "MERY SOCORRO PALACIO",
+            "RECOMPRA O DESEMBOLSO": "4.083.691",
+            "FIRMA ELLECTRONICA": "MERY SOCORRO PALACIO - 1037802572"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "332540552260",
+            "NOMBRES": "MERY SOCORRO PALACIO",
+            "CREDITO": "11.111.147",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "267.162",
+            "FIRMA ELLECTRONICA": "MERY SOCORRO PALACIO - 1037802572",
+            "AL PIE DE LA FIRMA": "MERY SOCORRO PALACIO - 1037802572"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1037802572",
+            "NOMBRES": "MERY SOCORRO PALACIO",
+            "FECHA NACIMIENTO": "14/10/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.111.147",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MERY SOCORRO PALACIO - 1037802572",
+            "AL PIE DE LA FIRMA": "MERY SOCORRO PALACIO - 1037802572"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8244765",
+            "CEDULA": "1037802572",
+            "NOMBRES": "MERY SOCORRO PALACIO",
+            "CREDITO": "11.111.147",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "267.162",
+            "E.A": "23.56%",
+            "RECOMPRA O DESEMBOLSO": "4.083.691",
+            "FIRMA ELLECTRONICA": "MERY SOCORRO PALACIO - 1037802572"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1037802572",
+            "NOMBRES": "MERY SOCORRO PALACIO",
+            "FIRMA ELLECTRONICA": "MERY SOCORRO PALACIO - 1037802572"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1037802572",
+            "NOMBRES": "MERY SOCORRO PALACIO",
+            "FIRMA ELLECTRONICA": "MERY SOCORRO PALACIO - 1037802572",
+            "AL PIE DE LA FIRMA": "MERY SOCORRO PALACIO - 1037802572"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MERY SOCORRO PALACIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1037802572",
+            "NOMBRES": "MERY SOCORRO PALACIO",
+            "SALARIO": "1.199.788",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1037802572",
+            "NOMBRES": "MERY SOCORRO PALACIO",
+            "RECOMPRA O DESEMBOLSO": "4.083.691"
+        }
+    }
+]

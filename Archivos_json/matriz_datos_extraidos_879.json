@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "568902317016",
+            "SOLICITUD": "5969748",
+            "CEDULA": "1011209185",
+            "NOMBRES": "MARÍA CORREA",
+            "RECOMPRA O DESEMBOLSO": "3.349.830",
+            "FIRMA ELLECTRONICA": "MARÍA CORREA - 1011209185"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "568902317016",
+            "NOMBRES": "MARÍA CORREA",
+            "CREDITO": "11.173.493",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "258.64",
+            "FIRMA ELLECTRONICA": "MARÍA CORREA - 1011209185",
+            "AL PIE DE LA FIRMA": "MARÍA CORREA - 1011209185"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1011209185",
+            "NOMBRES": "MARÍA CORREA",
+            "FECHA NACIMIENTO": "22/04/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.173.493",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA CORREA - 1011209185",
+            "AL PIE DE LA FIRMA": "MARÍA CORREA - 1011209185"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5969748",
+            "CEDULA": "1011209185",
+            "NOMBRES": "MARÍA CORREA",
+            "CREDITO": "11.173.493",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "258.64",
+            "E.A": "21.16%",
+            "RECOMPRA O DESEMBOLSO": "3.349.830",
+            "FIRMA ELLECTRONICA": "MARÍA CORREA - 1011209185"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1011209185",
+            "NOMBRES": "MARÍA CORREA",
+            "FIRMA ELLECTRONICA": "MARÍA CORREA - 1011209185"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1011209185",
+            "NOMBRES": "MARÍA CORREA",
+            "FIRMA ELLECTRONICA": "MARÍA CORREA - 1011209185",
+            "AL PIE DE LA FIRMA": "MARÍA CORREA - 1011209185"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CORREA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1011209185",
+            "NOMBRES": "MARÍA CORREA",
+            "SALARIO": "4.742.383",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1011209185",
+            "NOMBRES": "MARÍA CORREA",
+            "RECOMPRA O DESEMBOLSO": "3.349.830"
+        }
+    }
+]

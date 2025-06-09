@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "452562338754",
+            "SOLICITUD": "5330947",
+            "CEDULA": "1035447383",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.105.690",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1035447383"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "452562338754",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "CREDITO": "16.267.445",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "269.343",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1035447383",
+            "AL PIE DE LA FIRMA": "CECILIA GÓMEZ - 1035447383"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1035447383",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "FECHA NACIMIENTO": "23/02/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.267.445",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1035447383",
+            "AL PIE DE LA FIRMA": "CECILIA GÓMEZ - 1035447383"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5330947",
+            "CEDULA": "1035447383",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "CREDITO": "16.267.445",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "269.343",
+            "E.A": "18.6%",
+            "RECOMPRA O DESEMBOLSO": "4.105.690",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1035447383"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1035447383",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1035447383"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1035447383",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "FIRMA ELLECTRONICA": "CECILIA GÓMEZ - 1035447383",
+            "AL PIE DE LA FIRMA": "CECILIA GÓMEZ - 1035447383"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1035447383",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "SALARIO": "1.661.343",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1035447383",
+            "NOMBRES": "CECILIA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.105.690"
+        }
+    }
+]

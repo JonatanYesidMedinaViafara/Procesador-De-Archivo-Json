@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "992999374955",
+            "SOLICITUD": "4373116",
+            "CEDULA": "1828404804",
+            "NOMBRES": "HUMBERTO AUGUSTO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.883.454",
+            "FIRMA ELLECTRONICA": "HUMBERTO AUGUSTO DÍAZ - 1828404804"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "992999374955",
+            "NOMBRES": "HUMBERTO AUGUSTO DÍAZ",
+            "CREDITO": "13.590.699",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "285.003",
+            "FIRMA ELLECTRONICA": "HUMBERTO AUGUSTO DÍAZ - 1828404804",
+            "AL PIE DE LA FIRMA": "HUMBERTO AUGUSTO DÍAZ - 1828404804"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1828404804",
+            "NOMBRES": "HUMBERTO AUGUSTO DÍAZ",
+            "FECHA NACIMIENTO": "16/01/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.590.699",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "HUMBERTO AUGUSTO DÍAZ - 1828404804",
+            "AL PIE DE LA FIRMA": "HUMBERTO AUGUSTO DÍAZ - 1828404804"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4373116",
+            "CEDULA": "1828404804",
+            "NOMBRES": "HUMBERTO AUGUSTO DÍAZ",
+            "CREDITO": "13.590.699",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "285.003",
+            "E.A": "27.63%",
+            "RECOMPRA O DESEMBOLSO": "2.883.454",
+            "FIRMA ELLECTRONICA": "HUMBERTO AUGUSTO DÍAZ - 1828404804"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1828404804",
+            "NOMBRES": "HUMBERTO AUGUSTO DÍAZ",
+            "FIRMA ELLECTRONICA": "HUMBERTO AUGUSTO DÍAZ - 1828404804"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1828404804",
+            "NOMBRES": "HUMBERTO AUGUSTO DÍAZ",
+            "FIRMA ELLECTRONICA": "HUMBERTO AUGUSTO DÍAZ - 1828404804",
+            "AL PIE DE LA FIRMA": "HUMBERTO AUGUSTO DÍAZ - 1828404804"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HUMBERTO AUGUSTO DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1828404804",
+            "NOMBRES": "HUMBERTO AUGUSTO DÍAZ",
+            "SALARIO": "2.759.238",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1828404804",
+            "NOMBRES": "HUMBERTO AUGUSTO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.883.454"
+        }
+    }
+]

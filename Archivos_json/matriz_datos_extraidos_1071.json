@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "290753187491",
+            "SOLICITUD": "7728342",
+            "CEDULA": "1514580899",
+            "NOMBRES": "MARÍA MARÍA TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.713.156",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA TORRES - 1514580899"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "290753187491",
+            "NOMBRES": "MARÍA MARÍA TORRES",
+            "CREDITO": "8.220.453",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "156.541",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA TORRES - 1514580899",
+            "AL PIE DE LA FIRMA": "MARÍA MARÍA TORRES - 1514580899"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1514580899",
+            "NOMBRES": "MARÍA MARÍA TORRES",
+            "FECHA NACIMIENTO": "13/01/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.220.453",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA TORRES - 1514580899",
+            "AL PIE DE LA FIRMA": "MARÍA MARÍA TORRES - 1514580899"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7728342",
+            "CEDULA": "1514580899",
+            "NOMBRES": "MARÍA MARÍA TORRES",
+            "CREDITO": "8.220.453",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "156.541",
+            "E.A": "28.94%",
+            "RECOMPRA O DESEMBOLSO": "2.713.156",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA TORRES - 1514580899"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1514580899",
+            "NOMBRES": "MARÍA MARÍA TORRES",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA TORRES - 1514580899"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1514580899",
+            "NOMBRES": "MARÍA MARÍA TORRES",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA TORRES - 1514580899",
+            "AL PIE DE LA FIRMA": "MARÍA MARÍA TORRES - 1514580899"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MARÍA TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1514580899",
+            "NOMBRES": "MARÍA MARÍA TORRES",
+            "SALARIO": "4.298.421",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1514580899",
+            "NOMBRES": "MARÍA MARÍA TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.713.156"
+        }
+    }
+]

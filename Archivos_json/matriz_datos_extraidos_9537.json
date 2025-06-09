@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "213113699857",
+            "SOLICITUD": "4930252",
+            "CEDULA": "1300234460",
+            "NOMBRES": "HERNANDO SERGIO RAMÍREZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "1.833.815",
+            "FIRMA ELLECTRONICA": "HERNANDO SERGIO RAMÍREZ ARIAS - 1300234460"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "213113699857",
+            "NOMBRES": "HERNANDO SERGIO RAMÍREZ ARIAS",
+            "CREDITO": "17.460.133",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "361.368",
+            "FIRMA ELLECTRONICA": "HERNANDO SERGIO RAMÍREZ ARIAS - 1300234460",
+            "AL PIE DE LA FIRMA": "HERNANDO SERGIO RAMÍREZ ARIAS - 1300234460"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1300234460",
+            "NOMBRES": "HERNANDO SERGIO RAMÍREZ ARIAS",
+            "FECHA NACIMIENTO": "26/11/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.460.133",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "HERNANDO SERGIO RAMÍREZ ARIAS - 1300234460",
+            "AL PIE DE LA FIRMA": "HERNANDO SERGIO RAMÍREZ ARIAS - 1300234460"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4930252",
+            "CEDULA": "1300234460",
+            "NOMBRES": "HERNANDO SERGIO RAMÍREZ ARIAS",
+            "CREDITO": "17.460.133",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "361.368",
+            "E.A": "28.9%",
+            "RECOMPRA O DESEMBOLSO": "1.833.815",
+            "FIRMA ELLECTRONICA": "HERNANDO SERGIO RAMÍREZ ARIAS - 1300234460"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1300234460",
+            "NOMBRES": "HERNANDO SERGIO RAMÍREZ ARIAS",
+            "FIRMA ELLECTRONICA": "HERNANDO SERGIO RAMÍREZ ARIAS - 1300234460"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1300234460",
+            "NOMBRES": "HERNANDO SERGIO RAMÍREZ ARIAS",
+            "FIRMA ELLECTRONICA": "HERNANDO SERGIO RAMÍREZ ARIAS - 1300234460",
+            "AL PIE DE LA FIRMA": "HERNANDO SERGIO RAMÍREZ ARIAS - 1300234460"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNANDO SERGIO RAMÍREZ ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1300234460",
+            "NOMBRES": "HERNANDO SERGIO RAMÍREZ ARIAS",
+            "SALARIO": "3.246.577",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1300234460",
+            "NOMBRES": "HERNANDO SERGIO RAMÍREZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "1.833.815"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "796643801625",
+            "SOLICITUD": "9687417",
+            "CEDULA": "1555982725",
+            "NOMBRES": "FLOR JUANA MERCADO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.983.734",
+            "FIRMA ELLECTRONICA": "FLOR JUANA MERCADO PÉREZ - 1555982725"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "796643801625",
+            "NOMBRES": "FLOR JUANA MERCADO PÉREZ",
+            "CREDITO": "8.915.987",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.112",
+            "FIRMA ELLECTRONICA": "FLOR JUANA MERCADO PÉREZ - 1555982725",
+            "AL PIE DE LA FIRMA": "FLOR JUANA MERCADO PÉREZ - 1555982725"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1555982725",
+            "NOMBRES": "FLOR JUANA MERCADO PÉREZ",
+            "FECHA NACIMIENTO": "20/03/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.915.987",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FLOR JUANA MERCADO PÉREZ - 1555982725",
+            "AL PIE DE LA FIRMA": "FLOR JUANA MERCADO PÉREZ - 1555982725"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9687417",
+            "CEDULA": "1555982725",
+            "NOMBRES": "FLOR JUANA MERCADO PÉREZ",
+            "CREDITO": "8.915.987",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.112",
+            "E.A": "26.83%",
+            "RECOMPRA O DESEMBOLSO": "3.983.734",
+            "FIRMA ELLECTRONICA": "FLOR JUANA MERCADO PÉREZ - 1555982725"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1555982725",
+            "NOMBRES": "FLOR JUANA MERCADO PÉREZ",
+            "FIRMA ELLECTRONICA": "FLOR JUANA MERCADO PÉREZ - 1555982725"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1555982725",
+            "NOMBRES": "FLOR JUANA MERCADO PÉREZ",
+            "FIRMA ELLECTRONICA": "FLOR JUANA MERCADO PÉREZ - 1555982725",
+            "AL PIE DE LA FIRMA": "FLOR JUANA MERCADO PÉREZ - 1555982725"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FLOR JUANA MERCADO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1555982725",
+            "NOMBRES": "FLOR JUANA MERCADO PÉREZ",
+            "SALARIO": "4.150.196",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1555982725",
+            "NOMBRES": "FLOR JUANA MERCADO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.983.734"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "972099386730",
+            "SOLICITUD": "7477871",
+            "CEDULA": "1283643699",
+            "NOMBRES": "CECILIA HERNÁNDEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.044.266",
+            "FIRMA ELLECTRONICA": "CECILIA HERNÁNDEZ PÉREZ - 1283643699"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "972099386730",
+            "NOMBRES": "CECILIA HERNÁNDEZ PÉREZ",
+            "CREDITO": "12.951.146",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "233.759",
+            "FIRMA ELLECTRONICA": "CECILIA HERNÁNDEZ PÉREZ - 1283643699",
+            "AL PIE DE LA FIRMA": "CECILIA HERNÁNDEZ PÉREZ - 1283643699"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1283643699",
+            "NOMBRES": "CECILIA HERNÁNDEZ PÉREZ",
+            "FECHA NACIMIENTO": "01/04/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.951.146",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CECILIA HERNÁNDEZ PÉREZ - 1283643699",
+            "AL PIE DE LA FIRMA": "CECILIA HERNÁNDEZ PÉREZ - 1283643699"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7477871",
+            "CEDULA": "1283643699",
+            "NOMBRES": "CECILIA HERNÁNDEZ PÉREZ",
+            "CREDITO": "12.951.146",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "233.759",
+            "E.A": "22.13%",
+            "RECOMPRA O DESEMBOLSO": "3.044.266",
+            "FIRMA ELLECTRONICA": "CECILIA HERNÁNDEZ PÉREZ - 1283643699"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1283643699",
+            "NOMBRES": "CECILIA HERNÁNDEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "CECILIA HERNÁNDEZ PÉREZ - 1283643699"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1283643699",
+            "NOMBRES": "CECILIA HERNÁNDEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "CECILIA HERNÁNDEZ PÉREZ - 1283643699",
+            "AL PIE DE LA FIRMA": "CECILIA HERNÁNDEZ PÉREZ - 1283643699"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA HERNÁNDEZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1283643699",
+            "NOMBRES": "CECILIA HERNÁNDEZ PÉREZ",
+            "SALARIO": "3.643.019",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1283643699",
+            "NOMBRES": "CECILIA HERNÁNDEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.044.266"
+        }
+    }
+]

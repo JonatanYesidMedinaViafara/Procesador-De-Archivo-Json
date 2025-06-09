@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "613747798455",
+            "SOLICITUD": "8860926",
+            "CEDULA": "1182243534",
+            "NOMBRES": "JULIANA ESTRADA",
+            "RECOMPRA O DESEMBOLSO": "1.955.627",
+            "FIRMA ELLECTRONICA": "JULIANA ESTRADA - 1182243534"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "613747798455",
+            "NOMBRES": "JULIANA ESTRADA",
+            "CREDITO": "6.276.275",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "175.611",
+            "FIRMA ELLECTRONICA": "JULIANA ESTRADA - 1182243534",
+            "AL PIE DE LA FIRMA": "JULIANA ESTRADA - 1182243534"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1182243534",
+            "NOMBRES": "JULIANA ESTRADA",
+            "FECHA NACIMIENTO": "19/08/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.276.275",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JULIANA ESTRADA - 1182243534",
+            "AL PIE DE LA FIRMA": "JULIANA ESTRADA - 1182243534"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8860926",
+            "CEDULA": "1182243534",
+            "NOMBRES": "JULIANA ESTRADA",
+            "CREDITO": "6.276.275",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "175.611",
+            "E.A": "19.85%",
+            "RECOMPRA O DESEMBOLSO": "1.955.627",
+            "FIRMA ELLECTRONICA": "JULIANA ESTRADA - 1182243534"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1182243534",
+            "NOMBRES": "JULIANA ESTRADA",
+            "FIRMA ELLECTRONICA": "JULIANA ESTRADA - 1182243534"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1182243534",
+            "NOMBRES": "JULIANA ESTRADA",
+            "FIRMA ELLECTRONICA": "JULIANA ESTRADA - 1182243534",
+            "AL PIE DE LA FIRMA": "JULIANA ESTRADA - 1182243534"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIANA ESTRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1182243534",
+            "NOMBRES": "JULIANA ESTRADA",
+            "SALARIO": "2.795.992",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1182243534",
+            "NOMBRES": "JULIANA ESTRADA",
+            "RECOMPRA O DESEMBOLSO": "1.955.627"
+        }
+    }
+]

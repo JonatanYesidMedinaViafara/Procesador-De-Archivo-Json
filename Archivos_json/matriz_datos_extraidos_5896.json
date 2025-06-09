@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "585179626047",
+            "SOLICITUD": "9956093",
+            "CEDULA": "1080444583",
+            "NOMBRES": "ISABEL RESTREPO",
+            "RECOMPRA O DESEMBOLSO": "1.001.394",
+            "FIRMA ELLECTRONICA": "ISABEL RESTREPO - 1080444583"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "585179626047",
+            "NOMBRES": "ISABEL RESTREPO",
+            "CREDITO": "11.874.511",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "188.748",
+            "FIRMA ELLECTRONICA": "ISABEL RESTREPO - 1080444583",
+            "AL PIE DE LA FIRMA": "ISABEL RESTREPO - 1080444583"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1080444583",
+            "NOMBRES": "ISABEL RESTREPO",
+            "FECHA NACIMIENTO": "19/12/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.874.511",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ISABEL RESTREPO - 1080444583",
+            "AL PIE DE LA FIRMA": "ISABEL RESTREPO - 1080444583"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9956093",
+            "CEDULA": "1080444583",
+            "NOMBRES": "ISABEL RESTREPO",
+            "CREDITO": "11.874.511",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "188.748",
+            "E.A": "20.87%",
+            "RECOMPRA O DESEMBOLSO": "1.001.394",
+            "FIRMA ELLECTRONICA": "ISABEL RESTREPO - 1080444583"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1080444583",
+            "NOMBRES": "ISABEL RESTREPO",
+            "FIRMA ELLECTRONICA": "ISABEL RESTREPO - 1080444583"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1080444583",
+            "NOMBRES": "ISABEL RESTREPO",
+            "FIRMA ELLECTRONICA": "ISABEL RESTREPO - 1080444583",
+            "AL PIE DE LA FIRMA": "ISABEL RESTREPO - 1080444583"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL RESTREPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1080444583",
+            "NOMBRES": "ISABEL RESTREPO",
+            "SALARIO": "3.426.084",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1080444583",
+            "NOMBRES": "ISABEL RESTREPO",
+            "RECOMPRA O DESEMBOLSO": "1.001.394"
+        }
+    }
+]

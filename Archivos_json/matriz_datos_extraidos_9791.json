@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "598993927488",
+            "SOLICITUD": "2478437",
+            "CEDULA": "1579652792",
+            "NOMBRES": "ÁNGELA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.421.297",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA - 1579652792"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "598993927488",
+            "NOMBRES": "ÁNGELA GARCÍA",
+            "CREDITO": "9.620.143",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "324.623",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA - 1579652792",
+            "AL PIE DE LA FIRMA": "ÁNGELA GARCÍA - 1579652792"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1579652792",
+            "NOMBRES": "ÁNGELA GARCÍA",
+            "FECHA NACIMIENTO": "13/01/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.620.143",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA - 1579652792",
+            "AL PIE DE LA FIRMA": "ÁNGELA GARCÍA - 1579652792"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2478437",
+            "CEDULA": "1579652792",
+            "NOMBRES": "ÁNGELA GARCÍA",
+            "CREDITO": "9.620.143",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "324.623",
+            "E.A": "26.07%",
+            "RECOMPRA O DESEMBOLSO": "1.421.297",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA - 1579652792"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1579652792",
+            "NOMBRES": "ÁNGELA GARCÍA",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA - 1579652792"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1579652792",
+            "NOMBRES": "ÁNGELA GARCÍA",
+            "FIRMA ELLECTRONICA": "ÁNGELA GARCÍA - 1579652792",
+            "AL PIE DE LA FIRMA": "ÁNGELA GARCÍA - 1579652792"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGELA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1579652792",
+            "NOMBRES": "ÁNGELA GARCÍA",
+            "SALARIO": "2.648.222",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1579652792",
+            "NOMBRES": "ÁNGELA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.421.297"
+        }
+    }
+]

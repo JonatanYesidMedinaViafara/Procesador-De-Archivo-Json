@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "260758780010",
+            "SOLICITUD": "6341420",
+            "CEDULA": "1183163838",
+            "NOMBRES": "GABRIEL PATIÑO",
+            "RECOMPRA O DESEMBOLSO": "2.942.544",
+            "FIRMA ELLECTRONICA": "GABRIEL PATIÑO - 1183163838"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "260758780010",
+            "NOMBRES": "GABRIEL PATIÑO",
+            "CREDITO": "13.174.979",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "298.948",
+            "FIRMA ELLECTRONICA": "GABRIEL PATIÑO - 1183163838",
+            "AL PIE DE LA FIRMA": "GABRIEL PATIÑO - 1183163838"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1183163838",
+            "NOMBRES": "GABRIEL PATIÑO",
+            "FECHA NACIMIENTO": "08/04/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.174.979",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GABRIEL PATIÑO - 1183163838",
+            "AL PIE DE LA FIRMA": "GABRIEL PATIÑO - 1183163838"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6341420",
+            "CEDULA": "1183163838",
+            "NOMBRES": "GABRIEL PATIÑO",
+            "CREDITO": "13.174.979",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "298.948",
+            "E.A": "21.88%",
+            "RECOMPRA O DESEMBOLSO": "2.942.544",
+            "FIRMA ELLECTRONICA": "GABRIEL PATIÑO - 1183163838"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1183163838",
+            "NOMBRES": "GABRIEL PATIÑO",
+            "FIRMA ELLECTRONICA": "GABRIEL PATIÑO - 1183163838"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1183163838",
+            "NOMBRES": "GABRIEL PATIÑO",
+            "FIRMA ELLECTRONICA": "GABRIEL PATIÑO - 1183163838",
+            "AL PIE DE LA FIRMA": "GABRIEL PATIÑO - 1183163838"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GABRIEL PATIÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1183163838",
+            "NOMBRES": "GABRIEL PATIÑO",
+            "SALARIO": "3.568.542",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1183163838",
+            "NOMBRES": "GABRIEL PATIÑO",
+            "RECOMPRA O DESEMBOLSO": "2.942.544"
+        }
+    }
+]

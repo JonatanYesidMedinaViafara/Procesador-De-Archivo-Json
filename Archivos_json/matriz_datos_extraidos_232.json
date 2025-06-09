@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "287333362676",
+            "SOLICITUD": "7144356",
+            "CEDULA": "1442396751",
+            "NOMBRES": "SUSANA ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "2.313.642",
+            "FIRMA ELLECTRONICA": "SUSANA ZAMBRANO - 1442396751"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "287333362676",
+            "NOMBRES": "SUSANA ZAMBRANO",
+            "CREDITO": "9.325.087",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "358.688",
+            "FIRMA ELLECTRONICA": "SUSANA ZAMBRANO - 1442396751",
+            "AL PIE DE LA FIRMA": "SUSANA ZAMBRANO - 1442396751"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1442396751",
+            "NOMBRES": "SUSANA ZAMBRANO",
+            "FECHA NACIMIENTO": "07/07/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.325.087",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SUSANA ZAMBRANO - 1442396751",
+            "AL PIE DE LA FIRMA": "SUSANA ZAMBRANO - 1442396751"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7144356",
+            "CEDULA": "1442396751",
+            "NOMBRES": "SUSANA ZAMBRANO",
+            "CREDITO": "9.325.087",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "358.688",
+            "E.A": "19.35%",
+            "RECOMPRA O DESEMBOLSO": "2.313.642",
+            "FIRMA ELLECTRONICA": "SUSANA ZAMBRANO - 1442396751"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1442396751",
+            "NOMBRES": "SUSANA ZAMBRANO",
+            "FIRMA ELLECTRONICA": "SUSANA ZAMBRANO - 1442396751"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1442396751",
+            "NOMBRES": "SUSANA ZAMBRANO",
+            "FIRMA ELLECTRONICA": "SUSANA ZAMBRANO - 1442396751",
+            "AL PIE DE LA FIRMA": "SUSANA ZAMBRANO - 1442396751"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SUSANA ZAMBRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1442396751",
+            "NOMBRES": "SUSANA ZAMBRANO",
+            "SALARIO": "3.527.676",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1442396751",
+            "NOMBRES": "SUSANA ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "2.313.642"
+        }
+    }
+]

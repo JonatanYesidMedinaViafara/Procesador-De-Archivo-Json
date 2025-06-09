@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "395110815019",
+            "SOLICITUD": "7488256",
+            "CEDULA": "1247951381",
+            "NOMBRES": "JUAN ANDRÉS GONZÁLEZ SOLANO",
+            "RECOMPRA O DESEMBOLSO": "3.493.662",
+            "FIRMA ELLECTRONICA": "JUAN ANDRÉS GONZÁLEZ SOLANO - 1247951381"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "395110815019",
+            "NOMBRES": "JUAN ANDRÉS GONZÁLEZ SOLANO",
+            "CREDITO": "9.885.859",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "161.255",
+            "FIRMA ELLECTRONICA": "JUAN ANDRÉS GONZÁLEZ SOLANO - 1247951381",
+            "AL PIE DE LA FIRMA": "JUAN ANDRÉS GONZÁLEZ SOLANO - 1247951381"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1247951381",
+            "NOMBRES": "JUAN ANDRÉS GONZÁLEZ SOLANO",
+            "FECHA NACIMIENTO": "19/01/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.885.859",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN ANDRÉS GONZÁLEZ SOLANO - 1247951381",
+            "AL PIE DE LA FIRMA": "JUAN ANDRÉS GONZÁLEZ SOLANO - 1247951381"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7488256",
+            "CEDULA": "1247951381",
+            "NOMBRES": "JUAN ANDRÉS GONZÁLEZ SOLANO",
+            "CREDITO": "9.885.859",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "161.255",
+            "E.A": "26.47%",
+            "RECOMPRA O DESEMBOLSO": "3.493.662",
+            "FIRMA ELLECTRONICA": "JUAN ANDRÉS GONZÁLEZ SOLANO - 1247951381"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1247951381",
+            "NOMBRES": "JUAN ANDRÉS GONZÁLEZ SOLANO",
+            "FIRMA ELLECTRONICA": "JUAN ANDRÉS GONZÁLEZ SOLANO - 1247951381"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1247951381",
+            "NOMBRES": "JUAN ANDRÉS GONZÁLEZ SOLANO",
+            "FIRMA ELLECTRONICA": "JUAN ANDRÉS GONZÁLEZ SOLANO - 1247951381",
+            "AL PIE DE LA FIRMA": "JUAN ANDRÉS GONZÁLEZ SOLANO - 1247951381"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ANDRÉS GONZÁLEZ SOLANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1247951381",
+            "NOMBRES": "JUAN ANDRÉS GONZÁLEZ SOLANO",
+            "SALARIO": "3.523.231",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1247951381",
+            "NOMBRES": "JUAN ANDRÉS GONZÁLEZ SOLANO",
+            "RECOMPRA O DESEMBOLSO": "3.493.662"
+        }
+    }
+]

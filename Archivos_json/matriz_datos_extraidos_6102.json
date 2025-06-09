@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "838823458139",
+            "SOLICITUD": "4494020",
+            "CEDULA": "1018068150",
+            "NOMBRES": "ALEXANDER PADILLA",
+            "RECOMPRA O DESEMBOLSO": "2.951.792",
+            "FIRMA ELLECTRONICA": "ALEXANDER PADILLA - 1018068150"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "838823458139",
+            "NOMBRES": "ALEXANDER PADILLA",
+            "CREDITO": "14.076.799",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "163.386",
+            "FIRMA ELLECTRONICA": "ALEXANDER PADILLA - 1018068150",
+            "AL PIE DE LA FIRMA": "ALEXANDER PADILLA - 1018068150"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1018068150",
+            "NOMBRES": "ALEXANDER PADILLA",
+            "FECHA NACIMIENTO": "19/06/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.076.799",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALEXANDER PADILLA - 1018068150",
+            "AL PIE DE LA FIRMA": "ALEXANDER PADILLA - 1018068150"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4494020",
+            "CEDULA": "1018068150",
+            "NOMBRES": "ALEXANDER PADILLA",
+            "CREDITO": "14.076.799",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "163.386",
+            "E.A": "24.4%",
+            "RECOMPRA O DESEMBOLSO": "2.951.792",
+            "FIRMA ELLECTRONICA": "ALEXANDER PADILLA - 1018068150"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1018068150",
+            "NOMBRES": "ALEXANDER PADILLA",
+            "FIRMA ELLECTRONICA": "ALEXANDER PADILLA - 1018068150"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1018068150",
+            "NOMBRES": "ALEXANDER PADILLA",
+            "FIRMA ELLECTRONICA": "ALEXANDER PADILLA - 1018068150",
+            "AL PIE DE LA FIRMA": "ALEXANDER PADILLA - 1018068150"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER PADILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1018068150",
+            "NOMBRES": "ALEXANDER PADILLA",
+            "SALARIO": "3.499.729",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1018068150",
+            "NOMBRES": "ALEXANDER PADILLA",
+            "RECOMPRA O DESEMBOLSO": "2.951.792"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "582276188229",
+            "SOLICITUD": "1792389",
+            "CEDULA": "1866197874",
+            "NOMBRES": "JUAN ESTEBAN TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "1.038.208",
+            "FIRMA ELLECTRONICA": "JUAN ESTEBAN TRUJILLO - 1866197874"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "582276188229",
+            "NOMBRES": "JUAN ESTEBAN TRUJILLO",
+            "CREDITO": "11.441.635",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "157.978",
+            "FIRMA ELLECTRONICA": "JUAN ESTEBAN TRUJILLO - 1866197874",
+            "AL PIE DE LA FIRMA": "JUAN ESTEBAN TRUJILLO - 1866197874"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1866197874",
+            "NOMBRES": "JUAN ESTEBAN TRUJILLO",
+            "FECHA NACIMIENTO": "01/02/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.441.635",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN ESTEBAN TRUJILLO - 1866197874",
+            "AL PIE DE LA FIRMA": "JUAN ESTEBAN TRUJILLO - 1866197874"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1792389",
+            "CEDULA": "1866197874",
+            "NOMBRES": "JUAN ESTEBAN TRUJILLO",
+            "CREDITO": "11.441.635",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "157.978",
+            "E.A": "26.55%",
+            "RECOMPRA O DESEMBOLSO": "1.038.208",
+            "FIRMA ELLECTRONICA": "JUAN ESTEBAN TRUJILLO - 1866197874"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1866197874",
+            "NOMBRES": "JUAN ESTEBAN TRUJILLO",
+            "FIRMA ELLECTRONICA": "JUAN ESTEBAN TRUJILLO - 1866197874"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1866197874",
+            "NOMBRES": "JUAN ESTEBAN TRUJILLO",
+            "FIRMA ELLECTRONICA": "JUAN ESTEBAN TRUJILLO - 1866197874",
+            "AL PIE DE LA FIRMA": "JUAN ESTEBAN TRUJILLO - 1866197874"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ESTEBAN TRUJILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1866197874",
+            "NOMBRES": "JUAN ESTEBAN TRUJILLO",
+            "SALARIO": "3.364.361",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1866197874",
+            "NOMBRES": "JUAN ESTEBAN TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "1.038.208"
+        }
+    }
+]

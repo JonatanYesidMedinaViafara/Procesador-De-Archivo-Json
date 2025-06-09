@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "332096491829",
+            "SOLICITUD": "7485119",
+            "CEDULA": "1171226210",
+            "NOMBRES": "FELIPE BERNAL ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "1.761.752",
+            "FIRMA ELLECTRONICA": "FELIPE BERNAL ORTIZ - 1171226210"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "332096491829",
+            "NOMBRES": "FELIPE BERNAL ORTIZ",
+            "CREDITO": "19.895.218",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "123.256",
+            "FIRMA ELLECTRONICA": "FELIPE BERNAL ORTIZ - 1171226210",
+            "AL PIE DE LA FIRMA": "FELIPE BERNAL ORTIZ - 1171226210"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1171226210",
+            "NOMBRES": "FELIPE BERNAL ORTIZ",
+            "FECHA NACIMIENTO": "26/11/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.895.218",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FELIPE BERNAL ORTIZ - 1171226210",
+            "AL PIE DE LA FIRMA": "FELIPE BERNAL ORTIZ - 1171226210"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7485119",
+            "CEDULA": "1171226210",
+            "NOMBRES": "FELIPE BERNAL ORTIZ",
+            "CREDITO": "19.895.218",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "123.256",
+            "E.A": "28.72%",
+            "RECOMPRA O DESEMBOLSO": "1.761.752",
+            "FIRMA ELLECTRONICA": "FELIPE BERNAL ORTIZ - 1171226210"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1171226210",
+            "NOMBRES": "FELIPE BERNAL ORTIZ",
+            "FIRMA ELLECTRONICA": "FELIPE BERNAL ORTIZ - 1171226210"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1171226210",
+            "NOMBRES": "FELIPE BERNAL ORTIZ",
+            "FIRMA ELLECTRONICA": "FELIPE BERNAL ORTIZ - 1171226210",
+            "AL PIE DE LA FIRMA": "FELIPE BERNAL ORTIZ - 1171226210"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FELIPE BERNAL ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1171226210",
+            "NOMBRES": "FELIPE BERNAL ORTIZ",
+            "SALARIO": "1.739.517",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1171226210",
+            "NOMBRES": "FELIPE BERNAL ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "1.761.752"
+        }
+    }
+]

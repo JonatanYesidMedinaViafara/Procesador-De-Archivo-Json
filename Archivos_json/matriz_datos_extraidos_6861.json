@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "578449853709",
+            "SOLICITUD": "2916935",
+            "CEDULA": "1133851109",
+            "NOMBRES": "MARÍA MORALES",
+            "RECOMPRA O DESEMBOLSO": "1.928.036",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1133851109"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "578449853709",
+            "NOMBRES": "MARÍA MORALES",
+            "CREDITO": "6.923.099",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "209.568",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1133851109",
+            "AL PIE DE LA FIRMA": "MARÍA MORALES - 1133851109"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1133851109",
+            "NOMBRES": "MARÍA MORALES",
+            "FECHA NACIMIENTO": "29/04/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.923.099",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1133851109",
+            "AL PIE DE LA FIRMA": "MARÍA MORALES - 1133851109"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2916935",
+            "CEDULA": "1133851109",
+            "NOMBRES": "MARÍA MORALES",
+            "CREDITO": "6.923.099",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "209.568",
+            "E.A": "21.29%",
+            "RECOMPRA O DESEMBOLSO": "1.928.036",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1133851109"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1133851109",
+            "NOMBRES": "MARÍA MORALES",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1133851109"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1133851109",
+            "NOMBRES": "MARÍA MORALES",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1133851109",
+            "AL PIE DE LA FIRMA": "MARÍA MORALES - 1133851109"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1133851109",
+            "NOMBRES": "MARÍA MORALES",
+            "SALARIO": "3.706.078",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1133851109",
+            "NOMBRES": "MARÍA MORALES",
+            "RECOMPRA O DESEMBOLSO": "1.928.036"
+        }
+    }
+]

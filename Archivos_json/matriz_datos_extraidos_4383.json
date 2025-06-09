@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "216867944519",
+            "SOLICITUD": "9084056",
+            "CEDULA": "1503316126",
+            "NOMBRES": "PATRICIA ARIZA",
+            "RECOMPRA O DESEMBOLSO": "3.640.754",
+            "FIRMA ELLECTRONICA": "PATRICIA ARIZA - 1503316126"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "216867944519",
+            "NOMBRES": "PATRICIA ARIZA",
+            "CREDITO": "13.489.441",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "347.974",
+            "FIRMA ELLECTRONICA": "PATRICIA ARIZA - 1503316126",
+            "AL PIE DE LA FIRMA": "PATRICIA ARIZA - 1503316126"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1503316126",
+            "NOMBRES": "PATRICIA ARIZA",
+            "FECHA NACIMIENTO": "25/02/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.489.441",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PATRICIA ARIZA - 1503316126",
+            "AL PIE DE LA FIRMA": "PATRICIA ARIZA - 1503316126"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9084056",
+            "CEDULA": "1503316126",
+            "NOMBRES": "PATRICIA ARIZA",
+            "CREDITO": "13.489.441",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "347.974",
+            "E.A": "19.47%",
+            "RECOMPRA O DESEMBOLSO": "3.640.754",
+            "FIRMA ELLECTRONICA": "PATRICIA ARIZA - 1503316126"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1503316126",
+            "NOMBRES": "PATRICIA ARIZA",
+            "FIRMA ELLECTRONICA": "PATRICIA ARIZA - 1503316126"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1503316126",
+            "NOMBRES": "PATRICIA ARIZA",
+            "FIRMA ELLECTRONICA": "PATRICIA ARIZA - 1503316126",
+            "AL PIE DE LA FIRMA": "PATRICIA ARIZA - 1503316126"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA ARIZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1503316126",
+            "NOMBRES": "PATRICIA ARIZA",
+            "SALARIO": "4.113.429",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1503316126",
+            "NOMBRES": "PATRICIA ARIZA",
+            "RECOMPRA O DESEMBOLSO": "3.640.754"
+        }
+    }
+]

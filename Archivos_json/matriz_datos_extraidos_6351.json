@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "362265348004",
+            "SOLICITUD": "3748847",
+            "CEDULA": "1991917639",
+            "NOMBRES": "ALBERTO IVÁN VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.577.935",
+            "FIRMA ELLECTRONICA": "ALBERTO IVÁN VARGAS - 1991917639"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "362265348004",
+            "NOMBRES": "ALBERTO IVÁN VARGAS",
+            "CREDITO": "17.165.272",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "178.203",
+            "FIRMA ELLECTRONICA": "ALBERTO IVÁN VARGAS - 1991917639",
+            "AL PIE DE LA FIRMA": "ALBERTO IVÁN VARGAS - 1991917639"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1991917639",
+            "NOMBRES": "ALBERTO IVÁN VARGAS",
+            "FECHA NACIMIENTO": "27/12/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.165.272",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALBERTO IVÁN VARGAS - 1991917639",
+            "AL PIE DE LA FIRMA": "ALBERTO IVÁN VARGAS - 1991917639"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3748847",
+            "CEDULA": "1991917639",
+            "NOMBRES": "ALBERTO IVÁN VARGAS",
+            "CREDITO": "17.165.272",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "178.203",
+            "E.A": "26.26%",
+            "RECOMPRA O DESEMBOLSO": "2.577.935",
+            "FIRMA ELLECTRONICA": "ALBERTO IVÁN VARGAS - 1991917639"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1991917639",
+            "NOMBRES": "ALBERTO IVÁN VARGAS",
+            "FIRMA ELLECTRONICA": "ALBERTO IVÁN VARGAS - 1991917639"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1991917639",
+            "NOMBRES": "ALBERTO IVÁN VARGAS",
+            "FIRMA ELLECTRONICA": "ALBERTO IVÁN VARGAS - 1991917639",
+            "AL PIE DE LA FIRMA": "ALBERTO IVÁN VARGAS - 1991917639"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO IVÁN VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1991917639",
+            "NOMBRES": "ALBERTO IVÁN VARGAS",
+            "SALARIO": "2.669.858",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1991917639",
+            "NOMBRES": "ALBERTO IVÁN VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.577.935"
+        }
+    }
+]

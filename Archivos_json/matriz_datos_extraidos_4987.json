@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "956421111865",
+            "SOLICITUD": "7661658",
+            "CEDULA": "1942292756",
+            "NOMBRES": "ALFONSO BENÍTEZ",
+            "RECOMPRA O DESEMBOLSO": "3.657.135",
+            "FIRMA ELLECTRONICA": "ALFONSO BENÍTEZ - 1942292756"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "956421111865",
+            "NOMBRES": "ALFONSO BENÍTEZ",
+            "CREDITO": "17.993.104",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "164.726",
+            "FIRMA ELLECTRONICA": "ALFONSO BENÍTEZ - 1942292756",
+            "AL PIE DE LA FIRMA": "ALFONSO BENÍTEZ - 1942292756"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1942292756",
+            "NOMBRES": "ALFONSO BENÍTEZ",
+            "FECHA NACIMIENTO": "05/05/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.993.104",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALFONSO BENÍTEZ - 1942292756",
+            "AL PIE DE LA FIRMA": "ALFONSO BENÍTEZ - 1942292756"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7661658",
+            "CEDULA": "1942292756",
+            "NOMBRES": "ALFONSO BENÍTEZ",
+            "CREDITO": "17.993.104",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "164.726",
+            "E.A": "28.32%",
+            "RECOMPRA O DESEMBOLSO": "3.657.135",
+            "FIRMA ELLECTRONICA": "ALFONSO BENÍTEZ - 1942292756"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1942292756",
+            "NOMBRES": "ALFONSO BENÍTEZ",
+            "FIRMA ELLECTRONICA": "ALFONSO BENÍTEZ - 1942292756"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1942292756",
+            "NOMBRES": "ALFONSO BENÍTEZ",
+            "FIRMA ELLECTRONICA": "ALFONSO BENÍTEZ - 1942292756",
+            "AL PIE DE LA FIRMA": "ALFONSO BENÍTEZ - 1942292756"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFONSO BENÍTEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1942292756",
+            "NOMBRES": "ALFONSO BENÍTEZ",
+            "SALARIO": "2.373.966",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1942292756",
+            "NOMBRES": "ALFONSO BENÍTEZ",
+            "RECOMPRA O DESEMBOLSO": "3.657.135"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "302854689775",
+            "SOLICITUD": "5323777",
+            "CEDULA": "1288257982",
+            "NOMBRES": "JUAN MANUEL GIRALDO BLANCO",
+            "RECOMPRA O DESEMBOLSO": "3.478.301",
+            "FIRMA ELLECTRONICA": "JUAN MANUEL GIRALDO BLANCO - 1288257982"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "302854689775",
+            "NOMBRES": "JUAN MANUEL GIRALDO BLANCO",
+            "CREDITO": "11.154.937",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "293.484",
+            "FIRMA ELLECTRONICA": "JUAN MANUEL GIRALDO BLANCO - 1288257982",
+            "AL PIE DE LA FIRMA": "JUAN MANUEL GIRALDO BLANCO - 1288257982"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1288257982",
+            "NOMBRES": "JUAN MANUEL GIRALDO BLANCO",
+            "FECHA NACIMIENTO": "20/03/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.154.937",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN MANUEL GIRALDO BLANCO - 1288257982",
+            "AL PIE DE LA FIRMA": "JUAN MANUEL GIRALDO BLANCO - 1288257982"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5323777",
+            "CEDULA": "1288257982",
+            "NOMBRES": "JUAN MANUEL GIRALDO BLANCO",
+            "CREDITO": "11.154.937",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "293.484",
+            "E.A": "18.97%",
+            "RECOMPRA O DESEMBOLSO": "3.478.301",
+            "FIRMA ELLECTRONICA": "JUAN MANUEL GIRALDO BLANCO - 1288257982"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1288257982",
+            "NOMBRES": "JUAN MANUEL GIRALDO BLANCO",
+            "FIRMA ELLECTRONICA": "JUAN MANUEL GIRALDO BLANCO - 1288257982"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1288257982",
+            "NOMBRES": "JUAN MANUEL GIRALDO BLANCO",
+            "FIRMA ELLECTRONICA": "JUAN MANUEL GIRALDO BLANCO - 1288257982",
+            "AL PIE DE LA FIRMA": "JUAN MANUEL GIRALDO BLANCO - 1288257982"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN MANUEL GIRALDO BLANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1288257982",
+            "NOMBRES": "JUAN MANUEL GIRALDO BLANCO",
+            "SALARIO": "3.662.509",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1288257982",
+            "NOMBRES": "JUAN MANUEL GIRALDO BLANCO",
+            "RECOMPRA O DESEMBOLSO": "3.478.301"
+        }
+    }
+]

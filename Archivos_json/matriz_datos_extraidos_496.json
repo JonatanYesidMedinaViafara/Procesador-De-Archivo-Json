@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "303848880305",
+            "SOLICITUD": "9351066",
+            "CEDULA": "1670653412",
+            "NOMBRES": "EDWIN VARGAS ARDILA",
+            "RECOMPRA O DESEMBOLSO": "3.123.532",
+            "FIRMA ELLECTRONICA": "EDWIN VARGAS ARDILA - 1670653412"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "303848880305",
+            "NOMBRES": "EDWIN VARGAS ARDILA",
+            "CREDITO": "13.513.242",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.253",
+            "FIRMA ELLECTRONICA": "EDWIN VARGAS ARDILA - 1670653412",
+            "AL PIE DE LA FIRMA": "EDWIN VARGAS ARDILA - 1670653412"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1670653412",
+            "NOMBRES": "EDWIN VARGAS ARDILA",
+            "FECHA NACIMIENTO": "06/05/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.513.242",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EDWIN VARGAS ARDILA - 1670653412",
+            "AL PIE DE LA FIRMA": "EDWIN VARGAS ARDILA - 1670653412"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9351066",
+            "CEDULA": "1670653412",
+            "NOMBRES": "EDWIN VARGAS ARDILA",
+            "CREDITO": "13.513.242",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.253",
+            "E.A": "25.56%",
+            "RECOMPRA O DESEMBOLSO": "3.123.532",
+            "FIRMA ELLECTRONICA": "EDWIN VARGAS ARDILA - 1670653412"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1670653412",
+            "NOMBRES": "EDWIN VARGAS ARDILA",
+            "FIRMA ELLECTRONICA": "EDWIN VARGAS ARDILA - 1670653412"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1670653412",
+            "NOMBRES": "EDWIN VARGAS ARDILA",
+            "FIRMA ELLECTRONICA": "EDWIN VARGAS ARDILA - 1670653412",
+            "AL PIE DE LA FIRMA": "EDWIN VARGAS ARDILA - 1670653412"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDWIN VARGAS ARDILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1670653412",
+            "NOMBRES": "EDWIN VARGAS ARDILA",
+            "SALARIO": "2.011.981",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1670653412",
+            "NOMBRES": "EDWIN VARGAS ARDILA",
+            "RECOMPRA O DESEMBOLSO": "3.123.532"
+        }
+    }
+]

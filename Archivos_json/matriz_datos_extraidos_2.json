@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "108230419723",
+            "SOLICITUD": "9125406",
+            "CEDULA": "1147362489",
+            "NOMBRES": "ELENA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "1.243.160",
+            "FIRMA ELLECTRONICA": "ELENA ACOSTA - 1147362489"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "108230419723",
+            "NOMBRES": "ELENA ACOSTA",
+            "CREDITO": "12.327.598",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "350.9",
+            "FIRMA ELLECTRONICA": "ELENA ACOSTA - 1147362489",
+            "AL PIE DE LA FIRMA": "ELENA ACOSTA - 1147362489"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1147362489",
+            "NOMBRES": "ELENA ACOSTA",
+            "FECHA NACIMIENTO": "17/07/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.327.598",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ELENA ACOSTA - 1147362489",
+            "AL PIE DE LA FIRMA": "ELENA ACOSTA - 1147362489"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9125406",
+            "CEDULA": "1147362489",
+            "NOMBRES": "ELENA ACOSTA",
+            "CREDITO": "12.327.598",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "350.9",
+            "E.A": "27.96%",
+            "RECOMPRA O DESEMBOLSO": "1.243.160",
+            "FIRMA ELLECTRONICA": "ELENA ACOSTA - 1147362489"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1147362489",
+            "NOMBRES": "ELENA ACOSTA",
+            "FIRMA ELLECTRONICA": "ELENA ACOSTA - 1147362489"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1147362489",
+            "NOMBRES": "ELENA ACOSTA",
+            "FIRMA ELLECTRONICA": "ELENA ACOSTA - 1147362489",
+            "AL PIE DE LA FIRMA": "ELENA ACOSTA - 1147362489"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1147362489",
+            "NOMBRES": "ELENA ACOSTA",
+            "SALARIO": "3.787.892",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1147362489",
+            "NOMBRES": "ELENA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "1.243.160"
+        }
+    }
+]

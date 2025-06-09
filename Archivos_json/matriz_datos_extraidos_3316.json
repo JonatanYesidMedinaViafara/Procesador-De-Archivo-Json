@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "603948770834",
+            "SOLICITUD": "1464707",
+            "CEDULA": "1656263761",
+            "NOMBRES": "DARIO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.743.707",
+            "FIRMA ELLECTRONICA": "DARIO RODRÍGUEZ - 1656263761"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "603948770834",
+            "NOMBRES": "DARIO RODRÍGUEZ",
+            "CREDITO": "14.763.690",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "321.729",
+            "FIRMA ELLECTRONICA": "DARIO RODRÍGUEZ - 1656263761",
+            "AL PIE DE LA FIRMA": "DARIO RODRÍGUEZ - 1656263761"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1656263761",
+            "NOMBRES": "DARIO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "03/12/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.763.690",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DARIO RODRÍGUEZ - 1656263761",
+            "AL PIE DE LA FIRMA": "DARIO RODRÍGUEZ - 1656263761"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1464707",
+            "CEDULA": "1656263761",
+            "NOMBRES": "DARIO RODRÍGUEZ",
+            "CREDITO": "14.763.690",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "321.729",
+            "E.A": "25.72%",
+            "RECOMPRA O DESEMBOLSO": "3.743.707",
+            "FIRMA ELLECTRONICA": "DARIO RODRÍGUEZ - 1656263761"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1656263761",
+            "NOMBRES": "DARIO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "DARIO RODRÍGUEZ - 1656263761"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1656263761",
+            "NOMBRES": "DARIO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "DARIO RODRÍGUEZ - 1656263761",
+            "AL PIE DE LA FIRMA": "DARIO RODRÍGUEZ - 1656263761"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1656263761",
+            "NOMBRES": "DARIO RODRÍGUEZ",
+            "SALARIO": "1.117.408",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1656263761",
+            "NOMBRES": "DARIO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.743.707"
+        }
+    }
+]

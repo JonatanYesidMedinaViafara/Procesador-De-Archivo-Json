@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "377647480343",
+            "SOLICITUD": "3070923",
+            "CEDULA": "1161656274",
+            "NOMBRES": "ESTEFANÍA ACEVEDO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.178.904",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA ACEVEDO GÓMEZ - 1161656274"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "377647480343",
+            "NOMBRES": "ESTEFANÍA ACEVEDO GÓMEZ",
+            "CREDITO": "11.120.536",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "327.058",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA ACEVEDO GÓMEZ - 1161656274",
+            "AL PIE DE LA FIRMA": "ESTEFANÍA ACEVEDO GÓMEZ - 1161656274"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1161656274",
+            "NOMBRES": "ESTEFANÍA ACEVEDO GÓMEZ",
+            "FECHA NACIMIENTO": "23/06/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.120.536",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA ACEVEDO GÓMEZ - 1161656274",
+            "AL PIE DE LA FIRMA": "ESTEFANÍA ACEVEDO GÓMEZ - 1161656274"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3070923",
+            "CEDULA": "1161656274",
+            "NOMBRES": "ESTEFANÍA ACEVEDO GÓMEZ",
+            "CREDITO": "11.120.536",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "327.058",
+            "E.A": "21.1%",
+            "RECOMPRA O DESEMBOLSO": "4.178.904",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA ACEVEDO GÓMEZ - 1161656274"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1161656274",
+            "NOMBRES": "ESTEFANÍA ACEVEDO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA ACEVEDO GÓMEZ - 1161656274"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1161656274",
+            "NOMBRES": "ESTEFANÍA ACEVEDO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ESTEFANÍA ACEVEDO GÓMEZ - 1161656274",
+            "AL PIE DE LA FIRMA": "ESTEFANÍA ACEVEDO GÓMEZ - 1161656274"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTEFANÍA ACEVEDO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1161656274",
+            "NOMBRES": "ESTEFANÍA ACEVEDO GÓMEZ",
+            "SALARIO": "3.926.052",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1161656274",
+            "NOMBRES": "ESTEFANÍA ACEVEDO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.178.904"
+        }
+    }
+]

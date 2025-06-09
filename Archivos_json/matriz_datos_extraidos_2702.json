@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "281065870183",
+            "SOLICITUD": "8123825",
+            "CEDULA": "1294636836",
+            "NOMBRES": "EDGAR JAIME GARCÍA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "4.261.657",
+            "FIRMA ELLECTRONICA": "EDGAR JAIME GARCÍA GIRALDO - 1294636836"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "281065870183",
+            "NOMBRES": "EDGAR JAIME GARCÍA GIRALDO",
+            "CREDITO": "13.893.414",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "363.865",
+            "FIRMA ELLECTRONICA": "EDGAR JAIME GARCÍA GIRALDO - 1294636836",
+            "AL PIE DE LA FIRMA": "EDGAR JAIME GARCÍA GIRALDO - 1294636836"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1294636836",
+            "NOMBRES": "EDGAR JAIME GARCÍA GIRALDO",
+            "FECHA NACIMIENTO": "16/12/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.893.414",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "EDGAR JAIME GARCÍA GIRALDO - 1294636836",
+            "AL PIE DE LA FIRMA": "EDGAR JAIME GARCÍA GIRALDO - 1294636836"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8123825",
+            "CEDULA": "1294636836",
+            "NOMBRES": "EDGAR JAIME GARCÍA GIRALDO",
+            "CREDITO": "13.893.414",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "363.865",
+            "E.A": "19.98%",
+            "RECOMPRA O DESEMBOLSO": "4.261.657",
+            "FIRMA ELLECTRONICA": "EDGAR JAIME GARCÍA GIRALDO - 1294636836"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1294636836",
+            "NOMBRES": "EDGAR JAIME GARCÍA GIRALDO",
+            "FIRMA ELLECTRONICA": "EDGAR JAIME GARCÍA GIRALDO - 1294636836"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1294636836",
+            "NOMBRES": "EDGAR JAIME GARCÍA GIRALDO",
+            "FIRMA ELLECTRONICA": "EDGAR JAIME GARCÍA GIRALDO - 1294636836",
+            "AL PIE DE LA FIRMA": "EDGAR JAIME GARCÍA GIRALDO - 1294636836"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDGAR JAIME GARCÍA GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1294636836",
+            "NOMBRES": "EDGAR JAIME GARCÍA GIRALDO",
+            "SALARIO": "3.138.732",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1294636836",
+            "NOMBRES": "EDGAR JAIME GARCÍA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "4.261.657"
+        }
+    }
+]

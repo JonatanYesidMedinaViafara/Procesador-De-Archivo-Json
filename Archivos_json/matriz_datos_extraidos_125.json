@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "813694593871",
+            "SOLICITUD": "5322564",
+            "CEDULA": "1968907135",
+            "NOMBRES": "JAIME MOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.813.347",
+            "FIRMA ELLECTRONICA": "JAIME MOLANO - 1968907135"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "813694593871",
+            "NOMBRES": "JAIME MOLANO",
+            "CREDITO": "6.369.492",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "147.627",
+            "FIRMA ELLECTRONICA": "JAIME MOLANO - 1968907135",
+            "AL PIE DE LA FIRMA": "JAIME MOLANO - 1968907135"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1968907135",
+            "NOMBRES": "JAIME MOLANO",
+            "FECHA NACIMIENTO": "05/10/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.369.492",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAIME MOLANO - 1968907135",
+            "AL PIE DE LA FIRMA": "JAIME MOLANO - 1968907135"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5322564",
+            "CEDULA": "1968907135",
+            "NOMBRES": "JAIME MOLANO",
+            "CREDITO": "6.369.492",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "147.627",
+            "E.A": "24.19%",
+            "RECOMPRA O DESEMBOLSO": "2.813.347",
+            "FIRMA ELLECTRONICA": "JAIME MOLANO - 1968907135"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1968907135",
+            "NOMBRES": "JAIME MOLANO",
+            "FIRMA ELLECTRONICA": "JAIME MOLANO - 1968907135"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1968907135",
+            "NOMBRES": "JAIME MOLANO",
+            "FIRMA ELLECTRONICA": "JAIME MOLANO - 1968907135",
+            "AL PIE DE LA FIRMA": "JAIME MOLANO - 1968907135"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIME MOLANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1968907135",
+            "NOMBRES": "JAIME MOLANO",
+            "SALARIO": "1.285.507",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "11/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1968907135",
+            "NOMBRES": "JAIME MOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.813.347"
+        }
+    }
+]

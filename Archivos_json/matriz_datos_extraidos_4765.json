@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "487222337226",
+            "SOLICITUD": "8515758",
+            "CEDULA": "1417114196",
+            "NOMBRES": "KAREN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.866.970",
+            "FIRMA ELLECTRONICA": "KAREN PÉREZ - 1417114196"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "487222337226",
+            "NOMBRES": "KAREN PÉREZ",
+            "CREDITO": "10.045.474",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "191.051",
+            "FIRMA ELLECTRONICA": "KAREN PÉREZ - 1417114196",
+            "AL PIE DE LA FIRMA": "KAREN PÉREZ - 1417114196"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1417114196",
+            "NOMBRES": "KAREN PÉREZ",
+            "FECHA NACIMIENTO": "22/09/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.045.474",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "KAREN PÉREZ - 1417114196",
+            "AL PIE DE LA FIRMA": "KAREN PÉREZ - 1417114196"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8515758",
+            "CEDULA": "1417114196",
+            "NOMBRES": "KAREN PÉREZ",
+            "CREDITO": "10.045.474",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "191.051",
+            "E.A": "25.47%",
+            "RECOMPRA O DESEMBOLSO": "3.866.970",
+            "FIRMA ELLECTRONICA": "KAREN PÉREZ - 1417114196"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1417114196",
+            "NOMBRES": "KAREN PÉREZ",
+            "FIRMA ELLECTRONICA": "KAREN PÉREZ - 1417114196"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1417114196",
+            "NOMBRES": "KAREN PÉREZ",
+            "FIRMA ELLECTRONICA": "KAREN PÉREZ - 1417114196",
+            "AL PIE DE LA FIRMA": "KAREN PÉREZ - 1417114196"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "KAREN PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1417114196",
+            "NOMBRES": "KAREN PÉREZ",
+            "SALARIO": "4.162.718",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1417114196",
+            "NOMBRES": "KAREN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.866.970"
+        }
+    }
+]

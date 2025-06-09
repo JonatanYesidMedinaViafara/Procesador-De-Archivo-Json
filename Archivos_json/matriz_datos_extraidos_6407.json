@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "497281766094",
+            "SOLICITUD": "4462833",
+            "CEDULA": "1252805434",
+            "NOMBRES": "JOSÉ ENRIQUE MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.572.189",
+            "FIRMA ELLECTRONICA": "JOSÉ ENRIQUE MORENO - 1252805434"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "497281766094",
+            "NOMBRES": "JOSÉ ENRIQUE MORENO",
+            "CREDITO": "15.255.916",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "167.916",
+            "FIRMA ELLECTRONICA": "JOSÉ ENRIQUE MORENO - 1252805434",
+            "AL PIE DE LA FIRMA": "JOSÉ ENRIQUE MORENO - 1252805434"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1252805434",
+            "NOMBRES": "JOSÉ ENRIQUE MORENO",
+            "FECHA NACIMIENTO": "08/11/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.255.916",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ ENRIQUE MORENO - 1252805434",
+            "AL PIE DE LA FIRMA": "JOSÉ ENRIQUE MORENO - 1252805434"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4462833",
+            "CEDULA": "1252805434",
+            "NOMBRES": "JOSÉ ENRIQUE MORENO",
+            "CREDITO": "15.255.916",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "167.916",
+            "E.A": "23.33%",
+            "RECOMPRA O DESEMBOLSO": "3.572.189",
+            "FIRMA ELLECTRONICA": "JOSÉ ENRIQUE MORENO - 1252805434"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1252805434",
+            "NOMBRES": "JOSÉ ENRIQUE MORENO",
+            "FIRMA ELLECTRONICA": "JOSÉ ENRIQUE MORENO - 1252805434"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1252805434",
+            "NOMBRES": "JOSÉ ENRIQUE MORENO",
+            "FIRMA ELLECTRONICA": "JOSÉ ENRIQUE MORENO - 1252805434",
+            "AL PIE DE LA FIRMA": "JOSÉ ENRIQUE MORENO - 1252805434"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ENRIQUE MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1252805434",
+            "NOMBRES": "JOSÉ ENRIQUE MORENO",
+            "SALARIO": "1.975.695",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1252805434",
+            "NOMBRES": "JOSÉ ENRIQUE MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.572.189"
+        }
+    }
+]

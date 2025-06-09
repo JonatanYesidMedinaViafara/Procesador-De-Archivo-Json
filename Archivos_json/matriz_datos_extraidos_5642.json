@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "894571942525",
+            "SOLICITUD": "5097032",
+            "CEDULA": "1273322183",
+            "NOMBRES": "MARÍA VARGAS LUNA",
+            "RECOMPRA O DESEMBOLSO": "2.922.788",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS LUNA - 1273322183"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "894571942525",
+            "NOMBRES": "MARÍA VARGAS LUNA",
+            "CREDITO": "16.382.753",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "135.139",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS LUNA - 1273322183",
+            "AL PIE DE LA FIRMA": "MARÍA VARGAS LUNA - 1273322183"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1273322183",
+            "NOMBRES": "MARÍA VARGAS LUNA",
+            "FECHA NACIMIENTO": "20/05/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.382.753",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS LUNA - 1273322183",
+            "AL PIE DE LA FIRMA": "MARÍA VARGAS LUNA - 1273322183"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5097032",
+            "CEDULA": "1273322183",
+            "NOMBRES": "MARÍA VARGAS LUNA",
+            "CREDITO": "16.382.753",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "135.139",
+            "E.A": "27.97%",
+            "RECOMPRA O DESEMBOLSO": "2.922.788",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS LUNA - 1273322183"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1273322183",
+            "NOMBRES": "MARÍA VARGAS LUNA",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS LUNA - 1273322183"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1273322183",
+            "NOMBRES": "MARÍA VARGAS LUNA",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS LUNA - 1273322183",
+            "AL PIE DE LA FIRMA": "MARÍA VARGAS LUNA - 1273322183"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA VARGAS LUNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1273322183",
+            "NOMBRES": "MARÍA VARGAS LUNA",
+            "SALARIO": "4.775.883",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1273322183",
+            "NOMBRES": "MARÍA VARGAS LUNA",
+            "RECOMPRA O DESEMBOLSO": "2.922.788"
+        }
+    }
+]

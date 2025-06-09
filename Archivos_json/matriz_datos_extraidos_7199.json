@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "558098578887",
+            "SOLICITUD": "1981817",
+            "CEDULA": "1177769157",
+            "NOMBRES": "ALICIA RODRÍGUEZ ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "4.042.936",
+            "FIRMA ELLECTRONICA": "ALICIA RODRÍGUEZ ZAPATA - 1177769157"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "558098578887",
+            "NOMBRES": "ALICIA RODRÍGUEZ ZAPATA",
+            "CREDITO": "6.605.454",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "368.439",
+            "FIRMA ELLECTRONICA": "ALICIA RODRÍGUEZ ZAPATA - 1177769157",
+            "AL PIE DE LA FIRMA": "ALICIA RODRÍGUEZ ZAPATA - 1177769157"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1177769157",
+            "NOMBRES": "ALICIA RODRÍGUEZ ZAPATA",
+            "FECHA NACIMIENTO": "18/02/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.605.454",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALICIA RODRÍGUEZ ZAPATA - 1177769157",
+            "AL PIE DE LA FIRMA": "ALICIA RODRÍGUEZ ZAPATA - 1177769157"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1981817",
+            "CEDULA": "1177769157",
+            "NOMBRES": "ALICIA RODRÍGUEZ ZAPATA",
+            "CREDITO": "6.605.454",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "368.439",
+            "E.A": "18.46%",
+            "RECOMPRA O DESEMBOLSO": "4.042.936",
+            "FIRMA ELLECTRONICA": "ALICIA RODRÍGUEZ ZAPATA - 1177769157"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1177769157",
+            "NOMBRES": "ALICIA RODRÍGUEZ ZAPATA",
+            "FIRMA ELLECTRONICA": "ALICIA RODRÍGUEZ ZAPATA - 1177769157"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1177769157",
+            "NOMBRES": "ALICIA RODRÍGUEZ ZAPATA",
+            "FIRMA ELLECTRONICA": "ALICIA RODRÍGUEZ ZAPATA - 1177769157",
+            "AL PIE DE LA FIRMA": "ALICIA RODRÍGUEZ ZAPATA - 1177769157"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALICIA RODRÍGUEZ ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1177769157",
+            "NOMBRES": "ALICIA RODRÍGUEZ ZAPATA",
+            "SALARIO": "2.971.664",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1177769157",
+            "NOMBRES": "ALICIA RODRÍGUEZ ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "4.042.936"
+        }
+    }
+]

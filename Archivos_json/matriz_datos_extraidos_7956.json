@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "245009236926",
+            "SOLICITUD": "4060532",
+            "CEDULA": "1330108887",
+            "NOMBRES": "ALFONSO MANUEL CASTRO",
+            "RECOMPRA O DESEMBOLSO": "3.412.489",
+            "FIRMA ELLECTRONICA": "ALFONSO MANUEL CASTRO - 1330108887"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "245009236926",
+            "NOMBRES": "ALFONSO MANUEL CASTRO",
+            "CREDITO": "5.322.896",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "218.607",
+            "FIRMA ELLECTRONICA": "ALFONSO MANUEL CASTRO - 1330108887",
+            "AL PIE DE LA FIRMA": "ALFONSO MANUEL CASTRO - 1330108887"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1330108887",
+            "NOMBRES": "ALFONSO MANUEL CASTRO",
+            "FECHA NACIMIENTO": "10/01/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.322.896",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALFONSO MANUEL CASTRO - 1330108887",
+            "AL PIE DE LA FIRMA": "ALFONSO MANUEL CASTRO - 1330108887"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4060532",
+            "CEDULA": "1330108887",
+            "NOMBRES": "ALFONSO MANUEL CASTRO",
+            "CREDITO": "5.322.896",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "218.607",
+            "E.A": "21.73%",
+            "RECOMPRA O DESEMBOLSO": "3.412.489",
+            "FIRMA ELLECTRONICA": "ALFONSO MANUEL CASTRO - 1330108887"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1330108887",
+            "NOMBRES": "ALFONSO MANUEL CASTRO",
+            "FIRMA ELLECTRONICA": "ALFONSO MANUEL CASTRO - 1330108887"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1330108887",
+            "NOMBRES": "ALFONSO MANUEL CASTRO",
+            "FIRMA ELLECTRONICA": "ALFONSO MANUEL CASTRO - 1330108887",
+            "AL PIE DE LA FIRMA": "ALFONSO MANUEL CASTRO - 1330108887"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFONSO MANUEL CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1330108887",
+            "NOMBRES": "ALFONSO MANUEL CASTRO",
+            "SALARIO": "4.683.534",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1330108887",
+            "NOMBRES": "ALFONSO MANUEL CASTRO",
+            "RECOMPRA O DESEMBOLSO": "3.412.489"
+        }
+    }
+]

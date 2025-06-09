@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "652240778593",
+            "SOLICITUD": "4407382",
+            "CEDULA": "1250901371",
+            "NOMBRES": "MARGARITA MARÍA PÉREZ PARRA",
+            "RECOMPRA O DESEMBOLSO": "4.730.089",
+            "FIRMA ELLECTRONICA": "MARGARITA MARÍA PÉREZ PARRA - 1250901371"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "652240778593",
+            "NOMBRES": "MARGARITA MARÍA PÉREZ PARRA",
+            "CREDITO": "14.245.736",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "258.538",
+            "FIRMA ELLECTRONICA": "MARGARITA MARÍA PÉREZ PARRA - 1250901371",
+            "AL PIE DE LA FIRMA": "MARGARITA MARÍA PÉREZ PARRA - 1250901371"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1250901371",
+            "NOMBRES": "MARGARITA MARÍA PÉREZ PARRA",
+            "FECHA NACIMIENTO": "23/04/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.245.736",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARGARITA MARÍA PÉREZ PARRA - 1250901371",
+            "AL PIE DE LA FIRMA": "MARGARITA MARÍA PÉREZ PARRA - 1250901371"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4407382",
+            "CEDULA": "1250901371",
+            "NOMBRES": "MARGARITA MARÍA PÉREZ PARRA",
+            "CREDITO": "14.245.736",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "258.538",
+            "E.A": "26.77%",
+            "RECOMPRA O DESEMBOLSO": "4.730.089",
+            "FIRMA ELLECTRONICA": "MARGARITA MARÍA PÉREZ PARRA - 1250901371"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1250901371",
+            "NOMBRES": "MARGARITA MARÍA PÉREZ PARRA",
+            "FIRMA ELLECTRONICA": "MARGARITA MARÍA PÉREZ PARRA - 1250901371"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1250901371",
+            "NOMBRES": "MARGARITA MARÍA PÉREZ PARRA",
+            "FIRMA ELLECTRONICA": "MARGARITA MARÍA PÉREZ PARRA - 1250901371",
+            "AL PIE DE LA FIRMA": "MARGARITA MARÍA PÉREZ PARRA - 1250901371"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARGARITA MARÍA PÉREZ PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1250901371",
+            "NOMBRES": "MARGARITA MARÍA PÉREZ PARRA",
+            "SALARIO": "2.601.616",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1250901371",
+            "NOMBRES": "MARGARITA MARÍA PÉREZ PARRA",
+            "RECOMPRA O DESEMBOLSO": "4.730.089"
+        }
+    }
+]

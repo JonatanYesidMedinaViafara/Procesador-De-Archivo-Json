@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "392985253830",
+            "SOLICITUD": "3419374",
+            "CEDULA": "1223911683",
+            "NOMBRES": "VÍCTOR GERSON ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "3.423.707",
+            "FIRMA ELLECTRONICA": "VÍCTOR GERSON ZAPATA - 1223911683"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "392985253830",
+            "NOMBRES": "VÍCTOR GERSON ZAPATA",
+            "CREDITO": "6.776.590",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "211.396",
+            "FIRMA ELLECTRONICA": "VÍCTOR GERSON ZAPATA - 1223911683",
+            "AL PIE DE LA FIRMA": "VÍCTOR GERSON ZAPATA - 1223911683"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1223911683",
+            "NOMBRES": "VÍCTOR GERSON ZAPATA",
+            "FECHA NACIMIENTO": "24/01/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.776.590",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "VÍCTOR GERSON ZAPATA - 1223911683",
+            "AL PIE DE LA FIRMA": "VÍCTOR GERSON ZAPATA - 1223911683"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3419374",
+            "CEDULA": "1223911683",
+            "NOMBRES": "VÍCTOR GERSON ZAPATA",
+            "CREDITO": "6.776.590",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "211.396",
+            "E.A": "27.41%",
+            "RECOMPRA O DESEMBOLSO": "3.423.707",
+            "FIRMA ELLECTRONICA": "VÍCTOR GERSON ZAPATA - 1223911683"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1223911683",
+            "NOMBRES": "VÍCTOR GERSON ZAPATA",
+            "FIRMA ELLECTRONICA": "VÍCTOR GERSON ZAPATA - 1223911683"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1223911683",
+            "NOMBRES": "VÍCTOR GERSON ZAPATA",
+            "FIRMA ELLECTRONICA": "VÍCTOR GERSON ZAPATA - 1223911683",
+            "AL PIE DE LA FIRMA": "VÍCTOR GERSON ZAPATA - 1223911683"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VÍCTOR GERSON ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1223911683",
+            "NOMBRES": "VÍCTOR GERSON ZAPATA",
+            "SALARIO": "2.608.943",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1223911683",
+            "NOMBRES": "VÍCTOR GERSON ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "3.423.707"
+        }
+    }
+]

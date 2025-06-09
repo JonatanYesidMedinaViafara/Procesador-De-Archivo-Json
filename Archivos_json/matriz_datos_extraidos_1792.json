@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "519247309215",
+            "SOLICITUD": "9222073",
+            "CEDULA": "1972695319",
+            "NOMBRES": "ROSA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "3.017.179",
+            "FIRMA ELLECTRONICA": "ROSA PEÑA - 1972695319"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "519247309215",
+            "NOMBRES": "ROSA PEÑA",
+            "CREDITO": "17.420.259",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "304.381",
+            "FIRMA ELLECTRONICA": "ROSA PEÑA - 1972695319",
+            "AL PIE DE LA FIRMA": "ROSA PEÑA - 1972695319"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1972695319",
+            "NOMBRES": "ROSA PEÑA",
+            "FECHA NACIMIENTO": "11/11/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.420.259",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ROSA PEÑA - 1972695319",
+            "AL PIE DE LA FIRMA": "ROSA PEÑA - 1972695319"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9222073",
+            "CEDULA": "1972695319",
+            "NOMBRES": "ROSA PEÑA",
+            "CREDITO": "17.420.259",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "304.381",
+            "E.A": "20.16%",
+            "RECOMPRA O DESEMBOLSO": "3.017.179",
+            "FIRMA ELLECTRONICA": "ROSA PEÑA - 1972695319"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1972695319",
+            "NOMBRES": "ROSA PEÑA",
+            "FIRMA ELLECTRONICA": "ROSA PEÑA - 1972695319"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1972695319",
+            "NOMBRES": "ROSA PEÑA",
+            "FIRMA ELLECTRONICA": "ROSA PEÑA - 1972695319",
+            "AL PIE DE LA FIRMA": "ROSA PEÑA - 1972695319"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSA PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1972695319",
+            "NOMBRES": "ROSA PEÑA",
+            "SALARIO": "2.110.949",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1972695319",
+            "NOMBRES": "ROSA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "3.017.179"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "111263610676",
+            "SOLICITUD": "7123579",
+            "CEDULA": "1311127504",
+            "NOMBRES": "ARTURO RAFAEL FERNÁNDEZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.964.134",
+            "FIRMA ELLECTRONICA": "ARTURO RAFAEL FERNÁNDEZ DÍAZ - 1311127504"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "111263610676",
+            "NOMBRES": "ARTURO RAFAEL FERNÁNDEZ DÍAZ",
+            "CREDITO": "5.524.475",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "262.259",
+            "FIRMA ELLECTRONICA": "ARTURO RAFAEL FERNÁNDEZ DÍAZ - 1311127504",
+            "AL PIE DE LA FIRMA": "ARTURO RAFAEL FERNÁNDEZ DÍAZ - 1311127504"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1311127504",
+            "NOMBRES": "ARTURO RAFAEL FERNÁNDEZ DÍAZ",
+            "FECHA NACIMIENTO": "05/06/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.524.475",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ARTURO RAFAEL FERNÁNDEZ DÍAZ - 1311127504",
+            "AL PIE DE LA FIRMA": "ARTURO RAFAEL FERNÁNDEZ DÍAZ - 1311127504"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7123579",
+            "CEDULA": "1311127504",
+            "NOMBRES": "ARTURO RAFAEL FERNÁNDEZ DÍAZ",
+            "CREDITO": "5.524.475",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "262.259",
+            "E.A": "28.69%",
+            "RECOMPRA O DESEMBOLSO": "4.964.134",
+            "FIRMA ELLECTRONICA": "ARTURO RAFAEL FERNÁNDEZ DÍAZ - 1311127504"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1311127504",
+            "NOMBRES": "ARTURO RAFAEL FERNÁNDEZ DÍAZ",
+            "FIRMA ELLECTRONICA": "ARTURO RAFAEL FERNÁNDEZ DÍAZ - 1311127504"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1311127504",
+            "NOMBRES": "ARTURO RAFAEL FERNÁNDEZ DÍAZ",
+            "FIRMA ELLECTRONICA": "ARTURO RAFAEL FERNÁNDEZ DÍAZ - 1311127504",
+            "AL PIE DE LA FIRMA": "ARTURO RAFAEL FERNÁNDEZ DÍAZ - 1311127504"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARTURO RAFAEL FERNÁNDEZ DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1311127504",
+            "NOMBRES": "ARTURO RAFAEL FERNÁNDEZ DÍAZ",
+            "SALARIO": "3.918.960",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1311127504",
+            "NOMBRES": "ARTURO RAFAEL FERNÁNDEZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.964.134"
+        }
+    }
+]

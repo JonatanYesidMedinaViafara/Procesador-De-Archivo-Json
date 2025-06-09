@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "252334843962",
+            "SOLICITUD": "9730388",
+            "CEDULA": "1148561051",
+            "NOMBRES": "AUGUSTO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.368.350",
+            "FIRMA ELLECTRONICA": "AUGUSTO PÉREZ - 1148561051"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "252334843962",
+            "NOMBRES": "AUGUSTO PÉREZ",
+            "CREDITO": "19.540.018",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "283.385",
+            "FIRMA ELLECTRONICA": "AUGUSTO PÉREZ - 1148561051",
+            "AL PIE DE LA FIRMA": "AUGUSTO PÉREZ - 1148561051"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1148561051",
+            "NOMBRES": "AUGUSTO PÉREZ",
+            "FECHA NACIMIENTO": "05/03/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.540.018",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "AUGUSTO PÉREZ - 1148561051",
+            "AL PIE DE LA FIRMA": "AUGUSTO PÉREZ - 1148561051"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9730388",
+            "CEDULA": "1148561051",
+            "NOMBRES": "AUGUSTO PÉREZ",
+            "CREDITO": "19.540.018",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "283.385",
+            "E.A": "19.54%",
+            "RECOMPRA O DESEMBOLSO": "3.368.350",
+            "FIRMA ELLECTRONICA": "AUGUSTO PÉREZ - 1148561051"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1148561051",
+            "NOMBRES": "AUGUSTO PÉREZ",
+            "FIRMA ELLECTRONICA": "AUGUSTO PÉREZ - 1148561051"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1148561051",
+            "NOMBRES": "AUGUSTO PÉREZ",
+            "FIRMA ELLECTRONICA": "AUGUSTO PÉREZ - 1148561051",
+            "AL PIE DE LA FIRMA": "AUGUSTO PÉREZ - 1148561051"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AUGUSTO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1148561051",
+            "NOMBRES": "AUGUSTO PÉREZ",
+            "SALARIO": "4.792.605",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1148561051",
+            "NOMBRES": "AUGUSTO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.368.350"
+        }
+    }
+]

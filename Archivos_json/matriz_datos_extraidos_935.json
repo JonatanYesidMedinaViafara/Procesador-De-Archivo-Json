@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "242466666090",
+            "SOLICITUD": "3950032",
+            "CEDULA": "1054198650",
+            "NOMBRES": "CAMILO FABIO ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.798.168",
+            "FIRMA ELLECTRONICA": "CAMILO FABIO ROMERO - 1054198650"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "242466666090",
+            "NOMBRES": "CAMILO FABIO ROMERO",
+            "CREDITO": "5.603.897",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "148.621",
+            "FIRMA ELLECTRONICA": "CAMILO FABIO ROMERO - 1054198650",
+            "AL PIE DE LA FIRMA": "CAMILO FABIO ROMERO - 1054198650"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1054198650",
+            "NOMBRES": "CAMILO FABIO ROMERO",
+            "FECHA NACIMIENTO": "25/12/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.603.897",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CAMILO FABIO ROMERO - 1054198650",
+            "AL PIE DE LA FIRMA": "CAMILO FABIO ROMERO - 1054198650"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3950032",
+            "CEDULA": "1054198650",
+            "NOMBRES": "CAMILO FABIO ROMERO",
+            "CREDITO": "5.603.897",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "148.621",
+            "E.A": "24.2%",
+            "RECOMPRA O DESEMBOLSO": "1.798.168",
+            "FIRMA ELLECTRONICA": "CAMILO FABIO ROMERO - 1054198650"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1054198650",
+            "NOMBRES": "CAMILO FABIO ROMERO",
+            "FIRMA ELLECTRONICA": "CAMILO FABIO ROMERO - 1054198650"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1054198650",
+            "NOMBRES": "CAMILO FABIO ROMERO",
+            "FIRMA ELLECTRONICA": "CAMILO FABIO ROMERO - 1054198650",
+            "AL PIE DE LA FIRMA": "CAMILO FABIO ROMERO - 1054198650"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO FABIO ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1054198650",
+            "NOMBRES": "CAMILO FABIO ROMERO",
+            "SALARIO": "2.927.678",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1054198650",
+            "NOMBRES": "CAMILO FABIO ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.798.168"
+        }
+    }
+]

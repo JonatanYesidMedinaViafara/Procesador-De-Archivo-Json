@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "641713680399",
+            "SOLICITUD": "3605700",
+            "CEDULA": "1458059067",
+            "NOMBRES": "FELIPE RAMOS CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.635.720",
+            "FIRMA ELLECTRONICA": "FELIPE RAMOS CASTILLO - 1458059067"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "641713680399",
+            "NOMBRES": "FELIPE RAMOS CASTILLO",
+            "CREDITO": "5.063.664",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "119.877",
+            "FIRMA ELLECTRONICA": "FELIPE RAMOS CASTILLO - 1458059067",
+            "AL PIE DE LA FIRMA": "FELIPE RAMOS CASTILLO - 1458059067"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1458059067",
+            "NOMBRES": "FELIPE RAMOS CASTILLO",
+            "FECHA NACIMIENTO": "14/11/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.063.664",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FELIPE RAMOS CASTILLO - 1458059067",
+            "AL PIE DE LA FIRMA": "FELIPE RAMOS CASTILLO - 1458059067"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3605700",
+            "CEDULA": "1458059067",
+            "NOMBRES": "FELIPE RAMOS CASTILLO",
+            "CREDITO": "5.063.664",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "119.877",
+            "E.A": "18.54%",
+            "RECOMPRA O DESEMBOLSO": "2.635.720",
+            "FIRMA ELLECTRONICA": "FELIPE RAMOS CASTILLO - 1458059067"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1458059067",
+            "NOMBRES": "FELIPE RAMOS CASTILLO",
+            "FIRMA ELLECTRONICA": "FELIPE RAMOS CASTILLO - 1458059067"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1458059067",
+            "NOMBRES": "FELIPE RAMOS CASTILLO",
+            "FIRMA ELLECTRONICA": "FELIPE RAMOS CASTILLO - 1458059067",
+            "AL PIE DE LA FIRMA": "FELIPE RAMOS CASTILLO - 1458059067"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FELIPE RAMOS CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1458059067",
+            "NOMBRES": "FELIPE RAMOS CASTILLO",
+            "SALARIO": "3.179.867",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1458059067",
+            "NOMBRES": "FELIPE RAMOS CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.635.720"
+        }
+    }
+]

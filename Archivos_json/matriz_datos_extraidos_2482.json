@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "902544377215",
+            "SOLICITUD": "7173353",
+            "CEDULA": "1127870501",
+            "NOMBRES": "MANUEL GUERRERO OSORIO",
+            "RECOMPRA O DESEMBOLSO": "4.806.632",
+            "FIRMA ELLECTRONICA": "MANUEL GUERRERO OSORIO - 1127870501"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "902544377215",
+            "NOMBRES": "MANUEL GUERRERO OSORIO",
+            "CREDITO": "12.078.000",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "208.764",
+            "FIRMA ELLECTRONICA": "MANUEL GUERRERO OSORIO - 1127870501",
+            "AL PIE DE LA FIRMA": "MANUEL GUERRERO OSORIO - 1127870501"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1127870501",
+            "NOMBRES": "MANUEL GUERRERO OSORIO",
+            "FECHA NACIMIENTO": "12/02/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.078.000",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MANUEL GUERRERO OSORIO - 1127870501",
+            "AL PIE DE LA FIRMA": "MANUEL GUERRERO OSORIO - 1127870501"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7173353",
+            "CEDULA": "1127870501",
+            "NOMBRES": "MANUEL GUERRERO OSORIO",
+            "CREDITO": "12.078.000",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "208.764",
+            "E.A": "20.08%",
+            "RECOMPRA O DESEMBOLSO": "4.806.632",
+            "FIRMA ELLECTRONICA": "MANUEL GUERRERO OSORIO - 1127870501"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1127870501",
+            "NOMBRES": "MANUEL GUERRERO OSORIO",
+            "FIRMA ELLECTRONICA": "MANUEL GUERRERO OSORIO - 1127870501"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1127870501",
+            "NOMBRES": "MANUEL GUERRERO OSORIO",
+            "FIRMA ELLECTRONICA": "MANUEL GUERRERO OSORIO - 1127870501",
+            "AL PIE DE LA FIRMA": "MANUEL GUERRERO OSORIO - 1127870501"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL GUERRERO OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1127870501",
+            "NOMBRES": "MANUEL GUERRERO OSORIO",
+            "SALARIO": "2.716.727",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1127870501",
+            "NOMBRES": "MANUEL GUERRERO OSORIO",
+            "RECOMPRA O DESEMBOLSO": "4.806.632"
+        }
+    }
+]

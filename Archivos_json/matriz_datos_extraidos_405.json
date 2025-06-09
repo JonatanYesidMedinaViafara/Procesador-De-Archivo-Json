@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "205609841288",
+            "SOLICITUD": "2744498",
+            "CEDULA": "1458240480",
+            "NOMBRES": "INÉS PACHECO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.355.658",
+            "FIRMA ELLECTRONICA": "INÉS PACHECO SÁNCHEZ - 1458240480"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "205609841288",
+            "NOMBRES": "INÉS PACHECO SÁNCHEZ",
+            "CREDITO": "16.941.001",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "391.434",
+            "FIRMA ELLECTRONICA": "INÉS PACHECO SÁNCHEZ - 1458240480",
+            "AL PIE DE LA FIRMA": "INÉS PACHECO SÁNCHEZ - 1458240480"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1458240480",
+            "NOMBRES": "INÉS PACHECO SÁNCHEZ",
+            "FECHA NACIMIENTO": "07/01/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.941.001",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "INÉS PACHECO SÁNCHEZ - 1458240480",
+            "AL PIE DE LA FIRMA": "INÉS PACHECO SÁNCHEZ - 1458240480"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2744498",
+            "CEDULA": "1458240480",
+            "NOMBRES": "INÉS PACHECO SÁNCHEZ",
+            "CREDITO": "16.941.001",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "391.434",
+            "E.A": "18.93%",
+            "RECOMPRA O DESEMBOLSO": "2.355.658",
+            "FIRMA ELLECTRONICA": "INÉS PACHECO SÁNCHEZ - 1458240480"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1458240480",
+            "NOMBRES": "INÉS PACHECO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "INÉS PACHECO SÁNCHEZ - 1458240480"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1458240480",
+            "NOMBRES": "INÉS PACHECO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "INÉS PACHECO SÁNCHEZ - 1458240480",
+            "AL PIE DE LA FIRMA": "INÉS PACHECO SÁNCHEZ - 1458240480"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "INÉS PACHECO SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1458240480",
+            "NOMBRES": "INÉS PACHECO SÁNCHEZ",
+            "SALARIO": "1.876.433",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1458240480",
+            "NOMBRES": "INÉS PACHECO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.355.658"
+        }
+    }
+]

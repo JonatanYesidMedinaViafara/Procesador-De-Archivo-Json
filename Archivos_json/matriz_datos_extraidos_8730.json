@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "265804541952",
+            "SOLICITUD": "7880118",
+            "CEDULA": "1766340827",
+            "NOMBRES": "MARTA NAVARRO VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.630.505",
+            "FIRMA ELLECTRONICA": "MARTA NAVARRO VELÁSQUEZ - 1766340827"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "265804541952",
+            "NOMBRES": "MARTA NAVARRO VELÁSQUEZ",
+            "CREDITO": "10.941.334",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "382.934",
+            "FIRMA ELLECTRONICA": "MARTA NAVARRO VELÁSQUEZ - 1766340827",
+            "AL PIE DE LA FIRMA": "MARTA NAVARRO VELÁSQUEZ - 1766340827"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1766340827",
+            "NOMBRES": "MARTA NAVARRO VELÁSQUEZ",
+            "FECHA NACIMIENTO": "05/04/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.941.334",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARTA NAVARRO VELÁSQUEZ - 1766340827",
+            "AL PIE DE LA FIRMA": "MARTA NAVARRO VELÁSQUEZ - 1766340827"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7880118",
+            "CEDULA": "1766340827",
+            "NOMBRES": "MARTA NAVARRO VELÁSQUEZ",
+            "CREDITO": "10.941.334",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "382.934",
+            "E.A": "25.65%",
+            "RECOMPRA O DESEMBOLSO": "1.630.505",
+            "FIRMA ELLECTRONICA": "MARTA NAVARRO VELÁSQUEZ - 1766340827"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1766340827",
+            "NOMBRES": "MARTA NAVARRO VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "MARTA NAVARRO VELÁSQUEZ - 1766340827"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1766340827",
+            "NOMBRES": "MARTA NAVARRO VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "MARTA NAVARRO VELÁSQUEZ - 1766340827",
+            "AL PIE DE LA FIRMA": "MARTA NAVARRO VELÁSQUEZ - 1766340827"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTA NAVARRO VELÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1766340827",
+            "NOMBRES": "MARTA NAVARRO VELÁSQUEZ",
+            "SALARIO": "1.490.412",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1766340827",
+            "NOMBRES": "MARTA NAVARRO VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.630.505"
+        }
+    }
+]

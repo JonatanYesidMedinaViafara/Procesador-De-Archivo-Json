@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "525077580184",
+            "SOLICITUD": "5557875",
+            "CEDULA": "1906257002",
+            "NOMBRES": "CECILIA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.903.779",
+            "FIRMA ELLECTRONICA": "CECILIA TORRES - 1906257002"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "525077580184",
+            "NOMBRES": "CECILIA TORRES",
+            "CREDITO": "8.721.761",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "291.587",
+            "FIRMA ELLECTRONICA": "CECILIA TORRES - 1906257002",
+            "AL PIE DE LA FIRMA": "CECILIA TORRES - 1906257002"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1906257002",
+            "NOMBRES": "CECILIA TORRES",
+            "FECHA NACIMIENTO": "11/06/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.721.761",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CECILIA TORRES - 1906257002",
+            "AL PIE DE LA FIRMA": "CECILIA TORRES - 1906257002"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5557875",
+            "CEDULA": "1906257002",
+            "NOMBRES": "CECILIA TORRES",
+            "CREDITO": "8.721.761",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "291.587",
+            "E.A": "24.72%",
+            "RECOMPRA O DESEMBOLSO": "4.903.779",
+            "FIRMA ELLECTRONICA": "CECILIA TORRES - 1906257002"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1906257002",
+            "NOMBRES": "CECILIA TORRES",
+            "FIRMA ELLECTRONICA": "CECILIA TORRES - 1906257002"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1906257002",
+            "NOMBRES": "CECILIA TORRES",
+            "FIRMA ELLECTRONICA": "CECILIA TORRES - 1906257002",
+            "AL PIE DE LA FIRMA": "CECILIA TORRES - 1906257002"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1906257002",
+            "NOMBRES": "CECILIA TORRES",
+            "SALARIO": "3.242.737",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1906257002",
+            "NOMBRES": "CECILIA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.903.779"
+        }
+    }
+]

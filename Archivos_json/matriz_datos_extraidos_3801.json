@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "781004240712",
+            "SOLICITUD": "8223711",
+            "CEDULA": "1697671116",
+            "NOMBRES": "CARMEN JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.323.086",
+            "FIRMA ELLECTRONICA": "CARMEN JIMÉNEZ - 1697671116"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "781004240712",
+            "NOMBRES": "CARMEN JIMÉNEZ",
+            "CREDITO": "10.383.849",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "324.167",
+            "FIRMA ELLECTRONICA": "CARMEN JIMÉNEZ - 1697671116",
+            "AL PIE DE LA FIRMA": "CARMEN JIMÉNEZ - 1697671116"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1697671116",
+            "NOMBRES": "CARMEN JIMÉNEZ",
+            "FECHA NACIMIENTO": "15/09/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.383.849",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARMEN JIMÉNEZ - 1697671116",
+            "AL PIE DE LA FIRMA": "CARMEN JIMÉNEZ - 1697671116"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8223711",
+            "CEDULA": "1697671116",
+            "NOMBRES": "CARMEN JIMÉNEZ",
+            "CREDITO": "10.383.849",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "324.167",
+            "E.A": "24.0%",
+            "RECOMPRA O DESEMBOLSO": "4.323.086",
+            "FIRMA ELLECTRONICA": "CARMEN JIMÉNEZ - 1697671116"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1697671116",
+            "NOMBRES": "CARMEN JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "CARMEN JIMÉNEZ - 1697671116"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1697671116",
+            "NOMBRES": "CARMEN JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "CARMEN JIMÉNEZ - 1697671116",
+            "AL PIE DE LA FIRMA": "CARMEN JIMÉNEZ - 1697671116"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1697671116",
+            "NOMBRES": "CARMEN JIMÉNEZ",
+            "SALARIO": "2.101.486",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1697671116",
+            "NOMBRES": "CARMEN JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.323.086"
+        }
+    }
+]

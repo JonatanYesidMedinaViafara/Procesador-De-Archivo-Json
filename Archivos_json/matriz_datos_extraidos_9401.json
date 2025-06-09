@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "685244895991",
+            "SOLICITUD": "2990803",
+            "CEDULA": "1978537765",
+            "NOMBRES": "ALEXANDER QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.734.239",
+            "FIRMA ELLECTRONICA": "ALEXANDER QUINTERO - 1978537765"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "685244895991",
+            "NOMBRES": "ALEXANDER QUINTERO",
+            "CREDITO": "17.937.890",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "141.589",
+            "FIRMA ELLECTRONICA": "ALEXANDER QUINTERO - 1978537765",
+            "AL PIE DE LA FIRMA": "ALEXANDER QUINTERO - 1978537765"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1978537765",
+            "NOMBRES": "ALEXANDER QUINTERO",
+            "FECHA NACIMIENTO": "12/06/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.937.890",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALEXANDER QUINTERO - 1978537765",
+            "AL PIE DE LA FIRMA": "ALEXANDER QUINTERO - 1978537765"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2990803",
+            "CEDULA": "1978537765",
+            "NOMBRES": "ALEXANDER QUINTERO",
+            "CREDITO": "17.937.890",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "141.589",
+            "E.A": "18.45%",
+            "RECOMPRA O DESEMBOLSO": "1.734.239",
+            "FIRMA ELLECTRONICA": "ALEXANDER QUINTERO - 1978537765"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1978537765",
+            "NOMBRES": "ALEXANDER QUINTERO",
+            "FIRMA ELLECTRONICA": "ALEXANDER QUINTERO - 1978537765"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1978537765",
+            "NOMBRES": "ALEXANDER QUINTERO",
+            "FIRMA ELLECTRONICA": "ALEXANDER QUINTERO - 1978537765",
+            "AL PIE DE LA FIRMA": "ALEXANDER QUINTERO - 1978537765"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1978537765",
+            "NOMBRES": "ALEXANDER QUINTERO",
+            "SALARIO": "2.064.002",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1978537765",
+            "NOMBRES": "ALEXANDER QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.734.239"
+        }
+    }
+]

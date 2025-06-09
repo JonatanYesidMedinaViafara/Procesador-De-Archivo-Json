@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "324785459862",
+            "SOLICITUD": "3185585",
+            "CEDULA": "1190508999",
+            "NOMBRES": "FELIPE GIL",
+            "RECOMPRA O DESEMBOLSO": "1.200.421",
+            "FIRMA ELLECTRONICA": "FELIPE GIL - 1190508999"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "324785459862",
+            "NOMBRES": "FELIPE GIL",
+            "CREDITO": "17.117.047",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "218.499",
+            "FIRMA ELLECTRONICA": "FELIPE GIL - 1190508999",
+            "AL PIE DE LA FIRMA": "FELIPE GIL - 1190508999"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1190508999",
+            "NOMBRES": "FELIPE GIL",
+            "FECHA NACIMIENTO": "16/10/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.117.047",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FELIPE GIL - 1190508999",
+            "AL PIE DE LA FIRMA": "FELIPE GIL - 1190508999"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3185585",
+            "CEDULA": "1190508999",
+            "NOMBRES": "FELIPE GIL",
+            "CREDITO": "17.117.047",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "218.499",
+            "E.A": "26.53%",
+            "RECOMPRA O DESEMBOLSO": "1.200.421",
+            "FIRMA ELLECTRONICA": "FELIPE GIL - 1190508999"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1190508999",
+            "NOMBRES": "FELIPE GIL",
+            "FIRMA ELLECTRONICA": "FELIPE GIL - 1190508999"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1190508999",
+            "NOMBRES": "FELIPE GIL",
+            "FIRMA ELLECTRONICA": "FELIPE GIL - 1190508999",
+            "AL PIE DE LA FIRMA": "FELIPE GIL - 1190508999"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FELIPE GIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1190508999",
+            "NOMBRES": "FELIPE GIL",
+            "SALARIO": "1.519.536",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1190508999",
+            "NOMBRES": "FELIPE GIL",
+            "RECOMPRA O DESEMBOLSO": "1.200.421"
+        }
+    }
+]

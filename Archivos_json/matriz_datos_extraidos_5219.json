@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "328272801191",
+            "SOLICITUD": "2353020",
+            "CEDULA": "1397545532",
+            "NOMBRES": "SANDRA PAOLA PARRA GALVIS",
+            "RECOMPRA O DESEMBOLSO": "2.395.793",
+            "FIRMA ELLECTRONICA": "SANDRA PAOLA PARRA GALVIS - 1397545532"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "328272801191",
+            "NOMBRES": "SANDRA PAOLA PARRA GALVIS",
+            "CREDITO": "13.905.127",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "221.623",
+            "FIRMA ELLECTRONICA": "SANDRA PAOLA PARRA GALVIS - 1397545532",
+            "AL PIE DE LA FIRMA": "SANDRA PAOLA PARRA GALVIS - 1397545532"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1397545532",
+            "NOMBRES": "SANDRA PAOLA PARRA GALVIS",
+            "FECHA NACIMIENTO": "01/11/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.905.127",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SANDRA PAOLA PARRA GALVIS - 1397545532",
+            "AL PIE DE LA FIRMA": "SANDRA PAOLA PARRA GALVIS - 1397545532"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2353020",
+            "CEDULA": "1397545532",
+            "NOMBRES": "SANDRA PAOLA PARRA GALVIS",
+            "CREDITO": "13.905.127",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "221.623",
+            "E.A": "26.15%",
+            "RECOMPRA O DESEMBOLSO": "2.395.793",
+            "FIRMA ELLECTRONICA": "SANDRA PAOLA PARRA GALVIS - 1397545532"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1397545532",
+            "NOMBRES": "SANDRA PAOLA PARRA GALVIS",
+            "FIRMA ELLECTRONICA": "SANDRA PAOLA PARRA GALVIS - 1397545532"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1397545532",
+            "NOMBRES": "SANDRA PAOLA PARRA GALVIS",
+            "FIRMA ELLECTRONICA": "SANDRA PAOLA PARRA GALVIS - 1397545532",
+            "AL PIE DE LA FIRMA": "SANDRA PAOLA PARRA GALVIS - 1397545532"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA PAOLA PARRA GALVIS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1397545532",
+            "NOMBRES": "SANDRA PAOLA PARRA GALVIS",
+            "SALARIO": "3.386.533",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1397545532",
+            "NOMBRES": "SANDRA PAOLA PARRA GALVIS",
+            "RECOMPRA O DESEMBOLSO": "2.395.793"
+        }
+    }
+]

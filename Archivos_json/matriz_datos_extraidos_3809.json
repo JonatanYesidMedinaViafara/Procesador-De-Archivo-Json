@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "991587365224",
+            "SOLICITUD": "4780095",
+            "CEDULA": "1860049159",
+            "NOMBRES": "TERESA NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "2.104.913",
+            "FIRMA ELLECTRONICA": "TERESA NAVARRO - 1860049159"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "991587365224",
+            "NOMBRES": "TERESA NAVARRO",
+            "CREDITO": "11.700.734",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "191.659",
+            "FIRMA ELLECTRONICA": "TERESA NAVARRO - 1860049159",
+            "AL PIE DE LA FIRMA": "TERESA NAVARRO - 1860049159"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1860049159",
+            "NOMBRES": "TERESA NAVARRO",
+            "FECHA NACIMIENTO": "26/11/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.700.734",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "TERESA NAVARRO - 1860049159",
+            "AL PIE DE LA FIRMA": "TERESA NAVARRO - 1860049159"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4780095",
+            "CEDULA": "1860049159",
+            "NOMBRES": "TERESA NAVARRO",
+            "CREDITO": "11.700.734",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "191.659",
+            "E.A": "27.56%",
+            "RECOMPRA O DESEMBOLSO": "2.104.913",
+            "FIRMA ELLECTRONICA": "TERESA NAVARRO - 1860049159"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1860049159",
+            "NOMBRES": "TERESA NAVARRO",
+            "FIRMA ELLECTRONICA": "TERESA NAVARRO - 1860049159"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1860049159",
+            "NOMBRES": "TERESA NAVARRO",
+            "FIRMA ELLECTRONICA": "TERESA NAVARRO - 1860049159",
+            "AL PIE DE LA FIRMA": "TERESA NAVARRO - 1860049159"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TERESA NAVARRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1860049159",
+            "NOMBRES": "TERESA NAVARRO",
+            "SALARIO": "3.809.698",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1860049159",
+            "NOMBRES": "TERESA NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "2.104.913"
+        }
+    }
+]

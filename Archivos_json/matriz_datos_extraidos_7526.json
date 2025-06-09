@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "753817859054",
+            "SOLICITUD": "7226599",
+            "CEDULA": "1823913205",
+            "NOMBRES": "EMILCE JAIMES",
+            "RECOMPRA O DESEMBOLSO": "4.897.875",
+            "FIRMA ELLECTRONICA": "EMILCE JAIMES - 1823913205"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "753817859054",
+            "NOMBRES": "EMILCE JAIMES",
+            "CREDITO": "10.448.067",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "158.961",
+            "FIRMA ELLECTRONICA": "EMILCE JAIMES - 1823913205",
+            "AL PIE DE LA FIRMA": "EMILCE JAIMES - 1823913205"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1823913205",
+            "NOMBRES": "EMILCE JAIMES",
+            "FECHA NACIMIENTO": "14/11/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.448.067",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EMILCE JAIMES - 1823913205",
+            "AL PIE DE LA FIRMA": "EMILCE JAIMES - 1823913205"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7226599",
+            "CEDULA": "1823913205",
+            "NOMBRES": "EMILCE JAIMES",
+            "CREDITO": "10.448.067",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "158.961",
+            "E.A": "26.52%",
+            "RECOMPRA O DESEMBOLSO": "4.897.875",
+            "FIRMA ELLECTRONICA": "EMILCE JAIMES - 1823913205"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1823913205",
+            "NOMBRES": "EMILCE JAIMES",
+            "FIRMA ELLECTRONICA": "EMILCE JAIMES - 1823913205"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1823913205",
+            "NOMBRES": "EMILCE JAIMES",
+            "FIRMA ELLECTRONICA": "EMILCE JAIMES - 1823913205",
+            "AL PIE DE LA FIRMA": "EMILCE JAIMES - 1823913205"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMILCE JAIMES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1823913205",
+            "NOMBRES": "EMILCE JAIMES",
+            "SALARIO": "2.035.430",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1823913205",
+            "NOMBRES": "EMILCE JAIMES",
+            "RECOMPRA O DESEMBOLSO": "4.897.875"
+        }
+    }
+]

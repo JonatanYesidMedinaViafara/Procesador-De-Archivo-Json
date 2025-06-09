@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "862744096097",
+            "SOLICITUD": "9373645",
+            "CEDULA": "1343660382",
+            "NOMBRES": "JORGE ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "1.961.163",
+            "FIRMA ELLECTRONICA": "JORGE ÁLVAREZ - 1343660382"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "862744096097",
+            "NOMBRES": "JORGE ÁLVAREZ",
+            "CREDITO": "7.920.441",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "132.852",
+            "FIRMA ELLECTRONICA": "JORGE ÁLVAREZ - 1343660382",
+            "AL PIE DE LA FIRMA": "JORGE ÁLVAREZ - 1343660382"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1343660382",
+            "NOMBRES": "JORGE ÁLVAREZ",
+            "FECHA NACIMIENTO": "06/02/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.920.441",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JORGE ÁLVAREZ - 1343660382",
+            "AL PIE DE LA FIRMA": "JORGE ÁLVAREZ - 1343660382"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9373645",
+            "CEDULA": "1343660382",
+            "NOMBRES": "JORGE ÁLVAREZ",
+            "CREDITO": "7.920.441",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "132.852",
+            "E.A": "18.74%",
+            "RECOMPRA O DESEMBOLSO": "1.961.163",
+            "FIRMA ELLECTRONICA": "JORGE ÁLVAREZ - 1343660382"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1343660382",
+            "NOMBRES": "JORGE ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "JORGE ÁLVAREZ - 1343660382"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1343660382",
+            "NOMBRES": "JORGE ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "JORGE ÁLVAREZ - 1343660382",
+            "AL PIE DE LA FIRMA": "JORGE ÁLVAREZ - 1343660382"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1343660382",
+            "NOMBRES": "JORGE ÁLVAREZ",
+            "SALARIO": "4.419.890",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1343660382",
+            "NOMBRES": "JORGE ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "1.961.163"
+        }
+    }
+]

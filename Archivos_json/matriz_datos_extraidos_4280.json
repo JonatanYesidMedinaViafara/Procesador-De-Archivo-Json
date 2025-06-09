@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "856143912212",
+            "SOLICITUD": "8948612",
+            "CEDULA": "1092662678",
+            "NOMBRES": "JUAN ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "3.505.567",
+            "FIRMA ELLECTRONICA": "JUAN ACOSTA - 1092662678"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "856143912212",
+            "NOMBRES": "JUAN ACOSTA",
+            "CREDITO": "11.721.834",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "281.921",
+            "FIRMA ELLECTRONICA": "JUAN ACOSTA - 1092662678",
+            "AL PIE DE LA FIRMA": "JUAN ACOSTA - 1092662678"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1092662678",
+            "NOMBRES": "JUAN ACOSTA",
+            "FECHA NACIMIENTO": "13/05/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.721.834",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN ACOSTA - 1092662678",
+            "AL PIE DE LA FIRMA": "JUAN ACOSTA - 1092662678"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8948612",
+            "CEDULA": "1092662678",
+            "NOMBRES": "JUAN ACOSTA",
+            "CREDITO": "11.721.834",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "281.921",
+            "E.A": "23.59%",
+            "RECOMPRA O DESEMBOLSO": "3.505.567",
+            "FIRMA ELLECTRONICA": "JUAN ACOSTA - 1092662678"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1092662678",
+            "NOMBRES": "JUAN ACOSTA",
+            "FIRMA ELLECTRONICA": "JUAN ACOSTA - 1092662678"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1092662678",
+            "NOMBRES": "JUAN ACOSTA",
+            "FIRMA ELLECTRONICA": "JUAN ACOSTA - 1092662678",
+            "AL PIE DE LA FIRMA": "JUAN ACOSTA - 1092662678"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1092662678",
+            "NOMBRES": "JUAN ACOSTA",
+            "SALARIO": "3.447.391",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1092662678",
+            "NOMBRES": "JUAN ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "3.505.567"
+        }
+    }
+]

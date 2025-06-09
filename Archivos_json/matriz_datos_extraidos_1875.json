@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "541750334659",
+            "SOLICITUD": "1710346",
+            "CEDULA": "1143567218",
+            "NOMBRES": "ANA SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "4.938.421",
+            "FIRMA ELLECTRONICA": "ANA SANDOVAL - 1143567218"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "541750334659",
+            "NOMBRES": "ANA SANDOVAL",
+            "CREDITO": "16.552.758",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "361.675",
+            "FIRMA ELLECTRONICA": "ANA SANDOVAL - 1143567218",
+            "AL PIE DE LA FIRMA": "ANA SANDOVAL - 1143567218"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1143567218",
+            "NOMBRES": "ANA SANDOVAL",
+            "FECHA NACIMIENTO": "11/03/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.552.758",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANA SANDOVAL - 1143567218",
+            "AL PIE DE LA FIRMA": "ANA SANDOVAL - 1143567218"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1710346",
+            "CEDULA": "1143567218",
+            "NOMBRES": "ANA SANDOVAL",
+            "CREDITO": "16.552.758",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "361.675",
+            "E.A": "19.1%",
+            "RECOMPRA O DESEMBOLSO": "4.938.421",
+            "FIRMA ELLECTRONICA": "ANA SANDOVAL - 1143567218"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1143567218",
+            "NOMBRES": "ANA SANDOVAL",
+            "FIRMA ELLECTRONICA": "ANA SANDOVAL - 1143567218"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1143567218",
+            "NOMBRES": "ANA SANDOVAL",
+            "FIRMA ELLECTRONICA": "ANA SANDOVAL - 1143567218",
+            "AL PIE DE LA FIRMA": "ANA SANDOVAL - 1143567218"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA SANDOVAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1143567218",
+            "NOMBRES": "ANA SANDOVAL",
+            "SALARIO": "2.002.897",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1143567218",
+            "NOMBRES": "ANA SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "4.938.421"
+        }
+    }
+]

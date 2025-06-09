@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "778964861495",
+            "SOLICITUD": "2947048",
+            "CEDULA": "1690436514",
+            "NOMBRES": "EIDER RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.492.062",
+            "FIRMA ELLECTRONICA": "EIDER RODRÍGUEZ - 1690436514"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "778964861495",
+            "NOMBRES": "EIDER RODRÍGUEZ",
+            "CREDITO": "6.542.624",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "325.327",
+            "FIRMA ELLECTRONICA": "EIDER RODRÍGUEZ - 1690436514",
+            "AL PIE DE LA FIRMA": "EIDER RODRÍGUEZ - 1690436514"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1690436514",
+            "NOMBRES": "EIDER RODRÍGUEZ",
+            "FECHA NACIMIENTO": "12/07/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.542.624",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "EIDER RODRÍGUEZ - 1690436514",
+            "AL PIE DE LA FIRMA": "EIDER RODRÍGUEZ - 1690436514"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2947048",
+            "CEDULA": "1690436514",
+            "NOMBRES": "EIDER RODRÍGUEZ",
+            "CREDITO": "6.542.624",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "325.327",
+            "E.A": "28.13%",
+            "RECOMPRA O DESEMBOLSO": "3.492.062",
+            "FIRMA ELLECTRONICA": "EIDER RODRÍGUEZ - 1690436514"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1690436514",
+            "NOMBRES": "EIDER RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "EIDER RODRÍGUEZ - 1690436514"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1690436514",
+            "NOMBRES": "EIDER RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "EIDER RODRÍGUEZ - 1690436514",
+            "AL PIE DE LA FIRMA": "EIDER RODRÍGUEZ - 1690436514"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EIDER RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1690436514",
+            "NOMBRES": "EIDER RODRÍGUEZ",
+            "SALARIO": "2.914.781",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1690436514",
+            "NOMBRES": "EIDER RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.492.062"
+        }
+    }
+]

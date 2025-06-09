@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "293629960486",
+            "SOLICITUD": "8189390",
+            "CEDULA": "1409045244",
+            "NOMBRES": "CARMEN ÁLVAREZ GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.477.059",
+            "FIRMA ELLECTRONICA": "CARMEN ÁLVAREZ GONZÁLEZ - 1409045244"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "293629960486",
+            "NOMBRES": "CARMEN ÁLVAREZ GONZÁLEZ",
+            "CREDITO": "19.060.249",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.789",
+            "FIRMA ELLECTRONICA": "CARMEN ÁLVAREZ GONZÁLEZ - 1409045244",
+            "AL PIE DE LA FIRMA": "CARMEN ÁLVAREZ GONZÁLEZ - 1409045244"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1409045244",
+            "NOMBRES": "CARMEN ÁLVAREZ GONZÁLEZ",
+            "FECHA NACIMIENTO": "15/06/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.060.249",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARMEN ÁLVAREZ GONZÁLEZ - 1409045244",
+            "AL PIE DE LA FIRMA": "CARMEN ÁLVAREZ GONZÁLEZ - 1409045244"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8189390",
+            "CEDULA": "1409045244",
+            "NOMBRES": "CARMEN ÁLVAREZ GONZÁLEZ",
+            "CREDITO": "19.060.249",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.789",
+            "E.A": "19.65%",
+            "RECOMPRA O DESEMBOLSO": "4.477.059",
+            "FIRMA ELLECTRONICA": "CARMEN ÁLVAREZ GONZÁLEZ - 1409045244"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1409045244",
+            "NOMBRES": "CARMEN ÁLVAREZ GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CARMEN ÁLVAREZ GONZÁLEZ - 1409045244"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1409045244",
+            "NOMBRES": "CARMEN ÁLVAREZ GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CARMEN ÁLVAREZ GONZÁLEZ - 1409045244",
+            "AL PIE DE LA FIRMA": "CARMEN ÁLVAREZ GONZÁLEZ - 1409045244"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN ÁLVAREZ GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1409045244",
+            "NOMBRES": "CARMEN ÁLVAREZ GONZÁLEZ",
+            "SALARIO": "3.764.202",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1409045244",
+            "NOMBRES": "CARMEN ÁLVAREZ GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.477.059"
+        }
+    }
+]

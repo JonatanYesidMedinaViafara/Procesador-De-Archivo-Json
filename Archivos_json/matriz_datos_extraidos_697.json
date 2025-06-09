@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "920592563662",
+            "SOLICITUD": "4340157",
+            "CEDULA": "1533801076",
+            "NOMBRES": "NELSY VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.786.829",
+            "FIRMA ELLECTRONICA": "NELSY VALENCIA - 1533801076"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "920592563662",
+            "NOMBRES": "NELSY VALENCIA",
+            "CREDITO": "10.409.150",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "316.046",
+            "FIRMA ELLECTRONICA": "NELSY VALENCIA - 1533801076",
+            "AL PIE DE LA FIRMA": "NELSY VALENCIA - 1533801076"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1533801076",
+            "NOMBRES": "NELSY VALENCIA",
+            "FECHA NACIMIENTO": "24/05/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.409.150",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "NELSY VALENCIA - 1533801076",
+            "AL PIE DE LA FIRMA": "NELSY VALENCIA - 1533801076"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4340157",
+            "CEDULA": "1533801076",
+            "NOMBRES": "NELSY VALENCIA",
+            "CREDITO": "10.409.150",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "316.046",
+            "E.A": "21.12%",
+            "RECOMPRA O DESEMBOLSO": "2.786.829",
+            "FIRMA ELLECTRONICA": "NELSY VALENCIA - 1533801076"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1533801076",
+            "NOMBRES": "NELSY VALENCIA",
+            "FIRMA ELLECTRONICA": "NELSY VALENCIA - 1533801076"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1533801076",
+            "NOMBRES": "NELSY VALENCIA",
+            "FIRMA ELLECTRONICA": "NELSY VALENCIA - 1533801076",
+            "AL PIE DE LA FIRMA": "NELSY VALENCIA - 1533801076"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NELSY VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1533801076",
+            "NOMBRES": "NELSY VALENCIA",
+            "SALARIO": "2.075.953",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1533801076",
+            "NOMBRES": "NELSY VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.786.829"
+        }
+    }
+]

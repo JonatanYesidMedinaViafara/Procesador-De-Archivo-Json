@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "921361827420",
+            "SOLICITUD": "2711421",
+            "CEDULA": "1108442367",
+            "NOMBRES": "JAIME ANDRÉS ÁLVAREZ CHAPARRO",
+            "RECOMPRA O DESEMBOLSO": "3.223.475",
+            "FIRMA ELLECTRONICA": "JAIME ANDRÉS ÁLVAREZ CHAPARRO - 1108442367"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "921361827420",
+            "NOMBRES": "JAIME ANDRÉS ÁLVAREZ CHAPARRO",
+            "CREDITO": "8.366.503",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "122.317",
+            "FIRMA ELLECTRONICA": "JAIME ANDRÉS ÁLVAREZ CHAPARRO - 1108442367",
+            "AL PIE DE LA FIRMA": "JAIME ANDRÉS ÁLVAREZ CHAPARRO - 1108442367"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1108442367",
+            "NOMBRES": "JAIME ANDRÉS ÁLVAREZ CHAPARRO",
+            "FECHA NACIMIENTO": "17/12/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.366.503",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JAIME ANDRÉS ÁLVAREZ CHAPARRO - 1108442367",
+            "AL PIE DE LA FIRMA": "JAIME ANDRÉS ÁLVAREZ CHAPARRO - 1108442367"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2711421",
+            "CEDULA": "1108442367",
+            "NOMBRES": "JAIME ANDRÉS ÁLVAREZ CHAPARRO",
+            "CREDITO": "8.366.503",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "122.317",
+            "E.A": "19.34%",
+            "RECOMPRA O DESEMBOLSO": "3.223.475",
+            "FIRMA ELLECTRONICA": "JAIME ANDRÉS ÁLVAREZ CHAPARRO - 1108442367"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1108442367",
+            "NOMBRES": "JAIME ANDRÉS ÁLVAREZ CHAPARRO",
+            "FIRMA ELLECTRONICA": "JAIME ANDRÉS ÁLVAREZ CHAPARRO - 1108442367"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1108442367",
+            "NOMBRES": "JAIME ANDRÉS ÁLVAREZ CHAPARRO",
+            "FIRMA ELLECTRONICA": "JAIME ANDRÉS ÁLVAREZ CHAPARRO - 1108442367",
+            "AL PIE DE LA FIRMA": "JAIME ANDRÉS ÁLVAREZ CHAPARRO - 1108442367"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIME ANDRÉS ÁLVAREZ CHAPARRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1108442367",
+            "NOMBRES": "JAIME ANDRÉS ÁLVAREZ CHAPARRO",
+            "SALARIO": "4.082.984",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1108442367",
+            "NOMBRES": "JAIME ANDRÉS ÁLVAREZ CHAPARRO",
+            "RECOMPRA O DESEMBOLSO": "3.223.475"
+        }
+    }
+]

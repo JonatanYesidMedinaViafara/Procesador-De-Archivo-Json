@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "449677900681",
+            "SOLICITUD": "7185063",
+            "CEDULA": "1812209651",
+            "NOMBRES": "ESPERANZA ROA",
+            "RECOMPRA O DESEMBOLSO": "4.079.574",
+            "FIRMA ELLECTRONICA": "ESPERANZA ROA - 1812209651"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "449677900681",
+            "NOMBRES": "ESPERANZA ROA",
+            "CREDITO": "18.321.553",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "204.831",
+            "FIRMA ELLECTRONICA": "ESPERANZA ROA - 1812209651",
+            "AL PIE DE LA FIRMA": "ESPERANZA ROA - 1812209651"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1812209651",
+            "NOMBRES": "ESPERANZA ROA",
+            "FECHA NACIMIENTO": "16/08/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.321.553",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ESPERANZA ROA - 1812209651",
+            "AL PIE DE LA FIRMA": "ESPERANZA ROA - 1812209651"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7185063",
+            "CEDULA": "1812209651",
+            "NOMBRES": "ESPERANZA ROA",
+            "CREDITO": "18.321.553",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "204.831",
+            "E.A": "26.12%",
+            "RECOMPRA O DESEMBOLSO": "4.079.574",
+            "FIRMA ELLECTRONICA": "ESPERANZA ROA - 1812209651"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1812209651",
+            "NOMBRES": "ESPERANZA ROA",
+            "FIRMA ELLECTRONICA": "ESPERANZA ROA - 1812209651"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1812209651",
+            "NOMBRES": "ESPERANZA ROA",
+            "FIRMA ELLECTRONICA": "ESPERANZA ROA - 1812209651",
+            "AL PIE DE LA FIRMA": "ESPERANZA ROA - 1812209651"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESPERANZA ROA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1812209651",
+            "NOMBRES": "ESPERANZA ROA",
+            "SALARIO": "2.270.225",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1812209651",
+            "NOMBRES": "ESPERANZA ROA",
+            "RECOMPRA O DESEMBOLSO": "4.079.574"
+        }
+    }
+]

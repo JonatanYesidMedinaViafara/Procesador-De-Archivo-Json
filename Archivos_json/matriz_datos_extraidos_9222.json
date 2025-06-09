@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "220317498220",
+            "SOLICITUD": "5552554",
+            "CEDULA": "1813371059",
+            "NOMBRES": "JEAN ARROYO MURCIA",
+            "RECOMPRA O DESEMBOLSO": "1.022.904",
+            "FIRMA ELLECTRONICA": "JEAN ARROYO MURCIA - 1813371059"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "220317498220",
+            "NOMBRES": "JEAN ARROYO MURCIA",
+            "CREDITO": "5.329.612",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "278.119",
+            "FIRMA ELLECTRONICA": "JEAN ARROYO MURCIA - 1813371059",
+            "AL PIE DE LA FIRMA": "JEAN ARROYO MURCIA - 1813371059"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1813371059",
+            "NOMBRES": "JEAN ARROYO MURCIA",
+            "FECHA NACIMIENTO": "28/07/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.329.612",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JEAN ARROYO MURCIA - 1813371059",
+            "AL PIE DE LA FIRMA": "JEAN ARROYO MURCIA - 1813371059"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5552554",
+            "CEDULA": "1813371059",
+            "NOMBRES": "JEAN ARROYO MURCIA",
+            "CREDITO": "5.329.612",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "278.119",
+            "E.A": "18.53%",
+            "RECOMPRA O DESEMBOLSO": "1.022.904",
+            "FIRMA ELLECTRONICA": "JEAN ARROYO MURCIA - 1813371059"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1813371059",
+            "NOMBRES": "JEAN ARROYO MURCIA",
+            "FIRMA ELLECTRONICA": "JEAN ARROYO MURCIA - 1813371059"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1813371059",
+            "NOMBRES": "JEAN ARROYO MURCIA",
+            "FIRMA ELLECTRONICA": "JEAN ARROYO MURCIA - 1813371059",
+            "AL PIE DE LA FIRMA": "JEAN ARROYO MURCIA - 1813371059"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JEAN ARROYO MURCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1813371059",
+            "NOMBRES": "JEAN ARROYO MURCIA",
+            "SALARIO": "4.036.639",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1813371059",
+            "NOMBRES": "JEAN ARROYO MURCIA",
+            "RECOMPRA O DESEMBOLSO": "1.022.904"
+        }
+    }
+]

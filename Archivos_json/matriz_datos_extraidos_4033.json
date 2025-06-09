@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "251854595996",
+            "SOLICITUD": "5154086",
+            "CEDULA": "1818327310",
+            "NOMBRES": "PILAR SANDRA HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.139.515",
+            "FIRMA ELLECTRONICA": "PILAR SANDRA HURTADO - 1818327310"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "251854595996",
+            "NOMBRES": "PILAR SANDRA HURTADO",
+            "CREDITO": "5.432.774",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "317.964",
+            "FIRMA ELLECTRONICA": "PILAR SANDRA HURTADO - 1818327310",
+            "AL PIE DE LA FIRMA": "PILAR SANDRA HURTADO - 1818327310"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1818327310",
+            "NOMBRES": "PILAR SANDRA HURTADO",
+            "FECHA NACIMIENTO": "21/12/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.432.774",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "PILAR SANDRA HURTADO - 1818327310",
+            "AL PIE DE LA FIRMA": "PILAR SANDRA HURTADO - 1818327310"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5154086",
+            "CEDULA": "1818327310",
+            "NOMBRES": "PILAR SANDRA HURTADO",
+            "CREDITO": "5.432.774",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "317.964",
+            "E.A": "28.87%",
+            "RECOMPRA O DESEMBOLSO": "3.139.515",
+            "FIRMA ELLECTRONICA": "PILAR SANDRA HURTADO - 1818327310"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1818327310",
+            "NOMBRES": "PILAR SANDRA HURTADO",
+            "FIRMA ELLECTRONICA": "PILAR SANDRA HURTADO - 1818327310"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1818327310",
+            "NOMBRES": "PILAR SANDRA HURTADO",
+            "FIRMA ELLECTRONICA": "PILAR SANDRA HURTADO - 1818327310",
+            "AL PIE DE LA FIRMA": "PILAR SANDRA HURTADO - 1818327310"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PILAR SANDRA HURTADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1818327310",
+            "NOMBRES": "PILAR SANDRA HURTADO",
+            "SALARIO": "1.836.966",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1818327310",
+            "NOMBRES": "PILAR SANDRA HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.139.515"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "934301076149",
+            "SOLICITUD": "2712480",
+            "CEDULA": "1267345293",
+            "NOMBRES": "OMAR FELIPE GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.311.023",
+            "FIRMA ELLECTRONICA": "OMAR FELIPE GÓMEZ - 1267345293"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "934301076149",
+            "NOMBRES": "OMAR FELIPE GÓMEZ",
+            "CREDITO": "18.152.278",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "167.773",
+            "FIRMA ELLECTRONICA": "OMAR FELIPE GÓMEZ - 1267345293",
+            "AL PIE DE LA FIRMA": "OMAR FELIPE GÓMEZ - 1267345293"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1267345293",
+            "NOMBRES": "OMAR FELIPE GÓMEZ",
+            "FECHA NACIMIENTO": "25/01/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.152.278",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "OMAR FELIPE GÓMEZ - 1267345293",
+            "AL PIE DE LA FIRMA": "OMAR FELIPE GÓMEZ - 1267345293"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2712480",
+            "CEDULA": "1267345293",
+            "NOMBRES": "OMAR FELIPE GÓMEZ",
+            "CREDITO": "18.152.278",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "167.773",
+            "E.A": "23.29%",
+            "RECOMPRA O DESEMBOLSO": "4.311.023",
+            "FIRMA ELLECTRONICA": "OMAR FELIPE GÓMEZ - 1267345293"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1267345293",
+            "NOMBRES": "OMAR FELIPE GÓMEZ",
+            "FIRMA ELLECTRONICA": "OMAR FELIPE GÓMEZ - 1267345293"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1267345293",
+            "NOMBRES": "OMAR FELIPE GÓMEZ",
+            "FIRMA ELLECTRONICA": "OMAR FELIPE GÓMEZ - 1267345293",
+            "AL PIE DE LA FIRMA": "OMAR FELIPE GÓMEZ - 1267345293"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR FELIPE GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1267345293",
+            "NOMBRES": "OMAR FELIPE GÓMEZ",
+            "SALARIO": "3.684.638",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1267345293",
+            "NOMBRES": "OMAR FELIPE GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.311.023"
+        }
+    }
+]

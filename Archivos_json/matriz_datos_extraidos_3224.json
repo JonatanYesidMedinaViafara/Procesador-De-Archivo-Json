@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "898477392363",
+            "SOLICITUD": "5873580",
+            "CEDULA": "1932929501",
+            "NOMBRES": "JAIR ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.194.786",
+            "FIRMA ELLECTRONICA": "JAIR ROJAS - 1932929501"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "898477392363",
+            "NOMBRES": "JAIR ROJAS",
+            "CREDITO": "8.024.920",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "259.355",
+            "FIRMA ELLECTRONICA": "JAIR ROJAS - 1932929501",
+            "AL PIE DE LA FIRMA": "JAIR ROJAS - 1932929501"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1932929501",
+            "NOMBRES": "JAIR ROJAS",
+            "FECHA NACIMIENTO": "04/01/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.024.920",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAIR ROJAS - 1932929501",
+            "AL PIE DE LA FIRMA": "JAIR ROJAS - 1932929501"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5873580",
+            "CEDULA": "1932929501",
+            "NOMBRES": "JAIR ROJAS",
+            "CREDITO": "8.024.920",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "259.355",
+            "E.A": "27.52%",
+            "RECOMPRA O DESEMBOLSO": "4.194.786",
+            "FIRMA ELLECTRONICA": "JAIR ROJAS - 1932929501"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1932929501",
+            "NOMBRES": "JAIR ROJAS",
+            "FIRMA ELLECTRONICA": "JAIR ROJAS - 1932929501"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1932929501",
+            "NOMBRES": "JAIR ROJAS",
+            "FIRMA ELLECTRONICA": "JAIR ROJAS - 1932929501",
+            "AL PIE DE LA FIRMA": "JAIR ROJAS - 1932929501"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIR ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1932929501",
+            "NOMBRES": "JAIR ROJAS",
+            "SALARIO": "4.809.105",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1932929501",
+            "NOMBRES": "JAIR ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.194.786"
+        }
+    }
+]

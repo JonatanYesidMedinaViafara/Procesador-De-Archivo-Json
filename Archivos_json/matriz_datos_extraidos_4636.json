@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "915099071946",
+            "SOLICITUD": "7839706",
+            "CEDULA": "1074648871",
+            "NOMBRES": "JUAN RODRÍGUEZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.195.860",
+            "FIRMA ELLECTRONICA": "JUAN RODRÍGUEZ LÓPEZ - 1074648871"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "915099071946",
+            "NOMBRES": "JUAN RODRÍGUEZ LÓPEZ",
+            "CREDITO": "11.810.749",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "185.098",
+            "FIRMA ELLECTRONICA": "JUAN RODRÍGUEZ LÓPEZ - 1074648871",
+            "AL PIE DE LA FIRMA": "JUAN RODRÍGUEZ LÓPEZ - 1074648871"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1074648871",
+            "NOMBRES": "JUAN RODRÍGUEZ LÓPEZ",
+            "FECHA NACIMIENTO": "28/02/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.810.749",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN RODRÍGUEZ LÓPEZ - 1074648871",
+            "AL PIE DE LA FIRMA": "JUAN RODRÍGUEZ LÓPEZ - 1074648871"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7839706",
+            "CEDULA": "1074648871",
+            "NOMBRES": "JUAN RODRÍGUEZ LÓPEZ",
+            "CREDITO": "11.810.749",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "185.098",
+            "E.A": "27.37%",
+            "RECOMPRA O DESEMBOLSO": "4.195.860",
+            "FIRMA ELLECTRONICA": "JUAN RODRÍGUEZ LÓPEZ - 1074648871"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1074648871",
+            "NOMBRES": "JUAN RODRÍGUEZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "JUAN RODRÍGUEZ LÓPEZ - 1074648871"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1074648871",
+            "NOMBRES": "JUAN RODRÍGUEZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "JUAN RODRÍGUEZ LÓPEZ - 1074648871",
+            "AL PIE DE LA FIRMA": "JUAN RODRÍGUEZ LÓPEZ - 1074648871"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN RODRÍGUEZ LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1074648871",
+            "NOMBRES": "JUAN RODRÍGUEZ LÓPEZ",
+            "SALARIO": "4.079.246",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1074648871",
+            "NOMBRES": "JUAN RODRÍGUEZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.195.860"
+        }
+    }
+]

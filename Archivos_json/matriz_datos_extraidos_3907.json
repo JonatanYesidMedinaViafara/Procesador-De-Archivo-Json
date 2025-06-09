@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "373522303940",
+            "SOLICITUD": "5811803",
+            "CEDULA": "1180127933",
+            "NOMBRES": "MILENA DUQUE",
+            "RECOMPRA O DESEMBOLSO": "1.056.959",
+            "FIRMA ELLECTRONICA": "MILENA DUQUE - 1180127933"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "373522303940",
+            "NOMBRES": "MILENA DUQUE",
+            "CREDITO": "15.383.110",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "278.319",
+            "FIRMA ELLECTRONICA": "MILENA DUQUE - 1180127933",
+            "AL PIE DE LA FIRMA": "MILENA DUQUE - 1180127933"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1180127933",
+            "NOMBRES": "MILENA DUQUE",
+            "FECHA NACIMIENTO": "03/09/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.383.110",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MILENA DUQUE - 1180127933",
+            "AL PIE DE LA FIRMA": "MILENA DUQUE - 1180127933"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5811803",
+            "CEDULA": "1180127933",
+            "NOMBRES": "MILENA DUQUE",
+            "CREDITO": "15.383.110",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "278.319",
+            "E.A": "24.79%",
+            "RECOMPRA O DESEMBOLSO": "1.056.959",
+            "FIRMA ELLECTRONICA": "MILENA DUQUE - 1180127933"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1180127933",
+            "NOMBRES": "MILENA DUQUE",
+            "FIRMA ELLECTRONICA": "MILENA DUQUE - 1180127933"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1180127933",
+            "NOMBRES": "MILENA DUQUE",
+            "FIRMA ELLECTRONICA": "MILENA DUQUE - 1180127933",
+            "AL PIE DE LA FIRMA": "MILENA DUQUE - 1180127933"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA DUQUE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1180127933",
+            "NOMBRES": "MILENA DUQUE",
+            "SALARIO": "3.750.234",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1180127933",
+            "NOMBRES": "MILENA DUQUE",
+            "RECOMPRA O DESEMBOLSO": "1.056.959"
+        }
+    }
+]

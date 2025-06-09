@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "293032874781",
+            "SOLICITUD": "9288273",
+            "CEDULA": "1904634921",
+            "NOMBRES": "MATILDE ANA ÁNGEL PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.549.055",
+            "FIRMA ELLECTRONICA": "MATILDE ANA ÁNGEL PÉREZ - 1904634921"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "293032874781",
+            "NOMBRES": "MATILDE ANA ÁNGEL PÉREZ",
+            "CREDITO": "9.436.529",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "279.48",
+            "FIRMA ELLECTRONICA": "MATILDE ANA ÁNGEL PÉREZ - 1904634921",
+            "AL PIE DE LA FIRMA": "MATILDE ANA ÁNGEL PÉREZ - 1904634921"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1904634921",
+            "NOMBRES": "MATILDE ANA ÁNGEL PÉREZ",
+            "FECHA NACIMIENTO": "10/12/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.436.529",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MATILDE ANA ÁNGEL PÉREZ - 1904634921",
+            "AL PIE DE LA FIRMA": "MATILDE ANA ÁNGEL PÉREZ - 1904634921"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9288273",
+            "CEDULA": "1904634921",
+            "NOMBRES": "MATILDE ANA ÁNGEL PÉREZ",
+            "CREDITO": "9.436.529",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "279.48",
+            "E.A": "18.15%",
+            "RECOMPRA O DESEMBOLSO": "4.549.055",
+            "FIRMA ELLECTRONICA": "MATILDE ANA ÁNGEL PÉREZ - 1904634921"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1904634921",
+            "NOMBRES": "MATILDE ANA ÁNGEL PÉREZ",
+            "FIRMA ELLECTRONICA": "MATILDE ANA ÁNGEL PÉREZ - 1904634921"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1904634921",
+            "NOMBRES": "MATILDE ANA ÁNGEL PÉREZ",
+            "FIRMA ELLECTRONICA": "MATILDE ANA ÁNGEL PÉREZ - 1904634921",
+            "AL PIE DE LA FIRMA": "MATILDE ANA ÁNGEL PÉREZ - 1904634921"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MATILDE ANA ÁNGEL PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1904634921",
+            "NOMBRES": "MATILDE ANA ÁNGEL PÉREZ",
+            "SALARIO": "4.564.331",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1904634921",
+            "NOMBRES": "MATILDE ANA ÁNGEL PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.549.055"
+        }
+    }
+]

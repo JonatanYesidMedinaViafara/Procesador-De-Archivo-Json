@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "396207538142",
+            "SOLICITUD": "9356431",
+            "CEDULA": "1380658401",
+            "NOMBRES": "FERNANDA BLANCO",
+            "RECOMPRA O DESEMBOLSO": "2.081.075",
+            "FIRMA ELLECTRONICA": "FERNANDA BLANCO - 1380658401"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "396207538142",
+            "NOMBRES": "FERNANDA BLANCO",
+            "CREDITO": "10.976.127",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "182.484",
+            "FIRMA ELLECTRONICA": "FERNANDA BLANCO - 1380658401",
+            "AL PIE DE LA FIRMA": "FERNANDA BLANCO - 1380658401"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1380658401",
+            "NOMBRES": "FERNANDA BLANCO",
+            "FECHA NACIMIENTO": "04/10/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.976.127",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNANDA BLANCO - 1380658401",
+            "AL PIE DE LA FIRMA": "FERNANDA BLANCO - 1380658401"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9356431",
+            "CEDULA": "1380658401",
+            "NOMBRES": "FERNANDA BLANCO",
+            "CREDITO": "10.976.127",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "182.484",
+            "E.A": "19.74%",
+            "RECOMPRA O DESEMBOLSO": "2.081.075",
+            "FIRMA ELLECTRONICA": "FERNANDA BLANCO - 1380658401"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1380658401",
+            "NOMBRES": "FERNANDA BLANCO",
+            "FIRMA ELLECTRONICA": "FERNANDA BLANCO - 1380658401"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1380658401",
+            "NOMBRES": "FERNANDA BLANCO",
+            "FIRMA ELLECTRONICA": "FERNANDA BLANCO - 1380658401",
+            "AL PIE DE LA FIRMA": "FERNANDA BLANCO - 1380658401"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDA BLANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1380658401",
+            "NOMBRES": "FERNANDA BLANCO",
+            "SALARIO": "3.149.582",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1380658401",
+            "NOMBRES": "FERNANDA BLANCO",
+            "RECOMPRA O DESEMBOLSO": "2.081.075"
+        }
+    }
+]

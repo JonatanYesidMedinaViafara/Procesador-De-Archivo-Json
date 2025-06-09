@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "411708044062",
+            "SOLICITUD": "5065666",
+            "CEDULA": "1012088423",
+            "NOMBRES": "ANA PRADA",
+            "RECOMPRA O DESEMBOLSO": "1.090.825",
+            "FIRMA ELLECTRONICA": "ANA PRADA - 1012088423"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "411708044062",
+            "NOMBRES": "ANA PRADA",
+            "CREDITO": "14.463.893",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "358.996",
+            "FIRMA ELLECTRONICA": "ANA PRADA - 1012088423",
+            "AL PIE DE LA FIRMA": "ANA PRADA - 1012088423"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1012088423",
+            "NOMBRES": "ANA PRADA",
+            "FECHA NACIMIENTO": "08/03/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.463.893",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANA PRADA - 1012088423",
+            "AL PIE DE LA FIRMA": "ANA PRADA - 1012088423"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5065666",
+            "CEDULA": "1012088423",
+            "NOMBRES": "ANA PRADA",
+            "CREDITO": "14.463.893",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "358.996",
+            "E.A": "23.78%",
+            "RECOMPRA O DESEMBOLSO": "1.090.825",
+            "FIRMA ELLECTRONICA": "ANA PRADA - 1012088423"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1012088423",
+            "NOMBRES": "ANA PRADA",
+            "FIRMA ELLECTRONICA": "ANA PRADA - 1012088423"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1012088423",
+            "NOMBRES": "ANA PRADA",
+            "FIRMA ELLECTRONICA": "ANA PRADA - 1012088423",
+            "AL PIE DE LA FIRMA": "ANA PRADA - 1012088423"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA PRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1012088423",
+            "NOMBRES": "ANA PRADA",
+            "SALARIO": "2.799.263",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1012088423",
+            "NOMBRES": "ANA PRADA",
+            "RECOMPRA O DESEMBOLSO": "1.090.825"
+        }
+    }
+]

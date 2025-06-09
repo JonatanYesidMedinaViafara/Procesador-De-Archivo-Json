@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "613164261104",
+            "SOLICITUD": "3849586",
+            "CEDULA": "1195273091",
+            "NOMBRES": "YAMILE ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.159.165",
+            "FIRMA ELLECTRONICA": "YAMILE ROJAS - 1195273091"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "613164261104",
+            "NOMBRES": "YAMILE ROJAS",
+            "CREDITO": "13.790.313",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "194.539",
+            "FIRMA ELLECTRONICA": "YAMILE ROJAS - 1195273091",
+            "AL PIE DE LA FIRMA": "YAMILE ROJAS - 1195273091"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1195273091",
+            "NOMBRES": "YAMILE ROJAS",
+            "FECHA NACIMIENTO": "02/03/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.790.313",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "YAMILE ROJAS - 1195273091",
+            "AL PIE DE LA FIRMA": "YAMILE ROJAS - 1195273091"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3849586",
+            "CEDULA": "1195273091",
+            "NOMBRES": "YAMILE ROJAS",
+            "CREDITO": "13.790.313",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "194.539",
+            "E.A": "26.66%",
+            "RECOMPRA O DESEMBOLSO": "4.159.165",
+            "FIRMA ELLECTRONICA": "YAMILE ROJAS - 1195273091"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1195273091",
+            "NOMBRES": "YAMILE ROJAS",
+            "FIRMA ELLECTRONICA": "YAMILE ROJAS - 1195273091"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1195273091",
+            "NOMBRES": "YAMILE ROJAS",
+            "FIRMA ELLECTRONICA": "YAMILE ROJAS - 1195273091",
+            "AL PIE DE LA FIRMA": "YAMILE ROJAS - 1195273091"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YAMILE ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1195273091",
+            "NOMBRES": "YAMILE ROJAS",
+            "SALARIO": "2.718.947",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1195273091",
+            "NOMBRES": "YAMILE ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.159.165"
+        }
+    }
+]

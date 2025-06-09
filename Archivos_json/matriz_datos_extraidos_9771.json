@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "257437972308",
+            "SOLICITUD": "5439406",
+            "CEDULA": "1237858354",
+            "NOMBRES": "JAVIER LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.945.724",
+            "FIRMA ELLECTRONICA": "JAVIER LÓPEZ - 1237858354"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "257437972308",
+            "NOMBRES": "JAVIER LÓPEZ",
+            "CREDITO": "13.855.036",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "399.218",
+            "FIRMA ELLECTRONICA": "JAVIER LÓPEZ - 1237858354",
+            "AL PIE DE LA FIRMA": "JAVIER LÓPEZ - 1237858354"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1237858354",
+            "NOMBRES": "JAVIER LÓPEZ",
+            "FECHA NACIMIENTO": "09/01/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.855.036",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAVIER LÓPEZ - 1237858354",
+            "AL PIE DE LA FIRMA": "JAVIER LÓPEZ - 1237858354"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5439406",
+            "CEDULA": "1237858354",
+            "NOMBRES": "JAVIER LÓPEZ",
+            "CREDITO": "13.855.036",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "399.218",
+            "E.A": "19.02%",
+            "RECOMPRA O DESEMBOLSO": "1.945.724",
+            "FIRMA ELLECTRONICA": "JAVIER LÓPEZ - 1237858354"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1237858354",
+            "NOMBRES": "JAVIER LÓPEZ",
+            "FIRMA ELLECTRONICA": "JAVIER LÓPEZ - 1237858354"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1237858354",
+            "NOMBRES": "JAVIER LÓPEZ",
+            "FIRMA ELLECTRONICA": "JAVIER LÓPEZ - 1237858354",
+            "AL PIE DE LA FIRMA": "JAVIER LÓPEZ - 1237858354"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1237858354",
+            "NOMBRES": "JAVIER LÓPEZ",
+            "SALARIO": "2.815.935",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1237858354",
+            "NOMBRES": "JAVIER LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.945.724"
+        }
+    }
+]

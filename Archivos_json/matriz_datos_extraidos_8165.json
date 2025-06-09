@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "824077659369",
+            "SOLICITUD": "2854837",
+            "CEDULA": "1657192320",
+            "NOMBRES": "LEONARDO MERCADO",
+            "RECOMPRA O DESEMBOLSO": "2.241.852",
+            "FIRMA ELLECTRONICA": "LEONARDO MERCADO - 1657192320"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "824077659369",
+            "NOMBRES": "LEONARDO MERCADO",
+            "CREDITO": "10.483.918",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "217.951",
+            "FIRMA ELLECTRONICA": "LEONARDO MERCADO - 1657192320",
+            "AL PIE DE LA FIRMA": "LEONARDO MERCADO - 1657192320"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1657192320",
+            "NOMBRES": "LEONARDO MERCADO",
+            "FECHA NACIMIENTO": "09/10/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.483.918",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LEONARDO MERCADO - 1657192320",
+            "AL PIE DE LA FIRMA": "LEONARDO MERCADO - 1657192320"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2854837",
+            "CEDULA": "1657192320",
+            "NOMBRES": "LEONARDO MERCADO",
+            "CREDITO": "10.483.918",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "217.951",
+            "E.A": "20.76%",
+            "RECOMPRA O DESEMBOLSO": "2.241.852",
+            "FIRMA ELLECTRONICA": "LEONARDO MERCADO - 1657192320"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1657192320",
+            "NOMBRES": "LEONARDO MERCADO",
+            "FIRMA ELLECTRONICA": "LEONARDO MERCADO - 1657192320"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1657192320",
+            "NOMBRES": "LEONARDO MERCADO",
+            "FIRMA ELLECTRONICA": "LEONARDO MERCADO - 1657192320",
+            "AL PIE DE LA FIRMA": "LEONARDO MERCADO - 1657192320"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEONARDO MERCADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1657192320",
+            "NOMBRES": "LEONARDO MERCADO",
+            "SALARIO": "2.503.631",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1657192320",
+            "NOMBRES": "LEONARDO MERCADO",
+            "RECOMPRA O DESEMBOLSO": "2.241.852"
+        }
+    }
+]

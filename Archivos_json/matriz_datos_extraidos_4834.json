@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "665788691994",
+            "SOLICITUD": "9599008",
+            "CEDULA": "1830474812",
+            "NOMBRES": "LUIS SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.311.293",
+            "FIRMA ELLECTRONICA": "LUIS SÁNCHEZ - 1830474812"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "665788691994",
+            "NOMBRES": "LUIS SÁNCHEZ",
+            "CREDITO": "11.892.949",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "244.259",
+            "FIRMA ELLECTRONICA": "LUIS SÁNCHEZ - 1830474812",
+            "AL PIE DE LA FIRMA": "LUIS SÁNCHEZ - 1830474812"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1830474812",
+            "NOMBRES": "LUIS SÁNCHEZ",
+            "FECHA NACIMIENTO": "02/07/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.892.949",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS SÁNCHEZ - 1830474812",
+            "AL PIE DE LA FIRMA": "LUIS SÁNCHEZ - 1830474812"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9599008",
+            "CEDULA": "1830474812",
+            "NOMBRES": "LUIS SÁNCHEZ",
+            "CREDITO": "11.892.949",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "244.259",
+            "E.A": "19.87%",
+            "RECOMPRA O DESEMBOLSO": "1.311.293",
+            "FIRMA ELLECTRONICA": "LUIS SÁNCHEZ - 1830474812"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1830474812",
+            "NOMBRES": "LUIS SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "LUIS SÁNCHEZ - 1830474812"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1830474812",
+            "NOMBRES": "LUIS SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "LUIS SÁNCHEZ - 1830474812",
+            "AL PIE DE LA FIRMA": "LUIS SÁNCHEZ - 1830474812"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1830474812",
+            "NOMBRES": "LUIS SÁNCHEZ",
+            "SALARIO": "2.200.090",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1830474812",
+            "NOMBRES": "LUIS SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.311.293"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "373420757417",
+            "SOLICITUD": "3338339",
+            "CEDULA": "1119686125",
+            "NOMBRES": "RAFAEL PABLO FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.734.399",
+            "FIRMA ELLECTRONICA": "RAFAEL PABLO FLÓREZ - 1119686125"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "373420757417",
+            "NOMBRES": "RAFAEL PABLO FLÓREZ",
+            "CREDITO": "11.373.600",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "113.64",
+            "FIRMA ELLECTRONICA": "RAFAEL PABLO FLÓREZ - 1119686125",
+            "AL PIE DE LA FIRMA": "RAFAEL PABLO FLÓREZ - 1119686125"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1119686125",
+            "NOMBRES": "RAFAEL PABLO FLÓREZ",
+            "FECHA NACIMIENTO": "17/07/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.373.600",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "RAFAEL PABLO FLÓREZ - 1119686125",
+            "AL PIE DE LA FIRMA": "RAFAEL PABLO FLÓREZ - 1119686125"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3338339",
+            "CEDULA": "1119686125",
+            "NOMBRES": "RAFAEL PABLO FLÓREZ",
+            "CREDITO": "11.373.600",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "113.64",
+            "E.A": "21.55%",
+            "RECOMPRA O DESEMBOLSO": "4.734.399",
+            "FIRMA ELLECTRONICA": "RAFAEL PABLO FLÓREZ - 1119686125"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1119686125",
+            "NOMBRES": "RAFAEL PABLO FLÓREZ",
+            "FIRMA ELLECTRONICA": "RAFAEL PABLO FLÓREZ - 1119686125"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1119686125",
+            "NOMBRES": "RAFAEL PABLO FLÓREZ",
+            "FIRMA ELLECTRONICA": "RAFAEL PABLO FLÓREZ - 1119686125",
+            "AL PIE DE LA FIRMA": "RAFAEL PABLO FLÓREZ - 1119686125"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL PABLO FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1119686125",
+            "NOMBRES": "RAFAEL PABLO FLÓREZ",
+            "SALARIO": "2.723.355",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1119686125",
+            "NOMBRES": "RAFAEL PABLO FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.734.399"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "241208134887",
+            "SOLICITUD": "9726322",
+            "CEDULA": "1257675744",
+            "NOMBRES": "ISABEL OSORIO",
+            "RECOMPRA O DESEMBOLSO": "1.981.157",
+            "FIRMA ELLECTRONICA": "ISABEL OSORIO - 1257675744"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "241208134887",
+            "NOMBRES": "ISABEL OSORIO",
+            "CREDITO": "16.437.950",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "274.514",
+            "FIRMA ELLECTRONICA": "ISABEL OSORIO - 1257675744",
+            "AL PIE DE LA FIRMA": "ISABEL OSORIO - 1257675744"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1257675744",
+            "NOMBRES": "ISABEL OSORIO",
+            "FECHA NACIMIENTO": "10/05/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.437.950",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ISABEL OSORIO - 1257675744",
+            "AL PIE DE LA FIRMA": "ISABEL OSORIO - 1257675744"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9726322",
+            "CEDULA": "1257675744",
+            "NOMBRES": "ISABEL OSORIO",
+            "CREDITO": "16.437.950",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "274.514",
+            "E.A": "18.07%",
+            "RECOMPRA O DESEMBOLSO": "1.981.157",
+            "FIRMA ELLECTRONICA": "ISABEL OSORIO - 1257675744"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1257675744",
+            "NOMBRES": "ISABEL OSORIO",
+            "FIRMA ELLECTRONICA": "ISABEL OSORIO - 1257675744"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1257675744",
+            "NOMBRES": "ISABEL OSORIO",
+            "FIRMA ELLECTRONICA": "ISABEL OSORIO - 1257675744",
+            "AL PIE DE LA FIRMA": "ISABEL OSORIO - 1257675744"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1257675744",
+            "NOMBRES": "ISABEL OSORIO",
+            "SALARIO": "3.311.910",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1257675744",
+            "NOMBRES": "ISABEL OSORIO",
+            "RECOMPRA O DESEMBOLSO": "1.981.157"
+        }
+    }
+]

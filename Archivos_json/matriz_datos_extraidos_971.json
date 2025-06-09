@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "365649778387",
+            "SOLICITUD": "5679010",
+            "CEDULA": "1006319454",
+            "NOMBRES": "ELENA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.081.928",
+            "FIRMA ELLECTRONICA": "ELENA GONZÁLEZ - 1006319454"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "365649778387",
+            "NOMBRES": "ELENA GONZÁLEZ",
+            "CREDITO": "17.043.917",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "342.502",
+            "FIRMA ELLECTRONICA": "ELENA GONZÁLEZ - 1006319454",
+            "AL PIE DE LA FIRMA": "ELENA GONZÁLEZ - 1006319454"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1006319454",
+            "NOMBRES": "ELENA GONZÁLEZ",
+            "FECHA NACIMIENTO": "22/02/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.043.917",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ELENA GONZÁLEZ - 1006319454",
+            "AL PIE DE LA FIRMA": "ELENA GONZÁLEZ - 1006319454"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5679010",
+            "CEDULA": "1006319454",
+            "NOMBRES": "ELENA GONZÁLEZ",
+            "CREDITO": "17.043.917",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "342.502",
+            "E.A": "19.31%",
+            "RECOMPRA O DESEMBOLSO": "2.081.928",
+            "FIRMA ELLECTRONICA": "ELENA GONZÁLEZ - 1006319454"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1006319454",
+            "NOMBRES": "ELENA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "ELENA GONZÁLEZ - 1006319454"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1006319454",
+            "NOMBRES": "ELENA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "ELENA GONZÁLEZ - 1006319454",
+            "AL PIE DE LA FIRMA": "ELENA GONZÁLEZ - 1006319454"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1006319454",
+            "NOMBRES": "ELENA GONZÁLEZ",
+            "SALARIO": "1.711.052",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1006319454",
+            "NOMBRES": "ELENA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.081.928"
+        }
+    }
+]

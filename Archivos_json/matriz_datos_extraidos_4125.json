@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "118357438616",
+            "SOLICITUD": "1382651",
+            "CEDULA": "1568802027",
+            "NOMBRES": "FERNANDO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.762.667",
+            "FIRMA ELLECTRONICA": "FERNANDO HERNÁNDEZ - 1568802027"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "118357438616",
+            "NOMBRES": "FERNANDO HERNÁNDEZ",
+            "CREDITO": "13.880.842",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "244.234",
+            "FIRMA ELLECTRONICA": "FERNANDO HERNÁNDEZ - 1568802027",
+            "AL PIE DE LA FIRMA": "FERNANDO HERNÁNDEZ - 1568802027"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1568802027",
+            "NOMBRES": "FERNANDO HERNÁNDEZ",
+            "FECHA NACIMIENTO": "20/08/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.880.842",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNANDO HERNÁNDEZ - 1568802027",
+            "AL PIE DE LA FIRMA": "FERNANDO HERNÁNDEZ - 1568802027"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1382651",
+            "CEDULA": "1568802027",
+            "NOMBRES": "FERNANDO HERNÁNDEZ",
+            "CREDITO": "13.880.842",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "244.234",
+            "E.A": "21.11%",
+            "RECOMPRA O DESEMBOLSO": "4.762.667",
+            "FIRMA ELLECTRONICA": "FERNANDO HERNÁNDEZ - 1568802027"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1568802027",
+            "NOMBRES": "FERNANDO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "FERNANDO HERNÁNDEZ - 1568802027"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1568802027",
+            "NOMBRES": "FERNANDO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "FERNANDO HERNÁNDEZ - 1568802027",
+            "AL PIE DE LA FIRMA": "FERNANDO HERNÁNDEZ - 1568802027"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1568802027",
+            "NOMBRES": "FERNANDO HERNÁNDEZ",
+            "SALARIO": "2.101.090",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1568802027",
+            "NOMBRES": "FERNANDO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.762.667"
+        }
+    }
+]

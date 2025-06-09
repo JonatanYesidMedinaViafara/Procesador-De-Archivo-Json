@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "293346331029",
+            "SOLICITUD": "5804129",
+            "CEDULA": "1124693840",
+            "NOMBRES": "MARÍA FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.784.296",
+            "FIRMA ELLECTRONICA": "MARÍA FERNÁNDEZ - 1124693840"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "293346331029",
+            "NOMBRES": "MARÍA FERNÁNDEZ",
+            "CREDITO": "15.306.500",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "329.677",
+            "FIRMA ELLECTRONICA": "MARÍA FERNÁNDEZ - 1124693840",
+            "AL PIE DE LA FIRMA": "MARÍA FERNÁNDEZ - 1124693840"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1124693840",
+            "NOMBRES": "MARÍA FERNÁNDEZ",
+            "FECHA NACIMIENTO": "21/07/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.306.500",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA FERNÁNDEZ - 1124693840",
+            "AL PIE DE LA FIRMA": "MARÍA FERNÁNDEZ - 1124693840"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5804129",
+            "CEDULA": "1124693840",
+            "NOMBRES": "MARÍA FERNÁNDEZ",
+            "CREDITO": "15.306.500",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "329.677",
+            "E.A": "21.41%",
+            "RECOMPRA O DESEMBOLSO": "1.784.296",
+            "FIRMA ELLECTRONICA": "MARÍA FERNÁNDEZ - 1124693840"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1124693840",
+            "NOMBRES": "MARÍA FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARÍA FERNÁNDEZ - 1124693840"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1124693840",
+            "NOMBRES": "MARÍA FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARÍA FERNÁNDEZ - 1124693840",
+            "AL PIE DE LA FIRMA": "MARÍA FERNÁNDEZ - 1124693840"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1124693840",
+            "NOMBRES": "MARÍA FERNÁNDEZ",
+            "SALARIO": "4.964.094",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1124693840",
+            "NOMBRES": "MARÍA FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.784.296"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "555223744052",
+            "SOLICITUD": "9021612",
+            "CEDULA": "1287081517",
+            "NOMBRES": "MÓNICA ELIANA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.824.293",
+            "FIRMA ELLECTRONICA": "MÓNICA ELIANA HERNÁNDEZ - 1287081517"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "555223744052",
+            "NOMBRES": "MÓNICA ELIANA HERNÁNDEZ",
+            "CREDITO": "15.101.962",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "373.961",
+            "FIRMA ELLECTRONICA": "MÓNICA ELIANA HERNÁNDEZ - 1287081517",
+            "AL PIE DE LA FIRMA": "MÓNICA ELIANA HERNÁNDEZ - 1287081517"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1287081517",
+            "NOMBRES": "MÓNICA ELIANA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "13/04/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.101.962",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MÓNICA ELIANA HERNÁNDEZ - 1287081517",
+            "AL PIE DE LA FIRMA": "MÓNICA ELIANA HERNÁNDEZ - 1287081517"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9021612",
+            "CEDULA": "1287081517",
+            "NOMBRES": "MÓNICA ELIANA HERNÁNDEZ",
+            "CREDITO": "15.101.962",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "373.961",
+            "E.A": "26.19%",
+            "RECOMPRA O DESEMBOLSO": "2.824.293",
+            "FIRMA ELLECTRONICA": "MÓNICA ELIANA HERNÁNDEZ - 1287081517"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1287081517",
+            "NOMBRES": "MÓNICA ELIANA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MÓNICA ELIANA HERNÁNDEZ - 1287081517"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1287081517",
+            "NOMBRES": "MÓNICA ELIANA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MÓNICA ELIANA HERNÁNDEZ - 1287081517",
+            "AL PIE DE LA FIRMA": "MÓNICA ELIANA HERNÁNDEZ - 1287081517"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MÓNICA ELIANA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1287081517",
+            "NOMBRES": "MÓNICA ELIANA HERNÁNDEZ",
+            "SALARIO": "3.934.116",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1287081517",
+            "NOMBRES": "MÓNICA ELIANA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.824.293"
+        }
+    }
+]

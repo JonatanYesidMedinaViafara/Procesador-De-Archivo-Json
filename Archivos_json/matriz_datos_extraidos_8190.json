@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "739271015940",
+            "SOLICITUD": "5081129",
+            "CEDULA": "1103943685",
+            "NOMBRES": "FRANCO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.391.910",
+            "FIRMA ELLECTRONICA": "FRANCO RINCÓN - 1103943685"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "739271015940",
+            "NOMBRES": "FRANCO RINCÓN",
+            "CREDITO": "7.307.115",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "131.341",
+            "FIRMA ELLECTRONICA": "FRANCO RINCÓN - 1103943685",
+            "AL PIE DE LA FIRMA": "FRANCO RINCÓN - 1103943685"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1103943685",
+            "NOMBRES": "FRANCO RINCÓN",
+            "FECHA NACIMIENTO": "16/01/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.307.115",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FRANCO RINCÓN - 1103943685",
+            "AL PIE DE LA FIRMA": "FRANCO RINCÓN - 1103943685"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5081129",
+            "CEDULA": "1103943685",
+            "NOMBRES": "FRANCO RINCÓN",
+            "CREDITO": "7.307.115",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "131.341",
+            "E.A": "26.03%",
+            "RECOMPRA O DESEMBOLSO": "2.391.910",
+            "FIRMA ELLECTRONICA": "FRANCO RINCÓN - 1103943685"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1103943685",
+            "NOMBRES": "FRANCO RINCÓN",
+            "FIRMA ELLECTRONICA": "FRANCO RINCÓN - 1103943685"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1103943685",
+            "NOMBRES": "FRANCO RINCÓN",
+            "FIRMA ELLECTRONICA": "FRANCO RINCÓN - 1103943685",
+            "AL PIE DE LA FIRMA": "FRANCO RINCÓN - 1103943685"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCO RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1103943685",
+            "NOMBRES": "FRANCO RINCÓN",
+            "SALARIO": "4.537.649",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1103943685",
+            "NOMBRES": "FRANCO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.391.910"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "168237541659",
+            "SOLICITUD": "6929659",
+            "CEDULA": "1916050617",
+            "NOMBRES": "ANDRÉS MEZA",
+            "RECOMPRA O DESEMBOLSO": "1.404.997",
+            "FIRMA ELLECTRONICA": "ANDRÉS MEZA - 1916050617"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "168237541659",
+            "NOMBRES": "ANDRÉS MEZA",
+            "CREDITO": "15.687.632",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "216.862",
+            "FIRMA ELLECTRONICA": "ANDRÉS MEZA - 1916050617",
+            "AL PIE DE LA FIRMA": "ANDRÉS MEZA - 1916050617"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1916050617",
+            "NOMBRES": "ANDRÉS MEZA",
+            "FECHA NACIMIENTO": "08/06/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.687.632",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS MEZA - 1916050617",
+            "AL PIE DE LA FIRMA": "ANDRÉS MEZA - 1916050617"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6929659",
+            "CEDULA": "1916050617",
+            "NOMBRES": "ANDRÉS MEZA",
+            "CREDITO": "15.687.632",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "216.862",
+            "E.A": "23.11%",
+            "RECOMPRA O DESEMBOLSO": "1.404.997",
+            "FIRMA ELLECTRONICA": "ANDRÉS MEZA - 1916050617"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1916050617",
+            "NOMBRES": "ANDRÉS MEZA",
+            "FIRMA ELLECTRONICA": "ANDRÉS MEZA - 1916050617"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1916050617",
+            "NOMBRES": "ANDRÉS MEZA",
+            "FIRMA ELLECTRONICA": "ANDRÉS MEZA - 1916050617",
+            "AL PIE DE LA FIRMA": "ANDRÉS MEZA - 1916050617"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS MEZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1916050617",
+            "NOMBRES": "ANDRÉS MEZA",
+            "SALARIO": "4.062.233",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1916050617",
+            "NOMBRES": "ANDRÉS MEZA",
+            "RECOMPRA O DESEMBOLSO": "1.404.997"
+        }
+    }
+]

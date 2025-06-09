@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "824325105122",
+            "SOLICITUD": "9845320",
+            "CEDULA": "1815277639",
+            "NOMBRES": "MILENA ÁLVAREZ MENESES",
+            "RECOMPRA O DESEMBOLSO": "2.371.498",
+            "FIRMA ELLECTRONICA": "MILENA ÁLVAREZ MENESES - 1815277639"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "824325105122",
+            "NOMBRES": "MILENA ÁLVAREZ MENESES",
+            "CREDITO": "19.257.573",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.23",
+            "FIRMA ELLECTRONICA": "MILENA ÁLVAREZ MENESES - 1815277639",
+            "AL PIE DE LA FIRMA": "MILENA ÁLVAREZ MENESES - 1815277639"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1815277639",
+            "NOMBRES": "MILENA ÁLVAREZ MENESES",
+            "FECHA NACIMIENTO": "05/04/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.257.573",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MILENA ÁLVAREZ MENESES - 1815277639",
+            "AL PIE DE LA FIRMA": "MILENA ÁLVAREZ MENESES - 1815277639"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9845320",
+            "CEDULA": "1815277639",
+            "NOMBRES": "MILENA ÁLVAREZ MENESES",
+            "CREDITO": "19.257.573",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.23",
+            "E.A": "22.41%",
+            "RECOMPRA O DESEMBOLSO": "2.371.498",
+            "FIRMA ELLECTRONICA": "MILENA ÁLVAREZ MENESES - 1815277639"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1815277639",
+            "NOMBRES": "MILENA ÁLVAREZ MENESES",
+            "FIRMA ELLECTRONICA": "MILENA ÁLVAREZ MENESES - 1815277639"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1815277639",
+            "NOMBRES": "MILENA ÁLVAREZ MENESES",
+            "FIRMA ELLECTRONICA": "MILENA ÁLVAREZ MENESES - 1815277639",
+            "AL PIE DE LA FIRMA": "MILENA ÁLVAREZ MENESES - 1815277639"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA ÁLVAREZ MENESES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1815277639",
+            "NOMBRES": "MILENA ÁLVAREZ MENESES",
+            "SALARIO": "4.831.780",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1815277639",
+            "NOMBRES": "MILENA ÁLVAREZ MENESES",
+            "RECOMPRA O DESEMBOLSO": "2.371.498"
+        }
+    }
+]

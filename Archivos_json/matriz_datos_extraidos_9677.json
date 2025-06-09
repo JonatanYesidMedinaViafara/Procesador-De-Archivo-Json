@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "862896922762",
+            "SOLICITUD": "9708527",
+            "CEDULA": "1423695460",
+            "NOMBRES": "NÉSTOR MORENO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.930.469",
+            "FIRMA ELLECTRONICA": "NÉSTOR MORENO GÓMEZ - 1423695460"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "862896922762",
+            "NOMBRES": "NÉSTOR MORENO GÓMEZ",
+            "CREDITO": "18.889.041",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "376.841",
+            "FIRMA ELLECTRONICA": "NÉSTOR MORENO GÓMEZ - 1423695460",
+            "AL PIE DE LA FIRMA": "NÉSTOR MORENO GÓMEZ - 1423695460"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1423695460",
+            "NOMBRES": "NÉSTOR MORENO GÓMEZ",
+            "FECHA NACIMIENTO": "25/04/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.889.041",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "NÉSTOR MORENO GÓMEZ - 1423695460",
+            "AL PIE DE LA FIRMA": "NÉSTOR MORENO GÓMEZ - 1423695460"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9708527",
+            "CEDULA": "1423695460",
+            "NOMBRES": "NÉSTOR MORENO GÓMEZ",
+            "CREDITO": "18.889.041",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "376.841",
+            "E.A": "18.05%",
+            "RECOMPRA O DESEMBOLSO": "4.930.469",
+            "FIRMA ELLECTRONICA": "NÉSTOR MORENO GÓMEZ - 1423695460"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1423695460",
+            "NOMBRES": "NÉSTOR MORENO GÓMEZ",
+            "FIRMA ELLECTRONICA": "NÉSTOR MORENO GÓMEZ - 1423695460"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1423695460",
+            "NOMBRES": "NÉSTOR MORENO GÓMEZ",
+            "FIRMA ELLECTRONICA": "NÉSTOR MORENO GÓMEZ - 1423695460",
+            "AL PIE DE LA FIRMA": "NÉSTOR MORENO GÓMEZ - 1423695460"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NÉSTOR MORENO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1423695460",
+            "NOMBRES": "NÉSTOR MORENO GÓMEZ",
+            "SALARIO": "4.034.716",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1423695460",
+            "NOMBRES": "NÉSTOR MORENO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.930.469"
+        }
+    }
+]

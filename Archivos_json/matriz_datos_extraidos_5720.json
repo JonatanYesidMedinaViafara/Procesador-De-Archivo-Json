@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "387271192605",
+            "SOLICITUD": "6871131",
+            "CEDULA": "1798032606",
+            "NOMBRES": "MAURICIO MAURICIO ROMERO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.382.322",
+            "FIRMA ELLECTRONICA": "MAURICIO MAURICIO ROMERO RODRÍGUEZ - 1798032606"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "387271192605",
+            "NOMBRES": "MAURICIO MAURICIO ROMERO RODRÍGUEZ",
+            "CREDITO": "5.617.080",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "368.669",
+            "FIRMA ELLECTRONICA": "MAURICIO MAURICIO ROMERO RODRÍGUEZ - 1798032606",
+            "AL PIE DE LA FIRMA": "MAURICIO MAURICIO ROMERO RODRÍGUEZ - 1798032606"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1798032606",
+            "NOMBRES": "MAURICIO MAURICIO ROMERO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "11/11/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.617.080",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MAURICIO MAURICIO ROMERO RODRÍGUEZ - 1798032606",
+            "AL PIE DE LA FIRMA": "MAURICIO MAURICIO ROMERO RODRÍGUEZ - 1798032606"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6871131",
+            "CEDULA": "1798032606",
+            "NOMBRES": "MAURICIO MAURICIO ROMERO RODRÍGUEZ",
+            "CREDITO": "5.617.080",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "368.669",
+            "E.A": "26.12%",
+            "RECOMPRA O DESEMBOLSO": "4.382.322",
+            "FIRMA ELLECTRONICA": "MAURICIO MAURICIO ROMERO RODRÍGUEZ - 1798032606"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1798032606",
+            "NOMBRES": "MAURICIO MAURICIO ROMERO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "MAURICIO MAURICIO ROMERO RODRÍGUEZ - 1798032606"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1798032606",
+            "NOMBRES": "MAURICIO MAURICIO ROMERO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "MAURICIO MAURICIO ROMERO RODRÍGUEZ - 1798032606",
+            "AL PIE DE LA FIRMA": "MAURICIO MAURICIO ROMERO RODRÍGUEZ - 1798032606"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO MAURICIO ROMERO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1798032606",
+            "NOMBRES": "MAURICIO MAURICIO ROMERO RODRÍGUEZ",
+            "SALARIO": "1.988.391",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1798032606",
+            "NOMBRES": "MAURICIO MAURICIO ROMERO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.382.322"
+        }
+    }
+]

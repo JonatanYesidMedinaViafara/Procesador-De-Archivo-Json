@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "394139961234",
+            "SOLICITUD": "5309711",
+            "CEDULA": "1934198415",
+            "NOMBRES": "JHON DIEGO RUEDA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.371.909",
+            "FIRMA ELLECTRONICA": "JHON DIEGO RUEDA RAMÍREZ - 1934198415"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "394139961234",
+            "NOMBRES": "JHON DIEGO RUEDA RAMÍREZ",
+            "CREDITO": "16.606.731",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "106.72",
+            "FIRMA ELLECTRONICA": "JHON DIEGO RUEDA RAMÍREZ - 1934198415",
+            "AL PIE DE LA FIRMA": "JHON DIEGO RUEDA RAMÍREZ - 1934198415"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1934198415",
+            "NOMBRES": "JHON DIEGO RUEDA RAMÍREZ",
+            "FECHA NACIMIENTO": "14/09/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.606.731",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JHON DIEGO RUEDA RAMÍREZ - 1934198415",
+            "AL PIE DE LA FIRMA": "JHON DIEGO RUEDA RAMÍREZ - 1934198415"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5309711",
+            "CEDULA": "1934198415",
+            "NOMBRES": "JHON DIEGO RUEDA RAMÍREZ",
+            "CREDITO": "16.606.731",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "106.72",
+            "E.A": "20.8%",
+            "RECOMPRA O DESEMBOLSO": "1.371.909",
+            "FIRMA ELLECTRONICA": "JHON DIEGO RUEDA RAMÍREZ - 1934198415"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1934198415",
+            "NOMBRES": "JHON DIEGO RUEDA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JHON DIEGO RUEDA RAMÍREZ - 1934198415"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1934198415",
+            "NOMBRES": "JHON DIEGO RUEDA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JHON DIEGO RUEDA RAMÍREZ - 1934198415",
+            "AL PIE DE LA FIRMA": "JHON DIEGO RUEDA RAMÍREZ - 1934198415"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON DIEGO RUEDA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1934198415",
+            "NOMBRES": "JHON DIEGO RUEDA RAMÍREZ",
+            "SALARIO": "3.081.404",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1934198415",
+            "NOMBRES": "JHON DIEGO RUEDA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.371.909"
+        }
+    }
+]

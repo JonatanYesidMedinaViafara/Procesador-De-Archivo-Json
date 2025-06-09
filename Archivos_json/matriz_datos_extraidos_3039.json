@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "287251595161",
+            "SOLICITUD": "5690748",
+            "CEDULA": "1104696530",
+            "NOMBRES": "JAVIER PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.634.417",
+            "FIRMA ELLECTRONICA": "JAVIER PÉREZ - 1104696530"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "287251595161",
+            "NOMBRES": "JAVIER PÉREZ",
+            "CREDITO": "5.424.021",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "278.131",
+            "FIRMA ELLECTRONICA": "JAVIER PÉREZ - 1104696530",
+            "AL PIE DE LA FIRMA": "JAVIER PÉREZ - 1104696530"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1104696530",
+            "NOMBRES": "JAVIER PÉREZ",
+            "FECHA NACIMIENTO": "04/01/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.424.021",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JAVIER PÉREZ - 1104696530",
+            "AL PIE DE LA FIRMA": "JAVIER PÉREZ - 1104696530"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5690748",
+            "CEDULA": "1104696530",
+            "NOMBRES": "JAVIER PÉREZ",
+            "CREDITO": "5.424.021",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "278.131",
+            "E.A": "23.66%",
+            "RECOMPRA O DESEMBOLSO": "1.634.417",
+            "FIRMA ELLECTRONICA": "JAVIER PÉREZ - 1104696530"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1104696530",
+            "NOMBRES": "JAVIER PÉREZ",
+            "FIRMA ELLECTRONICA": "JAVIER PÉREZ - 1104696530"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1104696530",
+            "NOMBRES": "JAVIER PÉREZ",
+            "FIRMA ELLECTRONICA": "JAVIER PÉREZ - 1104696530",
+            "AL PIE DE LA FIRMA": "JAVIER PÉREZ - 1104696530"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1104696530",
+            "NOMBRES": "JAVIER PÉREZ",
+            "SALARIO": "2.198.007",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1104696530",
+            "NOMBRES": "JAVIER PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.634.417"
+        }
+    }
+]

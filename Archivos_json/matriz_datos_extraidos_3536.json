@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "690037699719",
+            "SOLICITUD": "8805616",
+            "CEDULA": "1617034308",
+            "NOMBRES": "JUAN AUGUSTO MORALES",
+            "RECOMPRA O DESEMBOLSO": "1.400.868",
+            "FIRMA ELLECTRONICA": "JUAN AUGUSTO MORALES - 1617034308"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "690037699719",
+            "NOMBRES": "JUAN AUGUSTO MORALES",
+            "CREDITO": "15.939.799",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "167.644",
+            "FIRMA ELLECTRONICA": "JUAN AUGUSTO MORALES - 1617034308",
+            "AL PIE DE LA FIRMA": "JUAN AUGUSTO MORALES - 1617034308"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1617034308",
+            "NOMBRES": "JUAN AUGUSTO MORALES",
+            "FECHA NACIMIENTO": "01/01/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.939.799",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN AUGUSTO MORALES - 1617034308",
+            "AL PIE DE LA FIRMA": "JUAN AUGUSTO MORALES - 1617034308"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8805616",
+            "CEDULA": "1617034308",
+            "NOMBRES": "JUAN AUGUSTO MORALES",
+            "CREDITO": "15.939.799",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "167.644",
+            "E.A": "22.78%",
+            "RECOMPRA O DESEMBOLSO": "1.400.868",
+            "FIRMA ELLECTRONICA": "JUAN AUGUSTO MORALES - 1617034308"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1617034308",
+            "NOMBRES": "JUAN AUGUSTO MORALES",
+            "FIRMA ELLECTRONICA": "JUAN AUGUSTO MORALES - 1617034308"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1617034308",
+            "NOMBRES": "JUAN AUGUSTO MORALES",
+            "FIRMA ELLECTRONICA": "JUAN AUGUSTO MORALES - 1617034308",
+            "AL PIE DE LA FIRMA": "JUAN AUGUSTO MORALES - 1617034308"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN AUGUSTO MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1617034308",
+            "NOMBRES": "JUAN AUGUSTO MORALES",
+            "SALARIO": "2.975.402",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1617034308",
+            "NOMBRES": "JUAN AUGUSTO MORALES",
+            "RECOMPRA O DESEMBOLSO": "1.400.868"
+        }
+    }
+]

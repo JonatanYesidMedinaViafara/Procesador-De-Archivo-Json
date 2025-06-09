@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "716101325823",
+            "SOLICITUD": "8334282",
+            "CEDULA": "1219798213",
+            "NOMBRES": "DAVID LUIS DAZA BASTIDAS",
+            "RECOMPRA O DESEMBOLSO": "2.356.054",
+            "FIRMA ELLECTRONICA": "DAVID LUIS DAZA BASTIDAS - 1219798213"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "716101325823",
+            "NOMBRES": "DAVID LUIS DAZA BASTIDAS",
+            "CREDITO": "12.896.964",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "121.048",
+            "FIRMA ELLECTRONICA": "DAVID LUIS DAZA BASTIDAS - 1219798213",
+            "AL PIE DE LA FIRMA": "DAVID LUIS DAZA BASTIDAS - 1219798213"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1219798213",
+            "NOMBRES": "DAVID LUIS DAZA BASTIDAS",
+            "FECHA NACIMIENTO": "05/05/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.896.964",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DAVID LUIS DAZA BASTIDAS - 1219798213",
+            "AL PIE DE LA FIRMA": "DAVID LUIS DAZA BASTIDAS - 1219798213"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8334282",
+            "CEDULA": "1219798213",
+            "NOMBRES": "DAVID LUIS DAZA BASTIDAS",
+            "CREDITO": "12.896.964",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "121.048",
+            "E.A": "27.32%",
+            "RECOMPRA O DESEMBOLSO": "2.356.054",
+            "FIRMA ELLECTRONICA": "DAVID LUIS DAZA BASTIDAS - 1219798213"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1219798213",
+            "NOMBRES": "DAVID LUIS DAZA BASTIDAS",
+            "FIRMA ELLECTRONICA": "DAVID LUIS DAZA BASTIDAS - 1219798213"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1219798213",
+            "NOMBRES": "DAVID LUIS DAZA BASTIDAS",
+            "FIRMA ELLECTRONICA": "DAVID LUIS DAZA BASTIDAS - 1219798213",
+            "AL PIE DE LA FIRMA": "DAVID LUIS DAZA BASTIDAS - 1219798213"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID LUIS DAZA BASTIDAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1219798213",
+            "NOMBRES": "DAVID LUIS DAZA BASTIDAS",
+            "SALARIO": "4.866.955",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1219798213",
+            "NOMBRES": "DAVID LUIS DAZA BASTIDAS",
+            "RECOMPRA O DESEMBOLSO": "2.356.054"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "917569163454",
+            "SOLICITUD": "3056183",
+            "CEDULA": "1341217493",
+            "NOMBRES": "LUIS JHON SUÁREZ FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.053.280",
+            "FIRMA ELLECTRONICA": "LUIS JHON SUÁREZ FLÓREZ - 1341217493"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "917569163454",
+            "NOMBRES": "LUIS JHON SUÁREZ FLÓREZ",
+            "CREDITO": "6.824.541",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "383.524",
+            "FIRMA ELLECTRONICA": "LUIS JHON SUÁREZ FLÓREZ - 1341217493",
+            "AL PIE DE LA FIRMA": "LUIS JHON SUÁREZ FLÓREZ - 1341217493"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1341217493",
+            "NOMBRES": "LUIS JHON SUÁREZ FLÓREZ",
+            "FECHA NACIMIENTO": "02/06/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.824.541",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUIS JHON SUÁREZ FLÓREZ - 1341217493",
+            "AL PIE DE LA FIRMA": "LUIS JHON SUÁREZ FLÓREZ - 1341217493"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3056183",
+            "CEDULA": "1341217493",
+            "NOMBRES": "LUIS JHON SUÁREZ FLÓREZ",
+            "CREDITO": "6.824.541",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "383.524",
+            "E.A": "24.64%",
+            "RECOMPRA O DESEMBOLSO": "4.053.280",
+            "FIRMA ELLECTRONICA": "LUIS JHON SUÁREZ FLÓREZ - 1341217493"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1341217493",
+            "NOMBRES": "LUIS JHON SUÁREZ FLÓREZ",
+            "FIRMA ELLECTRONICA": "LUIS JHON SUÁREZ FLÓREZ - 1341217493"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1341217493",
+            "NOMBRES": "LUIS JHON SUÁREZ FLÓREZ",
+            "FIRMA ELLECTRONICA": "LUIS JHON SUÁREZ FLÓREZ - 1341217493",
+            "AL PIE DE LA FIRMA": "LUIS JHON SUÁREZ FLÓREZ - 1341217493"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS JHON SUÁREZ FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1341217493",
+            "NOMBRES": "LUIS JHON SUÁREZ FLÓREZ",
+            "SALARIO": "1.311.225",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1341217493",
+            "NOMBRES": "LUIS JHON SUÁREZ FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.053.280"
+        }
+    }
+]

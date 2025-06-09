@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "998466004065",
+            "SOLICITUD": "3658511",
+            "CEDULA": "1910890480",
+            "NOMBRES": "FABIO JOSÉ MUÑOZ MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.252.671",
+            "FIRMA ELLECTRONICA": "FABIO JOSÉ MUÑOZ MOSQUERA - 1910890480"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "998466004065",
+            "NOMBRES": "FABIO JOSÉ MUÑOZ MOSQUERA",
+            "CREDITO": "10.008.498",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "321.39",
+            "FIRMA ELLECTRONICA": "FABIO JOSÉ MUÑOZ MOSQUERA - 1910890480",
+            "AL PIE DE LA FIRMA": "FABIO JOSÉ MUÑOZ MOSQUERA - 1910890480"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1910890480",
+            "NOMBRES": "FABIO JOSÉ MUÑOZ MOSQUERA",
+            "FECHA NACIMIENTO": "12/03/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.008.498",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FABIO JOSÉ MUÑOZ MOSQUERA - 1910890480",
+            "AL PIE DE LA FIRMA": "FABIO JOSÉ MUÑOZ MOSQUERA - 1910890480"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3658511",
+            "CEDULA": "1910890480",
+            "NOMBRES": "FABIO JOSÉ MUÑOZ MOSQUERA",
+            "CREDITO": "10.008.498",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "321.39",
+            "E.A": "19.68%",
+            "RECOMPRA O DESEMBOLSO": "1.252.671",
+            "FIRMA ELLECTRONICA": "FABIO JOSÉ MUÑOZ MOSQUERA - 1910890480"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1910890480",
+            "NOMBRES": "FABIO JOSÉ MUÑOZ MOSQUERA",
+            "FIRMA ELLECTRONICA": "FABIO JOSÉ MUÑOZ MOSQUERA - 1910890480"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1910890480",
+            "NOMBRES": "FABIO JOSÉ MUÑOZ MOSQUERA",
+            "FIRMA ELLECTRONICA": "FABIO JOSÉ MUÑOZ MOSQUERA - 1910890480",
+            "AL PIE DE LA FIRMA": "FABIO JOSÉ MUÑOZ MOSQUERA - 1910890480"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIO JOSÉ MUÑOZ MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1910890480",
+            "NOMBRES": "FABIO JOSÉ MUÑOZ MOSQUERA",
+            "SALARIO": "4.347.504",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1910890480",
+            "NOMBRES": "FABIO JOSÉ MUÑOZ MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.252.671"
+        }
+    }
+]

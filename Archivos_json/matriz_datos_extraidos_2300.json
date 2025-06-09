@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "785155391524",
+            "SOLICITUD": "6334813",
+            "CEDULA": "1902836343",
+            "NOMBRES": "ANTONIO BARRERA",
+            "RECOMPRA O DESEMBOLSO": "3.531.120",
+            "FIRMA ELLECTRONICA": "ANTONIO BARRERA - 1902836343"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "785155391524",
+            "NOMBRES": "ANTONIO BARRERA",
+            "CREDITO": "6.989.660",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "369.499",
+            "FIRMA ELLECTRONICA": "ANTONIO BARRERA - 1902836343",
+            "AL PIE DE LA FIRMA": "ANTONIO BARRERA - 1902836343"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1902836343",
+            "NOMBRES": "ANTONIO BARRERA",
+            "FECHA NACIMIENTO": "13/02/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.989.660",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANTONIO BARRERA - 1902836343",
+            "AL PIE DE LA FIRMA": "ANTONIO BARRERA - 1902836343"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6334813",
+            "CEDULA": "1902836343",
+            "NOMBRES": "ANTONIO BARRERA",
+            "CREDITO": "6.989.660",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "369.499",
+            "E.A": "26.77%",
+            "RECOMPRA O DESEMBOLSO": "3.531.120",
+            "FIRMA ELLECTRONICA": "ANTONIO BARRERA - 1902836343"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1902836343",
+            "NOMBRES": "ANTONIO BARRERA",
+            "FIRMA ELLECTRONICA": "ANTONIO BARRERA - 1902836343"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1902836343",
+            "NOMBRES": "ANTONIO BARRERA",
+            "FIRMA ELLECTRONICA": "ANTONIO BARRERA - 1902836343",
+            "AL PIE DE LA FIRMA": "ANTONIO BARRERA - 1902836343"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO BARRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1902836343",
+            "NOMBRES": "ANTONIO BARRERA",
+            "SALARIO": "1.746.257",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1902836343",
+            "NOMBRES": "ANTONIO BARRERA",
+            "RECOMPRA O DESEMBOLSO": "3.531.120"
+        }
+    }
+]

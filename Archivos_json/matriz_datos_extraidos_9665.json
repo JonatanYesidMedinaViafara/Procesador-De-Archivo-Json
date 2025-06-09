@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "843610516857",
+            "SOLICITUD": "5908196",
+            "CEDULA": "1251332182",
+            "NOMBRES": "PABLO OSWALDO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.490.329",
+            "FIRMA ELLECTRONICA": "PABLO OSWALDO FERNÁNDEZ - 1251332182"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "843610516857",
+            "NOMBRES": "PABLO OSWALDO FERNÁNDEZ",
+            "CREDITO": "6.763.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "173.582",
+            "FIRMA ELLECTRONICA": "PABLO OSWALDO FERNÁNDEZ - 1251332182",
+            "AL PIE DE LA FIRMA": "PABLO OSWALDO FERNÁNDEZ - 1251332182"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1251332182",
+            "NOMBRES": "PABLO OSWALDO FERNÁNDEZ",
+            "FECHA NACIMIENTO": "12/03/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.763.775",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "PABLO OSWALDO FERNÁNDEZ - 1251332182",
+            "AL PIE DE LA FIRMA": "PABLO OSWALDO FERNÁNDEZ - 1251332182"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5908196",
+            "CEDULA": "1251332182",
+            "NOMBRES": "PABLO OSWALDO FERNÁNDEZ",
+            "CREDITO": "6.763.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "173.582",
+            "E.A": "21.76%",
+            "RECOMPRA O DESEMBOLSO": "1.490.329",
+            "FIRMA ELLECTRONICA": "PABLO OSWALDO FERNÁNDEZ - 1251332182"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1251332182",
+            "NOMBRES": "PABLO OSWALDO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "PABLO OSWALDO FERNÁNDEZ - 1251332182"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1251332182",
+            "NOMBRES": "PABLO OSWALDO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "PABLO OSWALDO FERNÁNDEZ - 1251332182",
+            "AL PIE DE LA FIRMA": "PABLO OSWALDO FERNÁNDEZ - 1251332182"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO OSWALDO FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1251332182",
+            "NOMBRES": "PABLO OSWALDO FERNÁNDEZ",
+            "SALARIO": "3.447.996",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1251332182",
+            "NOMBRES": "PABLO OSWALDO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.490.329"
+        }
+    }
+]

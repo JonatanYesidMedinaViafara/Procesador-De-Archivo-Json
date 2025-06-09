@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "635590787408",
+            "SOLICITUD": "5139911",
+            "CEDULA": "1399692487",
+            "NOMBRES": "ALBERTO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.609.607",
+            "FIRMA ELLECTRONICA": "ALBERTO SÁNCHEZ - 1399692487"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "635590787408",
+            "NOMBRES": "ALBERTO SÁNCHEZ",
+            "CREDITO": "19.810.556",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "219.841",
+            "FIRMA ELLECTRONICA": "ALBERTO SÁNCHEZ - 1399692487",
+            "AL PIE DE LA FIRMA": "ALBERTO SÁNCHEZ - 1399692487"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1399692487",
+            "NOMBRES": "ALBERTO SÁNCHEZ",
+            "FECHA NACIMIENTO": "07/01/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.810.556",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALBERTO SÁNCHEZ - 1399692487",
+            "AL PIE DE LA FIRMA": "ALBERTO SÁNCHEZ - 1399692487"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5139911",
+            "CEDULA": "1399692487",
+            "NOMBRES": "ALBERTO SÁNCHEZ",
+            "CREDITO": "19.810.556",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "219.841",
+            "E.A": "27.7%",
+            "RECOMPRA O DESEMBOLSO": "1.609.607",
+            "FIRMA ELLECTRONICA": "ALBERTO SÁNCHEZ - 1399692487"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1399692487",
+            "NOMBRES": "ALBERTO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO SÁNCHEZ - 1399692487"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1399692487",
+            "NOMBRES": "ALBERTO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO SÁNCHEZ - 1399692487",
+            "AL PIE DE LA FIRMA": "ALBERTO SÁNCHEZ - 1399692487"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1399692487",
+            "NOMBRES": "ALBERTO SÁNCHEZ",
+            "SALARIO": "2.670.979",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1399692487",
+            "NOMBRES": "ALBERTO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.609.607"
+        }
+    }
+]

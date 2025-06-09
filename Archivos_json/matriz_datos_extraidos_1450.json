@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "703133733854",
+            "SOLICITUD": "3459702",
+            "CEDULA": "1226952028",
+            "NOMBRES": "LUIS MARÍN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.038.093",
+            "FIRMA ELLECTRONICA": "LUIS MARÍN GÓMEZ - 1226952028"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "703133733854",
+            "NOMBRES": "LUIS MARÍN GÓMEZ",
+            "CREDITO": "18.407.324",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "234.017",
+            "FIRMA ELLECTRONICA": "LUIS MARÍN GÓMEZ - 1226952028",
+            "AL PIE DE LA FIRMA": "LUIS MARÍN GÓMEZ - 1226952028"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1226952028",
+            "NOMBRES": "LUIS MARÍN GÓMEZ",
+            "FECHA NACIMIENTO": "14/04/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.407.324",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUIS MARÍN GÓMEZ - 1226952028",
+            "AL PIE DE LA FIRMA": "LUIS MARÍN GÓMEZ - 1226952028"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3459702",
+            "CEDULA": "1226952028",
+            "NOMBRES": "LUIS MARÍN GÓMEZ",
+            "CREDITO": "18.407.324",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "234.017",
+            "E.A": "21.93%",
+            "RECOMPRA O DESEMBOLSO": "1.038.093",
+            "FIRMA ELLECTRONICA": "LUIS MARÍN GÓMEZ - 1226952028"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1226952028",
+            "NOMBRES": "LUIS MARÍN GÓMEZ",
+            "FIRMA ELLECTRONICA": "LUIS MARÍN GÓMEZ - 1226952028"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1226952028",
+            "NOMBRES": "LUIS MARÍN GÓMEZ",
+            "FIRMA ELLECTRONICA": "LUIS MARÍN GÓMEZ - 1226952028",
+            "AL PIE DE LA FIRMA": "LUIS MARÍN GÓMEZ - 1226952028"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MARÍN GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1226952028",
+            "NOMBRES": "LUIS MARÍN GÓMEZ",
+            "SALARIO": "3.665.827",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1226952028",
+            "NOMBRES": "LUIS MARÍN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.038.093"
+        }
+    }
+]

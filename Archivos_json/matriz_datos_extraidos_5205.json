@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "770698663981",
+            "SOLICITUD": "2317195",
+            "CEDULA": "1931857936",
+            "NOMBRES": "JULIO DUQUE RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.530.523",
+            "FIRMA ELLECTRONICA": "JULIO DUQUE RAMÍREZ - 1931857936"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "770698663981",
+            "NOMBRES": "JULIO DUQUE RAMÍREZ",
+            "CREDITO": "7.383.475",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "328.252",
+            "FIRMA ELLECTRONICA": "JULIO DUQUE RAMÍREZ - 1931857936",
+            "AL PIE DE LA FIRMA": "JULIO DUQUE RAMÍREZ - 1931857936"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1931857936",
+            "NOMBRES": "JULIO DUQUE RAMÍREZ",
+            "FECHA NACIMIENTO": "06/01/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.383.475",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JULIO DUQUE RAMÍREZ - 1931857936",
+            "AL PIE DE LA FIRMA": "JULIO DUQUE RAMÍREZ - 1931857936"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2317195",
+            "CEDULA": "1931857936",
+            "NOMBRES": "JULIO DUQUE RAMÍREZ",
+            "CREDITO": "7.383.475",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "328.252",
+            "E.A": "28.35%",
+            "RECOMPRA O DESEMBOLSO": "2.530.523",
+            "FIRMA ELLECTRONICA": "JULIO DUQUE RAMÍREZ - 1931857936"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1931857936",
+            "NOMBRES": "JULIO DUQUE RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JULIO DUQUE RAMÍREZ - 1931857936"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1931857936",
+            "NOMBRES": "JULIO DUQUE RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JULIO DUQUE RAMÍREZ - 1931857936",
+            "AL PIE DE LA FIRMA": "JULIO DUQUE RAMÍREZ - 1931857936"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO DUQUE RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1931857936",
+            "NOMBRES": "JULIO DUQUE RAMÍREZ",
+            "SALARIO": "2.850.506",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1931857936",
+            "NOMBRES": "JULIO DUQUE RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.530.523"
+        }
+    }
+]

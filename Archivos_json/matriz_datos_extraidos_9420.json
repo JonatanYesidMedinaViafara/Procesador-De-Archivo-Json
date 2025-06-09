@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "810636542692",
+            "SOLICITUD": "8768177",
+            "CEDULA": "1073103313",
+            "NOMBRES": "XIMENA ROSA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.981.888",
+            "FIRMA ELLECTRONICA": "XIMENA ROSA MARTÍNEZ - 1073103313"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "810636542692",
+            "NOMBRES": "XIMENA ROSA MARTÍNEZ",
+            "CREDITO": "16.982.501",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "259.249",
+            "FIRMA ELLECTRONICA": "XIMENA ROSA MARTÍNEZ - 1073103313",
+            "AL PIE DE LA FIRMA": "XIMENA ROSA MARTÍNEZ - 1073103313"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1073103313",
+            "NOMBRES": "XIMENA ROSA MARTÍNEZ",
+            "FECHA NACIMIENTO": "09/02/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.982.501",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "XIMENA ROSA MARTÍNEZ - 1073103313",
+            "AL PIE DE LA FIRMA": "XIMENA ROSA MARTÍNEZ - 1073103313"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8768177",
+            "CEDULA": "1073103313",
+            "NOMBRES": "XIMENA ROSA MARTÍNEZ",
+            "CREDITO": "16.982.501",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "259.249",
+            "E.A": "23.59%",
+            "RECOMPRA O DESEMBOLSO": "2.981.888",
+            "FIRMA ELLECTRONICA": "XIMENA ROSA MARTÍNEZ - 1073103313"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1073103313",
+            "NOMBRES": "XIMENA ROSA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "XIMENA ROSA MARTÍNEZ - 1073103313"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1073103313",
+            "NOMBRES": "XIMENA ROSA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "XIMENA ROSA MARTÍNEZ - 1073103313",
+            "AL PIE DE LA FIRMA": "XIMENA ROSA MARTÍNEZ - 1073103313"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "XIMENA ROSA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1073103313",
+            "NOMBRES": "XIMENA ROSA MARTÍNEZ",
+            "SALARIO": "1.230.892",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1073103313",
+            "NOMBRES": "XIMENA ROSA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.981.888"
+        }
+    }
+]

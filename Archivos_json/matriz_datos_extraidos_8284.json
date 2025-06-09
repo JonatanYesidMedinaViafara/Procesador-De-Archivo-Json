@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "884763769970",
+            "SOLICITUD": "5122077",
+            "CEDULA": "1638515506",
+            "NOMBRES": "CAROLINA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.579.612",
+            "FIRMA ELLECTRONICA": "CAROLINA HERRERA - 1638515506"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "884763769970",
+            "NOMBRES": "CAROLINA HERRERA",
+            "CREDITO": "18.795.491",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "149.517",
+            "FIRMA ELLECTRONICA": "CAROLINA HERRERA - 1638515506",
+            "AL PIE DE LA FIRMA": "CAROLINA HERRERA - 1638515506"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1638515506",
+            "NOMBRES": "CAROLINA HERRERA",
+            "FECHA NACIMIENTO": "05/05/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.795.491",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CAROLINA HERRERA - 1638515506",
+            "AL PIE DE LA FIRMA": "CAROLINA HERRERA - 1638515506"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5122077",
+            "CEDULA": "1638515506",
+            "NOMBRES": "CAROLINA HERRERA",
+            "CREDITO": "18.795.491",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "149.517",
+            "E.A": "21.18%",
+            "RECOMPRA O DESEMBOLSO": "2.579.612",
+            "FIRMA ELLECTRONICA": "CAROLINA HERRERA - 1638515506"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1638515506",
+            "NOMBRES": "CAROLINA HERRERA",
+            "FIRMA ELLECTRONICA": "CAROLINA HERRERA - 1638515506"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1638515506",
+            "NOMBRES": "CAROLINA HERRERA",
+            "FIRMA ELLECTRONICA": "CAROLINA HERRERA - 1638515506",
+            "AL PIE DE LA FIRMA": "CAROLINA HERRERA - 1638515506"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAROLINA HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1638515506",
+            "NOMBRES": "CAROLINA HERRERA",
+            "SALARIO": "1.111.642",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1638515506",
+            "NOMBRES": "CAROLINA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.579.612"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "115235798396",
+            "SOLICITUD": "8435045",
+            "CEDULA": "1946192765",
+            "NOMBRES": "FABIÁN ESCOBAR MANRIQUE",
+            "RECOMPRA O DESEMBOLSO": "2.401.802",
+            "FIRMA ELLECTRONICA": "FABIÁN ESCOBAR MANRIQUE - 1946192765"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "115235798396",
+            "NOMBRES": "FABIÁN ESCOBAR MANRIQUE",
+            "CREDITO": "19.738.781",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "172.867",
+            "FIRMA ELLECTRONICA": "FABIÁN ESCOBAR MANRIQUE - 1946192765",
+            "AL PIE DE LA FIRMA": "FABIÁN ESCOBAR MANRIQUE - 1946192765"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1946192765",
+            "NOMBRES": "FABIÁN ESCOBAR MANRIQUE",
+            "FECHA NACIMIENTO": "25/07/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.738.781",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FABIÁN ESCOBAR MANRIQUE - 1946192765",
+            "AL PIE DE LA FIRMA": "FABIÁN ESCOBAR MANRIQUE - 1946192765"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8435045",
+            "CEDULA": "1946192765",
+            "NOMBRES": "FABIÁN ESCOBAR MANRIQUE",
+            "CREDITO": "19.738.781",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "172.867",
+            "E.A": "18.05%",
+            "RECOMPRA O DESEMBOLSO": "2.401.802",
+            "FIRMA ELLECTRONICA": "FABIÁN ESCOBAR MANRIQUE - 1946192765"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1946192765",
+            "NOMBRES": "FABIÁN ESCOBAR MANRIQUE",
+            "FIRMA ELLECTRONICA": "FABIÁN ESCOBAR MANRIQUE - 1946192765"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1946192765",
+            "NOMBRES": "FABIÁN ESCOBAR MANRIQUE",
+            "FIRMA ELLECTRONICA": "FABIÁN ESCOBAR MANRIQUE - 1946192765",
+            "AL PIE DE LA FIRMA": "FABIÁN ESCOBAR MANRIQUE - 1946192765"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIÁN ESCOBAR MANRIQUE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1946192765",
+            "NOMBRES": "FABIÁN ESCOBAR MANRIQUE",
+            "SALARIO": "2.290.046",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1946192765",
+            "NOMBRES": "FABIÁN ESCOBAR MANRIQUE",
+            "RECOMPRA O DESEMBOLSO": "2.401.802"
+        }
+    }
+]

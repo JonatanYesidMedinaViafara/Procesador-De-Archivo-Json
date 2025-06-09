@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "363400553494",
+            "SOLICITUD": "9762693",
+            "CEDULA": "1343574293",
+            "NOMBRES": "ARTURO JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "4.191.729",
+            "FIRMA ELLECTRONICA": "ARTURO JARAMILLO - 1343574293"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "363400553494",
+            "NOMBRES": "ARTURO JARAMILLO",
+            "CREDITO": "5.687.647",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "289.202",
+            "FIRMA ELLECTRONICA": "ARTURO JARAMILLO - 1343574293",
+            "AL PIE DE LA FIRMA": "ARTURO JARAMILLO - 1343574293"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1343574293",
+            "NOMBRES": "ARTURO JARAMILLO",
+            "FECHA NACIMIENTO": "29/09/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.687.647",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ARTURO JARAMILLO - 1343574293",
+            "AL PIE DE LA FIRMA": "ARTURO JARAMILLO - 1343574293"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9762693",
+            "CEDULA": "1343574293",
+            "NOMBRES": "ARTURO JARAMILLO",
+            "CREDITO": "5.687.647",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "289.202",
+            "E.A": "26.31%",
+            "RECOMPRA O DESEMBOLSO": "4.191.729",
+            "FIRMA ELLECTRONICA": "ARTURO JARAMILLO - 1343574293"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1343574293",
+            "NOMBRES": "ARTURO JARAMILLO",
+            "FIRMA ELLECTRONICA": "ARTURO JARAMILLO - 1343574293"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1343574293",
+            "NOMBRES": "ARTURO JARAMILLO",
+            "FIRMA ELLECTRONICA": "ARTURO JARAMILLO - 1343574293",
+            "AL PIE DE LA FIRMA": "ARTURO JARAMILLO - 1343574293"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARTURO JARAMILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1343574293",
+            "NOMBRES": "ARTURO JARAMILLO",
+            "SALARIO": "4.191.915",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1343574293",
+            "NOMBRES": "ARTURO JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "4.191.729"
+        }
+    }
+]

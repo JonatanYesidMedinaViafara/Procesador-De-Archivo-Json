@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "398159319407",
+            "SOLICITUD": "6937355",
+            "CEDULA": "1321609978",
+            "NOMBRES": "DANIEL GABRIEL TORRES PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.434.600",
+            "FIRMA ELLECTRONICA": "DANIEL GABRIEL TORRES PÉREZ - 1321609978"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "398159319407",
+            "NOMBRES": "DANIEL GABRIEL TORRES PÉREZ",
+            "CREDITO": "7.787.308",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "377.585",
+            "FIRMA ELLECTRONICA": "DANIEL GABRIEL TORRES PÉREZ - 1321609978",
+            "AL PIE DE LA FIRMA": "DANIEL GABRIEL TORRES PÉREZ - 1321609978"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1321609978",
+            "NOMBRES": "DANIEL GABRIEL TORRES PÉREZ",
+            "FECHA NACIMIENTO": "18/02/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.787.308",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DANIEL GABRIEL TORRES PÉREZ - 1321609978",
+            "AL PIE DE LA FIRMA": "DANIEL GABRIEL TORRES PÉREZ - 1321609978"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6937355",
+            "CEDULA": "1321609978",
+            "NOMBRES": "DANIEL GABRIEL TORRES PÉREZ",
+            "CREDITO": "7.787.308",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "377.585",
+            "E.A": "21.41%",
+            "RECOMPRA O DESEMBOLSO": "1.434.600",
+            "FIRMA ELLECTRONICA": "DANIEL GABRIEL TORRES PÉREZ - 1321609978"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1321609978",
+            "NOMBRES": "DANIEL GABRIEL TORRES PÉREZ",
+            "FIRMA ELLECTRONICA": "DANIEL GABRIEL TORRES PÉREZ - 1321609978"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1321609978",
+            "NOMBRES": "DANIEL GABRIEL TORRES PÉREZ",
+            "FIRMA ELLECTRONICA": "DANIEL GABRIEL TORRES PÉREZ - 1321609978",
+            "AL PIE DE LA FIRMA": "DANIEL GABRIEL TORRES PÉREZ - 1321609978"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL GABRIEL TORRES PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1321609978",
+            "NOMBRES": "DANIEL GABRIEL TORRES PÉREZ",
+            "SALARIO": "3.922.587",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1321609978",
+            "NOMBRES": "DANIEL GABRIEL TORRES PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.434.600"
+        }
+    }
+]

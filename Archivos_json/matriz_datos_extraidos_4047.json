@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "688346176023",
+            "SOLICITUD": "2256037",
+            "CEDULA": "1289105842",
+            "NOMBRES": "ANTONIO ARANGO",
+            "RECOMPRA O DESEMBOLSO": "1.573.341",
+            "FIRMA ELLECTRONICA": "ANTONIO ARANGO - 1289105842"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "688346176023",
+            "NOMBRES": "ANTONIO ARANGO",
+            "CREDITO": "17.738.115",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "394.556",
+            "FIRMA ELLECTRONICA": "ANTONIO ARANGO - 1289105842",
+            "AL PIE DE LA FIRMA": "ANTONIO ARANGO - 1289105842"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1289105842",
+            "NOMBRES": "ANTONIO ARANGO",
+            "FECHA NACIMIENTO": "25/03/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.738.115",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANTONIO ARANGO - 1289105842",
+            "AL PIE DE LA FIRMA": "ANTONIO ARANGO - 1289105842"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2256037",
+            "CEDULA": "1289105842",
+            "NOMBRES": "ANTONIO ARANGO",
+            "CREDITO": "17.738.115",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "394.556",
+            "E.A": "21.65%",
+            "RECOMPRA O DESEMBOLSO": "1.573.341",
+            "FIRMA ELLECTRONICA": "ANTONIO ARANGO - 1289105842"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1289105842",
+            "NOMBRES": "ANTONIO ARANGO",
+            "FIRMA ELLECTRONICA": "ANTONIO ARANGO - 1289105842"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1289105842",
+            "NOMBRES": "ANTONIO ARANGO",
+            "FIRMA ELLECTRONICA": "ANTONIO ARANGO - 1289105842",
+            "AL PIE DE LA FIRMA": "ANTONIO ARANGO - 1289105842"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO ARANGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1289105842",
+            "NOMBRES": "ANTONIO ARANGO",
+            "SALARIO": "2.245.638",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1289105842",
+            "NOMBRES": "ANTONIO ARANGO",
+            "RECOMPRA O DESEMBOLSO": "1.573.341"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "598683683757",
+            "SOLICITUD": "8258082",
+            "CEDULA": "1353025585",
+            "NOMBRES": "LUIS CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.915.070",
+            "FIRMA ELLECTRONICA": "LUIS CARDONA - 1353025585"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "598683683757",
+            "NOMBRES": "LUIS CARDONA",
+            "CREDITO": "17.748.915",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "288.194",
+            "FIRMA ELLECTRONICA": "LUIS CARDONA - 1353025585",
+            "AL PIE DE LA FIRMA": "LUIS CARDONA - 1353025585"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1353025585",
+            "NOMBRES": "LUIS CARDONA",
+            "FECHA NACIMIENTO": "08/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.748.915",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUIS CARDONA - 1353025585",
+            "AL PIE DE LA FIRMA": "LUIS CARDONA - 1353025585"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8258082",
+            "CEDULA": "1353025585",
+            "NOMBRES": "LUIS CARDONA",
+            "CREDITO": "17.748.915",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "288.194",
+            "E.A": "26.62%",
+            "RECOMPRA O DESEMBOLSO": "4.915.070",
+            "FIRMA ELLECTRONICA": "LUIS CARDONA - 1353025585"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1353025585",
+            "NOMBRES": "LUIS CARDONA",
+            "FIRMA ELLECTRONICA": "LUIS CARDONA - 1353025585"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1353025585",
+            "NOMBRES": "LUIS CARDONA",
+            "FIRMA ELLECTRONICA": "LUIS CARDONA - 1353025585",
+            "AL PIE DE LA FIRMA": "LUIS CARDONA - 1353025585"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1353025585",
+            "NOMBRES": "LUIS CARDONA",
+            "SALARIO": "1.297.959",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1353025585",
+            "NOMBRES": "LUIS CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.915.070"
+        }
+    }
+]

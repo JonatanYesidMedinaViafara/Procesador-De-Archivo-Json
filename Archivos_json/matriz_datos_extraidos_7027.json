@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "885890825281",
+            "SOLICITUD": "1259533",
+            "CEDULA": "1726984727",
+            "NOMBRES": "OMAIRA ISABEL CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.641.251",
+            "FIRMA ELLECTRONICA": "OMAIRA ISABEL CARDONA - 1726984727"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "885890825281",
+            "NOMBRES": "OMAIRA ISABEL CARDONA",
+            "CREDITO": "15.067.475",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "376.515",
+            "FIRMA ELLECTRONICA": "OMAIRA ISABEL CARDONA - 1726984727",
+            "AL PIE DE LA FIRMA": "OMAIRA ISABEL CARDONA - 1726984727"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1726984727",
+            "NOMBRES": "OMAIRA ISABEL CARDONA",
+            "FECHA NACIMIENTO": "20/12/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.067.475",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "OMAIRA ISABEL CARDONA - 1726984727",
+            "AL PIE DE LA FIRMA": "OMAIRA ISABEL CARDONA - 1726984727"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1259533",
+            "CEDULA": "1726984727",
+            "NOMBRES": "OMAIRA ISABEL CARDONA",
+            "CREDITO": "15.067.475",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "376.515",
+            "E.A": "26.72%",
+            "RECOMPRA O DESEMBOLSO": "4.641.251",
+            "FIRMA ELLECTRONICA": "OMAIRA ISABEL CARDONA - 1726984727"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1726984727",
+            "NOMBRES": "OMAIRA ISABEL CARDONA",
+            "FIRMA ELLECTRONICA": "OMAIRA ISABEL CARDONA - 1726984727"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1726984727",
+            "NOMBRES": "OMAIRA ISABEL CARDONA",
+            "FIRMA ELLECTRONICA": "OMAIRA ISABEL CARDONA - 1726984727",
+            "AL PIE DE LA FIRMA": "OMAIRA ISABEL CARDONA - 1726984727"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAIRA ISABEL CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1726984727",
+            "NOMBRES": "OMAIRA ISABEL CARDONA",
+            "SALARIO": "4.613.221",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1726984727",
+            "NOMBRES": "OMAIRA ISABEL CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.641.251"
+        }
+    }
+]

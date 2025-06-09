@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "190135060008",
+            "SOLICITUD": "5888559",
+            "CEDULA": "1951612378",
+            "NOMBRES": "SALVADOR CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.533.182",
+            "FIRMA ELLECTRONICA": "SALVADOR CALDERÓN - 1951612378"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "190135060008",
+            "NOMBRES": "SALVADOR CALDERÓN",
+            "CREDITO": "12.277.880",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "348.928",
+            "FIRMA ELLECTRONICA": "SALVADOR CALDERÓN - 1951612378",
+            "AL PIE DE LA FIRMA": "SALVADOR CALDERÓN - 1951612378"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1951612378",
+            "NOMBRES": "SALVADOR CALDERÓN",
+            "FECHA NACIMIENTO": "08/09/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.277.880",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SALVADOR CALDERÓN - 1951612378",
+            "AL PIE DE LA FIRMA": "SALVADOR CALDERÓN - 1951612378"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5888559",
+            "CEDULA": "1951612378",
+            "NOMBRES": "SALVADOR CALDERÓN",
+            "CREDITO": "12.277.880",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "348.928",
+            "E.A": "18.82%",
+            "RECOMPRA O DESEMBOLSO": "4.533.182",
+            "FIRMA ELLECTRONICA": "SALVADOR CALDERÓN - 1951612378"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1951612378",
+            "NOMBRES": "SALVADOR CALDERÓN",
+            "FIRMA ELLECTRONICA": "SALVADOR CALDERÓN - 1951612378"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1951612378",
+            "NOMBRES": "SALVADOR CALDERÓN",
+            "FIRMA ELLECTRONICA": "SALVADOR CALDERÓN - 1951612378",
+            "AL PIE DE LA FIRMA": "SALVADOR CALDERÓN - 1951612378"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SALVADOR CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1951612378",
+            "NOMBRES": "SALVADOR CALDERÓN",
+            "SALARIO": "3.087.622",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1951612378",
+            "NOMBRES": "SALVADOR CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.533.182"
+        }
+    }
+]

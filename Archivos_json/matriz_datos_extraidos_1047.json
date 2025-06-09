@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "636434444122",
+            "SOLICITUD": "5984769",
+            "CEDULA": "1555534609",
+            "NOMBRES": "ESTHER SANDRA MORALES SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.362.700",
+            "FIRMA ELLECTRONICA": "ESTHER SANDRA MORALES SÁNCHEZ - 1555534609"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "636434444122",
+            "NOMBRES": "ESTHER SANDRA MORALES SÁNCHEZ",
+            "CREDITO": "18.584.648",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "114.048",
+            "FIRMA ELLECTRONICA": "ESTHER SANDRA MORALES SÁNCHEZ - 1555534609",
+            "AL PIE DE LA FIRMA": "ESTHER SANDRA MORALES SÁNCHEZ - 1555534609"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1555534609",
+            "NOMBRES": "ESTHER SANDRA MORALES SÁNCHEZ",
+            "FECHA NACIMIENTO": "05/12/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.584.648",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ESTHER SANDRA MORALES SÁNCHEZ - 1555534609",
+            "AL PIE DE LA FIRMA": "ESTHER SANDRA MORALES SÁNCHEZ - 1555534609"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5984769",
+            "CEDULA": "1555534609",
+            "NOMBRES": "ESTHER SANDRA MORALES SÁNCHEZ",
+            "CREDITO": "18.584.648",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "114.048",
+            "E.A": "18.33%",
+            "RECOMPRA O DESEMBOLSO": "3.362.700",
+            "FIRMA ELLECTRONICA": "ESTHER SANDRA MORALES SÁNCHEZ - 1555534609"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1555534609",
+            "NOMBRES": "ESTHER SANDRA MORALES SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ESTHER SANDRA MORALES SÁNCHEZ - 1555534609"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1555534609",
+            "NOMBRES": "ESTHER SANDRA MORALES SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ESTHER SANDRA MORALES SÁNCHEZ - 1555534609",
+            "AL PIE DE LA FIRMA": "ESTHER SANDRA MORALES SÁNCHEZ - 1555534609"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTHER SANDRA MORALES SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1555534609",
+            "NOMBRES": "ESTHER SANDRA MORALES SÁNCHEZ",
+            "SALARIO": "3.927.045",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1555534609",
+            "NOMBRES": "ESTHER SANDRA MORALES SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.362.700"
+        }
+    }
+]

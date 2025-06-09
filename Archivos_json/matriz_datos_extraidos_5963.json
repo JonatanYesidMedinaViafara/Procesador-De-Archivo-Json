@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "164864561010",
+            "SOLICITUD": "9881716",
+            "CEDULA": "1453773845",
+            "NOMBRES": "FERNANDO DAVID MORENO BEJARANO",
+            "RECOMPRA O DESEMBOLSO": "3.032.223",
+            "FIRMA ELLECTRONICA": "FERNANDO DAVID MORENO BEJARANO - 1453773845"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "164864561010",
+            "NOMBRES": "FERNANDO DAVID MORENO BEJARANO",
+            "CREDITO": "17.815.136",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "223.251",
+            "FIRMA ELLECTRONICA": "FERNANDO DAVID MORENO BEJARANO - 1453773845",
+            "AL PIE DE LA FIRMA": "FERNANDO DAVID MORENO BEJARANO - 1453773845"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1453773845",
+            "NOMBRES": "FERNANDO DAVID MORENO BEJARANO",
+            "FECHA NACIMIENTO": "15/04/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.815.136",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNANDO DAVID MORENO BEJARANO - 1453773845",
+            "AL PIE DE LA FIRMA": "FERNANDO DAVID MORENO BEJARANO - 1453773845"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9881716",
+            "CEDULA": "1453773845",
+            "NOMBRES": "FERNANDO DAVID MORENO BEJARANO",
+            "CREDITO": "17.815.136",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "223.251",
+            "E.A": "27.82%",
+            "RECOMPRA O DESEMBOLSO": "3.032.223",
+            "FIRMA ELLECTRONICA": "FERNANDO DAVID MORENO BEJARANO - 1453773845"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1453773845",
+            "NOMBRES": "FERNANDO DAVID MORENO BEJARANO",
+            "FIRMA ELLECTRONICA": "FERNANDO DAVID MORENO BEJARANO - 1453773845"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1453773845",
+            "NOMBRES": "FERNANDO DAVID MORENO BEJARANO",
+            "FIRMA ELLECTRONICA": "FERNANDO DAVID MORENO BEJARANO - 1453773845",
+            "AL PIE DE LA FIRMA": "FERNANDO DAVID MORENO BEJARANO - 1453773845"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO DAVID MORENO BEJARANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1453773845",
+            "NOMBRES": "FERNANDO DAVID MORENO BEJARANO",
+            "SALARIO": "3.939.998",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1453773845",
+            "NOMBRES": "FERNANDO DAVID MORENO BEJARANO",
+            "RECOMPRA O DESEMBOLSO": "3.032.223"
+        }
+    }
+]

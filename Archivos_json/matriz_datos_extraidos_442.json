@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "231291545425",
+            "SOLICITUD": "1021361",
+            "CEDULA": "1685600134",
+            "NOMBRES": "JAVIER VICENTE MORA",
+            "RECOMPRA O DESEMBOLSO": "2.717.940",
+            "FIRMA ELLECTRONICA": "JAVIER VICENTE MORA - 1685600134"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "231291545425",
+            "NOMBRES": "JAVIER VICENTE MORA",
+            "CREDITO": "8.450.582",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "209.452",
+            "FIRMA ELLECTRONICA": "JAVIER VICENTE MORA - 1685600134",
+            "AL PIE DE LA FIRMA": "JAVIER VICENTE MORA - 1685600134"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1685600134",
+            "NOMBRES": "JAVIER VICENTE MORA",
+            "FECHA NACIMIENTO": "20/07/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.450.582",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAVIER VICENTE MORA - 1685600134",
+            "AL PIE DE LA FIRMA": "JAVIER VICENTE MORA - 1685600134"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1021361",
+            "CEDULA": "1685600134",
+            "NOMBRES": "JAVIER VICENTE MORA",
+            "CREDITO": "8.450.582",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "209.452",
+            "E.A": "21.49%",
+            "RECOMPRA O DESEMBOLSO": "2.717.940",
+            "FIRMA ELLECTRONICA": "JAVIER VICENTE MORA - 1685600134"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1685600134",
+            "NOMBRES": "JAVIER VICENTE MORA",
+            "FIRMA ELLECTRONICA": "JAVIER VICENTE MORA - 1685600134"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1685600134",
+            "NOMBRES": "JAVIER VICENTE MORA",
+            "FIRMA ELLECTRONICA": "JAVIER VICENTE MORA - 1685600134",
+            "AL PIE DE LA FIRMA": "JAVIER VICENTE MORA - 1685600134"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER VICENTE MORA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1685600134",
+            "NOMBRES": "JAVIER VICENTE MORA",
+            "SALARIO": "2.519.488",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1685600134",
+            "NOMBRES": "JAVIER VICENTE MORA",
+            "RECOMPRA O DESEMBOLSO": "2.717.940"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "896953345995",
+            "SOLICITUD": "7826201",
+            "CEDULA": "1278877830",
+            "NOMBRES": "LILIA TERESA PÉREZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.636.034",
+            "FIRMA ELLECTRONICA": "LILIA TERESA PÉREZ VALENCIA - 1278877830"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "896953345995",
+            "NOMBRES": "LILIA TERESA PÉREZ VALENCIA",
+            "CREDITO": "17.382.931",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "152.004",
+            "FIRMA ELLECTRONICA": "LILIA TERESA PÉREZ VALENCIA - 1278877830",
+            "AL PIE DE LA FIRMA": "LILIA TERESA PÉREZ VALENCIA - 1278877830"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1278877830",
+            "NOMBRES": "LILIA TERESA PÉREZ VALENCIA",
+            "FECHA NACIMIENTO": "26/11/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.382.931",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LILIA TERESA PÉREZ VALENCIA - 1278877830",
+            "AL PIE DE LA FIRMA": "LILIA TERESA PÉREZ VALENCIA - 1278877830"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7826201",
+            "CEDULA": "1278877830",
+            "NOMBRES": "LILIA TERESA PÉREZ VALENCIA",
+            "CREDITO": "17.382.931",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "152.004",
+            "E.A": "21.24%",
+            "RECOMPRA O DESEMBOLSO": "3.636.034",
+            "FIRMA ELLECTRONICA": "LILIA TERESA PÉREZ VALENCIA - 1278877830"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1278877830",
+            "NOMBRES": "LILIA TERESA PÉREZ VALENCIA",
+            "FIRMA ELLECTRONICA": "LILIA TERESA PÉREZ VALENCIA - 1278877830"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1278877830",
+            "NOMBRES": "LILIA TERESA PÉREZ VALENCIA",
+            "FIRMA ELLECTRONICA": "LILIA TERESA PÉREZ VALENCIA - 1278877830",
+            "AL PIE DE LA FIRMA": "LILIA TERESA PÉREZ VALENCIA - 1278877830"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LILIA TERESA PÉREZ VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1278877830",
+            "NOMBRES": "LILIA TERESA PÉREZ VALENCIA",
+            "SALARIO": "4.495.604",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1278877830",
+            "NOMBRES": "LILIA TERESA PÉREZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.636.034"
+        }
+    }
+]

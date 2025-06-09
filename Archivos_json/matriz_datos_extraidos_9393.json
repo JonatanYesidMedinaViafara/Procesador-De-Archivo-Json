@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "137930235238",
+            "SOLICITUD": "8198993",
+            "CEDULA": "1360843863",
+            "NOMBRES": "ELENA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.308.659",
+            "FIRMA ELLECTRONICA": "ELENA SÁNCHEZ - 1360843863"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "137930235238",
+            "NOMBRES": "ELENA SÁNCHEZ",
+            "CREDITO": "5.855.861",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "248.237",
+            "FIRMA ELLECTRONICA": "ELENA SÁNCHEZ - 1360843863",
+            "AL PIE DE LA FIRMA": "ELENA SÁNCHEZ - 1360843863"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1360843863",
+            "NOMBRES": "ELENA SÁNCHEZ",
+            "FECHA NACIMIENTO": "03/02/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.855.861",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ELENA SÁNCHEZ - 1360843863",
+            "AL PIE DE LA FIRMA": "ELENA SÁNCHEZ - 1360843863"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8198993",
+            "CEDULA": "1360843863",
+            "NOMBRES": "ELENA SÁNCHEZ",
+            "CREDITO": "5.855.861",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "248.237",
+            "E.A": "27.97%",
+            "RECOMPRA O DESEMBOLSO": "4.308.659",
+            "FIRMA ELLECTRONICA": "ELENA SÁNCHEZ - 1360843863"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1360843863",
+            "NOMBRES": "ELENA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ELENA SÁNCHEZ - 1360843863"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1360843863",
+            "NOMBRES": "ELENA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ELENA SÁNCHEZ - 1360843863",
+            "AL PIE DE LA FIRMA": "ELENA SÁNCHEZ - 1360843863"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1360843863",
+            "NOMBRES": "ELENA SÁNCHEZ",
+            "SALARIO": "3.075.495",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1360843863",
+            "NOMBRES": "ELENA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.308.659"
+        }
+    }
+]

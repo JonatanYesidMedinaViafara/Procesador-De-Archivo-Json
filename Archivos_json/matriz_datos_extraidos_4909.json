@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "850379876920",
+            "SOLICITUD": "6126387",
+            "CEDULA": "1825628587",
+            "NOMBRES": "FABIÁN CAMILO RODRÍGUEZ MIRANDA",
+            "RECOMPRA O DESEMBOLSO": "1.527.889",
+            "FIRMA ELLECTRONICA": "FABIÁN CAMILO RODRÍGUEZ MIRANDA - 1825628587"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "850379876920",
+            "NOMBRES": "FABIÁN CAMILO RODRÍGUEZ MIRANDA",
+            "CREDITO": "9.072.377",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.818",
+            "FIRMA ELLECTRONICA": "FABIÁN CAMILO RODRÍGUEZ MIRANDA - 1825628587",
+            "AL PIE DE LA FIRMA": "FABIÁN CAMILO RODRÍGUEZ MIRANDA - 1825628587"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1825628587",
+            "NOMBRES": "FABIÁN CAMILO RODRÍGUEZ MIRANDA",
+            "FECHA NACIMIENTO": "10/06/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.072.377",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FABIÁN CAMILO RODRÍGUEZ MIRANDA - 1825628587",
+            "AL PIE DE LA FIRMA": "FABIÁN CAMILO RODRÍGUEZ MIRANDA - 1825628587"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6126387",
+            "CEDULA": "1825628587",
+            "NOMBRES": "FABIÁN CAMILO RODRÍGUEZ MIRANDA",
+            "CREDITO": "9.072.377",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.818",
+            "E.A": "27.41%",
+            "RECOMPRA O DESEMBOLSO": "1.527.889",
+            "FIRMA ELLECTRONICA": "FABIÁN CAMILO RODRÍGUEZ MIRANDA - 1825628587"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1825628587",
+            "NOMBRES": "FABIÁN CAMILO RODRÍGUEZ MIRANDA",
+            "FIRMA ELLECTRONICA": "FABIÁN CAMILO RODRÍGUEZ MIRANDA - 1825628587"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1825628587",
+            "NOMBRES": "FABIÁN CAMILO RODRÍGUEZ MIRANDA",
+            "FIRMA ELLECTRONICA": "FABIÁN CAMILO RODRÍGUEZ MIRANDA - 1825628587",
+            "AL PIE DE LA FIRMA": "FABIÁN CAMILO RODRÍGUEZ MIRANDA - 1825628587"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIÁN CAMILO RODRÍGUEZ MIRANDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1825628587",
+            "NOMBRES": "FABIÁN CAMILO RODRÍGUEZ MIRANDA",
+            "SALARIO": "3.608.101",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1825628587",
+            "NOMBRES": "FABIÁN CAMILO RODRÍGUEZ MIRANDA",
+            "RECOMPRA O DESEMBOLSO": "1.527.889"
+        }
+    }
+]

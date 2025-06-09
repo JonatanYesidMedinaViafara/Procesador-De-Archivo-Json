@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "926358469652",
+            "SOLICITUD": "9154183",
+            "CEDULA": "1627111546",
+            "NOMBRES": "ALFONSO VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.532.491",
+            "FIRMA ELLECTRONICA": "ALFONSO VALENCIA - 1627111546"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "926358469652",
+            "NOMBRES": "ALFONSO VALENCIA",
+            "CREDITO": "14.064.069",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "127.428",
+            "FIRMA ELLECTRONICA": "ALFONSO VALENCIA - 1627111546",
+            "AL PIE DE LA FIRMA": "ALFONSO VALENCIA - 1627111546"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1627111546",
+            "NOMBRES": "ALFONSO VALENCIA",
+            "FECHA NACIMIENTO": "26/08/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.064.069",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALFONSO VALENCIA - 1627111546",
+            "AL PIE DE LA FIRMA": "ALFONSO VALENCIA - 1627111546"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9154183",
+            "CEDULA": "1627111546",
+            "NOMBRES": "ALFONSO VALENCIA",
+            "CREDITO": "14.064.069",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "127.428",
+            "E.A": "23.18%",
+            "RECOMPRA O DESEMBOLSO": "3.532.491",
+            "FIRMA ELLECTRONICA": "ALFONSO VALENCIA - 1627111546"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1627111546",
+            "NOMBRES": "ALFONSO VALENCIA",
+            "FIRMA ELLECTRONICA": "ALFONSO VALENCIA - 1627111546"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1627111546",
+            "NOMBRES": "ALFONSO VALENCIA",
+            "FIRMA ELLECTRONICA": "ALFONSO VALENCIA - 1627111546",
+            "AL PIE DE LA FIRMA": "ALFONSO VALENCIA - 1627111546"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFONSO VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1627111546",
+            "NOMBRES": "ALFONSO VALENCIA",
+            "SALARIO": "2.888.138",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1627111546",
+            "NOMBRES": "ALFONSO VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.532.491"
+        }
+    }
+]

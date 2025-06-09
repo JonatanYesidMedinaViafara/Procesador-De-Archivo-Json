@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "434952977289",
+            "SOLICITUD": "2589889",
+            "CEDULA": "1128907604",
+            "NOMBRES": "ANTONIO PARRA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.520.477",
+            "FIRMA ELLECTRONICA": "ANTONIO PARRA PÉREZ - 1128907604"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "434952977289",
+            "NOMBRES": "ANTONIO PARRA PÉREZ",
+            "CREDITO": "15.894.639",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "313.716",
+            "FIRMA ELLECTRONICA": "ANTONIO PARRA PÉREZ - 1128907604",
+            "AL PIE DE LA FIRMA": "ANTONIO PARRA PÉREZ - 1128907604"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1128907604",
+            "NOMBRES": "ANTONIO PARRA PÉREZ",
+            "FECHA NACIMIENTO": "11/03/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.894.639",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANTONIO PARRA PÉREZ - 1128907604",
+            "AL PIE DE LA FIRMA": "ANTONIO PARRA PÉREZ - 1128907604"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2589889",
+            "CEDULA": "1128907604",
+            "NOMBRES": "ANTONIO PARRA PÉREZ",
+            "CREDITO": "15.894.639",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "313.716",
+            "E.A": "26.4%",
+            "RECOMPRA O DESEMBOLSO": "4.520.477",
+            "FIRMA ELLECTRONICA": "ANTONIO PARRA PÉREZ - 1128907604"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1128907604",
+            "NOMBRES": "ANTONIO PARRA PÉREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO PARRA PÉREZ - 1128907604"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1128907604",
+            "NOMBRES": "ANTONIO PARRA PÉREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO PARRA PÉREZ - 1128907604",
+            "AL PIE DE LA FIRMA": "ANTONIO PARRA PÉREZ - 1128907604"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO PARRA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1128907604",
+            "NOMBRES": "ANTONIO PARRA PÉREZ",
+            "SALARIO": "2.864.984",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1128907604",
+            "NOMBRES": "ANTONIO PARRA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.520.477"
+        }
+    }
+]

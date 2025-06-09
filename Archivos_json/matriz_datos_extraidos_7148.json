@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "883197497107",
+            "SOLICITUD": "9020244",
+            "CEDULA": "1921710918",
+            "NOMBRES": "DANIELA OVIEDO",
+            "RECOMPRA O DESEMBOLSO": "4.843.298",
+            "FIRMA ELLECTRONICA": "DANIELA OVIEDO - 1921710918"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "883197497107",
+            "NOMBRES": "DANIELA OVIEDO",
+            "CREDITO": "17.147.530",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "180.261",
+            "FIRMA ELLECTRONICA": "DANIELA OVIEDO - 1921710918",
+            "AL PIE DE LA FIRMA": "DANIELA OVIEDO - 1921710918"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1921710918",
+            "NOMBRES": "DANIELA OVIEDO",
+            "FECHA NACIMIENTO": "12/05/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.147.530",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DANIELA OVIEDO - 1921710918",
+            "AL PIE DE LA FIRMA": "DANIELA OVIEDO - 1921710918"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9020244",
+            "CEDULA": "1921710918",
+            "NOMBRES": "DANIELA OVIEDO",
+            "CREDITO": "17.147.530",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "180.261",
+            "E.A": "27.52%",
+            "RECOMPRA O DESEMBOLSO": "4.843.298",
+            "FIRMA ELLECTRONICA": "DANIELA OVIEDO - 1921710918"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1921710918",
+            "NOMBRES": "DANIELA OVIEDO",
+            "FIRMA ELLECTRONICA": "DANIELA OVIEDO - 1921710918"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1921710918",
+            "NOMBRES": "DANIELA OVIEDO",
+            "FIRMA ELLECTRONICA": "DANIELA OVIEDO - 1921710918",
+            "AL PIE DE LA FIRMA": "DANIELA OVIEDO - 1921710918"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIELA OVIEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1921710918",
+            "NOMBRES": "DANIELA OVIEDO",
+            "SALARIO": "2.540.624",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1921710918",
+            "NOMBRES": "DANIELA OVIEDO",
+            "RECOMPRA O DESEMBOLSO": "4.843.298"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "394406721636",
+            "SOLICITUD": "7126778",
+            "CEDULA": "1027632509",
+            "NOMBRES": "ISABEL INÉS ARENAS",
+            "RECOMPRA O DESEMBOLSO": "2.946.236",
+            "FIRMA ELLECTRONICA": "ISABEL INÉS ARENAS - 1027632509"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "394406721636",
+            "NOMBRES": "ISABEL INÉS ARENAS",
+            "CREDITO": "9.942.301",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "254.44",
+            "FIRMA ELLECTRONICA": "ISABEL INÉS ARENAS - 1027632509",
+            "AL PIE DE LA FIRMA": "ISABEL INÉS ARENAS - 1027632509"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1027632509",
+            "NOMBRES": "ISABEL INÉS ARENAS",
+            "FECHA NACIMIENTO": "12/03/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.942.301",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ISABEL INÉS ARENAS - 1027632509",
+            "AL PIE DE LA FIRMA": "ISABEL INÉS ARENAS - 1027632509"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7126778",
+            "CEDULA": "1027632509",
+            "NOMBRES": "ISABEL INÉS ARENAS",
+            "CREDITO": "9.942.301",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "254.44",
+            "E.A": "25.53%",
+            "RECOMPRA O DESEMBOLSO": "2.946.236",
+            "FIRMA ELLECTRONICA": "ISABEL INÉS ARENAS - 1027632509"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1027632509",
+            "NOMBRES": "ISABEL INÉS ARENAS",
+            "FIRMA ELLECTRONICA": "ISABEL INÉS ARENAS - 1027632509"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1027632509",
+            "NOMBRES": "ISABEL INÉS ARENAS",
+            "FIRMA ELLECTRONICA": "ISABEL INÉS ARENAS - 1027632509",
+            "AL PIE DE LA FIRMA": "ISABEL INÉS ARENAS - 1027632509"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL INÉS ARENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1027632509",
+            "NOMBRES": "ISABEL INÉS ARENAS",
+            "SALARIO": "4.565.895",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1027632509",
+            "NOMBRES": "ISABEL INÉS ARENAS",
+            "RECOMPRA O DESEMBOLSO": "2.946.236"
+        }
+    }
+]

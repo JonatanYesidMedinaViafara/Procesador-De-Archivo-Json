@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "509645372605",
+            "SOLICITUD": "8865736",
+            "CEDULA": "1053917122",
+            "NOMBRES": "CÉSAR JORGE MONTOYA",
+            "RECOMPRA O DESEMBOLSO": "3.053.545",
+            "FIRMA ELLECTRONICA": "CÉSAR JORGE MONTOYA - 1053917122"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "509645372605",
+            "NOMBRES": "CÉSAR JORGE MONTOYA",
+            "CREDITO": "13.510.041",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "219.03",
+            "FIRMA ELLECTRONICA": "CÉSAR JORGE MONTOYA - 1053917122",
+            "AL PIE DE LA FIRMA": "CÉSAR JORGE MONTOYA - 1053917122"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1053917122",
+            "NOMBRES": "CÉSAR JORGE MONTOYA",
+            "FECHA NACIMIENTO": "29/06/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.510.041",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CÉSAR JORGE MONTOYA - 1053917122",
+            "AL PIE DE LA FIRMA": "CÉSAR JORGE MONTOYA - 1053917122"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8865736",
+            "CEDULA": "1053917122",
+            "NOMBRES": "CÉSAR JORGE MONTOYA",
+            "CREDITO": "13.510.041",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "219.03",
+            "E.A": "27.19%",
+            "RECOMPRA O DESEMBOLSO": "3.053.545",
+            "FIRMA ELLECTRONICA": "CÉSAR JORGE MONTOYA - 1053917122"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1053917122",
+            "NOMBRES": "CÉSAR JORGE MONTOYA",
+            "FIRMA ELLECTRONICA": "CÉSAR JORGE MONTOYA - 1053917122"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1053917122",
+            "NOMBRES": "CÉSAR JORGE MONTOYA",
+            "FIRMA ELLECTRONICA": "CÉSAR JORGE MONTOYA - 1053917122",
+            "AL PIE DE LA FIRMA": "CÉSAR JORGE MONTOYA - 1053917122"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CÉSAR JORGE MONTOYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1053917122",
+            "NOMBRES": "CÉSAR JORGE MONTOYA",
+            "SALARIO": "3.678.184",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1053917122",
+            "NOMBRES": "CÉSAR JORGE MONTOYA",
+            "RECOMPRA O DESEMBOLSO": "3.053.545"
+        }
+    }
+]

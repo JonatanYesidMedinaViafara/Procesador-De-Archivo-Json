@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "453620015828",
+            "SOLICITUD": "3071954",
+            "CEDULA": "1932416285",
+            "NOMBRES": "GABRIEL MARIO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.061.391",
+            "FIRMA ELLECTRONICA": "GABRIEL MARIO LÓPEZ - 1932416285"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "453620015828",
+            "NOMBRES": "GABRIEL MARIO LÓPEZ",
+            "CREDITO": "9.980.671",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "169.476",
+            "FIRMA ELLECTRONICA": "GABRIEL MARIO LÓPEZ - 1932416285",
+            "AL PIE DE LA FIRMA": "GABRIEL MARIO LÓPEZ - 1932416285"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1932416285",
+            "NOMBRES": "GABRIEL MARIO LÓPEZ",
+            "FECHA NACIMIENTO": "29/07/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.980.671",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "GABRIEL MARIO LÓPEZ - 1932416285",
+            "AL PIE DE LA FIRMA": "GABRIEL MARIO LÓPEZ - 1932416285"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3071954",
+            "CEDULA": "1932416285",
+            "NOMBRES": "GABRIEL MARIO LÓPEZ",
+            "CREDITO": "9.980.671",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "169.476",
+            "E.A": "22.29%",
+            "RECOMPRA O DESEMBOLSO": "2.061.391",
+            "FIRMA ELLECTRONICA": "GABRIEL MARIO LÓPEZ - 1932416285"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1932416285",
+            "NOMBRES": "GABRIEL MARIO LÓPEZ",
+            "FIRMA ELLECTRONICA": "GABRIEL MARIO LÓPEZ - 1932416285"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1932416285",
+            "NOMBRES": "GABRIEL MARIO LÓPEZ",
+            "FIRMA ELLECTRONICA": "GABRIEL MARIO LÓPEZ - 1932416285",
+            "AL PIE DE LA FIRMA": "GABRIEL MARIO LÓPEZ - 1932416285"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GABRIEL MARIO LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1932416285",
+            "NOMBRES": "GABRIEL MARIO LÓPEZ",
+            "SALARIO": "3.021.800",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1932416285",
+            "NOMBRES": "GABRIEL MARIO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.061.391"
+        }
+    }
+]

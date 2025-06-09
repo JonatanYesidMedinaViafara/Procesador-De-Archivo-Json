@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "276676508072",
+            "SOLICITUD": "1285053",
+            "CEDULA": "1270727945",
+            "NOMBRES": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.344.384",
+            "FIRMA ELLECTRONICA": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ - 1270727945"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "276676508072",
+            "NOMBRES": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ",
+            "CREDITO": "8.498.593",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "264.514",
+            "FIRMA ELLECTRONICA": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ - 1270727945",
+            "AL PIE DE LA FIRMA": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ - 1270727945"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1270727945",
+            "NOMBRES": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ",
+            "FECHA NACIMIENTO": "16/09/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.498.593",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ - 1270727945",
+            "AL PIE DE LA FIRMA": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ - 1270727945"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1285053",
+            "CEDULA": "1270727945",
+            "NOMBRES": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ",
+            "CREDITO": "8.498.593",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "264.514",
+            "E.A": "25.05%",
+            "RECOMPRA O DESEMBOLSO": "2.344.384",
+            "FIRMA ELLECTRONICA": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ - 1270727945"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1270727945",
+            "NOMBRES": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ - 1270727945"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1270727945",
+            "NOMBRES": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ - 1270727945",
+            "AL PIE DE LA FIRMA": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ - 1270727945"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1270727945",
+            "NOMBRES": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ",
+            "SALARIO": "4.888.499",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1270727945",
+            "NOMBRES": "FERNANDO ALFREDO RESTREPO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.344.384"
+        }
+    }
+]

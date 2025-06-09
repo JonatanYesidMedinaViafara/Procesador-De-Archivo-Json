@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "288009832107",
+            "SOLICITUD": "2581759",
+            "CEDULA": "1074060150",
+            "NOMBRES": "SEBASTIÁN ANDRÉS SANDOVAL PRADA",
+            "RECOMPRA O DESEMBOLSO": "3.106.928",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ANDRÉS SANDOVAL PRADA - 1074060150"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "288009832107",
+            "NOMBRES": "SEBASTIÁN ANDRÉS SANDOVAL PRADA",
+            "CREDITO": "6.964.217",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "368.657",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ANDRÉS SANDOVAL PRADA - 1074060150",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN ANDRÉS SANDOVAL PRADA - 1074060150"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1074060150",
+            "NOMBRES": "SEBASTIÁN ANDRÉS SANDOVAL PRADA",
+            "FECHA NACIMIENTO": "19/07/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.964.217",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ANDRÉS SANDOVAL PRADA - 1074060150",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN ANDRÉS SANDOVAL PRADA - 1074060150"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2581759",
+            "CEDULA": "1074060150",
+            "NOMBRES": "SEBASTIÁN ANDRÉS SANDOVAL PRADA",
+            "CREDITO": "6.964.217",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "368.657",
+            "E.A": "27.2%",
+            "RECOMPRA O DESEMBOLSO": "3.106.928",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ANDRÉS SANDOVAL PRADA - 1074060150"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1074060150",
+            "NOMBRES": "SEBASTIÁN ANDRÉS SANDOVAL PRADA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ANDRÉS SANDOVAL PRADA - 1074060150"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1074060150",
+            "NOMBRES": "SEBASTIÁN ANDRÉS SANDOVAL PRADA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ANDRÉS SANDOVAL PRADA - 1074060150",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN ANDRÉS SANDOVAL PRADA - 1074060150"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEBASTIÁN ANDRÉS SANDOVAL PRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1074060150",
+            "NOMBRES": "SEBASTIÁN ANDRÉS SANDOVAL PRADA",
+            "SALARIO": "3.324.259",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1074060150",
+            "NOMBRES": "SEBASTIÁN ANDRÉS SANDOVAL PRADA",
+            "RECOMPRA O DESEMBOLSO": "3.106.928"
+        }
+    }
+]

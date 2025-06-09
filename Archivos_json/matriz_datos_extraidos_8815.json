@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "521676861978",
+            "SOLICITUD": "5455988",
+            "CEDULA": "1239068168",
+            "NOMBRES": "HUMBERTO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "4.163.556",
+            "FIRMA ELLECTRONICA": "HUMBERTO RINCÓN - 1239068168"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "521676861978",
+            "NOMBRES": "HUMBERTO RINCÓN",
+            "CREDITO": "16.896.211",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "267.858",
+            "FIRMA ELLECTRONICA": "HUMBERTO RINCÓN - 1239068168",
+            "AL PIE DE LA FIRMA": "HUMBERTO RINCÓN - 1239068168"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1239068168",
+            "NOMBRES": "HUMBERTO RINCÓN",
+            "FECHA NACIMIENTO": "09/05/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.896.211",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HUMBERTO RINCÓN - 1239068168",
+            "AL PIE DE LA FIRMA": "HUMBERTO RINCÓN - 1239068168"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5455988",
+            "CEDULA": "1239068168",
+            "NOMBRES": "HUMBERTO RINCÓN",
+            "CREDITO": "16.896.211",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "267.858",
+            "E.A": "28.49%",
+            "RECOMPRA O DESEMBOLSO": "4.163.556",
+            "FIRMA ELLECTRONICA": "HUMBERTO RINCÓN - 1239068168"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1239068168",
+            "NOMBRES": "HUMBERTO RINCÓN",
+            "FIRMA ELLECTRONICA": "HUMBERTO RINCÓN - 1239068168"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1239068168",
+            "NOMBRES": "HUMBERTO RINCÓN",
+            "FIRMA ELLECTRONICA": "HUMBERTO RINCÓN - 1239068168",
+            "AL PIE DE LA FIRMA": "HUMBERTO RINCÓN - 1239068168"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HUMBERTO RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1239068168",
+            "NOMBRES": "HUMBERTO RINCÓN",
+            "SALARIO": "3.560.723",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1239068168",
+            "NOMBRES": "HUMBERTO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "4.163.556"
+        }
+    }
+]

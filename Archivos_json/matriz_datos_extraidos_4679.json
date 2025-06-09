@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "753839164022",
+            "SOLICITUD": "6302403",
+            "CEDULA": "1176541028",
+            "NOMBRES": "MARÍA YURI GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.713.100",
+            "FIRMA ELLECTRONICA": "MARÍA YURI GONZÁLEZ - 1176541028"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "753839164022",
+            "NOMBRES": "MARÍA YURI GONZÁLEZ",
+            "CREDITO": "10.431.496",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "162.479",
+            "FIRMA ELLECTRONICA": "MARÍA YURI GONZÁLEZ - 1176541028",
+            "AL PIE DE LA FIRMA": "MARÍA YURI GONZÁLEZ - 1176541028"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1176541028",
+            "NOMBRES": "MARÍA YURI GONZÁLEZ",
+            "FECHA NACIMIENTO": "20/05/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.431.496",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA YURI GONZÁLEZ - 1176541028",
+            "AL PIE DE LA FIRMA": "MARÍA YURI GONZÁLEZ - 1176541028"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6302403",
+            "CEDULA": "1176541028",
+            "NOMBRES": "MARÍA YURI GONZÁLEZ",
+            "CREDITO": "10.431.496",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "162.479",
+            "E.A": "21.25%",
+            "RECOMPRA O DESEMBOLSO": "3.713.100",
+            "FIRMA ELLECTRONICA": "MARÍA YURI GONZÁLEZ - 1176541028"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1176541028",
+            "NOMBRES": "MARÍA YURI GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARÍA YURI GONZÁLEZ - 1176541028"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1176541028",
+            "NOMBRES": "MARÍA YURI GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARÍA YURI GONZÁLEZ - 1176541028",
+            "AL PIE DE LA FIRMA": "MARÍA YURI GONZÁLEZ - 1176541028"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA YURI GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1176541028",
+            "NOMBRES": "MARÍA YURI GONZÁLEZ",
+            "SALARIO": "1.946.561",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1176541028",
+            "NOMBRES": "MARÍA YURI GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.713.100"
+        }
+    }
+]

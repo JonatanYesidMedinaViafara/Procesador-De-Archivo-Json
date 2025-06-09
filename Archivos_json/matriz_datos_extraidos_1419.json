@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "297475578593",
+            "SOLICITUD": "8485878",
+            "CEDULA": "1918896934",
+            "NOMBRES": "ÁLVARO MERCADO",
+            "RECOMPRA O DESEMBOLSO": "1.785.116",
+            "FIRMA ELLECTRONICA": "ÁLVARO MERCADO - 1918896934"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "297475578593",
+            "NOMBRES": "ÁLVARO MERCADO",
+            "CREDITO": "12.935.526",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "142.078",
+            "FIRMA ELLECTRONICA": "ÁLVARO MERCADO - 1918896934",
+            "AL PIE DE LA FIRMA": "ÁLVARO MERCADO - 1918896934"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1918896934",
+            "NOMBRES": "ÁLVARO MERCADO",
+            "FECHA NACIMIENTO": "15/01/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.935.526",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÁLVARO MERCADO - 1918896934",
+            "AL PIE DE LA FIRMA": "ÁLVARO MERCADO - 1918896934"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8485878",
+            "CEDULA": "1918896934",
+            "NOMBRES": "ÁLVARO MERCADO",
+            "CREDITO": "12.935.526",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "142.078",
+            "E.A": "22.69%",
+            "RECOMPRA O DESEMBOLSO": "1.785.116",
+            "FIRMA ELLECTRONICA": "ÁLVARO MERCADO - 1918896934"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1918896934",
+            "NOMBRES": "ÁLVARO MERCADO",
+            "FIRMA ELLECTRONICA": "ÁLVARO MERCADO - 1918896934"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1918896934",
+            "NOMBRES": "ÁLVARO MERCADO",
+            "FIRMA ELLECTRONICA": "ÁLVARO MERCADO - 1918896934",
+            "AL PIE DE LA FIRMA": "ÁLVARO MERCADO - 1918896934"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO MERCADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1918896934",
+            "NOMBRES": "ÁLVARO MERCADO",
+            "SALARIO": "1.955.960",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1918896934",
+            "NOMBRES": "ÁLVARO MERCADO",
+            "RECOMPRA O DESEMBOLSO": "1.785.116"
+        }
+    }
+]

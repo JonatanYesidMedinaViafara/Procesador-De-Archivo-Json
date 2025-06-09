@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "545749676889",
+            "SOLICITUD": "9264921",
+            "CEDULA": "1929032817",
+            "NOMBRES": "ROSA MORA SOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.798.251",
+            "FIRMA ELLECTRONICA": "ROSA MORA SOLANO - 1929032817"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "545749676889",
+            "NOMBRES": "ROSA MORA SOLANO",
+            "CREDITO": "12.223.247",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "381.579",
+            "FIRMA ELLECTRONICA": "ROSA MORA SOLANO - 1929032817",
+            "AL PIE DE LA FIRMA": "ROSA MORA SOLANO - 1929032817"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1929032817",
+            "NOMBRES": "ROSA MORA SOLANO",
+            "FECHA NACIMIENTO": "26/08/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.223.247",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ROSA MORA SOLANO - 1929032817",
+            "AL PIE DE LA FIRMA": "ROSA MORA SOLANO - 1929032817"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9264921",
+            "CEDULA": "1929032817",
+            "NOMBRES": "ROSA MORA SOLANO",
+            "CREDITO": "12.223.247",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "381.579",
+            "E.A": "28.61%",
+            "RECOMPRA O DESEMBOLSO": "2.798.251",
+            "FIRMA ELLECTRONICA": "ROSA MORA SOLANO - 1929032817"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1929032817",
+            "NOMBRES": "ROSA MORA SOLANO",
+            "FIRMA ELLECTRONICA": "ROSA MORA SOLANO - 1929032817"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1929032817",
+            "NOMBRES": "ROSA MORA SOLANO",
+            "FIRMA ELLECTRONICA": "ROSA MORA SOLANO - 1929032817",
+            "AL PIE DE LA FIRMA": "ROSA MORA SOLANO - 1929032817"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSA MORA SOLANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1929032817",
+            "NOMBRES": "ROSA MORA SOLANO",
+            "SALARIO": "2.479.444",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1929032817",
+            "NOMBRES": "ROSA MORA SOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.798.251"
+        }
+    }
+]

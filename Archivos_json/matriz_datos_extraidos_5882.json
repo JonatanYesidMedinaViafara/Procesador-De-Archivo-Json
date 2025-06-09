@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "840221883240",
+            "SOLICITUD": "5262080",
+            "CEDULA": "1233576760",
+            "NOMBRES": "FERNANDO JUAN GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "1.494.657",
+            "FIRMA ELLECTRONICA": "FERNANDO JUAN GALLEGO - 1233576760"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "840221883240",
+            "NOMBRES": "FERNANDO JUAN GALLEGO",
+            "CREDITO": "11.082.035",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "344.584",
+            "FIRMA ELLECTRONICA": "FERNANDO JUAN GALLEGO - 1233576760",
+            "AL PIE DE LA FIRMA": "FERNANDO JUAN GALLEGO - 1233576760"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1233576760",
+            "NOMBRES": "FERNANDO JUAN GALLEGO",
+            "FECHA NACIMIENTO": "09/04/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.082.035",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNANDO JUAN GALLEGO - 1233576760",
+            "AL PIE DE LA FIRMA": "FERNANDO JUAN GALLEGO - 1233576760"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5262080",
+            "CEDULA": "1233576760",
+            "NOMBRES": "FERNANDO JUAN GALLEGO",
+            "CREDITO": "11.082.035",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "344.584",
+            "E.A": "22.31%",
+            "RECOMPRA O DESEMBOLSO": "1.494.657",
+            "FIRMA ELLECTRONICA": "FERNANDO JUAN GALLEGO - 1233576760"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1233576760",
+            "NOMBRES": "FERNANDO JUAN GALLEGO",
+            "FIRMA ELLECTRONICA": "FERNANDO JUAN GALLEGO - 1233576760"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1233576760",
+            "NOMBRES": "FERNANDO JUAN GALLEGO",
+            "FIRMA ELLECTRONICA": "FERNANDO JUAN GALLEGO - 1233576760",
+            "AL PIE DE LA FIRMA": "FERNANDO JUAN GALLEGO - 1233576760"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO JUAN GALLEGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1233576760",
+            "NOMBRES": "FERNANDO JUAN GALLEGO",
+            "SALARIO": "4.531.676",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1233576760",
+            "NOMBRES": "FERNANDO JUAN GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "1.494.657"
+        }
+    }
+]

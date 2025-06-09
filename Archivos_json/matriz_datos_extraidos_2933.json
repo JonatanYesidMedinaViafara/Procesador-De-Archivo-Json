@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "102683223028",
+            "SOLICITUD": "5294414",
+            "CEDULA": "1950383379",
+            "NOMBRES": "ANA JIMENA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.968.254",
+            "FIRMA ELLECTRONICA": "ANA JIMENA HERNÁNDEZ - 1950383379"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "102683223028",
+            "NOMBRES": "ANA JIMENA HERNÁNDEZ",
+            "CREDITO": "7.530.334",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "285.976",
+            "FIRMA ELLECTRONICA": "ANA JIMENA HERNÁNDEZ - 1950383379",
+            "AL PIE DE LA FIRMA": "ANA JIMENA HERNÁNDEZ - 1950383379"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1950383379",
+            "NOMBRES": "ANA JIMENA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "19/11/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.530.334",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANA JIMENA HERNÁNDEZ - 1950383379",
+            "AL PIE DE LA FIRMA": "ANA JIMENA HERNÁNDEZ - 1950383379"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5294414",
+            "CEDULA": "1950383379",
+            "NOMBRES": "ANA JIMENA HERNÁNDEZ",
+            "CREDITO": "7.530.334",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "285.976",
+            "E.A": "25.87%",
+            "RECOMPRA O DESEMBOLSO": "4.968.254",
+            "FIRMA ELLECTRONICA": "ANA JIMENA HERNÁNDEZ - 1950383379"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1950383379",
+            "NOMBRES": "ANA JIMENA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ANA JIMENA HERNÁNDEZ - 1950383379"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1950383379",
+            "NOMBRES": "ANA JIMENA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ANA JIMENA HERNÁNDEZ - 1950383379",
+            "AL PIE DE LA FIRMA": "ANA JIMENA HERNÁNDEZ - 1950383379"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA JIMENA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1950383379",
+            "NOMBRES": "ANA JIMENA HERNÁNDEZ",
+            "SALARIO": "4.646.964",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1950383379",
+            "NOMBRES": "ANA JIMENA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.968.254"
+        }
+    }
+]

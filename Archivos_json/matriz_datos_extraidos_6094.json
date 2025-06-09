@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "946597570133",
+            "SOLICITUD": "2100991",
+            "CEDULA": "1071217791",
+            "NOMBRES": "MARÍA VILLA PARRA",
+            "RECOMPRA O DESEMBOLSO": "2.029.249",
+            "FIRMA ELLECTRONICA": "MARÍA VILLA PARRA - 1071217791"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "946597570133",
+            "NOMBRES": "MARÍA VILLA PARRA",
+            "CREDITO": "11.573.768",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "264.217",
+            "FIRMA ELLECTRONICA": "MARÍA VILLA PARRA - 1071217791",
+            "AL PIE DE LA FIRMA": "MARÍA VILLA PARRA - 1071217791"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1071217791",
+            "NOMBRES": "MARÍA VILLA PARRA",
+            "FECHA NACIMIENTO": "10/11/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.573.768",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA VILLA PARRA - 1071217791",
+            "AL PIE DE LA FIRMA": "MARÍA VILLA PARRA - 1071217791"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2100991",
+            "CEDULA": "1071217791",
+            "NOMBRES": "MARÍA VILLA PARRA",
+            "CREDITO": "11.573.768",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "264.217",
+            "E.A": "28.39%",
+            "RECOMPRA O DESEMBOLSO": "2.029.249",
+            "FIRMA ELLECTRONICA": "MARÍA VILLA PARRA - 1071217791"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1071217791",
+            "NOMBRES": "MARÍA VILLA PARRA",
+            "FIRMA ELLECTRONICA": "MARÍA VILLA PARRA - 1071217791"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1071217791",
+            "NOMBRES": "MARÍA VILLA PARRA",
+            "FIRMA ELLECTRONICA": "MARÍA VILLA PARRA - 1071217791",
+            "AL PIE DE LA FIRMA": "MARÍA VILLA PARRA - 1071217791"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA VILLA PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1071217791",
+            "NOMBRES": "MARÍA VILLA PARRA",
+            "SALARIO": "3.698.842",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1071217791",
+            "NOMBRES": "MARÍA VILLA PARRA",
+            "RECOMPRA O DESEMBOLSO": "2.029.249"
+        }
+    }
+]

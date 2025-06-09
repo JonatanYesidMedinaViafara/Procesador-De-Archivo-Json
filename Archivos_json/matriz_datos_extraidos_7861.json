@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "105118342542",
+            "SOLICITUD": "7551690",
+            "CEDULA": "1186678570",
+            "NOMBRES": "MAURICIO ANDERSON ANAYA VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "1.420.380",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDERSON ANAYA VANEGAS - 1186678570"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "105118342542",
+            "NOMBRES": "MAURICIO ANDERSON ANAYA VANEGAS",
+            "CREDITO": "5.478.699",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "291.677",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDERSON ANAYA VANEGAS - 1186678570",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDERSON ANAYA VANEGAS - 1186678570"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1186678570",
+            "NOMBRES": "MAURICIO ANDERSON ANAYA VANEGAS",
+            "FECHA NACIMIENTO": "08/12/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.478.699",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDERSON ANAYA VANEGAS - 1186678570",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDERSON ANAYA VANEGAS - 1186678570"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7551690",
+            "CEDULA": "1186678570",
+            "NOMBRES": "MAURICIO ANDERSON ANAYA VANEGAS",
+            "CREDITO": "5.478.699",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "291.677",
+            "E.A": "22.56%",
+            "RECOMPRA O DESEMBOLSO": "1.420.380",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDERSON ANAYA VANEGAS - 1186678570"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1186678570",
+            "NOMBRES": "MAURICIO ANDERSON ANAYA VANEGAS",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDERSON ANAYA VANEGAS - 1186678570"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1186678570",
+            "NOMBRES": "MAURICIO ANDERSON ANAYA VANEGAS",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDERSON ANAYA VANEGAS - 1186678570",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDERSON ANAYA VANEGAS - 1186678570"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO ANDERSON ANAYA VANEGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1186678570",
+            "NOMBRES": "MAURICIO ANDERSON ANAYA VANEGAS",
+            "SALARIO": "1.713.959",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1186678570",
+            "NOMBRES": "MAURICIO ANDERSON ANAYA VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "1.420.380"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "427971260961",
+            "SOLICITUD": "2777171",
+            "CEDULA": "1322072456",
+            "NOMBRES": "JULIO CÉSAR PARRA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.870.368",
+            "FIRMA ELLECTRONICA": "JULIO CÉSAR PARRA GÓMEZ - 1322072456"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "427971260961",
+            "NOMBRES": "JULIO CÉSAR PARRA GÓMEZ",
+            "CREDITO": "5.773.276",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "314.441",
+            "FIRMA ELLECTRONICA": "JULIO CÉSAR PARRA GÓMEZ - 1322072456",
+            "AL PIE DE LA FIRMA": "JULIO CÉSAR PARRA GÓMEZ - 1322072456"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1322072456",
+            "NOMBRES": "JULIO CÉSAR PARRA GÓMEZ",
+            "FECHA NACIMIENTO": "19/02/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.773.276",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JULIO CÉSAR PARRA GÓMEZ - 1322072456",
+            "AL PIE DE LA FIRMA": "JULIO CÉSAR PARRA GÓMEZ - 1322072456"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2777171",
+            "CEDULA": "1322072456",
+            "NOMBRES": "JULIO CÉSAR PARRA GÓMEZ",
+            "CREDITO": "5.773.276",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "314.441",
+            "E.A": "24.11%",
+            "RECOMPRA O DESEMBOLSO": "2.870.368",
+            "FIRMA ELLECTRONICA": "JULIO CÉSAR PARRA GÓMEZ - 1322072456"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1322072456",
+            "NOMBRES": "JULIO CÉSAR PARRA GÓMEZ",
+            "FIRMA ELLECTRONICA": "JULIO CÉSAR PARRA GÓMEZ - 1322072456"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1322072456",
+            "NOMBRES": "JULIO CÉSAR PARRA GÓMEZ",
+            "FIRMA ELLECTRONICA": "JULIO CÉSAR PARRA GÓMEZ - 1322072456",
+            "AL PIE DE LA FIRMA": "JULIO CÉSAR PARRA GÓMEZ - 1322072456"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO CÉSAR PARRA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1322072456",
+            "NOMBRES": "JULIO CÉSAR PARRA GÓMEZ",
+            "SALARIO": "4.277.746",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1322072456",
+            "NOMBRES": "JULIO CÉSAR PARRA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.870.368"
+        }
+    }
+]

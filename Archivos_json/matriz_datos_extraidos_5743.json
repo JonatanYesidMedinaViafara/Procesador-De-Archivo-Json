@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "113749225013",
+            "SOLICITUD": "1157432",
+            "CEDULA": "1720282673",
+            "NOMBRES": "ANDRÉS CARVAJAL URIBE",
+            "RECOMPRA O DESEMBOLSO": "4.512.139",
+            "FIRMA ELLECTRONICA": "ANDRÉS CARVAJAL URIBE - 1720282673"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "113749225013",
+            "NOMBRES": "ANDRÉS CARVAJAL URIBE",
+            "CREDITO": "12.358.154",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "383.633",
+            "FIRMA ELLECTRONICA": "ANDRÉS CARVAJAL URIBE - 1720282673",
+            "AL PIE DE LA FIRMA": "ANDRÉS CARVAJAL URIBE - 1720282673"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1720282673",
+            "NOMBRES": "ANDRÉS CARVAJAL URIBE",
+            "FECHA NACIMIENTO": "08/11/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.358.154",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS CARVAJAL URIBE - 1720282673",
+            "AL PIE DE LA FIRMA": "ANDRÉS CARVAJAL URIBE - 1720282673"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1157432",
+            "CEDULA": "1720282673",
+            "NOMBRES": "ANDRÉS CARVAJAL URIBE",
+            "CREDITO": "12.358.154",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "383.633",
+            "E.A": "28.94%",
+            "RECOMPRA O DESEMBOLSO": "4.512.139",
+            "FIRMA ELLECTRONICA": "ANDRÉS CARVAJAL URIBE - 1720282673"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1720282673",
+            "NOMBRES": "ANDRÉS CARVAJAL URIBE",
+            "FIRMA ELLECTRONICA": "ANDRÉS CARVAJAL URIBE - 1720282673"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1720282673",
+            "NOMBRES": "ANDRÉS CARVAJAL URIBE",
+            "FIRMA ELLECTRONICA": "ANDRÉS CARVAJAL URIBE - 1720282673",
+            "AL PIE DE LA FIRMA": "ANDRÉS CARVAJAL URIBE - 1720282673"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS CARVAJAL URIBE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1720282673",
+            "NOMBRES": "ANDRÉS CARVAJAL URIBE",
+            "SALARIO": "2.868.692",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1720282673",
+            "NOMBRES": "ANDRÉS CARVAJAL URIBE",
+            "RECOMPRA O DESEMBOLSO": "4.512.139"
+        }
+    }
+]

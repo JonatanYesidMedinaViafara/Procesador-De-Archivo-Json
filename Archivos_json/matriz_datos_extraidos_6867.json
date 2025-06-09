@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "514616307895",
+            "SOLICITUD": "6508373",
+            "CEDULA": "1089114329",
+            "NOMBRES": "ISABEL ROSALBA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.216.406",
+            "FIRMA ELLECTRONICA": "ISABEL ROSALBA SÁNCHEZ - 1089114329"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "514616307895",
+            "NOMBRES": "ISABEL ROSALBA SÁNCHEZ",
+            "CREDITO": "15.708.704",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "348.226",
+            "FIRMA ELLECTRONICA": "ISABEL ROSALBA SÁNCHEZ - 1089114329",
+            "AL PIE DE LA FIRMA": "ISABEL ROSALBA SÁNCHEZ - 1089114329"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1089114329",
+            "NOMBRES": "ISABEL ROSALBA SÁNCHEZ",
+            "FECHA NACIMIENTO": "24/07/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.708.704",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ISABEL ROSALBA SÁNCHEZ - 1089114329",
+            "AL PIE DE LA FIRMA": "ISABEL ROSALBA SÁNCHEZ - 1089114329"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6508373",
+            "CEDULA": "1089114329",
+            "NOMBRES": "ISABEL ROSALBA SÁNCHEZ",
+            "CREDITO": "15.708.704",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "348.226",
+            "E.A": "20.57%",
+            "RECOMPRA O DESEMBOLSO": "2.216.406",
+            "FIRMA ELLECTRONICA": "ISABEL ROSALBA SÁNCHEZ - 1089114329"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1089114329",
+            "NOMBRES": "ISABEL ROSALBA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ISABEL ROSALBA SÁNCHEZ - 1089114329"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1089114329",
+            "NOMBRES": "ISABEL ROSALBA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ISABEL ROSALBA SÁNCHEZ - 1089114329",
+            "AL PIE DE LA FIRMA": "ISABEL ROSALBA SÁNCHEZ - 1089114329"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL ROSALBA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1089114329",
+            "NOMBRES": "ISABEL ROSALBA SÁNCHEZ",
+            "SALARIO": "2.472.956",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1089114329",
+            "NOMBRES": "ISABEL ROSALBA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.216.406"
+        }
+    }
+]

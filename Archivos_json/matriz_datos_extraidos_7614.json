@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "805313385776",
+            "SOLICITUD": "6767398",
+            "CEDULA": "1768238967",
+            "NOMBRES": "JULIO CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "3.373.520",
+            "FIRMA ELLECTRONICA": "JULIO CONTRERAS - 1768238967"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "805313385776",
+            "NOMBRES": "JULIO CONTRERAS",
+            "CREDITO": "14.629.353",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "225.186",
+            "FIRMA ELLECTRONICA": "JULIO CONTRERAS - 1768238967",
+            "AL PIE DE LA FIRMA": "JULIO CONTRERAS - 1768238967"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1768238967",
+            "NOMBRES": "JULIO CONTRERAS",
+            "FECHA NACIMIENTO": "09/07/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.629.353",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JULIO CONTRERAS - 1768238967",
+            "AL PIE DE LA FIRMA": "JULIO CONTRERAS - 1768238967"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6767398",
+            "CEDULA": "1768238967",
+            "NOMBRES": "JULIO CONTRERAS",
+            "CREDITO": "14.629.353",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "225.186",
+            "E.A": "19.42%",
+            "RECOMPRA O DESEMBOLSO": "3.373.520",
+            "FIRMA ELLECTRONICA": "JULIO CONTRERAS - 1768238967"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1768238967",
+            "NOMBRES": "JULIO CONTRERAS",
+            "FIRMA ELLECTRONICA": "JULIO CONTRERAS - 1768238967"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1768238967",
+            "NOMBRES": "JULIO CONTRERAS",
+            "FIRMA ELLECTRONICA": "JULIO CONTRERAS - 1768238967",
+            "AL PIE DE LA FIRMA": "JULIO CONTRERAS - 1768238967"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO CONTRERAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1768238967",
+            "NOMBRES": "JULIO CONTRERAS",
+            "SALARIO": "2.512.695",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1768238967",
+            "NOMBRES": "JULIO CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "3.373.520"
+        }
+    }
+]

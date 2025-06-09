@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "343067711780",
+            "SOLICITUD": "3480787",
+            "CEDULA": "1861274963",
+            "NOMBRES": "MARINA TOVAR",
+            "RECOMPRA O DESEMBOLSO": "2.346.099",
+            "FIRMA ELLECTRONICA": "MARINA TOVAR - 1861274963"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "343067711780",
+            "NOMBRES": "MARINA TOVAR",
+            "CREDITO": "18.019.708",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "199.762",
+            "FIRMA ELLECTRONICA": "MARINA TOVAR - 1861274963",
+            "AL PIE DE LA FIRMA": "MARINA TOVAR - 1861274963"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1861274963",
+            "NOMBRES": "MARINA TOVAR",
+            "FECHA NACIMIENTO": "12/07/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.019.708",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARINA TOVAR - 1861274963",
+            "AL PIE DE LA FIRMA": "MARINA TOVAR - 1861274963"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3480787",
+            "CEDULA": "1861274963",
+            "NOMBRES": "MARINA TOVAR",
+            "CREDITO": "18.019.708",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "199.762",
+            "E.A": "19.18%",
+            "RECOMPRA O DESEMBOLSO": "2.346.099",
+            "FIRMA ELLECTRONICA": "MARINA TOVAR - 1861274963"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1861274963",
+            "NOMBRES": "MARINA TOVAR",
+            "FIRMA ELLECTRONICA": "MARINA TOVAR - 1861274963"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1861274963",
+            "NOMBRES": "MARINA TOVAR",
+            "FIRMA ELLECTRONICA": "MARINA TOVAR - 1861274963",
+            "AL PIE DE LA FIRMA": "MARINA TOVAR - 1861274963"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARINA TOVAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1861274963",
+            "NOMBRES": "MARINA TOVAR",
+            "SALARIO": "4.860.391",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1861274963",
+            "NOMBRES": "MARINA TOVAR",
+            "RECOMPRA O DESEMBOLSO": "2.346.099"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "836309948481",
+            "SOLICITUD": "2827089",
+            "CEDULA": "1156332656",
+            "NOMBRES": "ANDRÉS ANTONIO OBANDO",
+            "RECOMPRA O DESEMBOLSO": "1.939.288",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO OBANDO - 1156332656"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "836309948481",
+            "NOMBRES": "ANDRÉS ANTONIO OBANDO",
+            "CREDITO": "6.102.054",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "366.564",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO OBANDO - 1156332656",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANTONIO OBANDO - 1156332656"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1156332656",
+            "NOMBRES": "ANDRÉS ANTONIO OBANDO",
+            "FECHA NACIMIENTO": "31/05/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.102.054",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO OBANDO - 1156332656",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANTONIO OBANDO - 1156332656"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2827089",
+            "CEDULA": "1156332656",
+            "NOMBRES": "ANDRÉS ANTONIO OBANDO",
+            "CREDITO": "6.102.054",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "366.564",
+            "E.A": "25.9%",
+            "RECOMPRA O DESEMBOLSO": "1.939.288",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO OBANDO - 1156332656"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1156332656",
+            "NOMBRES": "ANDRÉS ANTONIO OBANDO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO OBANDO - 1156332656"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1156332656",
+            "NOMBRES": "ANDRÉS ANTONIO OBANDO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANTONIO OBANDO - 1156332656",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANTONIO OBANDO - 1156332656"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ANTONIO OBANDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1156332656",
+            "NOMBRES": "ANDRÉS ANTONIO OBANDO",
+            "SALARIO": "2.990.446",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1156332656",
+            "NOMBRES": "ANDRÉS ANTONIO OBANDO",
+            "RECOMPRA O DESEMBOLSO": "1.939.288"
+        }
+    }
+]

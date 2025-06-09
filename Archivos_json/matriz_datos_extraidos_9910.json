@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "401127084805",
+            "SOLICITUD": "9802454",
+            "CEDULA": "1616988962",
+            "NOMBRES": "ISABEL ANA GONZÁLEZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.663.894",
+            "FIRMA ELLECTRONICA": "ISABEL ANA GONZÁLEZ MUÑOZ - 1616988962"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "401127084805",
+            "NOMBRES": "ISABEL ANA GONZÁLEZ MUÑOZ",
+            "CREDITO": "11.460.424",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "173.965",
+            "FIRMA ELLECTRONICA": "ISABEL ANA GONZÁLEZ MUÑOZ - 1616988962",
+            "AL PIE DE LA FIRMA": "ISABEL ANA GONZÁLEZ MUÑOZ - 1616988962"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1616988962",
+            "NOMBRES": "ISABEL ANA GONZÁLEZ MUÑOZ",
+            "FECHA NACIMIENTO": "26/03/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.460.424",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ISABEL ANA GONZÁLEZ MUÑOZ - 1616988962",
+            "AL PIE DE LA FIRMA": "ISABEL ANA GONZÁLEZ MUÑOZ - 1616988962"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9802454",
+            "CEDULA": "1616988962",
+            "NOMBRES": "ISABEL ANA GONZÁLEZ MUÑOZ",
+            "CREDITO": "11.460.424",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "173.965",
+            "E.A": "20.86%",
+            "RECOMPRA O DESEMBOLSO": "1.663.894",
+            "FIRMA ELLECTRONICA": "ISABEL ANA GONZÁLEZ MUÑOZ - 1616988962"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1616988962",
+            "NOMBRES": "ISABEL ANA GONZÁLEZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "ISABEL ANA GONZÁLEZ MUÑOZ - 1616988962"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1616988962",
+            "NOMBRES": "ISABEL ANA GONZÁLEZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "ISABEL ANA GONZÁLEZ MUÑOZ - 1616988962",
+            "AL PIE DE LA FIRMA": "ISABEL ANA GONZÁLEZ MUÑOZ - 1616988962"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL ANA GONZÁLEZ MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1616988962",
+            "NOMBRES": "ISABEL ANA GONZÁLEZ MUÑOZ",
+            "SALARIO": "2.044.507",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1616988962",
+            "NOMBRES": "ISABEL ANA GONZÁLEZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.663.894"
+        }
+    }
+]

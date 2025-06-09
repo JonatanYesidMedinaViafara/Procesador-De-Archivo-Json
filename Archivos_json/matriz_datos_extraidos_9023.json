@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "330071681660",
+            "SOLICITUD": "3339912",
+            "CEDULA": "1104211860",
+            "NOMBRES": "HUMBERTO PERDOMO",
+            "RECOMPRA O DESEMBOLSO": "4.237.151",
+            "FIRMA ELLECTRONICA": "HUMBERTO PERDOMO - 1104211860"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "330071681660",
+            "NOMBRES": "HUMBERTO PERDOMO",
+            "CREDITO": "10.353.218",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "371.983",
+            "FIRMA ELLECTRONICA": "HUMBERTO PERDOMO - 1104211860",
+            "AL PIE DE LA FIRMA": "HUMBERTO PERDOMO - 1104211860"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1104211860",
+            "NOMBRES": "HUMBERTO PERDOMO",
+            "FECHA NACIMIENTO": "08/09/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.353.218",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "HUMBERTO PERDOMO - 1104211860",
+            "AL PIE DE LA FIRMA": "HUMBERTO PERDOMO - 1104211860"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3339912",
+            "CEDULA": "1104211860",
+            "NOMBRES": "HUMBERTO PERDOMO",
+            "CREDITO": "10.353.218",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "371.983",
+            "E.A": "26.89%",
+            "RECOMPRA O DESEMBOLSO": "4.237.151",
+            "FIRMA ELLECTRONICA": "HUMBERTO PERDOMO - 1104211860"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1104211860",
+            "NOMBRES": "HUMBERTO PERDOMO",
+            "FIRMA ELLECTRONICA": "HUMBERTO PERDOMO - 1104211860"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1104211860",
+            "NOMBRES": "HUMBERTO PERDOMO",
+            "FIRMA ELLECTRONICA": "HUMBERTO PERDOMO - 1104211860",
+            "AL PIE DE LA FIRMA": "HUMBERTO PERDOMO - 1104211860"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HUMBERTO PERDOMO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1104211860",
+            "NOMBRES": "HUMBERTO PERDOMO",
+            "SALARIO": "2.114.634",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1104211860",
+            "NOMBRES": "HUMBERTO PERDOMO",
+            "RECOMPRA O DESEMBOLSO": "4.237.151"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "158455142064",
+            "SOLICITUD": "9324559",
+            "CEDULA": "1126122046",
+            "NOMBRES": "ELMER JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "1.231.814",
+            "FIRMA ELLECTRONICA": "ELMER JARAMILLO - 1126122046"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "158455142064",
+            "NOMBRES": "ELMER JARAMILLO",
+            "CREDITO": "7.154.553",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "153.823",
+            "FIRMA ELLECTRONICA": "ELMER JARAMILLO - 1126122046",
+            "AL PIE DE LA FIRMA": "ELMER JARAMILLO - 1126122046"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1126122046",
+            "NOMBRES": "ELMER JARAMILLO",
+            "FECHA NACIMIENTO": "05/03/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.154.553",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ELMER JARAMILLO - 1126122046",
+            "AL PIE DE LA FIRMA": "ELMER JARAMILLO - 1126122046"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9324559",
+            "CEDULA": "1126122046",
+            "NOMBRES": "ELMER JARAMILLO",
+            "CREDITO": "7.154.553",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "153.823",
+            "E.A": "24.34%",
+            "RECOMPRA O DESEMBOLSO": "1.231.814",
+            "FIRMA ELLECTRONICA": "ELMER JARAMILLO - 1126122046"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1126122046",
+            "NOMBRES": "ELMER JARAMILLO",
+            "FIRMA ELLECTRONICA": "ELMER JARAMILLO - 1126122046"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1126122046",
+            "NOMBRES": "ELMER JARAMILLO",
+            "FIRMA ELLECTRONICA": "ELMER JARAMILLO - 1126122046",
+            "AL PIE DE LA FIRMA": "ELMER JARAMILLO - 1126122046"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELMER JARAMILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1126122046",
+            "NOMBRES": "ELMER JARAMILLO",
+            "SALARIO": "3.695.132",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1126122046",
+            "NOMBRES": "ELMER JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "1.231.814"
+        }
+    }
+]

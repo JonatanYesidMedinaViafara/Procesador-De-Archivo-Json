@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "549573852205",
+            "SOLICITUD": "5128916",
+            "CEDULA": "1216069211",
+            "NOMBRES": "MIGUEL DÍAZ TORO",
+            "RECOMPRA O DESEMBOLSO": "3.392.569",
+            "FIRMA ELLECTRONICA": "MIGUEL DÍAZ TORO - 1216069211"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "549573852205",
+            "NOMBRES": "MIGUEL DÍAZ TORO",
+            "CREDITO": "17.418.047",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.173",
+            "FIRMA ELLECTRONICA": "MIGUEL DÍAZ TORO - 1216069211",
+            "AL PIE DE LA FIRMA": "MIGUEL DÍAZ TORO - 1216069211"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1216069211",
+            "NOMBRES": "MIGUEL DÍAZ TORO",
+            "FECHA NACIMIENTO": "03/10/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.418.047",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MIGUEL DÍAZ TORO - 1216069211",
+            "AL PIE DE LA FIRMA": "MIGUEL DÍAZ TORO - 1216069211"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5128916",
+            "CEDULA": "1216069211",
+            "NOMBRES": "MIGUEL DÍAZ TORO",
+            "CREDITO": "17.418.047",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.173",
+            "E.A": "24.18%",
+            "RECOMPRA O DESEMBOLSO": "3.392.569",
+            "FIRMA ELLECTRONICA": "MIGUEL DÍAZ TORO - 1216069211"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1216069211",
+            "NOMBRES": "MIGUEL DÍAZ TORO",
+            "FIRMA ELLECTRONICA": "MIGUEL DÍAZ TORO - 1216069211"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1216069211",
+            "NOMBRES": "MIGUEL DÍAZ TORO",
+            "FIRMA ELLECTRONICA": "MIGUEL DÍAZ TORO - 1216069211",
+            "AL PIE DE LA FIRMA": "MIGUEL DÍAZ TORO - 1216069211"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL DÍAZ TORO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1216069211",
+            "NOMBRES": "MIGUEL DÍAZ TORO",
+            "SALARIO": "1.597.289",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1216069211",
+            "NOMBRES": "MIGUEL DÍAZ TORO",
+            "RECOMPRA O DESEMBOLSO": "3.392.569"
+        }
+    }
+]

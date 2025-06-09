@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "985239735103",
+            "SOLICITUD": "3358423",
+            "CEDULA": "1240623036",
+            "NOMBRES": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "3.733.517",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS - 1240623036"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "985239735103",
+            "NOMBRES": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS",
+            "CREDITO": "15.230.436",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "215.687",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS - 1240623036",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS - 1240623036"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1240623036",
+            "NOMBRES": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS",
+            "FECHA NACIMIENTO": "18/06/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.230.436",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS - 1240623036",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS - 1240623036"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3358423",
+            "CEDULA": "1240623036",
+            "NOMBRES": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS",
+            "CREDITO": "15.230.436",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "215.687",
+            "E.A": "25.4%",
+            "RECOMPRA O DESEMBOLSO": "3.733.517",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS - 1240623036"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1240623036",
+            "NOMBRES": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS - 1240623036"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1240623036",
+            "NOMBRES": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS - 1240623036",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS - 1240623036"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1240623036",
+            "NOMBRES": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS",
+            "SALARIO": "1.548.804",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1240623036",
+            "NOMBRES": "ANDRÉS ANDRÉS ÁLVAREZ VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "3.733.517"
+        }
+    }
+]

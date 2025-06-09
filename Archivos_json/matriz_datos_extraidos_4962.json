@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "748877684594",
+            "SOLICITUD": "7606439",
+            "CEDULA": "1556336218",
+            "NOMBRES": "SANTIAGO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.610.891",
+            "FIRMA ELLECTRONICA": "SANTIAGO VARGAS - 1556336218"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "748877684594",
+            "NOMBRES": "SANTIAGO VARGAS",
+            "CREDITO": "18.361.468",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "182.338",
+            "FIRMA ELLECTRONICA": "SANTIAGO VARGAS - 1556336218",
+            "AL PIE DE LA FIRMA": "SANTIAGO VARGAS - 1556336218"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1556336218",
+            "NOMBRES": "SANTIAGO VARGAS",
+            "FECHA NACIMIENTO": "13/04/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.361.468",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SANTIAGO VARGAS - 1556336218",
+            "AL PIE DE LA FIRMA": "SANTIAGO VARGAS - 1556336218"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7606439",
+            "CEDULA": "1556336218",
+            "NOMBRES": "SANTIAGO VARGAS",
+            "CREDITO": "18.361.468",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "182.338",
+            "E.A": "21.46%",
+            "RECOMPRA O DESEMBOLSO": "4.610.891",
+            "FIRMA ELLECTRONICA": "SANTIAGO VARGAS - 1556336218"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1556336218",
+            "NOMBRES": "SANTIAGO VARGAS",
+            "FIRMA ELLECTRONICA": "SANTIAGO VARGAS - 1556336218"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1556336218",
+            "NOMBRES": "SANTIAGO VARGAS",
+            "FIRMA ELLECTRONICA": "SANTIAGO VARGAS - 1556336218",
+            "AL PIE DE LA FIRMA": "SANTIAGO VARGAS - 1556336218"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANTIAGO VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1556336218",
+            "NOMBRES": "SANTIAGO VARGAS",
+            "SALARIO": "4.486.064",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1556336218",
+            "NOMBRES": "SANTIAGO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.610.891"
+        }
+    }
+]

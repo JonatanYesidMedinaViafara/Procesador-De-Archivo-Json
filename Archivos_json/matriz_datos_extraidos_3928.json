@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "937493288116",
+            "SOLICITUD": "9376753",
+            "CEDULA": "1834388923",
+            "NOMBRES": "GUILLERMO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.672.207",
+            "FIRMA ELLECTRONICA": "GUILLERMO RODRÍGUEZ - 1834388923"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "937493288116",
+            "NOMBRES": "GUILLERMO RODRÍGUEZ",
+            "CREDITO": "19.268.097",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "112.392",
+            "FIRMA ELLECTRONICA": "GUILLERMO RODRÍGUEZ - 1834388923",
+            "AL PIE DE LA FIRMA": "GUILLERMO RODRÍGUEZ - 1834388923"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1834388923",
+            "NOMBRES": "GUILLERMO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "23/04/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.268.097",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "GUILLERMO RODRÍGUEZ - 1834388923",
+            "AL PIE DE LA FIRMA": "GUILLERMO RODRÍGUEZ - 1834388923"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9376753",
+            "CEDULA": "1834388923",
+            "NOMBRES": "GUILLERMO RODRÍGUEZ",
+            "CREDITO": "19.268.097",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "112.392",
+            "E.A": "23.37%",
+            "RECOMPRA O DESEMBOLSO": "2.672.207",
+            "FIRMA ELLECTRONICA": "GUILLERMO RODRÍGUEZ - 1834388923"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1834388923",
+            "NOMBRES": "GUILLERMO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "GUILLERMO RODRÍGUEZ - 1834388923"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1834388923",
+            "NOMBRES": "GUILLERMO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "GUILLERMO RODRÍGUEZ - 1834388923",
+            "AL PIE DE LA FIRMA": "GUILLERMO RODRÍGUEZ - 1834388923"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GUILLERMO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1834388923",
+            "NOMBRES": "GUILLERMO RODRÍGUEZ",
+            "SALARIO": "3.268.698",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1834388923",
+            "NOMBRES": "GUILLERMO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.672.207"
+        }
+    }
+]

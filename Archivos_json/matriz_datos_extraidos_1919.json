@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "815035734868",
+            "SOLICITUD": "3582030",
+            "CEDULA": "1736393087",
+            "NOMBRES": "ALEJANDRO CAMILO RAMOS",
+            "RECOMPRA O DESEMBOLSO": "4.016.835",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CAMILO RAMOS - 1736393087"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "815035734868",
+            "NOMBRES": "ALEJANDRO CAMILO RAMOS",
+            "CREDITO": "12.941.669",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "299.01",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CAMILO RAMOS - 1736393087",
+            "AL PIE DE LA FIRMA": "ALEJANDRO CAMILO RAMOS - 1736393087"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1736393087",
+            "NOMBRES": "ALEJANDRO CAMILO RAMOS",
+            "FECHA NACIMIENTO": "01/02/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.941.669",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CAMILO RAMOS - 1736393087",
+            "AL PIE DE LA FIRMA": "ALEJANDRO CAMILO RAMOS - 1736393087"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3582030",
+            "CEDULA": "1736393087",
+            "NOMBRES": "ALEJANDRO CAMILO RAMOS",
+            "CREDITO": "12.941.669",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "299.01",
+            "E.A": "18.98%",
+            "RECOMPRA O DESEMBOLSO": "4.016.835",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CAMILO RAMOS - 1736393087"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1736393087",
+            "NOMBRES": "ALEJANDRO CAMILO RAMOS",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CAMILO RAMOS - 1736393087"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1736393087",
+            "NOMBRES": "ALEJANDRO CAMILO RAMOS",
+            "FIRMA ELLECTRONICA": "ALEJANDRO CAMILO RAMOS - 1736393087",
+            "AL PIE DE LA FIRMA": "ALEJANDRO CAMILO RAMOS - 1736393087"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO CAMILO RAMOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1736393087",
+            "NOMBRES": "ALEJANDRO CAMILO RAMOS",
+            "SALARIO": "4.285.131",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1736393087",
+            "NOMBRES": "ALEJANDRO CAMILO RAMOS",
+            "RECOMPRA O DESEMBOLSO": "4.016.835"
+        }
+    }
+]

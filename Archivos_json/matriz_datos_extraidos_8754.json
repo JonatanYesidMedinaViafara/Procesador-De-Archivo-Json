@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "106335937218",
+            "SOLICITUD": "7546029",
+            "CEDULA": "1989273587",
+            "NOMBRES": "CLAUDIA SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.918.024",
+            "FIRMA ELLECTRONICA": "CLAUDIA SOTO - 1989273587"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "106335937218",
+            "NOMBRES": "CLAUDIA SOTO",
+            "CREDITO": "11.597.604",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "390.578",
+            "FIRMA ELLECTRONICA": "CLAUDIA SOTO - 1989273587",
+            "AL PIE DE LA FIRMA": "CLAUDIA SOTO - 1989273587"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1989273587",
+            "NOMBRES": "CLAUDIA SOTO",
+            "FECHA NACIMIENTO": "14/05/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.597.604",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CLAUDIA SOTO - 1989273587",
+            "AL PIE DE LA FIRMA": "CLAUDIA SOTO - 1989273587"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7546029",
+            "CEDULA": "1989273587",
+            "NOMBRES": "CLAUDIA SOTO",
+            "CREDITO": "11.597.604",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "390.578",
+            "E.A": "19.5%",
+            "RECOMPRA O DESEMBOLSO": "3.918.024",
+            "FIRMA ELLECTRONICA": "CLAUDIA SOTO - 1989273587"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1989273587",
+            "NOMBRES": "CLAUDIA SOTO",
+            "FIRMA ELLECTRONICA": "CLAUDIA SOTO - 1989273587"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1989273587",
+            "NOMBRES": "CLAUDIA SOTO",
+            "FIRMA ELLECTRONICA": "CLAUDIA SOTO - 1989273587",
+            "AL PIE DE LA FIRMA": "CLAUDIA SOTO - 1989273587"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLAUDIA SOTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1989273587",
+            "NOMBRES": "CLAUDIA SOTO",
+            "SALARIO": "4.397.652",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1989273587",
+            "NOMBRES": "CLAUDIA SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.918.024"
+        }
+    }
+]

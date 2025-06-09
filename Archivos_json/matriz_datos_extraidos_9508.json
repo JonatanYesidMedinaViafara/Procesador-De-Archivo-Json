@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "342676489109",
+            "SOLICITUD": "6141139",
+            "CEDULA": "1045934931",
+            "NOMBRES": "MARÍA REYES",
+            "RECOMPRA O DESEMBOLSO": "4.659.202",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1045934931"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "342676489109",
+            "NOMBRES": "MARÍA REYES",
+            "CREDITO": "11.788.018",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "131.143",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1045934931",
+            "AL PIE DE LA FIRMA": "MARÍA REYES - 1045934931"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1045934931",
+            "NOMBRES": "MARÍA REYES",
+            "FECHA NACIMIENTO": "31/03/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.788.018",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1045934931",
+            "AL PIE DE LA FIRMA": "MARÍA REYES - 1045934931"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6141139",
+            "CEDULA": "1045934931",
+            "NOMBRES": "MARÍA REYES",
+            "CREDITO": "11.788.018",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "131.143",
+            "E.A": "28.72%",
+            "RECOMPRA O DESEMBOLSO": "4.659.202",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1045934931"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1045934931",
+            "NOMBRES": "MARÍA REYES",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1045934931"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1045934931",
+            "NOMBRES": "MARÍA REYES",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1045934931",
+            "AL PIE DE LA FIRMA": "MARÍA REYES - 1045934931"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1045934931",
+            "NOMBRES": "MARÍA REYES",
+            "SALARIO": "3.554.256",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1045934931",
+            "NOMBRES": "MARÍA REYES",
+            "RECOMPRA O DESEMBOLSO": "4.659.202"
+        }
+    }
+]

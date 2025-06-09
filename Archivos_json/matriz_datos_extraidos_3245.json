@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "139460498610",
+            "SOLICITUD": "3165382",
+            "CEDULA": "1965989596",
+            "NOMBRES": "JAVIER JUAN GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.661.723",
+            "FIRMA ELLECTRONICA": "JAVIER JUAN GUTIÉRREZ - 1965989596"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "139460498610",
+            "NOMBRES": "JAVIER JUAN GUTIÉRREZ",
+            "CREDITO": "14.190.439",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "380.804",
+            "FIRMA ELLECTRONICA": "JAVIER JUAN GUTIÉRREZ - 1965989596",
+            "AL PIE DE LA FIRMA": "JAVIER JUAN GUTIÉRREZ - 1965989596"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1965989596",
+            "NOMBRES": "JAVIER JUAN GUTIÉRREZ",
+            "FECHA NACIMIENTO": "13/03/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.190.439",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JAVIER JUAN GUTIÉRREZ - 1965989596",
+            "AL PIE DE LA FIRMA": "JAVIER JUAN GUTIÉRREZ - 1965989596"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3165382",
+            "CEDULA": "1965989596",
+            "NOMBRES": "JAVIER JUAN GUTIÉRREZ",
+            "CREDITO": "14.190.439",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "380.804",
+            "E.A": "25.56%",
+            "RECOMPRA O DESEMBOLSO": "1.661.723",
+            "FIRMA ELLECTRONICA": "JAVIER JUAN GUTIÉRREZ - 1965989596"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1965989596",
+            "NOMBRES": "JAVIER JUAN GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "JAVIER JUAN GUTIÉRREZ - 1965989596"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1965989596",
+            "NOMBRES": "JAVIER JUAN GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "JAVIER JUAN GUTIÉRREZ - 1965989596",
+            "AL PIE DE LA FIRMA": "JAVIER JUAN GUTIÉRREZ - 1965989596"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER JUAN GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1965989596",
+            "NOMBRES": "JAVIER JUAN GUTIÉRREZ",
+            "SALARIO": "2.971.824",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1965989596",
+            "NOMBRES": "JAVIER JUAN GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.661.723"
+        }
+    }
+]

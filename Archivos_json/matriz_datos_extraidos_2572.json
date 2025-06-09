@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "224981618091",
+            "SOLICITUD": "9643687",
+            "CEDULA": "1323863179",
+            "NOMBRES": "CIELO RUEDA",
+            "RECOMPRA O DESEMBOLSO": "3.057.373",
+            "FIRMA ELLECTRONICA": "CIELO RUEDA - 1323863179"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "224981618091",
+            "NOMBRES": "CIELO RUEDA",
+            "CREDITO": "10.648.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "114.287",
+            "FIRMA ELLECTRONICA": "CIELO RUEDA - 1323863179",
+            "AL PIE DE LA FIRMA": "CIELO RUEDA - 1323863179"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1323863179",
+            "NOMBRES": "CIELO RUEDA",
+            "FECHA NACIMIENTO": "12/04/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.648.775",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CIELO RUEDA - 1323863179",
+            "AL PIE DE LA FIRMA": "CIELO RUEDA - 1323863179"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9643687",
+            "CEDULA": "1323863179",
+            "NOMBRES": "CIELO RUEDA",
+            "CREDITO": "10.648.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "114.287",
+            "E.A": "28.69%",
+            "RECOMPRA O DESEMBOLSO": "3.057.373",
+            "FIRMA ELLECTRONICA": "CIELO RUEDA - 1323863179"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1323863179",
+            "NOMBRES": "CIELO RUEDA",
+            "FIRMA ELLECTRONICA": "CIELO RUEDA - 1323863179"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1323863179",
+            "NOMBRES": "CIELO RUEDA",
+            "FIRMA ELLECTRONICA": "CIELO RUEDA - 1323863179",
+            "AL PIE DE LA FIRMA": "CIELO RUEDA - 1323863179"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CIELO RUEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1323863179",
+            "NOMBRES": "CIELO RUEDA",
+            "SALARIO": "4.595.951",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1323863179",
+            "NOMBRES": "CIELO RUEDA",
+            "RECOMPRA O DESEMBOLSO": "3.057.373"
+        }
+    }
+]

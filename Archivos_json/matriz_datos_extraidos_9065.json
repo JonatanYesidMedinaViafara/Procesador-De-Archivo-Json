@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "860353336119",
+            "SOLICITUD": "5553470",
+            "CEDULA": "1458985811",
+            "NOMBRES": "LEONARDO CASTELLANOS PARRA",
+            "RECOMPRA O DESEMBOLSO": "2.995.514",
+            "FIRMA ELLECTRONICA": "LEONARDO CASTELLANOS PARRA - 1458985811"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "860353336119",
+            "NOMBRES": "LEONARDO CASTELLANOS PARRA",
+            "CREDITO": "19.889.173",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.95",
+            "FIRMA ELLECTRONICA": "LEONARDO CASTELLANOS PARRA - 1458985811",
+            "AL PIE DE LA FIRMA": "LEONARDO CASTELLANOS PARRA - 1458985811"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1458985811",
+            "NOMBRES": "LEONARDO CASTELLANOS PARRA",
+            "FECHA NACIMIENTO": "16/07/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.889.173",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LEONARDO CASTELLANOS PARRA - 1458985811",
+            "AL PIE DE LA FIRMA": "LEONARDO CASTELLANOS PARRA - 1458985811"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5553470",
+            "CEDULA": "1458985811",
+            "NOMBRES": "LEONARDO CASTELLANOS PARRA",
+            "CREDITO": "19.889.173",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.95",
+            "E.A": "21.63%",
+            "RECOMPRA O DESEMBOLSO": "2.995.514",
+            "FIRMA ELLECTRONICA": "LEONARDO CASTELLANOS PARRA - 1458985811"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1458985811",
+            "NOMBRES": "LEONARDO CASTELLANOS PARRA",
+            "FIRMA ELLECTRONICA": "LEONARDO CASTELLANOS PARRA - 1458985811"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1458985811",
+            "NOMBRES": "LEONARDO CASTELLANOS PARRA",
+            "FIRMA ELLECTRONICA": "LEONARDO CASTELLANOS PARRA - 1458985811",
+            "AL PIE DE LA FIRMA": "LEONARDO CASTELLANOS PARRA - 1458985811"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEONARDO CASTELLANOS PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1458985811",
+            "NOMBRES": "LEONARDO CASTELLANOS PARRA",
+            "SALARIO": "2.384.772",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1458985811",
+            "NOMBRES": "LEONARDO CASTELLANOS PARRA",
+            "RECOMPRA O DESEMBOLSO": "2.995.514"
+        }
+    }
+]

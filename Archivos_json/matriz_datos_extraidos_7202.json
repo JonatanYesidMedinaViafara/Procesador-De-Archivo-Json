@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "446021444955",
+            "SOLICITUD": "8182629",
+            "CEDULA": "1665523365",
+            "NOMBRES": "TANIA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.046.216",
+            "FIRMA ELLECTRONICA": "TANIA PÉREZ - 1665523365"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "446021444955",
+            "NOMBRES": "TANIA PÉREZ",
+            "CREDITO": "13.477.084",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "271.907",
+            "FIRMA ELLECTRONICA": "TANIA PÉREZ - 1665523365",
+            "AL PIE DE LA FIRMA": "TANIA PÉREZ - 1665523365"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1665523365",
+            "NOMBRES": "TANIA PÉREZ",
+            "FECHA NACIMIENTO": "18/05/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.477.084",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "TANIA PÉREZ - 1665523365",
+            "AL PIE DE LA FIRMA": "TANIA PÉREZ - 1665523365"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8182629",
+            "CEDULA": "1665523365",
+            "NOMBRES": "TANIA PÉREZ",
+            "CREDITO": "13.477.084",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "271.907",
+            "E.A": "18.8%",
+            "RECOMPRA O DESEMBOLSO": "1.046.216",
+            "FIRMA ELLECTRONICA": "TANIA PÉREZ - 1665523365"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1665523365",
+            "NOMBRES": "TANIA PÉREZ",
+            "FIRMA ELLECTRONICA": "TANIA PÉREZ - 1665523365"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1665523365",
+            "NOMBRES": "TANIA PÉREZ",
+            "FIRMA ELLECTRONICA": "TANIA PÉREZ - 1665523365",
+            "AL PIE DE LA FIRMA": "TANIA PÉREZ - 1665523365"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TANIA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1665523365",
+            "NOMBRES": "TANIA PÉREZ",
+            "SALARIO": "2.578.645",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1665523365",
+            "NOMBRES": "TANIA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.046.216"
+        }
+    }
+]

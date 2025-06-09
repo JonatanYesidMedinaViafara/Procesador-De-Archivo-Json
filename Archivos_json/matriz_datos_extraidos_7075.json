@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "351063877912",
+            "SOLICITUD": "6007442",
+            "CEDULA": "1008022182",
+            "NOMBRES": "LETICIA CAMACHO FORERO",
+            "RECOMPRA O DESEMBOLSO": "3.245.464",
+            "FIRMA ELLECTRONICA": "LETICIA CAMACHO FORERO - 1008022182"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "351063877912",
+            "NOMBRES": "LETICIA CAMACHO FORERO",
+            "CREDITO": "16.458.844",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "244.603",
+            "FIRMA ELLECTRONICA": "LETICIA CAMACHO FORERO - 1008022182",
+            "AL PIE DE LA FIRMA": "LETICIA CAMACHO FORERO - 1008022182"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1008022182",
+            "NOMBRES": "LETICIA CAMACHO FORERO",
+            "FECHA NACIMIENTO": "28/06/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.458.844",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LETICIA CAMACHO FORERO - 1008022182",
+            "AL PIE DE LA FIRMA": "LETICIA CAMACHO FORERO - 1008022182"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6007442",
+            "CEDULA": "1008022182",
+            "NOMBRES": "LETICIA CAMACHO FORERO",
+            "CREDITO": "16.458.844",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "244.603",
+            "E.A": "28.06%",
+            "RECOMPRA O DESEMBOLSO": "3.245.464",
+            "FIRMA ELLECTRONICA": "LETICIA CAMACHO FORERO - 1008022182"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1008022182",
+            "NOMBRES": "LETICIA CAMACHO FORERO",
+            "FIRMA ELLECTRONICA": "LETICIA CAMACHO FORERO - 1008022182"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1008022182",
+            "NOMBRES": "LETICIA CAMACHO FORERO",
+            "FIRMA ELLECTRONICA": "LETICIA CAMACHO FORERO - 1008022182",
+            "AL PIE DE LA FIRMA": "LETICIA CAMACHO FORERO - 1008022182"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LETICIA CAMACHO FORERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1008022182",
+            "NOMBRES": "LETICIA CAMACHO FORERO",
+            "SALARIO": "3.312.421",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1008022182",
+            "NOMBRES": "LETICIA CAMACHO FORERO",
+            "RECOMPRA O DESEMBOLSO": "3.245.464"
+        }
+    }
+]

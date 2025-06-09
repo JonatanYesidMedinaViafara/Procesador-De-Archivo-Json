@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "208909047005",
+            "SOLICITUD": "5385076",
+            "CEDULA": "1984803170",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.363.658",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1984803170"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "208909047005",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "CREDITO": "18.423.059",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "264.914",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1984803170",
+            "AL PIE DE LA FIRMA": "SANTIAGO RODRÍGUEZ - 1984803170"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1984803170",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "16/10/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.423.059",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1984803170",
+            "AL PIE DE LA FIRMA": "SANTIAGO RODRÍGUEZ - 1984803170"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5385076",
+            "CEDULA": "1984803170",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "CREDITO": "18.423.059",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "264.914",
+            "E.A": "20.84%",
+            "RECOMPRA O DESEMBOLSO": "1.363.658",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1984803170"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1984803170",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1984803170"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1984803170",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SANTIAGO RODRÍGUEZ - 1984803170",
+            "AL PIE DE LA FIRMA": "SANTIAGO RODRÍGUEZ - 1984803170"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANTIAGO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1984803170",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "SALARIO": "4.875.844",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1984803170",
+            "NOMBRES": "SANTIAGO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.363.658"
+        }
+    }
+]

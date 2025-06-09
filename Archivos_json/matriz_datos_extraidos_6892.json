@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "190472160071",
+            "SOLICITUD": "1583638",
+            "CEDULA": "1019986121",
+            "NOMBRES": "FREDY CARLOS PADILLA VILLEGAS",
+            "RECOMPRA O DESEMBOLSO": "2.544.323",
+            "FIRMA ELLECTRONICA": "FREDY CARLOS PADILLA VILLEGAS - 1019986121"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "190472160071",
+            "NOMBRES": "FREDY CARLOS PADILLA VILLEGAS",
+            "CREDITO": "5.801.713",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "322.308",
+            "FIRMA ELLECTRONICA": "FREDY CARLOS PADILLA VILLEGAS - 1019986121",
+            "AL PIE DE LA FIRMA": "FREDY CARLOS PADILLA VILLEGAS - 1019986121"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1019986121",
+            "NOMBRES": "FREDY CARLOS PADILLA VILLEGAS",
+            "FECHA NACIMIENTO": "22/09/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.801.713",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FREDY CARLOS PADILLA VILLEGAS - 1019986121",
+            "AL PIE DE LA FIRMA": "FREDY CARLOS PADILLA VILLEGAS - 1019986121"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1583638",
+            "CEDULA": "1019986121",
+            "NOMBRES": "FREDY CARLOS PADILLA VILLEGAS",
+            "CREDITO": "5.801.713",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "322.308",
+            "E.A": "22.65%",
+            "RECOMPRA O DESEMBOLSO": "2.544.323",
+            "FIRMA ELLECTRONICA": "FREDY CARLOS PADILLA VILLEGAS - 1019986121"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1019986121",
+            "NOMBRES": "FREDY CARLOS PADILLA VILLEGAS",
+            "FIRMA ELLECTRONICA": "FREDY CARLOS PADILLA VILLEGAS - 1019986121"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1019986121",
+            "NOMBRES": "FREDY CARLOS PADILLA VILLEGAS",
+            "FIRMA ELLECTRONICA": "FREDY CARLOS PADILLA VILLEGAS - 1019986121",
+            "AL PIE DE LA FIRMA": "FREDY CARLOS PADILLA VILLEGAS - 1019986121"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FREDY CARLOS PADILLA VILLEGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1019986121",
+            "NOMBRES": "FREDY CARLOS PADILLA VILLEGAS",
+            "SALARIO": "1.809.223",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1019986121",
+            "NOMBRES": "FREDY CARLOS PADILLA VILLEGAS",
+            "RECOMPRA O DESEMBOLSO": "2.544.323"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "783789186126",
+            "SOLICITUD": "7024511",
+            "CEDULA": "1754504466",
+            "NOMBRES": "ANDRÉS MORA",
+            "RECOMPRA O DESEMBOLSO": "4.571.978",
+            "FIRMA ELLECTRONICA": "ANDRÉS MORA - 1754504466"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "783789186126",
+            "NOMBRES": "ANDRÉS MORA",
+            "CREDITO": "12.093.483",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "223.036",
+            "FIRMA ELLECTRONICA": "ANDRÉS MORA - 1754504466",
+            "AL PIE DE LA FIRMA": "ANDRÉS MORA - 1754504466"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1754504466",
+            "NOMBRES": "ANDRÉS MORA",
+            "FECHA NACIMIENTO": "15/01/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.093.483",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS MORA - 1754504466",
+            "AL PIE DE LA FIRMA": "ANDRÉS MORA - 1754504466"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7024511",
+            "CEDULA": "1754504466",
+            "NOMBRES": "ANDRÉS MORA",
+            "CREDITO": "12.093.483",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "223.036",
+            "E.A": "28.6%",
+            "RECOMPRA O DESEMBOLSO": "4.571.978",
+            "FIRMA ELLECTRONICA": "ANDRÉS MORA - 1754504466"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1754504466",
+            "NOMBRES": "ANDRÉS MORA",
+            "FIRMA ELLECTRONICA": "ANDRÉS MORA - 1754504466"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1754504466",
+            "NOMBRES": "ANDRÉS MORA",
+            "FIRMA ELLECTRONICA": "ANDRÉS MORA - 1754504466",
+            "AL PIE DE LA FIRMA": "ANDRÉS MORA - 1754504466"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS MORA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1754504466",
+            "NOMBRES": "ANDRÉS MORA",
+            "SALARIO": "2.310.231",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1754504466",
+            "NOMBRES": "ANDRÉS MORA",
+            "RECOMPRA O DESEMBOLSO": "4.571.978"
+        }
+    }
+]

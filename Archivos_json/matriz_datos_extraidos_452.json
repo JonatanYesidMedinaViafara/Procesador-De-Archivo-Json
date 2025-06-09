@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "564941753784",
+            "SOLICITUD": "9503676",
+            "CEDULA": "1094152982",
+            "NOMBRES": "NEL ROMERO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.967.319",
+            "FIRMA ELLECTRONICA": "NEL ROMERO RODRÍGUEZ - 1094152982"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "564941753784",
+            "NOMBRES": "NEL ROMERO RODRÍGUEZ",
+            "CREDITO": "13.117.503",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "119.929",
+            "FIRMA ELLECTRONICA": "NEL ROMERO RODRÍGUEZ - 1094152982",
+            "AL PIE DE LA FIRMA": "NEL ROMERO RODRÍGUEZ - 1094152982"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1094152982",
+            "NOMBRES": "NEL ROMERO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "18/01/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.117.503",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "NEL ROMERO RODRÍGUEZ - 1094152982",
+            "AL PIE DE LA FIRMA": "NEL ROMERO RODRÍGUEZ - 1094152982"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9503676",
+            "CEDULA": "1094152982",
+            "NOMBRES": "NEL ROMERO RODRÍGUEZ",
+            "CREDITO": "13.117.503",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "119.929",
+            "E.A": "19.07%",
+            "RECOMPRA O DESEMBOLSO": "2.967.319",
+            "FIRMA ELLECTRONICA": "NEL ROMERO RODRÍGUEZ - 1094152982"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1094152982",
+            "NOMBRES": "NEL ROMERO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "NEL ROMERO RODRÍGUEZ - 1094152982"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1094152982",
+            "NOMBRES": "NEL ROMERO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "NEL ROMERO RODRÍGUEZ - 1094152982",
+            "AL PIE DE LA FIRMA": "NEL ROMERO RODRÍGUEZ - 1094152982"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NEL ROMERO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1094152982",
+            "NOMBRES": "NEL ROMERO RODRÍGUEZ",
+            "SALARIO": "4.537.312",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1094152982",
+            "NOMBRES": "NEL ROMERO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.967.319"
+        }
+    }
+]

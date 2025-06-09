@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "190902114789",
+            "SOLICITUD": "8024450",
+            "CEDULA": "1394428886",
+            "NOMBRES": "MARÍA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.253.805",
+            "FIRMA ELLECTRONICA": "MARÍA MARTÍNEZ - 1394428886"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "190902114789",
+            "NOMBRES": "MARÍA MARTÍNEZ",
+            "CREDITO": "17.494.302",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "274.129",
+            "FIRMA ELLECTRONICA": "MARÍA MARTÍNEZ - 1394428886",
+            "AL PIE DE LA FIRMA": "MARÍA MARTÍNEZ - 1394428886"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1394428886",
+            "NOMBRES": "MARÍA MARTÍNEZ",
+            "FECHA NACIMIENTO": "23/07/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.494.302",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA MARTÍNEZ - 1394428886",
+            "AL PIE DE LA FIRMA": "MARÍA MARTÍNEZ - 1394428886"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8024450",
+            "CEDULA": "1394428886",
+            "NOMBRES": "MARÍA MARTÍNEZ",
+            "CREDITO": "17.494.302",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "274.129",
+            "E.A": "23.67%",
+            "RECOMPRA O DESEMBOLSO": "3.253.805",
+            "FIRMA ELLECTRONICA": "MARÍA MARTÍNEZ - 1394428886"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1394428886",
+            "NOMBRES": "MARÍA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "MARÍA MARTÍNEZ - 1394428886"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1394428886",
+            "NOMBRES": "MARÍA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "MARÍA MARTÍNEZ - 1394428886",
+            "AL PIE DE LA FIRMA": "MARÍA MARTÍNEZ - 1394428886"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1394428886",
+            "NOMBRES": "MARÍA MARTÍNEZ",
+            "SALARIO": "2.072.713",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1394428886",
+            "NOMBRES": "MARÍA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.253.805"
+        }
+    }
+]

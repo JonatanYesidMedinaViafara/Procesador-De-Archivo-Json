@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "422726949545",
+            "SOLICITUD": "7421789",
+            "CEDULA": "1839832855",
+            "NOMBRES": "ESTELA ESTRADA SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "4.434.020",
+            "FIRMA ELLECTRONICA": "ESTELA ESTRADA SARMIENTO - 1839832855"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "422726949545",
+            "NOMBRES": "ESTELA ESTRADA SARMIENTO",
+            "CREDITO": "11.005.151",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "105.529",
+            "FIRMA ELLECTRONICA": "ESTELA ESTRADA SARMIENTO - 1839832855",
+            "AL PIE DE LA FIRMA": "ESTELA ESTRADA SARMIENTO - 1839832855"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1839832855",
+            "NOMBRES": "ESTELA ESTRADA SARMIENTO",
+            "FECHA NACIMIENTO": "03/05/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.005.151",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ESTELA ESTRADA SARMIENTO - 1839832855",
+            "AL PIE DE LA FIRMA": "ESTELA ESTRADA SARMIENTO - 1839832855"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7421789",
+            "CEDULA": "1839832855",
+            "NOMBRES": "ESTELA ESTRADA SARMIENTO",
+            "CREDITO": "11.005.151",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "105.529",
+            "E.A": "18.62%",
+            "RECOMPRA O DESEMBOLSO": "4.434.020",
+            "FIRMA ELLECTRONICA": "ESTELA ESTRADA SARMIENTO - 1839832855"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1839832855",
+            "NOMBRES": "ESTELA ESTRADA SARMIENTO",
+            "FIRMA ELLECTRONICA": "ESTELA ESTRADA SARMIENTO - 1839832855"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1839832855",
+            "NOMBRES": "ESTELA ESTRADA SARMIENTO",
+            "FIRMA ELLECTRONICA": "ESTELA ESTRADA SARMIENTO - 1839832855",
+            "AL PIE DE LA FIRMA": "ESTELA ESTRADA SARMIENTO - 1839832855"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTELA ESTRADA SARMIENTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1839832855",
+            "NOMBRES": "ESTELA ESTRADA SARMIENTO",
+            "SALARIO": "2.050.297",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1839832855",
+            "NOMBRES": "ESTELA ESTRADA SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "4.434.020"
+        }
+    }
+]

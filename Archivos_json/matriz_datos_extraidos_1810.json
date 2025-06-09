@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "917844861670",
+            "SOLICITUD": "3401982",
+            "CEDULA": "1289825300",
+            "NOMBRES": "ENRIQUE CANO",
+            "RECOMPRA O DESEMBOLSO": "3.040.325",
+            "FIRMA ELLECTRONICA": "ENRIQUE CANO - 1289825300"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "917844861670",
+            "NOMBRES": "ENRIQUE CANO",
+            "CREDITO": "18.881.203",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "348.442",
+            "FIRMA ELLECTRONICA": "ENRIQUE CANO - 1289825300",
+            "AL PIE DE LA FIRMA": "ENRIQUE CANO - 1289825300"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1289825300",
+            "NOMBRES": "ENRIQUE CANO",
+            "FECHA NACIMIENTO": "23/05/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.881.203",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE CANO - 1289825300",
+            "AL PIE DE LA FIRMA": "ENRIQUE CANO - 1289825300"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3401982",
+            "CEDULA": "1289825300",
+            "NOMBRES": "ENRIQUE CANO",
+            "CREDITO": "18.881.203",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "348.442",
+            "E.A": "22.42%",
+            "RECOMPRA O DESEMBOLSO": "3.040.325",
+            "FIRMA ELLECTRONICA": "ENRIQUE CANO - 1289825300"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1289825300",
+            "NOMBRES": "ENRIQUE CANO",
+            "FIRMA ELLECTRONICA": "ENRIQUE CANO - 1289825300"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1289825300",
+            "NOMBRES": "ENRIQUE CANO",
+            "FIRMA ELLECTRONICA": "ENRIQUE CANO - 1289825300",
+            "AL PIE DE LA FIRMA": "ENRIQUE CANO - 1289825300"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE CANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1289825300",
+            "NOMBRES": "ENRIQUE CANO",
+            "SALARIO": "2.954.513",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "16/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1289825300",
+            "NOMBRES": "ENRIQUE CANO",
+            "RECOMPRA O DESEMBOLSO": "3.040.325"
+        }
+    }
+]

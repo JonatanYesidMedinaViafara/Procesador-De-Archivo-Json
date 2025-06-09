@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "577247375362",
+            "SOLICITUD": "3749562",
+            "CEDULA": "1243637095",
+            "NOMBRES": "CÉSAR BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "3.116.302",
+            "FIRMA ELLECTRONICA": "CÉSAR BEDOYA - 1243637095"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "577247375362",
+            "NOMBRES": "CÉSAR BEDOYA",
+            "CREDITO": "13.814.547",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "382.415",
+            "FIRMA ELLECTRONICA": "CÉSAR BEDOYA - 1243637095",
+            "AL PIE DE LA FIRMA": "CÉSAR BEDOYA - 1243637095"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1243637095",
+            "NOMBRES": "CÉSAR BEDOYA",
+            "FECHA NACIMIENTO": "10/02/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.814.547",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CÉSAR BEDOYA - 1243637095",
+            "AL PIE DE LA FIRMA": "CÉSAR BEDOYA - 1243637095"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3749562",
+            "CEDULA": "1243637095",
+            "NOMBRES": "CÉSAR BEDOYA",
+            "CREDITO": "13.814.547",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "382.415",
+            "E.A": "20.8%",
+            "RECOMPRA O DESEMBOLSO": "3.116.302",
+            "FIRMA ELLECTRONICA": "CÉSAR BEDOYA - 1243637095"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1243637095",
+            "NOMBRES": "CÉSAR BEDOYA",
+            "FIRMA ELLECTRONICA": "CÉSAR BEDOYA - 1243637095"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1243637095",
+            "NOMBRES": "CÉSAR BEDOYA",
+            "FIRMA ELLECTRONICA": "CÉSAR BEDOYA - 1243637095",
+            "AL PIE DE LA FIRMA": "CÉSAR BEDOYA - 1243637095"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CÉSAR BEDOYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1243637095",
+            "NOMBRES": "CÉSAR BEDOYA",
+            "SALARIO": "3.293.011",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1243637095",
+            "NOMBRES": "CÉSAR BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "3.116.302"
+        }
+    }
+]

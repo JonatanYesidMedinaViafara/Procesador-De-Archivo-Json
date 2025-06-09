@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "930661215380",
+            "SOLICITUD": "3369176",
+            "CEDULA": "1739212162",
+            "NOMBRES": "MARINA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.754.661",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ - 1739212162"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "930661215380",
+            "NOMBRES": "MARINA GÓMEZ",
+            "CREDITO": "7.700.977",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "235.255",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ - 1739212162",
+            "AL PIE DE LA FIRMA": "MARINA GÓMEZ - 1739212162"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1739212162",
+            "NOMBRES": "MARINA GÓMEZ",
+            "FECHA NACIMIENTO": "06/08/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.700.977",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ - 1739212162",
+            "AL PIE DE LA FIRMA": "MARINA GÓMEZ - 1739212162"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3369176",
+            "CEDULA": "1739212162",
+            "NOMBRES": "MARINA GÓMEZ",
+            "CREDITO": "7.700.977",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "235.255",
+            "E.A": "20.37%",
+            "RECOMPRA O DESEMBOLSO": "2.754.661",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ - 1739212162"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1739212162",
+            "NOMBRES": "MARINA GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ - 1739212162"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1739212162",
+            "NOMBRES": "MARINA GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARINA GÓMEZ - 1739212162",
+            "AL PIE DE LA FIRMA": "MARINA GÓMEZ - 1739212162"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARINA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1739212162",
+            "NOMBRES": "MARINA GÓMEZ",
+            "SALARIO": "1.948.381",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1739212162",
+            "NOMBRES": "MARINA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.754.661"
+        }
+    }
+]

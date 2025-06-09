@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "469056210955",
+            "SOLICITUD": "7115615",
+            "CEDULA": "1902540975",
+            "NOMBRES": "ANDREA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.682.164",
+            "FIRMA ELLECTRONICA": "ANDREA GUTIÉRREZ - 1902540975"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "469056210955",
+            "NOMBRES": "ANDREA GUTIÉRREZ",
+            "CREDITO": "19.506.099",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "365.261",
+            "FIRMA ELLECTRONICA": "ANDREA GUTIÉRREZ - 1902540975",
+            "AL PIE DE LA FIRMA": "ANDREA GUTIÉRREZ - 1902540975"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1902540975",
+            "NOMBRES": "ANDREA GUTIÉRREZ",
+            "FECHA NACIMIENTO": "20/03/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.506.099",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDREA GUTIÉRREZ - 1902540975",
+            "AL PIE DE LA FIRMA": "ANDREA GUTIÉRREZ - 1902540975"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7115615",
+            "CEDULA": "1902540975",
+            "NOMBRES": "ANDREA GUTIÉRREZ",
+            "CREDITO": "19.506.099",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "365.261",
+            "E.A": "28.53%",
+            "RECOMPRA O DESEMBOLSO": "3.682.164",
+            "FIRMA ELLECTRONICA": "ANDREA GUTIÉRREZ - 1902540975"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1902540975",
+            "NOMBRES": "ANDREA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ANDREA GUTIÉRREZ - 1902540975"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1902540975",
+            "NOMBRES": "ANDREA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ANDREA GUTIÉRREZ - 1902540975",
+            "AL PIE DE LA FIRMA": "ANDREA GUTIÉRREZ - 1902540975"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1902540975",
+            "NOMBRES": "ANDREA GUTIÉRREZ",
+            "SALARIO": "2.191.780",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1902540975",
+            "NOMBRES": "ANDREA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.682.164"
+        }
+    }
+]

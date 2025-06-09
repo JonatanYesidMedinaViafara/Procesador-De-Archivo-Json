@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "404822523564",
+            "SOLICITUD": "2179150",
+            "CEDULA": "1239372834",
+            "NOMBRES": "DAVID RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.140.309",
+            "FIRMA ELLECTRONICA": "DAVID RAMÍREZ - 1239372834"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "404822523564",
+            "NOMBRES": "DAVID RAMÍREZ",
+            "CREDITO": "16.994.609",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "273.874",
+            "FIRMA ELLECTRONICA": "DAVID RAMÍREZ - 1239372834",
+            "AL PIE DE LA FIRMA": "DAVID RAMÍREZ - 1239372834"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1239372834",
+            "NOMBRES": "DAVID RAMÍREZ",
+            "FECHA NACIMIENTO": "11/04/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.994.609",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DAVID RAMÍREZ - 1239372834",
+            "AL PIE DE LA FIRMA": "DAVID RAMÍREZ - 1239372834"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2179150",
+            "CEDULA": "1239372834",
+            "NOMBRES": "DAVID RAMÍREZ",
+            "CREDITO": "16.994.609",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "273.874",
+            "E.A": "25.83%",
+            "RECOMPRA O DESEMBOLSO": "3.140.309",
+            "FIRMA ELLECTRONICA": "DAVID RAMÍREZ - 1239372834"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1239372834",
+            "NOMBRES": "DAVID RAMÍREZ",
+            "FIRMA ELLECTRONICA": "DAVID RAMÍREZ - 1239372834"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1239372834",
+            "NOMBRES": "DAVID RAMÍREZ",
+            "FIRMA ELLECTRONICA": "DAVID RAMÍREZ - 1239372834",
+            "AL PIE DE LA FIRMA": "DAVID RAMÍREZ - 1239372834"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1239372834",
+            "NOMBRES": "DAVID RAMÍREZ",
+            "SALARIO": "4.563.715",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1239372834",
+            "NOMBRES": "DAVID RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.140.309"
+        }
+    }
+]

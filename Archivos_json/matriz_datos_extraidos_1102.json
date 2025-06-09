@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "709089522739",
+            "SOLICITUD": "4021547",
+            "CEDULA": "1278795645",
+            "NOMBRES": "JOSÉ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.322.733",
+            "FIRMA ELLECTRONICA": "JOSÉ GÓMEZ - 1278795645"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "709089522739",
+            "NOMBRES": "JOSÉ GÓMEZ",
+            "CREDITO": "5.446.764",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "102.567",
+            "FIRMA ELLECTRONICA": "JOSÉ GÓMEZ - 1278795645",
+            "AL PIE DE LA FIRMA": "JOSÉ GÓMEZ - 1278795645"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1278795645",
+            "NOMBRES": "JOSÉ GÓMEZ",
+            "FECHA NACIMIENTO": "06/02/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.446.764",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ GÓMEZ - 1278795645",
+            "AL PIE DE LA FIRMA": "JOSÉ GÓMEZ - 1278795645"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4021547",
+            "CEDULA": "1278795645",
+            "NOMBRES": "JOSÉ GÓMEZ",
+            "CREDITO": "5.446.764",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "102.567",
+            "E.A": "23.44%",
+            "RECOMPRA O DESEMBOLSO": "1.322.733",
+            "FIRMA ELLECTRONICA": "JOSÉ GÓMEZ - 1278795645"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1278795645",
+            "NOMBRES": "JOSÉ GÓMEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ GÓMEZ - 1278795645"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1278795645",
+            "NOMBRES": "JOSÉ GÓMEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ GÓMEZ - 1278795645",
+            "AL PIE DE LA FIRMA": "JOSÉ GÓMEZ - 1278795645"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1278795645",
+            "NOMBRES": "JOSÉ GÓMEZ",
+            "SALARIO": "4.215.776",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1278795645",
+            "NOMBRES": "JOSÉ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.322.733"
+        }
+    }
+]

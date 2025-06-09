@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "109773380697",
+            "SOLICITUD": "1614936",
+            "CEDULA": "1915446309",
+            "NOMBRES": "JUAN GUZMÁN SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.899.359",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN SALAZAR - 1915446309"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "109773380697",
+            "NOMBRES": "JUAN GUZMÁN SALAZAR",
+            "CREDITO": "17.885.115",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "235.969",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN SALAZAR - 1915446309",
+            "AL PIE DE LA FIRMA": "JUAN GUZMÁN SALAZAR - 1915446309"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1915446309",
+            "NOMBRES": "JUAN GUZMÁN SALAZAR",
+            "FECHA NACIMIENTO": "26/01/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.885.115",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN SALAZAR - 1915446309",
+            "AL PIE DE LA FIRMA": "JUAN GUZMÁN SALAZAR - 1915446309"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1614936",
+            "CEDULA": "1915446309",
+            "NOMBRES": "JUAN GUZMÁN SALAZAR",
+            "CREDITO": "17.885.115",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "235.969",
+            "E.A": "19.63%",
+            "RECOMPRA O DESEMBOLSO": "1.899.359",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN SALAZAR - 1915446309"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1915446309",
+            "NOMBRES": "JUAN GUZMÁN SALAZAR",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN SALAZAR - 1915446309"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1915446309",
+            "NOMBRES": "JUAN GUZMÁN SALAZAR",
+            "FIRMA ELLECTRONICA": "JUAN GUZMÁN SALAZAR - 1915446309",
+            "AL PIE DE LA FIRMA": "JUAN GUZMÁN SALAZAR - 1915446309"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN GUZMÁN SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1915446309",
+            "NOMBRES": "JUAN GUZMÁN SALAZAR",
+            "SALARIO": "2.917.532",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1915446309",
+            "NOMBRES": "JUAN GUZMÁN SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.899.359"
+        }
+    }
+]

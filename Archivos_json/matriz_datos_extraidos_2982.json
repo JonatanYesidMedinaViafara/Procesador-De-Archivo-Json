@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "234701235373",
+            "SOLICITUD": "6596394",
+            "CEDULA": "1619814325",
+            "NOMBRES": "VIVIANA CABALLERO MARÍN",
+            "RECOMPRA O DESEMBOLSO": "1.973.246",
+            "FIRMA ELLECTRONICA": "VIVIANA CABALLERO MARÍN - 1619814325"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "234701235373",
+            "NOMBRES": "VIVIANA CABALLERO MARÍN",
+            "CREDITO": "10.306.319",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "372.16",
+            "FIRMA ELLECTRONICA": "VIVIANA CABALLERO MARÍN - 1619814325",
+            "AL PIE DE LA FIRMA": "VIVIANA CABALLERO MARÍN - 1619814325"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1619814325",
+            "NOMBRES": "VIVIANA CABALLERO MARÍN",
+            "FECHA NACIMIENTO": "29/06/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.306.319",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "VIVIANA CABALLERO MARÍN - 1619814325",
+            "AL PIE DE LA FIRMA": "VIVIANA CABALLERO MARÍN - 1619814325"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6596394",
+            "CEDULA": "1619814325",
+            "NOMBRES": "VIVIANA CABALLERO MARÍN",
+            "CREDITO": "10.306.319",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "372.16",
+            "E.A": "28.33%",
+            "RECOMPRA O DESEMBOLSO": "1.973.246",
+            "FIRMA ELLECTRONICA": "VIVIANA CABALLERO MARÍN - 1619814325"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1619814325",
+            "NOMBRES": "VIVIANA CABALLERO MARÍN",
+            "FIRMA ELLECTRONICA": "VIVIANA CABALLERO MARÍN - 1619814325"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1619814325",
+            "NOMBRES": "VIVIANA CABALLERO MARÍN",
+            "FIRMA ELLECTRONICA": "VIVIANA CABALLERO MARÍN - 1619814325",
+            "AL PIE DE LA FIRMA": "VIVIANA CABALLERO MARÍN - 1619814325"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VIVIANA CABALLERO MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1619814325",
+            "NOMBRES": "VIVIANA CABALLERO MARÍN",
+            "SALARIO": "4.582.028",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1619814325",
+            "NOMBRES": "VIVIANA CABALLERO MARÍN",
+            "RECOMPRA O DESEMBOLSO": "1.973.246"
+        }
+    }
+]

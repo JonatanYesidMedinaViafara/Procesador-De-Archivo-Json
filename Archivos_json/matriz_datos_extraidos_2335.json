@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "393519031155",
+            "SOLICITUD": "9522343",
+            "CEDULA": "1216156136",
+            "NOMBRES": "RAFAEL PRIETO",
+            "RECOMPRA O DESEMBOLSO": "3.945.921",
+            "FIRMA ELLECTRONICA": "RAFAEL PRIETO - 1216156136"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "393519031155",
+            "NOMBRES": "RAFAEL PRIETO",
+            "CREDITO": "19.407.907",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "227.373",
+            "FIRMA ELLECTRONICA": "RAFAEL PRIETO - 1216156136",
+            "AL PIE DE LA FIRMA": "RAFAEL PRIETO - 1216156136"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1216156136",
+            "NOMBRES": "RAFAEL PRIETO",
+            "FECHA NACIMIENTO": "25/06/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.407.907",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RAFAEL PRIETO - 1216156136",
+            "AL PIE DE LA FIRMA": "RAFAEL PRIETO - 1216156136"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9522343",
+            "CEDULA": "1216156136",
+            "NOMBRES": "RAFAEL PRIETO",
+            "CREDITO": "19.407.907",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "227.373",
+            "E.A": "26.71%",
+            "RECOMPRA O DESEMBOLSO": "3.945.921",
+            "FIRMA ELLECTRONICA": "RAFAEL PRIETO - 1216156136"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1216156136",
+            "NOMBRES": "RAFAEL PRIETO",
+            "FIRMA ELLECTRONICA": "RAFAEL PRIETO - 1216156136"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1216156136",
+            "NOMBRES": "RAFAEL PRIETO",
+            "FIRMA ELLECTRONICA": "RAFAEL PRIETO - 1216156136",
+            "AL PIE DE LA FIRMA": "RAFAEL PRIETO - 1216156136"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL PRIETO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1216156136",
+            "NOMBRES": "RAFAEL PRIETO",
+            "SALARIO": "1.565.216",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1216156136",
+            "NOMBRES": "RAFAEL PRIETO",
+            "RECOMPRA O DESEMBOLSO": "3.945.921"
+        }
+    }
+]

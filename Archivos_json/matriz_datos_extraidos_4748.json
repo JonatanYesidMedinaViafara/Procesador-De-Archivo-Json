@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "405051065250",
+            "SOLICITUD": "1287357",
+            "CEDULA": "1475568801",
+            "NOMBRES": "ALBERTO ESTEBAN SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.876.428",
+            "FIRMA ELLECTRONICA": "ALBERTO ESTEBAN SOTO - 1475568801"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "405051065250",
+            "NOMBRES": "ALBERTO ESTEBAN SOTO",
+            "CREDITO": "15.303.984",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "192.583",
+            "FIRMA ELLECTRONICA": "ALBERTO ESTEBAN SOTO - 1475568801",
+            "AL PIE DE LA FIRMA": "ALBERTO ESTEBAN SOTO - 1475568801"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1475568801",
+            "NOMBRES": "ALBERTO ESTEBAN SOTO",
+            "FECHA NACIMIENTO": "11/01/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.303.984",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBERTO ESTEBAN SOTO - 1475568801",
+            "AL PIE DE LA FIRMA": "ALBERTO ESTEBAN SOTO - 1475568801"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1287357",
+            "CEDULA": "1475568801",
+            "NOMBRES": "ALBERTO ESTEBAN SOTO",
+            "CREDITO": "15.303.984",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "192.583",
+            "E.A": "21.38%",
+            "RECOMPRA O DESEMBOLSO": "3.876.428",
+            "FIRMA ELLECTRONICA": "ALBERTO ESTEBAN SOTO - 1475568801"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1475568801",
+            "NOMBRES": "ALBERTO ESTEBAN SOTO",
+            "FIRMA ELLECTRONICA": "ALBERTO ESTEBAN SOTO - 1475568801"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1475568801",
+            "NOMBRES": "ALBERTO ESTEBAN SOTO",
+            "FIRMA ELLECTRONICA": "ALBERTO ESTEBAN SOTO - 1475568801",
+            "AL PIE DE LA FIRMA": "ALBERTO ESTEBAN SOTO - 1475568801"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO ESTEBAN SOTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1475568801",
+            "NOMBRES": "ALBERTO ESTEBAN SOTO",
+            "SALARIO": "4.977.238",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1475568801",
+            "NOMBRES": "ALBERTO ESTEBAN SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.876.428"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "123784957333",
+            "SOLICITUD": "6580086",
+            "CEDULA": "1059869582",
+            "NOMBRES": "JOSÉ OMAR URIBE",
+            "RECOMPRA O DESEMBOLSO": "3.329.900",
+            "FIRMA ELLECTRONICA": "JOSÉ OMAR URIBE - 1059869582"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "123784957333",
+            "NOMBRES": "JOSÉ OMAR URIBE",
+            "CREDITO": "7.209.243",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "218.434",
+            "FIRMA ELLECTRONICA": "JOSÉ OMAR URIBE - 1059869582",
+            "AL PIE DE LA FIRMA": "JOSÉ OMAR URIBE - 1059869582"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1059869582",
+            "NOMBRES": "JOSÉ OMAR URIBE",
+            "FECHA NACIMIENTO": "22/01/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.209.243",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ OMAR URIBE - 1059869582",
+            "AL PIE DE LA FIRMA": "JOSÉ OMAR URIBE - 1059869582"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6580086",
+            "CEDULA": "1059869582",
+            "NOMBRES": "JOSÉ OMAR URIBE",
+            "CREDITO": "7.209.243",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "218.434",
+            "E.A": "25.19%",
+            "RECOMPRA O DESEMBOLSO": "3.329.900",
+            "FIRMA ELLECTRONICA": "JOSÉ OMAR URIBE - 1059869582"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1059869582",
+            "NOMBRES": "JOSÉ OMAR URIBE",
+            "FIRMA ELLECTRONICA": "JOSÉ OMAR URIBE - 1059869582"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1059869582",
+            "NOMBRES": "JOSÉ OMAR URIBE",
+            "FIRMA ELLECTRONICA": "JOSÉ OMAR URIBE - 1059869582",
+            "AL PIE DE LA FIRMA": "JOSÉ OMAR URIBE - 1059869582"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ OMAR URIBE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1059869582",
+            "NOMBRES": "JOSÉ OMAR URIBE",
+            "SALARIO": "1.525.216",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1059869582",
+            "NOMBRES": "JOSÉ OMAR URIBE",
+            "RECOMPRA O DESEMBOLSO": "3.329.900"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "253810193841",
+            "SOLICITUD": "6594847",
+            "CEDULA": "1464463438",
+            "NOMBRES": "ANDRÉS CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "4.462.347",
+            "FIRMA ELLECTRONICA": "ANDRÉS CONTRERAS - 1464463438"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "253810193841",
+            "NOMBRES": "ANDRÉS CONTRERAS",
+            "CREDITO": "19.990.643",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "151.575",
+            "FIRMA ELLECTRONICA": "ANDRÉS CONTRERAS - 1464463438",
+            "AL PIE DE LA FIRMA": "ANDRÉS CONTRERAS - 1464463438"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1464463438",
+            "NOMBRES": "ANDRÉS CONTRERAS",
+            "FECHA NACIMIENTO": "22/01/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.990.643",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS CONTRERAS - 1464463438",
+            "AL PIE DE LA FIRMA": "ANDRÉS CONTRERAS - 1464463438"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6594847",
+            "CEDULA": "1464463438",
+            "NOMBRES": "ANDRÉS CONTRERAS",
+            "CREDITO": "19.990.643",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "151.575",
+            "E.A": "20.1%",
+            "RECOMPRA O DESEMBOLSO": "4.462.347",
+            "FIRMA ELLECTRONICA": "ANDRÉS CONTRERAS - 1464463438"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1464463438",
+            "NOMBRES": "ANDRÉS CONTRERAS",
+            "FIRMA ELLECTRONICA": "ANDRÉS CONTRERAS - 1464463438"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1464463438",
+            "NOMBRES": "ANDRÉS CONTRERAS",
+            "FIRMA ELLECTRONICA": "ANDRÉS CONTRERAS - 1464463438",
+            "AL PIE DE LA FIRMA": "ANDRÉS CONTRERAS - 1464463438"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS CONTRERAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1464463438",
+            "NOMBRES": "ANDRÉS CONTRERAS",
+            "SALARIO": "3.949.682",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1464463438",
+            "NOMBRES": "ANDRÉS CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "4.462.347"
+        }
+    }
+]

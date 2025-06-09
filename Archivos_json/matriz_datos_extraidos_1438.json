@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "320544196925",
+            "SOLICITUD": "4696761",
+            "CEDULA": "1555129301",
+            "NOMBRES": "GLADIS PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.985.134",
+            "FIRMA ELLECTRONICA": "GLADIS PEÑA - 1555129301"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "320544196925",
+            "NOMBRES": "GLADIS PEÑA",
+            "CREDITO": "6.097.607",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "367.272",
+            "FIRMA ELLECTRONICA": "GLADIS PEÑA - 1555129301",
+            "AL PIE DE LA FIRMA": "GLADIS PEÑA - 1555129301"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1555129301",
+            "NOMBRES": "GLADIS PEÑA",
+            "FECHA NACIMIENTO": "25/09/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.097.607",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "GLADIS PEÑA - 1555129301",
+            "AL PIE DE LA FIRMA": "GLADIS PEÑA - 1555129301"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4696761",
+            "CEDULA": "1555129301",
+            "NOMBRES": "GLADIS PEÑA",
+            "CREDITO": "6.097.607",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "367.272",
+            "E.A": "19.1%",
+            "RECOMPRA O DESEMBOLSO": "1.985.134",
+            "FIRMA ELLECTRONICA": "GLADIS PEÑA - 1555129301"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1555129301",
+            "NOMBRES": "GLADIS PEÑA",
+            "FIRMA ELLECTRONICA": "GLADIS PEÑA - 1555129301"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1555129301",
+            "NOMBRES": "GLADIS PEÑA",
+            "FIRMA ELLECTRONICA": "GLADIS PEÑA - 1555129301",
+            "AL PIE DE LA FIRMA": "GLADIS PEÑA - 1555129301"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GLADIS PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1555129301",
+            "NOMBRES": "GLADIS PEÑA",
+            "SALARIO": "1.375.503",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1555129301",
+            "NOMBRES": "GLADIS PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.985.134"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "626786789809",
+            "SOLICITUD": "3818493",
+            "CEDULA": "1668486257",
+            "NOMBRES": "ISABEL RUTH CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "2.135.730",
+            "FIRMA ELLECTRONICA": "ISABEL RUTH CORREDOR - 1668486257"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "626786789809",
+            "NOMBRES": "ISABEL RUTH CORREDOR",
+            "CREDITO": "17.021.972",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "265.659",
+            "FIRMA ELLECTRONICA": "ISABEL RUTH CORREDOR - 1668486257",
+            "AL PIE DE LA FIRMA": "ISABEL RUTH CORREDOR - 1668486257"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1668486257",
+            "NOMBRES": "ISABEL RUTH CORREDOR",
+            "FECHA NACIMIENTO": "29/03/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.021.972",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ISABEL RUTH CORREDOR - 1668486257",
+            "AL PIE DE LA FIRMA": "ISABEL RUTH CORREDOR - 1668486257"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3818493",
+            "CEDULA": "1668486257",
+            "NOMBRES": "ISABEL RUTH CORREDOR",
+            "CREDITO": "17.021.972",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "265.659",
+            "E.A": "28.6%",
+            "RECOMPRA O DESEMBOLSO": "2.135.730",
+            "FIRMA ELLECTRONICA": "ISABEL RUTH CORREDOR - 1668486257"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1668486257",
+            "NOMBRES": "ISABEL RUTH CORREDOR",
+            "FIRMA ELLECTRONICA": "ISABEL RUTH CORREDOR - 1668486257"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1668486257",
+            "NOMBRES": "ISABEL RUTH CORREDOR",
+            "FIRMA ELLECTRONICA": "ISABEL RUTH CORREDOR - 1668486257",
+            "AL PIE DE LA FIRMA": "ISABEL RUTH CORREDOR - 1668486257"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL RUTH CORREDOR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1668486257",
+            "NOMBRES": "ISABEL RUTH CORREDOR",
+            "SALARIO": "2.990.700",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1668486257",
+            "NOMBRES": "ISABEL RUTH CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "2.135.730"
+        }
+    }
+]

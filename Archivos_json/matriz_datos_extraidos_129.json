@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "646615867366",
+            "SOLICITUD": "5833356",
+            "CEDULA": "1280585989",
+            "NOMBRES": "ÁNGEL CARO TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.865.360",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARO TORRES - 1280585989"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "646615867366",
+            "NOMBRES": "ÁNGEL CARO TORRES",
+            "CREDITO": "17.757.132",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "201.653",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARO TORRES - 1280585989",
+            "AL PIE DE LA FIRMA": "ÁNGEL CARO TORRES - 1280585989"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1280585989",
+            "NOMBRES": "ÁNGEL CARO TORRES",
+            "FECHA NACIMIENTO": "05/03/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.757.132",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARO TORRES - 1280585989",
+            "AL PIE DE LA FIRMA": "ÁNGEL CARO TORRES - 1280585989"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5833356",
+            "CEDULA": "1280585989",
+            "NOMBRES": "ÁNGEL CARO TORRES",
+            "CREDITO": "17.757.132",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "201.653",
+            "E.A": "25.74%",
+            "RECOMPRA O DESEMBOLSO": "4.865.360",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARO TORRES - 1280585989"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1280585989",
+            "NOMBRES": "ÁNGEL CARO TORRES",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARO TORRES - 1280585989"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1280585989",
+            "NOMBRES": "ÁNGEL CARO TORRES",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARO TORRES - 1280585989",
+            "AL PIE DE LA FIRMA": "ÁNGEL CARO TORRES - 1280585989"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL CARO TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1280585989",
+            "NOMBRES": "ÁNGEL CARO TORRES",
+            "SALARIO": "1.388.932",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1280585989",
+            "NOMBRES": "ÁNGEL CARO TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.865.360"
+        }
+    }
+]

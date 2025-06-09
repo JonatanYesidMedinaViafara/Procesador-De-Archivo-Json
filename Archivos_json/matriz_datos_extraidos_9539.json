@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "145069076305",
+            "SOLICITUD": "9803537",
+            "CEDULA": "1750597950",
+            "NOMBRES": "RICARDO ARDILA",
+            "RECOMPRA O DESEMBOLSO": "3.857.994",
+            "FIRMA ELLECTRONICA": "RICARDO ARDILA - 1750597950"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "145069076305",
+            "NOMBRES": "RICARDO ARDILA",
+            "CREDITO": "18.849.615",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "238.171",
+            "FIRMA ELLECTRONICA": "RICARDO ARDILA - 1750597950",
+            "AL PIE DE LA FIRMA": "RICARDO ARDILA - 1750597950"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1750597950",
+            "NOMBRES": "RICARDO ARDILA",
+            "FECHA NACIMIENTO": "26/07/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.849.615",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RICARDO ARDILA - 1750597950",
+            "AL PIE DE LA FIRMA": "RICARDO ARDILA - 1750597950"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9803537",
+            "CEDULA": "1750597950",
+            "NOMBRES": "RICARDO ARDILA",
+            "CREDITO": "18.849.615",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "238.171",
+            "E.A": "22.04%",
+            "RECOMPRA O DESEMBOLSO": "3.857.994",
+            "FIRMA ELLECTRONICA": "RICARDO ARDILA - 1750597950"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1750597950",
+            "NOMBRES": "RICARDO ARDILA",
+            "FIRMA ELLECTRONICA": "RICARDO ARDILA - 1750597950"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1750597950",
+            "NOMBRES": "RICARDO ARDILA",
+            "FIRMA ELLECTRONICA": "RICARDO ARDILA - 1750597950",
+            "AL PIE DE LA FIRMA": "RICARDO ARDILA - 1750597950"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RICARDO ARDILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1750597950",
+            "NOMBRES": "RICARDO ARDILA",
+            "SALARIO": "1.887.488",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1750597950",
+            "NOMBRES": "RICARDO ARDILA",
+            "RECOMPRA O DESEMBOLSO": "3.857.994"
+        }
+    }
+]

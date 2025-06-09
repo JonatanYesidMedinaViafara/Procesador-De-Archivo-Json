@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "262332243209",
+            "SOLICITUD": "7515159",
+            "CEDULA": "1203930880",
+            "NOMBRES": "LUIS HERRERA",
+            "RECOMPRA O DESEMBOLSO": "1.360.844",
+            "FIRMA ELLECTRONICA": "LUIS HERRERA - 1203930880"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "262332243209",
+            "NOMBRES": "LUIS HERRERA",
+            "CREDITO": "5.159.159",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "212.279",
+            "FIRMA ELLECTRONICA": "LUIS HERRERA - 1203930880",
+            "AL PIE DE LA FIRMA": "LUIS HERRERA - 1203930880"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1203930880",
+            "NOMBRES": "LUIS HERRERA",
+            "FECHA NACIMIENTO": "16/08/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.159.159",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUIS HERRERA - 1203930880",
+            "AL PIE DE LA FIRMA": "LUIS HERRERA - 1203930880"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7515159",
+            "CEDULA": "1203930880",
+            "NOMBRES": "LUIS HERRERA",
+            "CREDITO": "5.159.159",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "212.279",
+            "E.A": "18.18%",
+            "RECOMPRA O DESEMBOLSO": "1.360.844",
+            "FIRMA ELLECTRONICA": "LUIS HERRERA - 1203930880"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1203930880",
+            "NOMBRES": "LUIS HERRERA",
+            "FIRMA ELLECTRONICA": "LUIS HERRERA - 1203930880"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1203930880",
+            "NOMBRES": "LUIS HERRERA",
+            "FIRMA ELLECTRONICA": "LUIS HERRERA - 1203930880",
+            "AL PIE DE LA FIRMA": "LUIS HERRERA - 1203930880"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1203930880",
+            "NOMBRES": "LUIS HERRERA",
+            "SALARIO": "2.235.706",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1203930880",
+            "NOMBRES": "LUIS HERRERA",
+            "RECOMPRA O DESEMBOLSO": "1.360.844"
+        }
+    }
+]

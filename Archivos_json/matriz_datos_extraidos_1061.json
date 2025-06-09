@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "856280326605",
+            "SOLICITUD": "3233945",
+            "CEDULA": "1721210843",
+            "NOMBRES": "LUIS ARIAS DELGADO",
+            "RECOMPRA O DESEMBOLSO": "3.687.153",
+            "FIRMA ELLECTRONICA": "LUIS ARIAS DELGADO - 1721210843"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "856280326605",
+            "NOMBRES": "LUIS ARIAS DELGADO",
+            "CREDITO": "9.404.906",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "172.912",
+            "FIRMA ELLECTRONICA": "LUIS ARIAS DELGADO - 1721210843",
+            "AL PIE DE LA FIRMA": "LUIS ARIAS DELGADO - 1721210843"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1721210843",
+            "NOMBRES": "LUIS ARIAS DELGADO",
+            "FECHA NACIMIENTO": "02/02/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.404.906",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS ARIAS DELGADO - 1721210843",
+            "AL PIE DE LA FIRMA": "LUIS ARIAS DELGADO - 1721210843"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3233945",
+            "CEDULA": "1721210843",
+            "NOMBRES": "LUIS ARIAS DELGADO",
+            "CREDITO": "9.404.906",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "172.912",
+            "E.A": "27.29%",
+            "RECOMPRA O DESEMBOLSO": "3.687.153",
+            "FIRMA ELLECTRONICA": "LUIS ARIAS DELGADO - 1721210843"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1721210843",
+            "NOMBRES": "LUIS ARIAS DELGADO",
+            "FIRMA ELLECTRONICA": "LUIS ARIAS DELGADO - 1721210843"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1721210843",
+            "NOMBRES": "LUIS ARIAS DELGADO",
+            "FIRMA ELLECTRONICA": "LUIS ARIAS DELGADO - 1721210843",
+            "AL PIE DE LA FIRMA": "LUIS ARIAS DELGADO - 1721210843"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS ARIAS DELGADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1721210843",
+            "NOMBRES": "LUIS ARIAS DELGADO",
+            "SALARIO": "2.388.134",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1721210843",
+            "NOMBRES": "LUIS ARIAS DELGADO",
+            "RECOMPRA O DESEMBOLSO": "3.687.153"
+        }
+    }
+]

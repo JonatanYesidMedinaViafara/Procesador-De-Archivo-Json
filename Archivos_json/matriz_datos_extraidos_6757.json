@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "211454896383",
+            "SOLICITUD": "4037288",
+            "CEDULA": "1022029741",
+            "NOMBRES": "MARÍA OSORIO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.919.175",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO RODRÍGUEZ - 1022029741"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "211454896383",
+            "NOMBRES": "MARÍA OSORIO RODRÍGUEZ",
+            "CREDITO": "7.100.501",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "202.09",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO RODRÍGUEZ - 1022029741",
+            "AL PIE DE LA FIRMA": "MARÍA OSORIO RODRÍGUEZ - 1022029741"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1022029741",
+            "NOMBRES": "MARÍA OSORIO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "06/12/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.100.501",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO RODRÍGUEZ - 1022029741",
+            "AL PIE DE LA FIRMA": "MARÍA OSORIO RODRÍGUEZ - 1022029741"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4037288",
+            "CEDULA": "1022029741",
+            "NOMBRES": "MARÍA OSORIO RODRÍGUEZ",
+            "CREDITO": "7.100.501",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "202.09",
+            "E.A": "24.45%",
+            "RECOMPRA O DESEMBOLSO": "1.919.175",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO RODRÍGUEZ - 1022029741"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1022029741",
+            "NOMBRES": "MARÍA OSORIO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO RODRÍGUEZ - 1022029741"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1022029741",
+            "NOMBRES": "MARÍA OSORIO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO RODRÍGUEZ - 1022029741",
+            "AL PIE DE LA FIRMA": "MARÍA OSORIO RODRÍGUEZ - 1022029741"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA OSORIO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1022029741",
+            "NOMBRES": "MARÍA OSORIO RODRÍGUEZ",
+            "SALARIO": "4.656.134",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1022029741",
+            "NOMBRES": "MARÍA OSORIO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.919.175"
+        }
+    }
+]

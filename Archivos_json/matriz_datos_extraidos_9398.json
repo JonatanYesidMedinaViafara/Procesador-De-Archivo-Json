@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "935440882232",
+            "SOLICITUD": "3134583",
+            "CEDULA": "1761658811",
+            "NOMBRES": "CARLOS RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.261.857",
+            "FIRMA ELLECTRONICA": "CARLOS RAMÍREZ - 1761658811"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "935440882232",
+            "NOMBRES": "CARLOS RAMÍREZ",
+            "CREDITO": "18.451.446",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "280.946",
+            "FIRMA ELLECTRONICA": "CARLOS RAMÍREZ - 1761658811",
+            "AL PIE DE LA FIRMA": "CARLOS RAMÍREZ - 1761658811"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1761658811",
+            "NOMBRES": "CARLOS RAMÍREZ",
+            "FECHA NACIMIENTO": "08/12/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.451.446",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS RAMÍREZ - 1761658811",
+            "AL PIE DE LA FIRMA": "CARLOS RAMÍREZ - 1761658811"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3134583",
+            "CEDULA": "1761658811",
+            "NOMBRES": "CARLOS RAMÍREZ",
+            "CREDITO": "18.451.446",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "280.946",
+            "E.A": "26.98%",
+            "RECOMPRA O DESEMBOLSO": "1.261.857",
+            "FIRMA ELLECTRONICA": "CARLOS RAMÍREZ - 1761658811"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1761658811",
+            "NOMBRES": "CARLOS RAMÍREZ",
+            "FIRMA ELLECTRONICA": "CARLOS RAMÍREZ - 1761658811"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1761658811",
+            "NOMBRES": "CARLOS RAMÍREZ",
+            "FIRMA ELLECTRONICA": "CARLOS RAMÍREZ - 1761658811",
+            "AL PIE DE LA FIRMA": "CARLOS RAMÍREZ - 1761658811"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1761658811",
+            "NOMBRES": "CARLOS RAMÍREZ",
+            "SALARIO": "3.331.467",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1761658811",
+            "NOMBRES": "CARLOS RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.261.857"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "208117325568",
+            "SOLICITUD": "2090329",
+            "CEDULA": "1040656467",
+            "NOMBRES": "MICHAEL MONTOYA",
+            "RECOMPRA O DESEMBOLSO": "4.978.969",
+            "FIRMA ELLECTRONICA": "MICHAEL MONTOYA - 1040656467"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "208117325568",
+            "NOMBRES": "MICHAEL MONTOYA",
+            "CREDITO": "14.613.980",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "171.363",
+            "FIRMA ELLECTRONICA": "MICHAEL MONTOYA - 1040656467",
+            "AL PIE DE LA FIRMA": "MICHAEL MONTOYA - 1040656467"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1040656467",
+            "NOMBRES": "MICHAEL MONTOYA",
+            "FECHA NACIMIENTO": "27/04/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.613.980",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MICHAEL MONTOYA - 1040656467",
+            "AL PIE DE LA FIRMA": "MICHAEL MONTOYA - 1040656467"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2090329",
+            "CEDULA": "1040656467",
+            "NOMBRES": "MICHAEL MONTOYA",
+            "CREDITO": "14.613.980",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "171.363",
+            "E.A": "24.25%",
+            "RECOMPRA O DESEMBOLSO": "4.978.969",
+            "FIRMA ELLECTRONICA": "MICHAEL MONTOYA - 1040656467"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1040656467",
+            "NOMBRES": "MICHAEL MONTOYA",
+            "FIRMA ELLECTRONICA": "MICHAEL MONTOYA - 1040656467"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1040656467",
+            "NOMBRES": "MICHAEL MONTOYA",
+            "FIRMA ELLECTRONICA": "MICHAEL MONTOYA - 1040656467",
+            "AL PIE DE LA FIRMA": "MICHAEL MONTOYA - 1040656467"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MICHAEL MONTOYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1040656467",
+            "NOMBRES": "MICHAEL MONTOYA",
+            "SALARIO": "1.182.330",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1040656467",
+            "NOMBRES": "MICHAEL MONTOYA",
+            "RECOMPRA O DESEMBOLSO": "4.978.969"
+        }
+    }
+]

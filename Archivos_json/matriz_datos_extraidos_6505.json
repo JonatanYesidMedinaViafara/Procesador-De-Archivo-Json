@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "551635695523",
+            "SOLICITUD": "4888608",
+            "CEDULA": "1637479910",
+            "NOMBRES": "RUBÉN ERICK CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.978.871",
+            "FIRMA ELLECTRONICA": "RUBÉN ERICK CALDERÓN - 1637479910"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "551635695523",
+            "NOMBRES": "RUBÉN ERICK CALDERÓN",
+            "CREDITO": "9.955.926",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "214.111",
+            "FIRMA ELLECTRONICA": "RUBÉN ERICK CALDERÓN - 1637479910",
+            "AL PIE DE LA FIRMA": "RUBÉN ERICK CALDERÓN - 1637479910"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1637479910",
+            "NOMBRES": "RUBÉN ERICK CALDERÓN",
+            "FECHA NACIMIENTO": "09/09/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.955.926",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "RUBÉN ERICK CALDERÓN - 1637479910",
+            "AL PIE DE LA FIRMA": "RUBÉN ERICK CALDERÓN - 1637479910"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4888608",
+            "CEDULA": "1637479910",
+            "NOMBRES": "RUBÉN ERICK CALDERÓN",
+            "CREDITO": "9.955.926",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "214.111",
+            "E.A": "19.4%",
+            "RECOMPRA O DESEMBOLSO": "4.978.871",
+            "FIRMA ELLECTRONICA": "RUBÉN ERICK CALDERÓN - 1637479910"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1637479910",
+            "NOMBRES": "RUBÉN ERICK CALDERÓN",
+            "FIRMA ELLECTRONICA": "RUBÉN ERICK CALDERÓN - 1637479910"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1637479910",
+            "NOMBRES": "RUBÉN ERICK CALDERÓN",
+            "FIRMA ELLECTRONICA": "RUBÉN ERICK CALDERÓN - 1637479910",
+            "AL PIE DE LA FIRMA": "RUBÉN ERICK CALDERÓN - 1637479910"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUBÉN ERICK CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1637479910",
+            "NOMBRES": "RUBÉN ERICK CALDERÓN",
+            "SALARIO": "4.991.595",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1637479910",
+            "NOMBRES": "RUBÉN ERICK CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.978.871"
+        }
+    }
+]

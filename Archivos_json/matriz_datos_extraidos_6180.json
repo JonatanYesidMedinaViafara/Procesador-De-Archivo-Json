@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "890184618800",
+            "SOLICITUD": "7990869",
+            "CEDULA": "1313717151",
+            "NOMBRES": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.291.852",
+            "FIRMA ELLECTRONICA": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ - 1313717151"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "890184618800",
+            "NOMBRES": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ",
+            "CREDITO": "18.354.955",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "263.775",
+            "FIRMA ELLECTRONICA": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ - 1313717151",
+            "AL PIE DE LA FIRMA": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ - 1313717151"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1313717151",
+            "NOMBRES": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ",
+            "FECHA NACIMIENTO": "09/02/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.354.955",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ - 1313717151",
+            "AL PIE DE LA FIRMA": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ - 1313717151"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7990869",
+            "CEDULA": "1313717151",
+            "NOMBRES": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ",
+            "CREDITO": "18.354.955",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "263.775",
+            "E.A": "21.28%",
+            "RECOMPRA O DESEMBOLSO": "1.291.852",
+            "FIRMA ELLECTRONICA": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ - 1313717151"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1313717151",
+            "NOMBRES": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ - 1313717151"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1313717151",
+            "NOMBRES": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ - 1313717151",
+            "AL PIE DE LA FIRMA": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ - 1313717151"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1313717151",
+            "NOMBRES": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ",
+            "SALARIO": "3.738.673",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1313717151",
+            "NOMBRES": "MARCELA MARÍA GONZÁLEZ HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.291.852"
+        }
+    }
+]

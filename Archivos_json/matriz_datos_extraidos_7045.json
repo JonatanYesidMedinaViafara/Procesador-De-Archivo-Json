@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "983370338678",
+            "SOLICITUD": "7272838",
+            "CEDULA": "1197107068",
+            "NOMBRES": "ALFONSO JORGE LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.156.238",
+            "FIRMA ELLECTRONICA": "ALFONSO JORGE LÓPEZ - 1197107068"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "983370338678",
+            "NOMBRES": "ALFONSO JORGE LÓPEZ",
+            "CREDITO": "8.813.340",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "232.289",
+            "FIRMA ELLECTRONICA": "ALFONSO JORGE LÓPEZ - 1197107068",
+            "AL PIE DE LA FIRMA": "ALFONSO JORGE LÓPEZ - 1197107068"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1197107068",
+            "NOMBRES": "ALFONSO JORGE LÓPEZ",
+            "FECHA NACIMIENTO": "25/08/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.813.340",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALFONSO JORGE LÓPEZ - 1197107068",
+            "AL PIE DE LA FIRMA": "ALFONSO JORGE LÓPEZ - 1197107068"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7272838",
+            "CEDULA": "1197107068",
+            "NOMBRES": "ALFONSO JORGE LÓPEZ",
+            "CREDITO": "8.813.340",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "232.289",
+            "E.A": "27.57%",
+            "RECOMPRA O DESEMBOLSO": "3.156.238",
+            "FIRMA ELLECTRONICA": "ALFONSO JORGE LÓPEZ - 1197107068"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1197107068",
+            "NOMBRES": "ALFONSO JORGE LÓPEZ",
+            "FIRMA ELLECTRONICA": "ALFONSO JORGE LÓPEZ - 1197107068"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1197107068",
+            "NOMBRES": "ALFONSO JORGE LÓPEZ",
+            "FIRMA ELLECTRONICA": "ALFONSO JORGE LÓPEZ - 1197107068",
+            "AL PIE DE LA FIRMA": "ALFONSO JORGE LÓPEZ - 1197107068"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFONSO JORGE LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1197107068",
+            "NOMBRES": "ALFONSO JORGE LÓPEZ",
+            "SALARIO": "1.826.906",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1197107068",
+            "NOMBRES": "ALFONSO JORGE LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.156.238"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "373533102074",
+            "SOLICITUD": "9638633",
+            "CEDULA": "1540709536",
+            "NOMBRES": "GREGORIO FERNANDO MARTÍNEZ GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "2.756.005",
+            "FIRMA ELLECTRONICA": "GREGORIO FERNANDO MARTÍNEZ GALLEGO - 1540709536"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "373533102074",
+            "NOMBRES": "GREGORIO FERNANDO MARTÍNEZ GALLEGO",
+            "CREDITO": "6.496.303",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "385.925",
+            "FIRMA ELLECTRONICA": "GREGORIO FERNANDO MARTÍNEZ GALLEGO - 1540709536",
+            "AL PIE DE LA FIRMA": "GREGORIO FERNANDO MARTÍNEZ GALLEGO - 1540709536"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1540709536",
+            "NOMBRES": "GREGORIO FERNANDO MARTÍNEZ GALLEGO",
+            "FECHA NACIMIENTO": "10/02/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.496.303",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GREGORIO FERNANDO MARTÍNEZ GALLEGO - 1540709536",
+            "AL PIE DE LA FIRMA": "GREGORIO FERNANDO MARTÍNEZ GALLEGO - 1540709536"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9638633",
+            "CEDULA": "1540709536",
+            "NOMBRES": "GREGORIO FERNANDO MARTÍNEZ GALLEGO",
+            "CREDITO": "6.496.303",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "385.925",
+            "E.A": "27.53%",
+            "RECOMPRA O DESEMBOLSO": "2.756.005",
+            "FIRMA ELLECTRONICA": "GREGORIO FERNANDO MARTÍNEZ GALLEGO - 1540709536"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1540709536",
+            "NOMBRES": "GREGORIO FERNANDO MARTÍNEZ GALLEGO",
+            "FIRMA ELLECTRONICA": "GREGORIO FERNANDO MARTÍNEZ GALLEGO - 1540709536"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1540709536",
+            "NOMBRES": "GREGORIO FERNANDO MARTÍNEZ GALLEGO",
+            "FIRMA ELLECTRONICA": "GREGORIO FERNANDO MARTÍNEZ GALLEGO - 1540709536",
+            "AL PIE DE LA FIRMA": "GREGORIO FERNANDO MARTÍNEZ GALLEGO - 1540709536"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GREGORIO FERNANDO MARTÍNEZ GALLEGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1540709536",
+            "NOMBRES": "GREGORIO FERNANDO MARTÍNEZ GALLEGO",
+            "SALARIO": "2.912.090",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1540709536",
+            "NOMBRES": "GREGORIO FERNANDO MARTÍNEZ GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "2.756.005"
+        }
+    }
+]

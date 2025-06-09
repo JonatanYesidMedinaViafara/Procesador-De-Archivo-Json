@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "328065574610",
+            "SOLICITUD": "2840576",
+            "CEDULA": "1770379663",
+            "NOMBRES": "PABLO MIGUEL ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.753.237",
+            "FIRMA ELLECTRONICA": "PABLO MIGUEL ARIAS - 1770379663"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "328065574610",
+            "NOMBRES": "PABLO MIGUEL ARIAS",
+            "CREDITO": "5.870.666",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "367.044",
+            "FIRMA ELLECTRONICA": "PABLO MIGUEL ARIAS - 1770379663",
+            "AL PIE DE LA FIRMA": "PABLO MIGUEL ARIAS - 1770379663"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1770379663",
+            "NOMBRES": "PABLO MIGUEL ARIAS",
+            "FECHA NACIMIENTO": "13/08/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.870.666",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PABLO MIGUEL ARIAS - 1770379663",
+            "AL PIE DE LA FIRMA": "PABLO MIGUEL ARIAS - 1770379663"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2840576",
+            "CEDULA": "1770379663",
+            "NOMBRES": "PABLO MIGUEL ARIAS",
+            "CREDITO": "5.870.666",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "367.044",
+            "E.A": "19.79%",
+            "RECOMPRA O DESEMBOLSO": "2.753.237",
+            "FIRMA ELLECTRONICA": "PABLO MIGUEL ARIAS - 1770379663"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1770379663",
+            "NOMBRES": "PABLO MIGUEL ARIAS",
+            "FIRMA ELLECTRONICA": "PABLO MIGUEL ARIAS - 1770379663"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1770379663",
+            "NOMBRES": "PABLO MIGUEL ARIAS",
+            "FIRMA ELLECTRONICA": "PABLO MIGUEL ARIAS - 1770379663",
+            "AL PIE DE LA FIRMA": "PABLO MIGUEL ARIAS - 1770379663"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO MIGUEL ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1770379663",
+            "NOMBRES": "PABLO MIGUEL ARIAS",
+            "SALARIO": "3.179.760",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1770379663",
+            "NOMBRES": "PABLO MIGUEL ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.753.237"
+        }
+    }
+]

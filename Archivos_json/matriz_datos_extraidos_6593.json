@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "323445392209",
+            "SOLICITUD": "6690582",
+            "CEDULA": "1262797751",
+            "NOMBRES": "FERNANDA MARÍA ARENAS VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.658.876",
+            "FIRMA ELLECTRONICA": "FERNANDA MARÍA ARENAS VELÁSQUEZ - 1262797751"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "323445392209",
+            "NOMBRES": "FERNANDA MARÍA ARENAS VELÁSQUEZ",
+            "CREDITO": "16.908.725",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "299.849",
+            "FIRMA ELLECTRONICA": "FERNANDA MARÍA ARENAS VELÁSQUEZ - 1262797751",
+            "AL PIE DE LA FIRMA": "FERNANDA MARÍA ARENAS VELÁSQUEZ - 1262797751"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1262797751",
+            "NOMBRES": "FERNANDA MARÍA ARENAS VELÁSQUEZ",
+            "FECHA NACIMIENTO": "28/01/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.908.725",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FERNANDA MARÍA ARENAS VELÁSQUEZ - 1262797751",
+            "AL PIE DE LA FIRMA": "FERNANDA MARÍA ARENAS VELÁSQUEZ - 1262797751"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6690582",
+            "CEDULA": "1262797751",
+            "NOMBRES": "FERNANDA MARÍA ARENAS VELÁSQUEZ",
+            "CREDITO": "16.908.725",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "299.849",
+            "E.A": "22.52%",
+            "RECOMPRA O DESEMBOLSO": "3.658.876",
+            "FIRMA ELLECTRONICA": "FERNANDA MARÍA ARENAS VELÁSQUEZ - 1262797751"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1262797751",
+            "NOMBRES": "FERNANDA MARÍA ARENAS VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "FERNANDA MARÍA ARENAS VELÁSQUEZ - 1262797751"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1262797751",
+            "NOMBRES": "FERNANDA MARÍA ARENAS VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "FERNANDA MARÍA ARENAS VELÁSQUEZ - 1262797751",
+            "AL PIE DE LA FIRMA": "FERNANDA MARÍA ARENAS VELÁSQUEZ - 1262797751"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDA MARÍA ARENAS VELÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1262797751",
+            "NOMBRES": "FERNANDA MARÍA ARENAS VELÁSQUEZ",
+            "SALARIO": "3.079.457",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1262797751",
+            "NOMBRES": "FERNANDA MARÍA ARENAS VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.658.876"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "789212751125",
+            "SOLICITUD": "8369619",
+            "CEDULA": "1886289710",
+            "NOMBRES": "ALEXANDER VELÁSQUEZ ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "2.385.350",
+            "FIRMA ELLECTRONICA": "ALEXANDER VELÁSQUEZ ORTIZ - 1886289710"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "789212751125",
+            "NOMBRES": "ALEXANDER VELÁSQUEZ ORTIZ",
+            "CREDITO": "6.863.287",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "359.795",
+            "FIRMA ELLECTRONICA": "ALEXANDER VELÁSQUEZ ORTIZ - 1886289710",
+            "AL PIE DE LA FIRMA": "ALEXANDER VELÁSQUEZ ORTIZ - 1886289710"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1886289710",
+            "NOMBRES": "ALEXANDER VELÁSQUEZ ORTIZ",
+            "FECHA NACIMIENTO": "01/09/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.863.287",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALEXANDER VELÁSQUEZ ORTIZ - 1886289710",
+            "AL PIE DE LA FIRMA": "ALEXANDER VELÁSQUEZ ORTIZ - 1886289710"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8369619",
+            "CEDULA": "1886289710",
+            "NOMBRES": "ALEXANDER VELÁSQUEZ ORTIZ",
+            "CREDITO": "6.863.287",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "359.795",
+            "E.A": "28.09%",
+            "RECOMPRA O DESEMBOLSO": "2.385.350",
+            "FIRMA ELLECTRONICA": "ALEXANDER VELÁSQUEZ ORTIZ - 1886289710"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1886289710",
+            "NOMBRES": "ALEXANDER VELÁSQUEZ ORTIZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER VELÁSQUEZ ORTIZ - 1886289710"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1886289710",
+            "NOMBRES": "ALEXANDER VELÁSQUEZ ORTIZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER VELÁSQUEZ ORTIZ - 1886289710",
+            "AL PIE DE LA FIRMA": "ALEXANDER VELÁSQUEZ ORTIZ - 1886289710"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER VELÁSQUEZ ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1886289710",
+            "NOMBRES": "ALEXANDER VELÁSQUEZ ORTIZ",
+            "SALARIO": "1.843.862",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1886289710",
+            "NOMBRES": "ALEXANDER VELÁSQUEZ ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "2.385.350"
+        }
+    }
+]

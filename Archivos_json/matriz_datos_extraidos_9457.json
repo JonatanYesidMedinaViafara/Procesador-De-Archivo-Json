@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "830342617814",
+            "SOLICITUD": "8811134",
+            "CEDULA": "1829332980",
+            "NOMBRES": "MAURICIO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.928.036",
+            "FIRMA ELLECTRONICA": "MAURICIO RINCÓN - 1829332980"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "830342617814",
+            "NOMBRES": "MAURICIO RINCÓN",
+            "CREDITO": "15.660.962",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "214.94",
+            "FIRMA ELLECTRONICA": "MAURICIO RINCÓN - 1829332980",
+            "AL PIE DE LA FIRMA": "MAURICIO RINCÓN - 1829332980"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1829332980",
+            "NOMBRES": "MAURICIO RINCÓN",
+            "FECHA NACIMIENTO": "24/03/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.660.962",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MAURICIO RINCÓN - 1829332980",
+            "AL PIE DE LA FIRMA": "MAURICIO RINCÓN - 1829332980"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8811134",
+            "CEDULA": "1829332980",
+            "NOMBRES": "MAURICIO RINCÓN",
+            "CREDITO": "15.660.962",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "214.94",
+            "E.A": "24.5%",
+            "RECOMPRA O DESEMBOLSO": "3.928.036",
+            "FIRMA ELLECTRONICA": "MAURICIO RINCÓN - 1829332980"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1829332980",
+            "NOMBRES": "MAURICIO RINCÓN",
+            "FIRMA ELLECTRONICA": "MAURICIO RINCÓN - 1829332980"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1829332980",
+            "NOMBRES": "MAURICIO RINCÓN",
+            "FIRMA ELLECTRONICA": "MAURICIO RINCÓN - 1829332980",
+            "AL PIE DE LA FIRMA": "MAURICIO RINCÓN - 1829332980"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1829332980",
+            "NOMBRES": "MAURICIO RINCÓN",
+            "SALARIO": "1.275.437",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1829332980",
+            "NOMBRES": "MAURICIO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.928.036"
+        }
+    }
+]

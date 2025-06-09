@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "539911962791",
+            "SOLICITUD": "7155007",
+            "CEDULA": "1929790985",
+            "NOMBRES": "LUZ HERRERA ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.584.399",
+            "FIRMA ELLECTRONICA": "LUZ HERRERA ARIAS - 1929790985"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "539911962791",
+            "NOMBRES": "LUZ HERRERA ARIAS",
+            "CREDITO": "11.823.092",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "112.866",
+            "FIRMA ELLECTRONICA": "LUZ HERRERA ARIAS - 1929790985",
+            "AL PIE DE LA FIRMA": "LUZ HERRERA ARIAS - 1929790985"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1929790985",
+            "NOMBRES": "LUZ HERRERA ARIAS",
+            "FECHA NACIMIENTO": "28/12/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.823.092",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUZ HERRERA ARIAS - 1929790985",
+            "AL PIE DE LA FIRMA": "LUZ HERRERA ARIAS - 1929790985"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7155007",
+            "CEDULA": "1929790985",
+            "NOMBRES": "LUZ HERRERA ARIAS",
+            "CREDITO": "11.823.092",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "112.866",
+            "E.A": "19.58%",
+            "RECOMPRA O DESEMBOLSO": "2.584.399",
+            "FIRMA ELLECTRONICA": "LUZ HERRERA ARIAS - 1929790985"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1929790985",
+            "NOMBRES": "LUZ HERRERA ARIAS",
+            "FIRMA ELLECTRONICA": "LUZ HERRERA ARIAS - 1929790985"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1929790985",
+            "NOMBRES": "LUZ HERRERA ARIAS",
+            "FIRMA ELLECTRONICA": "LUZ HERRERA ARIAS - 1929790985",
+            "AL PIE DE LA FIRMA": "LUZ HERRERA ARIAS - 1929790985"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ HERRERA ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1929790985",
+            "NOMBRES": "LUZ HERRERA ARIAS",
+            "SALARIO": "2.448.431",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1929790985",
+            "NOMBRES": "LUZ HERRERA ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.584.399"
+        }
+    }
+]

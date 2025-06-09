@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "728445416467",
+            "SOLICITUD": "7178722",
+            "CEDULA": "1232380444",
+            "NOMBRES": "ÓSCAR GIL GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.164.866",
+            "FIRMA ELLECTRONICA": "ÓSCAR GIL GUTIÉRREZ - 1232380444"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "728445416467",
+            "NOMBRES": "ÓSCAR GIL GUTIÉRREZ",
+            "CREDITO": "5.932.364",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.583",
+            "FIRMA ELLECTRONICA": "ÓSCAR GIL GUTIÉRREZ - 1232380444",
+            "AL PIE DE LA FIRMA": "ÓSCAR GIL GUTIÉRREZ - 1232380444"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1232380444",
+            "NOMBRES": "ÓSCAR GIL GUTIÉRREZ",
+            "FECHA NACIMIENTO": "01/09/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.932.364",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÓSCAR GIL GUTIÉRREZ - 1232380444",
+            "AL PIE DE LA FIRMA": "ÓSCAR GIL GUTIÉRREZ - 1232380444"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7178722",
+            "CEDULA": "1232380444",
+            "NOMBRES": "ÓSCAR GIL GUTIÉRREZ",
+            "CREDITO": "5.932.364",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.583",
+            "E.A": "19.85%",
+            "RECOMPRA O DESEMBOLSO": "1.164.866",
+            "FIRMA ELLECTRONICA": "ÓSCAR GIL GUTIÉRREZ - 1232380444"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1232380444",
+            "NOMBRES": "ÓSCAR GIL GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR GIL GUTIÉRREZ - 1232380444"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1232380444",
+            "NOMBRES": "ÓSCAR GIL GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR GIL GUTIÉRREZ - 1232380444",
+            "AL PIE DE LA FIRMA": "ÓSCAR GIL GUTIÉRREZ - 1232380444"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR GIL GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1232380444",
+            "NOMBRES": "ÓSCAR GIL GUTIÉRREZ",
+            "SALARIO": "1.225.634",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1232380444",
+            "NOMBRES": "ÓSCAR GIL GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.164.866"
+        }
+    }
+]

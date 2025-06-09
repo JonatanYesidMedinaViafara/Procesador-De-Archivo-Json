@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "998486472468",
+            "SOLICITUD": "6166726",
+            "CEDULA": "1983434370",
+            "NOMBRES": "MIGUEL JUAN SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.173.894",
+            "FIRMA ELLECTRONICA": "MIGUEL JUAN SUÁREZ - 1983434370"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "998486472468",
+            "NOMBRES": "MIGUEL JUAN SUÁREZ",
+            "CREDITO": "17.435.580",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "105.039",
+            "FIRMA ELLECTRONICA": "MIGUEL JUAN SUÁREZ - 1983434370",
+            "AL PIE DE LA FIRMA": "MIGUEL JUAN SUÁREZ - 1983434370"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1983434370",
+            "NOMBRES": "MIGUEL JUAN SUÁREZ",
+            "FECHA NACIMIENTO": "24/05/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.435.580",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MIGUEL JUAN SUÁREZ - 1983434370",
+            "AL PIE DE LA FIRMA": "MIGUEL JUAN SUÁREZ - 1983434370"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6166726",
+            "CEDULA": "1983434370",
+            "NOMBRES": "MIGUEL JUAN SUÁREZ",
+            "CREDITO": "17.435.580",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "105.039",
+            "E.A": "23.12%",
+            "RECOMPRA O DESEMBOLSO": "3.173.894",
+            "FIRMA ELLECTRONICA": "MIGUEL JUAN SUÁREZ - 1983434370"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1983434370",
+            "NOMBRES": "MIGUEL JUAN SUÁREZ",
+            "FIRMA ELLECTRONICA": "MIGUEL JUAN SUÁREZ - 1983434370"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1983434370",
+            "NOMBRES": "MIGUEL JUAN SUÁREZ",
+            "FIRMA ELLECTRONICA": "MIGUEL JUAN SUÁREZ - 1983434370",
+            "AL PIE DE LA FIRMA": "MIGUEL JUAN SUÁREZ - 1983434370"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL JUAN SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1983434370",
+            "NOMBRES": "MIGUEL JUAN SUÁREZ",
+            "SALARIO": "2.185.458",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1983434370",
+            "NOMBRES": "MIGUEL JUAN SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.173.894"
+        }
+    }
+]

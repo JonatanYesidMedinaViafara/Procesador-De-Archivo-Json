@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "562366985957",
+            "SOLICITUD": "6020542",
+            "CEDULA": "1145623394",
+            "NOMBRES": "CARMEN SOTO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.075.550",
+            "FIRMA ELLECTRONICA": "CARMEN SOTO LÓPEZ - 1145623394"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "562366985957",
+            "NOMBRES": "CARMEN SOTO LÓPEZ",
+            "CREDITO": "19.373.586",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "235.205",
+            "FIRMA ELLECTRONICA": "CARMEN SOTO LÓPEZ - 1145623394",
+            "AL PIE DE LA FIRMA": "CARMEN SOTO LÓPEZ - 1145623394"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1145623394",
+            "NOMBRES": "CARMEN SOTO LÓPEZ",
+            "FECHA NACIMIENTO": "13/04/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.373.586",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARMEN SOTO LÓPEZ - 1145623394",
+            "AL PIE DE LA FIRMA": "CARMEN SOTO LÓPEZ - 1145623394"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6020542",
+            "CEDULA": "1145623394",
+            "NOMBRES": "CARMEN SOTO LÓPEZ",
+            "CREDITO": "19.373.586",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "235.205",
+            "E.A": "18.55%",
+            "RECOMPRA O DESEMBOLSO": "4.075.550",
+            "FIRMA ELLECTRONICA": "CARMEN SOTO LÓPEZ - 1145623394"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1145623394",
+            "NOMBRES": "CARMEN SOTO LÓPEZ",
+            "FIRMA ELLECTRONICA": "CARMEN SOTO LÓPEZ - 1145623394"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1145623394",
+            "NOMBRES": "CARMEN SOTO LÓPEZ",
+            "FIRMA ELLECTRONICA": "CARMEN SOTO LÓPEZ - 1145623394",
+            "AL PIE DE LA FIRMA": "CARMEN SOTO LÓPEZ - 1145623394"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN SOTO LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1145623394",
+            "NOMBRES": "CARMEN SOTO LÓPEZ",
+            "SALARIO": "2.557.595",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1145623394",
+            "NOMBRES": "CARMEN SOTO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.075.550"
+        }
+    }
+]

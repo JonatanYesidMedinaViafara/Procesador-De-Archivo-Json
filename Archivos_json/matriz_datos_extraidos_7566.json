@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "726139241110",
+            "SOLICITUD": "7804414",
+            "CEDULA": "1900256777",
+            "NOMBRES": "FERNANDO CARLOS GARCÍA GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "4.022.342",
+            "FIRMA ELLECTRONICA": "FERNANDO CARLOS GARCÍA GUZMÁN - 1900256777"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "726139241110",
+            "NOMBRES": "FERNANDO CARLOS GARCÍA GUZMÁN",
+            "CREDITO": "18.949.769",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "267.185",
+            "FIRMA ELLECTRONICA": "FERNANDO CARLOS GARCÍA GUZMÁN - 1900256777",
+            "AL PIE DE LA FIRMA": "FERNANDO CARLOS GARCÍA GUZMÁN - 1900256777"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1900256777",
+            "NOMBRES": "FERNANDO CARLOS GARCÍA GUZMÁN",
+            "FECHA NACIMIENTO": "01/05/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.949.769",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FERNANDO CARLOS GARCÍA GUZMÁN - 1900256777",
+            "AL PIE DE LA FIRMA": "FERNANDO CARLOS GARCÍA GUZMÁN - 1900256777"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7804414",
+            "CEDULA": "1900256777",
+            "NOMBRES": "FERNANDO CARLOS GARCÍA GUZMÁN",
+            "CREDITO": "18.949.769",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "267.185",
+            "E.A": "20.68%",
+            "RECOMPRA O DESEMBOLSO": "4.022.342",
+            "FIRMA ELLECTRONICA": "FERNANDO CARLOS GARCÍA GUZMÁN - 1900256777"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1900256777",
+            "NOMBRES": "FERNANDO CARLOS GARCÍA GUZMÁN",
+            "FIRMA ELLECTRONICA": "FERNANDO CARLOS GARCÍA GUZMÁN - 1900256777"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1900256777",
+            "NOMBRES": "FERNANDO CARLOS GARCÍA GUZMÁN",
+            "FIRMA ELLECTRONICA": "FERNANDO CARLOS GARCÍA GUZMÁN - 1900256777",
+            "AL PIE DE LA FIRMA": "FERNANDO CARLOS GARCÍA GUZMÁN - 1900256777"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO CARLOS GARCÍA GUZMÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1900256777",
+            "NOMBRES": "FERNANDO CARLOS GARCÍA GUZMÁN",
+            "SALARIO": "3.012.807",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1900256777",
+            "NOMBRES": "FERNANDO CARLOS GARCÍA GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "4.022.342"
+        }
+    }
+]

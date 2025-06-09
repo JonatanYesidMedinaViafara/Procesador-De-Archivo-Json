@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "547024688339",
+            "SOLICITUD": "8631977",
+            "CEDULA": "1289841713",
+            "NOMBRES": "PABLO HENAO",
+            "RECOMPRA O DESEMBOLSO": "2.913.696",
+            "FIRMA ELLECTRONICA": "PABLO HENAO - 1289841713"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "547024688339",
+            "NOMBRES": "PABLO HENAO",
+            "CREDITO": "5.428.426",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.917",
+            "FIRMA ELLECTRONICA": "PABLO HENAO - 1289841713",
+            "AL PIE DE LA FIRMA": "PABLO HENAO - 1289841713"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1289841713",
+            "NOMBRES": "PABLO HENAO",
+            "FECHA NACIMIENTO": "16/05/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.428.426",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "PABLO HENAO - 1289841713",
+            "AL PIE DE LA FIRMA": "PABLO HENAO - 1289841713"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8631977",
+            "CEDULA": "1289841713",
+            "NOMBRES": "PABLO HENAO",
+            "CREDITO": "5.428.426",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.917",
+            "E.A": "28.46%",
+            "RECOMPRA O DESEMBOLSO": "2.913.696",
+            "FIRMA ELLECTRONICA": "PABLO HENAO - 1289841713"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1289841713",
+            "NOMBRES": "PABLO HENAO",
+            "FIRMA ELLECTRONICA": "PABLO HENAO - 1289841713"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1289841713",
+            "NOMBRES": "PABLO HENAO",
+            "FIRMA ELLECTRONICA": "PABLO HENAO - 1289841713",
+            "AL PIE DE LA FIRMA": "PABLO HENAO - 1289841713"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO HENAO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1289841713",
+            "NOMBRES": "PABLO HENAO",
+            "SALARIO": "1.301.890",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1289841713",
+            "NOMBRES": "PABLO HENAO",
+            "RECOMPRA O DESEMBOLSO": "2.913.696"
+        }
+    }
+]

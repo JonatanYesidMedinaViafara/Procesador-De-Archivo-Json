@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "109454225293",
+            "SOLICITUD": "4190221",
+            "CEDULA": "1470530865",
+            "NOMBRES": "CECILIA LINA MONROY PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.057.394",
+            "FIRMA ELLECTRONICA": "CECILIA LINA MONROY PÉREZ - 1470530865"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "109454225293",
+            "NOMBRES": "CECILIA LINA MONROY PÉREZ",
+            "CREDITO": "13.229.276",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "310.527",
+            "FIRMA ELLECTRONICA": "CECILIA LINA MONROY PÉREZ - 1470530865",
+            "AL PIE DE LA FIRMA": "CECILIA LINA MONROY PÉREZ - 1470530865"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1470530865",
+            "NOMBRES": "CECILIA LINA MONROY PÉREZ",
+            "FECHA NACIMIENTO": "17/06/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.229.276",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CECILIA LINA MONROY PÉREZ - 1470530865",
+            "AL PIE DE LA FIRMA": "CECILIA LINA MONROY PÉREZ - 1470530865"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4190221",
+            "CEDULA": "1470530865",
+            "NOMBRES": "CECILIA LINA MONROY PÉREZ",
+            "CREDITO": "13.229.276",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "310.527",
+            "E.A": "20.09%",
+            "RECOMPRA O DESEMBOLSO": "1.057.394",
+            "FIRMA ELLECTRONICA": "CECILIA LINA MONROY PÉREZ - 1470530865"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1470530865",
+            "NOMBRES": "CECILIA LINA MONROY PÉREZ",
+            "FIRMA ELLECTRONICA": "CECILIA LINA MONROY PÉREZ - 1470530865"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1470530865",
+            "NOMBRES": "CECILIA LINA MONROY PÉREZ",
+            "FIRMA ELLECTRONICA": "CECILIA LINA MONROY PÉREZ - 1470530865",
+            "AL PIE DE LA FIRMA": "CECILIA LINA MONROY PÉREZ - 1470530865"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA LINA MONROY PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1470530865",
+            "NOMBRES": "CECILIA LINA MONROY PÉREZ",
+            "SALARIO": "4.577.771",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1470530865",
+            "NOMBRES": "CECILIA LINA MONROY PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.057.394"
+        }
+    }
+]

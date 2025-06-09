@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "352578535929",
+            "SOLICITUD": "4478748",
+            "CEDULA": "1009385622",
+            "NOMBRES": "ANDRÉS PALACIOS CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "4.392.331",
+            "FIRMA ELLECTRONICA": "ANDRÉS PALACIOS CÓRDOBA - 1009385622"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "352578535929",
+            "NOMBRES": "ANDRÉS PALACIOS CÓRDOBA",
+            "CREDITO": "19.219.578",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "228.189",
+            "FIRMA ELLECTRONICA": "ANDRÉS PALACIOS CÓRDOBA - 1009385622",
+            "AL PIE DE LA FIRMA": "ANDRÉS PALACIOS CÓRDOBA - 1009385622"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1009385622",
+            "NOMBRES": "ANDRÉS PALACIOS CÓRDOBA",
+            "FECHA NACIMIENTO": "13/08/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.219.578",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS PALACIOS CÓRDOBA - 1009385622",
+            "AL PIE DE LA FIRMA": "ANDRÉS PALACIOS CÓRDOBA - 1009385622"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4478748",
+            "CEDULA": "1009385622",
+            "NOMBRES": "ANDRÉS PALACIOS CÓRDOBA",
+            "CREDITO": "19.219.578",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "228.189",
+            "E.A": "25.31%",
+            "RECOMPRA O DESEMBOLSO": "4.392.331",
+            "FIRMA ELLECTRONICA": "ANDRÉS PALACIOS CÓRDOBA - 1009385622"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1009385622",
+            "NOMBRES": "ANDRÉS PALACIOS CÓRDOBA",
+            "FIRMA ELLECTRONICA": "ANDRÉS PALACIOS CÓRDOBA - 1009385622"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1009385622",
+            "NOMBRES": "ANDRÉS PALACIOS CÓRDOBA",
+            "FIRMA ELLECTRONICA": "ANDRÉS PALACIOS CÓRDOBA - 1009385622",
+            "AL PIE DE LA FIRMA": "ANDRÉS PALACIOS CÓRDOBA - 1009385622"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS PALACIOS CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1009385622",
+            "NOMBRES": "ANDRÉS PALACIOS CÓRDOBA",
+            "SALARIO": "3.608.028",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1009385622",
+            "NOMBRES": "ANDRÉS PALACIOS CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "4.392.331"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "905870274965",
+            "SOLICITUD": "8306861",
+            "CEDULA": "1827036558",
+            "NOMBRES": "CARMEN PARRA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.689.384",
+            "FIRMA ELLECTRONICA": "CARMEN PARRA MARTÍNEZ - 1827036558"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "905870274965",
+            "NOMBRES": "CARMEN PARRA MARTÍNEZ",
+            "CREDITO": "5.253.200",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "224.771",
+            "FIRMA ELLECTRONICA": "CARMEN PARRA MARTÍNEZ - 1827036558",
+            "AL PIE DE LA FIRMA": "CARMEN PARRA MARTÍNEZ - 1827036558"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1827036558",
+            "NOMBRES": "CARMEN PARRA MARTÍNEZ",
+            "FECHA NACIMIENTO": "26/03/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.253.200",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARMEN PARRA MARTÍNEZ - 1827036558",
+            "AL PIE DE LA FIRMA": "CARMEN PARRA MARTÍNEZ - 1827036558"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8306861",
+            "CEDULA": "1827036558",
+            "NOMBRES": "CARMEN PARRA MARTÍNEZ",
+            "CREDITO": "5.253.200",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "224.771",
+            "E.A": "27.98%",
+            "RECOMPRA O DESEMBOLSO": "3.689.384",
+            "FIRMA ELLECTRONICA": "CARMEN PARRA MARTÍNEZ - 1827036558"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1827036558",
+            "NOMBRES": "CARMEN PARRA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "CARMEN PARRA MARTÍNEZ - 1827036558"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1827036558",
+            "NOMBRES": "CARMEN PARRA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "CARMEN PARRA MARTÍNEZ - 1827036558",
+            "AL PIE DE LA FIRMA": "CARMEN PARRA MARTÍNEZ - 1827036558"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN PARRA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1827036558",
+            "NOMBRES": "CARMEN PARRA MARTÍNEZ",
+            "SALARIO": "2.784.058",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1827036558",
+            "NOMBRES": "CARMEN PARRA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.689.384"
+        }
+    }
+]

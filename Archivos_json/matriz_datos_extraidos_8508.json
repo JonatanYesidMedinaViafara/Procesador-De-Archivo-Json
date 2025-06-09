@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "454702089212",
+            "SOLICITUD": "6984893",
+            "CEDULA": "1250135876",
+            "NOMBRES": "HENRY LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.956.072",
+            "FIRMA ELLECTRONICA": "HENRY LÓPEZ - 1250135876"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "454702089212",
+            "NOMBRES": "HENRY LÓPEZ",
+            "CREDITO": "12.752.705",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "233.266",
+            "FIRMA ELLECTRONICA": "HENRY LÓPEZ - 1250135876",
+            "AL PIE DE LA FIRMA": "HENRY LÓPEZ - 1250135876"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1250135876",
+            "NOMBRES": "HENRY LÓPEZ",
+            "FECHA NACIMIENTO": "21/04/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.752.705",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "HENRY LÓPEZ - 1250135876",
+            "AL PIE DE LA FIRMA": "HENRY LÓPEZ - 1250135876"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6984893",
+            "CEDULA": "1250135876",
+            "NOMBRES": "HENRY LÓPEZ",
+            "CREDITO": "12.752.705",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "233.266",
+            "E.A": "18.94%",
+            "RECOMPRA O DESEMBOLSO": "1.956.072",
+            "FIRMA ELLECTRONICA": "HENRY LÓPEZ - 1250135876"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1250135876",
+            "NOMBRES": "HENRY LÓPEZ",
+            "FIRMA ELLECTRONICA": "HENRY LÓPEZ - 1250135876"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1250135876",
+            "NOMBRES": "HENRY LÓPEZ",
+            "FIRMA ELLECTRONICA": "HENRY LÓPEZ - 1250135876",
+            "AL PIE DE LA FIRMA": "HENRY LÓPEZ - 1250135876"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HENRY LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1250135876",
+            "NOMBRES": "HENRY LÓPEZ",
+            "SALARIO": "1.868.294",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1250135876",
+            "NOMBRES": "HENRY LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.956.072"
+        }
+    }
+]

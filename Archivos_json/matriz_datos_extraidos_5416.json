@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "397901586676",
+            "SOLICITUD": "8754881",
+            "CEDULA": "1732443283",
+            "NOMBRES": "GREGORIO JOSÉ PEÑA",
+            "RECOMPRA O DESEMBOLSO": "4.206.234",
+            "FIRMA ELLECTRONICA": "GREGORIO JOSÉ PEÑA - 1732443283"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "397901586676",
+            "NOMBRES": "GREGORIO JOSÉ PEÑA",
+            "CREDITO": "15.141.158",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "218.055",
+            "FIRMA ELLECTRONICA": "GREGORIO JOSÉ PEÑA - 1732443283",
+            "AL PIE DE LA FIRMA": "GREGORIO JOSÉ PEÑA - 1732443283"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1732443283",
+            "NOMBRES": "GREGORIO JOSÉ PEÑA",
+            "FECHA NACIMIENTO": "30/12/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.141.158",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "GREGORIO JOSÉ PEÑA - 1732443283",
+            "AL PIE DE LA FIRMA": "GREGORIO JOSÉ PEÑA - 1732443283"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8754881",
+            "CEDULA": "1732443283",
+            "NOMBRES": "GREGORIO JOSÉ PEÑA",
+            "CREDITO": "15.141.158",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "218.055",
+            "E.A": "25.47%",
+            "RECOMPRA O DESEMBOLSO": "4.206.234",
+            "FIRMA ELLECTRONICA": "GREGORIO JOSÉ PEÑA - 1732443283"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1732443283",
+            "NOMBRES": "GREGORIO JOSÉ PEÑA",
+            "FIRMA ELLECTRONICA": "GREGORIO JOSÉ PEÑA - 1732443283"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1732443283",
+            "NOMBRES": "GREGORIO JOSÉ PEÑA",
+            "FIRMA ELLECTRONICA": "GREGORIO JOSÉ PEÑA - 1732443283",
+            "AL PIE DE LA FIRMA": "GREGORIO JOSÉ PEÑA - 1732443283"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GREGORIO JOSÉ PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1732443283",
+            "NOMBRES": "GREGORIO JOSÉ PEÑA",
+            "SALARIO": "3.299.907",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1732443283",
+            "NOMBRES": "GREGORIO JOSÉ PEÑA",
+            "RECOMPRA O DESEMBOLSO": "4.206.234"
+        }
+    }
+]

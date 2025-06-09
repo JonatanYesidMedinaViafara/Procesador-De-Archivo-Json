@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "735687796924",
+            "SOLICITUD": "9855279",
+            "CEDULA": "1849838120",
+            "NOMBRES": "ENRIQUE JOSÉ HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.499.798",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ HERNÁNDEZ - 1849838120"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "735687796924",
+            "NOMBRES": "ENRIQUE JOSÉ HERNÁNDEZ",
+            "CREDITO": "15.815.845",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "131.08",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ HERNÁNDEZ - 1849838120",
+            "AL PIE DE LA FIRMA": "ENRIQUE JOSÉ HERNÁNDEZ - 1849838120"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1849838120",
+            "NOMBRES": "ENRIQUE JOSÉ HERNÁNDEZ",
+            "FECHA NACIMIENTO": "12/02/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.815.845",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ HERNÁNDEZ - 1849838120",
+            "AL PIE DE LA FIRMA": "ENRIQUE JOSÉ HERNÁNDEZ - 1849838120"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9855279",
+            "CEDULA": "1849838120",
+            "NOMBRES": "ENRIQUE JOSÉ HERNÁNDEZ",
+            "CREDITO": "15.815.845",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "131.08",
+            "E.A": "24.1%",
+            "RECOMPRA O DESEMBOLSO": "2.499.798",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ HERNÁNDEZ - 1849838120"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1849838120",
+            "NOMBRES": "ENRIQUE JOSÉ HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ HERNÁNDEZ - 1849838120"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1849838120",
+            "NOMBRES": "ENRIQUE JOSÉ HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE JOSÉ HERNÁNDEZ - 1849838120",
+            "AL PIE DE LA FIRMA": "ENRIQUE JOSÉ HERNÁNDEZ - 1849838120"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE JOSÉ HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1849838120",
+            "NOMBRES": "ENRIQUE JOSÉ HERNÁNDEZ",
+            "SALARIO": "4.792.866",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1849838120",
+            "NOMBRES": "ENRIQUE JOSÉ HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.499.798"
+        }
+    }
+]

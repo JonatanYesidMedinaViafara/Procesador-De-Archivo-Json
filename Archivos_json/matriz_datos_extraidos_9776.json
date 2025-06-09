@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "522132885384",
+            "SOLICITUD": "9516635",
+            "CEDULA": "1093385709",
+            "NOMBRES": "JAVIER FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.552.003",
+            "FIRMA ELLECTRONICA": "JAVIER FLÓREZ - 1093385709"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "522132885384",
+            "NOMBRES": "JAVIER FLÓREZ",
+            "CREDITO": "10.807.998",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "275.069",
+            "FIRMA ELLECTRONICA": "JAVIER FLÓREZ - 1093385709",
+            "AL PIE DE LA FIRMA": "JAVIER FLÓREZ - 1093385709"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1093385709",
+            "NOMBRES": "JAVIER FLÓREZ",
+            "FECHA NACIMIENTO": "30/05/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.807.998",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JAVIER FLÓREZ - 1093385709",
+            "AL PIE DE LA FIRMA": "JAVIER FLÓREZ - 1093385709"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9516635",
+            "CEDULA": "1093385709",
+            "NOMBRES": "JAVIER FLÓREZ",
+            "CREDITO": "10.807.998",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "275.069",
+            "E.A": "20.75%",
+            "RECOMPRA O DESEMBOLSO": "4.552.003",
+            "FIRMA ELLECTRONICA": "JAVIER FLÓREZ - 1093385709"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1093385709",
+            "NOMBRES": "JAVIER FLÓREZ",
+            "FIRMA ELLECTRONICA": "JAVIER FLÓREZ - 1093385709"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1093385709",
+            "NOMBRES": "JAVIER FLÓREZ",
+            "FIRMA ELLECTRONICA": "JAVIER FLÓREZ - 1093385709",
+            "AL PIE DE LA FIRMA": "JAVIER FLÓREZ - 1093385709"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1093385709",
+            "NOMBRES": "JAVIER FLÓREZ",
+            "SALARIO": "4.158.417",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1093385709",
+            "NOMBRES": "JAVIER FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.552.003"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "946127380692",
+            "SOLICITUD": "2477738",
+            "CEDULA": "1755710205",
+            "NOMBRES": "GERARDO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.355.333",
+            "FIRMA ELLECTRONICA": "GERARDO MARTÍNEZ - 1755710205"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "946127380692",
+            "NOMBRES": "GERARDO MARTÍNEZ",
+            "CREDITO": "17.042.034",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "338.096",
+            "FIRMA ELLECTRONICA": "GERARDO MARTÍNEZ - 1755710205",
+            "AL PIE DE LA FIRMA": "GERARDO MARTÍNEZ - 1755710205"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1755710205",
+            "NOMBRES": "GERARDO MARTÍNEZ",
+            "FECHA NACIMIENTO": "08/12/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.042.034",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "GERARDO MARTÍNEZ - 1755710205",
+            "AL PIE DE LA FIRMA": "GERARDO MARTÍNEZ - 1755710205"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2477738",
+            "CEDULA": "1755710205",
+            "NOMBRES": "GERARDO MARTÍNEZ",
+            "CREDITO": "17.042.034",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "338.096",
+            "E.A": "24.12%",
+            "RECOMPRA O DESEMBOLSO": "3.355.333",
+            "FIRMA ELLECTRONICA": "GERARDO MARTÍNEZ - 1755710205"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1755710205",
+            "NOMBRES": "GERARDO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "GERARDO MARTÍNEZ - 1755710205"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1755710205",
+            "NOMBRES": "GERARDO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "GERARDO MARTÍNEZ - 1755710205",
+            "AL PIE DE LA FIRMA": "GERARDO MARTÍNEZ - 1755710205"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GERARDO MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1755710205",
+            "NOMBRES": "GERARDO MARTÍNEZ",
+            "SALARIO": "3.183.348",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1755710205",
+            "NOMBRES": "GERARDO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.355.333"
+        }
+    }
+]

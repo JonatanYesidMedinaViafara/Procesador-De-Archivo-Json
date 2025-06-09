@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "298121863778",
+            "SOLICITUD": "6816242",
+            "CEDULA": "1922443248",
+            "NOMBRES": "FERNANDO LONDOÑO",
+            "RECOMPRA O DESEMBOLSO": "2.075.745",
+            "FIRMA ELLECTRONICA": "FERNANDO LONDOÑO - 1922443248"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "298121863778",
+            "NOMBRES": "FERNANDO LONDOÑO",
+            "CREDITO": "10.355.738",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "178.597",
+            "FIRMA ELLECTRONICA": "FERNANDO LONDOÑO - 1922443248",
+            "AL PIE DE LA FIRMA": "FERNANDO LONDOÑO - 1922443248"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1922443248",
+            "NOMBRES": "FERNANDO LONDOÑO",
+            "FECHA NACIMIENTO": "12/12/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.355.738",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FERNANDO LONDOÑO - 1922443248",
+            "AL PIE DE LA FIRMA": "FERNANDO LONDOÑO - 1922443248"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6816242",
+            "CEDULA": "1922443248",
+            "NOMBRES": "FERNANDO LONDOÑO",
+            "CREDITO": "10.355.738",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "178.597",
+            "E.A": "20.58%",
+            "RECOMPRA O DESEMBOLSO": "2.075.745",
+            "FIRMA ELLECTRONICA": "FERNANDO LONDOÑO - 1922443248"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1922443248",
+            "NOMBRES": "FERNANDO LONDOÑO",
+            "FIRMA ELLECTRONICA": "FERNANDO LONDOÑO - 1922443248"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1922443248",
+            "NOMBRES": "FERNANDO LONDOÑO",
+            "FIRMA ELLECTRONICA": "FERNANDO LONDOÑO - 1922443248",
+            "AL PIE DE LA FIRMA": "FERNANDO LONDOÑO - 1922443248"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO LONDOÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1922443248",
+            "NOMBRES": "FERNANDO LONDOÑO",
+            "SALARIO": "2.191.685",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1922443248",
+            "NOMBRES": "FERNANDO LONDOÑO",
+            "RECOMPRA O DESEMBOLSO": "2.075.745"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "150493950183",
+            "SOLICITUD": "7344728",
+            "CEDULA": "1130539539",
+            "NOMBRES": "LUIS SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.577.489",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1130539539"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "150493950183",
+            "NOMBRES": "LUIS SUÁREZ",
+            "CREDITO": "13.111.526",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "275.527",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1130539539",
+            "AL PIE DE LA FIRMA": "LUIS SUÁREZ - 1130539539"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1130539539",
+            "NOMBRES": "LUIS SUÁREZ",
+            "FECHA NACIMIENTO": "28/04/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.111.526",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1130539539",
+            "AL PIE DE LA FIRMA": "LUIS SUÁREZ - 1130539539"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7344728",
+            "CEDULA": "1130539539",
+            "NOMBRES": "LUIS SUÁREZ",
+            "CREDITO": "13.111.526",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "275.527",
+            "E.A": "26.81%",
+            "RECOMPRA O DESEMBOLSO": "3.577.489",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1130539539"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1130539539",
+            "NOMBRES": "LUIS SUÁREZ",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1130539539"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1130539539",
+            "NOMBRES": "LUIS SUÁREZ",
+            "FIRMA ELLECTRONICA": "LUIS SUÁREZ - 1130539539",
+            "AL PIE DE LA FIRMA": "LUIS SUÁREZ - 1130539539"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1130539539",
+            "NOMBRES": "LUIS SUÁREZ",
+            "SALARIO": "2.066.691",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1130539539",
+            "NOMBRES": "LUIS SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.577.489"
+        }
+    }
+]

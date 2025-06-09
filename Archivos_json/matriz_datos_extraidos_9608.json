@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "566025172719",
+            "SOLICITUD": "4367267",
+            "CEDULA": "1231307798",
+            "NOMBRES": "JOSÉ PINZÓN",
+            "RECOMPRA O DESEMBOLSO": "3.817.651",
+            "FIRMA ELLECTRONICA": "JOSÉ PINZÓN - 1231307798"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "566025172719",
+            "NOMBRES": "JOSÉ PINZÓN",
+            "CREDITO": "15.673.877",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "399.626",
+            "FIRMA ELLECTRONICA": "JOSÉ PINZÓN - 1231307798",
+            "AL PIE DE LA FIRMA": "JOSÉ PINZÓN - 1231307798"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1231307798",
+            "NOMBRES": "JOSÉ PINZÓN",
+            "FECHA NACIMIENTO": "10/07/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.673.877",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ PINZÓN - 1231307798",
+            "AL PIE DE LA FIRMA": "JOSÉ PINZÓN - 1231307798"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4367267",
+            "CEDULA": "1231307798",
+            "NOMBRES": "JOSÉ PINZÓN",
+            "CREDITO": "15.673.877",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "399.626",
+            "E.A": "20.57%",
+            "RECOMPRA O DESEMBOLSO": "3.817.651",
+            "FIRMA ELLECTRONICA": "JOSÉ PINZÓN - 1231307798"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1231307798",
+            "NOMBRES": "JOSÉ PINZÓN",
+            "FIRMA ELLECTRONICA": "JOSÉ PINZÓN - 1231307798"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1231307798",
+            "NOMBRES": "JOSÉ PINZÓN",
+            "FIRMA ELLECTRONICA": "JOSÉ PINZÓN - 1231307798",
+            "AL PIE DE LA FIRMA": "JOSÉ PINZÓN - 1231307798"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ PINZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1231307798",
+            "NOMBRES": "JOSÉ PINZÓN",
+            "SALARIO": "2.623.289",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "14/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1231307798",
+            "NOMBRES": "JOSÉ PINZÓN",
+            "RECOMPRA O DESEMBOLSO": "3.817.651"
+        }
+    }
+]

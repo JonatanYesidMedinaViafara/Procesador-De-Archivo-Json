@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "545424709256",
+            "SOLICITUD": "3294979",
+            "CEDULA": "1657819267",
+            "NOMBRES": "WALTER MONTES MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.953.878",
+            "FIRMA ELLECTRONICA": "WALTER MONTES MEDINA - 1657819267"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "545424709256",
+            "NOMBRES": "WALTER MONTES MEDINA",
+            "CREDITO": "9.121.635",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "139.944",
+            "FIRMA ELLECTRONICA": "WALTER MONTES MEDINA - 1657819267",
+            "AL PIE DE LA FIRMA": "WALTER MONTES MEDINA - 1657819267"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1657819267",
+            "NOMBRES": "WALTER MONTES MEDINA",
+            "FECHA NACIMIENTO": "28/03/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.121.635",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "WALTER MONTES MEDINA - 1657819267",
+            "AL PIE DE LA FIRMA": "WALTER MONTES MEDINA - 1657819267"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3294979",
+            "CEDULA": "1657819267",
+            "NOMBRES": "WALTER MONTES MEDINA",
+            "CREDITO": "9.121.635",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "139.944",
+            "E.A": "25.08%",
+            "RECOMPRA O DESEMBOLSO": "3.953.878",
+            "FIRMA ELLECTRONICA": "WALTER MONTES MEDINA - 1657819267"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1657819267",
+            "NOMBRES": "WALTER MONTES MEDINA",
+            "FIRMA ELLECTRONICA": "WALTER MONTES MEDINA - 1657819267"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1657819267",
+            "NOMBRES": "WALTER MONTES MEDINA",
+            "FIRMA ELLECTRONICA": "WALTER MONTES MEDINA - 1657819267",
+            "AL PIE DE LA FIRMA": "WALTER MONTES MEDINA - 1657819267"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WALTER MONTES MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1657819267",
+            "NOMBRES": "WALTER MONTES MEDINA",
+            "SALARIO": "2.709.670",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1657819267",
+            "NOMBRES": "WALTER MONTES MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.953.878"
+        }
+    }
+]

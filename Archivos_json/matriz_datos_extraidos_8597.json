@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "217336017429",
+            "SOLICITUD": "9493063",
+            "CEDULA": "1312174586",
+            "NOMBRES": "CARLOS CARLOS CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "4.817.289",
+            "FIRMA ELLECTRONICA": "CARLOS CARLOS CASTELLANOS - 1312174586"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "217336017429",
+            "NOMBRES": "CARLOS CARLOS CASTELLANOS",
+            "CREDITO": "15.984.464",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "397.813",
+            "FIRMA ELLECTRONICA": "CARLOS CARLOS CASTELLANOS - 1312174586",
+            "AL PIE DE LA FIRMA": "CARLOS CARLOS CASTELLANOS - 1312174586"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1312174586",
+            "NOMBRES": "CARLOS CARLOS CASTELLANOS",
+            "FECHA NACIMIENTO": "17/09/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.984.464",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARLOS CARLOS CASTELLANOS - 1312174586",
+            "AL PIE DE LA FIRMA": "CARLOS CARLOS CASTELLANOS - 1312174586"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9493063",
+            "CEDULA": "1312174586",
+            "NOMBRES": "CARLOS CARLOS CASTELLANOS",
+            "CREDITO": "15.984.464",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "397.813",
+            "E.A": "26.2%",
+            "RECOMPRA O DESEMBOLSO": "4.817.289",
+            "FIRMA ELLECTRONICA": "CARLOS CARLOS CASTELLANOS - 1312174586"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1312174586",
+            "NOMBRES": "CARLOS CARLOS CASTELLANOS",
+            "FIRMA ELLECTRONICA": "CARLOS CARLOS CASTELLANOS - 1312174586"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1312174586",
+            "NOMBRES": "CARLOS CARLOS CASTELLANOS",
+            "FIRMA ELLECTRONICA": "CARLOS CARLOS CASTELLANOS - 1312174586",
+            "AL PIE DE LA FIRMA": "CARLOS CARLOS CASTELLANOS - 1312174586"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS CARLOS CASTELLANOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1312174586",
+            "NOMBRES": "CARLOS CARLOS CASTELLANOS",
+            "SALARIO": "2.217.675",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1312174586",
+            "NOMBRES": "CARLOS CARLOS CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "4.817.289"
+        }
+    }
+]

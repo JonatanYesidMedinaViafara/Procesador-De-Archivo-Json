@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "575549852744",
+            "SOLICITUD": "9218052",
+            "CEDULA": "1779204641",
+            "NOMBRES": "SEBASTIÁN ROJAS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.369.850",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ROJAS GARCÍA - 1779204641"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "575549852744",
+            "NOMBRES": "SEBASTIÁN ROJAS GARCÍA",
+            "CREDITO": "12.295.164",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "321.801",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ROJAS GARCÍA - 1779204641",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN ROJAS GARCÍA - 1779204641"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1779204641",
+            "NOMBRES": "SEBASTIÁN ROJAS GARCÍA",
+            "FECHA NACIMIENTO": "17/04/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.295.164",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ROJAS GARCÍA - 1779204641",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN ROJAS GARCÍA - 1779204641"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9218052",
+            "CEDULA": "1779204641",
+            "NOMBRES": "SEBASTIÁN ROJAS GARCÍA",
+            "CREDITO": "12.295.164",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "321.801",
+            "E.A": "20.48%",
+            "RECOMPRA O DESEMBOLSO": "1.369.850",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ROJAS GARCÍA - 1779204641"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1779204641",
+            "NOMBRES": "SEBASTIÁN ROJAS GARCÍA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ROJAS GARCÍA - 1779204641"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1779204641",
+            "NOMBRES": "SEBASTIÁN ROJAS GARCÍA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ROJAS GARCÍA - 1779204641",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN ROJAS GARCÍA - 1779204641"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEBASTIÁN ROJAS GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1779204641",
+            "NOMBRES": "SEBASTIÁN ROJAS GARCÍA",
+            "SALARIO": "3.001.274",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1779204641",
+            "NOMBRES": "SEBASTIÁN ROJAS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.369.850"
+        }
+    }
+]

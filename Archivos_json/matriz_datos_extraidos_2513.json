@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "643635527862",
+            "SOLICITUD": "7353648",
+            "CEDULA": "1584155877",
+            "NOMBRES": "CARMEN ISABEL CANO",
+            "RECOMPRA O DESEMBOLSO": "3.828.214",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CANO - 1584155877"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "643635527862",
+            "NOMBRES": "CARMEN ISABEL CANO",
+            "CREDITO": "12.223.519",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "224.332",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CANO - 1584155877",
+            "AL PIE DE LA FIRMA": "CARMEN ISABEL CANO - 1584155877"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1584155877",
+            "NOMBRES": "CARMEN ISABEL CANO",
+            "FECHA NACIMIENTO": "20/01/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.223.519",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CANO - 1584155877",
+            "AL PIE DE LA FIRMA": "CARMEN ISABEL CANO - 1584155877"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7353648",
+            "CEDULA": "1584155877",
+            "NOMBRES": "CARMEN ISABEL CANO",
+            "CREDITO": "12.223.519",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "224.332",
+            "E.A": "25.93%",
+            "RECOMPRA O DESEMBOLSO": "3.828.214",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CANO - 1584155877"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1584155877",
+            "NOMBRES": "CARMEN ISABEL CANO",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CANO - 1584155877"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1584155877",
+            "NOMBRES": "CARMEN ISABEL CANO",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CANO - 1584155877",
+            "AL PIE DE LA FIRMA": "CARMEN ISABEL CANO - 1584155877"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN ISABEL CANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1584155877",
+            "NOMBRES": "CARMEN ISABEL CANO",
+            "SALARIO": "4.066.972",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1584155877",
+            "NOMBRES": "CARMEN ISABEL CANO",
+            "RECOMPRA O DESEMBOLSO": "3.828.214"
+        }
+    }
+]

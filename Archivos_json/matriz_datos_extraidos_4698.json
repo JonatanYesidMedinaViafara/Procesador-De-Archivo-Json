@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "281788700283",
+            "SOLICITUD": "1740354",
+            "CEDULA": "1572319020",
+            "NOMBRES": "JAVIER MURILLO",
+            "RECOMPRA O DESEMBOLSO": "1.783.495",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO - 1572319020"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "281788700283",
+            "NOMBRES": "JAVIER MURILLO",
+            "CREDITO": "11.504.333",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "264.902",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO - 1572319020",
+            "AL PIE DE LA FIRMA": "JAVIER MURILLO - 1572319020"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1572319020",
+            "NOMBRES": "JAVIER MURILLO",
+            "FECHA NACIMIENTO": "17/08/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.504.333",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO - 1572319020",
+            "AL PIE DE LA FIRMA": "JAVIER MURILLO - 1572319020"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1740354",
+            "CEDULA": "1572319020",
+            "NOMBRES": "JAVIER MURILLO",
+            "CREDITO": "11.504.333",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "264.902",
+            "E.A": "25.68%",
+            "RECOMPRA O DESEMBOLSO": "1.783.495",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO - 1572319020"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1572319020",
+            "NOMBRES": "JAVIER MURILLO",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO - 1572319020"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1572319020",
+            "NOMBRES": "JAVIER MURILLO",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO - 1572319020",
+            "AL PIE DE LA FIRMA": "JAVIER MURILLO - 1572319020"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER MURILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1572319020",
+            "NOMBRES": "JAVIER MURILLO",
+            "SALARIO": "2.637.918",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1572319020",
+            "NOMBRES": "JAVIER MURILLO",
+            "RECOMPRA O DESEMBOLSO": "1.783.495"
+        }
+    }
+]

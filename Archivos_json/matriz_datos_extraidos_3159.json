@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "731072602980",
+            "SOLICITUD": "7995636",
+            "CEDULA": "1028187570",
+            "NOMBRES": "JORGE JAIMES",
+            "RECOMPRA O DESEMBOLSO": "4.035.385",
+            "FIRMA ELLECTRONICA": "JORGE JAIMES - 1028187570"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "731072602980",
+            "NOMBRES": "JORGE JAIMES",
+            "CREDITO": "15.817.207",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "138.676",
+            "FIRMA ELLECTRONICA": "JORGE JAIMES - 1028187570",
+            "AL PIE DE LA FIRMA": "JORGE JAIMES - 1028187570"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1028187570",
+            "NOMBRES": "JORGE JAIMES",
+            "FECHA NACIMIENTO": "15/09/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.817.207",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JORGE JAIMES - 1028187570",
+            "AL PIE DE LA FIRMA": "JORGE JAIMES - 1028187570"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7995636",
+            "CEDULA": "1028187570",
+            "NOMBRES": "JORGE JAIMES",
+            "CREDITO": "15.817.207",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "138.676",
+            "E.A": "18.87%",
+            "RECOMPRA O DESEMBOLSO": "4.035.385",
+            "FIRMA ELLECTRONICA": "JORGE JAIMES - 1028187570"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1028187570",
+            "NOMBRES": "JORGE JAIMES",
+            "FIRMA ELLECTRONICA": "JORGE JAIMES - 1028187570"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1028187570",
+            "NOMBRES": "JORGE JAIMES",
+            "FIRMA ELLECTRONICA": "JORGE JAIMES - 1028187570",
+            "AL PIE DE LA FIRMA": "JORGE JAIMES - 1028187570"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE JAIMES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1028187570",
+            "NOMBRES": "JORGE JAIMES",
+            "SALARIO": "3.863.798",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1028187570",
+            "NOMBRES": "JORGE JAIMES",
+            "RECOMPRA O DESEMBOLSO": "4.035.385"
+        }
+    }
+]

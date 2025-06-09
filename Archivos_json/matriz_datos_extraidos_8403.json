@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "135522293657",
+            "SOLICITUD": "8919384",
+            "CEDULA": "1830763750",
+            "NOMBRES": "FERNANDO ANTONIO ARIAS MORENO",
+            "RECOMPRA O DESEMBOLSO": "2.117.200",
+            "FIRMA ELLECTRONICA": "FERNANDO ANTONIO ARIAS MORENO - 1830763750"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "135522293657",
+            "NOMBRES": "FERNANDO ANTONIO ARIAS MORENO",
+            "CREDITO": "8.318.940",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "243.798",
+            "FIRMA ELLECTRONICA": "FERNANDO ANTONIO ARIAS MORENO - 1830763750",
+            "AL PIE DE LA FIRMA": "FERNANDO ANTONIO ARIAS MORENO - 1830763750"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1830763750",
+            "NOMBRES": "FERNANDO ANTONIO ARIAS MORENO",
+            "FECHA NACIMIENTO": "12/05/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.318.940",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO ANTONIO ARIAS MORENO - 1830763750",
+            "AL PIE DE LA FIRMA": "FERNANDO ANTONIO ARIAS MORENO - 1830763750"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8919384",
+            "CEDULA": "1830763750",
+            "NOMBRES": "FERNANDO ANTONIO ARIAS MORENO",
+            "CREDITO": "8.318.940",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "243.798",
+            "E.A": "19.63%",
+            "RECOMPRA O DESEMBOLSO": "2.117.200",
+            "FIRMA ELLECTRONICA": "FERNANDO ANTONIO ARIAS MORENO - 1830763750"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1830763750",
+            "NOMBRES": "FERNANDO ANTONIO ARIAS MORENO",
+            "FIRMA ELLECTRONICA": "FERNANDO ANTONIO ARIAS MORENO - 1830763750"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1830763750",
+            "NOMBRES": "FERNANDO ANTONIO ARIAS MORENO",
+            "FIRMA ELLECTRONICA": "FERNANDO ANTONIO ARIAS MORENO - 1830763750",
+            "AL PIE DE LA FIRMA": "FERNANDO ANTONIO ARIAS MORENO - 1830763750"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO ANTONIO ARIAS MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1830763750",
+            "NOMBRES": "FERNANDO ANTONIO ARIAS MORENO",
+            "SALARIO": "2.858.409",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1830763750",
+            "NOMBRES": "FERNANDO ANTONIO ARIAS MORENO",
+            "RECOMPRA O DESEMBOLSO": "2.117.200"
+        }
+    }
+]

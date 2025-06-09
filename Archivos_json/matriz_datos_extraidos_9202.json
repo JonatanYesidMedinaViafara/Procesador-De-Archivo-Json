@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "111384107066",
+            "SOLICITUD": "3777065",
+            "CEDULA": "1583991929",
+            "NOMBRES": "YINETH SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.765.050",
+            "FIRMA ELLECTRONICA": "YINETH SUÁREZ - 1583991929"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "111384107066",
+            "NOMBRES": "YINETH SUÁREZ",
+            "CREDITO": "12.103.453",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "135.011",
+            "FIRMA ELLECTRONICA": "YINETH SUÁREZ - 1583991929",
+            "AL PIE DE LA FIRMA": "YINETH SUÁREZ - 1583991929"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1583991929",
+            "NOMBRES": "YINETH SUÁREZ",
+            "FECHA NACIMIENTO": "06/06/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.103.453",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "YINETH SUÁREZ - 1583991929",
+            "AL PIE DE LA FIRMA": "YINETH SUÁREZ - 1583991929"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3777065",
+            "CEDULA": "1583991929",
+            "NOMBRES": "YINETH SUÁREZ",
+            "CREDITO": "12.103.453",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "135.011",
+            "E.A": "18.39%",
+            "RECOMPRA O DESEMBOLSO": "3.765.050",
+            "FIRMA ELLECTRONICA": "YINETH SUÁREZ - 1583991929"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1583991929",
+            "NOMBRES": "YINETH SUÁREZ",
+            "FIRMA ELLECTRONICA": "YINETH SUÁREZ - 1583991929"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1583991929",
+            "NOMBRES": "YINETH SUÁREZ",
+            "FIRMA ELLECTRONICA": "YINETH SUÁREZ - 1583991929",
+            "AL PIE DE LA FIRMA": "YINETH SUÁREZ - 1583991929"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YINETH SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1583991929",
+            "NOMBRES": "YINETH SUÁREZ",
+            "SALARIO": "3.021.229",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1583991929",
+            "NOMBRES": "YINETH SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.765.050"
+        }
+    }
+]

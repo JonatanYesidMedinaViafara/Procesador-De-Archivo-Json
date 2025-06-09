@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "431441863463",
+            "SOLICITUD": "4133208",
+            "CEDULA": "1373441399",
+            "NOMBRES": "DANIEL NAVARRO ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "1.701.240",
+            "FIRMA ELLECTRONICA": "DANIEL NAVARRO ÁLVAREZ - 1373441399"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "431441863463",
+            "NOMBRES": "DANIEL NAVARRO ÁLVAREZ",
+            "CREDITO": "19.779.857",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "386.244",
+            "FIRMA ELLECTRONICA": "DANIEL NAVARRO ÁLVAREZ - 1373441399",
+            "AL PIE DE LA FIRMA": "DANIEL NAVARRO ÁLVAREZ - 1373441399"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1373441399",
+            "NOMBRES": "DANIEL NAVARRO ÁLVAREZ",
+            "FECHA NACIMIENTO": "05/08/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.779.857",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DANIEL NAVARRO ÁLVAREZ - 1373441399",
+            "AL PIE DE LA FIRMA": "DANIEL NAVARRO ÁLVAREZ - 1373441399"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4133208",
+            "CEDULA": "1373441399",
+            "NOMBRES": "DANIEL NAVARRO ÁLVAREZ",
+            "CREDITO": "19.779.857",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "386.244",
+            "E.A": "18.03%",
+            "RECOMPRA O DESEMBOLSO": "1.701.240",
+            "FIRMA ELLECTRONICA": "DANIEL NAVARRO ÁLVAREZ - 1373441399"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1373441399",
+            "NOMBRES": "DANIEL NAVARRO ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "DANIEL NAVARRO ÁLVAREZ - 1373441399"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1373441399",
+            "NOMBRES": "DANIEL NAVARRO ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "DANIEL NAVARRO ÁLVAREZ - 1373441399",
+            "AL PIE DE LA FIRMA": "DANIEL NAVARRO ÁLVAREZ - 1373441399"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL NAVARRO ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1373441399",
+            "NOMBRES": "DANIEL NAVARRO ÁLVAREZ",
+            "SALARIO": "3.511.149",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1373441399",
+            "NOMBRES": "DANIEL NAVARRO ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "1.701.240"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "879464331786",
+            "SOLICITUD": "2338582",
+            "CEDULA": "1582315033",
+            "NOMBRES": "BLANCA RUIZ PARRA",
+            "RECOMPRA O DESEMBOLSO": "3.141.194",
+            "FIRMA ELLECTRONICA": "BLANCA RUIZ PARRA - 1582315033"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "879464331786",
+            "NOMBRES": "BLANCA RUIZ PARRA",
+            "CREDITO": "19.599.370",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "350.549",
+            "FIRMA ELLECTRONICA": "BLANCA RUIZ PARRA - 1582315033",
+            "AL PIE DE LA FIRMA": "BLANCA RUIZ PARRA - 1582315033"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1582315033",
+            "NOMBRES": "BLANCA RUIZ PARRA",
+            "FECHA NACIMIENTO": "10/08/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.599.370",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "BLANCA RUIZ PARRA - 1582315033",
+            "AL PIE DE LA FIRMA": "BLANCA RUIZ PARRA - 1582315033"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2338582",
+            "CEDULA": "1582315033",
+            "NOMBRES": "BLANCA RUIZ PARRA",
+            "CREDITO": "19.599.370",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "350.549",
+            "E.A": "25.64%",
+            "RECOMPRA O DESEMBOLSO": "3.141.194",
+            "FIRMA ELLECTRONICA": "BLANCA RUIZ PARRA - 1582315033"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1582315033",
+            "NOMBRES": "BLANCA RUIZ PARRA",
+            "FIRMA ELLECTRONICA": "BLANCA RUIZ PARRA - 1582315033"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1582315033",
+            "NOMBRES": "BLANCA RUIZ PARRA",
+            "FIRMA ELLECTRONICA": "BLANCA RUIZ PARRA - 1582315033",
+            "AL PIE DE LA FIRMA": "BLANCA RUIZ PARRA - 1582315033"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BLANCA RUIZ PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1582315033",
+            "NOMBRES": "BLANCA RUIZ PARRA",
+            "SALARIO": "1.019.675",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1582315033",
+            "NOMBRES": "BLANCA RUIZ PARRA",
+            "RECOMPRA O DESEMBOLSO": "3.141.194"
+        }
+    }
+]

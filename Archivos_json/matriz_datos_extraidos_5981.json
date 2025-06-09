@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "535447579928",
+            "SOLICITUD": "4855776",
+            "CEDULA": "1148784950",
+            "NOMBRES": "LEONARDO ESPINOSA",
+            "RECOMPRA O DESEMBOLSO": "2.962.666",
+            "FIRMA ELLECTRONICA": "LEONARDO ESPINOSA - 1148784950"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "535447579928",
+            "NOMBRES": "LEONARDO ESPINOSA",
+            "CREDITO": "16.702.338",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "169.552",
+            "FIRMA ELLECTRONICA": "LEONARDO ESPINOSA - 1148784950",
+            "AL PIE DE LA FIRMA": "LEONARDO ESPINOSA - 1148784950"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1148784950",
+            "NOMBRES": "LEONARDO ESPINOSA",
+            "FECHA NACIMIENTO": "12/07/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.702.338",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LEONARDO ESPINOSA - 1148784950",
+            "AL PIE DE LA FIRMA": "LEONARDO ESPINOSA - 1148784950"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4855776",
+            "CEDULA": "1148784950",
+            "NOMBRES": "LEONARDO ESPINOSA",
+            "CREDITO": "16.702.338",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "169.552",
+            "E.A": "25.77%",
+            "RECOMPRA O DESEMBOLSO": "2.962.666",
+            "FIRMA ELLECTRONICA": "LEONARDO ESPINOSA - 1148784950"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1148784950",
+            "NOMBRES": "LEONARDO ESPINOSA",
+            "FIRMA ELLECTRONICA": "LEONARDO ESPINOSA - 1148784950"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1148784950",
+            "NOMBRES": "LEONARDO ESPINOSA",
+            "FIRMA ELLECTRONICA": "LEONARDO ESPINOSA - 1148784950",
+            "AL PIE DE LA FIRMA": "LEONARDO ESPINOSA - 1148784950"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEONARDO ESPINOSA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1148784950",
+            "NOMBRES": "LEONARDO ESPINOSA",
+            "SALARIO": "2.165.300",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1148784950",
+            "NOMBRES": "LEONARDO ESPINOSA",
+            "RECOMPRA O DESEMBOLSO": "2.962.666"
+        }
+    }
+]

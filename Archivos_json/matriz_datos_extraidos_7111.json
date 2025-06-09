@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "479292368880",
+            "SOLICITUD": "4022882",
+            "CEDULA": "1109847803",
+            "NOMBRES": "ALEJANDRA JENNY VEGA",
+            "RECOMPRA O DESEMBOLSO": "2.001.893",
+            "FIRMA ELLECTRONICA": "ALEJANDRA JENNY VEGA - 1109847803"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "479292368880",
+            "NOMBRES": "ALEJANDRA JENNY VEGA",
+            "CREDITO": "5.992.669",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "219.119",
+            "FIRMA ELLECTRONICA": "ALEJANDRA JENNY VEGA - 1109847803",
+            "AL PIE DE LA FIRMA": "ALEJANDRA JENNY VEGA - 1109847803"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1109847803",
+            "NOMBRES": "ALEJANDRA JENNY VEGA",
+            "FECHA NACIMIENTO": "19/02/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.992.669",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALEJANDRA JENNY VEGA - 1109847803",
+            "AL PIE DE LA FIRMA": "ALEJANDRA JENNY VEGA - 1109847803"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4022882",
+            "CEDULA": "1109847803",
+            "NOMBRES": "ALEJANDRA JENNY VEGA",
+            "CREDITO": "5.992.669",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "219.119",
+            "E.A": "20.23%",
+            "RECOMPRA O DESEMBOLSO": "2.001.893",
+            "FIRMA ELLECTRONICA": "ALEJANDRA JENNY VEGA - 1109847803"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1109847803",
+            "NOMBRES": "ALEJANDRA JENNY VEGA",
+            "FIRMA ELLECTRONICA": "ALEJANDRA JENNY VEGA - 1109847803"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1109847803",
+            "NOMBRES": "ALEJANDRA JENNY VEGA",
+            "FIRMA ELLECTRONICA": "ALEJANDRA JENNY VEGA - 1109847803",
+            "AL PIE DE LA FIRMA": "ALEJANDRA JENNY VEGA - 1109847803"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRA JENNY VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1109847803",
+            "NOMBRES": "ALEJANDRA JENNY VEGA",
+            "SALARIO": "3.772.083",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1109847803",
+            "NOMBRES": "ALEJANDRA JENNY VEGA",
+            "RECOMPRA O DESEMBOLSO": "2.001.893"
+        }
+    }
+]

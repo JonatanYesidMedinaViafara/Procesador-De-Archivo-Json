@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "543035386039",
+            "SOLICITUD": "5305078",
+            "CEDULA": "1414008569",
+            "NOMBRES": "MARÍA URIBE",
+            "RECOMPRA O DESEMBOLSO": "1.185.196",
+            "FIRMA ELLECTRONICA": "MARÍA URIBE - 1414008569"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "543035386039",
+            "NOMBRES": "MARÍA URIBE",
+            "CREDITO": "13.977.734",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "176.334",
+            "FIRMA ELLECTRONICA": "MARÍA URIBE - 1414008569",
+            "AL PIE DE LA FIRMA": "MARÍA URIBE - 1414008569"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1414008569",
+            "NOMBRES": "MARÍA URIBE",
+            "FECHA NACIMIENTO": "20/09/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.977.734",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA URIBE - 1414008569",
+            "AL PIE DE LA FIRMA": "MARÍA URIBE - 1414008569"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5305078",
+            "CEDULA": "1414008569",
+            "NOMBRES": "MARÍA URIBE",
+            "CREDITO": "13.977.734",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "176.334",
+            "E.A": "19.77%",
+            "RECOMPRA O DESEMBOLSO": "1.185.196",
+            "FIRMA ELLECTRONICA": "MARÍA URIBE - 1414008569"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1414008569",
+            "NOMBRES": "MARÍA URIBE",
+            "FIRMA ELLECTRONICA": "MARÍA URIBE - 1414008569"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1414008569",
+            "NOMBRES": "MARÍA URIBE",
+            "FIRMA ELLECTRONICA": "MARÍA URIBE - 1414008569",
+            "AL PIE DE LA FIRMA": "MARÍA URIBE - 1414008569"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA URIBE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1414008569",
+            "NOMBRES": "MARÍA URIBE",
+            "SALARIO": "3.636.861",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1414008569",
+            "NOMBRES": "MARÍA URIBE",
+            "RECOMPRA O DESEMBOLSO": "1.185.196"
+        }
+    }
+]

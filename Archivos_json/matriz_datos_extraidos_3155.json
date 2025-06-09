@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "426797068056",
+            "SOLICITUD": "4601249",
+            "CEDULA": "1540663143",
+            "NOMBRES": "MARY RESTREPO",
+            "RECOMPRA O DESEMBOLSO": "4.239.502",
+            "FIRMA ELLECTRONICA": "MARY RESTREPO - 1540663143"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "426797068056",
+            "NOMBRES": "MARY RESTREPO",
+            "CREDITO": "11.498.081",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "202.566",
+            "FIRMA ELLECTRONICA": "MARY RESTREPO - 1540663143",
+            "AL PIE DE LA FIRMA": "MARY RESTREPO - 1540663143"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1540663143",
+            "NOMBRES": "MARY RESTREPO",
+            "FECHA NACIMIENTO": "16/11/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.498.081",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARY RESTREPO - 1540663143",
+            "AL PIE DE LA FIRMA": "MARY RESTREPO - 1540663143"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4601249",
+            "CEDULA": "1540663143",
+            "NOMBRES": "MARY RESTREPO",
+            "CREDITO": "11.498.081",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "202.566",
+            "E.A": "26.07%",
+            "RECOMPRA O DESEMBOLSO": "4.239.502",
+            "FIRMA ELLECTRONICA": "MARY RESTREPO - 1540663143"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1540663143",
+            "NOMBRES": "MARY RESTREPO",
+            "FIRMA ELLECTRONICA": "MARY RESTREPO - 1540663143"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1540663143",
+            "NOMBRES": "MARY RESTREPO",
+            "FIRMA ELLECTRONICA": "MARY RESTREPO - 1540663143",
+            "AL PIE DE LA FIRMA": "MARY RESTREPO - 1540663143"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARY RESTREPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1540663143",
+            "NOMBRES": "MARY RESTREPO",
+            "SALARIO": "1.423.195",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1540663143",
+            "NOMBRES": "MARY RESTREPO",
+            "RECOMPRA O DESEMBOLSO": "4.239.502"
+        }
+    }
+]

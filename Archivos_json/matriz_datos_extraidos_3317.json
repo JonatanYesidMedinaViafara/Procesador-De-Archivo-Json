@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "858784020315",
+            "SOLICITUD": "2282285",
+            "CEDULA": "1681471324",
+            "NOMBRES": "FERNANDO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.495.954",
+            "FIRMA ELLECTRONICA": "FERNANDO LÓPEZ - 1681471324"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "858784020315",
+            "NOMBRES": "FERNANDO LÓPEZ",
+            "CREDITO": "7.819.812",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "129.137",
+            "FIRMA ELLECTRONICA": "FERNANDO LÓPEZ - 1681471324",
+            "AL PIE DE LA FIRMA": "FERNANDO LÓPEZ - 1681471324"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1681471324",
+            "NOMBRES": "FERNANDO LÓPEZ",
+            "FECHA NACIMIENTO": "23/08/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.819.812",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO LÓPEZ - 1681471324",
+            "AL PIE DE LA FIRMA": "FERNANDO LÓPEZ - 1681471324"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2282285",
+            "CEDULA": "1681471324",
+            "NOMBRES": "FERNANDO LÓPEZ",
+            "CREDITO": "7.819.812",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "129.137",
+            "E.A": "21.4%",
+            "RECOMPRA O DESEMBOLSO": "1.495.954",
+            "FIRMA ELLECTRONICA": "FERNANDO LÓPEZ - 1681471324"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1681471324",
+            "NOMBRES": "FERNANDO LÓPEZ",
+            "FIRMA ELLECTRONICA": "FERNANDO LÓPEZ - 1681471324"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1681471324",
+            "NOMBRES": "FERNANDO LÓPEZ",
+            "FIRMA ELLECTRONICA": "FERNANDO LÓPEZ - 1681471324",
+            "AL PIE DE LA FIRMA": "FERNANDO LÓPEZ - 1681471324"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1681471324",
+            "NOMBRES": "FERNANDO LÓPEZ",
+            "SALARIO": "2.700.038",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1681471324",
+            "NOMBRES": "FERNANDO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.495.954"
+        }
+    }
+]

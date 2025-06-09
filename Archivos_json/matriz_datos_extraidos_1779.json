@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "528731824995",
+            "SOLICITUD": "3614595",
+            "CEDULA": "1605307215",
+            "NOMBRES": "ÁNGEL MUÑOZ PACHECO",
+            "RECOMPRA O DESEMBOLSO": "1.692.857",
+            "FIRMA ELLECTRONICA": "ÁNGEL MUÑOZ PACHECO - 1605307215"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "528731824995",
+            "NOMBRES": "ÁNGEL MUÑOZ PACHECO",
+            "CREDITO": "19.462.360",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "199.336",
+            "FIRMA ELLECTRONICA": "ÁNGEL MUÑOZ PACHECO - 1605307215",
+            "AL PIE DE LA FIRMA": "ÁNGEL MUÑOZ PACHECO - 1605307215"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1605307215",
+            "NOMBRES": "ÁNGEL MUÑOZ PACHECO",
+            "FECHA NACIMIENTO": "09/04/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.462.360",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ÁNGEL MUÑOZ PACHECO - 1605307215",
+            "AL PIE DE LA FIRMA": "ÁNGEL MUÑOZ PACHECO - 1605307215"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3614595",
+            "CEDULA": "1605307215",
+            "NOMBRES": "ÁNGEL MUÑOZ PACHECO",
+            "CREDITO": "19.462.360",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "199.336",
+            "E.A": "23.84%",
+            "RECOMPRA O DESEMBOLSO": "1.692.857",
+            "FIRMA ELLECTRONICA": "ÁNGEL MUÑOZ PACHECO - 1605307215"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1605307215",
+            "NOMBRES": "ÁNGEL MUÑOZ PACHECO",
+            "FIRMA ELLECTRONICA": "ÁNGEL MUÑOZ PACHECO - 1605307215"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1605307215",
+            "NOMBRES": "ÁNGEL MUÑOZ PACHECO",
+            "FIRMA ELLECTRONICA": "ÁNGEL MUÑOZ PACHECO - 1605307215",
+            "AL PIE DE LA FIRMA": "ÁNGEL MUÑOZ PACHECO - 1605307215"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL MUÑOZ PACHECO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1605307215",
+            "NOMBRES": "ÁNGEL MUÑOZ PACHECO",
+            "SALARIO": "3.496.247",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1605307215",
+            "NOMBRES": "ÁNGEL MUÑOZ PACHECO",
+            "RECOMPRA O DESEMBOLSO": "1.692.857"
+        }
+    }
+]

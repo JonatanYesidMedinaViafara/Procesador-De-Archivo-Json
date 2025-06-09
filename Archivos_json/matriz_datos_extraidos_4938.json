@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "593088545493",
+            "SOLICITUD": "7920825",
+            "CEDULA": "1737651830",
+            "NOMBRES": "JULIÁN ELIECER SARMIENTO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.142.636",
+            "FIRMA ELLECTRONICA": "JULIÁN ELIECER SARMIENTO PÉREZ - 1737651830"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "593088545493",
+            "NOMBRES": "JULIÁN ELIECER SARMIENTO PÉREZ",
+            "CREDITO": "14.591.223",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "208.416",
+            "FIRMA ELLECTRONICA": "JULIÁN ELIECER SARMIENTO PÉREZ - 1737651830",
+            "AL PIE DE LA FIRMA": "JULIÁN ELIECER SARMIENTO PÉREZ - 1737651830"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1737651830",
+            "NOMBRES": "JULIÁN ELIECER SARMIENTO PÉREZ",
+            "FECHA NACIMIENTO": "22/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.591.223",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JULIÁN ELIECER SARMIENTO PÉREZ - 1737651830",
+            "AL PIE DE LA FIRMA": "JULIÁN ELIECER SARMIENTO PÉREZ - 1737651830"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7920825",
+            "CEDULA": "1737651830",
+            "NOMBRES": "JULIÁN ELIECER SARMIENTO PÉREZ",
+            "CREDITO": "14.591.223",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "208.416",
+            "E.A": "18.12%",
+            "RECOMPRA O DESEMBOLSO": "4.142.636",
+            "FIRMA ELLECTRONICA": "JULIÁN ELIECER SARMIENTO PÉREZ - 1737651830"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1737651830",
+            "NOMBRES": "JULIÁN ELIECER SARMIENTO PÉREZ",
+            "FIRMA ELLECTRONICA": "JULIÁN ELIECER SARMIENTO PÉREZ - 1737651830"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1737651830",
+            "NOMBRES": "JULIÁN ELIECER SARMIENTO PÉREZ",
+            "FIRMA ELLECTRONICA": "JULIÁN ELIECER SARMIENTO PÉREZ - 1737651830",
+            "AL PIE DE LA FIRMA": "JULIÁN ELIECER SARMIENTO PÉREZ - 1737651830"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIÁN ELIECER SARMIENTO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1737651830",
+            "NOMBRES": "JULIÁN ELIECER SARMIENTO PÉREZ",
+            "SALARIO": "2.675.695",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1737651830",
+            "NOMBRES": "JULIÁN ELIECER SARMIENTO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.142.636"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "931263648095",
+            "SOLICITUD": "2100610",
+            "CEDULA": "1831938150",
+            "NOMBRES": "MARÍA GÓMEZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.027.904",
+            "FIRMA ELLECTRONICA": "MARÍA GÓMEZ DÍAZ - 1831938150"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "931263648095",
+            "NOMBRES": "MARÍA GÓMEZ DÍAZ",
+            "CREDITO": "6.121.640",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "246.39",
+            "FIRMA ELLECTRONICA": "MARÍA GÓMEZ DÍAZ - 1831938150",
+            "AL PIE DE LA FIRMA": "MARÍA GÓMEZ DÍAZ - 1831938150"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1831938150",
+            "NOMBRES": "MARÍA GÓMEZ DÍAZ",
+            "FECHA NACIMIENTO": "01/11/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.121.640",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA GÓMEZ DÍAZ - 1831938150",
+            "AL PIE DE LA FIRMA": "MARÍA GÓMEZ DÍAZ - 1831938150"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2100610",
+            "CEDULA": "1831938150",
+            "NOMBRES": "MARÍA GÓMEZ DÍAZ",
+            "CREDITO": "6.121.640",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "246.39",
+            "E.A": "22.66%",
+            "RECOMPRA O DESEMBOLSO": "3.027.904",
+            "FIRMA ELLECTRONICA": "MARÍA GÓMEZ DÍAZ - 1831938150"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1831938150",
+            "NOMBRES": "MARÍA GÓMEZ DÍAZ",
+            "FIRMA ELLECTRONICA": "MARÍA GÓMEZ DÍAZ - 1831938150"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1831938150",
+            "NOMBRES": "MARÍA GÓMEZ DÍAZ",
+            "FIRMA ELLECTRONICA": "MARÍA GÓMEZ DÍAZ - 1831938150",
+            "AL PIE DE LA FIRMA": "MARÍA GÓMEZ DÍAZ - 1831938150"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA GÓMEZ DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1831938150",
+            "NOMBRES": "MARÍA GÓMEZ DÍAZ",
+            "SALARIO": "3.172.310",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1831938150",
+            "NOMBRES": "MARÍA GÓMEZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.027.904"
+        }
+    }
+]

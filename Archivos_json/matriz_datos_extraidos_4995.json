@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "879886968381",
+            "SOLICITUD": "8234520",
+            "CEDULA": "1243536344",
+            "NOMBRES": "MARÍA VERA",
+            "RECOMPRA O DESEMBOLSO": "3.464.412",
+            "FIRMA ELLECTRONICA": "MARÍA VERA - 1243536344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "879886968381",
+            "NOMBRES": "MARÍA VERA",
+            "CREDITO": "10.885.620",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "135.126",
+            "FIRMA ELLECTRONICA": "MARÍA VERA - 1243536344",
+            "AL PIE DE LA FIRMA": "MARÍA VERA - 1243536344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1243536344",
+            "NOMBRES": "MARÍA VERA",
+            "FECHA NACIMIENTO": "11/02/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.885.620",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA VERA - 1243536344",
+            "AL PIE DE LA FIRMA": "MARÍA VERA - 1243536344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8234520",
+            "CEDULA": "1243536344",
+            "NOMBRES": "MARÍA VERA",
+            "CREDITO": "10.885.620",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "135.126",
+            "E.A": "23.47%",
+            "RECOMPRA O DESEMBOLSO": "3.464.412",
+            "FIRMA ELLECTRONICA": "MARÍA VERA - 1243536344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1243536344",
+            "NOMBRES": "MARÍA VERA",
+            "FIRMA ELLECTRONICA": "MARÍA VERA - 1243536344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1243536344",
+            "NOMBRES": "MARÍA VERA",
+            "FIRMA ELLECTRONICA": "MARÍA VERA - 1243536344",
+            "AL PIE DE LA FIRMA": "MARÍA VERA - 1243536344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA VERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1243536344",
+            "NOMBRES": "MARÍA VERA",
+            "SALARIO": "3.509.447",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1243536344",
+            "NOMBRES": "MARÍA VERA",
+            "RECOMPRA O DESEMBOLSO": "3.464.412"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "800012254585",
+            "SOLICITUD": "4223826",
+            "CEDULA": "1292236801",
+            "NOMBRES": "HUGO CABRERA REYES",
+            "RECOMPRA O DESEMBOLSO": "2.599.130",
+            "FIRMA ELLECTRONICA": "HUGO CABRERA REYES - 1292236801"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "800012254585",
+            "NOMBRES": "HUGO CABRERA REYES",
+            "CREDITO": "19.839.979",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "216.384",
+            "FIRMA ELLECTRONICA": "HUGO CABRERA REYES - 1292236801",
+            "AL PIE DE LA FIRMA": "HUGO CABRERA REYES - 1292236801"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1292236801",
+            "NOMBRES": "HUGO CABRERA REYES",
+            "FECHA NACIMIENTO": "13/07/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.839.979",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "HUGO CABRERA REYES - 1292236801",
+            "AL PIE DE LA FIRMA": "HUGO CABRERA REYES - 1292236801"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4223826",
+            "CEDULA": "1292236801",
+            "NOMBRES": "HUGO CABRERA REYES",
+            "CREDITO": "19.839.979",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "216.384",
+            "E.A": "23.86%",
+            "RECOMPRA O DESEMBOLSO": "2.599.130",
+            "FIRMA ELLECTRONICA": "HUGO CABRERA REYES - 1292236801"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1292236801",
+            "NOMBRES": "HUGO CABRERA REYES",
+            "FIRMA ELLECTRONICA": "HUGO CABRERA REYES - 1292236801"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1292236801",
+            "NOMBRES": "HUGO CABRERA REYES",
+            "FIRMA ELLECTRONICA": "HUGO CABRERA REYES - 1292236801",
+            "AL PIE DE LA FIRMA": "HUGO CABRERA REYES - 1292236801"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HUGO CABRERA REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1292236801",
+            "NOMBRES": "HUGO CABRERA REYES",
+            "SALARIO": "2.372.208",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1292236801",
+            "NOMBRES": "HUGO CABRERA REYES",
+            "RECOMPRA O DESEMBOLSO": "2.599.130"
+        }
+    }
+]

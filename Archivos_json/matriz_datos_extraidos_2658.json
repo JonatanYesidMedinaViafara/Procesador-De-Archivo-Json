@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "435718768394",
+            "SOLICITUD": "3345908",
+            "CEDULA": "1015986999",
+            "NOMBRES": "MARÍA LUCÍA GÓMEZ MURILLO",
+            "RECOMPRA O DESEMBOLSO": "3.130.081",
+            "FIRMA ELLECTRONICA": "MARÍA LUCÍA GÓMEZ MURILLO - 1015986999"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "435718768394",
+            "NOMBRES": "MARÍA LUCÍA GÓMEZ MURILLO",
+            "CREDITO": "10.181.124",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "335.312",
+            "FIRMA ELLECTRONICA": "MARÍA LUCÍA GÓMEZ MURILLO - 1015986999",
+            "AL PIE DE LA FIRMA": "MARÍA LUCÍA GÓMEZ MURILLO - 1015986999"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1015986999",
+            "NOMBRES": "MARÍA LUCÍA GÓMEZ MURILLO",
+            "FECHA NACIMIENTO": "25/08/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.181.124",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA LUCÍA GÓMEZ MURILLO - 1015986999",
+            "AL PIE DE LA FIRMA": "MARÍA LUCÍA GÓMEZ MURILLO - 1015986999"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3345908",
+            "CEDULA": "1015986999",
+            "NOMBRES": "MARÍA LUCÍA GÓMEZ MURILLO",
+            "CREDITO": "10.181.124",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "335.312",
+            "E.A": "18.94%",
+            "RECOMPRA O DESEMBOLSO": "3.130.081",
+            "FIRMA ELLECTRONICA": "MARÍA LUCÍA GÓMEZ MURILLO - 1015986999"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1015986999",
+            "NOMBRES": "MARÍA LUCÍA GÓMEZ MURILLO",
+            "FIRMA ELLECTRONICA": "MARÍA LUCÍA GÓMEZ MURILLO - 1015986999"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1015986999",
+            "NOMBRES": "MARÍA LUCÍA GÓMEZ MURILLO",
+            "FIRMA ELLECTRONICA": "MARÍA LUCÍA GÓMEZ MURILLO - 1015986999",
+            "AL PIE DE LA FIRMA": "MARÍA LUCÍA GÓMEZ MURILLO - 1015986999"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LUCÍA GÓMEZ MURILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1015986999",
+            "NOMBRES": "MARÍA LUCÍA GÓMEZ MURILLO",
+            "SALARIO": "1.911.635",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1015986999",
+            "NOMBRES": "MARÍA LUCÍA GÓMEZ MURILLO",
+            "RECOMPRA O DESEMBOLSO": "3.130.081"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "222652414126",
+            "SOLICITUD": "4019036",
+            "CEDULA": "1984447352",
+            "NOMBRES": "DARY MONTOYA",
+            "RECOMPRA O DESEMBOLSO": "4.775.573",
+            "FIRMA ELLECTRONICA": "DARY MONTOYA - 1984447352"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "222652414126",
+            "NOMBRES": "DARY MONTOYA",
+            "CREDITO": "19.506.807",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "168.739",
+            "FIRMA ELLECTRONICA": "DARY MONTOYA - 1984447352",
+            "AL PIE DE LA FIRMA": "DARY MONTOYA - 1984447352"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1984447352",
+            "NOMBRES": "DARY MONTOYA",
+            "FECHA NACIMIENTO": "23/07/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.506.807",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DARY MONTOYA - 1984447352",
+            "AL PIE DE LA FIRMA": "DARY MONTOYA - 1984447352"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4019036",
+            "CEDULA": "1984447352",
+            "NOMBRES": "DARY MONTOYA",
+            "CREDITO": "19.506.807",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "168.739",
+            "E.A": "19.0%",
+            "RECOMPRA O DESEMBOLSO": "4.775.573",
+            "FIRMA ELLECTRONICA": "DARY MONTOYA - 1984447352"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1984447352",
+            "NOMBRES": "DARY MONTOYA",
+            "FIRMA ELLECTRONICA": "DARY MONTOYA - 1984447352"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1984447352",
+            "NOMBRES": "DARY MONTOYA",
+            "FIRMA ELLECTRONICA": "DARY MONTOYA - 1984447352",
+            "AL PIE DE LA FIRMA": "DARY MONTOYA - 1984447352"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARY MONTOYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1984447352",
+            "NOMBRES": "DARY MONTOYA",
+            "SALARIO": "3.474.990",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1984447352",
+            "NOMBRES": "DARY MONTOYA",
+            "RECOMPRA O DESEMBOLSO": "4.775.573"
+        }
+    }
+]

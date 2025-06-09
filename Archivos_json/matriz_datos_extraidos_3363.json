@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "885600617903",
+            "SOLICITUD": "8912620",
+            "CEDULA": "1675684875",
+            "NOMBRES": "MIGUEL CASTELLANOS MEZA",
+            "RECOMPRA O DESEMBOLSO": "3.331.157",
+            "FIRMA ELLECTRONICA": "MIGUEL CASTELLANOS MEZA - 1675684875"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "885600617903",
+            "NOMBRES": "MIGUEL CASTELLANOS MEZA",
+            "CREDITO": "5.267.884",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "347.424",
+            "FIRMA ELLECTRONICA": "MIGUEL CASTELLANOS MEZA - 1675684875",
+            "AL PIE DE LA FIRMA": "MIGUEL CASTELLANOS MEZA - 1675684875"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1675684875",
+            "NOMBRES": "MIGUEL CASTELLANOS MEZA",
+            "FECHA NACIMIENTO": "11/05/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.267.884",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MIGUEL CASTELLANOS MEZA - 1675684875",
+            "AL PIE DE LA FIRMA": "MIGUEL CASTELLANOS MEZA - 1675684875"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8912620",
+            "CEDULA": "1675684875",
+            "NOMBRES": "MIGUEL CASTELLANOS MEZA",
+            "CREDITO": "5.267.884",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "347.424",
+            "E.A": "22.64%",
+            "RECOMPRA O DESEMBOLSO": "3.331.157",
+            "FIRMA ELLECTRONICA": "MIGUEL CASTELLANOS MEZA - 1675684875"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1675684875",
+            "NOMBRES": "MIGUEL CASTELLANOS MEZA",
+            "FIRMA ELLECTRONICA": "MIGUEL CASTELLANOS MEZA - 1675684875"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1675684875",
+            "NOMBRES": "MIGUEL CASTELLANOS MEZA",
+            "FIRMA ELLECTRONICA": "MIGUEL CASTELLANOS MEZA - 1675684875",
+            "AL PIE DE LA FIRMA": "MIGUEL CASTELLANOS MEZA - 1675684875"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL CASTELLANOS MEZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1675684875",
+            "NOMBRES": "MIGUEL CASTELLANOS MEZA",
+            "SALARIO": "2.187.052",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1675684875",
+            "NOMBRES": "MIGUEL CASTELLANOS MEZA",
+            "RECOMPRA O DESEMBOLSO": "3.331.157"
+        }
+    }
+]

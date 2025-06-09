@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "565920643724",
+            "SOLICITUD": "1513167",
+            "CEDULA": "1634979598",
+            "NOMBRES": "ANA ARBOLEDA",
+            "RECOMPRA O DESEMBOLSO": "3.398.537",
+            "FIRMA ELLECTRONICA": "ANA ARBOLEDA - 1634979598"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "565920643724",
+            "NOMBRES": "ANA ARBOLEDA",
+            "CREDITO": "5.360.393",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "222.659",
+            "FIRMA ELLECTRONICA": "ANA ARBOLEDA - 1634979598",
+            "AL PIE DE LA FIRMA": "ANA ARBOLEDA - 1634979598"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1634979598",
+            "NOMBRES": "ANA ARBOLEDA",
+            "FECHA NACIMIENTO": "30/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.360.393",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANA ARBOLEDA - 1634979598",
+            "AL PIE DE LA FIRMA": "ANA ARBOLEDA - 1634979598"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1513167",
+            "CEDULA": "1634979598",
+            "NOMBRES": "ANA ARBOLEDA",
+            "CREDITO": "5.360.393",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "222.659",
+            "E.A": "18.6%",
+            "RECOMPRA O DESEMBOLSO": "3.398.537",
+            "FIRMA ELLECTRONICA": "ANA ARBOLEDA - 1634979598"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1634979598",
+            "NOMBRES": "ANA ARBOLEDA",
+            "FIRMA ELLECTRONICA": "ANA ARBOLEDA - 1634979598"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1634979598",
+            "NOMBRES": "ANA ARBOLEDA",
+            "FIRMA ELLECTRONICA": "ANA ARBOLEDA - 1634979598",
+            "AL PIE DE LA FIRMA": "ANA ARBOLEDA - 1634979598"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA ARBOLEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1634979598",
+            "NOMBRES": "ANA ARBOLEDA",
+            "SALARIO": "2.032.743",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1634979598",
+            "NOMBRES": "ANA ARBOLEDA",
+            "RECOMPRA O DESEMBOLSO": "3.398.537"
+        }
+    }
+]

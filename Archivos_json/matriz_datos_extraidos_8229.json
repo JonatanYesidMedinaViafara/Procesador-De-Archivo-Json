@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "797821714233",
+            "SOLICITUD": "2892884",
+            "CEDULA": "1288028103",
+            "NOMBRES": "ISABEL QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "4.918.812",
+            "FIRMA ELLECTRONICA": "ISABEL QUINTERO - 1288028103"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "797821714233",
+            "NOMBRES": "ISABEL QUINTERO",
+            "CREDITO": "16.658.082",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "273.878",
+            "FIRMA ELLECTRONICA": "ISABEL QUINTERO - 1288028103",
+            "AL PIE DE LA FIRMA": "ISABEL QUINTERO - 1288028103"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1288028103",
+            "NOMBRES": "ISABEL QUINTERO",
+            "FECHA NACIMIENTO": "26/02/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.658.082",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ISABEL QUINTERO - 1288028103",
+            "AL PIE DE LA FIRMA": "ISABEL QUINTERO - 1288028103"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2892884",
+            "CEDULA": "1288028103",
+            "NOMBRES": "ISABEL QUINTERO",
+            "CREDITO": "16.658.082",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "273.878",
+            "E.A": "24.69%",
+            "RECOMPRA O DESEMBOLSO": "4.918.812",
+            "FIRMA ELLECTRONICA": "ISABEL QUINTERO - 1288028103"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1288028103",
+            "NOMBRES": "ISABEL QUINTERO",
+            "FIRMA ELLECTRONICA": "ISABEL QUINTERO - 1288028103"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1288028103",
+            "NOMBRES": "ISABEL QUINTERO",
+            "FIRMA ELLECTRONICA": "ISABEL QUINTERO - 1288028103",
+            "AL PIE DE LA FIRMA": "ISABEL QUINTERO - 1288028103"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1288028103",
+            "NOMBRES": "ISABEL QUINTERO",
+            "SALARIO": "4.198.725",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1288028103",
+            "NOMBRES": "ISABEL QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "4.918.812"
+        }
+    }
+]

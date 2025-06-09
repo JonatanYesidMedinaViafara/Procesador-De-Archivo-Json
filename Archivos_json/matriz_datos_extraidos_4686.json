@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "300042532972",
+            "SOLICITUD": "2647770",
+            "CEDULA": "1375855689",
+            "NOMBRES": "CARLOS LUIS GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.490.030",
+            "FIRMA ELLECTRONICA": "CARLOS LUIS GONZÁLEZ - 1375855689"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "300042532972",
+            "NOMBRES": "CARLOS LUIS GONZÁLEZ",
+            "CREDITO": "18.558.666",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "326.313",
+            "FIRMA ELLECTRONICA": "CARLOS LUIS GONZÁLEZ - 1375855689",
+            "AL PIE DE LA FIRMA": "CARLOS LUIS GONZÁLEZ - 1375855689"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1375855689",
+            "NOMBRES": "CARLOS LUIS GONZÁLEZ",
+            "FECHA NACIMIENTO": "14/02/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.558.666",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS LUIS GONZÁLEZ - 1375855689",
+            "AL PIE DE LA FIRMA": "CARLOS LUIS GONZÁLEZ - 1375855689"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2647770",
+            "CEDULA": "1375855689",
+            "NOMBRES": "CARLOS LUIS GONZÁLEZ",
+            "CREDITO": "18.558.666",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "326.313",
+            "E.A": "18.41%",
+            "RECOMPRA O DESEMBOLSO": "3.490.030",
+            "FIRMA ELLECTRONICA": "CARLOS LUIS GONZÁLEZ - 1375855689"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1375855689",
+            "NOMBRES": "CARLOS LUIS GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CARLOS LUIS GONZÁLEZ - 1375855689"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1375855689",
+            "NOMBRES": "CARLOS LUIS GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CARLOS LUIS GONZÁLEZ - 1375855689",
+            "AL PIE DE LA FIRMA": "CARLOS LUIS GONZÁLEZ - 1375855689"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS LUIS GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1375855689",
+            "NOMBRES": "CARLOS LUIS GONZÁLEZ",
+            "SALARIO": "4.906.295",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1375855689",
+            "NOMBRES": "CARLOS LUIS GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.490.030"
+        }
+    }
+]

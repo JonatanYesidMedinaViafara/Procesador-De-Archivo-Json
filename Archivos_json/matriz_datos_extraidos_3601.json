@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "433580265024",
+            "SOLICITUD": "5548478",
+            "CEDULA": "1788888753",
+            "NOMBRES": "EUGENIA VARGAS RIVERA",
+            "RECOMPRA O DESEMBOLSO": "2.182.818",
+            "FIRMA ELLECTRONICA": "EUGENIA VARGAS RIVERA - 1788888753"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "433580265024",
+            "NOMBRES": "EUGENIA VARGAS RIVERA",
+            "CREDITO": "9.212.143",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "267.449",
+            "FIRMA ELLECTRONICA": "EUGENIA VARGAS RIVERA - 1788888753",
+            "AL PIE DE LA FIRMA": "EUGENIA VARGAS RIVERA - 1788888753"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1788888753",
+            "NOMBRES": "EUGENIA VARGAS RIVERA",
+            "FECHA NACIMIENTO": "19/02/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.212.143",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EUGENIA VARGAS RIVERA - 1788888753",
+            "AL PIE DE LA FIRMA": "EUGENIA VARGAS RIVERA - 1788888753"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5548478",
+            "CEDULA": "1788888753",
+            "NOMBRES": "EUGENIA VARGAS RIVERA",
+            "CREDITO": "9.212.143",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "267.449",
+            "E.A": "26.13%",
+            "RECOMPRA O DESEMBOLSO": "2.182.818",
+            "FIRMA ELLECTRONICA": "EUGENIA VARGAS RIVERA - 1788888753"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1788888753",
+            "NOMBRES": "EUGENIA VARGAS RIVERA",
+            "FIRMA ELLECTRONICA": "EUGENIA VARGAS RIVERA - 1788888753"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1788888753",
+            "NOMBRES": "EUGENIA VARGAS RIVERA",
+            "FIRMA ELLECTRONICA": "EUGENIA VARGAS RIVERA - 1788888753",
+            "AL PIE DE LA FIRMA": "EUGENIA VARGAS RIVERA - 1788888753"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EUGENIA VARGAS RIVERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1788888753",
+            "NOMBRES": "EUGENIA VARGAS RIVERA",
+            "SALARIO": "2.692.294",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1788888753",
+            "NOMBRES": "EUGENIA VARGAS RIVERA",
+            "RECOMPRA O DESEMBOLSO": "2.182.818"
+        }
+    }
+]

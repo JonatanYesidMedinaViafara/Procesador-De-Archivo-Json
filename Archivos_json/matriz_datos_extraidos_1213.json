@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "364052555038",
+            "SOLICITUD": "5089272",
+            "CEDULA": "1164012154",
+            "NOMBRES": "ALEJANDRO PATIÑO CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "3.193.618",
+            "FIRMA ELLECTRONICA": "ALEJANDRO PATIÑO CARVAJAL - 1164012154"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "364052555038",
+            "NOMBRES": "ALEJANDRO PATIÑO CARVAJAL",
+            "CREDITO": "16.614.468",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "163.306",
+            "FIRMA ELLECTRONICA": "ALEJANDRO PATIÑO CARVAJAL - 1164012154",
+            "AL PIE DE LA FIRMA": "ALEJANDRO PATIÑO CARVAJAL - 1164012154"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1164012154",
+            "NOMBRES": "ALEJANDRO PATIÑO CARVAJAL",
+            "FECHA NACIMIENTO": "27/02/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.614.468",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALEJANDRO PATIÑO CARVAJAL - 1164012154",
+            "AL PIE DE LA FIRMA": "ALEJANDRO PATIÑO CARVAJAL - 1164012154"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5089272",
+            "CEDULA": "1164012154",
+            "NOMBRES": "ALEJANDRO PATIÑO CARVAJAL",
+            "CREDITO": "16.614.468",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "163.306",
+            "E.A": "26.02%",
+            "RECOMPRA O DESEMBOLSO": "3.193.618",
+            "FIRMA ELLECTRONICA": "ALEJANDRO PATIÑO CARVAJAL - 1164012154"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1164012154",
+            "NOMBRES": "ALEJANDRO PATIÑO CARVAJAL",
+            "FIRMA ELLECTRONICA": "ALEJANDRO PATIÑO CARVAJAL - 1164012154"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1164012154",
+            "NOMBRES": "ALEJANDRO PATIÑO CARVAJAL",
+            "FIRMA ELLECTRONICA": "ALEJANDRO PATIÑO CARVAJAL - 1164012154",
+            "AL PIE DE LA FIRMA": "ALEJANDRO PATIÑO CARVAJAL - 1164012154"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO PATIÑO CARVAJAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1164012154",
+            "NOMBRES": "ALEJANDRO PATIÑO CARVAJAL",
+            "SALARIO": "3.427.440",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1164012154",
+            "NOMBRES": "ALEJANDRO PATIÑO CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "3.193.618"
+        }
+    }
+]

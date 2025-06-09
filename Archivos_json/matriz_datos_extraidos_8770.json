@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "299179144654",
+            "SOLICITUD": "5765076",
+            "CEDULA": "1756264094",
+            "NOMBRES": "DUVÁN GUERRERO CABALLERO",
+            "RECOMPRA O DESEMBOLSO": "2.978.662",
+            "FIRMA ELLECTRONICA": "DUVÁN GUERRERO CABALLERO - 1756264094"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "299179144654",
+            "NOMBRES": "DUVÁN GUERRERO CABALLERO",
+            "CREDITO": "8.360.700",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "134.181",
+            "FIRMA ELLECTRONICA": "DUVÁN GUERRERO CABALLERO - 1756264094",
+            "AL PIE DE LA FIRMA": "DUVÁN GUERRERO CABALLERO - 1756264094"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1756264094",
+            "NOMBRES": "DUVÁN GUERRERO CABALLERO",
+            "FECHA NACIMIENTO": "24/09/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.360.700",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DUVÁN GUERRERO CABALLERO - 1756264094",
+            "AL PIE DE LA FIRMA": "DUVÁN GUERRERO CABALLERO - 1756264094"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5765076",
+            "CEDULA": "1756264094",
+            "NOMBRES": "DUVÁN GUERRERO CABALLERO",
+            "CREDITO": "8.360.700",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "134.181",
+            "E.A": "24.22%",
+            "RECOMPRA O DESEMBOLSO": "2.978.662",
+            "FIRMA ELLECTRONICA": "DUVÁN GUERRERO CABALLERO - 1756264094"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1756264094",
+            "NOMBRES": "DUVÁN GUERRERO CABALLERO",
+            "FIRMA ELLECTRONICA": "DUVÁN GUERRERO CABALLERO - 1756264094"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1756264094",
+            "NOMBRES": "DUVÁN GUERRERO CABALLERO",
+            "FIRMA ELLECTRONICA": "DUVÁN GUERRERO CABALLERO - 1756264094",
+            "AL PIE DE LA FIRMA": "DUVÁN GUERRERO CABALLERO - 1756264094"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DUVÁN GUERRERO CABALLERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1756264094",
+            "NOMBRES": "DUVÁN GUERRERO CABALLERO",
+            "SALARIO": "3.436.973",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1756264094",
+            "NOMBRES": "DUVÁN GUERRERO CABALLERO",
+            "RECOMPRA O DESEMBOLSO": "2.978.662"
+        }
+    }
+]

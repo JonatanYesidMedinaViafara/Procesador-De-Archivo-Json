@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "695222770554",
+            "SOLICITUD": "9126788",
+            "CEDULA": "1760145759",
+            "NOMBRES": "GABRIEL CARDONA",
+            "RECOMPRA O DESEMBOLSO": "3.714.220",
+            "FIRMA ELLECTRONICA": "GABRIEL CARDONA - 1760145759"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "695222770554",
+            "NOMBRES": "GABRIEL CARDONA",
+            "CREDITO": "11.891.473",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "266.345",
+            "FIRMA ELLECTRONICA": "GABRIEL CARDONA - 1760145759",
+            "AL PIE DE LA FIRMA": "GABRIEL CARDONA - 1760145759"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1760145759",
+            "NOMBRES": "GABRIEL CARDONA",
+            "FECHA NACIMIENTO": "27/11/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.891.473",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "GABRIEL CARDONA - 1760145759",
+            "AL PIE DE LA FIRMA": "GABRIEL CARDONA - 1760145759"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9126788",
+            "CEDULA": "1760145759",
+            "NOMBRES": "GABRIEL CARDONA",
+            "CREDITO": "11.891.473",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "266.345",
+            "E.A": "23.62%",
+            "RECOMPRA O DESEMBOLSO": "3.714.220",
+            "FIRMA ELLECTRONICA": "GABRIEL CARDONA - 1760145759"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1760145759",
+            "NOMBRES": "GABRIEL CARDONA",
+            "FIRMA ELLECTRONICA": "GABRIEL CARDONA - 1760145759"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1760145759",
+            "NOMBRES": "GABRIEL CARDONA",
+            "FIRMA ELLECTRONICA": "GABRIEL CARDONA - 1760145759",
+            "AL PIE DE LA FIRMA": "GABRIEL CARDONA - 1760145759"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GABRIEL CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1760145759",
+            "NOMBRES": "GABRIEL CARDONA",
+            "SALARIO": "4.839.881",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1760145759",
+            "NOMBRES": "GABRIEL CARDONA",
+            "RECOMPRA O DESEMBOLSO": "3.714.220"
+        }
+    }
+]

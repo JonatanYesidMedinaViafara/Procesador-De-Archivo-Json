@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "710714312587",
+            "SOLICITUD": "3948976",
+            "CEDULA": "1257502953",
+            "NOMBRES": "OMAR CARMONA",
+            "RECOMPRA O DESEMBOLSO": "2.919.572",
+            "FIRMA ELLECTRONICA": "OMAR CARMONA - 1257502953"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "710714312587",
+            "NOMBRES": "OMAR CARMONA",
+            "CREDITO": "18.785.912",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "385.329",
+            "FIRMA ELLECTRONICA": "OMAR CARMONA - 1257502953",
+            "AL PIE DE LA FIRMA": "OMAR CARMONA - 1257502953"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1257502953",
+            "NOMBRES": "OMAR CARMONA",
+            "FECHA NACIMIENTO": "19/05/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.785.912",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "OMAR CARMONA - 1257502953",
+            "AL PIE DE LA FIRMA": "OMAR CARMONA - 1257502953"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3948976",
+            "CEDULA": "1257502953",
+            "NOMBRES": "OMAR CARMONA",
+            "CREDITO": "18.785.912",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "385.329",
+            "E.A": "20.42%",
+            "RECOMPRA O DESEMBOLSO": "2.919.572",
+            "FIRMA ELLECTRONICA": "OMAR CARMONA - 1257502953"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1257502953",
+            "NOMBRES": "OMAR CARMONA",
+            "FIRMA ELLECTRONICA": "OMAR CARMONA - 1257502953"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1257502953",
+            "NOMBRES": "OMAR CARMONA",
+            "FIRMA ELLECTRONICA": "OMAR CARMONA - 1257502953",
+            "AL PIE DE LA FIRMA": "OMAR CARMONA - 1257502953"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR CARMONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1257502953",
+            "NOMBRES": "OMAR CARMONA",
+            "SALARIO": "3.334.948",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1257502953",
+            "NOMBRES": "OMAR CARMONA",
+            "RECOMPRA O DESEMBOLSO": "2.919.572"
+        }
+    }
+]

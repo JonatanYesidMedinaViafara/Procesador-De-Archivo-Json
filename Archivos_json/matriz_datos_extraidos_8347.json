@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "597286923277",
+            "SOLICITUD": "6229854",
+            "CEDULA": "1777701740",
+            "NOMBRES": "MARCOS LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.646.631",
+            "FIRMA ELLECTRONICA": "MARCOS LÓPEZ - 1777701740"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "597286923277",
+            "NOMBRES": "MARCOS LÓPEZ",
+            "CREDITO": "6.148.883",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "293.244",
+            "FIRMA ELLECTRONICA": "MARCOS LÓPEZ - 1777701740",
+            "AL PIE DE LA FIRMA": "MARCOS LÓPEZ - 1777701740"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1777701740",
+            "NOMBRES": "MARCOS LÓPEZ",
+            "FECHA NACIMIENTO": "21/02/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.148.883",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARCOS LÓPEZ - 1777701740",
+            "AL PIE DE LA FIRMA": "MARCOS LÓPEZ - 1777701740"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6229854",
+            "CEDULA": "1777701740",
+            "NOMBRES": "MARCOS LÓPEZ",
+            "CREDITO": "6.148.883",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "293.244",
+            "E.A": "28.39%",
+            "RECOMPRA O DESEMBOLSO": "3.646.631",
+            "FIRMA ELLECTRONICA": "MARCOS LÓPEZ - 1777701740"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1777701740",
+            "NOMBRES": "MARCOS LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARCOS LÓPEZ - 1777701740"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1777701740",
+            "NOMBRES": "MARCOS LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARCOS LÓPEZ - 1777701740",
+            "AL PIE DE LA FIRMA": "MARCOS LÓPEZ - 1777701740"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCOS LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1777701740",
+            "NOMBRES": "MARCOS LÓPEZ",
+            "SALARIO": "2.202.143",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1777701740",
+            "NOMBRES": "MARCOS LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.646.631"
+        }
+    }
+]

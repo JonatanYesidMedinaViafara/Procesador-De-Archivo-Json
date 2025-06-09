@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "426949673962",
+            "SOLICITUD": "7177426",
+            "CEDULA": "1682421361",
+            "NOMBRES": "SERGIO JHON OSPINA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.992.111",
+            "FIRMA ELLECTRONICA": "SERGIO JHON OSPINA GUTIÉRREZ - 1682421361"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "426949673962",
+            "NOMBRES": "SERGIO JHON OSPINA GUTIÉRREZ",
+            "CREDITO": "10.643.098",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "199.103",
+            "FIRMA ELLECTRONICA": "SERGIO JHON OSPINA GUTIÉRREZ - 1682421361",
+            "AL PIE DE LA FIRMA": "SERGIO JHON OSPINA GUTIÉRREZ - 1682421361"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1682421361",
+            "NOMBRES": "SERGIO JHON OSPINA GUTIÉRREZ",
+            "FECHA NACIMIENTO": "17/03/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.643.098",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SERGIO JHON OSPINA GUTIÉRREZ - 1682421361",
+            "AL PIE DE LA FIRMA": "SERGIO JHON OSPINA GUTIÉRREZ - 1682421361"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7177426",
+            "CEDULA": "1682421361",
+            "NOMBRES": "SERGIO JHON OSPINA GUTIÉRREZ",
+            "CREDITO": "10.643.098",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "199.103",
+            "E.A": "18.9%",
+            "RECOMPRA O DESEMBOLSO": "3.992.111",
+            "FIRMA ELLECTRONICA": "SERGIO JHON OSPINA GUTIÉRREZ - 1682421361"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1682421361",
+            "NOMBRES": "SERGIO JHON OSPINA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "SERGIO JHON OSPINA GUTIÉRREZ - 1682421361"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1682421361",
+            "NOMBRES": "SERGIO JHON OSPINA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "SERGIO JHON OSPINA GUTIÉRREZ - 1682421361",
+            "AL PIE DE LA FIRMA": "SERGIO JHON OSPINA GUTIÉRREZ - 1682421361"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SERGIO JHON OSPINA GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1682421361",
+            "NOMBRES": "SERGIO JHON OSPINA GUTIÉRREZ",
+            "SALARIO": "1.273.686",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1682421361",
+            "NOMBRES": "SERGIO JHON OSPINA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.992.111"
+        }
+    }
+]

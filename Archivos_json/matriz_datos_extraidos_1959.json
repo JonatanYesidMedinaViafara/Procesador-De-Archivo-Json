@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "290870010879",
+            "SOLICITUD": "2193144",
+            "CEDULA": "1840805975",
+            "NOMBRES": "SARA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.682.066",
+            "FIRMA ELLECTRONICA": "SARA RODRÍGUEZ - 1840805975"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "290870010879",
+            "NOMBRES": "SARA RODRÍGUEZ",
+            "CREDITO": "19.176.240",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "272.391",
+            "FIRMA ELLECTRONICA": "SARA RODRÍGUEZ - 1840805975",
+            "AL PIE DE LA FIRMA": "SARA RODRÍGUEZ - 1840805975"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1840805975",
+            "NOMBRES": "SARA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "04/11/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.176.240",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SARA RODRÍGUEZ - 1840805975",
+            "AL PIE DE LA FIRMA": "SARA RODRÍGUEZ - 1840805975"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2193144",
+            "CEDULA": "1840805975",
+            "NOMBRES": "SARA RODRÍGUEZ",
+            "CREDITO": "19.176.240",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "272.391",
+            "E.A": "20.34%",
+            "RECOMPRA O DESEMBOLSO": "2.682.066",
+            "FIRMA ELLECTRONICA": "SARA RODRÍGUEZ - 1840805975"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1840805975",
+            "NOMBRES": "SARA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SARA RODRÍGUEZ - 1840805975"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1840805975",
+            "NOMBRES": "SARA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SARA RODRÍGUEZ - 1840805975",
+            "AL PIE DE LA FIRMA": "SARA RODRÍGUEZ - 1840805975"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SARA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1840805975",
+            "NOMBRES": "SARA RODRÍGUEZ",
+            "SALARIO": "3.997.390",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1840805975",
+            "NOMBRES": "SARA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.682.066"
+        }
+    }
+]

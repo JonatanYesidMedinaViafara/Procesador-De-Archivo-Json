@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "999590242110",
+            "SOLICITUD": "4626461",
+            "CEDULA": "1301107448",
+            "NOMBRES": "VIVIANA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.770.443",
+            "FIRMA ELLECTRONICA": "VIVIANA MUÑOZ - 1301107448"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "999590242110",
+            "NOMBRES": "VIVIANA MUÑOZ",
+            "CREDITO": "9.429.562",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "332.539",
+            "FIRMA ELLECTRONICA": "VIVIANA MUÑOZ - 1301107448",
+            "AL PIE DE LA FIRMA": "VIVIANA MUÑOZ - 1301107448"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1301107448",
+            "NOMBRES": "VIVIANA MUÑOZ",
+            "FECHA NACIMIENTO": "29/07/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.429.562",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "VIVIANA MUÑOZ - 1301107448",
+            "AL PIE DE LA FIRMA": "VIVIANA MUÑOZ - 1301107448"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4626461",
+            "CEDULA": "1301107448",
+            "NOMBRES": "VIVIANA MUÑOZ",
+            "CREDITO": "9.429.562",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "332.539",
+            "E.A": "18.11%",
+            "RECOMPRA O DESEMBOLSO": "3.770.443",
+            "FIRMA ELLECTRONICA": "VIVIANA MUÑOZ - 1301107448"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1301107448",
+            "NOMBRES": "VIVIANA MUÑOZ",
+            "FIRMA ELLECTRONICA": "VIVIANA MUÑOZ - 1301107448"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1301107448",
+            "NOMBRES": "VIVIANA MUÑOZ",
+            "FIRMA ELLECTRONICA": "VIVIANA MUÑOZ - 1301107448",
+            "AL PIE DE LA FIRMA": "VIVIANA MUÑOZ - 1301107448"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VIVIANA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1301107448",
+            "NOMBRES": "VIVIANA MUÑOZ",
+            "SALARIO": "4.688.508",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1301107448",
+            "NOMBRES": "VIVIANA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.770.443"
+        }
+    }
+]

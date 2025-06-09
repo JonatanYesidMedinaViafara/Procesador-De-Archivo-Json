@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "555833513059",
+            "SOLICITUD": "2694499",
+            "CEDULA": "1759484261",
+            "NOMBRES": "MARCELA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "1.301.740",
+            "FIRMA ELLECTRONICA": "MARCELA ACOSTA - 1759484261"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "555833513059",
+            "NOMBRES": "MARCELA ACOSTA",
+            "CREDITO": "11.916.517",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "216.287",
+            "FIRMA ELLECTRONICA": "MARCELA ACOSTA - 1759484261",
+            "AL PIE DE LA FIRMA": "MARCELA ACOSTA - 1759484261"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1759484261",
+            "NOMBRES": "MARCELA ACOSTA",
+            "FECHA NACIMIENTO": "19/08/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.916.517",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARCELA ACOSTA - 1759484261",
+            "AL PIE DE LA FIRMA": "MARCELA ACOSTA - 1759484261"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2694499",
+            "CEDULA": "1759484261",
+            "NOMBRES": "MARCELA ACOSTA",
+            "CREDITO": "11.916.517",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "216.287",
+            "E.A": "21.34%",
+            "RECOMPRA O DESEMBOLSO": "1.301.740",
+            "FIRMA ELLECTRONICA": "MARCELA ACOSTA - 1759484261"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1759484261",
+            "NOMBRES": "MARCELA ACOSTA",
+            "FIRMA ELLECTRONICA": "MARCELA ACOSTA - 1759484261"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1759484261",
+            "NOMBRES": "MARCELA ACOSTA",
+            "FIRMA ELLECTRONICA": "MARCELA ACOSTA - 1759484261",
+            "AL PIE DE LA FIRMA": "MARCELA ACOSTA - 1759484261"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCELA ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1759484261",
+            "NOMBRES": "MARCELA ACOSTA",
+            "SALARIO": "4.547.150",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1759484261",
+            "NOMBRES": "MARCELA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "1.301.740"
+        }
+    }
+]

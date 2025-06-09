@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "780837734739",
+            "SOLICITUD": "3240047",
+            "CEDULA": "1635528761",
+            "NOMBRES": "RAFAEL SERRANO",
+            "RECOMPRA O DESEMBOLSO": "4.404.949",
+            "FIRMA ELLECTRONICA": "RAFAEL SERRANO - 1635528761"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "780837734739",
+            "NOMBRES": "RAFAEL SERRANO",
+            "CREDITO": "7.808.651",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "393.643",
+            "FIRMA ELLECTRONICA": "RAFAEL SERRANO - 1635528761",
+            "AL PIE DE LA FIRMA": "RAFAEL SERRANO - 1635528761"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1635528761",
+            "NOMBRES": "RAFAEL SERRANO",
+            "FECHA NACIMIENTO": "03/12/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.808.651",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RAFAEL SERRANO - 1635528761",
+            "AL PIE DE LA FIRMA": "RAFAEL SERRANO - 1635528761"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3240047",
+            "CEDULA": "1635528761",
+            "NOMBRES": "RAFAEL SERRANO",
+            "CREDITO": "7.808.651",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "393.643",
+            "E.A": "25.07%",
+            "RECOMPRA O DESEMBOLSO": "4.404.949",
+            "FIRMA ELLECTRONICA": "RAFAEL SERRANO - 1635528761"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1635528761",
+            "NOMBRES": "RAFAEL SERRANO",
+            "FIRMA ELLECTRONICA": "RAFAEL SERRANO - 1635528761"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1635528761",
+            "NOMBRES": "RAFAEL SERRANO",
+            "FIRMA ELLECTRONICA": "RAFAEL SERRANO - 1635528761",
+            "AL PIE DE LA FIRMA": "RAFAEL SERRANO - 1635528761"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL SERRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1635528761",
+            "NOMBRES": "RAFAEL SERRANO",
+            "SALARIO": "3.843.233",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1635528761",
+            "NOMBRES": "RAFAEL SERRANO",
+            "RECOMPRA O DESEMBOLSO": "4.404.949"
+        }
+    }
+]

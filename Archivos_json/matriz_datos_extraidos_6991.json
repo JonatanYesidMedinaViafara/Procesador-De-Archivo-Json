@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "120486465612",
+            "SOLICITUD": "4360274",
+            "CEDULA": "1892814393",
+            "NOMBRES": "TATIANA PEREA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.132.988",
+            "FIRMA ELLECTRONICA": "TATIANA PEREA MARTÍNEZ - 1892814393"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "120486465612",
+            "NOMBRES": "TATIANA PEREA MARTÍNEZ",
+            "CREDITO": "6.610.551",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "253.436",
+            "FIRMA ELLECTRONICA": "TATIANA PEREA MARTÍNEZ - 1892814393",
+            "AL PIE DE LA FIRMA": "TATIANA PEREA MARTÍNEZ - 1892814393"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1892814393",
+            "NOMBRES": "TATIANA PEREA MARTÍNEZ",
+            "FECHA NACIMIENTO": "17/06/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.610.551",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "TATIANA PEREA MARTÍNEZ - 1892814393",
+            "AL PIE DE LA FIRMA": "TATIANA PEREA MARTÍNEZ - 1892814393"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4360274",
+            "CEDULA": "1892814393",
+            "NOMBRES": "TATIANA PEREA MARTÍNEZ",
+            "CREDITO": "6.610.551",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "253.436",
+            "E.A": "18.48%",
+            "RECOMPRA O DESEMBOLSO": "2.132.988",
+            "FIRMA ELLECTRONICA": "TATIANA PEREA MARTÍNEZ - 1892814393"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1892814393",
+            "NOMBRES": "TATIANA PEREA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "TATIANA PEREA MARTÍNEZ - 1892814393"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1892814393",
+            "NOMBRES": "TATIANA PEREA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "TATIANA PEREA MARTÍNEZ - 1892814393",
+            "AL PIE DE LA FIRMA": "TATIANA PEREA MARTÍNEZ - 1892814393"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TATIANA PEREA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1892814393",
+            "NOMBRES": "TATIANA PEREA MARTÍNEZ",
+            "SALARIO": "2.295.042",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1892814393",
+            "NOMBRES": "TATIANA PEREA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.132.988"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "733803791413",
+            "SOLICITUD": "7088629",
+            "CEDULA": "1072433694",
+            "NOMBRES": "ALBERTO RODRÍGUEZ VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.846.893",
+            "FIRMA ELLECTRONICA": "ALBERTO RODRÍGUEZ VARGAS - 1072433694"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "733803791413",
+            "NOMBRES": "ALBERTO RODRÍGUEZ VARGAS",
+            "CREDITO": "5.621.260",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "271.146",
+            "FIRMA ELLECTRONICA": "ALBERTO RODRÍGUEZ VARGAS - 1072433694",
+            "AL PIE DE LA FIRMA": "ALBERTO RODRÍGUEZ VARGAS - 1072433694"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1072433694",
+            "NOMBRES": "ALBERTO RODRÍGUEZ VARGAS",
+            "FECHA NACIMIENTO": "03/05/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.621.260",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALBERTO RODRÍGUEZ VARGAS - 1072433694",
+            "AL PIE DE LA FIRMA": "ALBERTO RODRÍGUEZ VARGAS - 1072433694"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7088629",
+            "CEDULA": "1072433694",
+            "NOMBRES": "ALBERTO RODRÍGUEZ VARGAS",
+            "CREDITO": "5.621.260",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "271.146",
+            "E.A": "20.9%",
+            "RECOMPRA O DESEMBOLSO": "3.846.893",
+            "FIRMA ELLECTRONICA": "ALBERTO RODRÍGUEZ VARGAS - 1072433694"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1072433694",
+            "NOMBRES": "ALBERTO RODRÍGUEZ VARGAS",
+            "FIRMA ELLECTRONICA": "ALBERTO RODRÍGUEZ VARGAS - 1072433694"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1072433694",
+            "NOMBRES": "ALBERTO RODRÍGUEZ VARGAS",
+            "FIRMA ELLECTRONICA": "ALBERTO RODRÍGUEZ VARGAS - 1072433694",
+            "AL PIE DE LA FIRMA": "ALBERTO RODRÍGUEZ VARGAS - 1072433694"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO RODRÍGUEZ VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1072433694",
+            "NOMBRES": "ALBERTO RODRÍGUEZ VARGAS",
+            "SALARIO": "3.975.453",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1072433694",
+            "NOMBRES": "ALBERTO RODRÍGUEZ VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.846.893"
+        }
+    }
+]

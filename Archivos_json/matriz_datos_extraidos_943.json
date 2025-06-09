@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "256114773772",
+            "SOLICITUD": "9775913",
+            "CEDULA": "1034601045",
+            "NOMBRES": "XIMENA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.244.699",
+            "FIRMA ELLECTRONICA": "XIMENA DÍAZ - 1034601045"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "256114773772",
+            "NOMBRES": "XIMENA DÍAZ",
+            "CREDITO": "19.032.880",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "126.678",
+            "FIRMA ELLECTRONICA": "XIMENA DÍAZ - 1034601045",
+            "AL PIE DE LA FIRMA": "XIMENA DÍAZ - 1034601045"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1034601045",
+            "NOMBRES": "XIMENA DÍAZ",
+            "FECHA NACIMIENTO": "12/11/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.032.880",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "XIMENA DÍAZ - 1034601045",
+            "AL PIE DE LA FIRMA": "XIMENA DÍAZ - 1034601045"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9775913",
+            "CEDULA": "1034601045",
+            "NOMBRES": "XIMENA DÍAZ",
+            "CREDITO": "19.032.880",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "126.678",
+            "E.A": "21.36%",
+            "RECOMPRA O DESEMBOLSO": "4.244.699",
+            "FIRMA ELLECTRONICA": "XIMENA DÍAZ - 1034601045"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1034601045",
+            "NOMBRES": "XIMENA DÍAZ",
+            "FIRMA ELLECTRONICA": "XIMENA DÍAZ - 1034601045"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1034601045",
+            "NOMBRES": "XIMENA DÍAZ",
+            "FIRMA ELLECTRONICA": "XIMENA DÍAZ - 1034601045",
+            "AL PIE DE LA FIRMA": "XIMENA DÍAZ - 1034601045"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "XIMENA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1034601045",
+            "NOMBRES": "XIMENA DÍAZ",
+            "SALARIO": "2.935.195",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1034601045",
+            "NOMBRES": "XIMENA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.244.699"
+        }
+    }
+]

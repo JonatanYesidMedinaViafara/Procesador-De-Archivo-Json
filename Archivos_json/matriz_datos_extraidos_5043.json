@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "339426233805",
+            "SOLICITUD": "5063996",
+            "CEDULA": "1337858813",
+            "NOMBRES": "ANTONIO CÉSAR RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.079.611",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR RAMÍREZ - 1337858813"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "339426233805",
+            "NOMBRES": "ANTONIO CÉSAR RAMÍREZ",
+            "CREDITO": "18.956.874",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "283.36",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR RAMÍREZ - 1337858813",
+            "AL PIE DE LA FIRMA": "ANTONIO CÉSAR RAMÍREZ - 1337858813"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1337858813",
+            "NOMBRES": "ANTONIO CÉSAR RAMÍREZ",
+            "FECHA NACIMIENTO": "20/03/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.956.874",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR RAMÍREZ - 1337858813",
+            "AL PIE DE LA FIRMA": "ANTONIO CÉSAR RAMÍREZ - 1337858813"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5063996",
+            "CEDULA": "1337858813",
+            "NOMBRES": "ANTONIO CÉSAR RAMÍREZ",
+            "CREDITO": "18.956.874",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "283.36",
+            "E.A": "22.08%",
+            "RECOMPRA O DESEMBOLSO": "3.079.611",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR RAMÍREZ - 1337858813"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1337858813",
+            "NOMBRES": "ANTONIO CÉSAR RAMÍREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR RAMÍREZ - 1337858813"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1337858813",
+            "NOMBRES": "ANTONIO CÉSAR RAMÍREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR RAMÍREZ - 1337858813",
+            "AL PIE DE LA FIRMA": "ANTONIO CÉSAR RAMÍREZ - 1337858813"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO CÉSAR RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1337858813",
+            "NOMBRES": "ANTONIO CÉSAR RAMÍREZ",
+            "SALARIO": "2.592.158",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1337858813",
+            "NOMBRES": "ANTONIO CÉSAR RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.079.611"
+        }
+    }
+]

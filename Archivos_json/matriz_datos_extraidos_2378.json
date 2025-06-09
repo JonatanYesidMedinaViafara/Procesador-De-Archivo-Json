@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "796194634953",
+            "SOLICITUD": "6751155",
+            "CEDULA": "1045650469",
+            "NOMBRES": "JUAN FABIÁN SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.802.519",
+            "FIRMA ELLECTRONICA": "JUAN FABIÁN SUÁREZ - 1045650469"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "796194634953",
+            "NOMBRES": "JUAN FABIÁN SUÁREZ",
+            "CREDITO": "15.634.226",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "277.848",
+            "FIRMA ELLECTRONICA": "JUAN FABIÁN SUÁREZ - 1045650469",
+            "AL PIE DE LA FIRMA": "JUAN FABIÁN SUÁREZ - 1045650469"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1045650469",
+            "NOMBRES": "JUAN FABIÁN SUÁREZ",
+            "FECHA NACIMIENTO": "20/12/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.634.226",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN FABIÁN SUÁREZ - 1045650469",
+            "AL PIE DE LA FIRMA": "JUAN FABIÁN SUÁREZ - 1045650469"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6751155",
+            "CEDULA": "1045650469",
+            "NOMBRES": "JUAN FABIÁN SUÁREZ",
+            "CREDITO": "15.634.226",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "277.848",
+            "E.A": "23.83%",
+            "RECOMPRA O DESEMBOLSO": "3.802.519",
+            "FIRMA ELLECTRONICA": "JUAN FABIÁN SUÁREZ - 1045650469"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1045650469",
+            "NOMBRES": "JUAN FABIÁN SUÁREZ",
+            "FIRMA ELLECTRONICA": "JUAN FABIÁN SUÁREZ - 1045650469"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1045650469",
+            "NOMBRES": "JUAN FABIÁN SUÁREZ",
+            "FIRMA ELLECTRONICA": "JUAN FABIÁN SUÁREZ - 1045650469",
+            "AL PIE DE LA FIRMA": "JUAN FABIÁN SUÁREZ - 1045650469"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN FABIÁN SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1045650469",
+            "NOMBRES": "JUAN FABIÁN SUÁREZ",
+            "SALARIO": "2.610.709",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1045650469",
+            "NOMBRES": "JUAN FABIÁN SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.802.519"
+        }
+    }
+]

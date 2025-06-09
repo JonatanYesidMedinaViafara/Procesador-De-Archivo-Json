@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "292528944766",
+            "SOLICITUD": "2319062",
+            "CEDULA": "1614174340",
+            "NOMBRES": "EDINSON GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "2.069.454",
+            "FIRMA ELLECTRONICA": "EDINSON GARZÓN - 1614174340"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "292528944766",
+            "NOMBRES": "EDINSON GARZÓN",
+            "CREDITO": "7.429.234",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "212.655",
+            "FIRMA ELLECTRONICA": "EDINSON GARZÓN - 1614174340",
+            "AL PIE DE LA FIRMA": "EDINSON GARZÓN - 1614174340"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1614174340",
+            "NOMBRES": "EDINSON GARZÓN",
+            "FECHA NACIMIENTO": "10/06/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.429.234",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDINSON GARZÓN - 1614174340",
+            "AL PIE DE LA FIRMA": "EDINSON GARZÓN - 1614174340"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2319062",
+            "CEDULA": "1614174340",
+            "NOMBRES": "EDINSON GARZÓN",
+            "CREDITO": "7.429.234",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "212.655",
+            "E.A": "26.79%",
+            "RECOMPRA O DESEMBOLSO": "2.069.454",
+            "FIRMA ELLECTRONICA": "EDINSON GARZÓN - 1614174340"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1614174340",
+            "NOMBRES": "EDINSON GARZÓN",
+            "FIRMA ELLECTRONICA": "EDINSON GARZÓN - 1614174340"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1614174340",
+            "NOMBRES": "EDINSON GARZÓN",
+            "FIRMA ELLECTRONICA": "EDINSON GARZÓN - 1614174340",
+            "AL PIE DE LA FIRMA": "EDINSON GARZÓN - 1614174340"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDINSON GARZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1614174340",
+            "NOMBRES": "EDINSON GARZÓN",
+            "SALARIO": "1.420.403",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1614174340",
+            "NOMBRES": "EDINSON GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "2.069.454"
+        }
+    }
+]

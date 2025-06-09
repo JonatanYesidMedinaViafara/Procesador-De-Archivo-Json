@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "343573642808",
+            "SOLICITUD": "2312360",
+            "CEDULA": "1391180515",
+            "NOMBRES": "SANDRA ANDREA MUÑOZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.663.072",
+            "FIRMA ELLECTRONICA": "SANDRA ANDREA MUÑOZ DÍAZ - 1391180515"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "343573642808",
+            "NOMBRES": "SANDRA ANDREA MUÑOZ DÍAZ",
+            "CREDITO": "9.878.292",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "215.991",
+            "FIRMA ELLECTRONICA": "SANDRA ANDREA MUÑOZ DÍAZ - 1391180515",
+            "AL PIE DE LA FIRMA": "SANDRA ANDREA MUÑOZ DÍAZ - 1391180515"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1391180515",
+            "NOMBRES": "SANDRA ANDREA MUÑOZ DÍAZ",
+            "FECHA NACIMIENTO": "27/12/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.878.292",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SANDRA ANDREA MUÑOZ DÍAZ - 1391180515",
+            "AL PIE DE LA FIRMA": "SANDRA ANDREA MUÑOZ DÍAZ - 1391180515"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2312360",
+            "CEDULA": "1391180515",
+            "NOMBRES": "SANDRA ANDREA MUÑOZ DÍAZ",
+            "CREDITO": "9.878.292",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "215.991",
+            "E.A": "24.28%",
+            "RECOMPRA O DESEMBOLSO": "3.663.072",
+            "FIRMA ELLECTRONICA": "SANDRA ANDREA MUÑOZ DÍAZ - 1391180515"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1391180515",
+            "NOMBRES": "SANDRA ANDREA MUÑOZ DÍAZ",
+            "FIRMA ELLECTRONICA": "SANDRA ANDREA MUÑOZ DÍAZ - 1391180515"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1391180515",
+            "NOMBRES": "SANDRA ANDREA MUÑOZ DÍAZ",
+            "FIRMA ELLECTRONICA": "SANDRA ANDREA MUÑOZ DÍAZ - 1391180515",
+            "AL PIE DE LA FIRMA": "SANDRA ANDREA MUÑOZ DÍAZ - 1391180515"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA ANDREA MUÑOZ DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1391180515",
+            "NOMBRES": "SANDRA ANDREA MUÑOZ DÍAZ",
+            "SALARIO": "3.110.530",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1391180515",
+            "NOMBRES": "SANDRA ANDREA MUÑOZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.663.072"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "965973598927",
+            "SOLICITUD": "9266848",
+            "CEDULA": "1565798518",
+            "NOMBRES": "AIDA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.310.834",
+            "FIRMA ELLECTRONICA": "AIDA VALENCIA - 1565798518"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "965973598927",
+            "NOMBRES": "AIDA VALENCIA",
+            "CREDITO": "7.572.191",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "223.654",
+            "FIRMA ELLECTRONICA": "AIDA VALENCIA - 1565798518",
+            "AL PIE DE LA FIRMA": "AIDA VALENCIA - 1565798518"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1565798518",
+            "NOMBRES": "AIDA VALENCIA",
+            "FECHA NACIMIENTO": "06/05/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.572.191",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "AIDA VALENCIA - 1565798518",
+            "AL PIE DE LA FIRMA": "AIDA VALENCIA - 1565798518"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9266848",
+            "CEDULA": "1565798518",
+            "NOMBRES": "AIDA VALENCIA",
+            "CREDITO": "7.572.191",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "223.654",
+            "E.A": "19.08%",
+            "RECOMPRA O DESEMBOLSO": "1.310.834",
+            "FIRMA ELLECTRONICA": "AIDA VALENCIA - 1565798518"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1565798518",
+            "NOMBRES": "AIDA VALENCIA",
+            "FIRMA ELLECTRONICA": "AIDA VALENCIA - 1565798518"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1565798518",
+            "NOMBRES": "AIDA VALENCIA",
+            "FIRMA ELLECTRONICA": "AIDA VALENCIA - 1565798518",
+            "AL PIE DE LA FIRMA": "AIDA VALENCIA - 1565798518"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AIDA VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1565798518",
+            "NOMBRES": "AIDA VALENCIA",
+            "SALARIO": "1.585.985",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1565798518",
+            "NOMBRES": "AIDA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.310.834"
+        }
+    }
+]

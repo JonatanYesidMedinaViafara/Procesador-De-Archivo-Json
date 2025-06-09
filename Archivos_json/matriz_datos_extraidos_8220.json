@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "333067466587",
+            "SOLICITUD": "1590757",
+            "CEDULA": "1382637961",
+            "NOMBRES": "JOHAN MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.189.933",
+            "FIRMA ELLECTRONICA": "JOHAN MORALES - 1382637961"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "333067466587",
+            "NOMBRES": "JOHAN MORALES",
+            "CREDITO": "9.670.350",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "335.938",
+            "FIRMA ELLECTRONICA": "JOHAN MORALES - 1382637961",
+            "AL PIE DE LA FIRMA": "JOHAN MORALES - 1382637961"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1382637961",
+            "NOMBRES": "JOHAN MORALES",
+            "FECHA NACIMIENTO": "04/10/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.670.350",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOHAN MORALES - 1382637961",
+            "AL PIE DE LA FIRMA": "JOHAN MORALES - 1382637961"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1590757",
+            "CEDULA": "1382637961",
+            "NOMBRES": "JOHAN MORALES",
+            "CREDITO": "9.670.350",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "335.938",
+            "E.A": "20.95%",
+            "RECOMPRA O DESEMBOLSO": "2.189.933",
+            "FIRMA ELLECTRONICA": "JOHAN MORALES - 1382637961"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1382637961",
+            "NOMBRES": "JOHAN MORALES",
+            "FIRMA ELLECTRONICA": "JOHAN MORALES - 1382637961"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1382637961",
+            "NOMBRES": "JOHAN MORALES",
+            "FIRMA ELLECTRONICA": "JOHAN MORALES - 1382637961",
+            "AL PIE DE LA FIRMA": "JOHAN MORALES - 1382637961"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHAN MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1382637961",
+            "NOMBRES": "JOHAN MORALES",
+            "SALARIO": "1.764.196",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1382637961",
+            "NOMBRES": "JOHAN MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.189.933"
+        }
+    }
+]

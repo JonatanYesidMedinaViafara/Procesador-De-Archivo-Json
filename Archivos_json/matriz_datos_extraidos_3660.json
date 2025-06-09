@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "625164198064",
+            "SOLICITUD": "9452256",
+            "CEDULA": "1052082636",
+            "NOMBRES": "ENRIQUE GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.769.311",
+            "FIRMA ELLECTRONICA": "ENRIQUE GÓMEZ - 1052082636"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "625164198064",
+            "NOMBRES": "ENRIQUE GÓMEZ",
+            "CREDITO": "13.580.268",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "297.894",
+            "FIRMA ELLECTRONICA": "ENRIQUE GÓMEZ - 1052082636",
+            "AL PIE DE LA FIRMA": "ENRIQUE GÓMEZ - 1052082636"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1052082636",
+            "NOMBRES": "ENRIQUE GÓMEZ",
+            "FECHA NACIMIENTO": "27/03/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.580.268",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE GÓMEZ - 1052082636",
+            "AL PIE DE LA FIRMA": "ENRIQUE GÓMEZ - 1052082636"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9452256",
+            "CEDULA": "1052082636",
+            "NOMBRES": "ENRIQUE GÓMEZ",
+            "CREDITO": "13.580.268",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "297.894",
+            "E.A": "25.54%",
+            "RECOMPRA O DESEMBOLSO": "4.769.311",
+            "FIRMA ELLECTRONICA": "ENRIQUE GÓMEZ - 1052082636"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1052082636",
+            "NOMBRES": "ENRIQUE GÓMEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE GÓMEZ - 1052082636"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1052082636",
+            "NOMBRES": "ENRIQUE GÓMEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE GÓMEZ - 1052082636",
+            "AL PIE DE LA FIRMA": "ENRIQUE GÓMEZ - 1052082636"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1052082636",
+            "NOMBRES": "ENRIQUE GÓMEZ",
+            "SALARIO": "3.619.640",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1052082636",
+            "NOMBRES": "ENRIQUE GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.769.311"
+        }
+    }
+]

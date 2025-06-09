@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "946099994246",
+            "SOLICITUD": "2957832",
+            "CEDULA": "1285723296",
+            "NOMBRES": "JHON ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "3.392.350",
+            "FIRMA ELLECTRONICA": "JHON ÁLVAREZ - 1285723296"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "946099994246",
+            "NOMBRES": "JHON ÁLVAREZ",
+            "CREDITO": "8.375.988",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "150.803",
+            "FIRMA ELLECTRONICA": "JHON ÁLVAREZ - 1285723296",
+            "AL PIE DE LA FIRMA": "JHON ÁLVAREZ - 1285723296"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1285723296",
+            "NOMBRES": "JHON ÁLVAREZ",
+            "FECHA NACIMIENTO": "19/02/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.375.988",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JHON ÁLVAREZ - 1285723296",
+            "AL PIE DE LA FIRMA": "JHON ÁLVAREZ - 1285723296"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2957832",
+            "CEDULA": "1285723296",
+            "NOMBRES": "JHON ÁLVAREZ",
+            "CREDITO": "8.375.988",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "150.803",
+            "E.A": "20.32%",
+            "RECOMPRA O DESEMBOLSO": "3.392.350",
+            "FIRMA ELLECTRONICA": "JHON ÁLVAREZ - 1285723296"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1285723296",
+            "NOMBRES": "JHON ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "JHON ÁLVAREZ - 1285723296"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1285723296",
+            "NOMBRES": "JHON ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "JHON ÁLVAREZ - 1285723296",
+            "AL PIE DE LA FIRMA": "JHON ÁLVAREZ - 1285723296"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1285723296",
+            "NOMBRES": "JHON ÁLVAREZ",
+            "SALARIO": "3.477.087",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1285723296",
+            "NOMBRES": "JHON ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "3.392.350"
+        }
+    }
+]

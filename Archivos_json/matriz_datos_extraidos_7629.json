@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "195204274339",
+            "SOLICITUD": "6976467",
+            "CEDULA": "1505661773",
+            "NOMBRES": "ÁLVARO CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.458.245",
+            "FIRMA ELLECTRONICA": "ÁLVARO CANTILLO - 1505661773"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "195204274339",
+            "NOMBRES": "ÁLVARO CANTILLO",
+            "CREDITO": "12.949.498",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "275.908",
+            "FIRMA ELLECTRONICA": "ÁLVARO CANTILLO - 1505661773",
+            "AL PIE DE LA FIRMA": "ÁLVARO CANTILLO - 1505661773"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1505661773",
+            "NOMBRES": "ÁLVARO CANTILLO",
+            "FECHA NACIMIENTO": "29/09/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.949.498",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ÁLVARO CANTILLO - 1505661773",
+            "AL PIE DE LA FIRMA": "ÁLVARO CANTILLO - 1505661773"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6976467",
+            "CEDULA": "1505661773",
+            "NOMBRES": "ÁLVARO CANTILLO",
+            "CREDITO": "12.949.498",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "275.908",
+            "E.A": "23.85%",
+            "RECOMPRA O DESEMBOLSO": "2.458.245",
+            "FIRMA ELLECTRONICA": "ÁLVARO CANTILLO - 1505661773"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1505661773",
+            "NOMBRES": "ÁLVARO CANTILLO",
+            "FIRMA ELLECTRONICA": "ÁLVARO CANTILLO - 1505661773"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1505661773",
+            "NOMBRES": "ÁLVARO CANTILLO",
+            "FIRMA ELLECTRONICA": "ÁLVARO CANTILLO - 1505661773",
+            "AL PIE DE LA FIRMA": "ÁLVARO CANTILLO - 1505661773"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO CANTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1505661773",
+            "NOMBRES": "ÁLVARO CANTILLO",
+            "SALARIO": "3.977.908",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1505661773",
+            "NOMBRES": "ÁLVARO CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.458.245"
+        }
+    }
+]

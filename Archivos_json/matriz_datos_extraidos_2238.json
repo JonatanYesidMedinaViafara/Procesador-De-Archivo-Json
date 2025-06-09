@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "716491537671",
+            "SOLICITUD": "3813730",
+            "CEDULA": "1237077043",
+            "NOMBRES": "JULIO JAVIER SAAVEDRA",
+            "RECOMPRA O DESEMBOLSO": "1.025.857",
+            "FIRMA ELLECTRONICA": "JULIO JAVIER SAAVEDRA - 1237077043"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "716491537671",
+            "NOMBRES": "JULIO JAVIER SAAVEDRA",
+            "CREDITO": "18.182.584",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "231.519",
+            "FIRMA ELLECTRONICA": "JULIO JAVIER SAAVEDRA - 1237077043",
+            "AL PIE DE LA FIRMA": "JULIO JAVIER SAAVEDRA - 1237077043"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1237077043",
+            "NOMBRES": "JULIO JAVIER SAAVEDRA",
+            "FECHA NACIMIENTO": "02/04/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.182.584",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JULIO JAVIER SAAVEDRA - 1237077043",
+            "AL PIE DE LA FIRMA": "JULIO JAVIER SAAVEDRA - 1237077043"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3813730",
+            "CEDULA": "1237077043",
+            "NOMBRES": "JULIO JAVIER SAAVEDRA",
+            "CREDITO": "18.182.584",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "231.519",
+            "E.A": "26.21%",
+            "RECOMPRA O DESEMBOLSO": "1.025.857",
+            "FIRMA ELLECTRONICA": "JULIO JAVIER SAAVEDRA - 1237077043"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1237077043",
+            "NOMBRES": "JULIO JAVIER SAAVEDRA",
+            "FIRMA ELLECTRONICA": "JULIO JAVIER SAAVEDRA - 1237077043"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1237077043",
+            "NOMBRES": "JULIO JAVIER SAAVEDRA",
+            "FIRMA ELLECTRONICA": "JULIO JAVIER SAAVEDRA - 1237077043",
+            "AL PIE DE LA FIRMA": "JULIO JAVIER SAAVEDRA - 1237077043"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO JAVIER SAAVEDRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1237077043",
+            "NOMBRES": "JULIO JAVIER SAAVEDRA",
+            "SALARIO": "1.122.016",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1237077043",
+            "NOMBRES": "JULIO JAVIER SAAVEDRA",
+            "RECOMPRA O DESEMBOLSO": "1.025.857"
+        }
+    }
+]

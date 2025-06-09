@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "958380269461",
+            "SOLICITUD": "9075736",
+            "CEDULA": "1078192276",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.491.866",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1078192276"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "958380269461",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "CREDITO": "8.597.506",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "163.646",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1078192276",
+            "AL PIE DE LA FIRMA": "ANDRÉS GARCÍA - 1078192276"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1078192276",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "FECHA NACIMIENTO": "06/10/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.597.506",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1078192276",
+            "AL PIE DE LA FIRMA": "ANDRÉS GARCÍA - 1078192276"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9075736",
+            "CEDULA": "1078192276",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "CREDITO": "8.597.506",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "163.646",
+            "E.A": "21.95%",
+            "RECOMPRA O DESEMBOLSO": "2.491.866",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1078192276"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1078192276",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1078192276"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1078192276",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1078192276",
+            "AL PIE DE LA FIRMA": "ANDRÉS GARCÍA - 1078192276"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1078192276",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "SALARIO": "3.362.718",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1078192276",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.491.866"
+        }
+    }
+]

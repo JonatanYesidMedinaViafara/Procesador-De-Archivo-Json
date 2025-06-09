@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "417843253138",
+            "SOLICITUD": "4907504",
+            "CEDULA": "1150355254",
+            "NOMBRES": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.286.586",
+            "FIRMA ELLECTRONICA": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ - 1150355254"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "417843253138",
+            "NOMBRES": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ",
+            "CREDITO": "5.766.708",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "235.393",
+            "FIRMA ELLECTRONICA": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ - 1150355254",
+            "AL PIE DE LA FIRMA": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ - 1150355254"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1150355254",
+            "NOMBRES": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ",
+            "FECHA NACIMIENTO": "19/02/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.766.708",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ - 1150355254",
+            "AL PIE DE LA FIRMA": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ - 1150355254"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4907504",
+            "CEDULA": "1150355254",
+            "NOMBRES": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ",
+            "CREDITO": "5.766.708",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "235.393",
+            "E.A": "21.74%",
+            "RECOMPRA O DESEMBOLSO": "3.286.586",
+            "FIRMA ELLECTRONICA": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ - 1150355254"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1150355254",
+            "NOMBRES": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ - 1150355254"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1150355254",
+            "NOMBRES": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ - 1150355254",
+            "AL PIE DE LA FIRMA": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ - 1150355254"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1150355254",
+            "NOMBRES": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ",
+            "SALARIO": "2.819.636",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1150355254",
+            "NOMBRES": "DIEGO MATEO GUTIÉRREZ HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.286.586"
+        }
+    }
+]

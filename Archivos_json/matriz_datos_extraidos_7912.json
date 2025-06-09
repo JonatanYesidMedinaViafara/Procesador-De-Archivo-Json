@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "356591705507",
+            "SOLICITUD": "8607479",
+            "CEDULA": "1883523521",
+            "NOMBRES": "CAMILO HÉCTOR CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.926.026",
+            "FIRMA ELLECTRONICA": "CAMILO HÉCTOR CASTILLO - 1883523521"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "356591705507",
+            "NOMBRES": "CAMILO HÉCTOR CASTILLO",
+            "CREDITO": "5.901.084",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "242.692",
+            "FIRMA ELLECTRONICA": "CAMILO HÉCTOR CASTILLO - 1883523521",
+            "AL PIE DE LA FIRMA": "CAMILO HÉCTOR CASTILLO - 1883523521"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1883523521",
+            "NOMBRES": "CAMILO HÉCTOR CASTILLO",
+            "FECHA NACIMIENTO": "31/07/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.901.084",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAMILO HÉCTOR CASTILLO - 1883523521",
+            "AL PIE DE LA FIRMA": "CAMILO HÉCTOR CASTILLO - 1883523521"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8607479",
+            "CEDULA": "1883523521",
+            "NOMBRES": "CAMILO HÉCTOR CASTILLO",
+            "CREDITO": "5.901.084",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "242.692",
+            "E.A": "25.26%",
+            "RECOMPRA O DESEMBOLSO": "3.926.026",
+            "FIRMA ELLECTRONICA": "CAMILO HÉCTOR CASTILLO - 1883523521"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1883523521",
+            "NOMBRES": "CAMILO HÉCTOR CASTILLO",
+            "FIRMA ELLECTRONICA": "CAMILO HÉCTOR CASTILLO - 1883523521"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1883523521",
+            "NOMBRES": "CAMILO HÉCTOR CASTILLO",
+            "FIRMA ELLECTRONICA": "CAMILO HÉCTOR CASTILLO - 1883523521",
+            "AL PIE DE LA FIRMA": "CAMILO HÉCTOR CASTILLO - 1883523521"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO HÉCTOR CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1883523521",
+            "NOMBRES": "CAMILO HÉCTOR CASTILLO",
+            "SALARIO": "4.103.809",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1883523521",
+            "NOMBRES": "CAMILO HÉCTOR CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.926.026"
+        }
+    }
+]

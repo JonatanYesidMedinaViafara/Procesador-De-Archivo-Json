@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "897706743142",
+            "SOLICITUD": "8589270",
+            "CEDULA": "1902045723",
+            "NOMBRES": "ANDRÉS HUMBERTO VÁSQUEZ AYALA",
+            "RECOMPRA O DESEMBOLSO": "4.423.767",
+            "FIRMA ELLECTRONICA": "ANDRÉS HUMBERTO VÁSQUEZ AYALA - 1902045723"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "897706743142",
+            "NOMBRES": "ANDRÉS HUMBERTO VÁSQUEZ AYALA",
+            "CREDITO": "9.603.589",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "173.797",
+            "FIRMA ELLECTRONICA": "ANDRÉS HUMBERTO VÁSQUEZ AYALA - 1902045723",
+            "AL PIE DE LA FIRMA": "ANDRÉS HUMBERTO VÁSQUEZ AYALA - 1902045723"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1902045723",
+            "NOMBRES": "ANDRÉS HUMBERTO VÁSQUEZ AYALA",
+            "FECHA NACIMIENTO": "23/02/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.603.589",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS HUMBERTO VÁSQUEZ AYALA - 1902045723",
+            "AL PIE DE LA FIRMA": "ANDRÉS HUMBERTO VÁSQUEZ AYALA - 1902045723"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8589270",
+            "CEDULA": "1902045723",
+            "NOMBRES": "ANDRÉS HUMBERTO VÁSQUEZ AYALA",
+            "CREDITO": "9.603.589",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "173.797",
+            "E.A": "18.39%",
+            "RECOMPRA O DESEMBOLSO": "4.423.767",
+            "FIRMA ELLECTRONICA": "ANDRÉS HUMBERTO VÁSQUEZ AYALA - 1902045723"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1902045723",
+            "NOMBRES": "ANDRÉS HUMBERTO VÁSQUEZ AYALA",
+            "FIRMA ELLECTRONICA": "ANDRÉS HUMBERTO VÁSQUEZ AYALA - 1902045723"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1902045723",
+            "NOMBRES": "ANDRÉS HUMBERTO VÁSQUEZ AYALA",
+            "FIRMA ELLECTRONICA": "ANDRÉS HUMBERTO VÁSQUEZ AYALA - 1902045723",
+            "AL PIE DE LA FIRMA": "ANDRÉS HUMBERTO VÁSQUEZ AYALA - 1902045723"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS HUMBERTO VÁSQUEZ AYALA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1902045723",
+            "NOMBRES": "ANDRÉS HUMBERTO VÁSQUEZ AYALA",
+            "SALARIO": "3.422.309",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1902045723",
+            "NOMBRES": "ANDRÉS HUMBERTO VÁSQUEZ AYALA",
+            "RECOMPRA O DESEMBOLSO": "4.423.767"
+        }
+    }
+]

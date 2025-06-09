@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "287762218060",
+            "SOLICITUD": "9163899",
+            "CEDULA": "1232159190",
+            "NOMBRES": "MARÍA BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "1.332.854",
+            "FIRMA ELLECTRONICA": "MARÍA BEDOYA - 1232159190"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "287762218060",
+            "NOMBRES": "MARÍA BEDOYA",
+            "CREDITO": "18.897.265",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "268.369",
+            "FIRMA ELLECTRONICA": "MARÍA BEDOYA - 1232159190",
+            "AL PIE DE LA FIRMA": "MARÍA BEDOYA - 1232159190"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1232159190",
+            "NOMBRES": "MARÍA BEDOYA",
+            "FECHA NACIMIENTO": "08/03/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.897.265",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA BEDOYA - 1232159190",
+            "AL PIE DE LA FIRMA": "MARÍA BEDOYA - 1232159190"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9163899",
+            "CEDULA": "1232159190",
+            "NOMBRES": "MARÍA BEDOYA",
+            "CREDITO": "18.897.265",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "268.369",
+            "E.A": "22.06%",
+            "RECOMPRA O DESEMBOLSO": "1.332.854",
+            "FIRMA ELLECTRONICA": "MARÍA BEDOYA - 1232159190"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1232159190",
+            "NOMBRES": "MARÍA BEDOYA",
+            "FIRMA ELLECTRONICA": "MARÍA BEDOYA - 1232159190"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1232159190",
+            "NOMBRES": "MARÍA BEDOYA",
+            "FIRMA ELLECTRONICA": "MARÍA BEDOYA - 1232159190",
+            "AL PIE DE LA FIRMA": "MARÍA BEDOYA - 1232159190"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA BEDOYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1232159190",
+            "NOMBRES": "MARÍA BEDOYA",
+            "SALARIO": "4.093.427",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1232159190",
+            "NOMBRES": "MARÍA BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "1.332.854"
+        }
+    }
+]

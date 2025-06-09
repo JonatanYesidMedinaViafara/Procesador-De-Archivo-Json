@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "232810440228",
+            "SOLICITUD": "3912097",
+            "CEDULA": "1717217111",
+            "NOMBRES": "ANDRÉS DANIEL CUESTA",
+            "RECOMPRA O DESEMBOLSO": "1.363.892",
+            "FIRMA ELLECTRONICA": "ANDRÉS DANIEL CUESTA - 1717217111"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "232810440228",
+            "NOMBRES": "ANDRÉS DANIEL CUESTA",
+            "CREDITO": "17.667.723",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "104.342",
+            "FIRMA ELLECTRONICA": "ANDRÉS DANIEL CUESTA - 1717217111",
+            "AL PIE DE LA FIRMA": "ANDRÉS DANIEL CUESTA - 1717217111"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1717217111",
+            "NOMBRES": "ANDRÉS DANIEL CUESTA",
+            "FECHA NACIMIENTO": "25/09/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.667.723",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS DANIEL CUESTA - 1717217111",
+            "AL PIE DE LA FIRMA": "ANDRÉS DANIEL CUESTA - 1717217111"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3912097",
+            "CEDULA": "1717217111",
+            "NOMBRES": "ANDRÉS DANIEL CUESTA",
+            "CREDITO": "17.667.723",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "104.342",
+            "E.A": "28.51%",
+            "RECOMPRA O DESEMBOLSO": "1.363.892",
+            "FIRMA ELLECTRONICA": "ANDRÉS DANIEL CUESTA - 1717217111"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1717217111",
+            "NOMBRES": "ANDRÉS DANIEL CUESTA",
+            "FIRMA ELLECTRONICA": "ANDRÉS DANIEL CUESTA - 1717217111"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1717217111",
+            "NOMBRES": "ANDRÉS DANIEL CUESTA",
+            "FIRMA ELLECTRONICA": "ANDRÉS DANIEL CUESTA - 1717217111",
+            "AL PIE DE LA FIRMA": "ANDRÉS DANIEL CUESTA - 1717217111"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS DANIEL CUESTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1717217111",
+            "NOMBRES": "ANDRÉS DANIEL CUESTA",
+            "SALARIO": "1.625.515",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1717217111",
+            "NOMBRES": "ANDRÉS DANIEL CUESTA",
+            "RECOMPRA O DESEMBOLSO": "1.363.892"
+        }
+    }
+]

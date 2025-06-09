@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "135308013412",
+            "SOLICITUD": "2944604",
+            "CEDULA": "1662250826",
+            "NOMBRES": "MARIO LUIS GAVIRIA PARADA",
+            "RECOMPRA O DESEMBOLSO": "3.699.704",
+            "FIRMA ELLECTRONICA": "MARIO LUIS GAVIRIA PARADA - 1662250826"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "135308013412",
+            "NOMBRES": "MARIO LUIS GAVIRIA PARADA",
+            "CREDITO": "18.317.067",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "100.352",
+            "FIRMA ELLECTRONICA": "MARIO LUIS GAVIRIA PARADA - 1662250826",
+            "AL PIE DE LA FIRMA": "MARIO LUIS GAVIRIA PARADA - 1662250826"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1662250826",
+            "NOMBRES": "MARIO LUIS GAVIRIA PARADA",
+            "FECHA NACIMIENTO": "13/02/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.317.067",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARIO LUIS GAVIRIA PARADA - 1662250826",
+            "AL PIE DE LA FIRMA": "MARIO LUIS GAVIRIA PARADA - 1662250826"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2944604",
+            "CEDULA": "1662250826",
+            "NOMBRES": "MARIO LUIS GAVIRIA PARADA",
+            "CREDITO": "18.317.067",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "100.352",
+            "E.A": "22.89%",
+            "RECOMPRA O DESEMBOLSO": "3.699.704",
+            "FIRMA ELLECTRONICA": "MARIO LUIS GAVIRIA PARADA - 1662250826"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1662250826",
+            "NOMBRES": "MARIO LUIS GAVIRIA PARADA",
+            "FIRMA ELLECTRONICA": "MARIO LUIS GAVIRIA PARADA - 1662250826"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1662250826",
+            "NOMBRES": "MARIO LUIS GAVIRIA PARADA",
+            "FIRMA ELLECTRONICA": "MARIO LUIS GAVIRIA PARADA - 1662250826",
+            "AL PIE DE LA FIRMA": "MARIO LUIS GAVIRIA PARADA - 1662250826"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIO LUIS GAVIRIA PARADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1662250826",
+            "NOMBRES": "MARIO LUIS GAVIRIA PARADA",
+            "SALARIO": "3.346.968",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1662250826",
+            "NOMBRES": "MARIO LUIS GAVIRIA PARADA",
+            "RECOMPRA O DESEMBOLSO": "3.699.704"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "237244814243",
+            "SOLICITUD": "1193377",
+            "CEDULA": "1225066961",
+            "NOMBRES": "FERNANDA CAROLINA SAAVEDRA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.593.334",
+            "FIRMA ELLECTRONICA": "FERNANDA CAROLINA SAAVEDRA GÓMEZ - 1225066961"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "237244814243",
+            "NOMBRES": "FERNANDA CAROLINA SAAVEDRA GÓMEZ",
+            "CREDITO": "12.715.926",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "317.078",
+            "FIRMA ELLECTRONICA": "FERNANDA CAROLINA SAAVEDRA GÓMEZ - 1225066961",
+            "AL PIE DE LA FIRMA": "FERNANDA CAROLINA SAAVEDRA GÓMEZ - 1225066961"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1225066961",
+            "NOMBRES": "FERNANDA CAROLINA SAAVEDRA GÓMEZ",
+            "FECHA NACIMIENTO": "07/08/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.715.926",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDA CAROLINA SAAVEDRA GÓMEZ - 1225066961",
+            "AL PIE DE LA FIRMA": "FERNANDA CAROLINA SAAVEDRA GÓMEZ - 1225066961"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1193377",
+            "CEDULA": "1225066961",
+            "NOMBRES": "FERNANDA CAROLINA SAAVEDRA GÓMEZ",
+            "CREDITO": "12.715.926",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "317.078",
+            "E.A": "22.72%",
+            "RECOMPRA O DESEMBOLSO": "4.593.334",
+            "FIRMA ELLECTRONICA": "FERNANDA CAROLINA SAAVEDRA GÓMEZ - 1225066961"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1225066961",
+            "NOMBRES": "FERNANDA CAROLINA SAAVEDRA GÓMEZ",
+            "FIRMA ELLECTRONICA": "FERNANDA CAROLINA SAAVEDRA GÓMEZ - 1225066961"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1225066961",
+            "NOMBRES": "FERNANDA CAROLINA SAAVEDRA GÓMEZ",
+            "FIRMA ELLECTRONICA": "FERNANDA CAROLINA SAAVEDRA GÓMEZ - 1225066961",
+            "AL PIE DE LA FIRMA": "FERNANDA CAROLINA SAAVEDRA GÓMEZ - 1225066961"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDA CAROLINA SAAVEDRA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1225066961",
+            "NOMBRES": "FERNANDA CAROLINA SAAVEDRA GÓMEZ",
+            "SALARIO": "1.506.922",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1225066961",
+            "NOMBRES": "FERNANDA CAROLINA SAAVEDRA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.593.334"
+        }
+    }
+]

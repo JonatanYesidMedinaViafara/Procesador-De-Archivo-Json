@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "640827229558",
+            "SOLICITUD": "3412231",
+            "CEDULA": "1699623156",
+            "NOMBRES": "FERNANDO RICHARD PÉREZ CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "3.662.689",
+            "FIRMA ELLECTRONICA": "FERNANDO RICHARD PÉREZ CARVAJAL - 1699623156"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "640827229558",
+            "NOMBRES": "FERNANDO RICHARD PÉREZ CARVAJAL",
+            "CREDITO": "11.499.744",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "193.656",
+            "FIRMA ELLECTRONICA": "FERNANDO RICHARD PÉREZ CARVAJAL - 1699623156",
+            "AL PIE DE LA FIRMA": "FERNANDO RICHARD PÉREZ CARVAJAL - 1699623156"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1699623156",
+            "NOMBRES": "FERNANDO RICHARD PÉREZ CARVAJAL",
+            "FECHA NACIMIENTO": "22/11/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.499.744",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FERNANDO RICHARD PÉREZ CARVAJAL - 1699623156",
+            "AL PIE DE LA FIRMA": "FERNANDO RICHARD PÉREZ CARVAJAL - 1699623156"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3412231",
+            "CEDULA": "1699623156",
+            "NOMBRES": "FERNANDO RICHARD PÉREZ CARVAJAL",
+            "CREDITO": "11.499.744",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "193.656",
+            "E.A": "21.83%",
+            "RECOMPRA O DESEMBOLSO": "3.662.689",
+            "FIRMA ELLECTRONICA": "FERNANDO RICHARD PÉREZ CARVAJAL - 1699623156"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1699623156",
+            "NOMBRES": "FERNANDO RICHARD PÉREZ CARVAJAL",
+            "FIRMA ELLECTRONICA": "FERNANDO RICHARD PÉREZ CARVAJAL - 1699623156"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1699623156",
+            "NOMBRES": "FERNANDO RICHARD PÉREZ CARVAJAL",
+            "FIRMA ELLECTRONICA": "FERNANDO RICHARD PÉREZ CARVAJAL - 1699623156",
+            "AL PIE DE LA FIRMA": "FERNANDO RICHARD PÉREZ CARVAJAL - 1699623156"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO RICHARD PÉREZ CARVAJAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1699623156",
+            "NOMBRES": "FERNANDO RICHARD PÉREZ CARVAJAL",
+            "SALARIO": "1.931.767",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1699623156",
+            "NOMBRES": "FERNANDO RICHARD PÉREZ CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "3.662.689"
+        }
+    }
+]

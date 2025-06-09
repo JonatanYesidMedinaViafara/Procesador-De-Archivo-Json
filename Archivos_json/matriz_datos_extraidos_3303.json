@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "778826977560",
+            "SOLICITUD": "1489035",
+            "CEDULA": "1314202648",
+            "NOMBRES": "JOSÉ DUARTE RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "4.131.999",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE RAMÍREZ - 1314202648"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "778826977560",
+            "NOMBRES": "JOSÉ DUARTE RAMÍREZ",
+            "CREDITO": "11.952.719",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "312.928",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE RAMÍREZ - 1314202648",
+            "AL PIE DE LA FIRMA": "JOSÉ DUARTE RAMÍREZ - 1314202648"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1314202648",
+            "NOMBRES": "JOSÉ DUARTE RAMÍREZ",
+            "FECHA NACIMIENTO": "11/11/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.952.719",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE RAMÍREZ - 1314202648",
+            "AL PIE DE LA FIRMA": "JOSÉ DUARTE RAMÍREZ - 1314202648"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1489035",
+            "CEDULA": "1314202648",
+            "NOMBRES": "JOSÉ DUARTE RAMÍREZ",
+            "CREDITO": "11.952.719",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "312.928",
+            "E.A": "27.12%",
+            "RECOMPRA O DESEMBOLSO": "4.131.999",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE RAMÍREZ - 1314202648"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1314202648",
+            "NOMBRES": "JOSÉ DUARTE RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE RAMÍREZ - 1314202648"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1314202648",
+            "NOMBRES": "JOSÉ DUARTE RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE RAMÍREZ - 1314202648",
+            "AL PIE DE LA FIRMA": "JOSÉ DUARTE RAMÍREZ - 1314202648"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ DUARTE RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1314202648",
+            "NOMBRES": "JOSÉ DUARTE RAMÍREZ",
+            "SALARIO": "4.386.908",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1314202648",
+            "NOMBRES": "JOSÉ DUARTE RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "4.131.999"
+        }
+    }
+]

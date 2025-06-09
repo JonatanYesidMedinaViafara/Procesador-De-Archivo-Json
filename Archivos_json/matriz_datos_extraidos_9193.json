@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "117822854075",
+            "SOLICITUD": "7582361",
+            "CEDULA": "1197765361",
+            "NOMBRES": "MARÍA ANGULO DELGADO",
+            "RECOMPRA O DESEMBOLSO": "3.665.760",
+            "FIRMA ELLECTRONICA": "MARÍA ANGULO DELGADO - 1197765361"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "117822854075",
+            "NOMBRES": "MARÍA ANGULO DELGADO",
+            "CREDITO": "5.217.874",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "359.024",
+            "FIRMA ELLECTRONICA": "MARÍA ANGULO DELGADO - 1197765361",
+            "AL PIE DE LA FIRMA": "MARÍA ANGULO DELGADO - 1197765361"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1197765361",
+            "NOMBRES": "MARÍA ANGULO DELGADO",
+            "FECHA NACIMIENTO": "20/04/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.217.874",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA ANGULO DELGADO - 1197765361",
+            "AL PIE DE LA FIRMA": "MARÍA ANGULO DELGADO - 1197765361"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7582361",
+            "CEDULA": "1197765361",
+            "NOMBRES": "MARÍA ANGULO DELGADO",
+            "CREDITO": "5.217.874",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "359.024",
+            "E.A": "19.26%",
+            "RECOMPRA O DESEMBOLSO": "3.665.760",
+            "FIRMA ELLECTRONICA": "MARÍA ANGULO DELGADO - 1197765361"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1197765361",
+            "NOMBRES": "MARÍA ANGULO DELGADO",
+            "FIRMA ELLECTRONICA": "MARÍA ANGULO DELGADO - 1197765361"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1197765361",
+            "NOMBRES": "MARÍA ANGULO DELGADO",
+            "FIRMA ELLECTRONICA": "MARÍA ANGULO DELGADO - 1197765361",
+            "AL PIE DE LA FIRMA": "MARÍA ANGULO DELGADO - 1197765361"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ANGULO DELGADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1197765361",
+            "NOMBRES": "MARÍA ANGULO DELGADO",
+            "SALARIO": "3.727.018",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1197765361",
+            "NOMBRES": "MARÍA ANGULO DELGADO",
+            "RECOMPRA O DESEMBOLSO": "3.665.760"
+        }
+    }
+]

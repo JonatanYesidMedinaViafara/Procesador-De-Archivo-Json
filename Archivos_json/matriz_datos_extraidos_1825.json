@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "776064399501",
+            "SOLICITUD": "6960180",
+            "CEDULA": "1524074351",
+            "NOMBRES": "JUAN VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.681.599",
+            "FIRMA ELLECTRONICA": "JUAN VALENCIA - 1524074351"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "776064399501",
+            "NOMBRES": "JUAN VALENCIA",
+            "CREDITO": "14.345.236",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "209.609",
+            "FIRMA ELLECTRONICA": "JUAN VALENCIA - 1524074351",
+            "AL PIE DE LA FIRMA": "JUAN VALENCIA - 1524074351"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1524074351",
+            "NOMBRES": "JUAN VALENCIA",
+            "FECHA NACIMIENTO": "03/11/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.345.236",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN VALENCIA - 1524074351",
+            "AL PIE DE LA FIRMA": "JUAN VALENCIA - 1524074351"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6960180",
+            "CEDULA": "1524074351",
+            "NOMBRES": "JUAN VALENCIA",
+            "CREDITO": "14.345.236",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "209.609",
+            "E.A": "26.84%",
+            "RECOMPRA O DESEMBOLSO": "3.681.599",
+            "FIRMA ELLECTRONICA": "JUAN VALENCIA - 1524074351"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1524074351",
+            "NOMBRES": "JUAN VALENCIA",
+            "FIRMA ELLECTRONICA": "JUAN VALENCIA - 1524074351"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1524074351",
+            "NOMBRES": "JUAN VALENCIA",
+            "FIRMA ELLECTRONICA": "JUAN VALENCIA - 1524074351",
+            "AL PIE DE LA FIRMA": "JUAN VALENCIA - 1524074351"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1524074351",
+            "NOMBRES": "JUAN VALENCIA",
+            "SALARIO": "1.306.638",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1524074351",
+            "NOMBRES": "JUAN VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.681.599"
+        }
+    }
+]

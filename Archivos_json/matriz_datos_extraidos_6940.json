@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "891574751060",
+            "SOLICITUD": "9998836",
+            "CEDULA": "1212844971",
+            "NOMBRES": "EDITH LAURA MORENO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.039.513",
+            "FIRMA ELLECTRONICA": "EDITH LAURA MORENO MUÑOZ - 1212844971"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "891574751060",
+            "NOMBRES": "EDITH LAURA MORENO MUÑOZ",
+            "CREDITO": "6.633.649",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "366.536",
+            "FIRMA ELLECTRONICA": "EDITH LAURA MORENO MUÑOZ - 1212844971",
+            "AL PIE DE LA FIRMA": "EDITH LAURA MORENO MUÑOZ - 1212844971"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1212844971",
+            "NOMBRES": "EDITH LAURA MORENO MUÑOZ",
+            "FECHA NACIMIENTO": "12/02/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.633.649",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "EDITH LAURA MORENO MUÑOZ - 1212844971",
+            "AL PIE DE LA FIRMA": "EDITH LAURA MORENO MUÑOZ - 1212844971"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9998836",
+            "CEDULA": "1212844971",
+            "NOMBRES": "EDITH LAURA MORENO MUÑOZ",
+            "CREDITO": "6.633.649",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "366.536",
+            "E.A": "25.96%",
+            "RECOMPRA O DESEMBOLSO": "3.039.513",
+            "FIRMA ELLECTRONICA": "EDITH LAURA MORENO MUÑOZ - 1212844971"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1212844971",
+            "NOMBRES": "EDITH LAURA MORENO MUÑOZ",
+            "FIRMA ELLECTRONICA": "EDITH LAURA MORENO MUÑOZ - 1212844971"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1212844971",
+            "NOMBRES": "EDITH LAURA MORENO MUÑOZ",
+            "FIRMA ELLECTRONICA": "EDITH LAURA MORENO MUÑOZ - 1212844971",
+            "AL PIE DE LA FIRMA": "EDITH LAURA MORENO MUÑOZ - 1212844971"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDITH LAURA MORENO MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1212844971",
+            "NOMBRES": "EDITH LAURA MORENO MUÑOZ",
+            "SALARIO": "1.422.109",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1212844971",
+            "NOMBRES": "EDITH LAURA MORENO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.039.513"
+        }
+    }
+]

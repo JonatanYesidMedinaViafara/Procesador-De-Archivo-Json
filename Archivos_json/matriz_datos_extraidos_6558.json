@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "170515332258",
+            "SOLICITUD": "2503380",
+            "CEDULA": "1010738674",
+            "NOMBRES": "GLORIA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.787.420",
+            "FIRMA ELLECTRONICA": "GLORIA QUINTERO - 1010738674"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "170515332258",
+            "NOMBRES": "GLORIA QUINTERO",
+            "CREDITO": "16.609.559",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "289.67",
+            "FIRMA ELLECTRONICA": "GLORIA QUINTERO - 1010738674",
+            "AL PIE DE LA FIRMA": "GLORIA QUINTERO - 1010738674"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1010738674",
+            "NOMBRES": "GLORIA QUINTERO",
+            "FECHA NACIMIENTO": "07/05/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.609.559",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "GLORIA QUINTERO - 1010738674",
+            "AL PIE DE LA FIRMA": "GLORIA QUINTERO - 1010738674"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2503380",
+            "CEDULA": "1010738674",
+            "NOMBRES": "GLORIA QUINTERO",
+            "CREDITO": "16.609.559",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "289.67",
+            "E.A": "18.99%",
+            "RECOMPRA O DESEMBOLSO": "3.787.420",
+            "FIRMA ELLECTRONICA": "GLORIA QUINTERO - 1010738674"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1010738674",
+            "NOMBRES": "GLORIA QUINTERO",
+            "FIRMA ELLECTRONICA": "GLORIA QUINTERO - 1010738674"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1010738674",
+            "NOMBRES": "GLORIA QUINTERO",
+            "FIRMA ELLECTRONICA": "GLORIA QUINTERO - 1010738674",
+            "AL PIE DE LA FIRMA": "GLORIA QUINTERO - 1010738674"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GLORIA QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1010738674",
+            "NOMBRES": "GLORIA QUINTERO",
+            "SALARIO": "2.931.271",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1010738674",
+            "NOMBRES": "GLORIA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.787.420"
+        }
+    }
+]

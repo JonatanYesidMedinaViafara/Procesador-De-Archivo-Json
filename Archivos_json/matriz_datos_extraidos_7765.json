@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "555550144643",
+            "SOLICITUD": "7743528",
+            "CEDULA": "1582308115",
+            "NOMBRES": "JORGE ANDERSON CUESTA ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.330.196",
+            "FIRMA ELLECTRONICA": "JORGE ANDERSON CUESTA ÁLVAREZ - 1582308115"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "555550144643",
+            "NOMBRES": "JORGE ANDERSON CUESTA ÁLVAREZ",
+            "CREDITO": "8.765.477",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "182.978",
+            "FIRMA ELLECTRONICA": "JORGE ANDERSON CUESTA ÁLVAREZ - 1582308115",
+            "AL PIE DE LA FIRMA": "JORGE ANDERSON CUESTA ÁLVAREZ - 1582308115"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1582308115",
+            "NOMBRES": "JORGE ANDERSON CUESTA ÁLVAREZ",
+            "FECHA NACIMIENTO": "21/03/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.765.477",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JORGE ANDERSON CUESTA ÁLVAREZ - 1582308115",
+            "AL PIE DE LA FIRMA": "JORGE ANDERSON CUESTA ÁLVAREZ - 1582308115"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7743528",
+            "CEDULA": "1582308115",
+            "NOMBRES": "JORGE ANDERSON CUESTA ÁLVAREZ",
+            "CREDITO": "8.765.477",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "182.978",
+            "E.A": "20.44%",
+            "RECOMPRA O DESEMBOLSO": "4.330.196",
+            "FIRMA ELLECTRONICA": "JORGE ANDERSON CUESTA ÁLVAREZ - 1582308115"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1582308115",
+            "NOMBRES": "JORGE ANDERSON CUESTA ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "JORGE ANDERSON CUESTA ÁLVAREZ - 1582308115"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1582308115",
+            "NOMBRES": "JORGE ANDERSON CUESTA ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "JORGE ANDERSON CUESTA ÁLVAREZ - 1582308115",
+            "AL PIE DE LA FIRMA": "JORGE ANDERSON CUESTA ÁLVAREZ - 1582308115"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE ANDERSON CUESTA ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1582308115",
+            "NOMBRES": "JORGE ANDERSON CUESTA ÁLVAREZ",
+            "SALARIO": "1.744.709",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1582308115",
+            "NOMBRES": "JORGE ANDERSON CUESTA ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.330.196"
+        }
+    }
+]

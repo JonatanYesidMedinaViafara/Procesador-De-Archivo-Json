@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "474808852249",
+            "SOLICITUD": "7745049",
+            "CEDULA": "1437439253",
+            "NOMBRES": "JORGE ROMERO CARDONA",
+            "RECOMPRA O DESEMBOLSO": "1.693.542",
+            "FIRMA ELLECTRONICA": "JORGE ROMERO CARDONA - 1437439253"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "474808852249",
+            "NOMBRES": "JORGE ROMERO CARDONA",
+            "CREDITO": "17.700.400",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "356.865",
+            "FIRMA ELLECTRONICA": "JORGE ROMERO CARDONA - 1437439253",
+            "AL PIE DE LA FIRMA": "JORGE ROMERO CARDONA - 1437439253"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1437439253",
+            "NOMBRES": "JORGE ROMERO CARDONA",
+            "FECHA NACIMIENTO": "03/02/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.700.400",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JORGE ROMERO CARDONA - 1437439253",
+            "AL PIE DE LA FIRMA": "JORGE ROMERO CARDONA - 1437439253"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7745049",
+            "CEDULA": "1437439253",
+            "NOMBRES": "JORGE ROMERO CARDONA",
+            "CREDITO": "17.700.400",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "356.865",
+            "E.A": "18.05%",
+            "RECOMPRA O DESEMBOLSO": "1.693.542",
+            "FIRMA ELLECTRONICA": "JORGE ROMERO CARDONA - 1437439253"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1437439253",
+            "NOMBRES": "JORGE ROMERO CARDONA",
+            "FIRMA ELLECTRONICA": "JORGE ROMERO CARDONA - 1437439253"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1437439253",
+            "NOMBRES": "JORGE ROMERO CARDONA",
+            "FIRMA ELLECTRONICA": "JORGE ROMERO CARDONA - 1437439253",
+            "AL PIE DE LA FIRMA": "JORGE ROMERO CARDONA - 1437439253"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE ROMERO CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1437439253",
+            "NOMBRES": "JORGE ROMERO CARDONA",
+            "SALARIO": "3.672.978",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1437439253",
+            "NOMBRES": "JORGE ROMERO CARDONA",
+            "RECOMPRA O DESEMBOLSO": "1.693.542"
+        }
+    }
+]

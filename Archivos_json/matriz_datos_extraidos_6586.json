@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "289156974404",
+            "SOLICITUD": "9239508",
+            "CEDULA": "1658953371",
+            "NOMBRES": "SANTIAGO ROMERO MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "4.254.111",
+            "FIRMA ELLECTRONICA": "SANTIAGO ROMERO MENDOZA - 1658953371"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "289156974404",
+            "NOMBRES": "SANTIAGO ROMERO MENDOZA",
+            "CREDITO": "19.647.103",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "380.879",
+            "FIRMA ELLECTRONICA": "SANTIAGO ROMERO MENDOZA - 1658953371",
+            "AL PIE DE LA FIRMA": "SANTIAGO ROMERO MENDOZA - 1658953371"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1658953371",
+            "NOMBRES": "SANTIAGO ROMERO MENDOZA",
+            "FECHA NACIMIENTO": "05/08/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.647.103",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SANTIAGO ROMERO MENDOZA - 1658953371",
+            "AL PIE DE LA FIRMA": "SANTIAGO ROMERO MENDOZA - 1658953371"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9239508",
+            "CEDULA": "1658953371",
+            "NOMBRES": "SANTIAGO ROMERO MENDOZA",
+            "CREDITO": "19.647.103",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "380.879",
+            "E.A": "28.85%",
+            "RECOMPRA O DESEMBOLSO": "4.254.111",
+            "FIRMA ELLECTRONICA": "SANTIAGO ROMERO MENDOZA - 1658953371"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1658953371",
+            "NOMBRES": "SANTIAGO ROMERO MENDOZA",
+            "FIRMA ELLECTRONICA": "SANTIAGO ROMERO MENDOZA - 1658953371"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1658953371",
+            "NOMBRES": "SANTIAGO ROMERO MENDOZA",
+            "FIRMA ELLECTRONICA": "SANTIAGO ROMERO MENDOZA - 1658953371",
+            "AL PIE DE LA FIRMA": "SANTIAGO ROMERO MENDOZA - 1658953371"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANTIAGO ROMERO MENDOZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1658953371",
+            "NOMBRES": "SANTIAGO ROMERO MENDOZA",
+            "SALARIO": "3.929.837",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1658953371",
+            "NOMBRES": "SANTIAGO ROMERO MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "4.254.111"
+        }
+    }
+]

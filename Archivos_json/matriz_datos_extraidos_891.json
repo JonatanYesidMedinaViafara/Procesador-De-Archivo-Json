@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "461754201372",
+            "SOLICITUD": "7201049",
+            "CEDULA": "1912360601",
+            "NOMBRES": "SAMIR FABIÁN PEDRAZA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.840.421",
+            "FIRMA ELLECTRONICA": "SAMIR FABIÁN PEDRAZA VARGAS - 1912360601"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "461754201372",
+            "NOMBRES": "SAMIR FABIÁN PEDRAZA VARGAS",
+            "CREDITO": "19.270.514",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "249.835",
+            "FIRMA ELLECTRONICA": "SAMIR FABIÁN PEDRAZA VARGAS - 1912360601",
+            "AL PIE DE LA FIRMA": "SAMIR FABIÁN PEDRAZA VARGAS - 1912360601"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1912360601",
+            "NOMBRES": "SAMIR FABIÁN PEDRAZA VARGAS",
+            "FECHA NACIMIENTO": "10/12/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.270.514",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SAMIR FABIÁN PEDRAZA VARGAS - 1912360601",
+            "AL PIE DE LA FIRMA": "SAMIR FABIÁN PEDRAZA VARGAS - 1912360601"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7201049",
+            "CEDULA": "1912360601",
+            "NOMBRES": "SAMIR FABIÁN PEDRAZA VARGAS",
+            "CREDITO": "19.270.514",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "249.835",
+            "E.A": "21.2%",
+            "RECOMPRA O DESEMBOLSO": "3.840.421",
+            "FIRMA ELLECTRONICA": "SAMIR FABIÁN PEDRAZA VARGAS - 1912360601"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1912360601",
+            "NOMBRES": "SAMIR FABIÁN PEDRAZA VARGAS",
+            "FIRMA ELLECTRONICA": "SAMIR FABIÁN PEDRAZA VARGAS - 1912360601"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1912360601",
+            "NOMBRES": "SAMIR FABIÁN PEDRAZA VARGAS",
+            "FIRMA ELLECTRONICA": "SAMIR FABIÁN PEDRAZA VARGAS - 1912360601",
+            "AL PIE DE LA FIRMA": "SAMIR FABIÁN PEDRAZA VARGAS - 1912360601"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SAMIR FABIÁN PEDRAZA VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1912360601",
+            "NOMBRES": "SAMIR FABIÁN PEDRAZA VARGAS",
+            "SALARIO": "2.234.835",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1912360601",
+            "NOMBRES": "SAMIR FABIÁN PEDRAZA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.840.421"
+        }
+    }
+]

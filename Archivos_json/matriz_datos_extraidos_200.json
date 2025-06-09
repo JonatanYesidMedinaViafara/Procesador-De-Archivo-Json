@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "945853091662",
+            "SOLICITUD": "6494486",
+            "CEDULA": "1573544109",
+            "NOMBRES": "CARLOS SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.701.724",
+            "FIRMA ELLECTRONICA": "CARLOS SÁNCHEZ - 1573544109"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "945853091662",
+            "NOMBRES": "CARLOS SÁNCHEZ",
+            "CREDITO": "13.204.163",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "117.794",
+            "FIRMA ELLECTRONICA": "CARLOS SÁNCHEZ - 1573544109",
+            "AL PIE DE LA FIRMA": "CARLOS SÁNCHEZ - 1573544109"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1573544109",
+            "NOMBRES": "CARLOS SÁNCHEZ",
+            "FECHA NACIMIENTO": "15/06/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.204.163",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS SÁNCHEZ - 1573544109",
+            "AL PIE DE LA FIRMA": "CARLOS SÁNCHEZ - 1573544109"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6494486",
+            "CEDULA": "1573544109",
+            "NOMBRES": "CARLOS SÁNCHEZ",
+            "CREDITO": "13.204.163",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "117.794",
+            "E.A": "23.36%",
+            "RECOMPRA O DESEMBOLSO": "1.701.724",
+            "FIRMA ELLECTRONICA": "CARLOS SÁNCHEZ - 1573544109"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1573544109",
+            "NOMBRES": "CARLOS SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "CARLOS SÁNCHEZ - 1573544109"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1573544109",
+            "NOMBRES": "CARLOS SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "CARLOS SÁNCHEZ - 1573544109",
+            "AL PIE DE LA FIRMA": "CARLOS SÁNCHEZ - 1573544109"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1573544109",
+            "NOMBRES": "CARLOS SÁNCHEZ",
+            "SALARIO": "4.927.837",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1573544109",
+            "NOMBRES": "CARLOS SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.701.724"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "175130954766",
+            "SOLICITUD": "7381101",
+            "CEDULA": "1492026258",
+            "NOMBRES": "DAVID HÉCTOR BERNAL",
+            "RECOMPRA O DESEMBOLSO": "2.718.731",
+            "FIRMA ELLECTRONICA": "DAVID HÉCTOR BERNAL - 1492026258"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "175130954766",
+            "NOMBRES": "DAVID HÉCTOR BERNAL",
+            "CREDITO": "12.525.561",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "330.042",
+            "FIRMA ELLECTRONICA": "DAVID HÉCTOR BERNAL - 1492026258",
+            "AL PIE DE LA FIRMA": "DAVID HÉCTOR BERNAL - 1492026258"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1492026258",
+            "NOMBRES": "DAVID HÉCTOR BERNAL",
+            "FECHA NACIMIENTO": "29/01/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.525.561",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DAVID HÉCTOR BERNAL - 1492026258",
+            "AL PIE DE LA FIRMA": "DAVID HÉCTOR BERNAL - 1492026258"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7381101",
+            "CEDULA": "1492026258",
+            "NOMBRES": "DAVID HÉCTOR BERNAL",
+            "CREDITO": "12.525.561",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "330.042",
+            "E.A": "23.97%",
+            "RECOMPRA O DESEMBOLSO": "2.718.731",
+            "FIRMA ELLECTRONICA": "DAVID HÉCTOR BERNAL - 1492026258"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1492026258",
+            "NOMBRES": "DAVID HÉCTOR BERNAL",
+            "FIRMA ELLECTRONICA": "DAVID HÉCTOR BERNAL - 1492026258"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1492026258",
+            "NOMBRES": "DAVID HÉCTOR BERNAL",
+            "FIRMA ELLECTRONICA": "DAVID HÉCTOR BERNAL - 1492026258",
+            "AL PIE DE LA FIRMA": "DAVID HÉCTOR BERNAL - 1492026258"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID HÉCTOR BERNAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1492026258",
+            "NOMBRES": "DAVID HÉCTOR BERNAL",
+            "SALARIO": "2.603.210",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1492026258",
+            "NOMBRES": "DAVID HÉCTOR BERNAL",
+            "RECOMPRA O DESEMBOLSO": "2.718.731"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "416666761975",
+            "SOLICITUD": "7114326",
+            "CEDULA": "1302068993",
+            "NOMBRES": "JONATHAN JESÚS ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.936.534",
+            "FIRMA ELLECTRONICA": "JONATHAN JESÚS ROJAS - 1302068993"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "416666761975",
+            "NOMBRES": "JONATHAN JESÚS ROJAS",
+            "CREDITO": "17.925.216",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "195.932",
+            "FIRMA ELLECTRONICA": "JONATHAN JESÚS ROJAS - 1302068993",
+            "AL PIE DE LA FIRMA": "JONATHAN JESÚS ROJAS - 1302068993"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1302068993",
+            "NOMBRES": "JONATHAN JESÚS ROJAS",
+            "FECHA NACIMIENTO": "16/05/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.925.216",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JONATHAN JESÚS ROJAS - 1302068993",
+            "AL PIE DE LA FIRMA": "JONATHAN JESÚS ROJAS - 1302068993"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7114326",
+            "CEDULA": "1302068993",
+            "NOMBRES": "JONATHAN JESÚS ROJAS",
+            "CREDITO": "17.925.216",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "195.932",
+            "E.A": "21.67%",
+            "RECOMPRA O DESEMBOLSO": "2.936.534",
+            "FIRMA ELLECTRONICA": "JONATHAN JESÚS ROJAS - 1302068993"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1302068993",
+            "NOMBRES": "JONATHAN JESÚS ROJAS",
+            "FIRMA ELLECTRONICA": "JONATHAN JESÚS ROJAS - 1302068993"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1302068993",
+            "NOMBRES": "JONATHAN JESÚS ROJAS",
+            "FIRMA ELLECTRONICA": "JONATHAN JESÚS ROJAS - 1302068993",
+            "AL PIE DE LA FIRMA": "JONATHAN JESÚS ROJAS - 1302068993"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JONATHAN JESÚS ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1302068993",
+            "NOMBRES": "JONATHAN JESÚS ROJAS",
+            "SALARIO": "4.016.083",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1302068993",
+            "NOMBRES": "JONATHAN JESÚS ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.936.534"
+        }
+    }
+]

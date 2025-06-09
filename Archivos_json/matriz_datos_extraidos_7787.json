@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "838849886299",
+            "SOLICITUD": "7922279",
+            "CEDULA": "1467468502",
+            "NOMBRES": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.117.253",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ - 1467468502"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "838849886299",
+            "NOMBRES": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ",
+            "CREDITO": "15.405.343",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "215.756",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ - 1467468502",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ - 1467468502"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1467468502",
+            "NOMBRES": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ",
+            "FECHA NACIMIENTO": "29/06/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.405.343",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ - 1467468502",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ - 1467468502"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7922279",
+            "CEDULA": "1467468502",
+            "NOMBRES": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ",
+            "CREDITO": "15.405.343",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "215.756",
+            "E.A": "25.22%",
+            "RECOMPRA O DESEMBOLSO": "2.117.253",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ - 1467468502"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1467468502",
+            "NOMBRES": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ - 1467468502"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1467468502",
+            "NOMBRES": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ - 1467468502",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ - 1467468502"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1467468502",
+            "NOMBRES": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ",
+            "SALARIO": "4.093.645",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1467468502",
+            "NOMBRES": "MAURICIO ANDRÉS CAICEDO BERMÚDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.117.253"
+        }
+    }
+]

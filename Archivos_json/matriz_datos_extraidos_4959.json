@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "994070926297",
+            "SOLICITUD": "5685520",
+            "CEDULA": "1136391590",
+            "NOMBRES": "ALEJANDRA CONTRERAS JAIMES",
+            "RECOMPRA O DESEMBOLSO": "1.144.944",
+            "FIRMA ELLECTRONICA": "ALEJANDRA CONTRERAS JAIMES - 1136391590"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "994070926297",
+            "NOMBRES": "ALEJANDRA CONTRERAS JAIMES",
+            "CREDITO": "15.498.512",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "185.557",
+            "FIRMA ELLECTRONICA": "ALEJANDRA CONTRERAS JAIMES - 1136391590",
+            "AL PIE DE LA FIRMA": "ALEJANDRA CONTRERAS JAIMES - 1136391590"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1136391590",
+            "NOMBRES": "ALEJANDRA CONTRERAS JAIMES",
+            "FECHA NACIMIENTO": "10/04/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.498.512",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALEJANDRA CONTRERAS JAIMES - 1136391590",
+            "AL PIE DE LA FIRMA": "ALEJANDRA CONTRERAS JAIMES - 1136391590"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5685520",
+            "CEDULA": "1136391590",
+            "NOMBRES": "ALEJANDRA CONTRERAS JAIMES",
+            "CREDITO": "15.498.512",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "185.557",
+            "E.A": "25.8%",
+            "RECOMPRA O DESEMBOLSO": "1.144.944",
+            "FIRMA ELLECTRONICA": "ALEJANDRA CONTRERAS JAIMES - 1136391590"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1136391590",
+            "NOMBRES": "ALEJANDRA CONTRERAS JAIMES",
+            "FIRMA ELLECTRONICA": "ALEJANDRA CONTRERAS JAIMES - 1136391590"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1136391590",
+            "NOMBRES": "ALEJANDRA CONTRERAS JAIMES",
+            "FIRMA ELLECTRONICA": "ALEJANDRA CONTRERAS JAIMES - 1136391590",
+            "AL PIE DE LA FIRMA": "ALEJANDRA CONTRERAS JAIMES - 1136391590"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRA CONTRERAS JAIMES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1136391590",
+            "NOMBRES": "ALEJANDRA CONTRERAS JAIMES",
+            "SALARIO": "3.014.477",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1136391590",
+            "NOMBRES": "ALEJANDRA CONTRERAS JAIMES",
+            "RECOMPRA O DESEMBOLSO": "1.144.944"
+        }
+    }
+]

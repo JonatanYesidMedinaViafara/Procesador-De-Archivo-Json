@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "704060464992",
+            "SOLICITUD": "4058090",
+            "CEDULA": "1411962259",
+            "NOMBRES": "ANA YUDY LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.629.116",
+            "FIRMA ELLECTRONICA": "ANA YUDY LÓPEZ - 1411962259"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "704060464992",
+            "NOMBRES": "ANA YUDY LÓPEZ",
+            "CREDITO": "17.297.961",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "399.541",
+            "FIRMA ELLECTRONICA": "ANA YUDY LÓPEZ - 1411962259",
+            "AL PIE DE LA FIRMA": "ANA YUDY LÓPEZ - 1411962259"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1411962259",
+            "NOMBRES": "ANA YUDY LÓPEZ",
+            "FECHA NACIMIENTO": "26/08/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.297.961",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANA YUDY LÓPEZ - 1411962259",
+            "AL PIE DE LA FIRMA": "ANA YUDY LÓPEZ - 1411962259"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4058090",
+            "CEDULA": "1411962259",
+            "NOMBRES": "ANA YUDY LÓPEZ",
+            "CREDITO": "17.297.961",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "399.541",
+            "E.A": "25.66%",
+            "RECOMPRA O DESEMBOLSO": "1.629.116",
+            "FIRMA ELLECTRONICA": "ANA YUDY LÓPEZ - 1411962259"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1411962259",
+            "NOMBRES": "ANA YUDY LÓPEZ",
+            "FIRMA ELLECTRONICA": "ANA YUDY LÓPEZ - 1411962259"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1411962259",
+            "NOMBRES": "ANA YUDY LÓPEZ",
+            "FIRMA ELLECTRONICA": "ANA YUDY LÓPEZ - 1411962259",
+            "AL PIE DE LA FIRMA": "ANA YUDY LÓPEZ - 1411962259"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA YUDY LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1411962259",
+            "NOMBRES": "ANA YUDY LÓPEZ",
+            "SALARIO": "2.912.166",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1411962259",
+            "NOMBRES": "ANA YUDY LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.629.116"
+        }
+    }
+]

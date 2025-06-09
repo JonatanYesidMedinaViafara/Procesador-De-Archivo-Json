@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "220192020090",
+            "SOLICITUD": "2524680",
+            "CEDULA": "1563926201",
+            "NOMBRES": "XIOMARA GLORIA BENÍTEZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.269.402",
+            "FIRMA ELLECTRONICA": "XIOMARA GLORIA BENÍTEZ VALENCIA - 1563926201"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "220192020090",
+            "NOMBRES": "XIOMARA GLORIA BENÍTEZ VALENCIA",
+            "CREDITO": "11.442.139",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.488",
+            "FIRMA ELLECTRONICA": "XIOMARA GLORIA BENÍTEZ VALENCIA - 1563926201",
+            "AL PIE DE LA FIRMA": "XIOMARA GLORIA BENÍTEZ VALENCIA - 1563926201"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1563926201",
+            "NOMBRES": "XIOMARA GLORIA BENÍTEZ VALENCIA",
+            "FECHA NACIMIENTO": "28/02/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.442.139",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "XIOMARA GLORIA BENÍTEZ VALENCIA - 1563926201",
+            "AL PIE DE LA FIRMA": "XIOMARA GLORIA BENÍTEZ VALENCIA - 1563926201"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2524680",
+            "CEDULA": "1563926201",
+            "NOMBRES": "XIOMARA GLORIA BENÍTEZ VALENCIA",
+            "CREDITO": "11.442.139",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.488",
+            "E.A": "26.33%",
+            "RECOMPRA O DESEMBOLSO": "1.269.402",
+            "FIRMA ELLECTRONICA": "XIOMARA GLORIA BENÍTEZ VALENCIA - 1563926201"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1563926201",
+            "NOMBRES": "XIOMARA GLORIA BENÍTEZ VALENCIA",
+            "FIRMA ELLECTRONICA": "XIOMARA GLORIA BENÍTEZ VALENCIA - 1563926201"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1563926201",
+            "NOMBRES": "XIOMARA GLORIA BENÍTEZ VALENCIA",
+            "FIRMA ELLECTRONICA": "XIOMARA GLORIA BENÍTEZ VALENCIA - 1563926201",
+            "AL PIE DE LA FIRMA": "XIOMARA GLORIA BENÍTEZ VALENCIA - 1563926201"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "XIOMARA GLORIA BENÍTEZ VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1563926201",
+            "NOMBRES": "XIOMARA GLORIA BENÍTEZ VALENCIA",
+            "SALARIO": "1.960.719",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1563926201",
+            "NOMBRES": "XIOMARA GLORIA BENÍTEZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.269.402"
+        }
+    }
+]

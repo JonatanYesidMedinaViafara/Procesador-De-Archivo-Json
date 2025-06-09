@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "413022342369",
+            "SOLICITUD": "8610893",
+            "CEDULA": "1284840262",
+            "NOMBRES": "CRISTIAN CORREA BARBOSA",
+            "RECOMPRA O DESEMBOLSO": "3.712.437",
+            "FIRMA ELLECTRONICA": "CRISTIAN CORREA BARBOSA - 1284840262"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "413022342369",
+            "NOMBRES": "CRISTIAN CORREA BARBOSA",
+            "CREDITO": "10.273.127",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "183.016",
+            "FIRMA ELLECTRONICA": "CRISTIAN CORREA BARBOSA - 1284840262",
+            "AL PIE DE LA FIRMA": "CRISTIAN CORREA BARBOSA - 1284840262"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1284840262",
+            "NOMBRES": "CRISTIAN CORREA BARBOSA",
+            "FECHA NACIMIENTO": "15/10/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.273.127",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CRISTIAN CORREA BARBOSA - 1284840262",
+            "AL PIE DE LA FIRMA": "CRISTIAN CORREA BARBOSA - 1284840262"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8610893",
+            "CEDULA": "1284840262",
+            "NOMBRES": "CRISTIAN CORREA BARBOSA",
+            "CREDITO": "10.273.127",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "183.016",
+            "E.A": "20.1%",
+            "RECOMPRA O DESEMBOLSO": "3.712.437",
+            "FIRMA ELLECTRONICA": "CRISTIAN CORREA BARBOSA - 1284840262"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1284840262",
+            "NOMBRES": "CRISTIAN CORREA BARBOSA",
+            "FIRMA ELLECTRONICA": "CRISTIAN CORREA BARBOSA - 1284840262"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1284840262",
+            "NOMBRES": "CRISTIAN CORREA BARBOSA",
+            "FIRMA ELLECTRONICA": "CRISTIAN CORREA BARBOSA - 1284840262",
+            "AL PIE DE LA FIRMA": "CRISTIAN CORREA BARBOSA - 1284840262"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTIAN CORREA BARBOSA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1284840262",
+            "NOMBRES": "CRISTIAN CORREA BARBOSA",
+            "SALARIO": "3.046.563",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1284840262",
+            "NOMBRES": "CRISTIAN CORREA BARBOSA",
+            "RECOMPRA O DESEMBOLSO": "3.712.437"
+        }
+    }
+]

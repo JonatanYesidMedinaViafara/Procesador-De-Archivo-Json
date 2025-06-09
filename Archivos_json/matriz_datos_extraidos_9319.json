@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "731473236823",
+            "SOLICITUD": "6338033",
+            "CEDULA": "1149285404",
+            "NOMBRES": "VANESA PADILLA",
+            "RECOMPRA O DESEMBOLSO": "3.846.407",
+            "FIRMA ELLECTRONICA": "VANESA PADILLA - 1149285404"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "731473236823",
+            "NOMBRES": "VANESA PADILLA",
+            "CREDITO": "17.586.382",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.391",
+            "FIRMA ELLECTRONICA": "VANESA PADILLA - 1149285404",
+            "AL PIE DE LA FIRMA": "VANESA PADILLA - 1149285404"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1149285404",
+            "NOMBRES": "VANESA PADILLA",
+            "FECHA NACIMIENTO": "10/11/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.586.382",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "VANESA PADILLA - 1149285404",
+            "AL PIE DE LA FIRMA": "VANESA PADILLA - 1149285404"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6338033",
+            "CEDULA": "1149285404",
+            "NOMBRES": "VANESA PADILLA",
+            "CREDITO": "17.586.382",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.391",
+            "E.A": "25.9%",
+            "RECOMPRA O DESEMBOLSO": "3.846.407",
+            "FIRMA ELLECTRONICA": "VANESA PADILLA - 1149285404"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1149285404",
+            "NOMBRES": "VANESA PADILLA",
+            "FIRMA ELLECTRONICA": "VANESA PADILLA - 1149285404"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1149285404",
+            "NOMBRES": "VANESA PADILLA",
+            "FIRMA ELLECTRONICA": "VANESA PADILLA - 1149285404",
+            "AL PIE DE LA FIRMA": "VANESA PADILLA - 1149285404"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VANESA PADILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1149285404",
+            "NOMBRES": "VANESA PADILLA",
+            "SALARIO": "2.993.033",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1149285404",
+            "NOMBRES": "VANESA PADILLA",
+            "RECOMPRA O DESEMBOLSO": "3.846.407"
+        }
+    }
+]

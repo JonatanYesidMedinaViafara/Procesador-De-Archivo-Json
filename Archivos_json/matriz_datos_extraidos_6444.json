@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "829696957737",
+            "SOLICITUD": "9663835",
+            "CEDULA": "1445848642",
+            "NOMBRES": "ALONSO SIERRA",
+            "RECOMPRA O DESEMBOLSO": "3.446.380",
+            "FIRMA ELLECTRONICA": "ALONSO SIERRA - 1445848642"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "829696957737",
+            "NOMBRES": "ALONSO SIERRA",
+            "CREDITO": "7.758.741",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "235.211",
+            "FIRMA ELLECTRONICA": "ALONSO SIERRA - 1445848642",
+            "AL PIE DE LA FIRMA": "ALONSO SIERRA - 1445848642"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1445848642",
+            "NOMBRES": "ALONSO SIERRA",
+            "FECHA NACIMIENTO": "13/11/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.758.741",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALONSO SIERRA - 1445848642",
+            "AL PIE DE LA FIRMA": "ALONSO SIERRA - 1445848642"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9663835",
+            "CEDULA": "1445848642",
+            "NOMBRES": "ALONSO SIERRA",
+            "CREDITO": "7.758.741",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "235.211",
+            "E.A": "23.75%",
+            "RECOMPRA O DESEMBOLSO": "3.446.380",
+            "FIRMA ELLECTRONICA": "ALONSO SIERRA - 1445848642"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1445848642",
+            "NOMBRES": "ALONSO SIERRA",
+            "FIRMA ELLECTRONICA": "ALONSO SIERRA - 1445848642"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1445848642",
+            "NOMBRES": "ALONSO SIERRA",
+            "FIRMA ELLECTRONICA": "ALONSO SIERRA - 1445848642",
+            "AL PIE DE LA FIRMA": "ALONSO SIERRA - 1445848642"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALONSO SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1445848642",
+            "NOMBRES": "ALONSO SIERRA",
+            "SALARIO": "3.736.915",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1445848642",
+            "NOMBRES": "ALONSO SIERRA",
+            "RECOMPRA O DESEMBOLSO": "3.446.380"
+        }
+    }
+]

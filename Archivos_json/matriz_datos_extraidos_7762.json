@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "222293677658",
+            "SOLICITUD": "1133021",
+            "CEDULA": "1224912089",
+            "NOMBRES": "JESÚS MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.771.156",
+            "FIRMA ELLECTRONICA": "JESÚS MÉNDEZ - 1224912089"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "222293677658",
+            "NOMBRES": "JESÚS MÉNDEZ",
+            "CREDITO": "6.000.026",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.93",
+            "FIRMA ELLECTRONICA": "JESÚS MÉNDEZ - 1224912089",
+            "AL PIE DE LA FIRMA": "JESÚS MÉNDEZ - 1224912089"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1224912089",
+            "NOMBRES": "JESÚS MÉNDEZ",
+            "FECHA NACIMIENTO": "05/01/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.000.026",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JESÚS MÉNDEZ - 1224912089",
+            "AL PIE DE LA FIRMA": "JESÚS MÉNDEZ - 1224912089"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1133021",
+            "CEDULA": "1224912089",
+            "NOMBRES": "JESÚS MÉNDEZ",
+            "CREDITO": "6.000.026",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.93",
+            "E.A": "18.64%",
+            "RECOMPRA O DESEMBOLSO": "3.771.156",
+            "FIRMA ELLECTRONICA": "JESÚS MÉNDEZ - 1224912089"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1224912089",
+            "NOMBRES": "JESÚS MÉNDEZ",
+            "FIRMA ELLECTRONICA": "JESÚS MÉNDEZ - 1224912089"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1224912089",
+            "NOMBRES": "JESÚS MÉNDEZ",
+            "FIRMA ELLECTRONICA": "JESÚS MÉNDEZ - 1224912089",
+            "AL PIE DE LA FIRMA": "JESÚS MÉNDEZ - 1224912089"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS MÉNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1224912089",
+            "NOMBRES": "JESÚS MÉNDEZ",
+            "SALARIO": "2.487.054",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1224912089",
+            "NOMBRES": "JESÚS MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.771.156"
+        }
+    }
+]

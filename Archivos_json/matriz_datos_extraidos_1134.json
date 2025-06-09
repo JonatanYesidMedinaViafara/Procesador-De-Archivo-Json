@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "787770251963",
+            "SOLICITUD": "2954765",
+            "CEDULA": "1388471787",
+            "NOMBRES": "MANUEL FELIPE MORENO",
+            "RECOMPRA O DESEMBOLSO": "4.268.145",
+            "FIRMA ELLECTRONICA": "MANUEL FELIPE MORENO - 1388471787"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "787770251963",
+            "NOMBRES": "MANUEL FELIPE MORENO",
+            "CREDITO": "18.356.597",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "308.458",
+            "FIRMA ELLECTRONICA": "MANUEL FELIPE MORENO - 1388471787",
+            "AL PIE DE LA FIRMA": "MANUEL FELIPE MORENO - 1388471787"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1388471787",
+            "NOMBRES": "MANUEL FELIPE MORENO",
+            "FECHA NACIMIENTO": "01/10/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.356.597",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MANUEL FELIPE MORENO - 1388471787",
+            "AL PIE DE LA FIRMA": "MANUEL FELIPE MORENO - 1388471787"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2954765",
+            "CEDULA": "1388471787",
+            "NOMBRES": "MANUEL FELIPE MORENO",
+            "CREDITO": "18.356.597",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "308.458",
+            "E.A": "22.38%",
+            "RECOMPRA O DESEMBOLSO": "4.268.145",
+            "FIRMA ELLECTRONICA": "MANUEL FELIPE MORENO - 1388471787"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1388471787",
+            "NOMBRES": "MANUEL FELIPE MORENO",
+            "FIRMA ELLECTRONICA": "MANUEL FELIPE MORENO - 1388471787"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1388471787",
+            "NOMBRES": "MANUEL FELIPE MORENO",
+            "FIRMA ELLECTRONICA": "MANUEL FELIPE MORENO - 1388471787",
+            "AL PIE DE LA FIRMA": "MANUEL FELIPE MORENO - 1388471787"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL FELIPE MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1388471787",
+            "NOMBRES": "MANUEL FELIPE MORENO",
+            "SALARIO": "1.951.162",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1388471787",
+            "NOMBRES": "MANUEL FELIPE MORENO",
+            "RECOMPRA O DESEMBOLSO": "4.268.145"
+        }
+    }
+]

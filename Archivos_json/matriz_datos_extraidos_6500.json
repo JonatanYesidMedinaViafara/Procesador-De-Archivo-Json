@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "459353195099",
+            "SOLICITUD": "2901895",
+            "CEDULA": "1872331713",
+            "NOMBRES": "JHON WILLIAM GUEVARA",
+            "RECOMPRA O DESEMBOLSO": "2.592.162",
+            "FIRMA ELLECTRONICA": "JHON WILLIAM GUEVARA - 1872331713"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "459353195099",
+            "NOMBRES": "JHON WILLIAM GUEVARA",
+            "CREDITO": "19.276.947",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "360.412",
+            "FIRMA ELLECTRONICA": "JHON WILLIAM GUEVARA - 1872331713",
+            "AL PIE DE LA FIRMA": "JHON WILLIAM GUEVARA - 1872331713"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1872331713",
+            "NOMBRES": "JHON WILLIAM GUEVARA",
+            "FECHA NACIMIENTO": "23/01/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.276.947",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JHON WILLIAM GUEVARA - 1872331713",
+            "AL PIE DE LA FIRMA": "JHON WILLIAM GUEVARA - 1872331713"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2901895",
+            "CEDULA": "1872331713",
+            "NOMBRES": "JHON WILLIAM GUEVARA",
+            "CREDITO": "19.276.947",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "360.412",
+            "E.A": "27.21%",
+            "RECOMPRA O DESEMBOLSO": "2.592.162",
+            "FIRMA ELLECTRONICA": "JHON WILLIAM GUEVARA - 1872331713"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1872331713",
+            "NOMBRES": "JHON WILLIAM GUEVARA",
+            "FIRMA ELLECTRONICA": "JHON WILLIAM GUEVARA - 1872331713"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1872331713",
+            "NOMBRES": "JHON WILLIAM GUEVARA",
+            "FIRMA ELLECTRONICA": "JHON WILLIAM GUEVARA - 1872331713",
+            "AL PIE DE LA FIRMA": "JHON WILLIAM GUEVARA - 1872331713"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON WILLIAM GUEVARA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1872331713",
+            "NOMBRES": "JHON WILLIAM GUEVARA",
+            "SALARIO": "2.349.992",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1872331713",
+            "NOMBRES": "JHON WILLIAM GUEVARA",
+            "RECOMPRA O DESEMBOLSO": "2.592.162"
+        }
+    }
+]

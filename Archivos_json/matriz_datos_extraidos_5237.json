@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "952785633951",
+            "SOLICITUD": "8637528",
+            "CEDULA": "1564346678",
+            "NOMBRES": "FERNANDO JAIRO CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "2.008.630",
+            "FIRMA ELLECTRONICA": "FERNANDO JAIRO CALDERÓN - 1564346678"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "952785633951",
+            "NOMBRES": "FERNANDO JAIRO CALDERÓN",
+            "CREDITO": "16.169.655",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "118.911",
+            "FIRMA ELLECTRONICA": "FERNANDO JAIRO CALDERÓN - 1564346678",
+            "AL PIE DE LA FIRMA": "FERNANDO JAIRO CALDERÓN - 1564346678"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1564346678",
+            "NOMBRES": "FERNANDO JAIRO CALDERÓN",
+            "FECHA NACIMIENTO": "31/01/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.169.655",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FERNANDO JAIRO CALDERÓN - 1564346678",
+            "AL PIE DE LA FIRMA": "FERNANDO JAIRO CALDERÓN - 1564346678"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8637528",
+            "CEDULA": "1564346678",
+            "NOMBRES": "FERNANDO JAIRO CALDERÓN",
+            "CREDITO": "16.169.655",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "118.911",
+            "E.A": "21.41%",
+            "RECOMPRA O DESEMBOLSO": "2.008.630",
+            "FIRMA ELLECTRONICA": "FERNANDO JAIRO CALDERÓN - 1564346678"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1564346678",
+            "NOMBRES": "FERNANDO JAIRO CALDERÓN",
+            "FIRMA ELLECTRONICA": "FERNANDO JAIRO CALDERÓN - 1564346678"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1564346678",
+            "NOMBRES": "FERNANDO JAIRO CALDERÓN",
+            "FIRMA ELLECTRONICA": "FERNANDO JAIRO CALDERÓN - 1564346678",
+            "AL PIE DE LA FIRMA": "FERNANDO JAIRO CALDERÓN - 1564346678"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO JAIRO CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1564346678",
+            "NOMBRES": "FERNANDO JAIRO CALDERÓN",
+            "SALARIO": "3.063.529",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1564346678",
+            "NOMBRES": "FERNANDO JAIRO CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "2.008.630"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "367912323890",
+            "SOLICITUD": "4964382",
+            "CEDULA": "1407745733",
+            "NOMBRES": "WALTER JOSÉ HERRERA",
+            "RECOMPRA O DESEMBOLSO": "3.379.393",
+            "FIRMA ELLECTRONICA": "WALTER JOSÉ HERRERA - 1407745733"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "367912323890",
+            "NOMBRES": "WALTER JOSÉ HERRERA",
+            "CREDITO": "9.299.583",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "117.358",
+            "FIRMA ELLECTRONICA": "WALTER JOSÉ HERRERA - 1407745733",
+            "AL PIE DE LA FIRMA": "WALTER JOSÉ HERRERA - 1407745733"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1407745733",
+            "NOMBRES": "WALTER JOSÉ HERRERA",
+            "FECHA NACIMIENTO": "18/07/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.299.583",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "WALTER JOSÉ HERRERA - 1407745733",
+            "AL PIE DE LA FIRMA": "WALTER JOSÉ HERRERA - 1407745733"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4964382",
+            "CEDULA": "1407745733",
+            "NOMBRES": "WALTER JOSÉ HERRERA",
+            "CREDITO": "9.299.583",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "117.358",
+            "E.A": "28.52%",
+            "RECOMPRA O DESEMBOLSO": "3.379.393",
+            "FIRMA ELLECTRONICA": "WALTER JOSÉ HERRERA - 1407745733"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1407745733",
+            "NOMBRES": "WALTER JOSÉ HERRERA",
+            "FIRMA ELLECTRONICA": "WALTER JOSÉ HERRERA - 1407745733"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1407745733",
+            "NOMBRES": "WALTER JOSÉ HERRERA",
+            "FIRMA ELLECTRONICA": "WALTER JOSÉ HERRERA - 1407745733",
+            "AL PIE DE LA FIRMA": "WALTER JOSÉ HERRERA - 1407745733"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WALTER JOSÉ HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1407745733",
+            "NOMBRES": "WALTER JOSÉ HERRERA",
+            "SALARIO": "1.055.929",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1407745733",
+            "NOMBRES": "WALTER JOSÉ HERRERA",
+            "RECOMPRA O DESEMBOLSO": "3.379.393"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "772623249381",
+            "SOLICITUD": "3517440",
+            "CEDULA": "1941828434",
+            "NOMBRES": "ALEJANDRO AGUDELO PADILLA",
+            "RECOMPRA O DESEMBOLSO": "1.115.244",
+            "FIRMA ELLECTRONICA": "ALEJANDRO AGUDELO PADILLA - 1941828434"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "772623249381",
+            "NOMBRES": "ALEJANDRO AGUDELO PADILLA",
+            "CREDITO": "6.994.332",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "190.775",
+            "FIRMA ELLECTRONICA": "ALEJANDRO AGUDELO PADILLA - 1941828434",
+            "AL PIE DE LA FIRMA": "ALEJANDRO AGUDELO PADILLA - 1941828434"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1941828434",
+            "NOMBRES": "ALEJANDRO AGUDELO PADILLA",
+            "FECHA NACIMIENTO": "16/03/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.994.332",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALEJANDRO AGUDELO PADILLA - 1941828434",
+            "AL PIE DE LA FIRMA": "ALEJANDRO AGUDELO PADILLA - 1941828434"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3517440",
+            "CEDULA": "1941828434",
+            "NOMBRES": "ALEJANDRO AGUDELO PADILLA",
+            "CREDITO": "6.994.332",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "190.775",
+            "E.A": "19.67%",
+            "RECOMPRA O DESEMBOLSO": "1.115.244",
+            "FIRMA ELLECTRONICA": "ALEJANDRO AGUDELO PADILLA - 1941828434"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1941828434",
+            "NOMBRES": "ALEJANDRO AGUDELO PADILLA",
+            "FIRMA ELLECTRONICA": "ALEJANDRO AGUDELO PADILLA - 1941828434"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1941828434",
+            "NOMBRES": "ALEJANDRO AGUDELO PADILLA",
+            "FIRMA ELLECTRONICA": "ALEJANDRO AGUDELO PADILLA - 1941828434",
+            "AL PIE DE LA FIRMA": "ALEJANDRO AGUDELO PADILLA - 1941828434"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO AGUDELO PADILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1941828434",
+            "NOMBRES": "ALEJANDRO AGUDELO PADILLA",
+            "SALARIO": "3.780.480",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1941828434",
+            "NOMBRES": "ALEJANDRO AGUDELO PADILLA",
+            "RECOMPRA O DESEMBOLSO": "1.115.244"
+        }
+    }
+]

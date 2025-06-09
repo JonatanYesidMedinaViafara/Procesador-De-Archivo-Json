@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "379036305853",
+            "SOLICITUD": "1500331",
+            "CEDULA": "1063080358",
+            "NOMBRES": "ANDRÉS LUIS VARGAS PACHECO",
+            "RECOMPRA O DESEMBOLSO": "4.714.858",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS VARGAS PACHECO - 1063080358"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "379036305853",
+            "NOMBRES": "ANDRÉS LUIS VARGAS PACHECO",
+            "CREDITO": "9.731.784",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "386.605",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS VARGAS PACHECO - 1063080358",
+            "AL PIE DE LA FIRMA": "ANDRÉS LUIS VARGAS PACHECO - 1063080358"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1063080358",
+            "NOMBRES": "ANDRÉS LUIS VARGAS PACHECO",
+            "FECHA NACIMIENTO": "22/01/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.731.784",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS VARGAS PACHECO - 1063080358",
+            "AL PIE DE LA FIRMA": "ANDRÉS LUIS VARGAS PACHECO - 1063080358"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1500331",
+            "CEDULA": "1063080358",
+            "NOMBRES": "ANDRÉS LUIS VARGAS PACHECO",
+            "CREDITO": "9.731.784",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "386.605",
+            "E.A": "24.04%",
+            "RECOMPRA O DESEMBOLSO": "4.714.858",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS VARGAS PACHECO - 1063080358"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1063080358",
+            "NOMBRES": "ANDRÉS LUIS VARGAS PACHECO",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS VARGAS PACHECO - 1063080358"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1063080358",
+            "NOMBRES": "ANDRÉS LUIS VARGAS PACHECO",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS VARGAS PACHECO - 1063080358",
+            "AL PIE DE LA FIRMA": "ANDRÉS LUIS VARGAS PACHECO - 1063080358"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS LUIS VARGAS PACHECO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1063080358",
+            "NOMBRES": "ANDRÉS LUIS VARGAS PACHECO",
+            "SALARIO": "1.073.256",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1063080358",
+            "NOMBRES": "ANDRÉS LUIS VARGAS PACHECO",
+            "RECOMPRA O DESEMBOLSO": "4.714.858"
+        }
+    }
+]

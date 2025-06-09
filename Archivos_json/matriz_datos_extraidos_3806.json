@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "964040314726",
+            "SOLICITUD": "5590010",
+            "CEDULA": "1859134784",
+            "NOMBRES": "IVÁN POSADA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "4.801.314",
+            "FIRMA ELLECTRONICA": "IVÁN POSADA HERRERA - 1859134784"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "964040314726",
+            "NOMBRES": "IVÁN POSADA HERRERA",
+            "CREDITO": "9.876.510",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "151.224",
+            "FIRMA ELLECTRONICA": "IVÁN POSADA HERRERA - 1859134784",
+            "AL PIE DE LA FIRMA": "IVÁN POSADA HERRERA - 1859134784"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1859134784",
+            "NOMBRES": "IVÁN POSADA HERRERA",
+            "FECHA NACIMIENTO": "19/03/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.876.510",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "IVÁN POSADA HERRERA - 1859134784",
+            "AL PIE DE LA FIRMA": "IVÁN POSADA HERRERA - 1859134784"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5590010",
+            "CEDULA": "1859134784",
+            "NOMBRES": "IVÁN POSADA HERRERA",
+            "CREDITO": "9.876.510",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "151.224",
+            "E.A": "25.43%",
+            "RECOMPRA O DESEMBOLSO": "4.801.314",
+            "FIRMA ELLECTRONICA": "IVÁN POSADA HERRERA - 1859134784"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1859134784",
+            "NOMBRES": "IVÁN POSADA HERRERA",
+            "FIRMA ELLECTRONICA": "IVÁN POSADA HERRERA - 1859134784"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1859134784",
+            "NOMBRES": "IVÁN POSADA HERRERA",
+            "FIRMA ELLECTRONICA": "IVÁN POSADA HERRERA - 1859134784",
+            "AL PIE DE LA FIRMA": "IVÁN POSADA HERRERA - 1859134784"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IVÁN POSADA HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1859134784",
+            "NOMBRES": "IVÁN POSADA HERRERA",
+            "SALARIO": "2.723.113",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1859134784",
+            "NOMBRES": "IVÁN POSADA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "4.801.314"
+        }
+    }
+]

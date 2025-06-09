@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "575094357514",
+            "SOLICITUD": "8127588",
+            "CEDULA": "1535552632",
+            "NOMBRES": "MARÍA JULIANA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.182.823",
+            "FIRMA ELLECTRONICA": "MARÍA JULIANA GUTIÉRREZ - 1535552632"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "575094357514",
+            "NOMBRES": "MARÍA JULIANA GUTIÉRREZ",
+            "CREDITO": "15.276.692",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "268.447",
+            "FIRMA ELLECTRONICA": "MARÍA JULIANA GUTIÉRREZ - 1535552632",
+            "AL PIE DE LA FIRMA": "MARÍA JULIANA GUTIÉRREZ - 1535552632"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1535552632",
+            "NOMBRES": "MARÍA JULIANA GUTIÉRREZ",
+            "FECHA NACIMIENTO": "29/08/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.276.692",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA JULIANA GUTIÉRREZ - 1535552632",
+            "AL PIE DE LA FIRMA": "MARÍA JULIANA GUTIÉRREZ - 1535552632"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8127588",
+            "CEDULA": "1535552632",
+            "NOMBRES": "MARÍA JULIANA GUTIÉRREZ",
+            "CREDITO": "15.276.692",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "268.447",
+            "E.A": "23.28%",
+            "RECOMPRA O DESEMBOLSO": "3.182.823",
+            "FIRMA ELLECTRONICA": "MARÍA JULIANA GUTIÉRREZ - 1535552632"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1535552632",
+            "NOMBRES": "MARÍA JULIANA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "MARÍA JULIANA GUTIÉRREZ - 1535552632"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1535552632",
+            "NOMBRES": "MARÍA JULIANA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "MARÍA JULIANA GUTIÉRREZ - 1535552632",
+            "AL PIE DE LA FIRMA": "MARÍA JULIANA GUTIÉRREZ - 1535552632"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA JULIANA GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1535552632",
+            "NOMBRES": "MARÍA JULIANA GUTIÉRREZ",
+            "SALARIO": "1.434.538",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1535552632",
+            "NOMBRES": "MARÍA JULIANA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "3.182.823"
+        }
+    }
+]

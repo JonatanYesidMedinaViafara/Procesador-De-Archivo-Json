@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "981504572046",
+            "SOLICITUD": "5803570",
+            "CEDULA": "1489987652",
+            "NOMBRES": "ÁNGEL CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "4.824.239",
+            "FIRMA ELLECTRONICA": "ÁNGEL CASTAÑO - 1489987652"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "981504572046",
+            "NOMBRES": "ÁNGEL CASTAÑO",
+            "CREDITO": "15.403.247",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "244.542",
+            "FIRMA ELLECTRONICA": "ÁNGEL CASTAÑO - 1489987652",
+            "AL PIE DE LA FIRMA": "ÁNGEL CASTAÑO - 1489987652"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1489987652",
+            "NOMBRES": "ÁNGEL CASTAÑO",
+            "FECHA NACIMIENTO": "18/05/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.403.247",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ÁNGEL CASTAÑO - 1489987652",
+            "AL PIE DE LA FIRMA": "ÁNGEL CASTAÑO - 1489987652"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5803570",
+            "CEDULA": "1489987652",
+            "NOMBRES": "ÁNGEL CASTAÑO",
+            "CREDITO": "15.403.247",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "244.542",
+            "E.A": "21.52%",
+            "RECOMPRA O DESEMBOLSO": "4.824.239",
+            "FIRMA ELLECTRONICA": "ÁNGEL CASTAÑO - 1489987652"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1489987652",
+            "NOMBRES": "ÁNGEL CASTAÑO",
+            "FIRMA ELLECTRONICA": "ÁNGEL CASTAÑO - 1489987652"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1489987652",
+            "NOMBRES": "ÁNGEL CASTAÑO",
+            "FIRMA ELLECTRONICA": "ÁNGEL CASTAÑO - 1489987652",
+            "AL PIE DE LA FIRMA": "ÁNGEL CASTAÑO - 1489987652"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL CASTAÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1489987652",
+            "NOMBRES": "ÁNGEL CASTAÑO",
+            "SALARIO": "3.754.160",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1489987652",
+            "NOMBRES": "ÁNGEL CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "4.824.239"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "758948029543",
+            "SOLICITUD": "9824383",
+            "CEDULA": "1901347956",
+            "NOMBRES": "SANDRA SOLANO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.670.382",
+            "FIRMA ELLECTRONICA": "SANDRA SOLANO PÉREZ - 1901347956"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "758948029543",
+            "NOMBRES": "SANDRA SOLANO PÉREZ",
+            "CREDITO": "17.665.817",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "274.025",
+            "FIRMA ELLECTRONICA": "SANDRA SOLANO PÉREZ - 1901347956",
+            "AL PIE DE LA FIRMA": "SANDRA SOLANO PÉREZ - 1901347956"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1901347956",
+            "NOMBRES": "SANDRA SOLANO PÉREZ",
+            "FECHA NACIMIENTO": "16/01/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.665.817",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SANDRA SOLANO PÉREZ - 1901347956",
+            "AL PIE DE LA FIRMA": "SANDRA SOLANO PÉREZ - 1901347956"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9824383",
+            "CEDULA": "1901347956",
+            "NOMBRES": "SANDRA SOLANO PÉREZ",
+            "CREDITO": "17.665.817",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "274.025",
+            "E.A": "19.43%",
+            "RECOMPRA O DESEMBOLSO": "3.670.382",
+            "FIRMA ELLECTRONICA": "SANDRA SOLANO PÉREZ - 1901347956"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1901347956",
+            "NOMBRES": "SANDRA SOLANO PÉREZ",
+            "FIRMA ELLECTRONICA": "SANDRA SOLANO PÉREZ - 1901347956"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1901347956",
+            "NOMBRES": "SANDRA SOLANO PÉREZ",
+            "FIRMA ELLECTRONICA": "SANDRA SOLANO PÉREZ - 1901347956",
+            "AL PIE DE LA FIRMA": "SANDRA SOLANO PÉREZ - 1901347956"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA SOLANO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1901347956",
+            "NOMBRES": "SANDRA SOLANO PÉREZ",
+            "SALARIO": "3.488.951",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1901347956",
+            "NOMBRES": "SANDRA SOLANO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.670.382"
+        }
+    }
+]

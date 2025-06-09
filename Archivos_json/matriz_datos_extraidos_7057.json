@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "498110797231",
+            "SOLICITUD": "1903370",
+            "CEDULA": "1977070752",
+            "NOMBRES": "CARLOS IGNACIO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.785.684",
+            "FIRMA ELLECTRONICA": "CARLOS IGNACIO LÓPEZ - 1977070752"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "498110797231",
+            "NOMBRES": "CARLOS IGNACIO LÓPEZ",
+            "CREDITO": "13.019.489",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "119.657",
+            "FIRMA ELLECTRONICA": "CARLOS IGNACIO LÓPEZ - 1977070752",
+            "AL PIE DE LA FIRMA": "CARLOS IGNACIO LÓPEZ - 1977070752"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1977070752",
+            "NOMBRES": "CARLOS IGNACIO LÓPEZ",
+            "FECHA NACIMIENTO": "31/07/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.019.489",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS IGNACIO LÓPEZ - 1977070752",
+            "AL PIE DE LA FIRMA": "CARLOS IGNACIO LÓPEZ - 1977070752"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1903370",
+            "CEDULA": "1977070752",
+            "NOMBRES": "CARLOS IGNACIO LÓPEZ",
+            "CREDITO": "13.019.489",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "119.657",
+            "E.A": "26.56%",
+            "RECOMPRA O DESEMBOLSO": "3.785.684",
+            "FIRMA ELLECTRONICA": "CARLOS IGNACIO LÓPEZ - 1977070752"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1977070752",
+            "NOMBRES": "CARLOS IGNACIO LÓPEZ",
+            "FIRMA ELLECTRONICA": "CARLOS IGNACIO LÓPEZ - 1977070752"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1977070752",
+            "NOMBRES": "CARLOS IGNACIO LÓPEZ",
+            "FIRMA ELLECTRONICA": "CARLOS IGNACIO LÓPEZ - 1977070752",
+            "AL PIE DE LA FIRMA": "CARLOS IGNACIO LÓPEZ - 1977070752"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS IGNACIO LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1977070752",
+            "NOMBRES": "CARLOS IGNACIO LÓPEZ",
+            "SALARIO": "2.129.057",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1977070752",
+            "NOMBRES": "CARLOS IGNACIO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.785.684"
+        }
+    }
+]

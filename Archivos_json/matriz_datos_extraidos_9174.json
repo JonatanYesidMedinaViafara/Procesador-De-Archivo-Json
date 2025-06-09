@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "963863416593",
+            "SOLICITUD": "4661124",
+            "CEDULA": "1149527664",
+            "NOMBRES": "JESÚS GRANADOS",
+            "RECOMPRA O DESEMBOLSO": "2.934.745",
+            "FIRMA ELLECTRONICA": "JESÚS GRANADOS - 1149527664"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "963863416593",
+            "NOMBRES": "JESÚS GRANADOS",
+            "CREDITO": "14.741.639",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "131.219",
+            "FIRMA ELLECTRONICA": "JESÚS GRANADOS - 1149527664",
+            "AL PIE DE LA FIRMA": "JESÚS GRANADOS - 1149527664"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1149527664",
+            "NOMBRES": "JESÚS GRANADOS",
+            "FECHA NACIMIENTO": "10/10/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.741.639",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JESÚS GRANADOS - 1149527664",
+            "AL PIE DE LA FIRMA": "JESÚS GRANADOS - 1149527664"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4661124",
+            "CEDULA": "1149527664",
+            "NOMBRES": "JESÚS GRANADOS",
+            "CREDITO": "14.741.639",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "131.219",
+            "E.A": "27.52%",
+            "RECOMPRA O DESEMBOLSO": "2.934.745",
+            "FIRMA ELLECTRONICA": "JESÚS GRANADOS - 1149527664"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1149527664",
+            "NOMBRES": "JESÚS GRANADOS",
+            "FIRMA ELLECTRONICA": "JESÚS GRANADOS - 1149527664"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1149527664",
+            "NOMBRES": "JESÚS GRANADOS",
+            "FIRMA ELLECTRONICA": "JESÚS GRANADOS - 1149527664",
+            "AL PIE DE LA FIRMA": "JESÚS GRANADOS - 1149527664"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS GRANADOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1149527664",
+            "NOMBRES": "JESÚS GRANADOS",
+            "SALARIO": "1.804.973",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1149527664",
+            "NOMBRES": "JESÚS GRANADOS",
+            "RECOMPRA O DESEMBOLSO": "2.934.745"
+        }
+    }
+]

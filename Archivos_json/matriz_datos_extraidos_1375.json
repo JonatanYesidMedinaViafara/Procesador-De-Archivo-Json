@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "899517744558",
+            "SOLICITUD": "1342674",
+            "CEDULA": "1469155876",
+            "NOMBRES": "LUZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.517.807",
+            "FIRMA ELLECTRONICA": "LUZ MUÑOZ - 1469155876"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "899517744558",
+            "NOMBRES": "LUZ MUÑOZ",
+            "CREDITO": "6.948.161",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "285.279",
+            "FIRMA ELLECTRONICA": "LUZ MUÑOZ - 1469155876",
+            "AL PIE DE LA FIRMA": "LUZ MUÑOZ - 1469155876"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1469155876",
+            "NOMBRES": "LUZ MUÑOZ",
+            "FECHA NACIMIENTO": "08/10/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.948.161",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ MUÑOZ - 1469155876",
+            "AL PIE DE LA FIRMA": "LUZ MUÑOZ - 1469155876"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1342674",
+            "CEDULA": "1469155876",
+            "NOMBRES": "LUZ MUÑOZ",
+            "CREDITO": "6.948.161",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "285.279",
+            "E.A": "21.99%",
+            "RECOMPRA O DESEMBOLSO": "4.517.807",
+            "FIRMA ELLECTRONICA": "LUZ MUÑOZ - 1469155876"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1469155876",
+            "NOMBRES": "LUZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "LUZ MUÑOZ - 1469155876"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1469155876",
+            "NOMBRES": "LUZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "LUZ MUÑOZ - 1469155876",
+            "AL PIE DE LA FIRMA": "LUZ MUÑOZ - 1469155876"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1469155876",
+            "NOMBRES": "LUZ MUÑOZ",
+            "SALARIO": "1.100.325",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1469155876",
+            "NOMBRES": "LUZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.517.807"
+        }
+    }
+]

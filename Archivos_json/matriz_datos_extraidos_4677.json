@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "199554001252",
+            "SOLICITUD": "6213479",
+            "CEDULA": "1579118572",
+            "NOMBRES": "DEYANIRA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.338.317",
+            "FIRMA ELLECTRONICA": "DEYANIRA GÓMEZ - 1579118572"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "199554001252",
+            "NOMBRES": "DEYANIRA GÓMEZ",
+            "CREDITO": "10.240.494",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "396.241",
+            "FIRMA ELLECTRONICA": "DEYANIRA GÓMEZ - 1579118572",
+            "AL PIE DE LA FIRMA": "DEYANIRA GÓMEZ - 1579118572"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1579118572",
+            "NOMBRES": "DEYANIRA GÓMEZ",
+            "FECHA NACIMIENTO": "09/02/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.240.494",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DEYANIRA GÓMEZ - 1579118572",
+            "AL PIE DE LA FIRMA": "DEYANIRA GÓMEZ - 1579118572"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6213479",
+            "CEDULA": "1579118572",
+            "NOMBRES": "DEYANIRA GÓMEZ",
+            "CREDITO": "10.240.494",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "396.241",
+            "E.A": "25.77%",
+            "RECOMPRA O DESEMBOLSO": "1.338.317",
+            "FIRMA ELLECTRONICA": "DEYANIRA GÓMEZ - 1579118572"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1579118572",
+            "NOMBRES": "DEYANIRA GÓMEZ",
+            "FIRMA ELLECTRONICA": "DEYANIRA GÓMEZ - 1579118572"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1579118572",
+            "NOMBRES": "DEYANIRA GÓMEZ",
+            "FIRMA ELLECTRONICA": "DEYANIRA GÓMEZ - 1579118572",
+            "AL PIE DE LA FIRMA": "DEYANIRA GÓMEZ - 1579118572"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DEYANIRA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1579118572",
+            "NOMBRES": "DEYANIRA GÓMEZ",
+            "SALARIO": "3.445.224",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1579118572",
+            "NOMBRES": "DEYANIRA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.338.317"
+        }
+    }
+]

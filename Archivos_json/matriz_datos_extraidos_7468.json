@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "492234510003",
+            "SOLICITUD": "7847864",
+            "CEDULA": "1502976649",
+            "NOMBRES": "ANDRÉS RAMÓN CEBALLOS GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.615.874",
+            "FIRMA ELLECTRONICA": "ANDRÉS RAMÓN CEBALLOS GUERRERO - 1502976649"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "492234510003",
+            "NOMBRES": "ANDRÉS RAMÓN CEBALLOS GUERRERO",
+            "CREDITO": "13.777.535",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "369.438",
+            "FIRMA ELLECTRONICA": "ANDRÉS RAMÓN CEBALLOS GUERRERO - 1502976649",
+            "AL PIE DE LA FIRMA": "ANDRÉS RAMÓN CEBALLOS GUERRERO - 1502976649"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1502976649",
+            "NOMBRES": "ANDRÉS RAMÓN CEBALLOS GUERRERO",
+            "FECHA NACIMIENTO": "21/02/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.777.535",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS RAMÓN CEBALLOS GUERRERO - 1502976649",
+            "AL PIE DE LA FIRMA": "ANDRÉS RAMÓN CEBALLOS GUERRERO - 1502976649"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7847864",
+            "CEDULA": "1502976649",
+            "NOMBRES": "ANDRÉS RAMÓN CEBALLOS GUERRERO",
+            "CREDITO": "13.777.535",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "369.438",
+            "E.A": "20.6%",
+            "RECOMPRA O DESEMBOLSO": "4.615.874",
+            "FIRMA ELLECTRONICA": "ANDRÉS RAMÓN CEBALLOS GUERRERO - 1502976649"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1502976649",
+            "NOMBRES": "ANDRÉS RAMÓN CEBALLOS GUERRERO",
+            "FIRMA ELLECTRONICA": "ANDRÉS RAMÓN CEBALLOS GUERRERO - 1502976649"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1502976649",
+            "NOMBRES": "ANDRÉS RAMÓN CEBALLOS GUERRERO",
+            "FIRMA ELLECTRONICA": "ANDRÉS RAMÓN CEBALLOS GUERRERO - 1502976649",
+            "AL PIE DE LA FIRMA": "ANDRÉS RAMÓN CEBALLOS GUERRERO - 1502976649"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS RAMÓN CEBALLOS GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1502976649",
+            "NOMBRES": "ANDRÉS RAMÓN CEBALLOS GUERRERO",
+            "SALARIO": "1.754.411",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1502976649",
+            "NOMBRES": "ANDRÉS RAMÓN CEBALLOS GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.615.874"
+        }
+    }
+]

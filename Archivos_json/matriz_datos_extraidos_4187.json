@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "678418294623",
+            "SOLICITUD": "2341012",
+            "CEDULA": "1279216927",
+            "NOMBRES": "VANESSA GUERRERO PACHECO",
+            "RECOMPRA O DESEMBOLSO": "1.306.670",
+            "FIRMA ELLECTRONICA": "VANESSA GUERRERO PACHECO - 1279216927"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "678418294623",
+            "NOMBRES": "VANESSA GUERRERO PACHECO",
+            "CREDITO": "15.029.281",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "378.485",
+            "FIRMA ELLECTRONICA": "VANESSA GUERRERO PACHECO - 1279216927",
+            "AL PIE DE LA FIRMA": "VANESSA GUERRERO PACHECO - 1279216927"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1279216927",
+            "NOMBRES": "VANESSA GUERRERO PACHECO",
+            "FECHA NACIMIENTO": "24/02/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.029.281",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "VANESSA GUERRERO PACHECO - 1279216927",
+            "AL PIE DE LA FIRMA": "VANESSA GUERRERO PACHECO - 1279216927"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2341012",
+            "CEDULA": "1279216927",
+            "NOMBRES": "VANESSA GUERRERO PACHECO",
+            "CREDITO": "15.029.281",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "378.485",
+            "E.A": "22.88%",
+            "RECOMPRA O DESEMBOLSO": "1.306.670",
+            "FIRMA ELLECTRONICA": "VANESSA GUERRERO PACHECO - 1279216927"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1279216927",
+            "NOMBRES": "VANESSA GUERRERO PACHECO",
+            "FIRMA ELLECTRONICA": "VANESSA GUERRERO PACHECO - 1279216927"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1279216927",
+            "NOMBRES": "VANESSA GUERRERO PACHECO",
+            "FIRMA ELLECTRONICA": "VANESSA GUERRERO PACHECO - 1279216927",
+            "AL PIE DE LA FIRMA": "VANESSA GUERRERO PACHECO - 1279216927"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VANESSA GUERRERO PACHECO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1279216927",
+            "NOMBRES": "VANESSA GUERRERO PACHECO",
+            "SALARIO": "2.299.390",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1279216927",
+            "NOMBRES": "VANESSA GUERRERO PACHECO",
+            "RECOMPRA O DESEMBOLSO": "1.306.670"
+        }
+    }
+]

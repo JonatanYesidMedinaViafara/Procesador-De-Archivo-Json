@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "581121670854",
+            "SOLICITUD": "1833272",
+            "CEDULA": "1479630289",
+            "NOMBRES": "CLAUDIA REYES",
+            "RECOMPRA O DESEMBOLSO": "4.900.350",
+            "FIRMA ELLECTRONICA": "CLAUDIA REYES - 1479630289"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "581121670854",
+            "NOMBRES": "CLAUDIA REYES",
+            "CREDITO": "7.428.641",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.228",
+            "FIRMA ELLECTRONICA": "CLAUDIA REYES - 1479630289",
+            "AL PIE DE LA FIRMA": "CLAUDIA REYES - 1479630289"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1479630289",
+            "NOMBRES": "CLAUDIA REYES",
+            "FECHA NACIMIENTO": "29/03/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.428.641",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CLAUDIA REYES - 1479630289",
+            "AL PIE DE LA FIRMA": "CLAUDIA REYES - 1479630289"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1833272",
+            "CEDULA": "1479630289",
+            "NOMBRES": "CLAUDIA REYES",
+            "CREDITO": "7.428.641",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.228",
+            "E.A": "20.71%",
+            "RECOMPRA O DESEMBOLSO": "4.900.350",
+            "FIRMA ELLECTRONICA": "CLAUDIA REYES - 1479630289"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1479630289",
+            "NOMBRES": "CLAUDIA REYES",
+            "FIRMA ELLECTRONICA": "CLAUDIA REYES - 1479630289"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1479630289",
+            "NOMBRES": "CLAUDIA REYES",
+            "FIRMA ELLECTRONICA": "CLAUDIA REYES - 1479630289",
+            "AL PIE DE LA FIRMA": "CLAUDIA REYES - 1479630289"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLAUDIA REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1479630289",
+            "NOMBRES": "CLAUDIA REYES",
+            "SALARIO": "1.777.033",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1479630289",
+            "NOMBRES": "CLAUDIA REYES",
+            "RECOMPRA O DESEMBOLSO": "4.900.350"
+        }
+    }
+]

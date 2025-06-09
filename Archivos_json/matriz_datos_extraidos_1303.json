@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "950599450055",
+            "SOLICITUD": "6634755",
+            "CEDULA": "1923648720",
+            "NOMBRES": "ANDREA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.139.039",
+            "FIRMA ELLECTRONICA": "ANDREA MARTÍNEZ - 1923648720"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "950599450055",
+            "NOMBRES": "ANDREA MARTÍNEZ",
+            "CREDITO": "7.862.885",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "206.048",
+            "FIRMA ELLECTRONICA": "ANDREA MARTÍNEZ - 1923648720",
+            "AL PIE DE LA FIRMA": "ANDREA MARTÍNEZ - 1923648720"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1923648720",
+            "NOMBRES": "ANDREA MARTÍNEZ",
+            "FECHA NACIMIENTO": "22/09/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.862.885",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDREA MARTÍNEZ - 1923648720",
+            "AL PIE DE LA FIRMA": "ANDREA MARTÍNEZ - 1923648720"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6634755",
+            "CEDULA": "1923648720",
+            "NOMBRES": "ANDREA MARTÍNEZ",
+            "CREDITO": "7.862.885",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "206.048",
+            "E.A": "21.74%",
+            "RECOMPRA O DESEMBOLSO": "2.139.039",
+            "FIRMA ELLECTRONICA": "ANDREA MARTÍNEZ - 1923648720"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1923648720",
+            "NOMBRES": "ANDREA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ANDREA MARTÍNEZ - 1923648720"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1923648720",
+            "NOMBRES": "ANDREA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ANDREA MARTÍNEZ - 1923648720",
+            "AL PIE DE LA FIRMA": "ANDREA MARTÍNEZ - 1923648720"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1923648720",
+            "NOMBRES": "ANDREA MARTÍNEZ",
+            "SALARIO": "1.906.671",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1923648720",
+            "NOMBRES": "ANDREA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.139.039"
+        }
+    }
+]

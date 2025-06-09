@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "966467374340",
+            "SOLICITUD": "3911013",
+            "CEDULA": "1902055043",
+            "NOMBRES": "JUAN MAURICIO SARMIENTO VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "1.810.103",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO SARMIENTO VANEGAS - 1902055043"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "966467374340",
+            "NOMBRES": "JUAN MAURICIO SARMIENTO VANEGAS",
+            "CREDITO": "12.904.414",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "116.097",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO SARMIENTO VANEGAS - 1902055043",
+            "AL PIE DE LA FIRMA": "JUAN MAURICIO SARMIENTO VANEGAS - 1902055043"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1902055043",
+            "NOMBRES": "JUAN MAURICIO SARMIENTO VANEGAS",
+            "FECHA NACIMIENTO": "26/05/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.904.414",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO SARMIENTO VANEGAS - 1902055043",
+            "AL PIE DE LA FIRMA": "JUAN MAURICIO SARMIENTO VANEGAS - 1902055043"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3911013",
+            "CEDULA": "1902055043",
+            "NOMBRES": "JUAN MAURICIO SARMIENTO VANEGAS",
+            "CREDITO": "12.904.414",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "116.097",
+            "E.A": "25.03%",
+            "RECOMPRA O DESEMBOLSO": "1.810.103",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO SARMIENTO VANEGAS - 1902055043"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1902055043",
+            "NOMBRES": "JUAN MAURICIO SARMIENTO VANEGAS",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO SARMIENTO VANEGAS - 1902055043"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1902055043",
+            "NOMBRES": "JUAN MAURICIO SARMIENTO VANEGAS",
+            "FIRMA ELLECTRONICA": "JUAN MAURICIO SARMIENTO VANEGAS - 1902055043",
+            "AL PIE DE LA FIRMA": "JUAN MAURICIO SARMIENTO VANEGAS - 1902055043"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN MAURICIO SARMIENTO VANEGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1902055043",
+            "NOMBRES": "JUAN MAURICIO SARMIENTO VANEGAS",
+            "SALARIO": "1.723.017",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1902055043",
+            "NOMBRES": "JUAN MAURICIO SARMIENTO VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "1.810.103"
+        }
+    }
+]

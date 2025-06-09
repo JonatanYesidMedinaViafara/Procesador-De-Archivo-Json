@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "285207913573",
+            "SOLICITUD": "2978511",
+            "CEDULA": "1999998085",
+            "NOMBRES": "ARLEY ARBOLEDA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.881.807",
+            "FIRMA ELLECTRONICA": "ARLEY ARBOLEDA VALENCIA - 1999998085"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "285207913573",
+            "NOMBRES": "ARLEY ARBOLEDA VALENCIA",
+            "CREDITO": "8.282.613",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.941",
+            "FIRMA ELLECTRONICA": "ARLEY ARBOLEDA VALENCIA - 1999998085",
+            "AL PIE DE LA FIRMA": "ARLEY ARBOLEDA VALENCIA - 1999998085"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1999998085",
+            "NOMBRES": "ARLEY ARBOLEDA VALENCIA",
+            "FECHA NACIMIENTO": "17/11/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.282.613",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ARLEY ARBOLEDA VALENCIA - 1999998085",
+            "AL PIE DE LA FIRMA": "ARLEY ARBOLEDA VALENCIA - 1999998085"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2978511",
+            "CEDULA": "1999998085",
+            "NOMBRES": "ARLEY ARBOLEDA VALENCIA",
+            "CREDITO": "8.282.613",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.941",
+            "E.A": "18.9%",
+            "RECOMPRA O DESEMBOLSO": "1.881.807",
+            "FIRMA ELLECTRONICA": "ARLEY ARBOLEDA VALENCIA - 1999998085"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1999998085",
+            "NOMBRES": "ARLEY ARBOLEDA VALENCIA",
+            "FIRMA ELLECTRONICA": "ARLEY ARBOLEDA VALENCIA - 1999998085"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1999998085",
+            "NOMBRES": "ARLEY ARBOLEDA VALENCIA",
+            "FIRMA ELLECTRONICA": "ARLEY ARBOLEDA VALENCIA - 1999998085",
+            "AL PIE DE LA FIRMA": "ARLEY ARBOLEDA VALENCIA - 1999998085"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARLEY ARBOLEDA VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1999998085",
+            "NOMBRES": "ARLEY ARBOLEDA VALENCIA",
+            "SALARIO": "1.756.987",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1999998085",
+            "NOMBRES": "ARLEY ARBOLEDA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.881.807"
+        }
+    }
+]

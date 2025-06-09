@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "123311530050",
+            "SOLICITUD": "9516820",
+            "CEDULA": "1154552883",
+            "NOMBRES": "LUCÍA MARTA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.638.110",
+            "FIRMA ELLECTRONICA": "LUCÍA MARTA MARTÍNEZ - 1154552883"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "123311530050",
+            "NOMBRES": "LUCÍA MARTA MARTÍNEZ",
+            "CREDITO": "14.194.481",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "262.893",
+            "FIRMA ELLECTRONICA": "LUCÍA MARTA MARTÍNEZ - 1154552883",
+            "AL PIE DE LA FIRMA": "LUCÍA MARTA MARTÍNEZ - 1154552883"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1154552883",
+            "NOMBRES": "LUCÍA MARTA MARTÍNEZ",
+            "FECHA NACIMIENTO": "09/08/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.194.481",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUCÍA MARTA MARTÍNEZ - 1154552883",
+            "AL PIE DE LA FIRMA": "LUCÍA MARTA MARTÍNEZ - 1154552883"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9516820",
+            "CEDULA": "1154552883",
+            "NOMBRES": "LUCÍA MARTA MARTÍNEZ",
+            "CREDITO": "14.194.481",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "262.893",
+            "E.A": "18.68%",
+            "RECOMPRA O DESEMBOLSO": "4.638.110",
+            "FIRMA ELLECTRONICA": "LUCÍA MARTA MARTÍNEZ - 1154552883"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1154552883",
+            "NOMBRES": "LUCÍA MARTA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "LUCÍA MARTA MARTÍNEZ - 1154552883"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1154552883",
+            "NOMBRES": "LUCÍA MARTA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "LUCÍA MARTA MARTÍNEZ - 1154552883",
+            "AL PIE DE LA FIRMA": "LUCÍA MARTA MARTÍNEZ - 1154552883"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA MARTA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1154552883",
+            "NOMBRES": "LUCÍA MARTA MARTÍNEZ",
+            "SALARIO": "2.344.371",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1154552883",
+            "NOMBRES": "LUCÍA MARTA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.638.110"
+        }
+    }
+]

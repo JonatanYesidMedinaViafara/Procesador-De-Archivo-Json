@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "817475437234",
+            "SOLICITUD": "7790352",
+            "CEDULA": "1157868130",
+            "NOMBRES": "ELENA MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "4.098.456",
+            "FIRMA ELLECTRONICA": "ELENA MOSQUERA - 1157868130"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "817475437234",
+            "NOMBRES": "ELENA MOSQUERA",
+            "CREDITO": "16.865.124",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "376.521",
+            "FIRMA ELLECTRONICA": "ELENA MOSQUERA - 1157868130",
+            "AL PIE DE LA FIRMA": "ELENA MOSQUERA - 1157868130"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1157868130",
+            "NOMBRES": "ELENA MOSQUERA",
+            "FECHA NACIMIENTO": "19/08/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.865.124",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ELENA MOSQUERA - 1157868130",
+            "AL PIE DE LA FIRMA": "ELENA MOSQUERA - 1157868130"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7790352",
+            "CEDULA": "1157868130",
+            "NOMBRES": "ELENA MOSQUERA",
+            "CREDITO": "16.865.124",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "376.521",
+            "E.A": "19.19%",
+            "RECOMPRA O DESEMBOLSO": "4.098.456",
+            "FIRMA ELLECTRONICA": "ELENA MOSQUERA - 1157868130"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1157868130",
+            "NOMBRES": "ELENA MOSQUERA",
+            "FIRMA ELLECTRONICA": "ELENA MOSQUERA - 1157868130"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1157868130",
+            "NOMBRES": "ELENA MOSQUERA",
+            "FIRMA ELLECTRONICA": "ELENA MOSQUERA - 1157868130",
+            "AL PIE DE LA FIRMA": "ELENA MOSQUERA - 1157868130"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1157868130",
+            "NOMBRES": "ELENA MOSQUERA",
+            "SALARIO": "2.570.736",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1157868130",
+            "NOMBRES": "ELENA MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "4.098.456"
+        }
+    }
+]

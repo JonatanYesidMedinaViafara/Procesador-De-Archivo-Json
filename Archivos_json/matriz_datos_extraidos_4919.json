@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "957602460021",
+            "SOLICITUD": "7654342",
+            "CEDULA": "1235507414",
+            "NOMBRES": "JUAN DÍAZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.724.531",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ LÓPEZ - 1235507414"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "957602460021",
+            "NOMBRES": "JUAN DÍAZ LÓPEZ",
+            "CREDITO": "10.740.766",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "346.408",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ LÓPEZ - 1235507414",
+            "AL PIE DE LA FIRMA": "JUAN DÍAZ LÓPEZ - 1235507414"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1235507414",
+            "NOMBRES": "JUAN DÍAZ LÓPEZ",
+            "FECHA NACIMIENTO": "12/11/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.740.766",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ LÓPEZ - 1235507414",
+            "AL PIE DE LA FIRMA": "JUAN DÍAZ LÓPEZ - 1235507414"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7654342",
+            "CEDULA": "1235507414",
+            "NOMBRES": "JUAN DÍAZ LÓPEZ",
+            "CREDITO": "10.740.766",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "346.408",
+            "E.A": "26.39%",
+            "RECOMPRA O DESEMBOLSO": "2.724.531",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ LÓPEZ - 1235507414"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1235507414",
+            "NOMBRES": "JUAN DÍAZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ LÓPEZ - 1235507414"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1235507414",
+            "NOMBRES": "JUAN DÍAZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ LÓPEZ - 1235507414",
+            "AL PIE DE LA FIRMA": "JUAN DÍAZ LÓPEZ - 1235507414"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN DÍAZ LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1235507414",
+            "NOMBRES": "JUAN DÍAZ LÓPEZ",
+            "SALARIO": "1.602.186",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1235507414",
+            "NOMBRES": "JUAN DÍAZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.724.531"
+        }
+    }
+]

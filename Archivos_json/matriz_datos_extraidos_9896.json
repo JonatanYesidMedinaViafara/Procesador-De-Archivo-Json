@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "506784626923",
+            "SOLICITUD": "1682863",
+            "CEDULA": "1605987832",
+            "NOMBRES": "GERMÁN BASTIDAS VELASCO",
+            "RECOMPRA O DESEMBOLSO": "2.509.141",
+            "FIRMA ELLECTRONICA": "GERMÁN BASTIDAS VELASCO - 1605987832"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "506784626923",
+            "NOMBRES": "GERMÁN BASTIDAS VELASCO",
+            "CREDITO": "17.256.699",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "156.518",
+            "FIRMA ELLECTRONICA": "GERMÁN BASTIDAS VELASCO - 1605987832",
+            "AL PIE DE LA FIRMA": "GERMÁN BASTIDAS VELASCO - 1605987832"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1605987832",
+            "NOMBRES": "GERMÁN BASTIDAS VELASCO",
+            "FECHA NACIMIENTO": "18/03/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.256.699",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GERMÁN BASTIDAS VELASCO - 1605987832",
+            "AL PIE DE LA FIRMA": "GERMÁN BASTIDAS VELASCO - 1605987832"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1682863",
+            "CEDULA": "1605987832",
+            "NOMBRES": "GERMÁN BASTIDAS VELASCO",
+            "CREDITO": "17.256.699",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "156.518",
+            "E.A": "27.41%",
+            "RECOMPRA O DESEMBOLSO": "2.509.141",
+            "FIRMA ELLECTRONICA": "GERMÁN BASTIDAS VELASCO - 1605987832"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1605987832",
+            "NOMBRES": "GERMÁN BASTIDAS VELASCO",
+            "FIRMA ELLECTRONICA": "GERMÁN BASTIDAS VELASCO - 1605987832"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1605987832",
+            "NOMBRES": "GERMÁN BASTIDAS VELASCO",
+            "FIRMA ELLECTRONICA": "GERMÁN BASTIDAS VELASCO - 1605987832",
+            "AL PIE DE LA FIRMA": "GERMÁN BASTIDAS VELASCO - 1605987832"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GERMÁN BASTIDAS VELASCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1605987832",
+            "NOMBRES": "GERMÁN BASTIDAS VELASCO",
+            "SALARIO": "2.838.460",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1605987832",
+            "NOMBRES": "GERMÁN BASTIDAS VELASCO",
+            "RECOMPRA O DESEMBOLSO": "2.509.141"
+        }
+    }
+]

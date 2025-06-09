@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "906182517172",
+            "SOLICITUD": "9237221",
+            "CEDULA": "1227441201",
+            "NOMBRES": "HÉCTOR MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.398.134",
+            "FIRMA ELLECTRONICA": "HÉCTOR MEDINA - 1227441201"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "906182517172",
+            "NOMBRES": "HÉCTOR MEDINA",
+            "CREDITO": "12.086.910",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.927",
+            "FIRMA ELLECTRONICA": "HÉCTOR MEDINA - 1227441201",
+            "AL PIE DE LA FIRMA": "HÉCTOR MEDINA - 1227441201"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1227441201",
+            "NOMBRES": "HÉCTOR MEDINA",
+            "FECHA NACIMIENTO": "13/12/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.086.910",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "HÉCTOR MEDINA - 1227441201",
+            "AL PIE DE LA FIRMA": "HÉCTOR MEDINA - 1227441201"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9237221",
+            "CEDULA": "1227441201",
+            "NOMBRES": "HÉCTOR MEDINA",
+            "CREDITO": "12.086.910",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.927",
+            "E.A": "26.98%",
+            "RECOMPRA O DESEMBOLSO": "3.398.134",
+            "FIRMA ELLECTRONICA": "HÉCTOR MEDINA - 1227441201"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1227441201",
+            "NOMBRES": "HÉCTOR MEDINA",
+            "FIRMA ELLECTRONICA": "HÉCTOR MEDINA - 1227441201"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1227441201",
+            "NOMBRES": "HÉCTOR MEDINA",
+            "FIRMA ELLECTRONICA": "HÉCTOR MEDINA - 1227441201",
+            "AL PIE DE LA FIRMA": "HÉCTOR MEDINA - 1227441201"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HÉCTOR MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1227441201",
+            "NOMBRES": "HÉCTOR MEDINA",
+            "SALARIO": "4.383.649",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1227441201",
+            "NOMBRES": "HÉCTOR MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.398.134"
+        }
+    }
+]

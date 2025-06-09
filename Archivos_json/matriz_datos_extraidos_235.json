@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "170504101320",
+            "SOLICITUD": "3917438",
+            "CEDULA": "1087746659",
+            "NOMBRES": "ALBERTO VÉLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.835.738",
+            "FIRMA ELLECTRONICA": "ALBERTO VÉLEZ - 1087746659"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "170504101320",
+            "NOMBRES": "ALBERTO VÉLEZ",
+            "CREDITO": "12.971.838",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "195.429",
+            "FIRMA ELLECTRONICA": "ALBERTO VÉLEZ - 1087746659",
+            "AL PIE DE LA FIRMA": "ALBERTO VÉLEZ - 1087746659"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1087746659",
+            "NOMBRES": "ALBERTO VÉLEZ",
+            "FECHA NACIMIENTO": "21/11/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.971.838",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBERTO VÉLEZ - 1087746659",
+            "AL PIE DE LA FIRMA": "ALBERTO VÉLEZ - 1087746659"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3917438",
+            "CEDULA": "1087746659",
+            "NOMBRES": "ALBERTO VÉLEZ",
+            "CREDITO": "12.971.838",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "195.429",
+            "E.A": "19.07%",
+            "RECOMPRA O DESEMBOLSO": "1.835.738",
+            "FIRMA ELLECTRONICA": "ALBERTO VÉLEZ - 1087746659"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1087746659",
+            "NOMBRES": "ALBERTO VÉLEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO VÉLEZ - 1087746659"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1087746659",
+            "NOMBRES": "ALBERTO VÉLEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO VÉLEZ - 1087746659",
+            "AL PIE DE LA FIRMA": "ALBERTO VÉLEZ - 1087746659"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO VÉLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1087746659",
+            "NOMBRES": "ALBERTO VÉLEZ",
+            "SALARIO": "3.666.666",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1087746659",
+            "NOMBRES": "ALBERTO VÉLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.835.738"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "127913219331",
+            "SOLICITUD": "5381652",
+            "CEDULA": "1187879069",
+            "NOMBRES": "MAURICIO BECERRA",
+            "RECOMPRA O DESEMBOLSO": "4.218.358",
+            "FIRMA ELLECTRONICA": "MAURICIO BECERRA - 1187879069"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "127913219331",
+            "NOMBRES": "MAURICIO BECERRA",
+            "CREDITO": "12.630.310",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "208.053",
+            "FIRMA ELLECTRONICA": "MAURICIO BECERRA - 1187879069",
+            "AL PIE DE LA FIRMA": "MAURICIO BECERRA - 1187879069"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1187879069",
+            "NOMBRES": "MAURICIO BECERRA",
+            "FECHA NACIMIENTO": "03/07/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.630.310",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MAURICIO BECERRA - 1187879069",
+            "AL PIE DE LA FIRMA": "MAURICIO BECERRA - 1187879069"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5381652",
+            "CEDULA": "1187879069",
+            "NOMBRES": "MAURICIO BECERRA",
+            "CREDITO": "12.630.310",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "208.053",
+            "E.A": "22.63%",
+            "RECOMPRA O DESEMBOLSO": "4.218.358",
+            "FIRMA ELLECTRONICA": "MAURICIO BECERRA - 1187879069"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1187879069",
+            "NOMBRES": "MAURICIO BECERRA",
+            "FIRMA ELLECTRONICA": "MAURICIO BECERRA - 1187879069"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1187879069",
+            "NOMBRES": "MAURICIO BECERRA",
+            "FIRMA ELLECTRONICA": "MAURICIO BECERRA - 1187879069",
+            "AL PIE DE LA FIRMA": "MAURICIO BECERRA - 1187879069"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO BECERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1187879069",
+            "NOMBRES": "MAURICIO BECERRA",
+            "SALARIO": "3.606.114",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1187879069",
+            "NOMBRES": "MAURICIO BECERRA",
+            "RECOMPRA O DESEMBOLSO": "4.218.358"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "525904783142",
+            "SOLICITUD": "1488226",
+            "CEDULA": "1514853321",
+            "NOMBRES": "FERNANDO JORGE OROZCO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.833.161",
+            "FIRMA ELLECTRONICA": "FERNANDO JORGE OROZCO MUÑOZ - 1514853321"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "525904783142",
+            "NOMBRES": "FERNANDO JORGE OROZCO MUÑOZ",
+            "CREDITO": "8.828.918",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "122.695",
+            "FIRMA ELLECTRONICA": "FERNANDO JORGE OROZCO MUÑOZ - 1514853321",
+            "AL PIE DE LA FIRMA": "FERNANDO JORGE OROZCO MUÑOZ - 1514853321"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1514853321",
+            "NOMBRES": "FERNANDO JORGE OROZCO MUÑOZ",
+            "FECHA NACIMIENTO": "28/05/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.828.918",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FERNANDO JORGE OROZCO MUÑOZ - 1514853321",
+            "AL PIE DE LA FIRMA": "FERNANDO JORGE OROZCO MUÑOZ - 1514853321"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1488226",
+            "CEDULA": "1514853321",
+            "NOMBRES": "FERNANDO JORGE OROZCO MUÑOZ",
+            "CREDITO": "8.828.918",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "122.695",
+            "E.A": "26.94%",
+            "RECOMPRA O DESEMBOLSO": "2.833.161",
+            "FIRMA ELLECTRONICA": "FERNANDO JORGE OROZCO MUÑOZ - 1514853321"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1514853321",
+            "NOMBRES": "FERNANDO JORGE OROZCO MUÑOZ",
+            "FIRMA ELLECTRONICA": "FERNANDO JORGE OROZCO MUÑOZ - 1514853321"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1514853321",
+            "NOMBRES": "FERNANDO JORGE OROZCO MUÑOZ",
+            "FIRMA ELLECTRONICA": "FERNANDO JORGE OROZCO MUÑOZ - 1514853321",
+            "AL PIE DE LA FIRMA": "FERNANDO JORGE OROZCO MUÑOZ - 1514853321"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO JORGE OROZCO MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1514853321",
+            "NOMBRES": "FERNANDO JORGE OROZCO MUÑOZ",
+            "SALARIO": "4.478.839",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1514853321",
+            "NOMBRES": "FERNANDO JORGE OROZCO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.833.161"
+        }
+    }
+]

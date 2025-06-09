@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "936015033029",
+            "SOLICITUD": "7726273",
+            "CEDULA": "1686692949",
+            "NOMBRES": "DORIS ADRIANA ALVARADO PEÑA",
+            "RECOMPRA O DESEMBOLSO": "4.569.234",
+            "FIRMA ELLECTRONICA": "DORIS ADRIANA ALVARADO PEÑA - 1686692949"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "936015033029",
+            "NOMBRES": "DORIS ADRIANA ALVARADO PEÑA",
+            "CREDITO": "12.385.954",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "109.152",
+            "FIRMA ELLECTRONICA": "DORIS ADRIANA ALVARADO PEÑA - 1686692949",
+            "AL PIE DE LA FIRMA": "DORIS ADRIANA ALVARADO PEÑA - 1686692949"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1686692949",
+            "NOMBRES": "DORIS ADRIANA ALVARADO PEÑA",
+            "FECHA NACIMIENTO": "11/02/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.385.954",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DORIS ADRIANA ALVARADO PEÑA - 1686692949",
+            "AL PIE DE LA FIRMA": "DORIS ADRIANA ALVARADO PEÑA - 1686692949"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7726273",
+            "CEDULA": "1686692949",
+            "NOMBRES": "DORIS ADRIANA ALVARADO PEÑA",
+            "CREDITO": "12.385.954",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "109.152",
+            "E.A": "28.5%",
+            "RECOMPRA O DESEMBOLSO": "4.569.234",
+            "FIRMA ELLECTRONICA": "DORIS ADRIANA ALVARADO PEÑA - 1686692949"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1686692949",
+            "NOMBRES": "DORIS ADRIANA ALVARADO PEÑA",
+            "FIRMA ELLECTRONICA": "DORIS ADRIANA ALVARADO PEÑA - 1686692949"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1686692949",
+            "NOMBRES": "DORIS ADRIANA ALVARADO PEÑA",
+            "FIRMA ELLECTRONICA": "DORIS ADRIANA ALVARADO PEÑA - 1686692949",
+            "AL PIE DE LA FIRMA": "DORIS ADRIANA ALVARADO PEÑA - 1686692949"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DORIS ADRIANA ALVARADO PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1686692949",
+            "NOMBRES": "DORIS ADRIANA ALVARADO PEÑA",
+            "SALARIO": "4.616.466",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1686692949",
+            "NOMBRES": "DORIS ADRIANA ALVARADO PEÑA",
+            "RECOMPRA O DESEMBOLSO": "4.569.234"
+        }
+    }
+]

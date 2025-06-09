@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "552978074365",
+            "SOLICITUD": "7396732",
+            "CEDULA": "1428977677",
+            "NOMBRES": "CARLOS PACHECO",
+            "RECOMPRA O DESEMBOLSO": "1.311.429",
+            "FIRMA ELLECTRONICA": "CARLOS PACHECO - 1428977677"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "552978074365",
+            "NOMBRES": "CARLOS PACHECO",
+            "CREDITO": "19.170.910",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "346.762",
+            "FIRMA ELLECTRONICA": "CARLOS PACHECO - 1428977677",
+            "AL PIE DE LA FIRMA": "CARLOS PACHECO - 1428977677"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1428977677",
+            "NOMBRES": "CARLOS PACHECO",
+            "FECHA NACIMIENTO": "16/08/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.170.910",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS PACHECO - 1428977677",
+            "AL PIE DE LA FIRMA": "CARLOS PACHECO - 1428977677"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7396732",
+            "CEDULA": "1428977677",
+            "NOMBRES": "CARLOS PACHECO",
+            "CREDITO": "19.170.910",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "346.762",
+            "E.A": "25.63%",
+            "RECOMPRA O DESEMBOLSO": "1.311.429",
+            "FIRMA ELLECTRONICA": "CARLOS PACHECO - 1428977677"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1428977677",
+            "NOMBRES": "CARLOS PACHECO",
+            "FIRMA ELLECTRONICA": "CARLOS PACHECO - 1428977677"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1428977677",
+            "NOMBRES": "CARLOS PACHECO",
+            "FIRMA ELLECTRONICA": "CARLOS PACHECO - 1428977677",
+            "AL PIE DE LA FIRMA": "CARLOS PACHECO - 1428977677"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS PACHECO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1428977677",
+            "NOMBRES": "CARLOS PACHECO",
+            "SALARIO": "3.350.671",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1428977677",
+            "NOMBRES": "CARLOS PACHECO",
+            "RECOMPRA O DESEMBOLSO": "1.311.429"
+        }
+    }
+]

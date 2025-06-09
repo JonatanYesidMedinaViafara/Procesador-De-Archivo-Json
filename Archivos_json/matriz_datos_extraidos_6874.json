@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "495943472590",
+            "SOLICITUD": "9219435",
+            "CEDULA": "1796111306",
+            "NOMBRES": "ISMAEL LÓPEZ MARÍN",
+            "RECOMPRA O DESEMBOLSO": "2.243.607",
+            "FIRMA ELLECTRONICA": "ISMAEL LÓPEZ MARÍN - 1796111306"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "495943472590",
+            "NOMBRES": "ISMAEL LÓPEZ MARÍN",
+            "CREDITO": "13.463.268",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "339.933",
+            "FIRMA ELLECTRONICA": "ISMAEL LÓPEZ MARÍN - 1796111306",
+            "AL PIE DE LA FIRMA": "ISMAEL LÓPEZ MARÍN - 1796111306"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1796111306",
+            "NOMBRES": "ISMAEL LÓPEZ MARÍN",
+            "FECHA NACIMIENTO": "07/02/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.463.268",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ISMAEL LÓPEZ MARÍN - 1796111306",
+            "AL PIE DE LA FIRMA": "ISMAEL LÓPEZ MARÍN - 1796111306"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9219435",
+            "CEDULA": "1796111306",
+            "NOMBRES": "ISMAEL LÓPEZ MARÍN",
+            "CREDITO": "13.463.268",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "339.933",
+            "E.A": "26.91%",
+            "RECOMPRA O DESEMBOLSO": "2.243.607",
+            "FIRMA ELLECTRONICA": "ISMAEL LÓPEZ MARÍN - 1796111306"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1796111306",
+            "NOMBRES": "ISMAEL LÓPEZ MARÍN",
+            "FIRMA ELLECTRONICA": "ISMAEL LÓPEZ MARÍN - 1796111306"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1796111306",
+            "NOMBRES": "ISMAEL LÓPEZ MARÍN",
+            "FIRMA ELLECTRONICA": "ISMAEL LÓPEZ MARÍN - 1796111306",
+            "AL PIE DE LA FIRMA": "ISMAEL LÓPEZ MARÍN - 1796111306"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISMAEL LÓPEZ MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1796111306",
+            "NOMBRES": "ISMAEL LÓPEZ MARÍN",
+            "SALARIO": "4.025.549",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1796111306",
+            "NOMBRES": "ISMAEL LÓPEZ MARÍN",
+            "RECOMPRA O DESEMBOLSO": "2.243.607"
+        }
+    }
+]

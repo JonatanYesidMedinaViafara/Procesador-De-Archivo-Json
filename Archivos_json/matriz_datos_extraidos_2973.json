@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "841207710234",
+            "SOLICITUD": "7482009",
+            "CEDULA": "1274315982",
+            "NOMBRES": "ISABEL MELISSA REYES",
+            "RECOMPRA O DESEMBOLSO": "1.319.745",
+            "FIRMA ELLECTRONICA": "ISABEL MELISSA REYES - 1274315982"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "841207710234",
+            "NOMBRES": "ISABEL MELISSA REYES",
+            "CREDITO": "10.326.272",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "242.156",
+            "FIRMA ELLECTRONICA": "ISABEL MELISSA REYES - 1274315982",
+            "AL PIE DE LA FIRMA": "ISABEL MELISSA REYES - 1274315982"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1274315982",
+            "NOMBRES": "ISABEL MELISSA REYES",
+            "FECHA NACIMIENTO": "04/09/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.326.272",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ISABEL MELISSA REYES - 1274315982",
+            "AL PIE DE LA FIRMA": "ISABEL MELISSA REYES - 1274315982"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7482009",
+            "CEDULA": "1274315982",
+            "NOMBRES": "ISABEL MELISSA REYES",
+            "CREDITO": "10.326.272",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "242.156",
+            "E.A": "18.35%",
+            "RECOMPRA O DESEMBOLSO": "1.319.745",
+            "FIRMA ELLECTRONICA": "ISABEL MELISSA REYES - 1274315982"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1274315982",
+            "NOMBRES": "ISABEL MELISSA REYES",
+            "FIRMA ELLECTRONICA": "ISABEL MELISSA REYES - 1274315982"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1274315982",
+            "NOMBRES": "ISABEL MELISSA REYES",
+            "FIRMA ELLECTRONICA": "ISABEL MELISSA REYES - 1274315982",
+            "AL PIE DE LA FIRMA": "ISABEL MELISSA REYES - 1274315982"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL MELISSA REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1274315982",
+            "NOMBRES": "ISABEL MELISSA REYES",
+            "SALARIO": "3.962.657",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1274315982",
+            "NOMBRES": "ISABEL MELISSA REYES",
+            "RECOMPRA O DESEMBOLSO": "1.319.745"
+        }
+    }
+]

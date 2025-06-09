@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "851604490933",
+            "SOLICITUD": "4515942",
+            "CEDULA": "1966146878",
+            "NOMBRES": "HERNANDO RODRÍGUEZ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.930.693",
+            "FIRMA ELLECTRONICA": "HERNANDO RODRÍGUEZ GARCÍA - 1966146878"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "851604490933",
+            "NOMBRES": "HERNANDO RODRÍGUEZ GARCÍA",
+            "CREDITO": "19.067.615",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "257.044",
+            "FIRMA ELLECTRONICA": "HERNANDO RODRÍGUEZ GARCÍA - 1966146878",
+            "AL PIE DE LA FIRMA": "HERNANDO RODRÍGUEZ GARCÍA - 1966146878"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1966146878",
+            "NOMBRES": "HERNANDO RODRÍGUEZ GARCÍA",
+            "FECHA NACIMIENTO": "08/10/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.067.615",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HERNANDO RODRÍGUEZ GARCÍA - 1966146878",
+            "AL PIE DE LA FIRMA": "HERNANDO RODRÍGUEZ GARCÍA - 1966146878"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4515942",
+            "CEDULA": "1966146878",
+            "NOMBRES": "HERNANDO RODRÍGUEZ GARCÍA",
+            "CREDITO": "19.067.615",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "257.044",
+            "E.A": "27.47%",
+            "RECOMPRA O DESEMBOLSO": "4.930.693",
+            "FIRMA ELLECTRONICA": "HERNANDO RODRÍGUEZ GARCÍA - 1966146878"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1966146878",
+            "NOMBRES": "HERNANDO RODRÍGUEZ GARCÍA",
+            "FIRMA ELLECTRONICA": "HERNANDO RODRÍGUEZ GARCÍA - 1966146878"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1966146878",
+            "NOMBRES": "HERNANDO RODRÍGUEZ GARCÍA",
+            "FIRMA ELLECTRONICA": "HERNANDO RODRÍGUEZ GARCÍA - 1966146878",
+            "AL PIE DE LA FIRMA": "HERNANDO RODRÍGUEZ GARCÍA - 1966146878"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNANDO RODRÍGUEZ GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1966146878",
+            "NOMBRES": "HERNANDO RODRÍGUEZ GARCÍA",
+            "SALARIO": "1.430.622",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1966146878",
+            "NOMBRES": "HERNANDO RODRÍGUEZ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.930.693"
+        }
+    }
+]

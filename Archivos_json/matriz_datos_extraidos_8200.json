@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "758619420253",
+            "SOLICITUD": "7904576",
+            "CEDULA": "1342148382",
+            "NOMBRES": "CONSUELO GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.830.854",
+            "FIRMA ELLECTRONICA": "CONSUELO GIRALDO - 1342148382"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "758619420253",
+            "NOMBRES": "CONSUELO GIRALDO",
+            "CREDITO": "8.459.272",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "189.12",
+            "FIRMA ELLECTRONICA": "CONSUELO GIRALDO - 1342148382",
+            "AL PIE DE LA FIRMA": "CONSUELO GIRALDO - 1342148382"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1342148382",
+            "NOMBRES": "CONSUELO GIRALDO",
+            "FECHA NACIMIENTO": "01/01/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.459.272",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CONSUELO GIRALDO - 1342148382",
+            "AL PIE DE LA FIRMA": "CONSUELO GIRALDO - 1342148382"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7904576",
+            "CEDULA": "1342148382",
+            "NOMBRES": "CONSUELO GIRALDO",
+            "CREDITO": "8.459.272",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "189.12",
+            "E.A": "19.52%",
+            "RECOMPRA O DESEMBOLSO": "3.830.854",
+            "FIRMA ELLECTRONICA": "CONSUELO GIRALDO - 1342148382"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1342148382",
+            "NOMBRES": "CONSUELO GIRALDO",
+            "FIRMA ELLECTRONICA": "CONSUELO GIRALDO - 1342148382"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1342148382",
+            "NOMBRES": "CONSUELO GIRALDO",
+            "FIRMA ELLECTRONICA": "CONSUELO GIRALDO - 1342148382",
+            "AL PIE DE LA FIRMA": "CONSUELO GIRALDO - 1342148382"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CONSUELO GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1342148382",
+            "NOMBRES": "CONSUELO GIRALDO",
+            "SALARIO": "4.538.675",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1342148382",
+            "NOMBRES": "CONSUELO GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.830.854"
+        }
+    }
+]

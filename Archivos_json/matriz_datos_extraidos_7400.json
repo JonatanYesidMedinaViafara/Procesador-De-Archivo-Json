@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "790131807227",
+            "SOLICITUD": "6551654",
+            "CEDULA": "1727540463",
+            "NOMBRES": "ANDREY BUSTOS",
+            "RECOMPRA O DESEMBOLSO": "4.357.838",
+            "FIRMA ELLECTRONICA": "ANDREY BUSTOS - 1727540463"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "790131807227",
+            "NOMBRES": "ANDREY BUSTOS",
+            "CREDITO": "6.667.688",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "111.016",
+            "FIRMA ELLECTRONICA": "ANDREY BUSTOS - 1727540463",
+            "AL PIE DE LA FIRMA": "ANDREY BUSTOS - 1727540463"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1727540463",
+            "NOMBRES": "ANDREY BUSTOS",
+            "FECHA NACIMIENTO": "27/06/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.667.688",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDREY BUSTOS - 1727540463",
+            "AL PIE DE LA FIRMA": "ANDREY BUSTOS - 1727540463"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6551654",
+            "CEDULA": "1727540463",
+            "NOMBRES": "ANDREY BUSTOS",
+            "CREDITO": "6.667.688",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "111.016",
+            "E.A": "23.7%",
+            "RECOMPRA O DESEMBOLSO": "4.357.838",
+            "FIRMA ELLECTRONICA": "ANDREY BUSTOS - 1727540463"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1727540463",
+            "NOMBRES": "ANDREY BUSTOS",
+            "FIRMA ELLECTRONICA": "ANDREY BUSTOS - 1727540463"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1727540463",
+            "NOMBRES": "ANDREY BUSTOS",
+            "FIRMA ELLECTRONICA": "ANDREY BUSTOS - 1727540463",
+            "AL PIE DE LA FIRMA": "ANDREY BUSTOS - 1727540463"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREY BUSTOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1727540463",
+            "NOMBRES": "ANDREY BUSTOS",
+            "SALARIO": "1.853.453",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1727540463",
+            "NOMBRES": "ANDREY BUSTOS",
+            "RECOMPRA O DESEMBOLSO": "4.357.838"
+        }
+    }
+]

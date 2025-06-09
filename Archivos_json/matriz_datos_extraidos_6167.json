@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "534236303946",
+            "SOLICITUD": "5104662",
+            "CEDULA": "1072494102",
+            "NOMBRES": "LUIS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.903.958",
+            "FIRMA ELLECTRONICA": "LUIS GARCÍA - 1072494102"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "534236303946",
+            "NOMBRES": "LUIS GARCÍA",
+            "CREDITO": "14.181.656",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "140.036",
+            "FIRMA ELLECTRONICA": "LUIS GARCÍA - 1072494102",
+            "AL PIE DE LA FIRMA": "LUIS GARCÍA - 1072494102"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1072494102",
+            "NOMBRES": "LUIS GARCÍA",
+            "FECHA NACIMIENTO": "14/05/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.181.656",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS GARCÍA - 1072494102",
+            "AL PIE DE LA FIRMA": "LUIS GARCÍA - 1072494102"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5104662",
+            "CEDULA": "1072494102",
+            "NOMBRES": "LUIS GARCÍA",
+            "CREDITO": "14.181.656",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "140.036",
+            "E.A": "23.69%",
+            "RECOMPRA O DESEMBOLSO": "4.903.958",
+            "FIRMA ELLECTRONICA": "LUIS GARCÍA - 1072494102"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1072494102",
+            "NOMBRES": "LUIS GARCÍA",
+            "FIRMA ELLECTRONICA": "LUIS GARCÍA - 1072494102"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1072494102",
+            "NOMBRES": "LUIS GARCÍA",
+            "FIRMA ELLECTRONICA": "LUIS GARCÍA - 1072494102",
+            "AL PIE DE LA FIRMA": "LUIS GARCÍA - 1072494102"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1072494102",
+            "NOMBRES": "LUIS GARCÍA",
+            "SALARIO": "1.891.148",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1072494102",
+            "NOMBRES": "LUIS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.903.958"
+        }
+    }
+]

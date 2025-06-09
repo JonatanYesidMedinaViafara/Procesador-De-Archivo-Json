@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "623075342394",
+            "SOLICITUD": "6331766",
+            "CEDULA": "1721574923",
+            "NOMBRES": "MARÍA ANA GIL",
+            "RECOMPRA O DESEMBOLSO": "4.474.726",
+            "FIRMA ELLECTRONICA": "MARÍA ANA GIL - 1721574923"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "623075342394",
+            "NOMBRES": "MARÍA ANA GIL",
+            "CREDITO": "9.925.874",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "124.813",
+            "FIRMA ELLECTRONICA": "MARÍA ANA GIL - 1721574923",
+            "AL PIE DE LA FIRMA": "MARÍA ANA GIL - 1721574923"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1721574923",
+            "NOMBRES": "MARÍA ANA GIL",
+            "FECHA NACIMIENTO": "08/04/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.925.874",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA ANA GIL - 1721574923",
+            "AL PIE DE LA FIRMA": "MARÍA ANA GIL - 1721574923"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6331766",
+            "CEDULA": "1721574923",
+            "NOMBRES": "MARÍA ANA GIL",
+            "CREDITO": "9.925.874",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "124.813",
+            "E.A": "27.36%",
+            "RECOMPRA O DESEMBOLSO": "4.474.726",
+            "FIRMA ELLECTRONICA": "MARÍA ANA GIL - 1721574923"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1721574923",
+            "NOMBRES": "MARÍA ANA GIL",
+            "FIRMA ELLECTRONICA": "MARÍA ANA GIL - 1721574923"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1721574923",
+            "NOMBRES": "MARÍA ANA GIL",
+            "FIRMA ELLECTRONICA": "MARÍA ANA GIL - 1721574923",
+            "AL PIE DE LA FIRMA": "MARÍA ANA GIL - 1721574923"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ANA GIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1721574923",
+            "NOMBRES": "MARÍA ANA GIL",
+            "SALARIO": "3.300.355",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1721574923",
+            "NOMBRES": "MARÍA ANA GIL",
+            "RECOMPRA O DESEMBOLSO": "4.474.726"
+        }
+    }
+]

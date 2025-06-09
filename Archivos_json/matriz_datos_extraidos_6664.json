@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "851346600350",
+            "SOLICITUD": "7819007",
+            "CEDULA": "1886298667",
+            "NOMBRES": "DAVID MUÑOZ MEJÍA",
+            "RECOMPRA O DESEMBOLSO": "3.473.149",
+            "FIRMA ELLECTRONICA": "DAVID MUÑOZ MEJÍA - 1886298667"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "851346600350",
+            "NOMBRES": "DAVID MUÑOZ MEJÍA",
+            "CREDITO": "9.488.623",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "237.688",
+            "FIRMA ELLECTRONICA": "DAVID MUÑOZ MEJÍA - 1886298667",
+            "AL PIE DE LA FIRMA": "DAVID MUÑOZ MEJÍA - 1886298667"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1886298667",
+            "NOMBRES": "DAVID MUÑOZ MEJÍA",
+            "FECHA NACIMIENTO": "08/10/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.488.623",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DAVID MUÑOZ MEJÍA - 1886298667",
+            "AL PIE DE LA FIRMA": "DAVID MUÑOZ MEJÍA - 1886298667"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7819007",
+            "CEDULA": "1886298667",
+            "NOMBRES": "DAVID MUÑOZ MEJÍA",
+            "CREDITO": "9.488.623",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "237.688",
+            "E.A": "28.2%",
+            "RECOMPRA O DESEMBOLSO": "3.473.149",
+            "FIRMA ELLECTRONICA": "DAVID MUÑOZ MEJÍA - 1886298667"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1886298667",
+            "NOMBRES": "DAVID MUÑOZ MEJÍA",
+            "FIRMA ELLECTRONICA": "DAVID MUÑOZ MEJÍA - 1886298667"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1886298667",
+            "NOMBRES": "DAVID MUÑOZ MEJÍA",
+            "FIRMA ELLECTRONICA": "DAVID MUÑOZ MEJÍA - 1886298667",
+            "AL PIE DE LA FIRMA": "DAVID MUÑOZ MEJÍA - 1886298667"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID MUÑOZ MEJÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1886298667",
+            "NOMBRES": "DAVID MUÑOZ MEJÍA",
+            "SALARIO": "2.684.824",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1886298667",
+            "NOMBRES": "DAVID MUÑOZ MEJÍA",
+            "RECOMPRA O DESEMBOLSO": "3.473.149"
+        }
+    }
+]

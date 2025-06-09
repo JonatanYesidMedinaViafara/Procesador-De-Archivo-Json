@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "637597674961",
+            "SOLICITUD": "5805767",
+            "CEDULA": "1200350645",
+            "NOMBRES": "JOSÉ TRIANA",
+            "RECOMPRA O DESEMBOLSO": "3.715.198",
+            "FIRMA ELLECTRONICA": "JOSÉ TRIANA - 1200350645"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "637597674961",
+            "NOMBRES": "JOSÉ TRIANA",
+            "CREDITO": "14.302.600",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "131.665",
+            "FIRMA ELLECTRONICA": "JOSÉ TRIANA - 1200350645",
+            "AL PIE DE LA FIRMA": "JOSÉ TRIANA - 1200350645"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1200350645",
+            "NOMBRES": "JOSÉ TRIANA",
+            "FECHA NACIMIENTO": "14/02/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.302.600",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ TRIANA - 1200350645",
+            "AL PIE DE LA FIRMA": "JOSÉ TRIANA - 1200350645"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5805767",
+            "CEDULA": "1200350645",
+            "NOMBRES": "JOSÉ TRIANA",
+            "CREDITO": "14.302.600",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "131.665",
+            "E.A": "18.42%",
+            "RECOMPRA O DESEMBOLSO": "3.715.198",
+            "FIRMA ELLECTRONICA": "JOSÉ TRIANA - 1200350645"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1200350645",
+            "NOMBRES": "JOSÉ TRIANA",
+            "FIRMA ELLECTRONICA": "JOSÉ TRIANA - 1200350645"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1200350645",
+            "NOMBRES": "JOSÉ TRIANA",
+            "FIRMA ELLECTRONICA": "JOSÉ TRIANA - 1200350645",
+            "AL PIE DE LA FIRMA": "JOSÉ TRIANA - 1200350645"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ TRIANA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1200350645",
+            "NOMBRES": "JOSÉ TRIANA",
+            "SALARIO": "2.696.619",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1200350645",
+            "NOMBRES": "JOSÉ TRIANA",
+            "RECOMPRA O DESEMBOLSO": "3.715.198"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "826419012782",
+            "SOLICITUD": "9928756",
+            "CEDULA": "1450353979",
+            "NOMBRES": "EDWARD OSPINA",
+            "RECOMPRA O DESEMBOLSO": "4.492.012",
+            "FIRMA ELLECTRONICA": "EDWARD OSPINA - 1450353979"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "826419012782",
+            "NOMBRES": "EDWARD OSPINA",
+            "CREDITO": "17.093.964",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "183.654",
+            "FIRMA ELLECTRONICA": "EDWARD OSPINA - 1450353979",
+            "AL PIE DE LA FIRMA": "EDWARD OSPINA - 1450353979"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1450353979",
+            "NOMBRES": "EDWARD OSPINA",
+            "FECHA NACIMIENTO": "22/08/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.093.964",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDWARD OSPINA - 1450353979",
+            "AL PIE DE LA FIRMA": "EDWARD OSPINA - 1450353979"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9928756",
+            "CEDULA": "1450353979",
+            "NOMBRES": "EDWARD OSPINA",
+            "CREDITO": "17.093.964",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "183.654",
+            "E.A": "27.39%",
+            "RECOMPRA O DESEMBOLSO": "4.492.012",
+            "FIRMA ELLECTRONICA": "EDWARD OSPINA - 1450353979"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1450353979",
+            "NOMBRES": "EDWARD OSPINA",
+            "FIRMA ELLECTRONICA": "EDWARD OSPINA - 1450353979"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1450353979",
+            "NOMBRES": "EDWARD OSPINA",
+            "FIRMA ELLECTRONICA": "EDWARD OSPINA - 1450353979",
+            "AL PIE DE LA FIRMA": "EDWARD OSPINA - 1450353979"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDWARD OSPINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1450353979",
+            "NOMBRES": "EDWARD OSPINA",
+            "SALARIO": "1.908.228",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1450353979",
+            "NOMBRES": "EDWARD OSPINA",
+            "RECOMPRA O DESEMBOLSO": "4.492.012"
+        }
+    }
+]

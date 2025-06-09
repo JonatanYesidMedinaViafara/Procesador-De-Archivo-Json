@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "648197743576",
+            "SOLICITUD": "9006857",
+            "CEDULA": "1004927339",
+            "NOMBRES": "JESÚS MENDOZA BONILLA",
+            "RECOMPRA O DESEMBOLSO": "3.530.116",
+            "FIRMA ELLECTRONICA": "JESÚS MENDOZA BONILLA - 1004927339"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "648197743576",
+            "NOMBRES": "JESÚS MENDOZA BONILLA",
+            "CREDITO": "8.179.834",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "356.279",
+            "FIRMA ELLECTRONICA": "JESÚS MENDOZA BONILLA - 1004927339",
+            "AL PIE DE LA FIRMA": "JESÚS MENDOZA BONILLA - 1004927339"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1004927339",
+            "NOMBRES": "JESÚS MENDOZA BONILLA",
+            "FECHA NACIMIENTO": "30/11/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.179.834",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JESÚS MENDOZA BONILLA - 1004927339",
+            "AL PIE DE LA FIRMA": "JESÚS MENDOZA BONILLA - 1004927339"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9006857",
+            "CEDULA": "1004927339",
+            "NOMBRES": "JESÚS MENDOZA BONILLA",
+            "CREDITO": "8.179.834",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "356.279",
+            "E.A": "27.93%",
+            "RECOMPRA O DESEMBOLSO": "3.530.116",
+            "FIRMA ELLECTRONICA": "JESÚS MENDOZA BONILLA - 1004927339"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1004927339",
+            "NOMBRES": "JESÚS MENDOZA BONILLA",
+            "FIRMA ELLECTRONICA": "JESÚS MENDOZA BONILLA - 1004927339"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1004927339",
+            "NOMBRES": "JESÚS MENDOZA BONILLA",
+            "FIRMA ELLECTRONICA": "JESÚS MENDOZA BONILLA - 1004927339",
+            "AL PIE DE LA FIRMA": "JESÚS MENDOZA BONILLA - 1004927339"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS MENDOZA BONILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1004927339",
+            "NOMBRES": "JESÚS MENDOZA BONILLA",
+            "SALARIO": "1.412.738",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1004927339",
+            "NOMBRES": "JESÚS MENDOZA BONILLA",
+            "RECOMPRA O DESEMBOLSO": "3.530.116"
+        }
+    }
+]

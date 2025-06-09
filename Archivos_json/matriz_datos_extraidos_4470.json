@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "644494783555",
+            "SOLICITUD": "5660251",
+            "CEDULA": "1309550586",
+            "NOMBRES": "ALEJANDRO ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "1.607.096",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ZAPATA - 1309550586"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "644494783555",
+            "NOMBRES": "ALEJANDRO ZAPATA",
+            "CREDITO": "15.155.673",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "320.449",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ZAPATA - 1309550586",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ZAPATA - 1309550586"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1309550586",
+            "NOMBRES": "ALEJANDRO ZAPATA",
+            "FECHA NACIMIENTO": "26/09/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.155.673",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ZAPATA - 1309550586",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ZAPATA - 1309550586"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5660251",
+            "CEDULA": "1309550586",
+            "NOMBRES": "ALEJANDRO ZAPATA",
+            "CREDITO": "15.155.673",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "320.449",
+            "E.A": "20.36%",
+            "RECOMPRA O DESEMBOLSO": "1.607.096",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ZAPATA - 1309550586"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1309550586",
+            "NOMBRES": "ALEJANDRO ZAPATA",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ZAPATA - 1309550586"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1309550586",
+            "NOMBRES": "ALEJANDRO ZAPATA",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ZAPATA - 1309550586",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ZAPATA - 1309550586"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1309550586",
+            "NOMBRES": "ALEJANDRO ZAPATA",
+            "SALARIO": "1.602.010",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1309550586",
+            "NOMBRES": "ALEJANDRO ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "1.607.096"
+        }
+    }
+]

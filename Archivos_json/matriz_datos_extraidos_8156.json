@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "585247278286",
+            "SOLICITUD": "1287428",
+            "CEDULA": "1235405933",
+            "NOMBRES": "ELIZABETH ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "2.104.187",
+            "FIRMA ELLECTRONICA": "ELIZABETH ORTEGA - 1235405933"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "585247278286",
+            "NOMBRES": "ELIZABETH ORTEGA",
+            "CREDITO": "7.045.430",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "209.13",
+            "FIRMA ELLECTRONICA": "ELIZABETH ORTEGA - 1235405933",
+            "AL PIE DE LA FIRMA": "ELIZABETH ORTEGA - 1235405933"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1235405933",
+            "NOMBRES": "ELIZABETH ORTEGA",
+            "FECHA NACIMIENTO": "02/12/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.045.430",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ELIZABETH ORTEGA - 1235405933",
+            "AL PIE DE LA FIRMA": "ELIZABETH ORTEGA - 1235405933"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1287428",
+            "CEDULA": "1235405933",
+            "NOMBRES": "ELIZABETH ORTEGA",
+            "CREDITO": "7.045.430",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "209.13",
+            "E.A": "21.97%",
+            "RECOMPRA O DESEMBOLSO": "2.104.187",
+            "FIRMA ELLECTRONICA": "ELIZABETH ORTEGA - 1235405933"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1235405933",
+            "NOMBRES": "ELIZABETH ORTEGA",
+            "FIRMA ELLECTRONICA": "ELIZABETH ORTEGA - 1235405933"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1235405933",
+            "NOMBRES": "ELIZABETH ORTEGA",
+            "FIRMA ELLECTRONICA": "ELIZABETH ORTEGA - 1235405933",
+            "AL PIE DE LA FIRMA": "ELIZABETH ORTEGA - 1235405933"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELIZABETH ORTEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1235405933",
+            "NOMBRES": "ELIZABETH ORTEGA",
+            "SALARIO": "2.331.656",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1235405933",
+            "NOMBRES": "ELIZABETH ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "2.104.187"
+        }
+    }
+]

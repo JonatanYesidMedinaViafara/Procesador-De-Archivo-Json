@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "815828855705",
+            "SOLICITUD": "4188541",
+            "CEDULA": "1238516073",
+            "NOMBRES": "JORGE RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.632.592",
+            "FIRMA ELLECTRONICA": "JORGE RODRÍGUEZ - 1238516073"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "815828855705",
+            "NOMBRES": "JORGE RODRÍGUEZ",
+            "CREDITO": "8.528.638",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "288.022",
+            "FIRMA ELLECTRONICA": "JORGE RODRÍGUEZ - 1238516073",
+            "AL PIE DE LA FIRMA": "JORGE RODRÍGUEZ - 1238516073"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1238516073",
+            "NOMBRES": "JORGE RODRÍGUEZ",
+            "FECHA NACIMIENTO": "01/07/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.528.638",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JORGE RODRÍGUEZ - 1238516073",
+            "AL PIE DE LA FIRMA": "JORGE RODRÍGUEZ - 1238516073"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4188541",
+            "CEDULA": "1238516073",
+            "NOMBRES": "JORGE RODRÍGUEZ",
+            "CREDITO": "8.528.638",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "288.022",
+            "E.A": "27.25%",
+            "RECOMPRA O DESEMBOLSO": "3.632.592",
+            "FIRMA ELLECTRONICA": "JORGE RODRÍGUEZ - 1238516073"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1238516073",
+            "NOMBRES": "JORGE RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JORGE RODRÍGUEZ - 1238516073"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1238516073",
+            "NOMBRES": "JORGE RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JORGE RODRÍGUEZ - 1238516073",
+            "AL PIE DE LA FIRMA": "JORGE RODRÍGUEZ - 1238516073"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1238516073",
+            "NOMBRES": "JORGE RODRÍGUEZ",
+            "SALARIO": "3.021.427",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "28/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1238516073",
+            "NOMBRES": "JORGE RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.632.592"
+        }
+    }
+]

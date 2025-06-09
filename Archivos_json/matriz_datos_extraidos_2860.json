@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "401053359622",
+            "SOLICITUD": "1328605",
+            "CEDULA": "1151154053",
+            "NOMBRES": "MIRYAM MARÍA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "3.362.197",
+            "FIRMA ELLECTRONICA": "MIRYAM MARÍA RUIZ - 1151154053"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "401053359622",
+            "NOMBRES": "MIRYAM MARÍA RUIZ",
+            "CREDITO": "7.831.434",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "231.566",
+            "FIRMA ELLECTRONICA": "MIRYAM MARÍA RUIZ - 1151154053",
+            "AL PIE DE LA FIRMA": "MIRYAM MARÍA RUIZ - 1151154053"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1151154053",
+            "NOMBRES": "MIRYAM MARÍA RUIZ",
+            "FECHA NACIMIENTO": "22/04/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.831.434",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MIRYAM MARÍA RUIZ - 1151154053",
+            "AL PIE DE LA FIRMA": "MIRYAM MARÍA RUIZ - 1151154053"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1328605",
+            "CEDULA": "1151154053",
+            "NOMBRES": "MIRYAM MARÍA RUIZ",
+            "CREDITO": "7.831.434",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "231.566",
+            "E.A": "26.6%",
+            "RECOMPRA O DESEMBOLSO": "3.362.197",
+            "FIRMA ELLECTRONICA": "MIRYAM MARÍA RUIZ - 1151154053"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1151154053",
+            "NOMBRES": "MIRYAM MARÍA RUIZ",
+            "FIRMA ELLECTRONICA": "MIRYAM MARÍA RUIZ - 1151154053"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1151154053",
+            "NOMBRES": "MIRYAM MARÍA RUIZ",
+            "FIRMA ELLECTRONICA": "MIRYAM MARÍA RUIZ - 1151154053",
+            "AL PIE DE LA FIRMA": "MIRYAM MARÍA RUIZ - 1151154053"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIRYAM MARÍA RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1151154053",
+            "NOMBRES": "MIRYAM MARÍA RUIZ",
+            "SALARIO": "1.653.944",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1151154053",
+            "NOMBRES": "MIRYAM MARÍA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "3.362.197"
+        }
+    }
+]

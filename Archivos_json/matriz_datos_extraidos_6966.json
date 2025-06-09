@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "848639818021",
+            "SOLICITUD": "4721410",
+            "CEDULA": "1001101064",
+            "NOMBRES": "MARÍA FORERO CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "1.580.524",
+            "FIRMA ELLECTRONICA": "MARÍA FORERO CÁRDENAS - 1001101064"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "848639818021",
+            "NOMBRES": "MARÍA FORERO CÁRDENAS",
+            "CREDITO": "8.132.641",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "144.395",
+            "FIRMA ELLECTRONICA": "MARÍA FORERO CÁRDENAS - 1001101064",
+            "AL PIE DE LA FIRMA": "MARÍA FORERO CÁRDENAS - 1001101064"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1001101064",
+            "NOMBRES": "MARÍA FORERO CÁRDENAS",
+            "FECHA NACIMIENTO": "15/05/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.132.641",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA FORERO CÁRDENAS - 1001101064",
+            "AL PIE DE LA FIRMA": "MARÍA FORERO CÁRDENAS - 1001101064"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4721410",
+            "CEDULA": "1001101064",
+            "NOMBRES": "MARÍA FORERO CÁRDENAS",
+            "CREDITO": "8.132.641",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "144.395",
+            "E.A": "28.44%",
+            "RECOMPRA O DESEMBOLSO": "1.580.524",
+            "FIRMA ELLECTRONICA": "MARÍA FORERO CÁRDENAS - 1001101064"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1001101064",
+            "NOMBRES": "MARÍA FORERO CÁRDENAS",
+            "FIRMA ELLECTRONICA": "MARÍA FORERO CÁRDENAS - 1001101064"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1001101064",
+            "NOMBRES": "MARÍA FORERO CÁRDENAS",
+            "FIRMA ELLECTRONICA": "MARÍA FORERO CÁRDENAS - 1001101064",
+            "AL PIE DE LA FIRMA": "MARÍA FORERO CÁRDENAS - 1001101064"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA FORERO CÁRDENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1001101064",
+            "NOMBRES": "MARÍA FORERO CÁRDENAS",
+            "SALARIO": "3.795.121",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1001101064",
+            "NOMBRES": "MARÍA FORERO CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "1.580.524"
+        }
+    }
+]

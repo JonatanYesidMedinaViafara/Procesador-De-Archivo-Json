@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "756111202795",
+            "SOLICITUD": "4923458",
+            "CEDULA": "1197966922",
+            "NOMBRES": "ESPERANZA PINEDA",
+            "RECOMPRA O DESEMBOLSO": "4.231.188",
+            "FIRMA ELLECTRONICA": "ESPERANZA PINEDA - 1197966922"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "756111202795",
+            "NOMBRES": "ESPERANZA PINEDA",
+            "CREDITO": "7.760.282",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "336.056",
+            "FIRMA ELLECTRONICA": "ESPERANZA PINEDA - 1197966922",
+            "AL PIE DE LA FIRMA": "ESPERANZA PINEDA - 1197966922"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1197966922",
+            "NOMBRES": "ESPERANZA PINEDA",
+            "FECHA NACIMIENTO": "26/05/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.760.282",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ESPERANZA PINEDA - 1197966922",
+            "AL PIE DE LA FIRMA": "ESPERANZA PINEDA - 1197966922"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4923458",
+            "CEDULA": "1197966922",
+            "NOMBRES": "ESPERANZA PINEDA",
+            "CREDITO": "7.760.282",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "336.056",
+            "E.A": "23.93%",
+            "RECOMPRA O DESEMBOLSO": "4.231.188",
+            "FIRMA ELLECTRONICA": "ESPERANZA PINEDA - 1197966922"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1197966922",
+            "NOMBRES": "ESPERANZA PINEDA",
+            "FIRMA ELLECTRONICA": "ESPERANZA PINEDA - 1197966922"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1197966922",
+            "NOMBRES": "ESPERANZA PINEDA",
+            "FIRMA ELLECTRONICA": "ESPERANZA PINEDA - 1197966922",
+            "AL PIE DE LA FIRMA": "ESPERANZA PINEDA - 1197966922"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESPERANZA PINEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1197966922",
+            "NOMBRES": "ESPERANZA PINEDA",
+            "SALARIO": "4.025.349",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1197966922",
+            "NOMBRES": "ESPERANZA PINEDA",
+            "RECOMPRA O DESEMBOLSO": "4.231.188"
+        }
+    }
+]

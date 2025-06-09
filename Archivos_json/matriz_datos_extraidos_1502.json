@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "446192755176",
+            "SOLICITUD": "1294694",
+            "CEDULA": "1199238082",
+            "NOMBRES": "JAIME GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.444.618",
+            "FIRMA ELLECTRONICA": "JAIME GÓMEZ - 1199238082"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "446192755176",
+            "NOMBRES": "JAIME GÓMEZ",
+            "CREDITO": "9.839.250",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.479",
+            "FIRMA ELLECTRONICA": "JAIME GÓMEZ - 1199238082",
+            "AL PIE DE LA FIRMA": "JAIME GÓMEZ - 1199238082"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1199238082",
+            "NOMBRES": "JAIME GÓMEZ",
+            "FECHA NACIMIENTO": "07/11/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.839.250",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAIME GÓMEZ - 1199238082",
+            "AL PIE DE LA FIRMA": "JAIME GÓMEZ - 1199238082"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1294694",
+            "CEDULA": "1199238082",
+            "NOMBRES": "JAIME GÓMEZ",
+            "CREDITO": "9.839.250",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.479",
+            "E.A": "20.24%",
+            "RECOMPRA O DESEMBOLSO": "2.444.618",
+            "FIRMA ELLECTRONICA": "JAIME GÓMEZ - 1199238082"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1199238082",
+            "NOMBRES": "JAIME GÓMEZ",
+            "FIRMA ELLECTRONICA": "JAIME GÓMEZ - 1199238082"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1199238082",
+            "NOMBRES": "JAIME GÓMEZ",
+            "FIRMA ELLECTRONICA": "JAIME GÓMEZ - 1199238082",
+            "AL PIE DE LA FIRMA": "JAIME GÓMEZ - 1199238082"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIME GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1199238082",
+            "NOMBRES": "JAIME GÓMEZ",
+            "SALARIO": "2.359.877",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1199238082",
+            "NOMBRES": "JAIME GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.444.618"
+        }
+    }
+]

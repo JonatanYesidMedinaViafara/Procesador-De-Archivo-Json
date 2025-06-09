@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "859157070402",
+            "SOLICITUD": "6130469",
+            "CEDULA": "1722713710",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.939.355",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1722713710"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "859157070402",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "CREDITO": "10.050.063",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "135.33",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1722713710",
+            "AL PIE DE LA FIRMA": "LUIS MARTÍNEZ - 1722713710"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1722713710",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "FECHA NACIMIENTO": "19/10/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.050.063",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1722713710",
+            "AL PIE DE LA FIRMA": "LUIS MARTÍNEZ - 1722713710"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6130469",
+            "CEDULA": "1722713710",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "CREDITO": "10.050.063",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "135.33",
+            "E.A": "23.85%",
+            "RECOMPRA O DESEMBOLSO": "1.939.355",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1722713710"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1722713710",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1722713710"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1722713710",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "LUIS MARTÍNEZ - 1722713710",
+            "AL PIE DE LA FIRMA": "LUIS MARTÍNEZ - 1722713710"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1722713710",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "SALARIO": "1.290.506",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1722713710",
+            "NOMBRES": "LUIS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.939.355"
+        }
+    }
+]

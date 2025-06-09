@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "218609816318",
+            "SOLICITUD": "3340304",
+            "CEDULA": "1831478284",
+            "NOMBRES": "DIDIER CASTILLO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.726.862",
+            "FIRMA ELLECTRONICA": "DIDIER CASTILLO SÁNCHEZ - 1831478284"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "218609816318",
+            "NOMBRES": "DIDIER CASTILLO SÁNCHEZ",
+            "CREDITO": "19.168.720",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "332.196",
+            "FIRMA ELLECTRONICA": "DIDIER CASTILLO SÁNCHEZ - 1831478284",
+            "AL PIE DE LA FIRMA": "DIDIER CASTILLO SÁNCHEZ - 1831478284"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1831478284",
+            "NOMBRES": "DIDIER CASTILLO SÁNCHEZ",
+            "FECHA NACIMIENTO": "28/06/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.168.720",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DIDIER CASTILLO SÁNCHEZ - 1831478284",
+            "AL PIE DE LA FIRMA": "DIDIER CASTILLO SÁNCHEZ - 1831478284"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3340304",
+            "CEDULA": "1831478284",
+            "NOMBRES": "DIDIER CASTILLO SÁNCHEZ",
+            "CREDITO": "19.168.720",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "332.196",
+            "E.A": "26.81%",
+            "RECOMPRA O DESEMBOLSO": "1.726.862",
+            "FIRMA ELLECTRONICA": "DIDIER CASTILLO SÁNCHEZ - 1831478284"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1831478284",
+            "NOMBRES": "DIDIER CASTILLO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "DIDIER CASTILLO SÁNCHEZ - 1831478284"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1831478284",
+            "NOMBRES": "DIDIER CASTILLO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "DIDIER CASTILLO SÁNCHEZ - 1831478284",
+            "AL PIE DE LA FIRMA": "DIDIER CASTILLO SÁNCHEZ - 1831478284"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIDIER CASTILLO SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1831478284",
+            "NOMBRES": "DIDIER CASTILLO SÁNCHEZ",
+            "SALARIO": "4.500.250",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1831478284",
+            "NOMBRES": "DIDIER CASTILLO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.726.862"
+        }
+    }
+]

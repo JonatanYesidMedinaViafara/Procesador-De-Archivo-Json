@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "777490850177",
+            "SOLICITUD": "8925303",
+            "CEDULA": "1493805601",
+            "NOMBRES": "FREDY GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "2.239.476",
+            "FIRMA ELLECTRONICA": "FREDY GALLEGO - 1493805601"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "777490850177",
+            "NOMBRES": "FREDY GALLEGO",
+            "CREDITO": "8.014.089",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "292.264",
+            "FIRMA ELLECTRONICA": "FREDY GALLEGO - 1493805601",
+            "AL PIE DE LA FIRMA": "FREDY GALLEGO - 1493805601"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1493805601",
+            "NOMBRES": "FREDY GALLEGO",
+            "FECHA NACIMIENTO": "08/02/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.014.089",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FREDY GALLEGO - 1493805601",
+            "AL PIE DE LA FIRMA": "FREDY GALLEGO - 1493805601"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8925303",
+            "CEDULA": "1493805601",
+            "NOMBRES": "FREDY GALLEGO",
+            "CREDITO": "8.014.089",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "292.264",
+            "E.A": "25.38%",
+            "RECOMPRA O DESEMBOLSO": "2.239.476",
+            "FIRMA ELLECTRONICA": "FREDY GALLEGO - 1493805601"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1493805601",
+            "NOMBRES": "FREDY GALLEGO",
+            "FIRMA ELLECTRONICA": "FREDY GALLEGO - 1493805601"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1493805601",
+            "NOMBRES": "FREDY GALLEGO",
+            "FIRMA ELLECTRONICA": "FREDY GALLEGO - 1493805601",
+            "AL PIE DE LA FIRMA": "FREDY GALLEGO - 1493805601"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FREDY GALLEGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1493805601",
+            "NOMBRES": "FREDY GALLEGO",
+            "SALARIO": "1.422.712",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1493805601",
+            "NOMBRES": "FREDY GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "2.239.476"
+        }
+    }
+]

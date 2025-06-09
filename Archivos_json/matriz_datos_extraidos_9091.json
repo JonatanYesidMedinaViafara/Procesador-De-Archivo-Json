@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "682215956985",
+            "SOLICITUD": "8672517",
+            "CEDULA": "1736643733",
+            "NOMBRES": "MAGDA OLGA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.445.278",
+            "FIRMA ELLECTRONICA": "MAGDA OLGA GARCÍA - 1736643733"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "682215956985",
+            "NOMBRES": "MAGDA OLGA GARCÍA",
+            "CREDITO": "15.659.162",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "175.519",
+            "FIRMA ELLECTRONICA": "MAGDA OLGA GARCÍA - 1736643733",
+            "AL PIE DE LA FIRMA": "MAGDA OLGA GARCÍA - 1736643733"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1736643733",
+            "NOMBRES": "MAGDA OLGA GARCÍA",
+            "FECHA NACIMIENTO": "22/09/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.659.162",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MAGDA OLGA GARCÍA - 1736643733",
+            "AL PIE DE LA FIRMA": "MAGDA OLGA GARCÍA - 1736643733"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8672517",
+            "CEDULA": "1736643733",
+            "NOMBRES": "MAGDA OLGA GARCÍA",
+            "CREDITO": "15.659.162",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "175.519",
+            "E.A": "24.6%",
+            "RECOMPRA O DESEMBOLSO": "2.445.278",
+            "FIRMA ELLECTRONICA": "MAGDA OLGA GARCÍA - 1736643733"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1736643733",
+            "NOMBRES": "MAGDA OLGA GARCÍA",
+            "FIRMA ELLECTRONICA": "MAGDA OLGA GARCÍA - 1736643733"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1736643733",
+            "NOMBRES": "MAGDA OLGA GARCÍA",
+            "FIRMA ELLECTRONICA": "MAGDA OLGA GARCÍA - 1736643733",
+            "AL PIE DE LA FIRMA": "MAGDA OLGA GARCÍA - 1736643733"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAGDA OLGA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1736643733",
+            "NOMBRES": "MAGDA OLGA GARCÍA",
+            "SALARIO": "4.386.504",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1736643733",
+            "NOMBRES": "MAGDA OLGA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.445.278"
+        }
+    }
+]

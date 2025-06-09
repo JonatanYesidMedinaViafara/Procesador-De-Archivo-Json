@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "645921447261",
+            "SOLICITUD": "8747504",
+            "CEDULA": "1656785780",
+            "NOMBRES": "JULIO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.379.932",
+            "FIRMA ELLECTRONICA": "JULIO HERNÁNDEZ - 1656785780"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "645921447261",
+            "NOMBRES": "JULIO HERNÁNDEZ",
+            "CREDITO": "12.058.904",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "339.507",
+            "FIRMA ELLECTRONICA": "JULIO HERNÁNDEZ - 1656785780",
+            "AL PIE DE LA FIRMA": "JULIO HERNÁNDEZ - 1656785780"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1656785780",
+            "NOMBRES": "JULIO HERNÁNDEZ",
+            "FECHA NACIMIENTO": "25/03/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.058.904",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JULIO HERNÁNDEZ - 1656785780",
+            "AL PIE DE LA FIRMA": "JULIO HERNÁNDEZ - 1656785780"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8747504",
+            "CEDULA": "1656785780",
+            "NOMBRES": "JULIO HERNÁNDEZ",
+            "CREDITO": "12.058.904",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "339.507",
+            "E.A": "21.5%",
+            "RECOMPRA O DESEMBOLSO": "2.379.932",
+            "FIRMA ELLECTRONICA": "JULIO HERNÁNDEZ - 1656785780"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1656785780",
+            "NOMBRES": "JULIO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JULIO HERNÁNDEZ - 1656785780"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1656785780",
+            "NOMBRES": "JULIO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JULIO HERNÁNDEZ - 1656785780",
+            "AL PIE DE LA FIRMA": "JULIO HERNÁNDEZ - 1656785780"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1656785780",
+            "NOMBRES": "JULIO HERNÁNDEZ",
+            "SALARIO": "2.317.345",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1656785780",
+            "NOMBRES": "JULIO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.379.932"
+        }
+    }
+]

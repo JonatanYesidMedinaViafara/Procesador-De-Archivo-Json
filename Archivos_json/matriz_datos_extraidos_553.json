@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "555672973107",
+            "SOLICITUD": "8894065",
+            "CEDULA": "1921529469",
+            "NOMBRES": "MANUELA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.346.036",
+            "FIRMA ELLECTRONICA": "MANUELA SÁNCHEZ - 1921529469"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "555672973107",
+            "NOMBRES": "MANUELA SÁNCHEZ",
+            "CREDITO": "11.253.883",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "189.723",
+            "FIRMA ELLECTRONICA": "MANUELA SÁNCHEZ - 1921529469",
+            "AL PIE DE LA FIRMA": "MANUELA SÁNCHEZ - 1921529469"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1921529469",
+            "NOMBRES": "MANUELA SÁNCHEZ",
+            "FECHA NACIMIENTO": "19/08/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.253.883",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MANUELA SÁNCHEZ - 1921529469",
+            "AL PIE DE LA FIRMA": "MANUELA SÁNCHEZ - 1921529469"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8894065",
+            "CEDULA": "1921529469",
+            "NOMBRES": "MANUELA SÁNCHEZ",
+            "CREDITO": "11.253.883",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "189.723",
+            "E.A": "19.15%",
+            "RECOMPRA O DESEMBOLSO": "1.346.036",
+            "FIRMA ELLECTRONICA": "MANUELA SÁNCHEZ - 1921529469"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1921529469",
+            "NOMBRES": "MANUELA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "MANUELA SÁNCHEZ - 1921529469"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1921529469",
+            "NOMBRES": "MANUELA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "MANUELA SÁNCHEZ - 1921529469",
+            "AL PIE DE LA FIRMA": "MANUELA SÁNCHEZ - 1921529469"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUELA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1921529469",
+            "NOMBRES": "MANUELA SÁNCHEZ",
+            "SALARIO": "2.395.176",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1921529469",
+            "NOMBRES": "MANUELA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.346.036"
+        }
+    }
+]

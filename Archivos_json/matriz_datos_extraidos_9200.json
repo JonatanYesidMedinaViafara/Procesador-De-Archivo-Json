@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "890628994980",
+            "SOLICITUD": "5466292",
+            "CEDULA": "1364881372",
+            "NOMBRES": "PAOLA VIVIANA LÓPEZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.243.997",
+            "FIRMA ELLECTRONICA": "PAOLA VIVIANA LÓPEZ GÓMEZ - 1364881372"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "890628994980",
+            "NOMBRES": "PAOLA VIVIANA LÓPEZ GÓMEZ",
+            "CREDITO": "12.396.610",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "245.661",
+            "FIRMA ELLECTRONICA": "PAOLA VIVIANA LÓPEZ GÓMEZ - 1364881372",
+            "AL PIE DE LA FIRMA": "PAOLA VIVIANA LÓPEZ GÓMEZ - 1364881372"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1364881372",
+            "NOMBRES": "PAOLA VIVIANA LÓPEZ GÓMEZ",
+            "FECHA NACIMIENTO": "27/07/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.396.610",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "PAOLA VIVIANA LÓPEZ GÓMEZ - 1364881372",
+            "AL PIE DE LA FIRMA": "PAOLA VIVIANA LÓPEZ GÓMEZ - 1364881372"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5466292",
+            "CEDULA": "1364881372",
+            "NOMBRES": "PAOLA VIVIANA LÓPEZ GÓMEZ",
+            "CREDITO": "12.396.610",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "245.661",
+            "E.A": "26.05%",
+            "RECOMPRA O DESEMBOLSO": "2.243.997",
+            "FIRMA ELLECTRONICA": "PAOLA VIVIANA LÓPEZ GÓMEZ - 1364881372"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1364881372",
+            "NOMBRES": "PAOLA VIVIANA LÓPEZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "PAOLA VIVIANA LÓPEZ GÓMEZ - 1364881372"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1364881372",
+            "NOMBRES": "PAOLA VIVIANA LÓPEZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "PAOLA VIVIANA LÓPEZ GÓMEZ - 1364881372",
+            "AL PIE DE LA FIRMA": "PAOLA VIVIANA LÓPEZ GÓMEZ - 1364881372"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA VIVIANA LÓPEZ GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1364881372",
+            "NOMBRES": "PAOLA VIVIANA LÓPEZ GÓMEZ",
+            "SALARIO": "3.746.699",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1364881372",
+            "NOMBRES": "PAOLA VIVIANA LÓPEZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.243.997"
+        }
+    }
+]

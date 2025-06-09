@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "327474873609",
+            "SOLICITUD": "7492161",
+            "CEDULA": "1331481747",
+            "NOMBRES": "JESÚS MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "2.889.962",
+            "FIRMA ELLECTRONICA": "JESÚS MOSQUERA - 1331481747"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "327474873609",
+            "NOMBRES": "JESÚS MOSQUERA",
+            "CREDITO": "15.340.306",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "369.848",
+            "FIRMA ELLECTRONICA": "JESÚS MOSQUERA - 1331481747",
+            "AL PIE DE LA FIRMA": "JESÚS MOSQUERA - 1331481747"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1331481747",
+            "NOMBRES": "JESÚS MOSQUERA",
+            "FECHA NACIMIENTO": "05/09/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.340.306",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JESÚS MOSQUERA - 1331481747",
+            "AL PIE DE LA FIRMA": "JESÚS MOSQUERA - 1331481747"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7492161",
+            "CEDULA": "1331481747",
+            "NOMBRES": "JESÚS MOSQUERA",
+            "CREDITO": "15.340.306",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "369.848",
+            "E.A": "27.83%",
+            "RECOMPRA O DESEMBOLSO": "2.889.962",
+            "FIRMA ELLECTRONICA": "JESÚS MOSQUERA - 1331481747"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1331481747",
+            "NOMBRES": "JESÚS MOSQUERA",
+            "FIRMA ELLECTRONICA": "JESÚS MOSQUERA - 1331481747"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1331481747",
+            "NOMBRES": "JESÚS MOSQUERA",
+            "FIRMA ELLECTRONICA": "JESÚS MOSQUERA - 1331481747",
+            "AL PIE DE LA FIRMA": "JESÚS MOSQUERA - 1331481747"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1331481747",
+            "NOMBRES": "JESÚS MOSQUERA",
+            "SALARIO": "4.129.929",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1331481747",
+            "NOMBRES": "JESÚS MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "2.889.962"
+        }
+    }
+]

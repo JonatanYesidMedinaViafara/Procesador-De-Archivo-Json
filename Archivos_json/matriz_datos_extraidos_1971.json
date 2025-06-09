@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "114249190840",
+            "SOLICITUD": "4364337",
+            "CEDULA": "1104628189",
+            "NOMBRES": "LUZ ASTRID ROJAS",
+            "RECOMPRA O DESEMBOLSO": "1.252.152",
+            "FIRMA ELLECTRONICA": "LUZ ASTRID ROJAS - 1104628189"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "114249190840",
+            "NOMBRES": "LUZ ASTRID ROJAS",
+            "CREDITO": "13.931.934",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "198.021",
+            "FIRMA ELLECTRONICA": "LUZ ASTRID ROJAS - 1104628189",
+            "AL PIE DE LA FIRMA": "LUZ ASTRID ROJAS - 1104628189"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1104628189",
+            "NOMBRES": "LUZ ASTRID ROJAS",
+            "FECHA NACIMIENTO": "04/09/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.931.934",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ ASTRID ROJAS - 1104628189",
+            "AL PIE DE LA FIRMA": "LUZ ASTRID ROJAS - 1104628189"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4364337",
+            "CEDULA": "1104628189",
+            "NOMBRES": "LUZ ASTRID ROJAS",
+            "CREDITO": "13.931.934",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "198.021",
+            "E.A": "23.01%",
+            "RECOMPRA O DESEMBOLSO": "1.252.152",
+            "FIRMA ELLECTRONICA": "LUZ ASTRID ROJAS - 1104628189"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1104628189",
+            "NOMBRES": "LUZ ASTRID ROJAS",
+            "FIRMA ELLECTRONICA": "LUZ ASTRID ROJAS - 1104628189"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1104628189",
+            "NOMBRES": "LUZ ASTRID ROJAS",
+            "FIRMA ELLECTRONICA": "LUZ ASTRID ROJAS - 1104628189",
+            "AL PIE DE LA FIRMA": "LUZ ASTRID ROJAS - 1104628189"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ ASTRID ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1104628189",
+            "NOMBRES": "LUZ ASTRID ROJAS",
+            "SALARIO": "4.554.009",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1104628189",
+            "NOMBRES": "LUZ ASTRID ROJAS",
+            "RECOMPRA O DESEMBOLSO": "1.252.152"
+        }
+    }
+]

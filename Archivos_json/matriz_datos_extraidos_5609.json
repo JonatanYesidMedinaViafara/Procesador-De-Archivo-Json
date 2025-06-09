@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "795096200502",
+            "SOLICITUD": "9518405",
+            "CEDULA": "1368242663",
+            "NOMBRES": "LUIS ROMERO",
+            "RECOMPRA O DESEMBOLSO": "2.308.579",
+            "FIRMA ELLECTRONICA": "LUIS ROMERO - 1368242663"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "795096200502",
+            "NOMBRES": "LUIS ROMERO",
+            "CREDITO": "5.534.828",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "144.959",
+            "FIRMA ELLECTRONICA": "LUIS ROMERO - 1368242663",
+            "AL PIE DE LA FIRMA": "LUIS ROMERO - 1368242663"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1368242663",
+            "NOMBRES": "LUIS ROMERO",
+            "FECHA NACIMIENTO": "08/03/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.534.828",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUIS ROMERO - 1368242663",
+            "AL PIE DE LA FIRMA": "LUIS ROMERO - 1368242663"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9518405",
+            "CEDULA": "1368242663",
+            "NOMBRES": "LUIS ROMERO",
+            "CREDITO": "5.534.828",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "144.959",
+            "E.A": "23.95%",
+            "RECOMPRA O DESEMBOLSO": "2.308.579",
+            "FIRMA ELLECTRONICA": "LUIS ROMERO - 1368242663"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1368242663",
+            "NOMBRES": "LUIS ROMERO",
+            "FIRMA ELLECTRONICA": "LUIS ROMERO - 1368242663"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1368242663",
+            "NOMBRES": "LUIS ROMERO",
+            "FIRMA ELLECTRONICA": "LUIS ROMERO - 1368242663",
+            "AL PIE DE LA FIRMA": "LUIS ROMERO - 1368242663"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1368242663",
+            "NOMBRES": "LUIS ROMERO",
+            "SALARIO": "1.235.777",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1368242663",
+            "NOMBRES": "LUIS ROMERO",
+            "RECOMPRA O DESEMBOLSO": "2.308.579"
+        }
+    }
+]

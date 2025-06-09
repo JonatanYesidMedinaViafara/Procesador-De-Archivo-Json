@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "841180028301",
+            "SOLICITUD": "1466348",
+            "CEDULA": "1238609201",
+            "NOMBRES": "ANDRÉS NARANJO",
+            "RECOMPRA O DESEMBOLSO": "4.686.633",
+            "FIRMA ELLECTRONICA": "ANDRÉS NARANJO - 1238609201"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "841180028301",
+            "NOMBRES": "ANDRÉS NARANJO",
+            "CREDITO": "9.413.755",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "129.784",
+            "FIRMA ELLECTRONICA": "ANDRÉS NARANJO - 1238609201",
+            "AL PIE DE LA FIRMA": "ANDRÉS NARANJO - 1238609201"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1238609201",
+            "NOMBRES": "ANDRÉS NARANJO",
+            "FECHA NACIMIENTO": "13/12/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.413.755",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS NARANJO - 1238609201",
+            "AL PIE DE LA FIRMA": "ANDRÉS NARANJO - 1238609201"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1466348",
+            "CEDULA": "1238609201",
+            "NOMBRES": "ANDRÉS NARANJO",
+            "CREDITO": "9.413.755",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "129.784",
+            "E.A": "24.71%",
+            "RECOMPRA O DESEMBOLSO": "4.686.633",
+            "FIRMA ELLECTRONICA": "ANDRÉS NARANJO - 1238609201"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1238609201",
+            "NOMBRES": "ANDRÉS NARANJO",
+            "FIRMA ELLECTRONICA": "ANDRÉS NARANJO - 1238609201"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1238609201",
+            "NOMBRES": "ANDRÉS NARANJO",
+            "FIRMA ELLECTRONICA": "ANDRÉS NARANJO - 1238609201",
+            "AL PIE DE LA FIRMA": "ANDRÉS NARANJO - 1238609201"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS NARANJO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1238609201",
+            "NOMBRES": "ANDRÉS NARANJO",
+            "SALARIO": "2.922.171",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1238609201",
+            "NOMBRES": "ANDRÉS NARANJO",
+            "RECOMPRA O DESEMBOLSO": "4.686.633"
+        }
+    }
+]

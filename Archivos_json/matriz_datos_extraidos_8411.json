@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "821581103543",
+            "SOLICITUD": "8437142",
+            "CEDULA": "1972067143",
+            "NOMBRES": "LILIANA ISABEL ROSERO TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "3.109.621",
+            "FIRMA ELLECTRONICA": "LILIANA ISABEL ROSERO TRUJILLO - 1972067143"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "821581103543",
+            "NOMBRES": "LILIANA ISABEL ROSERO TRUJILLO",
+            "CREDITO": "8.023.798",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "128.375",
+            "FIRMA ELLECTRONICA": "LILIANA ISABEL ROSERO TRUJILLO - 1972067143",
+            "AL PIE DE LA FIRMA": "LILIANA ISABEL ROSERO TRUJILLO - 1972067143"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1972067143",
+            "NOMBRES": "LILIANA ISABEL ROSERO TRUJILLO",
+            "FECHA NACIMIENTO": "21/09/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.023.798",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LILIANA ISABEL ROSERO TRUJILLO - 1972067143",
+            "AL PIE DE LA FIRMA": "LILIANA ISABEL ROSERO TRUJILLO - 1972067143"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8437142",
+            "CEDULA": "1972067143",
+            "NOMBRES": "LILIANA ISABEL ROSERO TRUJILLO",
+            "CREDITO": "8.023.798",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "128.375",
+            "E.A": "27.96%",
+            "RECOMPRA O DESEMBOLSO": "3.109.621",
+            "FIRMA ELLECTRONICA": "LILIANA ISABEL ROSERO TRUJILLO - 1972067143"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1972067143",
+            "NOMBRES": "LILIANA ISABEL ROSERO TRUJILLO",
+            "FIRMA ELLECTRONICA": "LILIANA ISABEL ROSERO TRUJILLO - 1972067143"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1972067143",
+            "NOMBRES": "LILIANA ISABEL ROSERO TRUJILLO",
+            "FIRMA ELLECTRONICA": "LILIANA ISABEL ROSERO TRUJILLO - 1972067143",
+            "AL PIE DE LA FIRMA": "LILIANA ISABEL ROSERO TRUJILLO - 1972067143"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LILIANA ISABEL ROSERO TRUJILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1972067143",
+            "NOMBRES": "LILIANA ISABEL ROSERO TRUJILLO",
+            "SALARIO": "4.305.783",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1972067143",
+            "NOMBRES": "LILIANA ISABEL ROSERO TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "3.109.621"
+        }
+    }
+]

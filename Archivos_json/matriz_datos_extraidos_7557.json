@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "900486409019",
+            "SOLICITUD": "4564748",
+            "CEDULA": "1034191453",
+            "NOMBRES": "JOSÉ CARO",
+            "RECOMPRA O DESEMBOLSO": "1.696.677",
+            "FIRMA ELLECTRONICA": "JOSÉ CARO - 1034191453"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "900486409019",
+            "NOMBRES": "JOSÉ CARO",
+            "CREDITO": "6.932.831",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "138.872",
+            "FIRMA ELLECTRONICA": "JOSÉ CARO - 1034191453",
+            "AL PIE DE LA FIRMA": "JOSÉ CARO - 1034191453"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1034191453",
+            "NOMBRES": "JOSÉ CARO",
+            "FECHA NACIMIENTO": "16/03/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.932.831",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ CARO - 1034191453",
+            "AL PIE DE LA FIRMA": "JOSÉ CARO - 1034191453"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4564748",
+            "CEDULA": "1034191453",
+            "NOMBRES": "JOSÉ CARO",
+            "CREDITO": "6.932.831",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "138.872",
+            "E.A": "21.07%",
+            "RECOMPRA O DESEMBOLSO": "1.696.677",
+            "FIRMA ELLECTRONICA": "JOSÉ CARO - 1034191453"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1034191453",
+            "NOMBRES": "JOSÉ CARO",
+            "FIRMA ELLECTRONICA": "JOSÉ CARO - 1034191453"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1034191453",
+            "NOMBRES": "JOSÉ CARO",
+            "FIRMA ELLECTRONICA": "JOSÉ CARO - 1034191453",
+            "AL PIE DE LA FIRMA": "JOSÉ CARO - 1034191453"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ CARO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1034191453",
+            "NOMBRES": "JOSÉ CARO",
+            "SALARIO": "4.989.963",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1034191453",
+            "NOMBRES": "JOSÉ CARO",
+            "RECOMPRA O DESEMBOLSO": "1.696.677"
+        }
+    }
+]

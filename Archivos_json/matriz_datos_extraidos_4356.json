@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "432255938425",
+            "SOLICITUD": "2951138",
+            "CEDULA": "1484921663",
+            "NOMBRES": "SUSANA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.036.866",
+            "FIRMA ELLECTRONICA": "SUSANA GARCÍA - 1484921663"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "432255938425",
+            "NOMBRES": "SUSANA GARCÍA",
+            "CREDITO": "7.015.847",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "387.261",
+            "FIRMA ELLECTRONICA": "SUSANA GARCÍA - 1484921663",
+            "AL PIE DE LA FIRMA": "SUSANA GARCÍA - 1484921663"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1484921663",
+            "NOMBRES": "SUSANA GARCÍA",
+            "FECHA NACIMIENTO": "18/02/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.015.847",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SUSANA GARCÍA - 1484921663",
+            "AL PIE DE LA FIRMA": "SUSANA GARCÍA - 1484921663"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2951138",
+            "CEDULA": "1484921663",
+            "NOMBRES": "SUSANA GARCÍA",
+            "CREDITO": "7.015.847",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "387.261",
+            "E.A": "24.22%",
+            "RECOMPRA O DESEMBOLSO": "3.036.866",
+            "FIRMA ELLECTRONICA": "SUSANA GARCÍA - 1484921663"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1484921663",
+            "NOMBRES": "SUSANA GARCÍA",
+            "FIRMA ELLECTRONICA": "SUSANA GARCÍA - 1484921663"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1484921663",
+            "NOMBRES": "SUSANA GARCÍA",
+            "FIRMA ELLECTRONICA": "SUSANA GARCÍA - 1484921663",
+            "AL PIE DE LA FIRMA": "SUSANA GARCÍA - 1484921663"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SUSANA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1484921663",
+            "NOMBRES": "SUSANA GARCÍA",
+            "SALARIO": "2.473.590",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1484921663",
+            "NOMBRES": "SUSANA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.036.866"
+        }
+    }
+]

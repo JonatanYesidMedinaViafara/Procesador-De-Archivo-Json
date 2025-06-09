@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "454725347252",
+            "SOLICITUD": "8620897",
+            "CEDULA": "1632505096",
+            "NOMBRES": "ANA DÍAZ VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.369.353",
+            "FIRMA ELLECTRONICA": "ANA DÍAZ VÁSQUEZ - 1632505096"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "454725347252",
+            "NOMBRES": "ANA DÍAZ VÁSQUEZ",
+            "CREDITO": "14.220.554",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "254.813",
+            "FIRMA ELLECTRONICA": "ANA DÍAZ VÁSQUEZ - 1632505096",
+            "AL PIE DE LA FIRMA": "ANA DÍAZ VÁSQUEZ - 1632505096"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1632505096",
+            "NOMBRES": "ANA DÍAZ VÁSQUEZ",
+            "FECHA NACIMIENTO": "12/05/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.220.554",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANA DÍAZ VÁSQUEZ - 1632505096",
+            "AL PIE DE LA FIRMA": "ANA DÍAZ VÁSQUEZ - 1632505096"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8620897",
+            "CEDULA": "1632505096",
+            "NOMBRES": "ANA DÍAZ VÁSQUEZ",
+            "CREDITO": "14.220.554",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "254.813",
+            "E.A": "26.92%",
+            "RECOMPRA O DESEMBOLSO": "1.369.353",
+            "FIRMA ELLECTRONICA": "ANA DÍAZ VÁSQUEZ - 1632505096"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1632505096",
+            "NOMBRES": "ANA DÍAZ VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "ANA DÍAZ VÁSQUEZ - 1632505096"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1632505096",
+            "NOMBRES": "ANA DÍAZ VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "ANA DÍAZ VÁSQUEZ - 1632505096",
+            "AL PIE DE LA FIRMA": "ANA DÍAZ VÁSQUEZ - 1632505096"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA DÍAZ VÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1632505096",
+            "NOMBRES": "ANA DÍAZ VÁSQUEZ",
+            "SALARIO": "1.795.596",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1632505096",
+            "NOMBRES": "ANA DÍAZ VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.369.353"
+        }
+    }
+]

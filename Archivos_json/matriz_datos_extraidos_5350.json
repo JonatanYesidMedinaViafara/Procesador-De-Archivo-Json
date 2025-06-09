@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "213393989566",
+            "SOLICITUD": "3194733",
+            "CEDULA": "1783396885",
+            "NOMBRES": "JUAN IVÁN ALARCÓN",
+            "RECOMPRA O DESEMBOLSO": "1.892.328",
+            "FIRMA ELLECTRONICA": "JUAN IVÁN ALARCÓN - 1783396885"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "213393989566",
+            "NOMBRES": "JUAN IVÁN ALARCÓN",
+            "CREDITO": "18.592.010",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "310.279",
+            "FIRMA ELLECTRONICA": "JUAN IVÁN ALARCÓN - 1783396885",
+            "AL PIE DE LA FIRMA": "JUAN IVÁN ALARCÓN - 1783396885"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1783396885",
+            "NOMBRES": "JUAN IVÁN ALARCÓN",
+            "FECHA NACIMIENTO": "05/04/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.592.010",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN IVÁN ALARCÓN - 1783396885",
+            "AL PIE DE LA FIRMA": "JUAN IVÁN ALARCÓN - 1783396885"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3194733",
+            "CEDULA": "1783396885",
+            "NOMBRES": "JUAN IVÁN ALARCÓN",
+            "CREDITO": "18.592.010",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "310.279",
+            "E.A": "22.44%",
+            "RECOMPRA O DESEMBOLSO": "1.892.328",
+            "FIRMA ELLECTRONICA": "JUAN IVÁN ALARCÓN - 1783396885"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1783396885",
+            "NOMBRES": "JUAN IVÁN ALARCÓN",
+            "FIRMA ELLECTRONICA": "JUAN IVÁN ALARCÓN - 1783396885"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1783396885",
+            "NOMBRES": "JUAN IVÁN ALARCÓN",
+            "FIRMA ELLECTRONICA": "JUAN IVÁN ALARCÓN - 1783396885",
+            "AL PIE DE LA FIRMA": "JUAN IVÁN ALARCÓN - 1783396885"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN IVÁN ALARCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1783396885",
+            "NOMBRES": "JUAN IVÁN ALARCÓN",
+            "SALARIO": "2.765.237",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1783396885",
+            "NOMBRES": "JUAN IVÁN ALARCÓN",
+            "RECOMPRA O DESEMBOLSO": "1.892.328"
+        }
+    }
+]

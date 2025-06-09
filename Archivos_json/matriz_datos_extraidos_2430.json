@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "678120611574",
+            "SOLICITUD": "7053176",
+            "CEDULA": "1674882344",
+            "NOMBRES": "DIEGO IVÁN VILLEGAS ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.166.784",
+            "FIRMA ELLECTRONICA": "DIEGO IVÁN VILLEGAS ROJAS - 1674882344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "678120611574",
+            "NOMBRES": "DIEGO IVÁN VILLEGAS ROJAS",
+            "CREDITO": "18.621.535",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "115.638",
+            "FIRMA ELLECTRONICA": "DIEGO IVÁN VILLEGAS ROJAS - 1674882344",
+            "AL PIE DE LA FIRMA": "DIEGO IVÁN VILLEGAS ROJAS - 1674882344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1674882344",
+            "NOMBRES": "DIEGO IVÁN VILLEGAS ROJAS",
+            "FECHA NACIMIENTO": "19/04/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.621.535",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DIEGO IVÁN VILLEGAS ROJAS - 1674882344",
+            "AL PIE DE LA FIRMA": "DIEGO IVÁN VILLEGAS ROJAS - 1674882344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7053176",
+            "CEDULA": "1674882344",
+            "NOMBRES": "DIEGO IVÁN VILLEGAS ROJAS",
+            "CREDITO": "18.621.535",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "115.638",
+            "E.A": "24.33%",
+            "RECOMPRA O DESEMBOLSO": "2.166.784",
+            "FIRMA ELLECTRONICA": "DIEGO IVÁN VILLEGAS ROJAS - 1674882344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1674882344",
+            "NOMBRES": "DIEGO IVÁN VILLEGAS ROJAS",
+            "FIRMA ELLECTRONICA": "DIEGO IVÁN VILLEGAS ROJAS - 1674882344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1674882344",
+            "NOMBRES": "DIEGO IVÁN VILLEGAS ROJAS",
+            "FIRMA ELLECTRONICA": "DIEGO IVÁN VILLEGAS ROJAS - 1674882344",
+            "AL PIE DE LA FIRMA": "DIEGO IVÁN VILLEGAS ROJAS - 1674882344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO IVÁN VILLEGAS ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1674882344",
+            "NOMBRES": "DIEGO IVÁN VILLEGAS ROJAS",
+            "SALARIO": "1.375.908",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1674882344",
+            "NOMBRES": "DIEGO IVÁN VILLEGAS ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.166.784"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "216378335409",
+            "SOLICITUD": "2344102",
+            "CEDULA": "1240901140",
+            "NOMBRES": "JHONY RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.086.667",
+            "FIRMA ELLECTRONICA": "JHONY RODRÍGUEZ - 1240901140"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "216378335409",
+            "NOMBRES": "JHONY RODRÍGUEZ",
+            "CREDITO": "19.148.912",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "108.935",
+            "FIRMA ELLECTRONICA": "JHONY RODRÍGUEZ - 1240901140",
+            "AL PIE DE LA FIRMA": "JHONY RODRÍGUEZ - 1240901140"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1240901140",
+            "NOMBRES": "JHONY RODRÍGUEZ",
+            "FECHA NACIMIENTO": "06/12/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.148.912",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JHONY RODRÍGUEZ - 1240901140",
+            "AL PIE DE LA FIRMA": "JHONY RODRÍGUEZ - 1240901140"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2344102",
+            "CEDULA": "1240901140",
+            "NOMBRES": "JHONY RODRÍGUEZ",
+            "CREDITO": "19.148.912",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "108.935",
+            "E.A": "22.83%",
+            "RECOMPRA O DESEMBOLSO": "3.086.667",
+            "FIRMA ELLECTRONICA": "JHONY RODRÍGUEZ - 1240901140"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1240901140",
+            "NOMBRES": "JHONY RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JHONY RODRÍGUEZ - 1240901140"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1240901140",
+            "NOMBRES": "JHONY RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JHONY RODRÍGUEZ - 1240901140",
+            "AL PIE DE LA FIRMA": "JHONY RODRÍGUEZ - 1240901140"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHONY RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1240901140",
+            "NOMBRES": "JHONY RODRÍGUEZ",
+            "SALARIO": "2.593.861",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1240901140",
+            "NOMBRES": "JHONY RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.086.667"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "845563823760",
+            "SOLICITUD": "9166254",
+            "CEDULA": "1505117879",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.784.138",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1505117879"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "845563823760",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "CREDITO": "10.536.854",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "280.564",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1505117879",
+            "AL PIE DE LA FIRMA": "ANDRÉS GARCÍA - 1505117879"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1505117879",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "FECHA NACIMIENTO": "20/01/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.536.854",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1505117879",
+            "AL PIE DE LA FIRMA": "ANDRÉS GARCÍA - 1505117879"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9166254",
+            "CEDULA": "1505117879",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "CREDITO": "10.536.854",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "280.564",
+            "E.A": "22.25%",
+            "RECOMPRA O DESEMBOLSO": "1.784.138",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1505117879"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1505117879",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1505117879"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1505117879",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDRÉS GARCÍA - 1505117879",
+            "AL PIE DE LA FIRMA": "ANDRÉS GARCÍA - 1505117879"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1505117879",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "SALARIO": "3.052.787",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1505117879",
+            "NOMBRES": "ANDRÉS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.784.138"
+        }
+    }
+]

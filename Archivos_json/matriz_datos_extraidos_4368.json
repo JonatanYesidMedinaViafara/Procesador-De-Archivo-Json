@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "364265138691",
+            "SOLICITUD": "8089944",
+            "CEDULA": "1790548362",
+            "NOMBRES": "DANIEL ALBERTO CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "1.027.035",
+            "FIRMA ELLECTRONICA": "DANIEL ALBERTO CORTÉS - 1790548362"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "364265138691",
+            "NOMBRES": "DANIEL ALBERTO CORTÉS",
+            "CREDITO": "11.513.659",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "317.728",
+            "FIRMA ELLECTRONICA": "DANIEL ALBERTO CORTÉS - 1790548362",
+            "AL PIE DE LA FIRMA": "DANIEL ALBERTO CORTÉS - 1790548362"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1790548362",
+            "NOMBRES": "DANIEL ALBERTO CORTÉS",
+            "FECHA NACIMIENTO": "06/10/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.513.659",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DANIEL ALBERTO CORTÉS - 1790548362",
+            "AL PIE DE LA FIRMA": "DANIEL ALBERTO CORTÉS - 1790548362"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8089944",
+            "CEDULA": "1790548362",
+            "NOMBRES": "DANIEL ALBERTO CORTÉS",
+            "CREDITO": "11.513.659",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "317.728",
+            "E.A": "21.67%",
+            "RECOMPRA O DESEMBOLSO": "1.027.035",
+            "FIRMA ELLECTRONICA": "DANIEL ALBERTO CORTÉS - 1790548362"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1790548362",
+            "NOMBRES": "DANIEL ALBERTO CORTÉS",
+            "FIRMA ELLECTRONICA": "DANIEL ALBERTO CORTÉS - 1790548362"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1790548362",
+            "NOMBRES": "DANIEL ALBERTO CORTÉS",
+            "FIRMA ELLECTRONICA": "DANIEL ALBERTO CORTÉS - 1790548362",
+            "AL PIE DE LA FIRMA": "DANIEL ALBERTO CORTÉS - 1790548362"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL ALBERTO CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1790548362",
+            "NOMBRES": "DANIEL ALBERTO CORTÉS",
+            "SALARIO": "3.493.269",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1790548362",
+            "NOMBRES": "DANIEL ALBERTO CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "1.027.035"
+        }
+    }
+]

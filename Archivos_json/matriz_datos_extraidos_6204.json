@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "804403011471",
+            "SOLICITUD": "3144411",
+            "CEDULA": "1120464129",
+            "NOMBRES": "GRACIELA PARRA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.796.930",
+            "FIRMA ELLECTRONICA": "GRACIELA PARRA PÉREZ - 1120464129"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "804403011471",
+            "NOMBRES": "GRACIELA PARRA PÉREZ",
+            "CREDITO": "13.313.687",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "340.323",
+            "FIRMA ELLECTRONICA": "GRACIELA PARRA PÉREZ - 1120464129",
+            "AL PIE DE LA FIRMA": "GRACIELA PARRA PÉREZ - 1120464129"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1120464129",
+            "NOMBRES": "GRACIELA PARRA PÉREZ",
+            "FECHA NACIMIENTO": "12/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.313.687",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "GRACIELA PARRA PÉREZ - 1120464129",
+            "AL PIE DE LA FIRMA": "GRACIELA PARRA PÉREZ - 1120464129"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3144411",
+            "CEDULA": "1120464129",
+            "NOMBRES": "GRACIELA PARRA PÉREZ",
+            "CREDITO": "13.313.687",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "340.323",
+            "E.A": "22.06%",
+            "RECOMPRA O DESEMBOLSO": "2.796.930",
+            "FIRMA ELLECTRONICA": "GRACIELA PARRA PÉREZ - 1120464129"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1120464129",
+            "NOMBRES": "GRACIELA PARRA PÉREZ",
+            "FIRMA ELLECTRONICA": "GRACIELA PARRA PÉREZ - 1120464129"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1120464129",
+            "NOMBRES": "GRACIELA PARRA PÉREZ",
+            "FIRMA ELLECTRONICA": "GRACIELA PARRA PÉREZ - 1120464129",
+            "AL PIE DE LA FIRMA": "GRACIELA PARRA PÉREZ - 1120464129"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GRACIELA PARRA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1120464129",
+            "NOMBRES": "GRACIELA PARRA PÉREZ",
+            "SALARIO": "4.110.299",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1120464129",
+            "NOMBRES": "GRACIELA PARRA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.796.930"
+        }
+    }
+]

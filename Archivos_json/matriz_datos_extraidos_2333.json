@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "564541267700",
+            "SOLICITUD": "9026362",
+            "CEDULA": "1534284400",
+            "NOMBRES": "JULIA MARÍA GAVIRIA",
+            "RECOMPRA O DESEMBOLSO": "1.401.252",
+            "FIRMA ELLECTRONICA": "JULIA MARÍA GAVIRIA - 1534284400"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "564541267700",
+            "NOMBRES": "JULIA MARÍA GAVIRIA",
+            "CREDITO": "14.768.583",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "188.912",
+            "FIRMA ELLECTRONICA": "JULIA MARÍA GAVIRIA - 1534284400",
+            "AL PIE DE LA FIRMA": "JULIA MARÍA GAVIRIA - 1534284400"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1534284400",
+            "NOMBRES": "JULIA MARÍA GAVIRIA",
+            "FECHA NACIMIENTO": "26/03/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.768.583",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JULIA MARÍA GAVIRIA - 1534284400",
+            "AL PIE DE LA FIRMA": "JULIA MARÍA GAVIRIA - 1534284400"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9026362",
+            "CEDULA": "1534284400",
+            "NOMBRES": "JULIA MARÍA GAVIRIA",
+            "CREDITO": "14.768.583",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "188.912",
+            "E.A": "20.4%",
+            "RECOMPRA O DESEMBOLSO": "1.401.252",
+            "FIRMA ELLECTRONICA": "JULIA MARÍA GAVIRIA - 1534284400"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1534284400",
+            "NOMBRES": "JULIA MARÍA GAVIRIA",
+            "FIRMA ELLECTRONICA": "JULIA MARÍA GAVIRIA - 1534284400"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1534284400",
+            "NOMBRES": "JULIA MARÍA GAVIRIA",
+            "FIRMA ELLECTRONICA": "JULIA MARÍA GAVIRIA - 1534284400",
+            "AL PIE DE LA FIRMA": "JULIA MARÍA GAVIRIA - 1534284400"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIA MARÍA GAVIRIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1534284400",
+            "NOMBRES": "JULIA MARÍA GAVIRIA",
+            "SALARIO": "4.140.684",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1534284400",
+            "NOMBRES": "JULIA MARÍA GAVIRIA",
+            "RECOMPRA O DESEMBOLSO": "1.401.252"
+        }
+    }
+]

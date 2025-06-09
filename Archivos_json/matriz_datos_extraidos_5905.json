@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "314021008951",
+            "SOLICITUD": "9012219",
+            "CEDULA": "1991014825",
+            "NOMBRES": "JAIRO TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.940.703",
+            "FIRMA ELLECTRONICA": "JAIRO TORRES - 1991014825"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "314021008951",
+            "NOMBRES": "JAIRO TORRES",
+            "CREDITO": "16.984.137",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "359.142",
+            "FIRMA ELLECTRONICA": "JAIRO TORRES - 1991014825",
+            "AL PIE DE LA FIRMA": "JAIRO TORRES - 1991014825"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1991014825",
+            "NOMBRES": "JAIRO TORRES",
+            "FECHA NACIMIENTO": "01/11/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.984.137",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JAIRO TORRES - 1991014825",
+            "AL PIE DE LA FIRMA": "JAIRO TORRES - 1991014825"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9012219",
+            "CEDULA": "1991014825",
+            "NOMBRES": "JAIRO TORRES",
+            "CREDITO": "16.984.137",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "359.142",
+            "E.A": "24.32%",
+            "RECOMPRA O DESEMBOLSO": "4.940.703",
+            "FIRMA ELLECTRONICA": "JAIRO TORRES - 1991014825"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1991014825",
+            "NOMBRES": "JAIRO TORRES",
+            "FIRMA ELLECTRONICA": "JAIRO TORRES - 1991014825"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1991014825",
+            "NOMBRES": "JAIRO TORRES",
+            "FIRMA ELLECTRONICA": "JAIRO TORRES - 1991014825",
+            "AL PIE DE LA FIRMA": "JAIRO TORRES - 1991014825"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIRO TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1991014825",
+            "NOMBRES": "JAIRO TORRES",
+            "SALARIO": "1.238.636",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1991014825",
+            "NOMBRES": "JAIRO TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.940.703"
+        }
+    }
+]

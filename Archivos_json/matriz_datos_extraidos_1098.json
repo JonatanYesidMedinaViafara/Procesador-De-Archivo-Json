@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "653841626587",
+            "SOLICITUD": "8284377",
+            "CEDULA": "1350735136",
+            "NOMBRES": "CLARA PAOLA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.788.393",
+            "FIRMA ELLECTRONICA": "CLARA PAOLA HERNÁNDEZ - 1350735136"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "653841626587",
+            "NOMBRES": "CLARA PAOLA HERNÁNDEZ",
+            "CREDITO": "14.650.023",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "357.851",
+            "FIRMA ELLECTRONICA": "CLARA PAOLA HERNÁNDEZ - 1350735136",
+            "AL PIE DE LA FIRMA": "CLARA PAOLA HERNÁNDEZ - 1350735136"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1350735136",
+            "NOMBRES": "CLARA PAOLA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "21/02/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.650.023",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CLARA PAOLA HERNÁNDEZ - 1350735136",
+            "AL PIE DE LA FIRMA": "CLARA PAOLA HERNÁNDEZ - 1350735136"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8284377",
+            "CEDULA": "1350735136",
+            "NOMBRES": "CLARA PAOLA HERNÁNDEZ",
+            "CREDITO": "14.650.023",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "357.851",
+            "E.A": "23.32%",
+            "RECOMPRA O DESEMBOLSO": "2.788.393",
+            "FIRMA ELLECTRONICA": "CLARA PAOLA HERNÁNDEZ - 1350735136"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1350735136",
+            "NOMBRES": "CLARA PAOLA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "CLARA PAOLA HERNÁNDEZ - 1350735136"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1350735136",
+            "NOMBRES": "CLARA PAOLA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "CLARA PAOLA HERNÁNDEZ - 1350735136",
+            "AL PIE DE LA FIRMA": "CLARA PAOLA HERNÁNDEZ - 1350735136"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLARA PAOLA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1350735136",
+            "NOMBRES": "CLARA PAOLA HERNÁNDEZ",
+            "SALARIO": "4.145.834",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1350735136",
+            "NOMBRES": "CLARA PAOLA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.788.393"
+        }
+    }
+]

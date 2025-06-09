@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "923746518445",
+            "SOLICITUD": "7567447",
+            "CEDULA": "1213146582",
+            "NOMBRES": "ADRIANA CANO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.420.756",
+            "FIRMA ELLECTRONICA": "ADRIANA CANO SÁNCHEZ - 1213146582"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "923746518445",
+            "NOMBRES": "ADRIANA CANO SÁNCHEZ",
+            "CREDITO": "19.981.155",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "200.384",
+            "FIRMA ELLECTRONICA": "ADRIANA CANO SÁNCHEZ - 1213146582",
+            "AL PIE DE LA FIRMA": "ADRIANA CANO SÁNCHEZ - 1213146582"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1213146582",
+            "NOMBRES": "ADRIANA CANO SÁNCHEZ",
+            "FECHA NACIMIENTO": "12/09/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.981.155",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ADRIANA CANO SÁNCHEZ - 1213146582",
+            "AL PIE DE LA FIRMA": "ADRIANA CANO SÁNCHEZ - 1213146582"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7567447",
+            "CEDULA": "1213146582",
+            "NOMBRES": "ADRIANA CANO SÁNCHEZ",
+            "CREDITO": "19.981.155",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "200.384",
+            "E.A": "26.05%",
+            "RECOMPRA O DESEMBOLSO": "2.420.756",
+            "FIRMA ELLECTRONICA": "ADRIANA CANO SÁNCHEZ - 1213146582"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1213146582",
+            "NOMBRES": "ADRIANA CANO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ADRIANA CANO SÁNCHEZ - 1213146582"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1213146582",
+            "NOMBRES": "ADRIANA CANO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ADRIANA CANO SÁNCHEZ - 1213146582",
+            "AL PIE DE LA FIRMA": "ADRIANA CANO SÁNCHEZ - 1213146582"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ADRIANA CANO SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1213146582",
+            "NOMBRES": "ADRIANA CANO SÁNCHEZ",
+            "SALARIO": "1.425.994",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1213146582",
+            "NOMBRES": "ADRIANA CANO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.420.756"
+        }
+    }
+]

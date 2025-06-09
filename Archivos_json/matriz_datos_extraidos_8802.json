@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "625837895252",
+            "SOLICITUD": "5491885",
+            "CEDULA": "1053921179",
+            "NOMBRES": "JUAN MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.897.903",
+            "FIRMA ELLECTRONICA": "JUAN MÉNDEZ - 1053921179"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "625837895252",
+            "NOMBRES": "JUAN MÉNDEZ",
+            "CREDITO": "9.348.120",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "369.114",
+            "FIRMA ELLECTRONICA": "JUAN MÉNDEZ - 1053921179",
+            "AL PIE DE LA FIRMA": "JUAN MÉNDEZ - 1053921179"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1053921179",
+            "NOMBRES": "JUAN MÉNDEZ",
+            "FECHA NACIMIENTO": "05/05/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.348.120",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN MÉNDEZ - 1053921179",
+            "AL PIE DE LA FIRMA": "JUAN MÉNDEZ - 1053921179"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5491885",
+            "CEDULA": "1053921179",
+            "NOMBRES": "JUAN MÉNDEZ",
+            "CREDITO": "9.348.120",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "369.114",
+            "E.A": "27.42%",
+            "RECOMPRA O DESEMBOLSO": "1.897.903",
+            "FIRMA ELLECTRONICA": "JUAN MÉNDEZ - 1053921179"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1053921179",
+            "NOMBRES": "JUAN MÉNDEZ",
+            "FIRMA ELLECTRONICA": "JUAN MÉNDEZ - 1053921179"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1053921179",
+            "NOMBRES": "JUAN MÉNDEZ",
+            "FIRMA ELLECTRONICA": "JUAN MÉNDEZ - 1053921179",
+            "AL PIE DE LA FIRMA": "JUAN MÉNDEZ - 1053921179"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN MÉNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1053921179",
+            "NOMBRES": "JUAN MÉNDEZ",
+            "SALARIO": "1.281.851",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1053921179",
+            "NOMBRES": "JUAN MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.897.903"
+        }
+    }
+]

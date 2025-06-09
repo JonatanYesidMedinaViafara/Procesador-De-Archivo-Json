@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "890209808437",
+            "SOLICITUD": "9708143",
+            "CEDULA": "1807817819",
+            "NOMBRES": "JOSÉ BRAVO",
+            "RECOMPRA O DESEMBOLSO": "1.943.266",
+            "FIRMA ELLECTRONICA": "JOSÉ BRAVO - 1807817819"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "890209808437",
+            "NOMBRES": "JOSÉ BRAVO",
+            "CREDITO": "8.678.294",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "181.457",
+            "FIRMA ELLECTRONICA": "JOSÉ BRAVO - 1807817819",
+            "AL PIE DE LA FIRMA": "JOSÉ BRAVO - 1807817819"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1807817819",
+            "NOMBRES": "JOSÉ BRAVO",
+            "FECHA NACIMIENTO": "13/06/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.678.294",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ BRAVO - 1807817819",
+            "AL PIE DE LA FIRMA": "JOSÉ BRAVO - 1807817819"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9708143",
+            "CEDULA": "1807817819",
+            "NOMBRES": "JOSÉ BRAVO",
+            "CREDITO": "8.678.294",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "181.457",
+            "E.A": "21.23%",
+            "RECOMPRA O DESEMBOLSO": "1.943.266",
+            "FIRMA ELLECTRONICA": "JOSÉ BRAVO - 1807817819"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1807817819",
+            "NOMBRES": "JOSÉ BRAVO",
+            "FIRMA ELLECTRONICA": "JOSÉ BRAVO - 1807817819"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1807817819",
+            "NOMBRES": "JOSÉ BRAVO",
+            "FIRMA ELLECTRONICA": "JOSÉ BRAVO - 1807817819",
+            "AL PIE DE LA FIRMA": "JOSÉ BRAVO - 1807817819"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ BRAVO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1807817819",
+            "NOMBRES": "JOSÉ BRAVO",
+            "SALARIO": "4.060.700",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1807817819",
+            "NOMBRES": "JOSÉ BRAVO",
+            "RECOMPRA O DESEMBOLSO": "1.943.266"
+        }
+    }
+]

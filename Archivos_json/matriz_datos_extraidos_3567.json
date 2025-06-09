@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "431663625575",
+            "SOLICITUD": "1368563",
+            "CEDULA": "1955456987",
+            "NOMBRES": "GRACIELA SEPÚLVEDA",
+            "RECOMPRA O DESEMBOLSO": "2.308.993",
+            "FIRMA ELLECTRONICA": "GRACIELA SEPÚLVEDA - 1955456987"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "431663625575",
+            "NOMBRES": "GRACIELA SEPÚLVEDA",
+            "CREDITO": "8.462.668",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "230.252",
+            "FIRMA ELLECTRONICA": "GRACIELA SEPÚLVEDA - 1955456987",
+            "AL PIE DE LA FIRMA": "GRACIELA SEPÚLVEDA - 1955456987"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1955456987",
+            "NOMBRES": "GRACIELA SEPÚLVEDA",
+            "FECHA NACIMIENTO": "26/05/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.462.668",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GRACIELA SEPÚLVEDA - 1955456987",
+            "AL PIE DE LA FIRMA": "GRACIELA SEPÚLVEDA - 1955456987"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1368563",
+            "CEDULA": "1955456987",
+            "NOMBRES": "GRACIELA SEPÚLVEDA",
+            "CREDITO": "8.462.668",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "230.252",
+            "E.A": "22.35%",
+            "RECOMPRA O DESEMBOLSO": "2.308.993",
+            "FIRMA ELLECTRONICA": "GRACIELA SEPÚLVEDA - 1955456987"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1955456987",
+            "NOMBRES": "GRACIELA SEPÚLVEDA",
+            "FIRMA ELLECTRONICA": "GRACIELA SEPÚLVEDA - 1955456987"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1955456987",
+            "NOMBRES": "GRACIELA SEPÚLVEDA",
+            "FIRMA ELLECTRONICA": "GRACIELA SEPÚLVEDA - 1955456987",
+            "AL PIE DE LA FIRMA": "GRACIELA SEPÚLVEDA - 1955456987"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GRACIELA SEPÚLVEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1955456987",
+            "NOMBRES": "GRACIELA SEPÚLVEDA",
+            "SALARIO": "2.433.164",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1955456987",
+            "NOMBRES": "GRACIELA SEPÚLVEDA",
+            "RECOMPRA O DESEMBOLSO": "2.308.993"
+        }
+    }
+]

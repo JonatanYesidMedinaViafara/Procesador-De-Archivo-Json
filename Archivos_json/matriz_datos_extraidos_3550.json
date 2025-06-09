@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "944407794358",
+            "SOLICITUD": "6950453",
+            "CEDULA": "1281788305",
+            "NOMBRES": "JUAN MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.887.986",
+            "FIRMA ELLECTRONICA": "JUAN MUÑOZ - 1281788305"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "944407794358",
+            "NOMBRES": "JUAN MUÑOZ",
+            "CREDITO": "5.393.781",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "298.43",
+            "FIRMA ELLECTRONICA": "JUAN MUÑOZ - 1281788305",
+            "AL PIE DE LA FIRMA": "JUAN MUÑOZ - 1281788305"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1281788305",
+            "NOMBRES": "JUAN MUÑOZ",
+            "FECHA NACIMIENTO": "30/04/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.393.781",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN MUÑOZ - 1281788305",
+            "AL PIE DE LA FIRMA": "JUAN MUÑOZ - 1281788305"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6950453",
+            "CEDULA": "1281788305",
+            "NOMBRES": "JUAN MUÑOZ",
+            "CREDITO": "5.393.781",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "298.43",
+            "E.A": "27.85%",
+            "RECOMPRA O DESEMBOLSO": "1.887.986",
+            "FIRMA ELLECTRONICA": "JUAN MUÑOZ - 1281788305"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1281788305",
+            "NOMBRES": "JUAN MUÑOZ",
+            "FIRMA ELLECTRONICA": "JUAN MUÑOZ - 1281788305"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1281788305",
+            "NOMBRES": "JUAN MUÑOZ",
+            "FIRMA ELLECTRONICA": "JUAN MUÑOZ - 1281788305",
+            "AL PIE DE LA FIRMA": "JUAN MUÑOZ - 1281788305"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1281788305",
+            "NOMBRES": "JUAN MUÑOZ",
+            "SALARIO": "3.377.081",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1281788305",
+            "NOMBRES": "JUAN MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.887.986"
+        }
+    }
+]

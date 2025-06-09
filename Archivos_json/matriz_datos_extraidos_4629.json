@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "498256198759",
+            "SOLICITUD": "8641424",
+            "CEDULA": "1570188273",
+            "NOMBRES": "RICARDO RUIZ",
+            "RECOMPRA O DESEMBOLSO": "2.238.405",
+            "FIRMA ELLECTRONICA": "RICARDO RUIZ - 1570188273"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "498256198759",
+            "NOMBRES": "RICARDO RUIZ",
+            "CREDITO": "7.109.364",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.757",
+            "FIRMA ELLECTRONICA": "RICARDO RUIZ - 1570188273",
+            "AL PIE DE LA FIRMA": "RICARDO RUIZ - 1570188273"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1570188273",
+            "NOMBRES": "RICARDO RUIZ",
+            "FECHA NACIMIENTO": "19/07/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.109.364",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "RICARDO RUIZ - 1570188273",
+            "AL PIE DE LA FIRMA": "RICARDO RUIZ - 1570188273"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8641424",
+            "CEDULA": "1570188273",
+            "NOMBRES": "RICARDO RUIZ",
+            "CREDITO": "7.109.364",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.757",
+            "E.A": "27.48%",
+            "RECOMPRA O DESEMBOLSO": "2.238.405",
+            "FIRMA ELLECTRONICA": "RICARDO RUIZ - 1570188273"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1570188273",
+            "NOMBRES": "RICARDO RUIZ",
+            "FIRMA ELLECTRONICA": "RICARDO RUIZ - 1570188273"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1570188273",
+            "NOMBRES": "RICARDO RUIZ",
+            "FIRMA ELLECTRONICA": "RICARDO RUIZ - 1570188273",
+            "AL PIE DE LA FIRMA": "RICARDO RUIZ - 1570188273"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RICARDO RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1570188273",
+            "NOMBRES": "RICARDO RUIZ",
+            "SALARIO": "1.961.502",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1570188273",
+            "NOMBRES": "RICARDO RUIZ",
+            "RECOMPRA O DESEMBOLSO": "2.238.405"
+        }
+    }
+]

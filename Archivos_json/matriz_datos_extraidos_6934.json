@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "357346332095",
+            "SOLICITUD": "8703716",
+            "CEDULA": "1961690704",
+            "NOMBRES": "PEDRO ANDERSON VEGA",
+            "RECOMPRA O DESEMBOLSO": "4.435.580",
+            "FIRMA ELLECTRONICA": "PEDRO ANDERSON VEGA - 1961690704"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "357346332095",
+            "NOMBRES": "PEDRO ANDERSON VEGA",
+            "CREDITO": "5.471.583",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "317.493",
+            "FIRMA ELLECTRONICA": "PEDRO ANDERSON VEGA - 1961690704",
+            "AL PIE DE LA FIRMA": "PEDRO ANDERSON VEGA - 1961690704"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1961690704",
+            "NOMBRES": "PEDRO ANDERSON VEGA",
+            "FECHA NACIMIENTO": "06/07/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.471.583",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PEDRO ANDERSON VEGA - 1961690704",
+            "AL PIE DE LA FIRMA": "PEDRO ANDERSON VEGA - 1961690704"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8703716",
+            "CEDULA": "1961690704",
+            "NOMBRES": "PEDRO ANDERSON VEGA",
+            "CREDITO": "5.471.583",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "317.493",
+            "E.A": "25.52%",
+            "RECOMPRA O DESEMBOLSO": "4.435.580",
+            "FIRMA ELLECTRONICA": "PEDRO ANDERSON VEGA - 1961690704"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1961690704",
+            "NOMBRES": "PEDRO ANDERSON VEGA",
+            "FIRMA ELLECTRONICA": "PEDRO ANDERSON VEGA - 1961690704"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1961690704",
+            "NOMBRES": "PEDRO ANDERSON VEGA",
+            "FIRMA ELLECTRONICA": "PEDRO ANDERSON VEGA - 1961690704",
+            "AL PIE DE LA FIRMA": "PEDRO ANDERSON VEGA - 1961690704"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PEDRO ANDERSON VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1961690704",
+            "NOMBRES": "PEDRO ANDERSON VEGA",
+            "SALARIO": "2.461.827",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1961690704",
+            "NOMBRES": "PEDRO ANDERSON VEGA",
+            "RECOMPRA O DESEMBOLSO": "4.435.580"
+        }
+    }
+]

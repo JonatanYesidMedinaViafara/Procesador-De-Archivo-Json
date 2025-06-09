@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "489603176124",
+            "SOLICITUD": "8068590",
+            "CEDULA": "1436523693",
+            "NOMBRES": "JOHAN MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.894.623",
+            "FIRMA ELLECTRONICA": "JOHAN MUÑOZ - 1436523693"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "489603176124",
+            "NOMBRES": "JOHAN MUÑOZ",
+            "CREDITO": "10.576.221",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "284.894",
+            "FIRMA ELLECTRONICA": "JOHAN MUÑOZ - 1436523693",
+            "AL PIE DE LA FIRMA": "JOHAN MUÑOZ - 1436523693"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1436523693",
+            "NOMBRES": "JOHAN MUÑOZ",
+            "FECHA NACIMIENTO": "08/10/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.576.221",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOHAN MUÑOZ - 1436523693",
+            "AL PIE DE LA FIRMA": "JOHAN MUÑOZ - 1436523693"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8068590",
+            "CEDULA": "1436523693",
+            "NOMBRES": "JOHAN MUÑOZ",
+            "CREDITO": "10.576.221",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "284.894",
+            "E.A": "18.25%",
+            "RECOMPRA O DESEMBOLSO": "4.894.623",
+            "FIRMA ELLECTRONICA": "JOHAN MUÑOZ - 1436523693"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1436523693",
+            "NOMBRES": "JOHAN MUÑOZ",
+            "FIRMA ELLECTRONICA": "JOHAN MUÑOZ - 1436523693"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1436523693",
+            "NOMBRES": "JOHAN MUÑOZ",
+            "FIRMA ELLECTRONICA": "JOHAN MUÑOZ - 1436523693",
+            "AL PIE DE LA FIRMA": "JOHAN MUÑOZ - 1436523693"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHAN MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1436523693",
+            "NOMBRES": "JOHAN MUÑOZ",
+            "SALARIO": "3.757.959",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1436523693",
+            "NOMBRES": "JOHAN MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.894.623"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "266732579796",
+            "SOLICITUD": "5986123",
+            "CEDULA": "1006796022",
+            "NOMBRES": "FRANCO TOMÁS GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "2.866.111",
+            "FIRMA ELLECTRONICA": "FRANCO TOMÁS GUTIÉRREZ - 1006796022"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "266732579796",
+            "NOMBRES": "FRANCO TOMÁS GUTIÉRREZ",
+            "CREDITO": "17.948.040",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "105.553",
+            "FIRMA ELLECTRONICA": "FRANCO TOMÁS GUTIÉRREZ - 1006796022",
+            "AL PIE DE LA FIRMA": "FRANCO TOMÁS GUTIÉRREZ - 1006796022"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1006796022",
+            "NOMBRES": "FRANCO TOMÁS GUTIÉRREZ",
+            "FECHA NACIMIENTO": "11/09/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.948.040",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FRANCO TOMÁS GUTIÉRREZ - 1006796022",
+            "AL PIE DE LA FIRMA": "FRANCO TOMÁS GUTIÉRREZ - 1006796022"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5986123",
+            "CEDULA": "1006796022",
+            "NOMBRES": "FRANCO TOMÁS GUTIÉRREZ",
+            "CREDITO": "17.948.040",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "105.553",
+            "E.A": "27.92%",
+            "RECOMPRA O DESEMBOLSO": "2.866.111",
+            "FIRMA ELLECTRONICA": "FRANCO TOMÁS GUTIÉRREZ - 1006796022"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1006796022",
+            "NOMBRES": "FRANCO TOMÁS GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "FRANCO TOMÁS GUTIÉRREZ - 1006796022"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1006796022",
+            "NOMBRES": "FRANCO TOMÁS GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "FRANCO TOMÁS GUTIÉRREZ - 1006796022",
+            "AL PIE DE LA FIRMA": "FRANCO TOMÁS GUTIÉRREZ - 1006796022"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCO TOMÁS GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1006796022",
+            "NOMBRES": "FRANCO TOMÁS GUTIÉRREZ",
+            "SALARIO": "4.353.656",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1006796022",
+            "NOMBRES": "FRANCO TOMÁS GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "2.866.111"
+        }
+    }
+]

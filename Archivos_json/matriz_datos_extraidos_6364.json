@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "120684579529",
+            "SOLICITUD": "5259754",
+            "CEDULA": "1226251817",
+            "NOMBRES": "YESID ROMERO LARA",
+            "RECOMPRA O DESEMBOLSO": "3.988.846",
+            "FIRMA ELLECTRONICA": "YESID ROMERO LARA - 1226251817"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "120684579529",
+            "NOMBRES": "YESID ROMERO LARA",
+            "CREDITO": "9.834.884",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "142.565",
+            "FIRMA ELLECTRONICA": "YESID ROMERO LARA - 1226251817",
+            "AL PIE DE LA FIRMA": "YESID ROMERO LARA - 1226251817"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1226251817",
+            "NOMBRES": "YESID ROMERO LARA",
+            "FECHA NACIMIENTO": "26/04/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.834.884",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "YESID ROMERO LARA - 1226251817",
+            "AL PIE DE LA FIRMA": "YESID ROMERO LARA - 1226251817"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5259754",
+            "CEDULA": "1226251817",
+            "NOMBRES": "YESID ROMERO LARA",
+            "CREDITO": "9.834.884",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "142.565",
+            "E.A": "21.14%",
+            "RECOMPRA O DESEMBOLSO": "3.988.846",
+            "FIRMA ELLECTRONICA": "YESID ROMERO LARA - 1226251817"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1226251817",
+            "NOMBRES": "YESID ROMERO LARA",
+            "FIRMA ELLECTRONICA": "YESID ROMERO LARA - 1226251817"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1226251817",
+            "NOMBRES": "YESID ROMERO LARA",
+            "FIRMA ELLECTRONICA": "YESID ROMERO LARA - 1226251817",
+            "AL PIE DE LA FIRMA": "YESID ROMERO LARA - 1226251817"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YESID ROMERO LARA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1226251817",
+            "NOMBRES": "YESID ROMERO LARA",
+            "SALARIO": "4.503.750",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1226251817",
+            "NOMBRES": "YESID ROMERO LARA",
+            "RECOMPRA O DESEMBOLSO": "3.988.846"
+        }
+    }
+]

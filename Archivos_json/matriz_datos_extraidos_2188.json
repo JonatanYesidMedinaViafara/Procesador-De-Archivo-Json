@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "297429909797",
+            "SOLICITUD": "1063820",
+            "CEDULA": "1944174076",
+            "NOMBRES": "ALBERTO MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "4.828.983",
+            "FIRMA ELLECTRONICA": "ALBERTO MENDOZA - 1944174076"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "297429909797",
+            "NOMBRES": "ALBERTO MENDOZA",
+            "CREDITO": "5.927.883",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "142.724",
+            "FIRMA ELLECTRONICA": "ALBERTO MENDOZA - 1944174076",
+            "AL PIE DE LA FIRMA": "ALBERTO MENDOZA - 1944174076"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1944174076",
+            "NOMBRES": "ALBERTO MENDOZA",
+            "FECHA NACIMIENTO": "22/04/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.927.883",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBERTO MENDOZA - 1944174076",
+            "AL PIE DE LA FIRMA": "ALBERTO MENDOZA - 1944174076"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1063820",
+            "CEDULA": "1944174076",
+            "NOMBRES": "ALBERTO MENDOZA",
+            "CREDITO": "5.927.883",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "142.724",
+            "E.A": "27.34%",
+            "RECOMPRA O DESEMBOLSO": "4.828.983",
+            "FIRMA ELLECTRONICA": "ALBERTO MENDOZA - 1944174076"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1944174076",
+            "NOMBRES": "ALBERTO MENDOZA",
+            "FIRMA ELLECTRONICA": "ALBERTO MENDOZA - 1944174076"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1944174076",
+            "NOMBRES": "ALBERTO MENDOZA",
+            "FIRMA ELLECTRONICA": "ALBERTO MENDOZA - 1944174076",
+            "AL PIE DE LA FIRMA": "ALBERTO MENDOZA - 1944174076"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO MENDOZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1944174076",
+            "NOMBRES": "ALBERTO MENDOZA",
+            "SALARIO": "3.379.675",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1944174076",
+            "NOMBRES": "ALBERTO MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "4.828.983"
+        }
+    }
+]

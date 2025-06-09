@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "383547904218",
+            "SOLICITUD": "5004352",
+            "CEDULA": "1925223745",
+            "NOMBRES": "JOHAN FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "2.234.089",
+            "FIRMA ELLECTRONICA": "JOHAN FLÓREZ - 1925223745"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "383547904218",
+            "NOMBRES": "JOHAN FLÓREZ",
+            "CREDITO": "7.158.325",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.786",
+            "FIRMA ELLECTRONICA": "JOHAN FLÓREZ - 1925223745",
+            "AL PIE DE LA FIRMA": "JOHAN FLÓREZ - 1925223745"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1925223745",
+            "NOMBRES": "JOHAN FLÓREZ",
+            "FECHA NACIMIENTO": "15/02/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.158.325",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOHAN FLÓREZ - 1925223745",
+            "AL PIE DE LA FIRMA": "JOHAN FLÓREZ - 1925223745"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5004352",
+            "CEDULA": "1925223745",
+            "NOMBRES": "JOHAN FLÓREZ",
+            "CREDITO": "7.158.325",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.786",
+            "E.A": "23.33%",
+            "RECOMPRA O DESEMBOLSO": "2.234.089",
+            "FIRMA ELLECTRONICA": "JOHAN FLÓREZ - 1925223745"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1925223745",
+            "NOMBRES": "JOHAN FLÓREZ",
+            "FIRMA ELLECTRONICA": "JOHAN FLÓREZ - 1925223745"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1925223745",
+            "NOMBRES": "JOHAN FLÓREZ",
+            "FIRMA ELLECTRONICA": "JOHAN FLÓREZ - 1925223745",
+            "AL PIE DE LA FIRMA": "JOHAN FLÓREZ - 1925223745"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHAN FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1925223745",
+            "NOMBRES": "JOHAN FLÓREZ",
+            "SALARIO": "3.760.624",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1925223745",
+            "NOMBRES": "JOHAN FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "2.234.089"
+        }
+    }
+]

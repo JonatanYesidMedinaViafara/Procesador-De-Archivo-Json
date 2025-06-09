@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "496200342314",
+            "SOLICITUD": "4502201",
+            "CEDULA": "1075425532",
+            "NOMBRES": "JORGE CRISTOBAL PARRA",
+            "RECOMPRA O DESEMBOLSO": "4.487.486",
+            "FIRMA ELLECTRONICA": "JORGE CRISTOBAL PARRA - 1075425532"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "496200342314",
+            "NOMBRES": "JORGE CRISTOBAL PARRA",
+            "CREDITO": "12.288.930",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "329.695",
+            "FIRMA ELLECTRONICA": "JORGE CRISTOBAL PARRA - 1075425532",
+            "AL PIE DE LA FIRMA": "JORGE CRISTOBAL PARRA - 1075425532"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1075425532",
+            "NOMBRES": "JORGE CRISTOBAL PARRA",
+            "FECHA NACIMIENTO": "12/08/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.288.930",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JORGE CRISTOBAL PARRA - 1075425532",
+            "AL PIE DE LA FIRMA": "JORGE CRISTOBAL PARRA - 1075425532"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4502201",
+            "CEDULA": "1075425532",
+            "NOMBRES": "JORGE CRISTOBAL PARRA",
+            "CREDITO": "12.288.930",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "329.695",
+            "E.A": "22.74%",
+            "RECOMPRA O DESEMBOLSO": "4.487.486",
+            "FIRMA ELLECTRONICA": "JORGE CRISTOBAL PARRA - 1075425532"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1075425532",
+            "NOMBRES": "JORGE CRISTOBAL PARRA",
+            "FIRMA ELLECTRONICA": "JORGE CRISTOBAL PARRA - 1075425532"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1075425532",
+            "NOMBRES": "JORGE CRISTOBAL PARRA",
+            "FIRMA ELLECTRONICA": "JORGE CRISTOBAL PARRA - 1075425532",
+            "AL PIE DE LA FIRMA": "JORGE CRISTOBAL PARRA - 1075425532"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE CRISTOBAL PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1075425532",
+            "NOMBRES": "JORGE CRISTOBAL PARRA",
+            "SALARIO": "4.745.238",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1075425532",
+            "NOMBRES": "JORGE CRISTOBAL PARRA",
+            "RECOMPRA O DESEMBOLSO": "4.487.486"
+        }
+    }
+]

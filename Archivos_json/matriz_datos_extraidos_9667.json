@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "425187348544",
+            "SOLICITUD": "2936155",
+            "CEDULA": "1595960736",
+            "NOMBRES": "ÁLVARO CARO PABÓN",
+            "RECOMPRA O DESEMBOLSO": "4.001.287",
+            "FIRMA ELLECTRONICA": "ÁLVARO CARO PABÓN - 1595960736"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "425187348544",
+            "NOMBRES": "ÁLVARO CARO PABÓN",
+            "CREDITO": "17.250.674",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "179.054",
+            "FIRMA ELLECTRONICA": "ÁLVARO CARO PABÓN - 1595960736",
+            "AL PIE DE LA FIRMA": "ÁLVARO CARO PABÓN - 1595960736"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1595960736",
+            "NOMBRES": "ÁLVARO CARO PABÓN",
+            "FECHA NACIMIENTO": "21/03/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.250.674",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÁLVARO CARO PABÓN - 1595960736",
+            "AL PIE DE LA FIRMA": "ÁLVARO CARO PABÓN - 1595960736"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2936155",
+            "CEDULA": "1595960736",
+            "NOMBRES": "ÁLVARO CARO PABÓN",
+            "CREDITO": "17.250.674",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "179.054",
+            "E.A": "27.23%",
+            "RECOMPRA O DESEMBOLSO": "4.001.287",
+            "FIRMA ELLECTRONICA": "ÁLVARO CARO PABÓN - 1595960736"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1595960736",
+            "NOMBRES": "ÁLVARO CARO PABÓN",
+            "FIRMA ELLECTRONICA": "ÁLVARO CARO PABÓN - 1595960736"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1595960736",
+            "NOMBRES": "ÁLVARO CARO PABÓN",
+            "FIRMA ELLECTRONICA": "ÁLVARO CARO PABÓN - 1595960736",
+            "AL PIE DE LA FIRMA": "ÁLVARO CARO PABÓN - 1595960736"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO CARO PABÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1595960736",
+            "NOMBRES": "ÁLVARO CARO PABÓN",
+            "SALARIO": "2.788.454",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1595960736",
+            "NOMBRES": "ÁLVARO CARO PABÓN",
+            "RECOMPRA O DESEMBOLSO": "4.001.287"
+        }
+    }
+]

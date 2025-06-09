@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "866026405047",
+            "SOLICITUD": "4540516",
+            "CEDULA": "1280927346",
+            "NOMBRES": "FERNANDO MORALES",
+            "RECOMPRA O DESEMBOLSO": "3.371.533",
+            "FIRMA ELLECTRONICA": "FERNANDO MORALES - 1280927346"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "866026405047",
+            "NOMBRES": "FERNANDO MORALES",
+            "CREDITO": "9.410.861",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "212.029",
+            "FIRMA ELLECTRONICA": "FERNANDO MORALES - 1280927346",
+            "AL PIE DE LA FIRMA": "FERNANDO MORALES - 1280927346"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1280927346",
+            "NOMBRES": "FERNANDO MORALES",
+            "FECHA NACIMIENTO": "26/07/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.410.861",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO MORALES - 1280927346",
+            "AL PIE DE LA FIRMA": "FERNANDO MORALES - 1280927346"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4540516",
+            "CEDULA": "1280927346",
+            "NOMBRES": "FERNANDO MORALES",
+            "CREDITO": "9.410.861",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "212.029",
+            "E.A": "20.12%",
+            "RECOMPRA O DESEMBOLSO": "3.371.533",
+            "FIRMA ELLECTRONICA": "FERNANDO MORALES - 1280927346"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1280927346",
+            "NOMBRES": "FERNANDO MORALES",
+            "FIRMA ELLECTRONICA": "FERNANDO MORALES - 1280927346"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1280927346",
+            "NOMBRES": "FERNANDO MORALES",
+            "FIRMA ELLECTRONICA": "FERNANDO MORALES - 1280927346",
+            "AL PIE DE LA FIRMA": "FERNANDO MORALES - 1280927346"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1280927346",
+            "NOMBRES": "FERNANDO MORALES",
+            "SALARIO": "3.936.306",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1280927346",
+            "NOMBRES": "FERNANDO MORALES",
+            "RECOMPRA O DESEMBOLSO": "3.371.533"
+        }
+    }
+]

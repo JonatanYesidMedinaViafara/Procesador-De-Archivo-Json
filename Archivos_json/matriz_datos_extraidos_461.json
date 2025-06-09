@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "957807312375",
+            "SOLICITUD": "6781681",
+            "CEDULA": "1876178914",
+            "NOMBRES": "LIDA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.370.960",
+            "FIRMA ELLECTRONICA": "LIDA GARCÍA - 1876178914"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "957807312375",
+            "NOMBRES": "LIDA GARCÍA",
+            "CREDITO": "17.312.513",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "284.226",
+            "FIRMA ELLECTRONICA": "LIDA GARCÍA - 1876178914",
+            "AL PIE DE LA FIRMA": "LIDA GARCÍA - 1876178914"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1876178914",
+            "NOMBRES": "LIDA GARCÍA",
+            "FECHA NACIMIENTO": "10/01/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.312.513",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LIDA GARCÍA - 1876178914",
+            "AL PIE DE LA FIRMA": "LIDA GARCÍA - 1876178914"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6781681",
+            "CEDULA": "1876178914",
+            "NOMBRES": "LIDA GARCÍA",
+            "CREDITO": "17.312.513",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "284.226",
+            "E.A": "23.09%",
+            "RECOMPRA O DESEMBOLSO": "4.370.960",
+            "FIRMA ELLECTRONICA": "LIDA GARCÍA - 1876178914"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1876178914",
+            "NOMBRES": "LIDA GARCÍA",
+            "FIRMA ELLECTRONICA": "LIDA GARCÍA - 1876178914"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1876178914",
+            "NOMBRES": "LIDA GARCÍA",
+            "FIRMA ELLECTRONICA": "LIDA GARCÍA - 1876178914",
+            "AL PIE DE LA FIRMA": "LIDA GARCÍA - 1876178914"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LIDA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1876178914",
+            "NOMBRES": "LIDA GARCÍA",
+            "SALARIO": "1.691.986",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1876178914",
+            "NOMBRES": "LIDA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.370.960"
+        }
+    }
+]

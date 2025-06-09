@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "770826159190",
+            "SOLICITUD": "4503923",
+            "CEDULA": "1681886054",
+            "NOMBRES": "LUIS MORENO",
+            "RECOMPRA O DESEMBOLSO": "4.831.154",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1681886054"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "770826159190",
+            "NOMBRES": "LUIS MORENO",
+            "CREDITO": "14.872.318",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "371.74",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1681886054",
+            "AL PIE DE LA FIRMA": "LUIS MORENO - 1681886054"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1681886054",
+            "NOMBRES": "LUIS MORENO",
+            "FECHA NACIMIENTO": "25/10/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.872.318",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1681886054",
+            "AL PIE DE LA FIRMA": "LUIS MORENO - 1681886054"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4503923",
+            "CEDULA": "1681886054",
+            "NOMBRES": "LUIS MORENO",
+            "CREDITO": "14.872.318",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "371.74",
+            "E.A": "18.16%",
+            "RECOMPRA O DESEMBOLSO": "4.831.154",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1681886054"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1681886054",
+            "NOMBRES": "LUIS MORENO",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1681886054"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1681886054",
+            "NOMBRES": "LUIS MORENO",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1681886054",
+            "AL PIE DE LA FIRMA": "LUIS MORENO - 1681886054"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1681886054",
+            "NOMBRES": "LUIS MORENO",
+            "SALARIO": "1.402.148",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1681886054",
+            "NOMBRES": "LUIS MORENO",
+            "RECOMPRA O DESEMBOLSO": "4.831.154"
+        }
+    }
+]

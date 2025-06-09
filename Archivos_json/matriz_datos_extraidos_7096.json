@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "221352947962",
+            "SOLICITUD": "1448833",
+            "CEDULA": "1525082180",
+            "NOMBRES": "JOSÉ GUERRERO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.239.477",
+            "FIRMA ELLECTRONICA": "JOSÉ GUERRERO CASTRO - 1525082180"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "221352947962",
+            "NOMBRES": "JOSÉ GUERRERO CASTRO",
+            "CREDITO": "10.063.021",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "137.966",
+            "FIRMA ELLECTRONICA": "JOSÉ GUERRERO CASTRO - 1525082180",
+            "AL PIE DE LA FIRMA": "JOSÉ GUERRERO CASTRO - 1525082180"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1525082180",
+            "NOMBRES": "JOSÉ GUERRERO CASTRO",
+            "FECHA NACIMIENTO": "06/02/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.063.021",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ GUERRERO CASTRO - 1525082180",
+            "AL PIE DE LA FIRMA": "JOSÉ GUERRERO CASTRO - 1525082180"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1448833",
+            "CEDULA": "1525082180",
+            "NOMBRES": "JOSÉ GUERRERO CASTRO",
+            "CREDITO": "10.063.021",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "137.966",
+            "E.A": "23.45%",
+            "RECOMPRA O DESEMBOLSO": "4.239.477",
+            "FIRMA ELLECTRONICA": "JOSÉ GUERRERO CASTRO - 1525082180"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1525082180",
+            "NOMBRES": "JOSÉ GUERRERO CASTRO",
+            "FIRMA ELLECTRONICA": "JOSÉ GUERRERO CASTRO - 1525082180"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1525082180",
+            "NOMBRES": "JOSÉ GUERRERO CASTRO",
+            "FIRMA ELLECTRONICA": "JOSÉ GUERRERO CASTRO - 1525082180",
+            "AL PIE DE LA FIRMA": "JOSÉ GUERRERO CASTRO - 1525082180"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ GUERRERO CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1525082180",
+            "NOMBRES": "JOSÉ GUERRERO CASTRO",
+            "SALARIO": "3.258.939",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1525082180",
+            "NOMBRES": "JOSÉ GUERRERO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.239.477"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "722012862313",
+            "SOLICITUD": "6990506",
+            "CEDULA": "1840711876",
+            "NOMBRES": "PAULINA CASTRILLÓN",
+            "RECOMPRA O DESEMBOLSO": "2.933.477",
+            "FIRMA ELLECTRONICA": "PAULINA CASTRILLÓN - 1840711876"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "722012862313",
+            "NOMBRES": "PAULINA CASTRILLÓN",
+            "CREDITO": "14.775.968",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "159.057",
+            "FIRMA ELLECTRONICA": "PAULINA CASTRILLÓN - 1840711876",
+            "AL PIE DE LA FIRMA": "PAULINA CASTRILLÓN - 1840711876"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1840711876",
+            "NOMBRES": "PAULINA CASTRILLÓN",
+            "FECHA NACIMIENTO": "21/07/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.775.968",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PAULINA CASTRILLÓN - 1840711876",
+            "AL PIE DE LA FIRMA": "PAULINA CASTRILLÓN - 1840711876"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6990506",
+            "CEDULA": "1840711876",
+            "NOMBRES": "PAULINA CASTRILLÓN",
+            "CREDITO": "14.775.968",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "159.057",
+            "E.A": "24.96%",
+            "RECOMPRA O DESEMBOLSO": "2.933.477",
+            "FIRMA ELLECTRONICA": "PAULINA CASTRILLÓN - 1840711876"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1840711876",
+            "NOMBRES": "PAULINA CASTRILLÓN",
+            "FIRMA ELLECTRONICA": "PAULINA CASTRILLÓN - 1840711876"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1840711876",
+            "NOMBRES": "PAULINA CASTRILLÓN",
+            "FIRMA ELLECTRONICA": "PAULINA CASTRILLÓN - 1840711876",
+            "AL PIE DE LA FIRMA": "PAULINA CASTRILLÓN - 1840711876"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAULINA CASTRILLÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1840711876",
+            "NOMBRES": "PAULINA CASTRILLÓN",
+            "SALARIO": "2.715.880",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1840711876",
+            "NOMBRES": "PAULINA CASTRILLÓN",
+            "RECOMPRA O DESEMBOLSO": "2.933.477"
+        }
+    }
+]

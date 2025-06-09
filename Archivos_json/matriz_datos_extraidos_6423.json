@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "289883580344",
+            "SOLICITUD": "9053322",
+            "CEDULA": "1156232864",
+            "NOMBRES": "CAMILO CARLOS RODRÍGUEZ CARO",
+            "RECOMPRA O DESEMBOLSO": "2.033.506",
+            "FIRMA ELLECTRONICA": "CAMILO CARLOS RODRÍGUEZ CARO - 1156232864"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "289883580344",
+            "NOMBRES": "CAMILO CARLOS RODRÍGUEZ CARO",
+            "CREDITO": "19.579.349",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "319.079",
+            "FIRMA ELLECTRONICA": "CAMILO CARLOS RODRÍGUEZ CARO - 1156232864",
+            "AL PIE DE LA FIRMA": "CAMILO CARLOS RODRÍGUEZ CARO - 1156232864"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1156232864",
+            "NOMBRES": "CAMILO CARLOS RODRÍGUEZ CARO",
+            "FECHA NACIMIENTO": "04/09/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.579.349",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAMILO CARLOS RODRÍGUEZ CARO - 1156232864",
+            "AL PIE DE LA FIRMA": "CAMILO CARLOS RODRÍGUEZ CARO - 1156232864"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9053322",
+            "CEDULA": "1156232864",
+            "NOMBRES": "CAMILO CARLOS RODRÍGUEZ CARO",
+            "CREDITO": "19.579.349",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "319.079",
+            "E.A": "21.52%",
+            "RECOMPRA O DESEMBOLSO": "2.033.506",
+            "FIRMA ELLECTRONICA": "CAMILO CARLOS RODRÍGUEZ CARO - 1156232864"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1156232864",
+            "NOMBRES": "CAMILO CARLOS RODRÍGUEZ CARO",
+            "FIRMA ELLECTRONICA": "CAMILO CARLOS RODRÍGUEZ CARO - 1156232864"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1156232864",
+            "NOMBRES": "CAMILO CARLOS RODRÍGUEZ CARO",
+            "FIRMA ELLECTRONICA": "CAMILO CARLOS RODRÍGUEZ CARO - 1156232864",
+            "AL PIE DE LA FIRMA": "CAMILO CARLOS RODRÍGUEZ CARO - 1156232864"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO CARLOS RODRÍGUEZ CARO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1156232864",
+            "NOMBRES": "CAMILO CARLOS RODRÍGUEZ CARO",
+            "SALARIO": "2.342.527",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1156232864",
+            "NOMBRES": "CAMILO CARLOS RODRÍGUEZ CARO",
+            "RECOMPRA O DESEMBOLSO": "2.033.506"
+        }
+    }
+]

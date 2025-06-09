@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "255910958731",
+            "SOLICITUD": "8269259",
+            "CEDULA": "1672604923",
+            "NOMBRES": "JULIO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.833.829",
+            "FIRMA ELLECTRONICA": "JULIO GARCÍA - 1672604923"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "255910958731",
+            "NOMBRES": "JULIO GARCÍA",
+            "CREDITO": "8.256.658",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "148.378",
+            "FIRMA ELLECTRONICA": "JULIO GARCÍA - 1672604923",
+            "AL PIE DE LA FIRMA": "JULIO GARCÍA - 1672604923"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1672604923",
+            "NOMBRES": "JULIO GARCÍA",
+            "FECHA NACIMIENTO": "02/05/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.256.658",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JULIO GARCÍA - 1672604923",
+            "AL PIE DE LA FIRMA": "JULIO GARCÍA - 1672604923"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8269259",
+            "CEDULA": "1672604923",
+            "NOMBRES": "JULIO GARCÍA",
+            "CREDITO": "8.256.658",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "148.378",
+            "E.A": "25.63%",
+            "RECOMPRA O DESEMBOLSO": "1.833.829",
+            "FIRMA ELLECTRONICA": "JULIO GARCÍA - 1672604923"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1672604923",
+            "NOMBRES": "JULIO GARCÍA",
+            "FIRMA ELLECTRONICA": "JULIO GARCÍA - 1672604923"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1672604923",
+            "NOMBRES": "JULIO GARCÍA",
+            "FIRMA ELLECTRONICA": "JULIO GARCÍA - 1672604923",
+            "AL PIE DE LA FIRMA": "JULIO GARCÍA - 1672604923"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1672604923",
+            "NOMBRES": "JULIO GARCÍA",
+            "SALARIO": "2.364.752",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1672604923",
+            "NOMBRES": "JULIO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.833.829"
+        }
+    }
+]

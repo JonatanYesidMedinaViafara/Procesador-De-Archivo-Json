@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "430850941704",
+            "SOLICITUD": "1888577",
+            "CEDULA": "1778179336",
+            "NOMBRES": "JOHANA JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.667.441",
+            "FIRMA ELLECTRONICA": "JOHANA JIMÉNEZ - 1778179336"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "430850941704",
+            "NOMBRES": "JOHANA JIMÉNEZ",
+            "CREDITO": "6.076.172",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "191.178",
+            "FIRMA ELLECTRONICA": "JOHANA JIMÉNEZ - 1778179336",
+            "AL PIE DE LA FIRMA": "JOHANA JIMÉNEZ - 1778179336"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1778179336",
+            "NOMBRES": "JOHANA JIMÉNEZ",
+            "FECHA NACIMIENTO": "04/11/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.076.172",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOHANA JIMÉNEZ - 1778179336",
+            "AL PIE DE LA FIRMA": "JOHANA JIMÉNEZ - 1778179336"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1888577",
+            "CEDULA": "1778179336",
+            "NOMBRES": "JOHANA JIMÉNEZ",
+            "CREDITO": "6.076.172",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "191.178",
+            "E.A": "19.1%",
+            "RECOMPRA O DESEMBOLSO": "2.667.441",
+            "FIRMA ELLECTRONICA": "JOHANA JIMÉNEZ - 1778179336"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1778179336",
+            "NOMBRES": "JOHANA JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "JOHANA JIMÉNEZ - 1778179336"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1778179336",
+            "NOMBRES": "JOHANA JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "JOHANA JIMÉNEZ - 1778179336",
+            "AL PIE DE LA FIRMA": "JOHANA JIMÉNEZ - 1778179336"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHANA JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1778179336",
+            "NOMBRES": "JOHANA JIMÉNEZ",
+            "SALARIO": "4.188.080",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1778179336",
+            "NOMBRES": "JOHANA JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.667.441"
+        }
+    }
+]

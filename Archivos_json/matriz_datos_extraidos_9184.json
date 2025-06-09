@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "931265328491",
+            "SOLICITUD": "8648781",
+            "CEDULA": "1029287504",
+            "NOMBRES": "LINA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.910.613",
+            "FIRMA ELLECTRONICA": "LINA RODRÍGUEZ - 1029287504"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "931265328491",
+            "NOMBRES": "LINA RODRÍGUEZ",
+            "CREDITO": "5.169.879",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "124.145",
+            "FIRMA ELLECTRONICA": "LINA RODRÍGUEZ - 1029287504",
+            "AL PIE DE LA FIRMA": "LINA RODRÍGUEZ - 1029287504"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1029287504",
+            "NOMBRES": "LINA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "10/10/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.169.879",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LINA RODRÍGUEZ - 1029287504",
+            "AL PIE DE LA FIRMA": "LINA RODRÍGUEZ - 1029287504"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8648781",
+            "CEDULA": "1029287504",
+            "NOMBRES": "LINA RODRÍGUEZ",
+            "CREDITO": "5.169.879",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "124.145",
+            "E.A": "23.38%",
+            "RECOMPRA O DESEMBOLSO": "2.910.613",
+            "FIRMA ELLECTRONICA": "LINA RODRÍGUEZ - 1029287504"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1029287504",
+            "NOMBRES": "LINA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LINA RODRÍGUEZ - 1029287504"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1029287504",
+            "NOMBRES": "LINA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LINA RODRÍGUEZ - 1029287504",
+            "AL PIE DE LA FIRMA": "LINA RODRÍGUEZ - 1029287504"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LINA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1029287504",
+            "NOMBRES": "LINA RODRÍGUEZ",
+            "SALARIO": "1.954.976",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1029287504",
+            "NOMBRES": "LINA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.910.613"
+        }
+    }
+]

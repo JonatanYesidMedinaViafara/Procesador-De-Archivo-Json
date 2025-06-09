@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "768362091161",
+            "SOLICITUD": "2642817",
+            "CEDULA": "1783434684",
+            "NOMBRES": "EUGENIA FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.561.803",
+            "FIRMA ELLECTRONICA": "EUGENIA FLÓREZ - 1783434684"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "768362091161",
+            "NOMBRES": "EUGENIA FLÓREZ",
+            "CREDITO": "12.501.435",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "154.315",
+            "FIRMA ELLECTRONICA": "EUGENIA FLÓREZ - 1783434684",
+            "AL PIE DE LA FIRMA": "EUGENIA FLÓREZ - 1783434684"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1783434684",
+            "NOMBRES": "EUGENIA FLÓREZ",
+            "FECHA NACIMIENTO": "08/12/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.501.435",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EUGENIA FLÓREZ - 1783434684",
+            "AL PIE DE LA FIRMA": "EUGENIA FLÓREZ - 1783434684"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2642817",
+            "CEDULA": "1783434684",
+            "NOMBRES": "EUGENIA FLÓREZ",
+            "CREDITO": "12.501.435",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "154.315",
+            "E.A": "19.55%",
+            "RECOMPRA O DESEMBOLSO": "1.561.803",
+            "FIRMA ELLECTRONICA": "EUGENIA FLÓREZ - 1783434684"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1783434684",
+            "NOMBRES": "EUGENIA FLÓREZ",
+            "FIRMA ELLECTRONICA": "EUGENIA FLÓREZ - 1783434684"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1783434684",
+            "NOMBRES": "EUGENIA FLÓREZ",
+            "FIRMA ELLECTRONICA": "EUGENIA FLÓREZ - 1783434684",
+            "AL PIE DE LA FIRMA": "EUGENIA FLÓREZ - 1783434684"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EUGENIA FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1783434684",
+            "NOMBRES": "EUGENIA FLÓREZ",
+            "SALARIO": "4.309.781",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1783434684",
+            "NOMBRES": "EUGENIA FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.561.803"
+        }
+    }
+]

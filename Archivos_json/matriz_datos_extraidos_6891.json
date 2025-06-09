@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "733181445491",
+            "SOLICITUD": "5088491",
+            "CEDULA": "1262406934",
+            "NOMBRES": "JOSÉ DURÁN TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "1.807.539",
+            "FIRMA ELLECTRONICA": "JOSÉ DURÁN TRUJILLO - 1262406934"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "733181445491",
+            "NOMBRES": "JOSÉ DURÁN TRUJILLO",
+            "CREDITO": "15.582.600",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "215.741",
+            "FIRMA ELLECTRONICA": "JOSÉ DURÁN TRUJILLO - 1262406934",
+            "AL PIE DE LA FIRMA": "JOSÉ DURÁN TRUJILLO - 1262406934"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1262406934",
+            "NOMBRES": "JOSÉ DURÁN TRUJILLO",
+            "FECHA NACIMIENTO": "28/09/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.582.600",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ DURÁN TRUJILLO - 1262406934",
+            "AL PIE DE LA FIRMA": "JOSÉ DURÁN TRUJILLO - 1262406934"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5088491",
+            "CEDULA": "1262406934",
+            "NOMBRES": "JOSÉ DURÁN TRUJILLO",
+            "CREDITO": "15.582.600",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "215.741",
+            "E.A": "28.08%",
+            "RECOMPRA O DESEMBOLSO": "1.807.539",
+            "FIRMA ELLECTRONICA": "JOSÉ DURÁN TRUJILLO - 1262406934"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1262406934",
+            "NOMBRES": "JOSÉ DURÁN TRUJILLO",
+            "FIRMA ELLECTRONICA": "JOSÉ DURÁN TRUJILLO - 1262406934"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1262406934",
+            "NOMBRES": "JOSÉ DURÁN TRUJILLO",
+            "FIRMA ELLECTRONICA": "JOSÉ DURÁN TRUJILLO - 1262406934",
+            "AL PIE DE LA FIRMA": "JOSÉ DURÁN TRUJILLO - 1262406934"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ DURÁN TRUJILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1262406934",
+            "NOMBRES": "JOSÉ DURÁN TRUJILLO",
+            "SALARIO": "1.267.280",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1262406934",
+            "NOMBRES": "JOSÉ DURÁN TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "1.807.539"
+        }
+    }
+]

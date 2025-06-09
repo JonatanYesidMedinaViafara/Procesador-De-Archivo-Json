@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "445432655687",
+            "SOLICITUD": "9382717",
+            "CEDULA": "1635100895",
+            "NOMBRES": "MANUEL PORTILLA",
+            "RECOMPRA O DESEMBOLSO": "4.855.605",
+            "FIRMA ELLECTRONICA": "MANUEL PORTILLA - 1635100895"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "445432655687",
+            "NOMBRES": "MANUEL PORTILLA",
+            "CREDITO": "9.314.765",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "246.105",
+            "FIRMA ELLECTRONICA": "MANUEL PORTILLA - 1635100895",
+            "AL PIE DE LA FIRMA": "MANUEL PORTILLA - 1635100895"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1635100895",
+            "NOMBRES": "MANUEL PORTILLA",
+            "FECHA NACIMIENTO": "11/05/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.314.765",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MANUEL PORTILLA - 1635100895",
+            "AL PIE DE LA FIRMA": "MANUEL PORTILLA - 1635100895"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9382717",
+            "CEDULA": "1635100895",
+            "NOMBRES": "MANUEL PORTILLA",
+            "CREDITO": "9.314.765",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "246.105",
+            "E.A": "20.66%",
+            "RECOMPRA O DESEMBOLSO": "4.855.605",
+            "FIRMA ELLECTRONICA": "MANUEL PORTILLA - 1635100895"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1635100895",
+            "NOMBRES": "MANUEL PORTILLA",
+            "FIRMA ELLECTRONICA": "MANUEL PORTILLA - 1635100895"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1635100895",
+            "NOMBRES": "MANUEL PORTILLA",
+            "FIRMA ELLECTRONICA": "MANUEL PORTILLA - 1635100895",
+            "AL PIE DE LA FIRMA": "MANUEL PORTILLA - 1635100895"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL PORTILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1635100895",
+            "NOMBRES": "MANUEL PORTILLA",
+            "SALARIO": "1.936.790",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1635100895",
+            "NOMBRES": "MANUEL PORTILLA",
+            "RECOMPRA O DESEMBOLSO": "4.855.605"
+        }
+    }
+]

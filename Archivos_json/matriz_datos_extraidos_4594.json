@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "807117372765",
+            "SOLICITUD": "8613627",
+            "CEDULA": "1607754391",
+            "NOMBRES": "ALCIRA PINTO",
+            "RECOMPRA O DESEMBOLSO": "2.342.017",
+            "FIRMA ELLECTRONICA": "ALCIRA PINTO - 1607754391"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "807117372765",
+            "NOMBRES": "ALCIRA PINTO",
+            "CREDITO": "19.118.534",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "313.651",
+            "FIRMA ELLECTRONICA": "ALCIRA PINTO - 1607754391",
+            "AL PIE DE LA FIRMA": "ALCIRA PINTO - 1607754391"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1607754391",
+            "NOMBRES": "ALCIRA PINTO",
+            "FECHA NACIMIENTO": "25/12/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.118.534",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALCIRA PINTO - 1607754391",
+            "AL PIE DE LA FIRMA": "ALCIRA PINTO - 1607754391"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8613627",
+            "CEDULA": "1607754391",
+            "NOMBRES": "ALCIRA PINTO",
+            "CREDITO": "19.118.534",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "313.651",
+            "E.A": "20.78%",
+            "RECOMPRA O DESEMBOLSO": "2.342.017",
+            "FIRMA ELLECTRONICA": "ALCIRA PINTO - 1607754391"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1607754391",
+            "NOMBRES": "ALCIRA PINTO",
+            "FIRMA ELLECTRONICA": "ALCIRA PINTO - 1607754391"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1607754391",
+            "NOMBRES": "ALCIRA PINTO",
+            "FIRMA ELLECTRONICA": "ALCIRA PINTO - 1607754391",
+            "AL PIE DE LA FIRMA": "ALCIRA PINTO - 1607754391"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALCIRA PINTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1607754391",
+            "NOMBRES": "ALCIRA PINTO",
+            "SALARIO": "3.774.227",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1607754391",
+            "NOMBRES": "ALCIRA PINTO",
+            "RECOMPRA O DESEMBOLSO": "2.342.017"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "990540385766",
+            "SOLICITUD": "3833952",
+            "CEDULA": "1234945711",
+            "NOMBRES": "NEIDER JOSÉ PÉREZ CAICEDO",
+            "RECOMPRA O DESEMBOLSO": "4.135.426",
+            "FIRMA ELLECTRONICA": "NEIDER JOSÉ PÉREZ CAICEDO - 1234945711"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "990540385766",
+            "NOMBRES": "NEIDER JOSÉ PÉREZ CAICEDO",
+            "CREDITO": "17.008.810",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "182.648",
+            "FIRMA ELLECTRONICA": "NEIDER JOSÉ PÉREZ CAICEDO - 1234945711",
+            "AL PIE DE LA FIRMA": "NEIDER JOSÉ PÉREZ CAICEDO - 1234945711"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1234945711",
+            "NOMBRES": "NEIDER JOSÉ PÉREZ CAICEDO",
+            "FECHA NACIMIENTO": "28/08/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.008.810",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "NEIDER JOSÉ PÉREZ CAICEDO - 1234945711",
+            "AL PIE DE LA FIRMA": "NEIDER JOSÉ PÉREZ CAICEDO - 1234945711"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3833952",
+            "CEDULA": "1234945711",
+            "NOMBRES": "NEIDER JOSÉ PÉREZ CAICEDO",
+            "CREDITO": "17.008.810",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "182.648",
+            "E.A": "18.11%",
+            "RECOMPRA O DESEMBOLSO": "4.135.426",
+            "FIRMA ELLECTRONICA": "NEIDER JOSÉ PÉREZ CAICEDO - 1234945711"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1234945711",
+            "NOMBRES": "NEIDER JOSÉ PÉREZ CAICEDO",
+            "FIRMA ELLECTRONICA": "NEIDER JOSÉ PÉREZ CAICEDO - 1234945711"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1234945711",
+            "NOMBRES": "NEIDER JOSÉ PÉREZ CAICEDO",
+            "FIRMA ELLECTRONICA": "NEIDER JOSÉ PÉREZ CAICEDO - 1234945711",
+            "AL PIE DE LA FIRMA": "NEIDER JOSÉ PÉREZ CAICEDO - 1234945711"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NEIDER JOSÉ PÉREZ CAICEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1234945711",
+            "NOMBRES": "NEIDER JOSÉ PÉREZ CAICEDO",
+            "SALARIO": "3.701.779",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "14/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1234945711",
+            "NOMBRES": "NEIDER JOSÉ PÉREZ CAICEDO",
+            "RECOMPRA O DESEMBOLSO": "4.135.426"
+        }
+    }
+]

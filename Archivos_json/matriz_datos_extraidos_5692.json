@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "888305438116",
+            "SOLICITUD": "7028312",
+            "CEDULA": "1966908982",
+            "NOMBRES": "ESPERANZA MURILLO",
+            "RECOMPRA O DESEMBOLSO": "4.369.015",
+            "FIRMA ELLECTRONICA": "ESPERANZA MURILLO - 1966908982"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "888305438116",
+            "NOMBRES": "ESPERANZA MURILLO",
+            "CREDITO": "10.189.184",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "143.948",
+            "FIRMA ELLECTRONICA": "ESPERANZA MURILLO - 1966908982",
+            "AL PIE DE LA FIRMA": "ESPERANZA MURILLO - 1966908982"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1966908982",
+            "NOMBRES": "ESPERANZA MURILLO",
+            "FECHA NACIMIENTO": "01/02/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.189.184",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ESPERANZA MURILLO - 1966908982",
+            "AL PIE DE LA FIRMA": "ESPERANZA MURILLO - 1966908982"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7028312",
+            "CEDULA": "1966908982",
+            "NOMBRES": "ESPERANZA MURILLO",
+            "CREDITO": "10.189.184",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "143.948",
+            "E.A": "19.38%",
+            "RECOMPRA O DESEMBOLSO": "4.369.015",
+            "FIRMA ELLECTRONICA": "ESPERANZA MURILLO - 1966908982"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1966908982",
+            "NOMBRES": "ESPERANZA MURILLO",
+            "FIRMA ELLECTRONICA": "ESPERANZA MURILLO - 1966908982"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1966908982",
+            "NOMBRES": "ESPERANZA MURILLO",
+            "FIRMA ELLECTRONICA": "ESPERANZA MURILLO - 1966908982",
+            "AL PIE DE LA FIRMA": "ESPERANZA MURILLO - 1966908982"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESPERANZA MURILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1966908982",
+            "NOMBRES": "ESPERANZA MURILLO",
+            "SALARIO": "1.307.793",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1966908982",
+            "NOMBRES": "ESPERANZA MURILLO",
+            "RECOMPRA O DESEMBOLSO": "4.369.015"
+        }
+    }
+]

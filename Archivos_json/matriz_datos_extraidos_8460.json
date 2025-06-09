@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "120074786645",
+            "SOLICITUD": "4536229",
+            "CEDULA": "1263670438",
+            "NOMBRES": "MARÍA ERAZO",
+            "RECOMPRA O DESEMBOLSO": "2.106.328",
+            "FIRMA ELLECTRONICA": "MARÍA ERAZO - 1263670438"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "120074786645",
+            "NOMBRES": "MARÍA ERAZO",
+            "CREDITO": "10.795.945",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "136.98",
+            "FIRMA ELLECTRONICA": "MARÍA ERAZO - 1263670438",
+            "AL PIE DE LA FIRMA": "MARÍA ERAZO - 1263670438"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1263670438",
+            "NOMBRES": "MARÍA ERAZO",
+            "FECHA NACIMIENTO": "14/09/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.795.945",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA ERAZO - 1263670438",
+            "AL PIE DE LA FIRMA": "MARÍA ERAZO - 1263670438"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4536229",
+            "CEDULA": "1263670438",
+            "NOMBRES": "MARÍA ERAZO",
+            "CREDITO": "10.795.945",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "136.98",
+            "E.A": "21.62%",
+            "RECOMPRA O DESEMBOLSO": "2.106.328",
+            "FIRMA ELLECTRONICA": "MARÍA ERAZO - 1263670438"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1263670438",
+            "NOMBRES": "MARÍA ERAZO",
+            "FIRMA ELLECTRONICA": "MARÍA ERAZO - 1263670438"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1263670438",
+            "NOMBRES": "MARÍA ERAZO",
+            "FIRMA ELLECTRONICA": "MARÍA ERAZO - 1263670438",
+            "AL PIE DE LA FIRMA": "MARÍA ERAZO - 1263670438"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ERAZO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1263670438",
+            "NOMBRES": "MARÍA ERAZO",
+            "SALARIO": "1.496.415",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1263670438",
+            "NOMBRES": "MARÍA ERAZO",
+            "RECOMPRA O DESEMBOLSO": "2.106.328"
+        }
+    }
+]

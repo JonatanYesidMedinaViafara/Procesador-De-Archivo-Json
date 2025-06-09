@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "566178908264",
+            "SOLICITUD": "4616502",
+            "CEDULA": "1225437803",
+            "NOMBRES": "LUISA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.324.225",
+            "FIRMA ELLECTRONICA": "LUISA SÁNCHEZ - 1225437803"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "566178908264",
+            "NOMBRES": "LUISA SÁNCHEZ",
+            "CREDITO": "15.039.544",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "121.469",
+            "FIRMA ELLECTRONICA": "LUISA SÁNCHEZ - 1225437803",
+            "AL PIE DE LA FIRMA": "LUISA SÁNCHEZ - 1225437803"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1225437803",
+            "NOMBRES": "LUISA SÁNCHEZ",
+            "FECHA NACIMIENTO": "13/01/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.039.544",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUISA SÁNCHEZ - 1225437803",
+            "AL PIE DE LA FIRMA": "LUISA SÁNCHEZ - 1225437803"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4616502",
+            "CEDULA": "1225437803",
+            "NOMBRES": "LUISA SÁNCHEZ",
+            "CREDITO": "15.039.544",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "121.469",
+            "E.A": "20.27%",
+            "RECOMPRA O DESEMBOLSO": "1.324.225",
+            "FIRMA ELLECTRONICA": "LUISA SÁNCHEZ - 1225437803"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1225437803",
+            "NOMBRES": "LUISA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "LUISA SÁNCHEZ - 1225437803"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1225437803",
+            "NOMBRES": "LUISA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "LUISA SÁNCHEZ - 1225437803",
+            "AL PIE DE LA FIRMA": "LUISA SÁNCHEZ - 1225437803"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUISA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1225437803",
+            "NOMBRES": "LUISA SÁNCHEZ",
+            "SALARIO": "4.452.086",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1225437803",
+            "NOMBRES": "LUISA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.324.225"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "296968608178",
+            "SOLICITUD": "4374451",
+            "CEDULA": "1199568163",
+            "NOMBRES": "VÍCTOR PULIDO",
+            "RECOMPRA O DESEMBOLSO": "2.885.028",
+            "FIRMA ELLECTRONICA": "VÍCTOR PULIDO - 1199568163"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "296968608178",
+            "NOMBRES": "VÍCTOR PULIDO",
+            "CREDITO": "11.944.210",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "157.631",
+            "FIRMA ELLECTRONICA": "VÍCTOR PULIDO - 1199568163",
+            "AL PIE DE LA FIRMA": "VÍCTOR PULIDO - 1199568163"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1199568163",
+            "NOMBRES": "VÍCTOR PULIDO",
+            "FECHA NACIMIENTO": "15/08/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.944.210",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "VÍCTOR PULIDO - 1199568163",
+            "AL PIE DE LA FIRMA": "VÍCTOR PULIDO - 1199568163"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4374451",
+            "CEDULA": "1199568163",
+            "NOMBRES": "VÍCTOR PULIDO",
+            "CREDITO": "11.944.210",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "157.631",
+            "E.A": "26.16%",
+            "RECOMPRA O DESEMBOLSO": "2.885.028",
+            "FIRMA ELLECTRONICA": "VÍCTOR PULIDO - 1199568163"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1199568163",
+            "NOMBRES": "VÍCTOR PULIDO",
+            "FIRMA ELLECTRONICA": "VÍCTOR PULIDO - 1199568163"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1199568163",
+            "NOMBRES": "VÍCTOR PULIDO",
+            "FIRMA ELLECTRONICA": "VÍCTOR PULIDO - 1199568163",
+            "AL PIE DE LA FIRMA": "VÍCTOR PULIDO - 1199568163"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VÍCTOR PULIDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1199568163",
+            "NOMBRES": "VÍCTOR PULIDO",
+            "SALARIO": "4.559.182",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1199568163",
+            "NOMBRES": "VÍCTOR PULIDO",
+            "RECOMPRA O DESEMBOLSO": "2.885.028"
+        }
+    }
+]

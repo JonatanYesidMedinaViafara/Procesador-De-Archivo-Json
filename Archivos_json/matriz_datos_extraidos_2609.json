@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "235131519201",
+            "SOLICITUD": "9504971",
+            "CEDULA": "1107105003",
+            "NOMBRES": "ALBERTO CARLOS ZAPATA BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "3.322.591",
+            "FIRMA ELLECTRONICA": "ALBERTO CARLOS ZAPATA BEDOYA - 1107105003"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "235131519201",
+            "NOMBRES": "ALBERTO CARLOS ZAPATA BEDOYA",
+            "CREDITO": "10.678.463",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "142.888",
+            "FIRMA ELLECTRONICA": "ALBERTO CARLOS ZAPATA BEDOYA - 1107105003",
+            "AL PIE DE LA FIRMA": "ALBERTO CARLOS ZAPATA BEDOYA - 1107105003"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1107105003",
+            "NOMBRES": "ALBERTO CARLOS ZAPATA BEDOYA",
+            "FECHA NACIMIENTO": "11/08/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.678.463",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALBERTO CARLOS ZAPATA BEDOYA - 1107105003",
+            "AL PIE DE LA FIRMA": "ALBERTO CARLOS ZAPATA BEDOYA - 1107105003"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9504971",
+            "CEDULA": "1107105003",
+            "NOMBRES": "ALBERTO CARLOS ZAPATA BEDOYA",
+            "CREDITO": "10.678.463",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "142.888",
+            "E.A": "22.79%",
+            "RECOMPRA O DESEMBOLSO": "3.322.591",
+            "FIRMA ELLECTRONICA": "ALBERTO CARLOS ZAPATA BEDOYA - 1107105003"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1107105003",
+            "NOMBRES": "ALBERTO CARLOS ZAPATA BEDOYA",
+            "FIRMA ELLECTRONICA": "ALBERTO CARLOS ZAPATA BEDOYA - 1107105003"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1107105003",
+            "NOMBRES": "ALBERTO CARLOS ZAPATA BEDOYA",
+            "FIRMA ELLECTRONICA": "ALBERTO CARLOS ZAPATA BEDOYA - 1107105003",
+            "AL PIE DE LA FIRMA": "ALBERTO CARLOS ZAPATA BEDOYA - 1107105003"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO CARLOS ZAPATA BEDOYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1107105003",
+            "NOMBRES": "ALBERTO CARLOS ZAPATA BEDOYA",
+            "SALARIO": "3.518.777",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1107105003",
+            "NOMBRES": "ALBERTO CARLOS ZAPATA BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "3.322.591"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "978290790556",
+            "SOLICITUD": "8346912",
+            "CEDULA": "1082839564",
+            "NOMBRES": "MARÍA MARÍA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.092.176",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA PÉREZ - 1082839564"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "978290790556",
+            "NOMBRES": "MARÍA MARÍA PÉREZ",
+            "CREDITO": "15.711.049",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "286.247",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA PÉREZ - 1082839564",
+            "AL PIE DE LA FIRMA": "MARÍA MARÍA PÉREZ - 1082839564"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1082839564",
+            "NOMBRES": "MARÍA MARÍA PÉREZ",
+            "FECHA NACIMIENTO": "24/05/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.711.049",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA PÉREZ - 1082839564",
+            "AL PIE DE LA FIRMA": "MARÍA MARÍA PÉREZ - 1082839564"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8346912",
+            "CEDULA": "1082839564",
+            "NOMBRES": "MARÍA MARÍA PÉREZ",
+            "CREDITO": "15.711.049",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "286.247",
+            "E.A": "22.77%",
+            "RECOMPRA O DESEMBOLSO": "1.092.176",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA PÉREZ - 1082839564"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1082839564",
+            "NOMBRES": "MARÍA MARÍA PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA PÉREZ - 1082839564"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1082839564",
+            "NOMBRES": "MARÍA MARÍA PÉREZ",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA PÉREZ - 1082839564",
+            "AL PIE DE LA FIRMA": "MARÍA MARÍA PÉREZ - 1082839564"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MARÍA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1082839564",
+            "NOMBRES": "MARÍA MARÍA PÉREZ",
+            "SALARIO": "2.610.550",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1082839564",
+            "NOMBRES": "MARÍA MARÍA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.092.176"
+        }
+    }
+]

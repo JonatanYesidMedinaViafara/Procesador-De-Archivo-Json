@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "569986471090",
+            "SOLICITUD": "6135189",
+            "CEDULA": "1344525330",
+            "NOMBRES": "ANDRÉS CÓRDOBA OSPINA",
+            "RECOMPRA O DESEMBOLSO": "1.878.726",
+            "FIRMA ELLECTRONICA": "ANDRÉS CÓRDOBA OSPINA - 1344525330"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "569986471090",
+            "NOMBRES": "ANDRÉS CÓRDOBA OSPINA",
+            "CREDITO": "9.030.225",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "251.369",
+            "FIRMA ELLECTRONICA": "ANDRÉS CÓRDOBA OSPINA - 1344525330",
+            "AL PIE DE LA FIRMA": "ANDRÉS CÓRDOBA OSPINA - 1344525330"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1344525330",
+            "NOMBRES": "ANDRÉS CÓRDOBA OSPINA",
+            "FECHA NACIMIENTO": "19/10/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.030.225",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS CÓRDOBA OSPINA - 1344525330",
+            "AL PIE DE LA FIRMA": "ANDRÉS CÓRDOBA OSPINA - 1344525330"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6135189",
+            "CEDULA": "1344525330",
+            "NOMBRES": "ANDRÉS CÓRDOBA OSPINA",
+            "CREDITO": "9.030.225",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "251.369",
+            "E.A": "20.64%",
+            "RECOMPRA O DESEMBOLSO": "1.878.726",
+            "FIRMA ELLECTRONICA": "ANDRÉS CÓRDOBA OSPINA - 1344525330"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1344525330",
+            "NOMBRES": "ANDRÉS CÓRDOBA OSPINA",
+            "FIRMA ELLECTRONICA": "ANDRÉS CÓRDOBA OSPINA - 1344525330"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1344525330",
+            "NOMBRES": "ANDRÉS CÓRDOBA OSPINA",
+            "FIRMA ELLECTRONICA": "ANDRÉS CÓRDOBA OSPINA - 1344525330",
+            "AL PIE DE LA FIRMA": "ANDRÉS CÓRDOBA OSPINA - 1344525330"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS CÓRDOBA OSPINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1344525330",
+            "NOMBRES": "ANDRÉS CÓRDOBA OSPINA",
+            "SALARIO": "3.656.223",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1344525330",
+            "NOMBRES": "ANDRÉS CÓRDOBA OSPINA",
+            "RECOMPRA O DESEMBOLSO": "1.878.726"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "887321375781",
+            "SOLICITUD": "1242857",
+            "CEDULA": "1441203125",
+            "NOMBRES": "JOSÉ CÉSAR RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.839.965",
+            "FIRMA ELLECTRONICA": "JOSÉ CÉSAR RUIZ - 1441203125"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "887321375781",
+            "NOMBRES": "JOSÉ CÉSAR RUIZ",
+            "CREDITO": "12.850.243",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "379.867",
+            "FIRMA ELLECTRONICA": "JOSÉ CÉSAR RUIZ - 1441203125",
+            "AL PIE DE LA FIRMA": "JOSÉ CÉSAR RUIZ - 1441203125"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1441203125",
+            "NOMBRES": "JOSÉ CÉSAR RUIZ",
+            "FECHA NACIMIENTO": "24/08/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.850.243",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ CÉSAR RUIZ - 1441203125",
+            "AL PIE DE LA FIRMA": "JOSÉ CÉSAR RUIZ - 1441203125"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1242857",
+            "CEDULA": "1441203125",
+            "NOMBRES": "JOSÉ CÉSAR RUIZ",
+            "CREDITO": "12.850.243",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "379.867",
+            "E.A": "22.8%",
+            "RECOMPRA O DESEMBOLSO": "1.839.965",
+            "FIRMA ELLECTRONICA": "JOSÉ CÉSAR RUIZ - 1441203125"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1441203125",
+            "NOMBRES": "JOSÉ CÉSAR RUIZ",
+            "FIRMA ELLECTRONICA": "JOSÉ CÉSAR RUIZ - 1441203125"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1441203125",
+            "NOMBRES": "JOSÉ CÉSAR RUIZ",
+            "FIRMA ELLECTRONICA": "JOSÉ CÉSAR RUIZ - 1441203125",
+            "AL PIE DE LA FIRMA": "JOSÉ CÉSAR RUIZ - 1441203125"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ CÉSAR RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1441203125",
+            "NOMBRES": "JOSÉ CÉSAR RUIZ",
+            "SALARIO": "3.240.995",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1441203125",
+            "NOMBRES": "JOSÉ CÉSAR RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.839.965"
+        }
+    }
+]

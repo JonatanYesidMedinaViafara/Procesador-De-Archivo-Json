@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "940708703891",
+            "SOLICITUD": "1415961",
+            "CEDULA": "1265149400",
+            "NOMBRES": "YOHANA MARTHA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.298.936",
+            "FIRMA ELLECTRONICA": "YOHANA MARTHA HERNÁNDEZ - 1265149400"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "940708703891",
+            "NOMBRES": "YOHANA MARTHA HERNÁNDEZ",
+            "CREDITO": "11.089.763",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "329.71",
+            "FIRMA ELLECTRONICA": "YOHANA MARTHA HERNÁNDEZ - 1265149400",
+            "AL PIE DE LA FIRMA": "YOHANA MARTHA HERNÁNDEZ - 1265149400"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1265149400",
+            "NOMBRES": "YOHANA MARTHA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "01/09/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.089.763",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "YOHANA MARTHA HERNÁNDEZ - 1265149400",
+            "AL PIE DE LA FIRMA": "YOHANA MARTHA HERNÁNDEZ - 1265149400"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1415961",
+            "CEDULA": "1265149400",
+            "NOMBRES": "YOHANA MARTHA HERNÁNDEZ",
+            "CREDITO": "11.089.763",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "329.71",
+            "E.A": "24.85%",
+            "RECOMPRA O DESEMBOLSO": "2.298.936",
+            "FIRMA ELLECTRONICA": "YOHANA MARTHA HERNÁNDEZ - 1265149400"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1265149400",
+            "NOMBRES": "YOHANA MARTHA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "YOHANA MARTHA HERNÁNDEZ - 1265149400"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1265149400",
+            "NOMBRES": "YOHANA MARTHA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "YOHANA MARTHA HERNÁNDEZ - 1265149400",
+            "AL PIE DE LA FIRMA": "YOHANA MARTHA HERNÁNDEZ - 1265149400"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YOHANA MARTHA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1265149400",
+            "NOMBRES": "YOHANA MARTHA HERNÁNDEZ",
+            "SALARIO": "3.067.483",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1265149400",
+            "NOMBRES": "YOHANA MARTHA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.298.936"
+        }
+    }
+]

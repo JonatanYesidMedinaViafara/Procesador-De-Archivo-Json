@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "668562132795",
+            "SOLICITUD": "4097349",
+            "CEDULA": "1000767193",
+            "NOMBRES": "PAOLA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.113.456",
+            "FIRMA ELLECTRONICA": "PAOLA HERNÁNDEZ - 1000767193"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "668562132795",
+            "NOMBRES": "PAOLA HERNÁNDEZ",
+            "CREDITO": "7.524.531",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "117.498",
+            "FIRMA ELLECTRONICA": "PAOLA HERNÁNDEZ - 1000767193",
+            "AL PIE DE LA FIRMA": "PAOLA HERNÁNDEZ - 1000767193"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1000767193",
+            "NOMBRES": "PAOLA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "10/06/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.524.531",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "PAOLA HERNÁNDEZ - 1000767193",
+            "AL PIE DE LA FIRMA": "PAOLA HERNÁNDEZ - 1000767193"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4097349",
+            "CEDULA": "1000767193",
+            "NOMBRES": "PAOLA HERNÁNDEZ",
+            "CREDITO": "7.524.531",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "117.498",
+            "E.A": "23.51%",
+            "RECOMPRA O DESEMBOLSO": "1.113.456",
+            "FIRMA ELLECTRONICA": "PAOLA HERNÁNDEZ - 1000767193"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1000767193",
+            "NOMBRES": "PAOLA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "PAOLA HERNÁNDEZ - 1000767193"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1000767193",
+            "NOMBRES": "PAOLA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "PAOLA HERNÁNDEZ - 1000767193",
+            "AL PIE DE LA FIRMA": "PAOLA HERNÁNDEZ - 1000767193"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1000767193",
+            "NOMBRES": "PAOLA HERNÁNDEZ",
+            "SALARIO": "1.081.516",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1000767193",
+            "NOMBRES": "PAOLA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.113.456"
+        }
+    }
+]

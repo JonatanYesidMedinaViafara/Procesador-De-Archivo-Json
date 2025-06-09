@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "525731998275",
+            "SOLICITUD": "4210033",
+            "CEDULA": "1793909556",
+            "NOMBRES": "ANDREA POLO",
+            "RECOMPRA O DESEMBOLSO": "2.268.786",
+            "FIRMA ELLECTRONICA": "ANDREA POLO - 1793909556"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "525731998275",
+            "NOMBRES": "ANDREA POLO",
+            "CREDITO": "14.941.886",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "356.69",
+            "FIRMA ELLECTRONICA": "ANDREA POLO - 1793909556",
+            "AL PIE DE LA FIRMA": "ANDREA POLO - 1793909556"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1793909556",
+            "NOMBRES": "ANDREA POLO",
+            "FECHA NACIMIENTO": "04/07/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.941.886",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDREA POLO - 1793909556",
+            "AL PIE DE LA FIRMA": "ANDREA POLO - 1793909556"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4210033",
+            "CEDULA": "1793909556",
+            "NOMBRES": "ANDREA POLO",
+            "CREDITO": "14.941.886",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "356.69",
+            "E.A": "21.53%",
+            "RECOMPRA O DESEMBOLSO": "2.268.786",
+            "FIRMA ELLECTRONICA": "ANDREA POLO - 1793909556"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1793909556",
+            "NOMBRES": "ANDREA POLO",
+            "FIRMA ELLECTRONICA": "ANDREA POLO - 1793909556"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1793909556",
+            "NOMBRES": "ANDREA POLO",
+            "FIRMA ELLECTRONICA": "ANDREA POLO - 1793909556",
+            "AL PIE DE LA FIRMA": "ANDREA POLO - 1793909556"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA POLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1793909556",
+            "NOMBRES": "ANDREA POLO",
+            "SALARIO": "2.198.367",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1793909556",
+            "NOMBRES": "ANDREA POLO",
+            "RECOMPRA O DESEMBOLSO": "2.268.786"
+        }
+    }
+]

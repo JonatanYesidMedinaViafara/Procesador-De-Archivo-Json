@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "151193236849",
+            "SOLICITUD": "2236447",
+            "CEDULA": "1985270603",
+            "NOMBRES": "VIVIANA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.547.033",
+            "FIRMA ELLECTRONICA": "VIVIANA GÓMEZ - 1985270603"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "151193236849",
+            "NOMBRES": "VIVIANA GÓMEZ",
+            "CREDITO": "10.042.283",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "304.17",
+            "FIRMA ELLECTRONICA": "VIVIANA GÓMEZ - 1985270603",
+            "AL PIE DE LA FIRMA": "VIVIANA GÓMEZ - 1985270603"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1985270603",
+            "NOMBRES": "VIVIANA GÓMEZ",
+            "FECHA NACIMIENTO": "13/05/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.042.283",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "VIVIANA GÓMEZ - 1985270603",
+            "AL PIE DE LA FIRMA": "VIVIANA GÓMEZ - 1985270603"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2236447",
+            "CEDULA": "1985270603",
+            "NOMBRES": "VIVIANA GÓMEZ",
+            "CREDITO": "10.042.283",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "304.17",
+            "E.A": "21.83%",
+            "RECOMPRA O DESEMBOLSO": "4.547.033",
+            "FIRMA ELLECTRONICA": "VIVIANA GÓMEZ - 1985270603"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1985270603",
+            "NOMBRES": "VIVIANA GÓMEZ",
+            "FIRMA ELLECTRONICA": "VIVIANA GÓMEZ - 1985270603"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1985270603",
+            "NOMBRES": "VIVIANA GÓMEZ",
+            "FIRMA ELLECTRONICA": "VIVIANA GÓMEZ - 1985270603",
+            "AL PIE DE LA FIRMA": "VIVIANA GÓMEZ - 1985270603"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VIVIANA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1985270603",
+            "NOMBRES": "VIVIANA GÓMEZ",
+            "SALARIO": "4.537.971",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1985270603",
+            "NOMBRES": "VIVIANA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.547.033"
+        }
+    }
+]

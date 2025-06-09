@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "265726721518",
+            "SOLICITUD": "9390620",
+            "CEDULA": "1229334505",
+            "NOMBRES": "MIGUEL ARBOLEDA",
+            "RECOMPRA O DESEMBOLSO": "2.753.196",
+            "FIRMA ELLECTRONICA": "MIGUEL ARBOLEDA - 1229334505"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "265726721518",
+            "NOMBRES": "MIGUEL ARBOLEDA",
+            "CREDITO": "17.178.062",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "394.411",
+            "FIRMA ELLECTRONICA": "MIGUEL ARBOLEDA - 1229334505",
+            "AL PIE DE LA FIRMA": "MIGUEL ARBOLEDA - 1229334505"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1229334505",
+            "NOMBRES": "MIGUEL ARBOLEDA",
+            "FECHA NACIMIENTO": "07/12/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.178.062",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MIGUEL ARBOLEDA - 1229334505",
+            "AL PIE DE LA FIRMA": "MIGUEL ARBOLEDA - 1229334505"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9390620",
+            "CEDULA": "1229334505",
+            "NOMBRES": "MIGUEL ARBOLEDA",
+            "CREDITO": "17.178.062",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "394.411",
+            "E.A": "18.17%",
+            "RECOMPRA O DESEMBOLSO": "2.753.196",
+            "FIRMA ELLECTRONICA": "MIGUEL ARBOLEDA - 1229334505"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1229334505",
+            "NOMBRES": "MIGUEL ARBOLEDA",
+            "FIRMA ELLECTRONICA": "MIGUEL ARBOLEDA - 1229334505"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1229334505",
+            "NOMBRES": "MIGUEL ARBOLEDA",
+            "FIRMA ELLECTRONICA": "MIGUEL ARBOLEDA - 1229334505",
+            "AL PIE DE LA FIRMA": "MIGUEL ARBOLEDA - 1229334505"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL ARBOLEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1229334505",
+            "NOMBRES": "MIGUEL ARBOLEDA",
+            "SALARIO": "1.950.790",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1229334505",
+            "NOMBRES": "MIGUEL ARBOLEDA",
+            "RECOMPRA O DESEMBOLSO": "2.753.196"
+        }
+    }
+]

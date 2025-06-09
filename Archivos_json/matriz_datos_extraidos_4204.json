@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "985007897013",
+            "SOLICITUD": "8678151",
+            "CEDULA": "1220674912",
+            "NOMBRES": "MANUEL MANUEL SIERRA",
+            "RECOMPRA O DESEMBOLSO": "4.306.971",
+            "FIRMA ELLECTRONICA": "MANUEL MANUEL SIERRA - 1220674912"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "985007897013",
+            "NOMBRES": "MANUEL MANUEL SIERRA",
+            "CREDITO": "6.138.054",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "366.531",
+            "FIRMA ELLECTRONICA": "MANUEL MANUEL SIERRA - 1220674912",
+            "AL PIE DE LA FIRMA": "MANUEL MANUEL SIERRA - 1220674912"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1220674912",
+            "NOMBRES": "MANUEL MANUEL SIERRA",
+            "FECHA NACIMIENTO": "14/09/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.138.054",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MANUEL MANUEL SIERRA - 1220674912",
+            "AL PIE DE LA FIRMA": "MANUEL MANUEL SIERRA - 1220674912"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8678151",
+            "CEDULA": "1220674912",
+            "NOMBRES": "MANUEL MANUEL SIERRA",
+            "CREDITO": "6.138.054",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "366.531",
+            "E.A": "18.54%",
+            "RECOMPRA O DESEMBOLSO": "4.306.971",
+            "FIRMA ELLECTRONICA": "MANUEL MANUEL SIERRA - 1220674912"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1220674912",
+            "NOMBRES": "MANUEL MANUEL SIERRA",
+            "FIRMA ELLECTRONICA": "MANUEL MANUEL SIERRA - 1220674912"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1220674912",
+            "NOMBRES": "MANUEL MANUEL SIERRA",
+            "FIRMA ELLECTRONICA": "MANUEL MANUEL SIERRA - 1220674912",
+            "AL PIE DE LA FIRMA": "MANUEL MANUEL SIERRA - 1220674912"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL MANUEL SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1220674912",
+            "NOMBRES": "MANUEL MANUEL SIERRA",
+            "SALARIO": "4.235.478",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1220674912",
+            "NOMBRES": "MANUEL MANUEL SIERRA",
+            "RECOMPRA O DESEMBOLSO": "4.306.971"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "646654676125",
+            "SOLICITUD": "7059829",
+            "CEDULA": "1991654769",
+            "NOMBRES": "LETICIA SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.254.019",
+            "FIRMA ELLECTRONICA": "LETICIA SALAZAR - 1991654769"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "646654676125",
+            "NOMBRES": "LETICIA SALAZAR",
+            "CREDITO": "12.764.707",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "117.749",
+            "FIRMA ELLECTRONICA": "LETICIA SALAZAR - 1991654769",
+            "AL PIE DE LA FIRMA": "LETICIA SALAZAR - 1991654769"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1991654769",
+            "NOMBRES": "LETICIA SALAZAR",
+            "FECHA NACIMIENTO": "09/01/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.764.707",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LETICIA SALAZAR - 1991654769",
+            "AL PIE DE LA FIRMA": "LETICIA SALAZAR - 1991654769"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7059829",
+            "CEDULA": "1991654769",
+            "NOMBRES": "LETICIA SALAZAR",
+            "CREDITO": "12.764.707",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "117.749",
+            "E.A": "27.37%",
+            "RECOMPRA O DESEMBOLSO": "1.254.019",
+            "FIRMA ELLECTRONICA": "LETICIA SALAZAR - 1991654769"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1991654769",
+            "NOMBRES": "LETICIA SALAZAR",
+            "FIRMA ELLECTRONICA": "LETICIA SALAZAR - 1991654769"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1991654769",
+            "NOMBRES": "LETICIA SALAZAR",
+            "FIRMA ELLECTRONICA": "LETICIA SALAZAR - 1991654769",
+            "AL PIE DE LA FIRMA": "LETICIA SALAZAR - 1991654769"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LETICIA SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1991654769",
+            "NOMBRES": "LETICIA SALAZAR",
+            "SALARIO": "1.055.883",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1991654769",
+            "NOMBRES": "LETICIA SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.254.019"
+        }
+    }
+]

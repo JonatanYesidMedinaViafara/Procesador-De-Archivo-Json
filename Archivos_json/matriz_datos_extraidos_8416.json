@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "962076701794",
+            "SOLICITUD": "9006804",
+            "CEDULA": "1176494059",
+            "NOMBRES": "JOHN ANTONIO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.295.427",
+            "FIRMA ELLECTRONICA": "JOHN ANTONIO RODRÍGUEZ - 1176494059"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "962076701794",
+            "NOMBRES": "JOHN ANTONIO RODRÍGUEZ",
+            "CREDITO": "7.460.387",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "233.679",
+            "FIRMA ELLECTRONICA": "JOHN ANTONIO RODRÍGUEZ - 1176494059",
+            "AL PIE DE LA FIRMA": "JOHN ANTONIO RODRÍGUEZ - 1176494059"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1176494059",
+            "NOMBRES": "JOHN ANTONIO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "11/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.460.387",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOHN ANTONIO RODRÍGUEZ - 1176494059",
+            "AL PIE DE LA FIRMA": "JOHN ANTONIO RODRÍGUEZ - 1176494059"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9006804",
+            "CEDULA": "1176494059",
+            "NOMBRES": "JOHN ANTONIO RODRÍGUEZ",
+            "CREDITO": "7.460.387",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "233.679",
+            "E.A": "20.89%",
+            "RECOMPRA O DESEMBOLSO": "3.295.427",
+            "FIRMA ELLECTRONICA": "JOHN ANTONIO RODRÍGUEZ - 1176494059"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1176494059",
+            "NOMBRES": "JOHN ANTONIO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JOHN ANTONIO RODRÍGUEZ - 1176494059"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1176494059",
+            "NOMBRES": "JOHN ANTONIO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JOHN ANTONIO RODRÍGUEZ - 1176494059",
+            "AL PIE DE LA FIRMA": "JOHN ANTONIO RODRÍGUEZ - 1176494059"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN ANTONIO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1176494059",
+            "NOMBRES": "JOHN ANTONIO RODRÍGUEZ",
+            "SALARIO": "1.427.350",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1176494059",
+            "NOMBRES": "JOHN ANTONIO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.295.427"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "199211266113",
+            "SOLICITUD": "9331680",
+            "CEDULA": "1902929356",
+            "NOMBRES": "FELIPE RICARDO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.696.747",
+            "FIRMA ELLECTRONICA": "FELIPE RICARDO SUÁREZ - 1902929356"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "199211266113",
+            "NOMBRES": "FELIPE RICARDO SUÁREZ",
+            "CREDITO": "11.958.298",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "350.43",
+            "FIRMA ELLECTRONICA": "FELIPE RICARDO SUÁREZ - 1902929356",
+            "AL PIE DE LA FIRMA": "FELIPE RICARDO SUÁREZ - 1902929356"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1902929356",
+            "NOMBRES": "FELIPE RICARDO SUÁREZ",
+            "FECHA NACIMIENTO": "28/12/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.958.298",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FELIPE RICARDO SUÁREZ - 1902929356",
+            "AL PIE DE LA FIRMA": "FELIPE RICARDO SUÁREZ - 1902929356"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9331680",
+            "CEDULA": "1902929356",
+            "NOMBRES": "FELIPE RICARDO SUÁREZ",
+            "CREDITO": "11.958.298",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "350.43",
+            "E.A": "20.21%",
+            "RECOMPRA O DESEMBOLSO": "1.696.747",
+            "FIRMA ELLECTRONICA": "FELIPE RICARDO SUÁREZ - 1902929356"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1902929356",
+            "NOMBRES": "FELIPE RICARDO SUÁREZ",
+            "FIRMA ELLECTRONICA": "FELIPE RICARDO SUÁREZ - 1902929356"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1902929356",
+            "NOMBRES": "FELIPE RICARDO SUÁREZ",
+            "FIRMA ELLECTRONICA": "FELIPE RICARDO SUÁREZ - 1902929356",
+            "AL PIE DE LA FIRMA": "FELIPE RICARDO SUÁREZ - 1902929356"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FELIPE RICARDO SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1902929356",
+            "NOMBRES": "FELIPE RICARDO SUÁREZ",
+            "SALARIO": "1.567.483",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1902929356",
+            "NOMBRES": "FELIPE RICARDO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.696.747"
+        }
+    }
+]

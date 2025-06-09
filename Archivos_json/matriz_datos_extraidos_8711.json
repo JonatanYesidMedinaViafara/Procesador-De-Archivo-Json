@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "788841081729",
+            "SOLICITUD": "8355356",
+            "CEDULA": "1333406751",
+            "NOMBRES": "MARITZA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.735.047",
+            "FIRMA ELLECTRONICA": "MARITZA GONZÁLEZ - 1333406751"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "788841081729",
+            "NOMBRES": "MARITZA GONZÁLEZ",
+            "CREDITO": "17.916.201",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "144.348",
+            "FIRMA ELLECTRONICA": "MARITZA GONZÁLEZ - 1333406751",
+            "AL PIE DE LA FIRMA": "MARITZA GONZÁLEZ - 1333406751"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1333406751",
+            "NOMBRES": "MARITZA GONZÁLEZ",
+            "FECHA NACIMIENTO": "02/03/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.916.201",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARITZA GONZÁLEZ - 1333406751",
+            "AL PIE DE LA FIRMA": "MARITZA GONZÁLEZ - 1333406751"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8355356",
+            "CEDULA": "1333406751",
+            "NOMBRES": "MARITZA GONZÁLEZ",
+            "CREDITO": "17.916.201",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "144.348",
+            "E.A": "19.95%",
+            "RECOMPRA O DESEMBOLSO": "1.735.047",
+            "FIRMA ELLECTRONICA": "MARITZA GONZÁLEZ - 1333406751"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1333406751",
+            "NOMBRES": "MARITZA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARITZA GONZÁLEZ - 1333406751"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1333406751",
+            "NOMBRES": "MARITZA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARITZA GONZÁLEZ - 1333406751",
+            "AL PIE DE LA FIRMA": "MARITZA GONZÁLEZ - 1333406751"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARITZA GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1333406751",
+            "NOMBRES": "MARITZA GONZÁLEZ",
+            "SALARIO": "3.948.366",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1333406751",
+            "NOMBRES": "MARITZA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.735.047"
+        }
+    }
+]

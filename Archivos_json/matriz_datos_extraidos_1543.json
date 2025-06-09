@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "386950020441",
+            "SOLICITUD": "3748105",
+            "CEDULA": "1993292208",
+            "NOMBRES": "LUZ MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "3.328.354",
+            "FIRMA ELLECTRONICA": "LUZ MOSQUERA - 1993292208"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "386950020441",
+            "NOMBRES": "LUZ MOSQUERA",
+            "CREDITO": "8.516.920",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "290.523",
+            "FIRMA ELLECTRONICA": "LUZ MOSQUERA - 1993292208",
+            "AL PIE DE LA FIRMA": "LUZ MOSQUERA - 1993292208"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1993292208",
+            "NOMBRES": "LUZ MOSQUERA",
+            "FECHA NACIMIENTO": "07/06/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.516.920",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUZ MOSQUERA - 1993292208",
+            "AL PIE DE LA FIRMA": "LUZ MOSQUERA - 1993292208"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3748105",
+            "CEDULA": "1993292208",
+            "NOMBRES": "LUZ MOSQUERA",
+            "CREDITO": "8.516.920",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "290.523",
+            "E.A": "24.61%",
+            "RECOMPRA O DESEMBOLSO": "3.328.354",
+            "FIRMA ELLECTRONICA": "LUZ MOSQUERA - 1993292208"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1993292208",
+            "NOMBRES": "LUZ MOSQUERA",
+            "FIRMA ELLECTRONICA": "LUZ MOSQUERA - 1993292208"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1993292208",
+            "NOMBRES": "LUZ MOSQUERA",
+            "FIRMA ELLECTRONICA": "LUZ MOSQUERA - 1993292208",
+            "AL PIE DE LA FIRMA": "LUZ MOSQUERA - 1993292208"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1993292208",
+            "NOMBRES": "LUZ MOSQUERA",
+            "SALARIO": "3.990.801",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1993292208",
+            "NOMBRES": "LUZ MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "3.328.354"
+        }
+    }
+]

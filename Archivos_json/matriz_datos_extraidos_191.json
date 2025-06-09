@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "771409022341",
+            "SOLICITUD": "2648865",
+            "CEDULA": "1871181750",
+            "NOMBRES": "ALBERTO LONDOÑO VELASCO",
+            "RECOMPRA O DESEMBOLSO": "1.511.449",
+            "FIRMA ELLECTRONICA": "ALBERTO LONDOÑO VELASCO - 1871181750"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "771409022341",
+            "NOMBRES": "ALBERTO LONDOÑO VELASCO",
+            "CREDITO": "17.424.110",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "222.391",
+            "FIRMA ELLECTRONICA": "ALBERTO LONDOÑO VELASCO - 1871181750",
+            "AL PIE DE LA FIRMA": "ALBERTO LONDOÑO VELASCO - 1871181750"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1871181750",
+            "NOMBRES": "ALBERTO LONDOÑO VELASCO",
+            "FECHA NACIMIENTO": "04/11/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.424.110",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBERTO LONDOÑO VELASCO - 1871181750",
+            "AL PIE DE LA FIRMA": "ALBERTO LONDOÑO VELASCO - 1871181750"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2648865",
+            "CEDULA": "1871181750",
+            "NOMBRES": "ALBERTO LONDOÑO VELASCO",
+            "CREDITO": "17.424.110",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "222.391",
+            "E.A": "21.0%",
+            "RECOMPRA O DESEMBOLSO": "1.511.449",
+            "FIRMA ELLECTRONICA": "ALBERTO LONDOÑO VELASCO - 1871181750"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1871181750",
+            "NOMBRES": "ALBERTO LONDOÑO VELASCO",
+            "FIRMA ELLECTRONICA": "ALBERTO LONDOÑO VELASCO - 1871181750"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1871181750",
+            "NOMBRES": "ALBERTO LONDOÑO VELASCO",
+            "FIRMA ELLECTRONICA": "ALBERTO LONDOÑO VELASCO - 1871181750",
+            "AL PIE DE LA FIRMA": "ALBERTO LONDOÑO VELASCO - 1871181750"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO LONDOÑO VELASCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1871181750",
+            "NOMBRES": "ALBERTO LONDOÑO VELASCO",
+            "SALARIO": "2.600.211",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1871181750",
+            "NOMBRES": "ALBERTO LONDOÑO VELASCO",
+            "RECOMPRA O DESEMBOLSO": "1.511.449"
+        }
+    }
+]

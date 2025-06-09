@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "314264281196",
+            "SOLICITUD": "4310197",
+            "CEDULA": "1296483390",
+            "NOMBRES": "PATRICIA POLO ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "3.915.381",
+            "FIRMA ELLECTRONICA": "PATRICIA POLO ACEVEDO - 1296483390"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "314264281196",
+            "NOMBRES": "PATRICIA POLO ACEVEDO",
+            "CREDITO": "10.636.351",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "300.189",
+            "FIRMA ELLECTRONICA": "PATRICIA POLO ACEVEDO - 1296483390",
+            "AL PIE DE LA FIRMA": "PATRICIA POLO ACEVEDO - 1296483390"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1296483390",
+            "NOMBRES": "PATRICIA POLO ACEVEDO",
+            "FECHA NACIMIENTO": "03/02/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.636.351",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "PATRICIA POLO ACEVEDO - 1296483390",
+            "AL PIE DE LA FIRMA": "PATRICIA POLO ACEVEDO - 1296483390"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4310197",
+            "CEDULA": "1296483390",
+            "NOMBRES": "PATRICIA POLO ACEVEDO",
+            "CREDITO": "10.636.351",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "300.189",
+            "E.A": "26.38%",
+            "RECOMPRA O DESEMBOLSO": "3.915.381",
+            "FIRMA ELLECTRONICA": "PATRICIA POLO ACEVEDO - 1296483390"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1296483390",
+            "NOMBRES": "PATRICIA POLO ACEVEDO",
+            "FIRMA ELLECTRONICA": "PATRICIA POLO ACEVEDO - 1296483390"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1296483390",
+            "NOMBRES": "PATRICIA POLO ACEVEDO",
+            "FIRMA ELLECTRONICA": "PATRICIA POLO ACEVEDO - 1296483390",
+            "AL PIE DE LA FIRMA": "PATRICIA POLO ACEVEDO - 1296483390"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA POLO ACEVEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1296483390",
+            "NOMBRES": "PATRICIA POLO ACEVEDO",
+            "SALARIO": "2.320.906",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1296483390",
+            "NOMBRES": "PATRICIA POLO ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "3.915.381"
+        }
+    }
+]

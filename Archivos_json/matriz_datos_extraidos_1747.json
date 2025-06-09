@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "434441061560",
+            "SOLICITUD": "5431905",
+            "CEDULA": "1750686452",
+            "NOMBRES": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.293.745",
+            "FIRMA ELLECTRONICA": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ - 1750686452"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "434441061560",
+            "NOMBRES": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ",
+            "CREDITO": "14.101.186",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.812",
+            "FIRMA ELLECTRONICA": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ - 1750686452",
+            "AL PIE DE LA FIRMA": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ - 1750686452"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1750686452",
+            "NOMBRES": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ",
+            "FECHA NACIMIENTO": "15/01/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.101.186",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ - 1750686452",
+            "AL PIE DE LA FIRMA": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ - 1750686452"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5431905",
+            "CEDULA": "1750686452",
+            "NOMBRES": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ",
+            "CREDITO": "14.101.186",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.812",
+            "E.A": "25.0%",
+            "RECOMPRA O DESEMBOLSO": "1.293.745",
+            "FIRMA ELLECTRONICA": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ - 1750686452"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1750686452",
+            "NOMBRES": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ - 1750686452"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1750686452",
+            "NOMBRES": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ - 1750686452",
+            "AL PIE DE LA FIRMA": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ - 1750686452"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1750686452",
+            "NOMBRES": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ",
+            "SALARIO": "4.089.059",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1750686452",
+            "NOMBRES": "ENRIQUE GUILLERMO RAMÍREZ DOMÍNGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.293.745"
+        }
+    }
+]

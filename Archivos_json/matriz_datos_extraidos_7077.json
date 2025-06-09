@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "810391769948",
+            "SOLICITUD": "6556782",
+            "CEDULA": "1299230253",
+            "NOMBRES": "SERGIO MORA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "2.965.669",
+            "FIRMA ELLECTRONICA": "SERGIO MORA GIRALDO - 1299230253"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "810391769948",
+            "NOMBRES": "SERGIO MORA GIRALDO",
+            "CREDITO": "13.174.239",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "318.358",
+            "FIRMA ELLECTRONICA": "SERGIO MORA GIRALDO - 1299230253",
+            "AL PIE DE LA FIRMA": "SERGIO MORA GIRALDO - 1299230253"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1299230253",
+            "NOMBRES": "SERGIO MORA GIRALDO",
+            "FECHA NACIMIENTO": "18/07/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.174.239",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SERGIO MORA GIRALDO - 1299230253",
+            "AL PIE DE LA FIRMA": "SERGIO MORA GIRALDO - 1299230253"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6556782",
+            "CEDULA": "1299230253",
+            "NOMBRES": "SERGIO MORA GIRALDO",
+            "CREDITO": "13.174.239",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "318.358",
+            "E.A": "23.04%",
+            "RECOMPRA O DESEMBOLSO": "2.965.669",
+            "FIRMA ELLECTRONICA": "SERGIO MORA GIRALDO - 1299230253"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1299230253",
+            "NOMBRES": "SERGIO MORA GIRALDO",
+            "FIRMA ELLECTRONICA": "SERGIO MORA GIRALDO - 1299230253"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1299230253",
+            "NOMBRES": "SERGIO MORA GIRALDO",
+            "FIRMA ELLECTRONICA": "SERGIO MORA GIRALDO - 1299230253",
+            "AL PIE DE LA FIRMA": "SERGIO MORA GIRALDO - 1299230253"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SERGIO MORA GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1299230253",
+            "NOMBRES": "SERGIO MORA GIRALDO",
+            "SALARIO": "4.232.174",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1299230253",
+            "NOMBRES": "SERGIO MORA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "2.965.669"
+        }
+    }
+]

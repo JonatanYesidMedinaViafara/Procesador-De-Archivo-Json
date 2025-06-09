@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "855206792640",
+            "SOLICITUD": "3112178",
+            "CEDULA": "1980919807",
+            "NOMBRES": "MÓNICA NANCY JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "3.332.085",
+            "FIRMA ELLECTRONICA": "MÓNICA NANCY JARAMILLO - 1980919807"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "855206792640",
+            "NOMBRES": "MÓNICA NANCY JARAMILLO",
+            "CREDITO": "10.691.578",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "171.039",
+            "FIRMA ELLECTRONICA": "MÓNICA NANCY JARAMILLO - 1980919807",
+            "AL PIE DE LA FIRMA": "MÓNICA NANCY JARAMILLO - 1980919807"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1980919807",
+            "NOMBRES": "MÓNICA NANCY JARAMILLO",
+            "FECHA NACIMIENTO": "11/07/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.691.578",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MÓNICA NANCY JARAMILLO - 1980919807",
+            "AL PIE DE LA FIRMA": "MÓNICA NANCY JARAMILLO - 1980919807"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3112178",
+            "CEDULA": "1980919807",
+            "NOMBRES": "MÓNICA NANCY JARAMILLO",
+            "CREDITO": "10.691.578",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "171.039",
+            "E.A": "20.73%",
+            "RECOMPRA O DESEMBOLSO": "3.332.085",
+            "FIRMA ELLECTRONICA": "MÓNICA NANCY JARAMILLO - 1980919807"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1980919807",
+            "NOMBRES": "MÓNICA NANCY JARAMILLO",
+            "FIRMA ELLECTRONICA": "MÓNICA NANCY JARAMILLO - 1980919807"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1980919807",
+            "NOMBRES": "MÓNICA NANCY JARAMILLO",
+            "FIRMA ELLECTRONICA": "MÓNICA NANCY JARAMILLO - 1980919807",
+            "AL PIE DE LA FIRMA": "MÓNICA NANCY JARAMILLO - 1980919807"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MÓNICA NANCY JARAMILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1980919807",
+            "NOMBRES": "MÓNICA NANCY JARAMILLO",
+            "SALARIO": "2.342.665",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1980919807",
+            "NOMBRES": "MÓNICA NANCY JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "3.332.085"
+        }
+    }
+]

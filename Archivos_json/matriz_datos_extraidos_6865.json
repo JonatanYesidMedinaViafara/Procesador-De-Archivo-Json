@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "327312928639",
+            "SOLICITUD": "7544361",
+            "CEDULA": "1013874627",
+            "NOMBRES": "FANNY CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.081.036",
+            "FIRMA ELLECTRONICA": "FANNY CORTÉS - 1013874627"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "327312928639",
+            "NOMBRES": "FANNY CORTÉS",
+            "CREDITO": "18.385.545",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "121.446",
+            "FIRMA ELLECTRONICA": "FANNY CORTÉS - 1013874627",
+            "AL PIE DE LA FIRMA": "FANNY CORTÉS - 1013874627"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1013874627",
+            "NOMBRES": "FANNY CORTÉS",
+            "FECHA NACIMIENTO": "22/08/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.385.545",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FANNY CORTÉS - 1013874627",
+            "AL PIE DE LA FIRMA": "FANNY CORTÉS - 1013874627"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7544361",
+            "CEDULA": "1013874627",
+            "NOMBRES": "FANNY CORTÉS",
+            "CREDITO": "18.385.545",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "121.446",
+            "E.A": "18.81%",
+            "RECOMPRA O DESEMBOLSO": "2.081.036",
+            "FIRMA ELLECTRONICA": "FANNY CORTÉS - 1013874627"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1013874627",
+            "NOMBRES": "FANNY CORTÉS",
+            "FIRMA ELLECTRONICA": "FANNY CORTÉS - 1013874627"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1013874627",
+            "NOMBRES": "FANNY CORTÉS",
+            "FIRMA ELLECTRONICA": "FANNY CORTÉS - 1013874627",
+            "AL PIE DE LA FIRMA": "FANNY CORTÉS - 1013874627"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FANNY CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1013874627",
+            "NOMBRES": "FANNY CORTÉS",
+            "SALARIO": "3.931.557",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1013874627",
+            "NOMBRES": "FANNY CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.081.036"
+        }
+    }
+]

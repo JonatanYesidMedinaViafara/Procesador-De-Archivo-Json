@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "593388473785",
+            "SOLICITUD": "3302757",
+            "CEDULA": "1234270981",
+            "NOMBRES": "LINA EUGENIA FERNÁNDEZ MONROY",
+            "RECOMPRA O DESEMBOLSO": "4.251.742",
+            "FIRMA ELLECTRONICA": "LINA EUGENIA FERNÁNDEZ MONROY - 1234270981"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "593388473785",
+            "NOMBRES": "LINA EUGENIA FERNÁNDEZ MONROY",
+            "CREDITO": "8.821.822",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "109.504",
+            "FIRMA ELLECTRONICA": "LINA EUGENIA FERNÁNDEZ MONROY - 1234270981",
+            "AL PIE DE LA FIRMA": "LINA EUGENIA FERNÁNDEZ MONROY - 1234270981"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1234270981",
+            "NOMBRES": "LINA EUGENIA FERNÁNDEZ MONROY",
+            "FECHA NACIMIENTO": "16/01/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.821.822",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LINA EUGENIA FERNÁNDEZ MONROY - 1234270981",
+            "AL PIE DE LA FIRMA": "LINA EUGENIA FERNÁNDEZ MONROY - 1234270981"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3302757",
+            "CEDULA": "1234270981",
+            "NOMBRES": "LINA EUGENIA FERNÁNDEZ MONROY",
+            "CREDITO": "8.821.822",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "109.504",
+            "E.A": "22.9%",
+            "RECOMPRA O DESEMBOLSO": "4.251.742",
+            "FIRMA ELLECTRONICA": "LINA EUGENIA FERNÁNDEZ MONROY - 1234270981"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1234270981",
+            "NOMBRES": "LINA EUGENIA FERNÁNDEZ MONROY",
+            "FIRMA ELLECTRONICA": "LINA EUGENIA FERNÁNDEZ MONROY - 1234270981"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1234270981",
+            "NOMBRES": "LINA EUGENIA FERNÁNDEZ MONROY",
+            "FIRMA ELLECTRONICA": "LINA EUGENIA FERNÁNDEZ MONROY - 1234270981",
+            "AL PIE DE LA FIRMA": "LINA EUGENIA FERNÁNDEZ MONROY - 1234270981"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LINA EUGENIA FERNÁNDEZ MONROY"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1234270981",
+            "NOMBRES": "LINA EUGENIA FERNÁNDEZ MONROY",
+            "SALARIO": "4.749.411",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1234270981",
+            "NOMBRES": "LINA EUGENIA FERNÁNDEZ MONROY",
+            "RECOMPRA O DESEMBOLSO": "4.251.742"
+        }
+    }
+]

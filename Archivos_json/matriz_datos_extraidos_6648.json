@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "366823743343",
+            "SOLICITUD": "3895047",
+            "CEDULA": "1920001458",
+            "NOMBRES": "BLANCA MARÍA SANTOS",
+            "RECOMPRA O DESEMBOLSO": "4.451.020",
+            "FIRMA ELLECTRONICA": "BLANCA MARÍA SANTOS - 1920001458"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "366823743343",
+            "NOMBRES": "BLANCA MARÍA SANTOS",
+            "CREDITO": "9.478.986",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "224.83",
+            "FIRMA ELLECTRONICA": "BLANCA MARÍA SANTOS - 1920001458",
+            "AL PIE DE LA FIRMA": "BLANCA MARÍA SANTOS - 1920001458"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1920001458",
+            "NOMBRES": "BLANCA MARÍA SANTOS",
+            "FECHA NACIMIENTO": "22/07/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.478.986",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "BLANCA MARÍA SANTOS - 1920001458",
+            "AL PIE DE LA FIRMA": "BLANCA MARÍA SANTOS - 1920001458"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3895047",
+            "CEDULA": "1920001458",
+            "NOMBRES": "BLANCA MARÍA SANTOS",
+            "CREDITO": "9.478.986",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "224.83",
+            "E.A": "22.93%",
+            "RECOMPRA O DESEMBOLSO": "4.451.020",
+            "FIRMA ELLECTRONICA": "BLANCA MARÍA SANTOS - 1920001458"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1920001458",
+            "NOMBRES": "BLANCA MARÍA SANTOS",
+            "FIRMA ELLECTRONICA": "BLANCA MARÍA SANTOS - 1920001458"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1920001458",
+            "NOMBRES": "BLANCA MARÍA SANTOS",
+            "FIRMA ELLECTRONICA": "BLANCA MARÍA SANTOS - 1920001458",
+            "AL PIE DE LA FIRMA": "BLANCA MARÍA SANTOS - 1920001458"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BLANCA MARÍA SANTOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1920001458",
+            "NOMBRES": "BLANCA MARÍA SANTOS",
+            "SALARIO": "2.169.248",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1920001458",
+            "NOMBRES": "BLANCA MARÍA SANTOS",
+            "RECOMPRA O DESEMBOLSO": "4.451.020"
+        }
+    }
+]

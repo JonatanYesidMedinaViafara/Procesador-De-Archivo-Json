@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "421141433105",
+            "SOLICITUD": "5169709",
+            "CEDULA": "1039000378",
+            "NOMBRES": "OMAR CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "4.657.408",
+            "FIRMA ELLECTRONICA": "OMAR CÁRDENAS - 1039000378"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "421141433105",
+            "NOMBRES": "OMAR CÁRDENAS",
+            "CREDITO": "16.557.216",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.329",
+            "FIRMA ELLECTRONICA": "OMAR CÁRDENAS - 1039000378",
+            "AL PIE DE LA FIRMA": "OMAR CÁRDENAS - 1039000378"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1039000378",
+            "NOMBRES": "OMAR CÁRDENAS",
+            "FECHA NACIMIENTO": "21/08/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.557.216",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "OMAR CÁRDENAS - 1039000378",
+            "AL PIE DE LA FIRMA": "OMAR CÁRDENAS - 1039000378"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5169709",
+            "CEDULA": "1039000378",
+            "NOMBRES": "OMAR CÁRDENAS",
+            "CREDITO": "16.557.216",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.329",
+            "E.A": "22.94%",
+            "RECOMPRA O DESEMBOLSO": "4.657.408",
+            "FIRMA ELLECTRONICA": "OMAR CÁRDENAS - 1039000378"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1039000378",
+            "NOMBRES": "OMAR CÁRDENAS",
+            "FIRMA ELLECTRONICA": "OMAR CÁRDENAS - 1039000378"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1039000378",
+            "NOMBRES": "OMAR CÁRDENAS",
+            "FIRMA ELLECTRONICA": "OMAR CÁRDENAS - 1039000378",
+            "AL PIE DE LA FIRMA": "OMAR CÁRDENAS - 1039000378"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR CÁRDENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1039000378",
+            "NOMBRES": "OMAR CÁRDENAS",
+            "SALARIO": "4.724.211",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1039000378",
+            "NOMBRES": "OMAR CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "4.657.408"
+        }
+    }
+]

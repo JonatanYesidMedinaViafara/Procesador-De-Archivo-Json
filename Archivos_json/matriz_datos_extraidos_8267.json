@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "545231419035",
+            "SOLICITUD": "6510150",
+            "CEDULA": "1346320778",
+            "NOMBRES": "ÓSCAR MARTÍNEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.769.000",
+            "FIRMA ELLECTRONICA": "ÓSCAR MARTÍNEZ PÉREZ - 1346320778"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "545231419035",
+            "NOMBRES": "ÓSCAR MARTÍNEZ PÉREZ",
+            "CREDITO": "18.207.604",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "287.953",
+            "FIRMA ELLECTRONICA": "ÓSCAR MARTÍNEZ PÉREZ - 1346320778",
+            "AL PIE DE LA FIRMA": "ÓSCAR MARTÍNEZ PÉREZ - 1346320778"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1346320778",
+            "NOMBRES": "ÓSCAR MARTÍNEZ PÉREZ",
+            "FECHA NACIMIENTO": "03/04/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.207.604",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ÓSCAR MARTÍNEZ PÉREZ - 1346320778",
+            "AL PIE DE LA FIRMA": "ÓSCAR MARTÍNEZ PÉREZ - 1346320778"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6510150",
+            "CEDULA": "1346320778",
+            "NOMBRES": "ÓSCAR MARTÍNEZ PÉREZ",
+            "CREDITO": "18.207.604",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "287.953",
+            "E.A": "20.82%",
+            "RECOMPRA O DESEMBOLSO": "3.769.000",
+            "FIRMA ELLECTRONICA": "ÓSCAR MARTÍNEZ PÉREZ - 1346320778"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1346320778",
+            "NOMBRES": "ÓSCAR MARTÍNEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR MARTÍNEZ PÉREZ - 1346320778"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1346320778",
+            "NOMBRES": "ÓSCAR MARTÍNEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR MARTÍNEZ PÉREZ - 1346320778",
+            "AL PIE DE LA FIRMA": "ÓSCAR MARTÍNEZ PÉREZ - 1346320778"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR MARTÍNEZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1346320778",
+            "NOMBRES": "ÓSCAR MARTÍNEZ PÉREZ",
+            "SALARIO": "3.574.987",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1346320778",
+            "NOMBRES": "ÓSCAR MARTÍNEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.769.000"
+        }
+    }
+]

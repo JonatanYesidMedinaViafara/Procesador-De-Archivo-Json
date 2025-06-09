@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "895427737157",
+            "SOLICITUD": "8117773",
+            "CEDULA": "1850731184",
+            "NOMBRES": "RUTH TORO",
+            "RECOMPRA O DESEMBOLSO": "3.152.342",
+            "FIRMA ELLECTRONICA": "RUTH TORO - 1850731184"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "895427737157",
+            "NOMBRES": "RUTH TORO",
+            "CREDITO": "15.245.186",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "281.471",
+            "FIRMA ELLECTRONICA": "RUTH TORO - 1850731184",
+            "AL PIE DE LA FIRMA": "RUTH TORO - 1850731184"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1850731184",
+            "NOMBRES": "RUTH TORO",
+            "FECHA NACIMIENTO": "31/01/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.245.186",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RUTH TORO - 1850731184",
+            "AL PIE DE LA FIRMA": "RUTH TORO - 1850731184"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8117773",
+            "CEDULA": "1850731184",
+            "NOMBRES": "RUTH TORO",
+            "CREDITO": "15.245.186",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "281.471",
+            "E.A": "23.0%",
+            "RECOMPRA O DESEMBOLSO": "3.152.342",
+            "FIRMA ELLECTRONICA": "RUTH TORO - 1850731184"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1850731184",
+            "NOMBRES": "RUTH TORO",
+            "FIRMA ELLECTRONICA": "RUTH TORO - 1850731184"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1850731184",
+            "NOMBRES": "RUTH TORO",
+            "FIRMA ELLECTRONICA": "RUTH TORO - 1850731184",
+            "AL PIE DE LA FIRMA": "RUTH TORO - 1850731184"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUTH TORO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1850731184",
+            "NOMBRES": "RUTH TORO",
+            "SALARIO": "2.351.830",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1850731184",
+            "NOMBRES": "RUTH TORO",
+            "RECOMPRA O DESEMBOLSO": "3.152.342"
+        }
+    }
+]

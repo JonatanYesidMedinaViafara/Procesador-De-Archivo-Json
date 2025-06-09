@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "700834249446",
+            "SOLICITUD": "2516441",
+            "CEDULA": "1278537288",
+            "NOMBRES": "DAVID GÓMEZ BENAVIDES",
+            "RECOMPRA O DESEMBOLSO": "4.242.134",
+            "FIRMA ELLECTRONICA": "DAVID GÓMEZ BENAVIDES - 1278537288"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "700834249446",
+            "NOMBRES": "DAVID GÓMEZ BENAVIDES",
+            "CREDITO": "5.766.321",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "278.121",
+            "FIRMA ELLECTRONICA": "DAVID GÓMEZ BENAVIDES - 1278537288",
+            "AL PIE DE LA FIRMA": "DAVID GÓMEZ BENAVIDES - 1278537288"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1278537288",
+            "NOMBRES": "DAVID GÓMEZ BENAVIDES",
+            "FECHA NACIMIENTO": "21/12/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.766.321",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DAVID GÓMEZ BENAVIDES - 1278537288",
+            "AL PIE DE LA FIRMA": "DAVID GÓMEZ BENAVIDES - 1278537288"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2516441",
+            "CEDULA": "1278537288",
+            "NOMBRES": "DAVID GÓMEZ BENAVIDES",
+            "CREDITO": "5.766.321",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "278.121",
+            "E.A": "19.87%",
+            "RECOMPRA O DESEMBOLSO": "4.242.134",
+            "FIRMA ELLECTRONICA": "DAVID GÓMEZ BENAVIDES - 1278537288"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1278537288",
+            "NOMBRES": "DAVID GÓMEZ BENAVIDES",
+            "FIRMA ELLECTRONICA": "DAVID GÓMEZ BENAVIDES - 1278537288"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1278537288",
+            "NOMBRES": "DAVID GÓMEZ BENAVIDES",
+            "FIRMA ELLECTRONICA": "DAVID GÓMEZ BENAVIDES - 1278537288",
+            "AL PIE DE LA FIRMA": "DAVID GÓMEZ BENAVIDES - 1278537288"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID GÓMEZ BENAVIDES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1278537288",
+            "NOMBRES": "DAVID GÓMEZ BENAVIDES",
+            "SALARIO": "3.932.390",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1278537288",
+            "NOMBRES": "DAVID GÓMEZ BENAVIDES",
+            "RECOMPRA O DESEMBOLSO": "4.242.134"
+        }
+    }
+]

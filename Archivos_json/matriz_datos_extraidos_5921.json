@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "762181753868",
+            "SOLICITUD": "9087411",
+            "CEDULA": "1899506981",
+            "NOMBRES": "ISABEL OROZCO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.280.208",
+            "FIRMA ELLECTRONICA": "ISABEL OROZCO GÓMEZ - 1899506981"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "762181753868",
+            "NOMBRES": "ISABEL OROZCO GÓMEZ",
+            "CREDITO": "12.348.447",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.437",
+            "FIRMA ELLECTRONICA": "ISABEL OROZCO GÓMEZ - 1899506981",
+            "AL PIE DE LA FIRMA": "ISABEL OROZCO GÓMEZ - 1899506981"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1899506981",
+            "NOMBRES": "ISABEL OROZCO GÓMEZ",
+            "FECHA NACIMIENTO": "22/01/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.348.447",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ISABEL OROZCO GÓMEZ - 1899506981",
+            "AL PIE DE LA FIRMA": "ISABEL OROZCO GÓMEZ - 1899506981"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9087411",
+            "CEDULA": "1899506981",
+            "NOMBRES": "ISABEL OROZCO GÓMEZ",
+            "CREDITO": "12.348.447",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.437",
+            "E.A": "26.0%",
+            "RECOMPRA O DESEMBOLSO": "4.280.208",
+            "FIRMA ELLECTRONICA": "ISABEL OROZCO GÓMEZ - 1899506981"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1899506981",
+            "NOMBRES": "ISABEL OROZCO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ISABEL OROZCO GÓMEZ - 1899506981"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1899506981",
+            "NOMBRES": "ISABEL OROZCO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ISABEL OROZCO GÓMEZ - 1899506981",
+            "AL PIE DE LA FIRMA": "ISABEL OROZCO GÓMEZ - 1899506981"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL OROZCO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1899506981",
+            "NOMBRES": "ISABEL OROZCO GÓMEZ",
+            "SALARIO": "3.259.492",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1899506981",
+            "NOMBRES": "ISABEL OROZCO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.280.208"
+        }
+    }
+]

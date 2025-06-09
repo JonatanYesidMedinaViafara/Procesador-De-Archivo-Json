@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "232594872084",
+            "SOLICITUD": "6384230",
+            "CEDULA": "1000162467",
+            "NOMBRES": "ÁNGELA RODRÍGUEZ ALFONSO",
+            "RECOMPRA O DESEMBOLSO": "3.202.851",
+            "FIRMA ELLECTRONICA": "ÁNGELA RODRÍGUEZ ALFONSO - 1000162467"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "232594872084",
+            "NOMBRES": "ÁNGELA RODRÍGUEZ ALFONSO",
+            "CREDITO": "10.676.010",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "366.899",
+            "FIRMA ELLECTRONICA": "ÁNGELA RODRÍGUEZ ALFONSO - 1000162467",
+            "AL PIE DE LA FIRMA": "ÁNGELA RODRÍGUEZ ALFONSO - 1000162467"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1000162467",
+            "NOMBRES": "ÁNGELA RODRÍGUEZ ALFONSO",
+            "FECHA NACIMIENTO": "24/08/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.676.010",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÁNGELA RODRÍGUEZ ALFONSO - 1000162467",
+            "AL PIE DE LA FIRMA": "ÁNGELA RODRÍGUEZ ALFONSO - 1000162467"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6384230",
+            "CEDULA": "1000162467",
+            "NOMBRES": "ÁNGELA RODRÍGUEZ ALFONSO",
+            "CREDITO": "10.676.010",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "366.899",
+            "E.A": "18.56%",
+            "RECOMPRA O DESEMBOLSO": "3.202.851",
+            "FIRMA ELLECTRONICA": "ÁNGELA RODRÍGUEZ ALFONSO - 1000162467"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1000162467",
+            "NOMBRES": "ÁNGELA RODRÍGUEZ ALFONSO",
+            "FIRMA ELLECTRONICA": "ÁNGELA RODRÍGUEZ ALFONSO - 1000162467"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1000162467",
+            "NOMBRES": "ÁNGELA RODRÍGUEZ ALFONSO",
+            "FIRMA ELLECTRONICA": "ÁNGELA RODRÍGUEZ ALFONSO - 1000162467",
+            "AL PIE DE LA FIRMA": "ÁNGELA RODRÍGUEZ ALFONSO - 1000162467"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGELA RODRÍGUEZ ALFONSO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1000162467",
+            "NOMBRES": "ÁNGELA RODRÍGUEZ ALFONSO",
+            "SALARIO": "2.209.218",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1000162467",
+            "NOMBRES": "ÁNGELA RODRÍGUEZ ALFONSO",
+            "RECOMPRA O DESEMBOLSO": "3.202.851"
+        }
+    }
+]

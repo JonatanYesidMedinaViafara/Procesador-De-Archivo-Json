@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "881148824983",
+            "SOLICITUD": "4283563",
+            "CEDULA": "1711345855",
+            "NOMBRES": "IRMA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.078.617",
+            "FIRMA ELLECTRONICA": "IRMA TORRES - 1711345855"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "881148824983",
+            "NOMBRES": "IRMA TORRES",
+            "CREDITO": "16.317.405",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "295.587",
+            "FIRMA ELLECTRONICA": "IRMA TORRES - 1711345855",
+            "AL PIE DE LA FIRMA": "IRMA TORRES - 1711345855"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1711345855",
+            "NOMBRES": "IRMA TORRES",
+            "FECHA NACIMIENTO": "09/11/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.317.405",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "IRMA TORRES - 1711345855",
+            "AL PIE DE LA FIRMA": "IRMA TORRES - 1711345855"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4283563",
+            "CEDULA": "1711345855",
+            "NOMBRES": "IRMA TORRES",
+            "CREDITO": "16.317.405",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "295.587",
+            "E.A": "26.45%",
+            "RECOMPRA O DESEMBOLSO": "4.078.617",
+            "FIRMA ELLECTRONICA": "IRMA TORRES - 1711345855"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1711345855",
+            "NOMBRES": "IRMA TORRES",
+            "FIRMA ELLECTRONICA": "IRMA TORRES - 1711345855"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1711345855",
+            "NOMBRES": "IRMA TORRES",
+            "FIRMA ELLECTRONICA": "IRMA TORRES - 1711345855",
+            "AL PIE DE LA FIRMA": "IRMA TORRES - 1711345855"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IRMA TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1711345855",
+            "NOMBRES": "IRMA TORRES",
+            "SALARIO": "1.954.932",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1711345855",
+            "NOMBRES": "IRMA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.078.617"
+        }
+    }
+]

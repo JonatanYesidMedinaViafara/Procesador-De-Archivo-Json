@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "592328410519",
+            "SOLICITUD": "9204294",
+            "CEDULA": "1880512086",
+            "NOMBRES": "FABIO RICARDO RUEDA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "3.304.714",
+            "FIRMA ELLECTRONICA": "FABIO RICARDO RUEDA ACOSTA - 1880512086"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "592328410519",
+            "NOMBRES": "FABIO RICARDO RUEDA ACOSTA",
+            "CREDITO": "10.234.550",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "346.187",
+            "FIRMA ELLECTRONICA": "FABIO RICARDO RUEDA ACOSTA - 1880512086",
+            "AL PIE DE LA FIRMA": "FABIO RICARDO RUEDA ACOSTA - 1880512086"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1880512086",
+            "NOMBRES": "FABIO RICARDO RUEDA ACOSTA",
+            "FECHA NACIMIENTO": "05/04/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.234.550",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FABIO RICARDO RUEDA ACOSTA - 1880512086",
+            "AL PIE DE LA FIRMA": "FABIO RICARDO RUEDA ACOSTA - 1880512086"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9204294",
+            "CEDULA": "1880512086",
+            "NOMBRES": "FABIO RICARDO RUEDA ACOSTA",
+            "CREDITO": "10.234.550",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "346.187",
+            "E.A": "27.72%",
+            "RECOMPRA O DESEMBOLSO": "3.304.714",
+            "FIRMA ELLECTRONICA": "FABIO RICARDO RUEDA ACOSTA - 1880512086"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1880512086",
+            "NOMBRES": "FABIO RICARDO RUEDA ACOSTA",
+            "FIRMA ELLECTRONICA": "FABIO RICARDO RUEDA ACOSTA - 1880512086"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1880512086",
+            "NOMBRES": "FABIO RICARDO RUEDA ACOSTA",
+            "FIRMA ELLECTRONICA": "FABIO RICARDO RUEDA ACOSTA - 1880512086",
+            "AL PIE DE LA FIRMA": "FABIO RICARDO RUEDA ACOSTA - 1880512086"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIO RICARDO RUEDA ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1880512086",
+            "NOMBRES": "FABIO RICARDO RUEDA ACOSTA",
+            "SALARIO": "4.882.404",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1880512086",
+            "NOMBRES": "FABIO RICARDO RUEDA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "3.304.714"
+        }
+    }
+]

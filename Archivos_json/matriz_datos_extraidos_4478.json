@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "862048290848",
+            "SOLICITUD": "8156350",
+            "CEDULA": "1668515029",
+            "NOMBRES": "FRANCIA VILLA MENA",
+            "RECOMPRA O DESEMBOLSO": "2.182.639",
+            "FIRMA ELLECTRONICA": "FRANCIA VILLA MENA - 1668515029"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "862048290848",
+            "NOMBRES": "FRANCIA VILLA MENA",
+            "CREDITO": "12.647.117",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "187.765",
+            "FIRMA ELLECTRONICA": "FRANCIA VILLA MENA - 1668515029",
+            "AL PIE DE LA FIRMA": "FRANCIA VILLA MENA - 1668515029"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1668515029",
+            "NOMBRES": "FRANCIA VILLA MENA",
+            "FECHA NACIMIENTO": "02/05/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.647.117",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FRANCIA VILLA MENA - 1668515029",
+            "AL PIE DE LA FIRMA": "FRANCIA VILLA MENA - 1668515029"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8156350",
+            "CEDULA": "1668515029",
+            "NOMBRES": "FRANCIA VILLA MENA",
+            "CREDITO": "12.647.117",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "187.765",
+            "E.A": "25.36%",
+            "RECOMPRA O DESEMBOLSO": "2.182.639",
+            "FIRMA ELLECTRONICA": "FRANCIA VILLA MENA - 1668515029"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1668515029",
+            "NOMBRES": "FRANCIA VILLA MENA",
+            "FIRMA ELLECTRONICA": "FRANCIA VILLA MENA - 1668515029"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1668515029",
+            "NOMBRES": "FRANCIA VILLA MENA",
+            "FIRMA ELLECTRONICA": "FRANCIA VILLA MENA - 1668515029",
+            "AL PIE DE LA FIRMA": "FRANCIA VILLA MENA - 1668515029"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCIA VILLA MENA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1668515029",
+            "NOMBRES": "FRANCIA VILLA MENA",
+            "SALARIO": "4.792.635",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1668515029",
+            "NOMBRES": "FRANCIA VILLA MENA",
+            "RECOMPRA O DESEMBOLSO": "2.182.639"
+        }
+    }
+]

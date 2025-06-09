@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "426121657904",
+            "SOLICITUD": "4650972",
+            "CEDULA": "1241411239",
+            "NOMBRES": "MARÍA MEJÍA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.913.470",
+            "FIRMA ELLECTRONICA": "MARÍA MEJÍA HERRERA - 1241411239"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "426121657904",
+            "NOMBRES": "MARÍA MEJÍA HERRERA",
+            "CREDITO": "13.964.715",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "289.71",
+            "FIRMA ELLECTRONICA": "MARÍA MEJÍA HERRERA - 1241411239",
+            "AL PIE DE LA FIRMA": "MARÍA MEJÍA HERRERA - 1241411239"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1241411239",
+            "NOMBRES": "MARÍA MEJÍA HERRERA",
+            "FECHA NACIMIENTO": "25/10/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.964.715",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA MEJÍA HERRERA - 1241411239",
+            "AL PIE DE LA FIRMA": "MARÍA MEJÍA HERRERA - 1241411239"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4650972",
+            "CEDULA": "1241411239",
+            "NOMBRES": "MARÍA MEJÍA HERRERA",
+            "CREDITO": "13.964.715",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "289.71",
+            "E.A": "25.44%",
+            "RECOMPRA O DESEMBOLSO": "2.913.470",
+            "FIRMA ELLECTRONICA": "MARÍA MEJÍA HERRERA - 1241411239"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1241411239",
+            "NOMBRES": "MARÍA MEJÍA HERRERA",
+            "FIRMA ELLECTRONICA": "MARÍA MEJÍA HERRERA - 1241411239"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1241411239",
+            "NOMBRES": "MARÍA MEJÍA HERRERA",
+            "FIRMA ELLECTRONICA": "MARÍA MEJÍA HERRERA - 1241411239",
+            "AL PIE DE LA FIRMA": "MARÍA MEJÍA HERRERA - 1241411239"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MEJÍA HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1241411239",
+            "NOMBRES": "MARÍA MEJÍA HERRERA",
+            "SALARIO": "1.853.603",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1241411239",
+            "NOMBRES": "MARÍA MEJÍA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.913.470"
+        }
+    }
+]

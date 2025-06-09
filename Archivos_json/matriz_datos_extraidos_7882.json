@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "886199701370",
+            "SOLICITUD": "8835111",
+            "CEDULA": "1187986016",
+            "NOMBRES": "HENRY MARTÍNEZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.106.104",
+            "FIRMA ELLECTRONICA": "HENRY MARTÍNEZ LÓPEZ - 1187986016"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "886199701370",
+            "NOMBRES": "HENRY MARTÍNEZ LÓPEZ",
+            "CREDITO": "18.994.798",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "388.945",
+            "FIRMA ELLECTRONICA": "HENRY MARTÍNEZ LÓPEZ - 1187986016",
+            "AL PIE DE LA FIRMA": "HENRY MARTÍNEZ LÓPEZ - 1187986016"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1187986016",
+            "NOMBRES": "HENRY MARTÍNEZ LÓPEZ",
+            "FECHA NACIMIENTO": "05/07/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.994.798",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HENRY MARTÍNEZ LÓPEZ - 1187986016",
+            "AL PIE DE LA FIRMA": "HENRY MARTÍNEZ LÓPEZ - 1187986016"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8835111",
+            "CEDULA": "1187986016",
+            "NOMBRES": "HENRY MARTÍNEZ LÓPEZ",
+            "CREDITO": "18.994.798",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "388.945",
+            "E.A": "28.42%",
+            "RECOMPRA O DESEMBOLSO": "2.106.104",
+            "FIRMA ELLECTRONICA": "HENRY MARTÍNEZ LÓPEZ - 1187986016"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1187986016",
+            "NOMBRES": "HENRY MARTÍNEZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "HENRY MARTÍNEZ LÓPEZ - 1187986016"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1187986016",
+            "NOMBRES": "HENRY MARTÍNEZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "HENRY MARTÍNEZ LÓPEZ - 1187986016",
+            "AL PIE DE LA FIRMA": "HENRY MARTÍNEZ LÓPEZ - 1187986016"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HENRY MARTÍNEZ LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1187986016",
+            "NOMBRES": "HENRY MARTÍNEZ LÓPEZ",
+            "SALARIO": "4.106.110",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1187986016",
+            "NOMBRES": "HENRY MARTÍNEZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.106.104"
+        }
+    }
+]

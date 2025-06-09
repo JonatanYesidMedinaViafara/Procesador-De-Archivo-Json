@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "204615380125",
+            "SOLICITUD": "9671979",
+            "CEDULA": "1096969514",
+            "NOMBRES": "ANA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "1.650.464",
+            "FIRMA ELLECTRONICA": "ANA ORTIZ - 1096969514"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "204615380125",
+            "NOMBRES": "ANA ORTIZ",
+            "CREDITO": "9.337.367",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "383.821",
+            "FIRMA ELLECTRONICA": "ANA ORTIZ - 1096969514",
+            "AL PIE DE LA FIRMA": "ANA ORTIZ - 1096969514"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1096969514",
+            "NOMBRES": "ANA ORTIZ",
+            "FECHA NACIMIENTO": "06/07/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.337.367",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANA ORTIZ - 1096969514",
+            "AL PIE DE LA FIRMA": "ANA ORTIZ - 1096969514"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9671979",
+            "CEDULA": "1096969514",
+            "NOMBRES": "ANA ORTIZ",
+            "CREDITO": "9.337.367",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "383.821",
+            "E.A": "24.96%",
+            "RECOMPRA O DESEMBOLSO": "1.650.464",
+            "FIRMA ELLECTRONICA": "ANA ORTIZ - 1096969514"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1096969514",
+            "NOMBRES": "ANA ORTIZ",
+            "FIRMA ELLECTRONICA": "ANA ORTIZ - 1096969514"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1096969514",
+            "NOMBRES": "ANA ORTIZ",
+            "FIRMA ELLECTRONICA": "ANA ORTIZ - 1096969514",
+            "AL PIE DE LA FIRMA": "ANA ORTIZ - 1096969514"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1096969514",
+            "NOMBRES": "ANA ORTIZ",
+            "SALARIO": "2.677.929",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1096969514",
+            "NOMBRES": "ANA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "1.650.464"
+        }
+    }
+]

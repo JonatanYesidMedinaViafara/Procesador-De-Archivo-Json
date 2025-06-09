@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "809404635510",
+            "SOLICITUD": "5528484",
+            "CEDULA": "1724805992",
+            "NOMBRES": "JOHANNA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.323.189",
+            "FIRMA ELLECTRONICA": "JOHANNA SÁNCHEZ - 1724805992"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "809404635510",
+            "NOMBRES": "JOHANNA SÁNCHEZ",
+            "CREDITO": "13.742.583",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "167.705",
+            "FIRMA ELLECTRONICA": "JOHANNA SÁNCHEZ - 1724805992",
+            "AL PIE DE LA FIRMA": "JOHANNA SÁNCHEZ - 1724805992"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1724805992",
+            "NOMBRES": "JOHANNA SÁNCHEZ",
+            "FECHA NACIMIENTO": "21/02/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.742.583",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOHANNA SÁNCHEZ - 1724805992",
+            "AL PIE DE LA FIRMA": "JOHANNA SÁNCHEZ - 1724805992"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5528484",
+            "CEDULA": "1724805992",
+            "NOMBRES": "JOHANNA SÁNCHEZ",
+            "CREDITO": "13.742.583",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "167.705",
+            "E.A": "19.4%",
+            "RECOMPRA O DESEMBOLSO": "3.323.189",
+            "FIRMA ELLECTRONICA": "JOHANNA SÁNCHEZ - 1724805992"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1724805992",
+            "NOMBRES": "JOHANNA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JOHANNA SÁNCHEZ - 1724805992"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1724805992",
+            "NOMBRES": "JOHANNA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JOHANNA SÁNCHEZ - 1724805992",
+            "AL PIE DE LA FIRMA": "JOHANNA SÁNCHEZ - 1724805992"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHANNA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1724805992",
+            "NOMBRES": "JOHANNA SÁNCHEZ",
+            "SALARIO": "4.648.410",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1724805992",
+            "NOMBRES": "JOHANNA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.323.189"
+        }
+    }
+]

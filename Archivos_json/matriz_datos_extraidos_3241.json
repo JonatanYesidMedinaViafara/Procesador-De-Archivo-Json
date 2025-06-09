@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "694455187113",
+            "SOLICITUD": "7764776",
+            "CEDULA": "1638481578",
+            "NOMBRES": "RODRIGO JUAN RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.402.906",
+            "FIRMA ELLECTRONICA": "RODRIGO JUAN RODRÍGUEZ - 1638481578"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "694455187113",
+            "NOMBRES": "RODRIGO JUAN RODRÍGUEZ",
+            "CREDITO": "13.928.399",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "298.052",
+            "FIRMA ELLECTRONICA": "RODRIGO JUAN RODRÍGUEZ - 1638481578",
+            "AL PIE DE LA FIRMA": "RODRIGO JUAN RODRÍGUEZ - 1638481578"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1638481578",
+            "NOMBRES": "RODRIGO JUAN RODRÍGUEZ",
+            "FECHA NACIMIENTO": "18/03/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.928.399",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "RODRIGO JUAN RODRÍGUEZ - 1638481578",
+            "AL PIE DE LA FIRMA": "RODRIGO JUAN RODRÍGUEZ - 1638481578"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7764776",
+            "CEDULA": "1638481578",
+            "NOMBRES": "RODRIGO JUAN RODRÍGUEZ",
+            "CREDITO": "13.928.399",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "298.052",
+            "E.A": "21.41%",
+            "RECOMPRA O DESEMBOLSO": "3.402.906",
+            "FIRMA ELLECTRONICA": "RODRIGO JUAN RODRÍGUEZ - 1638481578"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1638481578",
+            "NOMBRES": "RODRIGO JUAN RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "RODRIGO JUAN RODRÍGUEZ - 1638481578"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1638481578",
+            "NOMBRES": "RODRIGO JUAN RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "RODRIGO JUAN RODRÍGUEZ - 1638481578",
+            "AL PIE DE LA FIRMA": "RODRIGO JUAN RODRÍGUEZ - 1638481578"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RODRIGO JUAN RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1638481578",
+            "NOMBRES": "RODRIGO JUAN RODRÍGUEZ",
+            "SALARIO": "2.614.713",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1638481578",
+            "NOMBRES": "RODRIGO JUAN RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.402.906"
+        }
+    }
+]

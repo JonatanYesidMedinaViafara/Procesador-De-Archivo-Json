@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "603579291073",
+            "SOLICITUD": "7496126",
+            "CEDULA": "1442076696",
+            "NOMBRES": "EMILIA GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "3.842.181",
+            "FIRMA ELLECTRONICA": "EMILIA GUZMÁN - 1442076696"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "603579291073",
+            "NOMBRES": "EMILIA GUZMÁN",
+            "CREDITO": "12.322.660",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "307.643",
+            "FIRMA ELLECTRONICA": "EMILIA GUZMÁN - 1442076696",
+            "AL PIE DE LA FIRMA": "EMILIA GUZMÁN - 1442076696"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1442076696",
+            "NOMBRES": "EMILIA GUZMÁN",
+            "FECHA NACIMIENTO": "30/12/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.322.660",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EMILIA GUZMÁN - 1442076696",
+            "AL PIE DE LA FIRMA": "EMILIA GUZMÁN - 1442076696"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7496126",
+            "CEDULA": "1442076696",
+            "NOMBRES": "EMILIA GUZMÁN",
+            "CREDITO": "12.322.660",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "307.643",
+            "E.A": "18.82%",
+            "RECOMPRA O DESEMBOLSO": "3.842.181",
+            "FIRMA ELLECTRONICA": "EMILIA GUZMÁN - 1442076696"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1442076696",
+            "NOMBRES": "EMILIA GUZMÁN",
+            "FIRMA ELLECTRONICA": "EMILIA GUZMÁN - 1442076696"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1442076696",
+            "NOMBRES": "EMILIA GUZMÁN",
+            "FIRMA ELLECTRONICA": "EMILIA GUZMÁN - 1442076696",
+            "AL PIE DE LA FIRMA": "EMILIA GUZMÁN - 1442076696"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMILIA GUZMÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1442076696",
+            "NOMBRES": "EMILIA GUZMÁN",
+            "SALARIO": "2.876.680",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1442076696",
+            "NOMBRES": "EMILIA GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "3.842.181"
+        }
+    }
+]

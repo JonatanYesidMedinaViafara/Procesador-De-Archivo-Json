@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "175652970010",
+            "SOLICITUD": "4959618",
+            "CEDULA": "1556458982",
+            "NOMBRES": "DAVID AGUILAR",
+            "RECOMPRA O DESEMBOLSO": "1.426.477",
+            "FIRMA ELLECTRONICA": "DAVID AGUILAR - 1556458982"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "175652970010",
+            "NOMBRES": "DAVID AGUILAR",
+            "CREDITO": "7.025.492",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "128.453",
+            "FIRMA ELLECTRONICA": "DAVID AGUILAR - 1556458982",
+            "AL PIE DE LA FIRMA": "DAVID AGUILAR - 1556458982"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1556458982",
+            "NOMBRES": "DAVID AGUILAR",
+            "FECHA NACIMIENTO": "28/05/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.025.492",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DAVID AGUILAR - 1556458982",
+            "AL PIE DE LA FIRMA": "DAVID AGUILAR - 1556458982"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4959618",
+            "CEDULA": "1556458982",
+            "NOMBRES": "DAVID AGUILAR",
+            "CREDITO": "7.025.492",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "128.453",
+            "E.A": "22.08%",
+            "RECOMPRA O DESEMBOLSO": "1.426.477",
+            "FIRMA ELLECTRONICA": "DAVID AGUILAR - 1556458982"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1556458982",
+            "NOMBRES": "DAVID AGUILAR",
+            "FIRMA ELLECTRONICA": "DAVID AGUILAR - 1556458982"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1556458982",
+            "NOMBRES": "DAVID AGUILAR",
+            "FIRMA ELLECTRONICA": "DAVID AGUILAR - 1556458982",
+            "AL PIE DE LA FIRMA": "DAVID AGUILAR - 1556458982"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID AGUILAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1556458982",
+            "NOMBRES": "DAVID AGUILAR",
+            "SALARIO": "4.229.811",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1556458982",
+            "NOMBRES": "DAVID AGUILAR",
+            "RECOMPRA O DESEMBOLSO": "1.426.477"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "929449757267",
+            "SOLICITUD": "5192927",
+            "CEDULA": "1676087371",
+            "NOMBRES": "EMILSE RUIZ VERA",
+            "RECOMPRA O DESEMBOLSO": "3.503.892",
+            "FIRMA ELLECTRONICA": "EMILSE RUIZ VERA - 1676087371"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "929449757267",
+            "NOMBRES": "EMILSE RUIZ VERA",
+            "CREDITO": "11.264.026",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "195.504",
+            "FIRMA ELLECTRONICA": "EMILSE RUIZ VERA - 1676087371",
+            "AL PIE DE LA FIRMA": "EMILSE RUIZ VERA - 1676087371"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1676087371",
+            "NOMBRES": "EMILSE RUIZ VERA",
+            "FECHA NACIMIENTO": "19/11/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.264.026",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EMILSE RUIZ VERA - 1676087371",
+            "AL PIE DE LA FIRMA": "EMILSE RUIZ VERA - 1676087371"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5192927",
+            "CEDULA": "1676087371",
+            "NOMBRES": "EMILSE RUIZ VERA",
+            "CREDITO": "11.264.026",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "195.504",
+            "E.A": "27.55%",
+            "RECOMPRA O DESEMBOLSO": "3.503.892",
+            "FIRMA ELLECTRONICA": "EMILSE RUIZ VERA - 1676087371"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1676087371",
+            "NOMBRES": "EMILSE RUIZ VERA",
+            "FIRMA ELLECTRONICA": "EMILSE RUIZ VERA - 1676087371"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1676087371",
+            "NOMBRES": "EMILSE RUIZ VERA",
+            "FIRMA ELLECTRONICA": "EMILSE RUIZ VERA - 1676087371",
+            "AL PIE DE LA FIRMA": "EMILSE RUIZ VERA - 1676087371"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMILSE RUIZ VERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1676087371",
+            "NOMBRES": "EMILSE RUIZ VERA",
+            "SALARIO": "2.101.203",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1676087371",
+            "NOMBRES": "EMILSE RUIZ VERA",
+            "RECOMPRA O DESEMBOLSO": "3.503.892"
+        }
+    }
+]

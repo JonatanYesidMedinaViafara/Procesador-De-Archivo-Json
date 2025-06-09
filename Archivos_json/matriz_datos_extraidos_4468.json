@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "491494582294",
+            "SOLICITUD": "2237278",
+            "CEDULA": "1359661720",
+            "NOMBRES": "OMAR RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.777.570",
+            "FIRMA ELLECTRONICA": "OMAR RAMÍREZ - 1359661720"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "491494582294",
+            "NOMBRES": "OMAR RAMÍREZ",
+            "CREDITO": "7.499.430",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "371.648",
+            "FIRMA ELLECTRONICA": "OMAR RAMÍREZ - 1359661720",
+            "AL PIE DE LA FIRMA": "OMAR RAMÍREZ - 1359661720"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1359661720",
+            "NOMBRES": "OMAR RAMÍREZ",
+            "FECHA NACIMIENTO": "29/11/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.499.430",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "OMAR RAMÍREZ - 1359661720",
+            "AL PIE DE LA FIRMA": "OMAR RAMÍREZ - 1359661720"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2237278",
+            "CEDULA": "1359661720",
+            "NOMBRES": "OMAR RAMÍREZ",
+            "CREDITO": "7.499.430",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "371.648",
+            "E.A": "23.55%",
+            "RECOMPRA O DESEMBOLSO": "1.777.570",
+            "FIRMA ELLECTRONICA": "OMAR RAMÍREZ - 1359661720"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1359661720",
+            "NOMBRES": "OMAR RAMÍREZ",
+            "FIRMA ELLECTRONICA": "OMAR RAMÍREZ - 1359661720"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1359661720",
+            "NOMBRES": "OMAR RAMÍREZ",
+            "FIRMA ELLECTRONICA": "OMAR RAMÍREZ - 1359661720",
+            "AL PIE DE LA FIRMA": "OMAR RAMÍREZ - 1359661720"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1359661720",
+            "NOMBRES": "OMAR RAMÍREZ",
+            "SALARIO": "3.177.830",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1359661720",
+            "NOMBRES": "OMAR RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.777.570"
+        }
+    }
+]

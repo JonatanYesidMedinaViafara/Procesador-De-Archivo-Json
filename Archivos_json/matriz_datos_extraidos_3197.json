@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "167323383296",
+            "SOLICITUD": "2766755",
+            "CEDULA": "1578596955",
+            "NOMBRES": "ENRIQUE BUITRAGO CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "3.984.549",
+            "FIRMA ELLECTRONICA": "ENRIQUE BUITRAGO CÓRDOBA - 1578596955"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "167323383296",
+            "NOMBRES": "ENRIQUE BUITRAGO CÓRDOBA",
+            "CREDITO": "5.227.827",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "373.038",
+            "FIRMA ELLECTRONICA": "ENRIQUE BUITRAGO CÓRDOBA - 1578596955",
+            "AL PIE DE LA FIRMA": "ENRIQUE BUITRAGO CÓRDOBA - 1578596955"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1578596955",
+            "NOMBRES": "ENRIQUE BUITRAGO CÓRDOBA",
+            "FECHA NACIMIENTO": "26/07/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.227.827",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE BUITRAGO CÓRDOBA - 1578596955",
+            "AL PIE DE LA FIRMA": "ENRIQUE BUITRAGO CÓRDOBA - 1578596955"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2766755",
+            "CEDULA": "1578596955",
+            "NOMBRES": "ENRIQUE BUITRAGO CÓRDOBA",
+            "CREDITO": "5.227.827",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "373.038",
+            "E.A": "25.17%",
+            "RECOMPRA O DESEMBOLSO": "3.984.549",
+            "FIRMA ELLECTRONICA": "ENRIQUE BUITRAGO CÓRDOBA - 1578596955"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1578596955",
+            "NOMBRES": "ENRIQUE BUITRAGO CÓRDOBA",
+            "FIRMA ELLECTRONICA": "ENRIQUE BUITRAGO CÓRDOBA - 1578596955"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1578596955",
+            "NOMBRES": "ENRIQUE BUITRAGO CÓRDOBA",
+            "FIRMA ELLECTRONICA": "ENRIQUE BUITRAGO CÓRDOBA - 1578596955",
+            "AL PIE DE LA FIRMA": "ENRIQUE BUITRAGO CÓRDOBA - 1578596955"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE BUITRAGO CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1578596955",
+            "NOMBRES": "ENRIQUE BUITRAGO CÓRDOBA",
+            "SALARIO": "2.361.611",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1578596955",
+            "NOMBRES": "ENRIQUE BUITRAGO CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "3.984.549"
+        }
+    }
+]

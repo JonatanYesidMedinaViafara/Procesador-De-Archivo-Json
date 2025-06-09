@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "841545053118",
+            "SOLICITUD": "9759753",
+            "CEDULA": "1300593853",
+            "NOMBRES": "FERNANDO DIEGO BUSTOS",
+            "RECOMPRA O DESEMBOLSO": "4.793.929",
+            "FIRMA ELLECTRONICA": "FERNANDO DIEGO BUSTOS - 1300593853"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "841545053118",
+            "NOMBRES": "FERNANDO DIEGO BUSTOS",
+            "CREDITO": "14.987.095",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "128.589",
+            "FIRMA ELLECTRONICA": "FERNANDO DIEGO BUSTOS - 1300593853",
+            "AL PIE DE LA FIRMA": "FERNANDO DIEGO BUSTOS - 1300593853"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1300593853",
+            "NOMBRES": "FERNANDO DIEGO BUSTOS",
+            "FECHA NACIMIENTO": "24/05/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.987.095",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO DIEGO BUSTOS - 1300593853",
+            "AL PIE DE LA FIRMA": "FERNANDO DIEGO BUSTOS - 1300593853"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9759753",
+            "CEDULA": "1300593853",
+            "NOMBRES": "FERNANDO DIEGO BUSTOS",
+            "CREDITO": "14.987.095",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "128.589",
+            "E.A": "19.21%",
+            "RECOMPRA O DESEMBOLSO": "4.793.929",
+            "FIRMA ELLECTRONICA": "FERNANDO DIEGO BUSTOS - 1300593853"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1300593853",
+            "NOMBRES": "FERNANDO DIEGO BUSTOS",
+            "FIRMA ELLECTRONICA": "FERNANDO DIEGO BUSTOS - 1300593853"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1300593853",
+            "NOMBRES": "FERNANDO DIEGO BUSTOS",
+            "FIRMA ELLECTRONICA": "FERNANDO DIEGO BUSTOS - 1300593853",
+            "AL PIE DE LA FIRMA": "FERNANDO DIEGO BUSTOS - 1300593853"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO DIEGO BUSTOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1300593853",
+            "NOMBRES": "FERNANDO DIEGO BUSTOS",
+            "SALARIO": "1.737.093",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1300593853",
+            "NOMBRES": "FERNANDO DIEGO BUSTOS",
+            "RECOMPRA O DESEMBOLSO": "4.793.929"
+        }
+    }
+]

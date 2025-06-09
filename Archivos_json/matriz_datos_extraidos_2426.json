@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "380611895364",
+            "SOLICITUD": "4383595",
+            "CEDULA": "1475301830",
+            "NOMBRES": "RUBIELA PARRA",
+            "RECOMPRA O DESEMBOLSO": "1.045.063",
+            "FIRMA ELLECTRONICA": "RUBIELA PARRA - 1475301830"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "380611895364",
+            "NOMBRES": "RUBIELA PARRA",
+            "CREDITO": "13.263.849",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "272.133",
+            "FIRMA ELLECTRONICA": "RUBIELA PARRA - 1475301830",
+            "AL PIE DE LA FIRMA": "RUBIELA PARRA - 1475301830"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1475301830",
+            "NOMBRES": "RUBIELA PARRA",
+            "FECHA NACIMIENTO": "30/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.263.849",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "RUBIELA PARRA - 1475301830",
+            "AL PIE DE LA FIRMA": "RUBIELA PARRA - 1475301830"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4383595",
+            "CEDULA": "1475301830",
+            "NOMBRES": "RUBIELA PARRA",
+            "CREDITO": "13.263.849",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "272.133",
+            "E.A": "28.42%",
+            "RECOMPRA O DESEMBOLSO": "1.045.063",
+            "FIRMA ELLECTRONICA": "RUBIELA PARRA - 1475301830"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1475301830",
+            "NOMBRES": "RUBIELA PARRA",
+            "FIRMA ELLECTRONICA": "RUBIELA PARRA - 1475301830"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1475301830",
+            "NOMBRES": "RUBIELA PARRA",
+            "FIRMA ELLECTRONICA": "RUBIELA PARRA - 1475301830",
+            "AL PIE DE LA FIRMA": "RUBIELA PARRA - 1475301830"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUBIELA PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1475301830",
+            "NOMBRES": "RUBIELA PARRA",
+            "SALARIO": "3.779.420",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1475301830",
+            "NOMBRES": "RUBIELA PARRA",
+            "RECOMPRA O DESEMBOLSO": "1.045.063"
+        }
+    }
+]

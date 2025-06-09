@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "233180555107",
+            "SOLICITUD": "1309995",
+            "CEDULA": "1919519189",
+            "NOMBRES": "ALEJANDRO ANDRADE GALEANO",
+            "RECOMPRA O DESEMBOLSO": "3.564.758",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ANDRADE GALEANO - 1919519189"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "233180555107",
+            "NOMBRES": "ALEJANDRO ANDRADE GALEANO",
+            "CREDITO": "7.719.956",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "120.975",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ANDRADE GALEANO - 1919519189",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ANDRADE GALEANO - 1919519189"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1919519189",
+            "NOMBRES": "ALEJANDRO ANDRADE GALEANO",
+            "FECHA NACIMIENTO": "08/07/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.719.956",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ANDRADE GALEANO - 1919519189",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ANDRADE GALEANO - 1919519189"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1309995",
+            "CEDULA": "1919519189",
+            "NOMBRES": "ALEJANDRO ANDRADE GALEANO",
+            "CREDITO": "7.719.956",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "120.975",
+            "E.A": "19.2%",
+            "RECOMPRA O DESEMBOLSO": "3.564.758",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ANDRADE GALEANO - 1919519189"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1919519189",
+            "NOMBRES": "ALEJANDRO ANDRADE GALEANO",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ANDRADE GALEANO - 1919519189"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1919519189",
+            "NOMBRES": "ALEJANDRO ANDRADE GALEANO",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ANDRADE GALEANO - 1919519189",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ANDRADE GALEANO - 1919519189"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO ANDRADE GALEANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1919519189",
+            "NOMBRES": "ALEJANDRO ANDRADE GALEANO",
+            "SALARIO": "2.549.548",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1919519189",
+            "NOMBRES": "ALEJANDRO ANDRADE GALEANO",
+            "RECOMPRA O DESEMBOLSO": "3.564.758"
+        }
+    }
+]

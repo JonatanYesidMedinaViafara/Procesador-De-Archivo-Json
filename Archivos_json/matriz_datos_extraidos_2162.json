@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "632721558396",
+            "SOLICITUD": "5000102",
+            "CEDULA": "1704660697",
+            "NOMBRES": "MANUEL ALBERTO ARANGO",
+            "RECOMPRA O DESEMBOLSO": "3.732.332",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO ARANGO - 1704660697"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "632721558396",
+            "NOMBRES": "MANUEL ALBERTO ARANGO",
+            "CREDITO": "17.228.814",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "235.037",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO ARANGO - 1704660697",
+            "AL PIE DE LA FIRMA": "MANUEL ALBERTO ARANGO - 1704660697"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1704660697",
+            "NOMBRES": "MANUEL ALBERTO ARANGO",
+            "FECHA NACIMIENTO": "30/09/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.228.814",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO ARANGO - 1704660697",
+            "AL PIE DE LA FIRMA": "MANUEL ALBERTO ARANGO - 1704660697"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5000102",
+            "CEDULA": "1704660697",
+            "NOMBRES": "MANUEL ALBERTO ARANGO",
+            "CREDITO": "17.228.814",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "235.037",
+            "E.A": "19.51%",
+            "RECOMPRA O DESEMBOLSO": "3.732.332",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO ARANGO - 1704660697"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1704660697",
+            "NOMBRES": "MANUEL ALBERTO ARANGO",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO ARANGO - 1704660697"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1704660697",
+            "NOMBRES": "MANUEL ALBERTO ARANGO",
+            "FIRMA ELLECTRONICA": "MANUEL ALBERTO ARANGO - 1704660697",
+            "AL PIE DE LA FIRMA": "MANUEL ALBERTO ARANGO - 1704660697"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL ALBERTO ARANGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1704660697",
+            "NOMBRES": "MANUEL ALBERTO ARANGO",
+            "SALARIO": "3.943.948",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1704660697",
+            "NOMBRES": "MANUEL ALBERTO ARANGO",
+            "RECOMPRA O DESEMBOLSO": "3.732.332"
+        }
+    }
+]

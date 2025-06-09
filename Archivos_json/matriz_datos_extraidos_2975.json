@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "209336119143",
+            "SOLICITUD": "9379430",
+            "CEDULA": "1428680070",
+            "NOMBRES": "ANTONIO JUAN RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.599.369",
+            "FIRMA ELLECTRONICA": "ANTONIO JUAN RAMÍREZ - 1428680070"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "209336119143",
+            "NOMBRES": "ANTONIO JUAN RAMÍREZ",
+            "CREDITO": "12.843.284",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "321.098",
+            "FIRMA ELLECTRONICA": "ANTONIO JUAN RAMÍREZ - 1428680070",
+            "AL PIE DE LA FIRMA": "ANTONIO JUAN RAMÍREZ - 1428680070"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1428680070",
+            "NOMBRES": "ANTONIO JUAN RAMÍREZ",
+            "FECHA NACIMIENTO": "06/05/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.843.284",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANTONIO JUAN RAMÍREZ - 1428680070",
+            "AL PIE DE LA FIRMA": "ANTONIO JUAN RAMÍREZ - 1428680070"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9379430",
+            "CEDULA": "1428680070",
+            "NOMBRES": "ANTONIO JUAN RAMÍREZ",
+            "CREDITO": "12.843.284",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "321.098",
+            "E.A": "23.0%",
+            "RECOMPRA O DESEMBOLSO": "1.599.369",
+            "FIRMA ELLECTRONICA": "ANTONIO JUAN RAMÍREZ - 1428680070"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1428680070",
+            "NOMBRES": "ANTONIO JUAN RAMÍREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO JUAN RAMÍREZ - 1428680070"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1428680070",
+            "NOMBRES": "ANTONIO JUAN RAMÍREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO JUAN RAMÍREZ - 1428680070",
+            "AL PIE DE LA FIRMA": "ANTONIO JUAN RAMÍREZ - 1428680070"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO JUAN RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1428680070",
+            "NOMBRES": "ANTONIO JUAN RAMÍREZ",
+            "SALARIO": "2.769.009",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1428680070",
+            "NOMBRES": "ANTONIO JUAN RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.599.369"
+        }
+    }
+]

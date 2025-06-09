@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "391262104277",
+            "SOLICITUD": "1600140",
+            "CEDULA": "1379440072",
+            "NOMBRES": "EVER CARLOS SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.100.465",
+            "FIRMA ELLECTRONICA": "EVER CARLOS SÁNCHEZ - 1379440072"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "391262104277",
+            "NOMBRES": "EVER CARLOS SÁNCHEZ",
+            "CREDITO": "19.700.842",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "326.346",
+            "FIRMA ELLECTRONICA": "EVER CARLOS SÁNCHEZ - 1379440072",
+            "AL PIE DE LA FIRMA": "EVER CARLOS SÁNCHEZ - 1379440072"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1379440072",
+            "NOMBRES": "EVER CARLOS SÁNCHEZ",
+            "FECHA NACIMIENTO": "29/05/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.700.842",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EVER CARLOS SÁNCHEZ - 1379440072",
+            "AL PIE DE LA FIRMA": "EVER CARLOS SÁNCHEZ - 1379440072"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1600140",
+            "CEDULA": "1379440072",
+            "NOMBRES": "EVER CARLOS SÁNCHEZ",
+            "CREDITO": "19.700.842",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "326.346",
+            "E.A": "24.88%",
+            "RECOMPRA O DESEMBOLSO": "2.100.465",
+            "FIRMA ELLECTRONICA": "EVER CARLOS SÁNCHEZ - 1379440072"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1379440072",
+            "NOMBRES": "EVER CARLOS SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "EVER CARLOS SÁNCHEZ - 1379440072"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1379440072",
+            "NOMBRES": "EVER CARLOS SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "EVER CARLOS SÁNCHEZ - 1379440072",
+            "AL PIE DE LA FIRMA": "EVER CARLOS SÁNCHEZ - 1379440072"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EVER CARLOS SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1379440072",
+            "NOMBRES": "EVER CARLOS SÁNCHEZ",
+            "SALARIO": "3.392.036",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1379440072",
+            "NOMBRES": "EVER CARLOS SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.100.465"
+        }
+    }
+]

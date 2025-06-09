@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "865123102929",
+            "SOLICITUD": "5030537",
+            "CEDULA": "1961946327",
+            "NOMBRES": "ÁNGEL JUAN HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.584.680",
+            "FIRMA ELLECTRONICA": "ÁNGEL JUAN HURTADO - 1961946327"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "865123102929",
+            "NOMBRES": "ÁNGEL JUAN HURTADO",
+            "CREDITO": "12.280.878",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "141.004",
+            "FIRMA ELLECTRONICA": "ÁNGEL JUAN HURTADO - 1961946327",
+            "AL PIE DE LA FIRMA": "ÁNGEL JUAN HURTADO - 1961946327"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1961946327",
+            "NOMBRES": "ÁNGEL JUAN HURTADO",
+            "FECHA NACIMIENTO": "04/09/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.280.878",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ÁNGEL JUAN HURTADO - 1961946327",
+            "AL PIE DE LA FIRMA": "ÁNGEL JUAN HURTADO - 1961946327"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5030537",
+            "CEDULA": "1961946327",
+            "NOMBRES": "ÁNGEL JUAN HURTADO",
+            "CREDITO": "12.280.878",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "141.004",
+            "E.A": "28.08%",
+            "RECOMPRA O DESEMBOLSO": "3.584.680",
+            "FIRMA ELLECTRONICA": "ÁNGEL JUAN HURTADO - 1961946327"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1961946327",
+            "NOMBRES": "ÁNGEL JUAN HURTADO",
+            "FIRMA ELLECTRONICA": "ÁNGEL JUAN HURTADO - 1961946327"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1961946327",
+            "NOMBRES": "ÁNGEL JUAN HURTADO",
+            "FIRMA ELLECTRONICA": "ÁNGEL JUAN HURTADO - 1961946327",
+            "AL PIE DE LA FIRMA": "ÁNGEL JUAN HURTADO - 1961946327"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL JUAN HURTADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1961946327",
+            "NOMBRES": "ÁNGEL JUAN HURTADO",
+            "SALARIO": "3.619.345",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1961946327",
+            "NOMBRES": "ÁNGEL JUAN HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.584.680"
+        }
+    }
+]

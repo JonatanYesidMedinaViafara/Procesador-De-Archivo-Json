@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "383339398485",
+            "SOLICITUD": "7047517",
+            "CEDULA": "1599851662",
+            "NOMBRES": "ARMANDO SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "2.353.991",
+            "FIRMA ELLECTRONICA": "ARMANDO SANDOVAL - 1599851662"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "383339398485",
+            "NOMBRES": "ARMANDO SANDOVAL",
+            "CREDITO": "19.641.721",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "360.118",
+            "FIRMA ELLECTRONICA": "ARMANDO SANDOVAL - 1599851662",
+            "AL PIE DE LA FIRMA": "ARMANDO SANDOVAL - 1599851662"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1599851662",
+            "NOMBRES": "ARMANDO SANDOVAL",
+            "FECHA NACIMIENTO": "09/09/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.641.721",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ARMANDO SANDOVAL - 1599851662",
+            "AL PIE DE LA FIRMA": "ARMANDO SANDOVAL - 1599851662"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7047517",
+            "CEDULA": "1599851662",
+            "NOMBRES": "ARMANDO SANDOVAL",
+            "CREDITO": "19.641.721",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "360.118",
+            "E.A": "21.4%",
+            "RECOMPRA O DESEMBOLSO": "2.353.991",
+            "FIRMA ELLECTRONICA": "ARMANDO SANDOVAL - 1599851662"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1599851662",
+            "NOMBRES": "ARMANDO SANDOVAL",
+            "FIRMA ELLECTRONICA": "ARMANDO SANDOVAL - 1599851662"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1599851662",
+            "NOMBRES": "ARMANDO SANDOVAL",
+            "FIRMA ELLECTRONICA": "ARMANDO SANDOVAL - 1599851662",
+            "AL PIE DE LA FIRMA": "ARMANDO SANDOVAL - 1599851662"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARMANDO SANDOVAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1599851662",
+            "NOMBRES": "ARMANDO SANDOVAL",
+            "SALARIO": "2.790.789",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1599851662",
+            "NOMBRES": "ARMANDO SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "2.353.991"
+        }
+    }
+]

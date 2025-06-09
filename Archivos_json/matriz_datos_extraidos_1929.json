@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "172895059513",
+            "SOLICITUD": "5410057",
+            "CEDULA": "1266415926",
+            "NOMBRES": "OLGA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.587.465",
+            "FIRMA ELLECTRONICA": "OLGA MUÑOZ - 1266415926"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "172895059513",
+            "NOMBRES": "OLGA MUÑOZ",
+            "CREDITO": "16.914.544",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.738",
+            "FIRMA ELLECTRONICA": "OLGA MUÑOZ - 1266415926",
+            "AL PIE DE LA FIRMA": "OLGA MUÑOZ - 1266415926"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1266415926",
+            "NOMBRES": "OLGA MUÑOZ",
+            "FECHA NACIMIENTO": "09/10/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.914.544",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "OLGA MUÑOZ - 1266415926",
+            "AL PIE DE LA FIRMA": "OLGA MUÑOZ - 1266415926"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5410057",
+            "CEDULA": "1266415926",
+            "NOMBRES": "OLGA MUÑOZ",
+            "CREDITO": "16.914.544",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.738",
+            "E.A": "25.07%",
+            "RECOMPRA O DESEMBOLSO": "4.587.465",
+            "FIRMA ELLECTRONICA": "OLGA MUÑOZ - 1266415926"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1266415926",
+            "NOMBRES": "OLGA MUÑOZ",
+            "FIRMA ELLECTRONICA": "OLGA MUÑOZ - 1266415926"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1266415926",
+            "NOMBRES": "OLGA MUÑOZ",
+            "FIRMA ELLECTRONICA": "OLGA MUÑOZ - 1266415926",
+            "AL PIE DE LA FIRMA": "OLGA MUÑOZ - 1266415926"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OLGA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1266415926",
+            "NOMBRES": "OLGA MUÑOZ",
+            "SALARIO": "1.369.689",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1266415926",
+            "NOMBRES": "OLGA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.587.465"
+        }
+    }
+]

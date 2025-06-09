@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "482853284443",
+            "SOLICITUD": "2865482",
+            "CEDULA": "1294699174",
+            "NOMBRES": "EDITH MOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.554.042",
+            "FIRMA ELLECTRONICA": "EDITH MOLANO - 1294699174"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "482853284443",
+            "NOMBRES": "EDITH MOLANO",
+            "CREDITO": "14.221.402",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "259.829",
+            "FIRMA ELLECTRONICA": "EDITH MOLANO - 1294699174",
+            "AL PIE DE LA FIRMA": "EDITH MOLANO - 1294699174"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1294699174",
+            "NOMBRES": "EDITH MOLANO",
+            "FECHA NACIMIENTO": "11/08/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.221.402",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EDITH MOLANO - 1294699174",
+            "AL PIE DE LA FIRMA": "EDITH MOLANO - 1294699174"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2865482",
+            "CEDULA": "1294699174",
+            "NOMBRES": "EDITH MOLANO",
+            "CREDITO": "14.221.402",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "259.829",
+            "E.A": "18.42%",
+            "RECOMPRA O DESEMBOLSO": "2.554.042",
+            "FIRMA ELLECTRONICA": "EDITH MOLANO - 1294699174"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1294699174",
+            "NOMBRES": "EDITH MOLANO",
+            "FIRMA ELLECTRONICA": "EDITH MOLANO - 1294699174"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1294699174",
+            "NOMBRES": "EDITH MOLANO",
+            "FIRMA ELLECTRONICA": "EDITH MOLANO - 1294699174",
+            "AL PIE DE LA FIRMA": "EDITH MOLANO - 1294699174"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDITH MOLANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1294699174",
+            "NOMBRES": "EDITH MOLANO",
+            "SALARIO": "2.436.839",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1294699174",
+            "NOMBRES": "EDITH MOLANO",
+            "RECOMPRA O DESEMBOLSO": "2.554.042"
+        }
+    }
+]

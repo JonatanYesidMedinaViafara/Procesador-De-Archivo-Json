@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "542633573257",
+            "SOLICITUD": "8590844",
+            "CEDULA": "1812202059",
+            "NOMBRES": "RAFAEL VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.438.299",
+            "FIRMA ELLECTRONICA": "RAFAEL VÁSQUEZ - 1812202059"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "542633573257",
+            "NOMBRES": "RAFAEL VÁSQUEZ",
+            "CREDITO": "9.991.399",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.827",
+            "FIRMA ELLECTRONICA": "RAFAEL VÁSQUEZ - 1812202059",
+            "AL PIE DE LA FIRMA": "RAFAEL VÁSQUEZ - 1812202059"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1812202059",
+            "NOMBRES": "RAFAEL VÁSQUEZ",
+            "FECHA NACIMIENTO": "11/06/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.991.399",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "RAFAEL VÁSQUEZ - 1812202059",
+            "AL PIE DE LA FIRMA": "RAFAEL VÁSQUEZ - 1812202059"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8590844",
+            "CEDULA": "1812202059",
+            "NOMBRES": "RAFAEL VÁSQUEZ",
+            "CREDITO": "9.991.399",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.827",
+            "E.A": "23.13%",
+            "RECOMPRA O DESEMBOLSO": "1.438.299",
+            "FIRMA ELLECTRONICA": "RAFAEL VÁSQUEZ - 1812202059"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1812202059",
+            "NOMBRES": "RAFAEL VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "RAFAEL VÁSQUEZ - 1812202059"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1812202059",
+            "NOMBRES": "RAFAEL VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "RAFAEL VÁSQUEZ - 1812202059",
+            "AL PIE DE LA FIRMA": "RAFAEL VÁSQUEZ - 1812202059"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL VÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1812202059",
+            "NOMBRES": "RAFAEL VÁSQUEZ",
+            "SALARIO": "3.151.147",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1812202059",
+            "NOMBRES": "RAFAEL VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.438.299"
+        }
+    }
+]

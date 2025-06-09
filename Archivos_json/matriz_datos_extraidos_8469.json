@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "418839116077",
+            "SOLICITUD": "4138282",
+            "CEDULA": "1898883136",
+            "NOMBRES": "JUAN MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.657.338",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1898883136"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "418839116077",
+            "NOMBRES": "JUAN MEDINA",
+            "CREDITO": "7.889.254",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "341.856",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1898883136",
+            "AL PIE DE LA FIRMA": "JUAN MEDINA - 1898883136"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1898883136",
+            "NOMBRES": "JUAN MEDINA",
+            "FECHA NACIMIENTO": "16/09/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.889.254",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1898883136",
+            "AL PIE DE LA FIRMA": "JUAN MEDINA - 1898883136"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4138282",
+            "CEDULA": "1898883136",
+            "NOMBRES": "JUAN MEDINA",
+            "CREDITO": "7.889.254",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "341.856",
+            "E.A": "24.28%",
+            "RECOMPRA O DESEMBOLSO": "3.657.338",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1898883136"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1898883136",
+            "NOMBRES": "JUAN MEDINA",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1898883136"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1898883136",
+            "NOMBRES": "JUAN MEDINA",
+            "FIRMA ELLECTRONICA": "JUAN MEDINA - 1898883136",
+            "AL PIE DE LA FIRMA": "JUAN MEDINA - 1898883136"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1898883136",
+            "NOMBRES": "JUAN MEDINA",
+            "SALARIO": "4.674.009",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "24/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1898883136",
+            "NOMBRES": "JUAN MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.657.338"
+        }
+    }
+]

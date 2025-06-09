@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "313505483346",
+            "SOLICITUD": "6956374",
+            "CEDULA": "1274787069",
+            "NOMBRES": "DANIEL SOTO ROSERO",
+            "RECOMPRA O DESEMBOLSO": "2.968.116",
+            "FIRMA ELLECTRONICA": "DANIEL SOTO ROSERO - 1274787069"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "313505483346",
+            "NOMBRES": "DANIEL SOTO ROSERO",
+            "CREDITO": "16.170.123",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.188",
+            "FIRMA ELLECTRONICA": "DANIEL SOTO ROSERO - 1274787069",
+            "AL PIE DE LA FIRMA": "DANIEL SOTO ROSERO - 1274787069"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1274787069",
+            "NOMBRES": "DANIEL SOTO ROSERO",
+            "FECHA NACIMIENTO": "07/10/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.170.123",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DANIEL SOTO ROSERO - 1274787069",
+            "AL PIE DE LA FIRMA": "DANIEL SOTO ROSERO - 1274787069"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6956374",
+            "CEDULA": "1274787069",
+            "NOMBRES": "DANIEL SOTO ROSERO",
+            "CREDITO": "16.170.123",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.188",
+            "E.A": "25.29%",
+            "RECOMPRA O DESEMBOLSO": "2.968.116",
+            "FIRMA ELLECTRONICA": "DANIEL SOTO ROSERO - 1274787069"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1274787069",
+            "NOMBRES": "DANIEL SOTO ROSERO",
+            "FIRMA ELLECTRONICA": "DANIEL SOTO ROSERO - 1274787069"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1274787069",
+            "NOMBRES": "DANIEL SOTO ROSERO",
+            "FIRMA ELLECTRONICA": "DANIEL SOTO ROSERO - 1274787069",
+            "AL PIE DE LA FIRMA": "DANIEL SOTO ROSERO - 1274787069"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL SOTO ROSERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1274787069",
+            "NOMBRES": "DANIEL SOTO ROSERO",
+            "SALARIO": "2.694.130",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1274787069",
+            "NOMBRES": "DANIEL SOTO ROSERO",
+            "RECOMPRA O DESEMBOLSO": "2.968.116"
+        }
+    }
+]

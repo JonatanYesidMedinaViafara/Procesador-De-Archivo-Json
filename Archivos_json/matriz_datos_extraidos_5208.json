@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "986909643376",
+            "SOLICITUD": "6773211",
+            "CEDULA": "1184338245",
+            "NOMBRES": "HERNÁN MENA RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.803.975",
+            "FIRMA ELLECTRONICA": "HERNÁN MENA RINCÓN - 1184338245"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "986909643376",
+            "NOMBRES": "HERNÁN MENA RINCÓN",
+            "CREDITO": "12.129.479",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "191.568",
+            "FIRMA ELLECTRONICA": "HERNÁN MENA RINCÓN - 1184338245",
+            "AL PIE DE LA FIRMA": "HERNÁN MENA RINCÓN - 1184338245"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1184338245",
+            "NOMBRES": "HERNÁN MENA RINCÓN",
+            "FECHA NACIMIENTO": "13/12/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.129.479",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "HERNÁN MENA RINCÓN - 1184338245",
+            "AL PIE DE LA FIRMA": "HERNÁN MENA RINCÓN - 1184338245"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6773211",
+            "CEDULA": "1184338245",
+            "NOMBRES": "HERNÁN MENA RINCÓN",
+            "CREDITO": "12.129.479",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "191.568",
+            "E.A": "27.09%",
+            "RECOMPRA O DESEMBOLSO": "3.803.975",
+            "FIRMA ELLECTRONICA": "HERNÁN MENA RINCÓN - 1184338245"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1184338245",
+            "NOMBRES": "HERNÁN MENA RINCÓN",
+            "FIRMA ELLECTRONICA": "HERNÁN MENA RINCÓN - 1184338245"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1184338245",
+            "NOMBRES": "HERNÁN MENA RINCÓN",
+            "FIRMA ELLECTRONICA": "HERNÁN MENA RINCÓN - 1184338245",
+            "AL PIE DE LA FIRMA": "HERNÁN MENA RINCÓN - 1184338245"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNÁN MENA RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1184338245",
+            "NOMBRES": "HERNÁN MENA RINCÓN",
+            "SALARIO": "2.299.854",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1184338245",
+            "NOMBRES": "HERNÁN MENA RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.803.975"
+        }
+    }
+]

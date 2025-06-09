@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "318156692329",
+            "SOLICITUD": "1248970",
+            "CEDULA": "1160207177",
+            "NOMBRES": "DAVID RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.354.098",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1160207177"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "318156692329",
+            "NOMBRES": "DAVID RÍOS",
+            "CREDITO": "14.936.944",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "118.904",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1160207177",
+            "AL PIE DE LA FIRMA": "DAVID RÍOS - 1160207177"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1160207177",
+            "NOMBRES": "DAVID RÍOS",
+            "FECHA NACIMIENTO": "03/08/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.936.944",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1160207177",
+            "AL PIE DE LA FIRMA": "DAVID RÍOS - 1160207177"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1248970",
+            "CEDULA": "1160207177",
+            "NOMBRES": "DAVID RÍOS",
+            "CREDITO": "14.936.944",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "118.904",
+            "E.A": "23.41%",
+            "RECOMPRA O DESEMBOLSO": "3.354.098",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1160207177"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1160207177",
+            "NOMBRES": "DAVID RÍOS",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1160207177"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1160207177",
+            "NOMBRES": "DAVID RÍOS",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1160207177",
+            "AL PIE DE LA FIRMA": "DAVID RÍOS - 1160207177"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1160207177",
+            "NOMBRES": "DAVID RÍOS",
+            "SALARIO": "4.406.308",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1160207177",
+            "NOMBRES": "DAVID RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.354.098"
+        }
+    }
+]

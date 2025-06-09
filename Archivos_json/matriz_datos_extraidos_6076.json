@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "914823405097",
+            "SOLICITUD": "8154347",
+            "CEDULA": "1583489784",
+            "NOMBRES": "GERALDINE LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.613.699",
+            "FIRMA ELLECTRONICA": "GERALDINE LÓPEZ - 1583489784"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "914823405097",
+            "NOMBRES": "GERALDINE LÓPEZ",
+            "CREDITO": "8.556.200",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "302.962",
+            "FIRMA ELLECTRONICA": "GERALDINE LÓPEZ - 1583489784",
+            "AL PIE DE LA FIRMA": "GERALDINE LÓPEZ - 1583489784"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1583489784",
+            "NOMBRES": "GERALDINE LÓPEZ",
+            "FECHA NACIMIENTO": "06/10/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.556.200",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "GERALDINE LÓPEZ - 1583489784",
+            "AL PIE DE LA FIRMA": "GERALDINE LÓPEZ - 1583489784"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8154347",
+            "CEDULA": "1583489784",
+            "NOMBRES": "GERALDINE LÓPEZ",
+            "CREDITO": "8.556.200",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "302.962",
+            "E.A": "27.64%",
+            "RECOMPRA O DESEMBOLSO": "4.613.699",
+            "FIRMA ELLECTRONICA": "GERALDINE LÓPEZ - 1583489784"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1583489784",
+            "NOMBRES": "GERALDINE LÓPEZ",
+            "FIRMA ELLECTRONICA": "GERALDINE LÓPEZ - 1583489784"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1583489784",
+            "NOMBRES": "GERALDINE LÓPEZ",
+            "FIRMA ELLECTRONICA": "GERALDINE LÓPEZ - 1583489784",
+            "AL PIE DE LA FIRMA": "GERALDINE LÓPEZ - 1583489784"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GERALDINE LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1583489784",
+            "NOMBRES": "GERALDINE LÓPEZ",
+            "SALARIO": "1.705.379",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1583489784",
+            "NOMBRES": "GERALDINE LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.613.699"
+        }
+    }
+]

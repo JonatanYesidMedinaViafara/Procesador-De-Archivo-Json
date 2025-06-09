@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "607306001800",
+            "SOLICITUD": "2922608",
+            "CEDULA": "1478033183",
+            "NOMBRES": "ALBERTO STIVEN LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.247.446",
+            "FIRMA ELLECTRONICA": "ALBERTO STIVEN LÓPEZ - 1478033183"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "607306001800",
+            "NOMBRES": "ALBERTO STIVEN LÓPEZ",
+            "CREDITO": "14.271.388",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "204.572",
+            "FIRMA ELLECTRONICA": "ALBERTO STIVEN LÓPEZ - 1478033183",
+            "AL PIE DE LA FIRMA": "ALBERTO STIVEN LÓPEZ - 1478033183"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1478033183",
+            "NOMBRES": "ALBERTO STIVEN LÓPEZ",
+            "FECHA NACIMIENTO": "20/02/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.271.388",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALBERTO STIVEN LÓPEZ - 1478033183",
+            "AL PIE DE LA FIRMA": "ALBERTO STIVEN LÓPEZ - 1478033183"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2922608",
+            "CEDULA": "1478033183",
+            "NOMBRES": "ALBERTO STIVEN LÓPEZ",
+            "CREDITO": "14.271.388",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "204.572",
+            "E.A": "24.65%",
+            "RECOMPRA O DESEMBOLSO": "1.247.446",
+            "FIRMA ELLECTRONICA": "ALBERTO STIVEN LÓPEZ - 1478033183"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1478033183",
+            "NOMBRES": "ALBERTO STIVEN LÓPEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO STIVEN LÓPEZ - 1478033183"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1478033183",
+            "NOMBRES": "ALBERTO STIVEN LÓPEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO STIVEN LÓPEZ - 1478033183",
+            "AL PIE DE LA FIRMA": "ALBERTO STIVEN LÓPEZ - 1478033183"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO STIVEN LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1478033183",
+            "NOMBRES": "ALBERTO STIVEN LÓPEZ",
+            "SALARIO": "2.614.530",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1478033183",
+            "NOMBRES": "ALBERTO STIVEN LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.247.446"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "545242760253",
+            "SOLICITUD": "5456083",
+            "CEDULA": "1567363163",
+            "NOMBRES": "RODRIGO LUIS VILLEGAS",
+            "RECOMPRA O DESEMBOLSO": "3.010.763",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS VILLEGAS - 1567363163"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "545242760253",
+            "NOMBRES": "RODRIGO LUIS VILLEGAS",
+            "CREDITO": "7.974.002",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "366.459",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS VILLEGAS - 1567363163",
+            "AL PIE DE LA FIRMA": "RODRIGO LUIS VILLEGAS - 1567363163"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1567363163",
+            "NOMBRES": "RODRIGO LUIS VILLEGAS",
+            "FECHA NACIMIENTO": "21/04/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.974.002",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS VILLEGAS - 1567363163",
+            "AL PIE DE LA FIRMA": "RODRIGO LUIS VILLEGAS - 1567363163"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5456083",
+            "CEDULA": "1567363163",
+            "NOMBRES": "RODRIGO LUIS VILLEGAS",
+            "CREDITO": "7.974.002",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "366.459",
+            "E.A": "26.95%",
+            "RECOMPRA O DESEMBOLSO": "3.010.763",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS VILLEGAS - 1567363163"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1567363163",
+            "NOMBRES": "RODRIGO LUIS VILLEGAS",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS VILLEGAS - 1567363163"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1567363163",
+            "NOMBRES": "RODRIGO LUIS VILLEGAS",
+            "FIRMA ELLECTRONICA": "RODRIGO LUIS VILLEGAS - 1567363163",
+            "AL PIE DE LA FIRMA": "RODRIGO LUIS VILLEGAS - 1567363163"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RODRIGO LUIS VILLEGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1567363163",
+            "NOMBRES": "RODRIGO LUIS VILLEGAS",
+            "SALARIO": "1.883.926",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1567363163",
+            "NOMBRES": "RODRIGO LUIS VILLEGAS",
+            "RECOMPRA O DESEMBOLSO": "3.010.763"
+        }
+    }
+]

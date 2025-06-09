@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "963355863586",
+            "SOLICITUD": "2707011",
+            "CEDULA": "1804917343",
+            "NOMBRES": "OMAR SÁNCHEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.825.792",
+            "FIRMA ELLECTRONICA": "OMAR SÁNCHEZ PÉREZ - 1804917343"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "963355863586",
+            "NOMBRES": "OMAR SÁNCHEZ PÉREZ",
+            "CREDITO": "9.605.029",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "155.132",
+            "FIRMA ELLECTRONICA": "OMAR SÁNCHEZ PÉREZ - 1804917343",
+            "AL PIE DE LA FIRMA": "OMAR SÁNCHEZ PÉREZ - 1804917343"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1804917343",
+            "NOMBRES": "OMAR SÁNCHEZ PÉREZ",
+            "FECHA NACIMIENTO": "20/08/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.605.029",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "OMAR SÁNCHEZ PÉREZ - 1804917343",
+            "AL PIE DE LA FIRMA": "OMAR SÁNCHEZ PÉREZ - 1804917343"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2707011",
+            "CEDULA": "1804917343",
+            "NOMBRES": "OMAR SÁNCHEZ PÉREZ",
+            "CREDITO": "9.605.029",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "155.132",
+            "E.A": "19.19%",
+            "RECOMPRA O DESEMBOLSO": "3.825.792",
+            "FIRMA ELLECTRONICA": "OMAR SÁNCHEZ PÉREZ - 1804917343"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1804917343",
+            "NOMBRES": "OMAR SÁNCHEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "OMAR SÁNCHEZ PÉREZ - 1804917343"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1804917343",
+            "NOMBRES": "OMAR SÁNCHEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "OMAR SÁNCHEZ PÉREZ - 1804917343",
+            "AL PIE DE LA FIRMA": "OMAR SÁNCHEZ PÉREZ - 1804917343"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR SÁNCHEZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1804917343",
+            "NOMBRES": "OMAR SÁNCHEZ PÉREZ",
+            "SALARIO": "4.437.836",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1804917343",
+            "NOMBRES": "OMAR SÁNCHEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.825.792"
+        }
+    }
+]

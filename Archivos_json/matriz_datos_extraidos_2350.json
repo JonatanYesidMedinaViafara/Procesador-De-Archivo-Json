@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "216872982826",
+            "SOLICITUD": "5062601",
+            "CEDULA": "1486687250",
+            "NOMBRES": "DAVID DAVID BUSTOS",
+            "RECOMPRA O DESEMBOLSO": "3.844.104",
+            "FIRMA ELLECTRONICA": "DAVID DAVID BUSTOS - 1486687250"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "216872982826",
+            "NOMBRES": "DAVID DAVID BUSTOS",
+            "CREDITO": "10.730.814",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "181.106",
+            "FIRMA ELLECTRONICA": "DAVID DAVID BUSTOS - 1486687250",
+            "AL PIE DE LA FIRMA": "DAVID DAVID BUSTOS - 1486687250"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1486687250",
+            "NOMBRES": "DAVID DAVID BUSTOS",
+            "FECHA NACIMIENTO": "17/05/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.730.814",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DAVID DAVID BUSTOS - 1486687250",
+            "AL PIE DE LA FIRMA": "DAVID DAVID BUSTOS - 1486687250"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5062601",
+            "CEDULA": "1486687250",
+            "NOMBRES": "DAVID DAVID BUSTOS",
+            "CREDITO": "10.730.814",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "181.106",
+            "E.A": "26.97%",
+            "RECOMPRA O DESEMBOLSO": "3.844.104",
+            "FIRMA ELLECTRONICA": "DAVID DAVID BUSTOS - 1486687250"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1486687250",
+            "NOMBRES": "DAVID DAVID BUSTOS",
+            "FIRMA ELLECTRONICA": "DAVID DAVID BUSTOS - 1486687250"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1486687250",
+            "NOMBRES": "DAVID DAVID BUSTOS",
+            "FIRMA ELLECTRONICA": "DAVID DAVID BUSTOS - 1486687250",
+            "AL PIE DE LA FIRMA": "DAVID DAVID BUSTOS - 1486687250"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID DAVID BUSTOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1486687250",
+            "NOMBRES": "DAVID DAVID BUSTOS",
+            "SALARIO": "2.155.255",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1486687250",
+            "NOMBRES": "DAVID DAVID BUSTOS",
+            "RECOMPRA O DESEMBOLSO": "3.844.104"
+        }
+    }
+]

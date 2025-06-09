@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "458076002788",
+            "SOLICITUD": "5646717",
+            "CEDULA": "1149316084",
+            "NOMBRES": "LUZ RUIZ",
+            "RECOMPRA O DESEMBOLSO": "2.756.323",
+            "FIRMA ELLECTRONICA": "LUZ RUIZ - 1149316084"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "458076002788",
+            "NOMBRES": "LUZ RUIZ",
+            "CREDITO": "13.524.096",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "261.189",
+            "FIRMA ELLECTRONICA": "LUZ RUIZ - 1149316084",
+            "AL PIE DE LA FIRMA": "LUZ RUIZ - 1149316084"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1149316084",
+            "NOMBRES": "LUZ RUIZ",
+            "FECHA NACIMIENTO": "01/04/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.524.096",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ RUIZ - 1149316084",
+            "AL PIE DE LA FIRMA": "LUZ RUIZ - 1149316084"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5646717",
+            "CEDULA": "1149316084",
+            "NOMBRES": "LUZ RUIZ",
+            "CREDITO": "13.524.096",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "261.189",
+            "E.A": "20.94%",
+            "RECOMPRA O DESEMBOLSO": "2.756.323",
+            "FIRMA ELLECTRONICA": "LUZ RUIZ - 1149316084"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1149316084",
+            "NOMBRES": "LUZ RUIZ",
+            "FIRMA ELLECTRONICA": "LUZ RUIZ - 1149316084"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1149316084",
+            "NOMBRES": "LUZ RUIZ",
+            "FIRMA ELLECTRONICA": "LUZ RUIZ - 1149316084",
+            "AL PIE DE LA FIRMA": "LUZ RUIZ - 1149316084"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1149316084",
+            "NOMBRES": "LUZ RUIZ",
+            "SALARIO": "4.355.453",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1149316084",
+            "NOMBRES": "LUZ RUIZ",
+            "RECOMPRA O DESEMBOLSO": "2.756.323"
+        }
+    }
+]

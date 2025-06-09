@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "197317459216",
+            "SOLICITUD": "7035044",
+            "CEDULA": "1652014934",
+            "NOMBRES": "JAVIER MURILLO PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.226.390",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO PEÑA - 1652014934"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "197317459216",
+            "NOMBRES": "JAVIER MURILLO PEÑA",
+            "CREDITO": "10.836.729",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "128.506",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO PEÑA - 1652014934",
+            "AL PIE DE LA FIRMA": "JAVIER MURILLO PEÑA - 1652014934"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1652014934",
+            "NOMBRES": "JAVIER MURILLO PEÑA",
+            "FECHA NACIMIENTO": "20/02/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.836.729",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO PEÑA - 1652014934",
+            "AL PIE DE LA FIRMA": "JAVIER MURILLO PEÑA - 1652014934"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7035044",
+            "CEDULA": "1652014934",
+            "NOMBRES": "JAVIER MURILLO PEÑA",
+            "CREDITO": "10.836.729",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "128.506",
+            "E.A": "18.96%",
+            "RECOMPRA O DESEMBOLSO": "2.226.390",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO PEÑA - 1652014934"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1652014934",
+            "NOMBRES": "JAVIER MURILLO PEÑA",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO PEÑA - 1652014934"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1652014934",
+            "NOMBRES": "JAVIER MURILLO PEÑA",
+            "FIRMA ELLECTRONICA": "JAVIER MURILLO PEÑA - 1652014934",
+            "AL PIE DE LA FIRMA": "JAVIER MURILLO PEÑA - 1652014934"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER MURILLO PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1652014934",
+            "NOMBRES": "JAVIER MURILLO PEÑA",
+            "SALARIO": "1.858.762",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1652014934",
+            "NOMBRES": "JAVIER MURILLO PEÑA",
+            "RECOMPRA O DESEMBOLSO": "2.226.390"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "500652128964",
+            "SOLICITUD": "4248269",
+            "CEDULA": "1856489839",
+            "NOMBRES": "JAIRO ANDRÉS CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.156.343",
+            "FIRMA ELLECTRONICA": "JAIRO ANDRÉS CASTILLO - 1856489839"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "500652128964",
+            "NOMBRES": "JAIRO ANDRÉS CASTILLO",
+            "CREDITO": "7.307.213",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "209.23",
+            "FIRMA ELLECTRONICA": "JAIRO ANDRÉS CASTILLO - 1856489839",
+            "AL PIE DE LA FIRMA": "JAIRO ANDRÉS CASTILLO - 1856489839"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1856489839",
+            "NOMBRES": "JAIRO ANDRÉS CASTILLO",
+            "FECHA NACIMIENTO": "14/01/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.307.213",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAIRO ANDRÉS CASTILLO - 1856489839",
+            "AL PIE DE LA FIRMA": "JAIRO ANDRÉS CASTILLO - 1856489839"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4248269",
+            "CEDULA": "1856489839",
+            "NOMBRES": "JAIRO ANDRÉS CASTILLO",
+            "CREDITO": "7.307.213",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "209.23",
+            "E.A": "19.04%",
+            "RECOMPRA O DESEMBOLSO": "3.156.343",
+            "FIRMA ELLECTRONICA": "JAIRO ANDRÉS CASTILLO - 1856489839"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1856489839",
+            "NOMBRES": "JAIRO ANDRÉS CASTILLO",
+            "FIRMA ELLECTRONICA": "JAIRO ANDRÉS CASTILLO - 1856489839"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1856489839",
+            "NOMBRES": "JAIRO ANDRÉS CASTILLO",
+            "FIRMA ELLECTRONICA": "JAIRO ANDRÉS CASTILLO - 1856489839",
+            "AL PIE DE LA FIRMA": "JAIRO ANDRÉS CASTILLO - 1856489839"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIRO ANDRÉS CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1856489839",
+            "NOMBRES": "JAIRO ANDRÉS CASTILLO",
+            "SALARIO": "1.306.460",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1856489839",
+            "NOMBRES": "JAIRO ANDRÉS CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.156.343"
+        }
+    }
+]

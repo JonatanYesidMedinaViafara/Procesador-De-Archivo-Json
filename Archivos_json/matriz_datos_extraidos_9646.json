@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "235720454396",
+            "SOLICITUD": "5560507",
+            "CEDULA": "1187975244",
+            "NOMBRES": "MIGUEL ALBERTO DELGADO",
+            "RECOMPRA O DESEMBOLSO": "1.834.054",
+            "FIRMA ELLECTRONICA": "MIGUEL ALBERTO DELGADO - 1187975244"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "235720454396",
+            "NOMBRES": "MIGUEL ALBERTO DELGADO",
+            "CREDITO": "19.256.358",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "300.637",
+            "FIRMA ELLECTRONICA": "MIGUEL ALBERTO DELGADO - 1187975244",
+            "AL PIE DE LA FIRMA": "MIGUEL ALBERTO DELGADO - 1187975244"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1187975244",
+            "NOMBRES": "MIGUEL ALBERTO DELGADO",
+            "FECHA NACIMIENTO": "20/02/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.256.358",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MIGUEL ALBERTO DELGADO - 1187975244",
+            "AL PIE DE LA FIRMA": "MIGUEL ALBERTO DELGADO - 1187975244"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5560507",
+            "CEDULA": "1187975244",
+            "NOMBRES": "MIGUEL ALBERTO DELGADO",
+            "CREDITO": "19.256.358",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "300.637",
+            "E.A": "28.08%",
+            "RECOMPRA O DESEMBOLSO": "1.834.054",
+            "FIRMA ELLECTRONICA": "MIGUEL ALBERTO DELGADO - 1187975244"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1187975244",
+            "NOMBRES": "MIGUEL ALBERTO DELGADO",
+            "FIRMA ELLECTRONICA": "MIGUEL ALBERTO DELGADO - 1187975244"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1187975244",
+            "NOMBRES": "MIGUEL ALBERTO DELGADO",
+            "FIRMA ELLECTRONICA": "MIGUEL ALBERTO DELGADO - 1187975244",
+            "AL PIE DE LA FIRMA": "MIGUEL ALBERTO DELGADO - 1187975244"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL ALBERTO DELGADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1187975244",
+            "NOMBRES": "MIGUEL ALBERTO DELGADO",
+            "SALARIO": "3.429.506",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1187975244",
+            "NOMBRES": "MIGUEL ALBERTO DELGADO",
+            "RECOMPRA O DESEMBOLSO": "1.834.054"
+        }
+    }
+]

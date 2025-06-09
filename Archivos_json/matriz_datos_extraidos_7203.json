@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "455040874276",
+            "SOLICITUD": "2757252",
+            "CEDULA": "1367033210",
+            "NOMBRES": "CONSTANZA HOYOS PÁEZ",
+            "RECOMPRA O DESEMBOLSO": "2.293.770",
+            "FIRMA ELLECTRONICA": "CONSTANZA HOYOS PÁEZ - 1367033210"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "455040874276",
+            "NOMBRES": "CONSTANZA HOYOS PÁEZ",
+            "CREDITO": "16.548.541",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "177.165",
+            "FIRMA ELLECTRONICA": "CONSTANZA HOYOS PÁEZ - 1367033210",
+            "AL PIE DE LA FIRMA": "CONSTANZA HOYOS PÁEZ - 1367033210"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1367033210",
+            "NOMBRES": "CONSTANZA HOYOS PÁEZ",
+            "FECHA NACIMIENTO": "04/08/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.548.541",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CONSTANZA HOYOS PÁEZ - 1367033210",
+            "AL PIE DE LA FIRMA": "CONSTANZA HOYOS PÁEZ - 1367033210"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2757252",
+            "CEDULA": "1367033210",
+            "NOMBRES": "CONSTANZA HOYOS PÁEZ",
+            "CREDITO": "16.548.541",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "177.165",
+            "E.A": "21.43%",
+            "RECOMPRA O DESEMBOLSO": "2.293.770",
+            "FIRMA ELLECTRONICA": "CONSTANZA HOYOS PÁEZ - 1367033210"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1367033210",
+            "NOMBRES": "CONSTANZA HOYOS PÁEZ",
+            "FIRMA ELLECTRONICA": "CONSTANZA HOYOS PÁEZ - 1367033210"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1367033210",
+            "NOMBRES": "CONSTANZA HOYOS PÁEZ",
+            "FIRMA ELLECTRONICA": "CONSTANZA HOYOS PÁEZ - 1367033210",
+            "AL PIE DE LA FIRMA": "CONSTANZA HOYOS PÁEZ - 1367033210"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CONSTANZA HOYOS PÁEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1367033210",
+            "NOMBRES": "CONSTANZA HOYOS PÁEZ",
+            "SALARIO": "3.572.382",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1367033210",
+            "NOMBRES": "CONSTANZA HOYOS PÁEZ",
+            "RECOMPRA O DESEMBOLSO": "2.293.770"
+        }
+    }
+]

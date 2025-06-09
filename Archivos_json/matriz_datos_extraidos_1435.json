@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "999103427864",
+            "SOLICITUD": "7001619",
+            "CEDULA": "1434129588",
+            "NOMBRES": "ANTONIO MIGUEL MUÑOZ BETANCUR",
+            "RECOMPRA O DESEMBOLSO": "4.320.171",
+            "FIRMA ELLECTRONICA": "ANTONIO MIGUEL MUÑOZ BETANCUR - 1434129588"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "999103427864",
+            "NOMBRES": "ANTONIO MIGUEL MUÑOZ BETANCUR",
+            "CREDITO": "15.526.565",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "142.404",
+            "FIRMA ELLECTRONICA": "ANTONIO MIGUEL MUÑOZ BETANCUR - 1434129588",
+            "AL PIE DE LA FIRMA": "ANTONIO MIGUEL MUÑOZ BETANCUR - 1434129588"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1434129588",
+            "NOMBRES": "ANTONIO MIGUEL MUÑOZ BETANCUR",
+            "FECHA NACIMIENTO": "15/12/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.526.565",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANTONIO MIGUEL MUÑOZ BETANCUR - 1434129588",
+            "AL PIE DE LA FIRMA": "ANTONIO MIGUEL MUÑOZ BETANCUR - 1434129588"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7001619",
+            "CEDULA": "1434129588",
+            "NOMBRES": "ANTONIO MIGUEL MUÑOZ BETANCUR",
+            "CREDITO": "15.526.565",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "142.404",
+            "E.A": "21.93%",
+            "RECOMPRA O DESEMBOLSO": "4.320.171",
+            "FIRMA ELLECTRONICA": "ANTONIO MIGUEL MUÑOZ BETANCUR - 1434129588"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1434129588",
+            "NOMBRES": "ANTONIO MIGUEL MUÑOZ BETANCUR",
+            "FIRMA ELLECTRONICA": "ANTONIO MIGUEL MUÑOZ BETANCUR - 1434129588"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1434129588",
+            "NOMBRES": "ANTONIO MIGUEL MUÑOZ BETANCUR",
+            "FIRMA ELLECTRONICA": "ANTONIO MIGUEL MUÑOZ BETANCUR - 1434129588",
+            "AL PIE DE LA FIRMA": "ANTONIO MIGUEL MUÑOZ BETANCUR - 1434129588"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO MIGUEL MUÑOZ BETANCUR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1434129588",
+            "NOMBRES": "ANTONIO MIGUEL MUÑOZ BETANCUR",
+            "SALARIO": "1.360.233",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1434129588",
+            "NOMBRES": "ANTONIO MIGUEL MUÑOZ BETANCUR",
+            "RECOMPRA O DESEMBOLSO": "4.320.171"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "652193852567",
+            "SOLICITUD": "4888193",
+            "CEDULA": "1832602093",
+            "NOMBRES": "DARIO OSPINA",
+            "RECOMPRA O DESEMBOLSO": "1.651.517",
+            "FIRMA ELLECTRONICA": "DARIO OSPINA - 1832602093"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "652193852567",
+            "NOMBRES": "DARIO OSPINA",
+            "CREDITO": "14.201.749",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "338.787",
+            "FIRMA ELLECTRONICA": "DARIO OSPINA - 1832602093",
+            "AL PIE DE LA FIRMA": "DARIO OSPINA - 1832602093"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1832602093",
+            "NOMBRES": "DARIO OSPINA",
+            "FECHA NACIMIENTO": "07/03/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.201.749",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DARIO OSPINA - 1832602093",
+            "AL PIE DE LA FIRMA": "DARIO OSPINA - 1832602093"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4888193",
+            "CEDULA": "1832602093",
+            "NOMBRES": "DARIO OSPINA",
+            "CREDITO": "14.201.749",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "338.787",
+            "E.A": "28.29%",
+            "RECOMPRA O DESEMBOLSO": "1.651.517",
+            "FIRMA ELLECTRONICA": "DARIO OSPINA - 1832602093"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1832602093",
+            "NOMBRES": "DARIO OSPINA",
+            "FIRMA ELLECTRONICA": "DARIO OSPINA - 1832602093"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1832602093",
+            "NOMBRES": "DARIO OSPINA",
+            "FIRMA ELLECTRONICA": "DARIO OSPINA - 1832602093",
+            "AL PIE DE LA FIRMA": "DARIO OSPINA - 1832602093"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO OSPINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1832602093",
+            "NOMBRES": "DARIO OSPINA",
+            "SALARIO": "3.169.435",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1832602093",
+            "NOMBRES": "DARIO OSPINA",
+            "RECOMPRA O DESEMBOLSO": "1.651.517"
+        }
+    }
+]

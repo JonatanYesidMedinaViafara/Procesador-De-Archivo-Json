@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "974145495154",
+            "SOLICITUD": "8426000",
+            "CEDULA": "1216334787",
+            "NOMBRES": "CECILIA RAMÍREZ CORREA",
+            "RECOMPRA O DESEMBOLSO": "3.804.954",
+            "FIRMA ELLECTRONICA": "CECILIA RAMÍREZ CORREA - 1216334787"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "974145495154",
+            "NOMBRES": "CECILIA RAMÍREZ CORREA",
+            "CREDITO": "10.635.446",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "107.044",
+            "FIRMA ELLECTRONICA": "CECILIA RAMÍREZ CORREA - 1216334787",
+            "AL PIE DE LA FIRMA": "CECILIA RAMÍREZ CORREA - 1216334787"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1216334787",
+            "NOMBRES": "CECILIA RAMÍREZ CORREA",
+            "FECHA NACIMIENTO": "09/04/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.635.446",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CECILIA RAMÍREZ CORREA - 1216334787",
+            "AL PIE DE LA FIRMA": "CECILIA RAMÍREZ CORREA - 1216334787"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8426000",
+            "CEDULA": "1216334787",
+            "NOMBRES": "CECILIA RAMÍREZ CORREA",
+            "CREDITO": "10.635.446",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "107.044",
+            "E.A": "24.36%",
+            "RECOMPRA O DESEMBOLSO": "3.804.954",
+            "FIRMA ELLECTRONICA": "CECILIA RAMÍREZ CORREA - 1216334787"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1216334787",
+            "NOMBRES": "CECILIA RAMÍREZ CORREA",
+            "FIRMA ELLECTRONICA": "CECILIA RAMÍREZ CORREA - 1216334787"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1216334787",
+            "NOMBRES": "CECILIA RAMÍREZ CORREA",
+            "FIRMA ELLECTRONICA": "CECILIA RAMÍREZ CORREA - 1216334787",
+            "AL PIE DE LA FIRMA": "CECILIA RAMÍREZ CORREA - 1216334787"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA RAMÍREZ CORREA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1216334787",
+            "NOMBRES": "CECILIA RAMÍREZ CORREA",
+            "SALARIO": "4.692.646",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1216334787",
+            "NOMBRES": "CECILIA RAMÍREZ CORREA",
+            "RECOMPRA O DESEMBOLSO": "3.804.954"
+        }
+    }
+]

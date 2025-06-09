@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "155162826898",
+            "SOLICITUD": "6452888",
+            "CEDULA": "1235794085",
+            "NOMBRES": "MARÍA GAITÁN",
+            "RECOMPRA O DESEMBOLSO": "1.916.516",
+            "FIRMA ELLECTRONICA": "MARÍA GAITÁN - 1235794085"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "155162826898",
+            "NOMBRES": "MARÍA GAITÁN",
+            "CREDITO": "17.380.994",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "334.315",
+            "FIRMA ELLECTRONICA": "MARÍA GAITÁN - 1235794085",
+            "AL PIE DE LA FIRMA": "MARÍA GAITÁN - 1235794085"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1235794085",
+            "NOMBRES": "MARÍA GAITÁN",
+            "FECHA NACIMIENTO": "12/06/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.380.994",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA GAITÁN - 1235794085",
+            "AL PIE DE LA FIRMA": "MARÍA GAITÁN - 1235794085"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6452888",
+            "CEDULA": "1235794085",
+            "NOMBRES": "MARÍA GAITÁN",
+            "CREDITO": "17.380.994",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "334.315",
+            "E.A": "25.38%",
+            "RECOMPRA O DESEMBOLSO": "1.916.516",
+            "FIRMA ELLECTRONICA": "MARÍA GAITÁN - 1235794085"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1235794085",
+            "NOMBRES": "MARÍA GAITÁN",
+            "FIRMA ELLECTRONICA": "MARÍA GAITÁN - 1235794085"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1235794085",
+            "NOMBRES": "MARÍA GAITÁN",
+            "FIRMA ELLECTRONICA": "MARÍA GAITÁN - 1235794085",
+            "AL PIE DE LA FIRMA": "MARÍA GAITÁN - 1235794085"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA GAITÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1235794085",
+            "NOMBRES": "MARÍA GAITÁN",
+            "SALARIO": "4.764.221",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1235794085",
+            "NOMBRES": "MARÍA GAITÁN",
+            "RECOMPRA O DESEMBOLSO": "1.916.516"
+        }
+    }
+]

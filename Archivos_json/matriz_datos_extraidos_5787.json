@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "945946761162",
+            "SOLICITUD": "8099896",
+            "CEDULA": "1946052406",
+            "NOMBRES": "DORA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.735.606",
+            "FIRMA ELLECTRONICA": "DORA SÁNCHEZ - 1946052406"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "945946761162",
+            "NOMBRES": "DORA SÁNCHEZ",
+            "CREDITO": "17.016.889",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "328.928",
+            "FIRMA ELLECTRONICA": "DORA SÁNCHEZ - 1946052406",
+            "AL PIE DE LA FIRMA": "DORA SÁNCHEZ - 1946052406"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1946052406",
+            "NOMBRES": "DORA SÁNCHEZ",
+            "FECHA NACIMIENTO": "14/12/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.016.889",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DORA SÁNCHEZ - 1946052406",
+            "AL PIE DE LA FIRMA": "DORA SÁNCHEZ - 1946052406"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8099896",
+            "CEDULA": "1946052406",
+            "NOMBRES": "DORA SÁNCHEZ",
+            "CREDITO": "17.016.889",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "328.928",
+            "E.A": "28.21%",
+            "RECOMPRA O DESEMBOLSO": "4.735.606",
+            "FIRMA ELLECTRONICA": "DORA SÁNCHEZ - 1946052406"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1946052406",
+            "NOMBRES": "DORA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "DORA SÁNCHEZ - 1946052406"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1946052406",
+            "NOMBRES": "DORA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "DORA SÁNCHEZ - 1946052406",
+            "AL PIE DE LA FIRMA": "DORA SÁNCHEZ - 1946052406"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DORA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1946052406",
+            "NOMBRES": "DORA SÁNCHEZ",
+            "SALARIO": "3.841.206",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1946052406",
+            "NOMBRES": "DORA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.735.606"
+        }
+    }
+]

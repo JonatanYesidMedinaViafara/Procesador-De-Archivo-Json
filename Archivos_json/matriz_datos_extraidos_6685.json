@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "154494049402",
+            "SOLICITUD": "7475681",
+            "CEDULA": "1800637416",
+            "NOMBRES": "JOSÉ DUARTE",
+            "RECOMPRA O DESEMBOLSO": "4.983.564",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE - 1800637416"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "154494049402",
+            "NOMBRES": "JOSÉ DUARTE",
+            "CREDITO": "16.772.120",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "209.699",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE - 1800637416",
+            "AL PIE DE LA FIRMA": "JOSÉ DUARTE - 1800637416"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1800637416",
+            "NOMBRES": "JOSÉ DUARTE",
+            "FECHA NACIMIENTO": "09/04/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.772.120",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE - 1800637416",
+            "AL PIE DE LA FIRMA": "JOSÉ DUARTE - 1800637416"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7475681",
+            "CEDULA": "1800637416",
+            "NOMBRES": "JOSÉ DUARTE",
+            "CREDITO": "16.772.120",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "209.699",
+            "E.A": "19.53%",
+            "RECOMPRA O DESEMBOLSO": "4.983.564",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE - 1800637416"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1800637416",
+            "NOMBRES": "JOSÉ DUARTE",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE - 1800637416"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1800637416",
+            "NOMBRES": "JOSÉ DUARTE",
+            "FIRMA ELLECTRONICA": "JOSÉ DUARTE - 1800637416",
+            "AL PIE DE LA FIRMA": "JOSÉ DUARTE - 1800637416"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ DUARTE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1800637416",
+            "NOMBRES": "JOSÉ DUARTE",
+            "SALARIO": "3.635.099",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1800637416",
+            "NOMBRES": "JOSÉ DUARTE",
+            "RECOMPRA O DESEMBOLSO": "4.983.564"
+        }
+    }
+]

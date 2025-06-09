@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "368048961777",
+            "SOLICITUD": "3177406",
+            "CEDULA": "1757179020",
+            "NOMBRES": "EMMA ÁNGEL TRIANA",
+            "RECOMPRA O DESEMBOLSO": "4.167.684",
+            "FIRMA ELLECTRONICA": "EMMA ÁNGEL TRIANA - 1757179020"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "368048961777",
+            "NOMBRES": "EMMA ÁNGEL TRIANA",
+            "CREDITO": "10.093.720",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "305.792",
+            "FIRMA ELLECTRONICA": "EMMA ÁNGEL TRIANA - 1757179020",
+            "AL PIE DE LA FIRMA": "EMMA ÁNGEL TRIANA - 1757179020"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1757179020",
+            "NOMBRES": "EMMA ÁNGEL TRIANA",
+            "FECHA NACIMIENTO": "13/06/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.093.720",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EMMA ÁNGEL TRIANA - 1757179020",
+            "AL PIE DE LA FIRMA": "EMMA ÁNGEL TRIANA - 1757179020"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3177406",
+            "CEDULA": "1757179020",
+            "NOMBRES": "EMMA ÁNGEL TRIANA",
+            "CREDITO": "10.093.720",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "305.792",
+            "E.A": "26.68%",
+            "RECOMPRA O DESEMBOLSO": "4.167.684",
+            "FIRMA ELLECTRONICA": "EMMA ÁNGEL TRIANA - 1757179020"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1757179020",
+            "NOMBRES": "EMMA ÁNGEL TRIANA",
+            "FIRMA ELLECTRONICA": "EMMA ÁNGEL TRIANA - 1757179020"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1757179020",
+            "NOMBRES": "EMMA ÁNGEL TRIANA",
+            "FIRMA ELLECTRONICA": "EMMA ÁNGEL TRIANA - 1757179020",
+            "AL PIE DE LA FIRMA": "EMMA ÁNGEL TRIANA - 1757179020"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMMA ÁNGEL TRIANA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1757179020",
+            "NOMBRES": "EMMA ÁNGEL TRIANA",
+            "SALARIO": "4.330.370",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1757179020",
+            "NOMBRES": "EMMA ÁNGEL TRIANA",
+            "RECOMPRA O DESEMBOLSO": "4.167.684"
+        }
+    }
+]

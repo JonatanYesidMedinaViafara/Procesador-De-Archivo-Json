@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "231842176493",
+            "SOLICITUD": "3522085",
+            "CEDULA": "1812745821",
+            "NOMBRES": "JOSÉ SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.691.122",
+            "FIRMA ELLECTRONICA": "JOSÉ SUÁREZ - 1812745821"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "231842176493",
+            "NOMBRES": "JOSÉ SUÁREZ",
+            "CREDITO": "5.910.083",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "329.689",
+            "FIRMA ELLECTRONICA": "JOSÉ SUÁREZ - 1812745821",
+            "AL PIE DE LA FIRMA": "JOSÉ SUÁREZ - 1812745821"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1812745821",
+            "NOMBRES": "JOSÉ SUÁREZ",
+            "FECHA NACIMIENTO": "31/08/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.910.083",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ SUÁREZ - 1812745821",
+            "AL PIE DE LA FIRMA": "JOSÉ SUÁREZ - 1812745821"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3522085",
+            "CEDULA": "1812745821",
+            "NOMBRES": "JOSÉ SUÁREZ",
+            "CREDITO": "5.910.083",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "329.689",
+            "E.A": "20.89%",
+            "RECOMPRA O DESEMBOLSO": "2.691.122",
+            "FIRMA ELLECTRONICA": "JOSÉ SUÁREZ - 1812745821"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1812745821",
+            "NOMBRES": "JOSÉ SUÁREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ SUÁREZ - 1812745821"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1812745821",
+            "NOMBRES": "JOSÉ SUÁREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ SUÁREZ - 1812745821",
+            "AL PIE DE LA FIRMA": "JOSÉ SUÁREZ - 1812745821"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1812745821",
+            "NOMBRES": "JOSÉ SUÁREZ",
+            "SALARIO": "3.221.670",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1812745821",
+            "NOMBRES": "JOSÉ SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.691.122"
+        }
+    }
+]

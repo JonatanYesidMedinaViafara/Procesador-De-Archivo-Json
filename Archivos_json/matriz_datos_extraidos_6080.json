@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "222098280256",
+            "SOLICITUD": "1802418",
+            "CEDULA": "1918515813",
+            "NOMBRES": "LUIS BUITRAGO",
+            "RECOMPRA O DESEMBOLSO": "2.202.981",
+            "FIRMA ELLECTRONICA": "LUIS BUITRAGO - 1918515813"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "222098280256",
+            "NOMBRES": "LUIS BUITRAGO",
+            "CREDITO": "14.836.140",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "340.597",
+            "FIRMA ELLECTRONICA": "LUIS BUITRAGO - 1918515813",
+            "AL PIE DE LA FIRMA": "LUIS BUITRAGO - 1918515813"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1918515813",
+            "NOMBRES": "LUIS BUITRAGO",
+            "FECHA NACIMIENTO": "01/09/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.836.140",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUIS BUITRAGO - 1918515813",
+            "AL PIE DE LA FIRMA": "LUIS BUITRAGO - 1918515813"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1802418",
+            "CEDULA": "1918515813",
+            "NOMBRES": "LUIS BUITRAGO",
+            "CREDITO": "14.836.140",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "340.597",
+            "E.A": "27.93%",
+            "RECOMPRA O DESEMBOLSO": "2.202.981",
+            "FIRMA ELLECTRONICA": "LUIS BUITRAGO - 1918515813"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1918515813",
+            "NOMBRES": "LUIS BUITRAGO",
+            "FIRMA ELLECTRONICA": "LUIS BUITRAGO - 1918515813"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1918515813",
+            "NOMBRES": "LUIS BUITRAGO",
+            "FIRMA ELLECTRONICA": "LUIS BUITRAGO - 1918515813",
+            "AL PIE DE LA FIRMA": "LUIS BUITRAGO - 1918515813"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS BUITRAGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1918515813",
+            "NOMBRES": "LUIS BUITRAGO",
+            "SALARIO": "2.659.834",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1918515813",
+            "NOMBRES": "LUIS BUITRAGO",
+            "RECOMPRA O DESEMBOLSO": "2.202.981"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "315352414496",
+            "SOLICITUD": "2857653",
+            "CEDULA": "1657204844",
+            "NOMBRES": "ANDRÉS ÓSCAR REYES ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "3.124.342",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÓSCAR REYES ORTIZ - 1657204844"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "315352414496",
+            "NOMBRES": "ANDRÉS ÓSCAR REYES ORTIZ",
+            "CREDITO": "15.144.881",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "179.788",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÓSCAR REYES ORTIZ - 1657204844",
+            "AL PIE DE LA FIRMA": "ANDRÉS ÓSCAR REYES ORTIZ - 1657204844"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1657204844",
+            "NOMBRES": "ANDRÉS ÓSCAR REYES ORTIZ",
+            "FECHA NACIMIENTO": "05/09/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.144.881",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÓSCAR REYES ORTIZ - 1657204844",
+            "AL PIE DE LA FIRMA": "ANDRÉS ÓSCAR REYES ORTIZ - 1657204844"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2857653",
+            "CEDULA": "1657204844",
+            "NOMBRES": "ANDRÉS ÓSCAR REYES ORTIZ",
+            "CREDITO": "15.144.881",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "179.788",
+            "E.A": "19.08%",
+            "RECOMPRA O DESEMBOLSO": "3.124.342",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÓSCAR REYES ORTIZ - 1657204844"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1657204844",
+            "NOMBRES": "ANDRÉS ÓSCAR REYES ORTIZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÓSCAR REYES ORTIZ - 1657204844"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1657204844",
+            "NOMBRES": "ANDRÉS ÓSCAR REYES ORTIZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS ÓSCAR REYES ORTIZ - 1657204844",
+            "AL PIE DE LA FIRMA": "ANDRÉS ÓSCAR REYES ORTIZ - 1657204844"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ÓSCAR REYES ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1657204844",
+            "NOMBRES": "ANDRÉS ÓSCAR REYES ORTIZ",
+            "SALARIO": "2.803.315",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1657204844",
+            "NOMBRES": "ANDRÉS ÓSCAR REYES ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "3.124.342"
+        }
+    }
+]

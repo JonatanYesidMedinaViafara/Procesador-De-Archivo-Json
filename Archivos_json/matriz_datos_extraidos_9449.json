@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "830608330039",
+            "SOLICITUD": "4261902",
+            "CEDULA": "1065053138",
+            "NOMBRES": "MARÍA VERA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.282.582",
+            "FIRMA ELLECTRONICA": "MARÍA VERA GONZÁLEZ - 1065053138"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "830608330039",
+            "NOMBRES": "MARÍA VERA GONZÁLEZ",
+            "CREDITO": "8.337.182",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "211.351",
+            "FIRMA ELLECTRONICA": "MARÍA VERA GONZÁLEZ - 1065053138",
+            "AL PIE DE LA FIRMA": "MARÍA VERA GONZÁLEZ - 1065053138"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1065053138",
+            "NOMBRES": "MARÍA VERA GONZÁLEZ",
+            "FECHA NACIMIENTO": "29/06/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.337.182",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA VERA GONZÁLEZ - 1065053138",
+            "AL PIE DE LA FIRMA": "MARÍA VERA GONZÁLEZ - 1065053138"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4261902",
+            "CEDULA": "1065053138",
+            "NOMBRES": "MARÍA VERA GONZÁLEZ",
+            "CREDITO": "8.337.182",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "211.351",
+            "E.A": "28.68%",
+            "RECOMPRA O DESEMBOLSO": "4.282.582",
+            "FIRMA ELLECTRONICA": "MARÍA VERA GONZÁLEZ - 1065053138"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1065053138",
+            "NOMBRES": "MARÍA VERA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARÍA VERA GONZÁLEZ - 1065053138"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1065053138",
+            "NOMBRES": "MARÍA VERA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARÍA VERA GONZÁLEZ - 1065053138",
+            "AL PIE DE LA FIRMA": "MARÍA VERA GONZÁLEZ - 1065053138"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA VERA GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1065053138",
+            "NOMBRES": "MARÍA VERA GONZÁLEZ",
+            "SALARIO": "4.154.350",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1065053138",
+            "NOMBRES": "MARÍA VERA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.282.582"
+        }
+    }
+]

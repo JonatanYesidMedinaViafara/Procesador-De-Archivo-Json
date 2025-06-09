@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "301765248511",
+            "SOLICITUD": "9408871",
+            "CEDULA": "1192954246",
+            "NOMBRES": "JAIME MOISÉS GONZÁLEZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.675.732",
+            "FIRMA ELLECTRONICA": "JAIME MOISÉS GONZÁLEZ MUÑOZ - 1192954246"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "301765248511",
+            "NOMBRES": "JAIME MOISÉS GONZÁLEZ MUÑOZ",
+            "CREDITO": "17.633.415",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "328.083",
+            "FIRMA ELLECTRONICA": "JAIME MOISÉS GONZÁLEZ MUÑOZ - 1192954246",
+            "AL PIE DE LA FIRMA": "JAIME MOISÉS GONZÁLEZ MUÑOZ - 1192954246"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1192954246",
+            "NOMBRES": "JAIME MOISÉS GONZÁLEZ MUÑOZ",
+            "FECHA NACIMIENTO": "27/08/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.633.415",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JAIME MOISÉS GONZÁLEZ MUÑOZ - 1192954246",
+            "AL PIE DE LA FIRMA": "JAIME MOISÉS GONZÁLEZ MUÑOZ - 1192954246"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9408871",
+            "CEDULA": "1192954246",
+            "NOMBRES": "JAIME MOISÉS GONZÁLEZ MUÑOZ",
+            "CREDITO": "17.633.415",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "328.083",
+            "E.A": "28.9%",
+            "RECOMPRA O DESEMBOLSO": "3.675.732",
+            "FIRMA ELLECTRONICA": "JAIME MOISÉS GONZÁLEZ MUÑOZ - 1192954246"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1192954246",
+            "NOMBRES": "JAIME MOISÉS GONZÁLEZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "JAIME MOISÉS GONZÁLEZ MUÑOZ - 1192954246"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1192954246",
+            "NOMBRES": "JAIME MOISÉS GONZÁLEZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "JAIME MOISÉS GONZÁLEZ MUÑOZ - 1192954246",
+            "AL PIE DE LA FIRMA": "JAIME MOISÉS GONZÁLEZ MUÑOZ - 1192954246"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIME MOISÉS GONZÁLEZ MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1192954246",
+            "NOMBRES": "JAIME MOISÉS GONZÁLEZ MUÑOZ",
+            "SALARIO": "1.344.034",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1192954246",
+            "NOMBRES": "JAIME MOISÉS GONZÁLEZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.675.732"
+        }
+    }
+]

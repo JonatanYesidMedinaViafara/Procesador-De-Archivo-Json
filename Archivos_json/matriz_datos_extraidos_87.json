@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "528122520792",
+            "SOLICITUD": "7136073",
+            "CEDULA": "1093697546",
+            "NOMBRES": "MARÍA BEATRIZ GUERRERO BERNAL",
+            "RECOMPRA O DESEMBOLSO": "3.772.746",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ GUERRERO BERNAL - 1093697546"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "528122520792",
+            "NOMBRES": "MARÍA BEATRIZ GUERRERO BERNAL",
+            "CREDITO": "6.675.725",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.048",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ GUERRERO BERNAL - 1093697546",
+            "AL PIE DE LA FIRMA": "MARÍA BEATRIZ GUERRERO BERNAL - 1093697546"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1093697546",
+            "NOMBRES": "MARÍA BEATRIZ GUERRERO BERNAL",
+            "FECHA NACIMIENTO": "11/09/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.675.725",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ GUERRERO BERNAL - 1093697546",
+            "AL PIE DE LA FIRMA": "MARÍA BEATRIZ GUERRERO BERNAL - 1093697546"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7136073",
+            "CEDULA": "1093697546",
+            "NOMBRES": "MARÍA BEATRIZ GUERRERO BERNAL",
+            "CREDITO": "6.675.725",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.048",
+            "E.A": "21.85%",
+            "RECOMPRA O DESEMBOLSO": "3.772.746",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ GUERRERO BERNAL - 1093697546"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1093697546",
+            "NOMBRES": "MARÍA BEATRIZ GUERRERO BERNAL",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ GUERRERO BERNAL - 1093697546"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1093697546",
+            "NOMBRES": "MARÍA BEATRIZ GUERRERO BERNAL",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ GUERRERO BERNAL - 1093697546",
+            "AL PIE DE LA FIRMA": "MARÍA BEATRIZ GUERRERO BERNAL - 1093697546"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA BEATRIZ GUERRERO BERNAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1093697546",
+            "NOMBRES": "MARÍA BEATRIZ GUERRERO BERNAL",
+            "SALARIO": "3.959.721",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1093697546",
+            "NOMBRES": "MARÍA BEATRIZ GUERRERO BERNAL",
+            "RECOMPRA O DESEMBOLSO": "3.772.746"
+        }
+    }
+]

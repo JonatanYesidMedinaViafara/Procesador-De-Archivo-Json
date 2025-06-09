@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "771072804929",
+            "SOLICITUD": "2602310",
+            "CEDULA": "1855357013",
+            "NOMBRES": "JULIÁN DUARTE",
+            "RECOMPRA O DESEMBOLSO": "3.333.252",
+            "FIRMA ELLECTRONICA": "JULIÁN DUARTE - 1855357013"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "771072804929",
+            "NOMBRES": "JULIÁN DUARTE",
+            "CREDITO": "6.274.120",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "342.663",
+            "FIRMA ELLECTRONICA": "JULIÁN DUARTE - 1855357013",
+            "AL PIE DE LA FIRMA": "JULIÁN DUARTE - 1855357013"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1855357013",
+            "NOMBRES": "JULIÁN DUARTE",
+            "FECHA NACIMIENTO": "10/06/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.274.120",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JULIÁN DUARTE - 1855357013",
+            "AL PIE DE LA FIRMA": "JULIÁN DUARTE - 1855357013"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2602310",
+            "CEDULA": "1855357013",
+            "NOMBRES": "JULIÁN DUARTE",
+            "CREDITO": "6.274.120",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "342.663",
+            "E.A": "27.68%",
+            "RECOMPRA O DESEMBOLSO": "3.333.252",
+            "FIRMA ELLECTRONICA": "JULIÁN DUARTE - 1855357013"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1855357013",
+            "NOMBRES": "JULIÁN DUARTE",
+            "FIRMA ELLECTRONICA": "JULIÁN DUARTE - 1855357013"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1855357013",
+            "NOMBRES": "JULIÁN DUARTE",
+            "FIRMA ELLECTRONICA": "JULIÁN DUARTE - 1855357013",
+            "AL PIE DE LA FIRMA": "JULIÁN DUARTE - 1855357013"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIÁN DUARTE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1855357013",
+            "NOMBRES": "JULIÁN DUARTE",
+            "SALARIO": "4.741.396",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1855357013",
+            "NOMBRES": "JULIÁN DUARTE",
+            "RECOMPRA O DESEMBOLSO": "3.333.252"
+        }
+    }
+]

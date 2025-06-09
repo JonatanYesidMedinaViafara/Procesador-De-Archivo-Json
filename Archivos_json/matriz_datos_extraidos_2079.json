@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "390674356606",
+            "SOLICITUD": "8151206",
+            "CEDULA": "1164965181",
+            "NOMBRES": "JORGE PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.837.885",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1164965181"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "390674356606",
+            "NOMBRES": "JORGE PÉREZ",
+            "CREDITO": "5.046.778",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "341.865",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1164965181",
+            "AL PIE DE LA FIRMA": "JORGE PÉREZ - 1164965181"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1164965181",
+            "NOMBRES": "JORGE PÉREZ",
+            "FECHA NACIMIENTO": "09/08/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.046.778",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1164965181",
+            "AL PIE DE LA FIRMA": "JORGE PÉREZ - 1164965181"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8151206",
+            "CEDULA": "1164965181",
+            "NOMBRES": "JORGE PÉREZ",
+            "CREDITO": "5.046.778",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "341.865",
+            "E.A": "27.53%",
+            "RECOMPRA O DESEMBOLSO": "3.837.885",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1164965181"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1164965181",
+            "NOMBRES": "JORGE PÉREZ",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1164965181"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1164965181",
+            "NOMBRES": "JORGE PÉREZ",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1164965181",
+            "AL PIE DE LA FIRMA": "JORGE PÉREZ - 1164965181"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1164965181",
+            "NOMBRES": "JORGE PÉREZ",
+            "SALARIO": "4.971.970",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1164965181",
+            "NOMBRES": "JORGE PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.837.885"
+        }
+    }
+]

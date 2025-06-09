@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "763677747963",
+            "SOLICITUD": "5520984",
+            "CEDULA": "1761031549",
+            "NOMBRES": "HUGO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.012.754",
+            "FIRMA ELLECTRONICA": "HUGO PÉREZ - 1761031549"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "763677747963",
+            "NOMBRES": "HUGO PÉREZ",
+            "CREDITO": "12.120.891",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "212.474",
+            "FIRMA ELLECTRONICA": "HUGO PÉREZ - 1761031549",
+            "AL PIE DE LA FIRMA": "HUGO PÉREZ - 1761031549"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1761031549",
+            "NOMBRES": "HUGO PÉREZ",
+            "FECHA NACIMIENTO": "31/05/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.120.891",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "HUGO PÉREZ - 1761031549",
+            "AL PIE DE LA FIRMA": "HUGO PÉREZ - 1761031549"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5520984",
+            "CEDULA": "1761031549",
+            "NOMBRES": "HUGO PÉREZ",
+            "CREDITO": "12.120.891",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "212.474",
+            "E.A": "24.13%",
+            "RECOMPRA O DESEMBOLSO": "3.012.754",
+            "FIRMA ELLECTRONICA": "HUGO PÉREZ - 1761031549"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1761031549",
+            "NOMBRES": "HUGO PÉREZ",
+            "FIRMA ELLECTRONICA": "HUGO PÉREZ - 1761031549"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1761031549",
+            "NOMBRES": "HUGO PÉREZ",
+            "FIRMA ELLECTRONICA": "HUGO PÉREZ - 1761031549",
+            "AL PIE DE LA FIRMA": "HUGO PÉREZ - 1761031549"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HUGO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1761031549",
+            "NOMBRES": "HUGO PÉREZ",
+            "SALARIO": "3.112.985",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1761031549",
+            "NOMBRES": "HUGO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.012.754"
+        }
+    }
+]

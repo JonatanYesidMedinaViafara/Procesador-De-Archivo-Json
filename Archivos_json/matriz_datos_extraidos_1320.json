@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "999587051159",
+            "SOLICITUD": "9403842",
+            "CEDULA": "1894582903",
+            "NOMBRES": "PABLO ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "2.540.246",
+            "FIRMA ELLECTRONICA": "PABLO ACOSTA - 1894582903"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "999587051159",
+            "NOMBRES": "PABLO ACOSTA",
+            "CREDITO": "11.805.053",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "216.652",
+            "FIRMA ELLECTRONICA": "PABLO ACOSTA - 1894582903",
+            "AL PIE DE LA FIRMA": "PABLO ACOSTA - 1894582903"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1894582903",
+            "NOMBRES": "PABLO ACOSTA",
+            "FECHA NACIMIENTO": "02/08/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.805.053",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PABLO ACOSTA - 1894582903",
+            "AL PIE DE LA FIRMA": "PABLO ACOSTA - 1894582903"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9403842",
+            "CEDULA": "1894582903",
+            "NOMBRES": "PABLO ACOSTA",
+            "CREDITO": "11.805.053",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "216.652",
+            "E.A": "18.23%",
+            "RECOMPRA O DESEMBOLSO": "2.540.246",
+            "FIRMA ELLECTRONICA": "PABLO ACOSTA - 1894582903"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1894582903",
+            "NOMBRES": "PABLO ACOSTA",
+            "FIRMA ELLECTRONICA": "PABLO ACOSTA - 1894582903"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1894582903",
+            "NOMBRES": "PABLO ACOSTA",
+            "FIRMA ELLECTRONICA": "PABLO ACOSTA - 1894582903",
+            "AL PIE DE LA FIRMA": "PABLO ACOSTA - 1894582903"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1894582903",
+            "NOMBRES": "PABLO ACOSTA",
+            "SALARIO": "4.871.982",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1894582903",
+            "NOMBRES": "PABLO ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "2.540.246"
+        }
+    }
+]

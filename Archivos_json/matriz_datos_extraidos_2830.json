@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "778094387313",
+            "SOLICITUD": "9567204",
+            "CEDULA": "1187931956",
+            "NOMBRES": "ANTONIO CÉSAR PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.235.661",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR PÉREZ - 1187931956"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "778094387313",
+            "NOMBRES": "ANTONIO CÉSAR PÉREZ",
+            "CREDITO": "9.074.360",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "391.582",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR PÉREZ - 1187931956",
+            "AL PIE DE LA FIRMA": "ANTONIO CÉSAR PÉREZ - 1187931956"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1187931956",
+            "NOMBRES": "ANTONIO CÉSAR PÉREZ",
+            "FECHA NACIMIENTO": "09/05/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.074.360",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR PÉREZ - 1187931956",
+            "AL PIE DE LA FIRMA": "ANTONIO CÉSAR PÉREZ - 1187931956"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9567204",
+            "CEDULA": "1187931956",
+            "NOMBRES": "ANTONIO CÉSAR PÉREZ",
+            "CREDITO": "9.074.360",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "391.582",
+            "E.A": "22.77%",
+            "RECOMPRA O DESEMBOLSO": "3.235.661",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR PÉREZ - 1187931956"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1187931956",
+            "NOMBRES": "ANTONIO CÉSAR PÉREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR PÉREZ - 1187931956"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1187931956",
+            "NOMBRES": "ANTONIO CÉSAR PÉREZ",
+            "FIRMA ELLECTRONICA": "ANTONIO CÉSAR PÉREZ - 1187931956",
+            "AL PIE DE LA FIRMA": "ANTONIO CÉSAR PÉREZ - 1187931956"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO CÉSAR PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1187931956",
+            "NOMBRES": "ANTONIO CÉSAR PÉREZ",
+            "SALARIO": "1.968.557",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1187931956",
+            "NOMBRES": "ANTONIO CÉSAR PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.235.661"
+        }
+    }
+]

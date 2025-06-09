@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "114886884463",
+            "SOLICITUD": "7740466",
+            "CEDULA": "1098980738",
+            "NOMBRES": "ELENA RAMÍREZ SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.889.468",
+            "FIRMA ELLECTRONICA": "ELENA RAMÍREZ SÁNCHEZ - 1098980738"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "114886884463",
+            "NOMBRES": "ELENA RAMÍREZ SÁNCHEZ",
+            "CREDITO": "12.477.348",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "129.811",
+            "FIRMA ELLECTRONICA": "ELENA RAMÍREZ SÁNCHEZ - 1098980738",
+            "AL PIE DE LA FIRMA": "ELENA RAMÍREZ SÁNCHEZ - 1098980738"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1098980738",
+            "NOMBRES": "ELENA RAMÍREZ SÁNCHEZ",
+            "FECHA NACIMIENTO": "31/03/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.477.348",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ELENA RAMÍREZ SÁNCHEZ - 1098980738",
+            "AL PIE DE LA FIRMA": "ELENA RAMÍREZ SÁNCHEZ - 1098980738"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7740466",
+            "CEDULA": "1098980738",
+            "NOMBRES": "ELENA RAMÍREZ SÁNCHEZ",
+            "CREDITO": "12.477.348",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "129.811",
+            "E.A": "28.89%",
+            "RECOMPRA O DESEMBOLSO": "4.889.468",
+            "FIRMA ELLECTRONICA": "ELENA RAMÍREZ SÁNCHEZ - 1098980738"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1098980738",
+            "NOMBRES": "ELENA RAMÍREZ SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ELENA RAMÍREZ SÁNCHEZ - 1098980738"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1098980738",
+            "NOMBRES": "ELENA RAMÍREZ SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ELENA RAMÍREZ SÁNCHEZ - 1098980738",
+            "AL PIE DE LA FIRMA": "ELENA RAMÍREZ SÁNCHEZ - 1098980738"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA RAMÍREZ SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1098980738",
+            "NOMBRES": "ELENA RAMÍREZ SÁNCHEZ",
+            "SALARIO": "3.417.299",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1098980738",
+            "NOMBRES": "ELENA RAMÍREZ SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.889.468"
+        }
+    }
+]

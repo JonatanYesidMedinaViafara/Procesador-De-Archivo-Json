@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "443502759608",
+            "SOLICITUD": "5465020",
+            "CEDULA": "1324724934",
+            "NOMBRES": "CARLOS CHAPARRO MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "4.285.442",
+            "FIRMA ELLECTRONICA": "CARLOS CHAPARRO MOSQUERA - 1324724934"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "443502759608",
+            "NOMBRES": "CARLOS CHAPARRO MOSQUERA",
+            "CREDITO": "13.640.213",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "276.99",
+            "FIRMA ELLECTRONICA": "CARLOS CHAPARRO MOSQUERA - 1324724934",
+            "AL PIE DE LA FIRMA": "CARLOS CHAPARRO MOSQUERA - 1324724934"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1324724934",
+            "NOMBRES": "CARLOS CHAPARRO MOSQUERA",
+            "FECHA NACIMIENTO": "22/05/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.640.213",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARLOS CHAPARRO MOSQUERA - 1324724934",
+            "AL PIE DE LA FIRMA": "CARLOS CHAPARRO MOSQUERA - 1324724934"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5465020",
+            "CEDULA": "1324724934",
+            "NOMBRES": "CARLOS CHAPARRO MOSQUERA",
+            "CREDITO": "13.640.213",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "276.99",
+            "E.A": "22.92%",
+            "RECOMPRA O DESEMBOLSO": "4.285.442",
+            "FIRMA ELLECTRONICA": "CARLOS CHAPARRO MOSQUERA - 1324724934"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1324724934",
+            "NOMBRES": "CARLOS CHAPARRO MOSQUERA",
+            "FIRMA ELLECTRONICA": "CARLOS CHAPARRO MOSQUERA - 1324724934"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1324724934",
+            "NOMBRES": "CARLOS CHAPARRO MOSQUERA",
+            "FIRMA ELLECTRONICA": "CARLOS CHAPARRO MOSQUERA - 1324724934",
+            "AL PIE DE LA FIRMA": "CARLOS CHAPARRO MOSQUERA - 1324724934"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS CHAPARRO MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1324724934",
+            "NOMBRES": "CARLOS CHAPARRO MOSQUERA",
+            "SALARIO": "3.529.258",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1324724934",
+            "NOMBRES": "CARLOS CHAPARRO MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "4.285.442"
+        }
+    }
+]

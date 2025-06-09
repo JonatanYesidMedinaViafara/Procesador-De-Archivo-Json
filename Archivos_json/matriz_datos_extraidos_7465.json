@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "431198389530",
+            "SOLICITUD": "9516789",
+            "CEDULA": "1092142842",
+            "NOMBRES": "LINDA LIZETH VANEGAS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.804.563",
+            "FIRMA ELLECTRONICA": "LINDA LIZETH VANEGAS GÓMEZ - 1092142842"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "431198389530",
+            "NOMBRES": "LINDA LIZETH VANEGAS GÓMEZ",
+            "CREDITO": "14.926.061",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "288.622",
+            "FIRMA ELLECTRONICA": "LINDA LIZETH VANEGAS GÓMEZ - 1092142842",
+            "AL PIE DE LA FIRMA": "LINDA LIZETH VANEGAS GÓMEZ - 1092142842"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1092142842",
+            "NOMBRES": "LINDA LIZETH VANEGAS GÓMEZ",
+            "FECHA NACIMIENTO": "10/06/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.926.061",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LINDA LIZETH VANEGAS GÓMEZ - 1092142842",
+            "AL PIE DE LA FIRMA": "LINDA LIZETH VANEGAS GÓMEZ - 1092142842"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9516789",
+            "CEDULA": "1092142842",
+            "NOMBRES": "LINDA LIZETH VANEGAS GÓMEZ",
+            "CREDITO": "14.926.061",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "288.622",
+            "E.A": "26.68%",
+            "RECOMPRA O DESEMBOLSO": "3.804.563",
+            "FIRMA ELLECTRONICA": "LINDA LIZETH VANEGAS GÓMEZ - 1092142842"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1092142842",
+            "NOMBRES": "LINDA LIZETH VANEGAS GÓMEZ",
+            "FIRMA ELLECTRONICA": "LINDA LIZETH VANEGAS GÓMEZ - 1092142842"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1092142842",
+            "NOMBRES": "LINDA LIZETH VANEGAS GÓMEZ",
+            "FIRMA ELLECTRONICA": "LINDA LIZETH VANEGAS GÓMEZ - 1092142842",
+            "AL PIE DE LA FIRMA": "LINDA LIZETH VANEGAS GÓMEZ - 1092142842"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LINDA LIZETH VANEGAS GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1092142842",
+            "NOMBRES": "LINDA LIZETH VANEGAS GÓMEZ",
+            "SALARIO": "4.463.004",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1092142842",
+            "NOMBRES": "LINDA LIZETH VANEGAS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.804.563"
+        }
+    }
+]

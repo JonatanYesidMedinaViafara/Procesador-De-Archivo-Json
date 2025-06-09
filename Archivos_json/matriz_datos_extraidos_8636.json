@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "553882661933",
+            "SOLICITUD": "7398675",
+            "CEDULA": "1743073053",
+            "NOMBRES": "ANDRÉS GÓMEZ CAMPO",
+            "RECOMPRA O DESEMBOLSO": "3.875.455",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ CAMPO - 1743073053"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "553882661933",
+            "NOMBRES": "ANDRÉS GÓMEZ CAMPO",
+            "CREDITO": "12.150.389",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "246.45",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ CAMPO - 1743073053",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ CAMPO - 1743073053"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1743073053",
+            "NOMBRES": "ANDRÉS GÓMEZ CAMPO",
+            "FECHA NACIMIENTO": "23/02/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.150.389",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ CAMPO - 1743073053",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ CAMPO - 1743073053"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7398675",
+            "CEDULA": "1743073053",
+            "NOMBRES": "ANDRÉS GÓMEZ CAMPO",
+            "CREDITO": "12.150.389",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "246.45",
+            "E.A": "19.1%",
+            "RECOMPRA O DESEMBOLSO": "3.875.455",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ CAMPO - 1743073053"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1743073053",
+            "NOMBRES": "ANDRÉS GÓMEZ CAMPO",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ CAMPO - 1743073053"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1743073053",
+            "NOMBRES": "ANDRÉS GÓMEZ CAMPO",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ CAMPO - 1743073053",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ CAMPO - 1743073053"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS GÓMEZ CAMPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1743073053",
+            "NOMBRES": "ANDRÉS GÓMEZ CAMPO",
+            "SALARIO": "1.440.042",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1743073053",
+            "NOMBRES": "ANDRÉS GÓMEZ CAMPO",
+            "RECOMPRA O DESEMBOLSO": "3.875.455"
+        }
+    }
+]

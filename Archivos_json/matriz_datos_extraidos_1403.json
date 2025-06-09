@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "773939621836",
+            "SOLICITUD": "3565951",
+            "CEDULA": "1239582265",
+            "NOMBRES": "MARÍA MORALES MENESES",
+            "RECOMPRA O DESEMBOLSO": "1.209.500",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES MENESES - 1239582265"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "773939621836",
+            "NOMBRES": "MARÍA MORALES MENESES",
+            "CREDITO": "9.854.636",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "224.367",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES MENESES - 1239582265",
+            "AL PIE DE LA FIRMA": "MARÍA MORALES MENESES - 1239582265"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1239582265",
+            "NOMBRES": "MARÍA MORALES MENESES",
+            "FECHA NACIMIENTO": "04/12/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.854.636",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES MENESES - 1239582265",
+            "AL PIE DE LA FIRMA": "MARÍA MORALES MENESES - 1239582265"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3565951",
+            "CEDULA": "1239582265",
+            "NOMBRES": "MARÍA MORALES MENESES",
+            "CREDITO": "9.854.636",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "224.367",
+            "E.A": "23.18%",
+            "RECOMPRA O DESEMBOLSO": "1.209.500",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES MENESES - 1239582265"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1239582265",
+            "NOMBRES": "MARÍA MORALES MENESES",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES MENESES - 1239582265"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1239582265",
+            "NOMBRES": "MARÍA MORALES MENESES",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES MENESES - 1239582265",
+            "AL PIE DE LA FIRMA": "MARÍA MORALES MENESES - 1239582265"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MORALES MENESES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1239582265",
+            "NOMBRES": "MARÍA MORALES MENESES",
+            "SALARIO": "1.209.957",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1239582265",
+            "NOMBRES": "MARÍA MORALES MENESES",
+            "RECOMPRA O DESEMBOLSO": "1.209.500"
+        }
+    }
+]

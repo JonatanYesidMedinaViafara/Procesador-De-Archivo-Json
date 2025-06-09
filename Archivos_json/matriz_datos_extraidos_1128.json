@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "962366493550",
+            "SOLICITUD": "6599584",
+            "CEDULA": "1936772959",
+            "NOMBRES": "EUGENIA MESA",
+            "RECOMPRA O DESEMBOLSO": "2.016.872",
+            "FIRMA ELLECTRONICA": "EUGENIA MESA - 1936772959"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "962366493550",
+            "NOMBRES": "EUGENIA MESA",
+            "CREDITO": "13.100.330",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "322.512",
+            "FIRMA ELLECTRONICA": "EUGENIA MESA - 1936772959",
+            "AL PIE DE LA FIRMA": "EUGENIA MESA - 1936772959"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1936772959",
+            "NOMBRES": "EUGENIA MESA",
+            "FECHA NACIMIENTO": "12/07/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.100.330",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "EUGENIA MESA - 1936772959",
+            "AL PIE DE LA FIRMA": "EUGENIA MESA - 1936772959"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6599584",
+            "CEDULA": "1936772959",
+            "NOMBRES": "EUGENIA MESA",
+            "CREDITO": "13.100.330",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "322.512",
+            "E.A": "27.23%",
+            "RECOMPRA O DESEMBOLSO": "2.016.872",
+            "FIRMA ELLECTRONICA": "EUGENIA MESA - 1936772959"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1936772959",
+            "NOMBRES": "EUGENIA MESA",
+            "FIRMA ELLECTRONICA": "EUGENIA MESA - 1936772959"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1936772959",
+            "NOMBRES": "EUGENIA MESA",
+            "FIRMA ELLECTRONICA": "EUGENIA MESA - 1936772959",
+            "AL PIE DE LA FIRMA": "EUGENIA MESA - 1936772959"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EUGENIA MESA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1936772959",
+            "NOMBRES": "EUGENIA MESA",
+            "SALARIO": "2.205.825",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1936772959",
+            "NOMBRES": "EUGENIA MESA",
+            "RECOMPRA O DESEMBOLSO": "2.016.872"
+        }
+    }
+]

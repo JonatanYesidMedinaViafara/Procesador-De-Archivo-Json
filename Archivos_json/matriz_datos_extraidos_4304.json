@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "805345044694",
+            "SOLICITUD": "3399412",
+            "CEDULA": "1757494365",
+            "NOMBRES": "JOHN ROSERO CRUZ",
+            "RECOMPRA O DESEMBOLSO": "1.283.796",
+            "FIRMA ELLECTRONICA": "JOHN ROSERO CRUZ - 1757494365"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "805345044694",
+            "NOMBRES": "JOHN ROSERO CRUZ",
+            "CREDITO": "8.336.207",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "198.195",
+            "FIRMA ELLECTRONICA": "JOHN ROSERO CRUZ - 1757494365",
+            "AL PIE DE LA FIRMA": "JOHN ROSERO CRUZ - 1757494365"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1757494365",
+            "NOMBRES": "JOHN ROSERO CRUZ",
+            "FECHA NACIMIENTO": "08/06/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.336.207",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOHN ROSERO CRUZ - 1757494365",
+            "AL PIE DE LA FIRMA": "JOHN ROSERO CRUZ - 1757494365"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3399412",
+            "CEDULA": "1757494365",
+            "NOMBRES": "JOHN ROSERO CRUZ",
+            "CREDITO": "8.336.207",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "198.195",
+            "E.A": "24.97%",
+            "RECOMPRA O DESEMBOLSO": "1.283.796",
+            "FIRMA ELLECTRONICA": "JOHN ROSERO CRUZ - 1757494365"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1757494365",
+            "NOMBRES": "JOHN ROSERO CRUZ",
+            "FIRMA ELLECTRONICA": "JOHN ROSERO CRUZ - 1757494365"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1757494365",
+            "NOMBRES": "JOHN ROSERO CRUZ",
+            "FIRMA ELLECTRONICA": "JOHN ROSERO CRUZ - 1757494365",
+            "AL PIE DE LA FIRMA": "JOHN ROSERO CRUZ - 1757494365"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN ROSERO CRUZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1757494365",
+            "NOMBRES": "JOHN ROSERO CRUZ",
+            "SALARIO": "2.566.578",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1757494365",
+            "NOMBRES": "JOHN ROSERO CRUZ",
+            "RECOMPRA O DESEMBOLSO": "1.283.796"
+        }
+    }
+]

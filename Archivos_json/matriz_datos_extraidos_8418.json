@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "950808061034",
+            "SOLICITUD": "6729445",
+            "CEDULA": "1614308035",
+            "NOMBRES": "JAVIER GERMÁN RAMÍREZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.221.296",
+            "FIRMA ELLECTRONICA": "JAVIER GERMÁN RAMÍREZ GÓMEZ - 1614308035"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "950808061034",
+            "NOMBRES": "JAVIER GERMÁN RAMÍREZ GÓMEZ",
+            "CREDITO": "14.032.603",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "341.566",
+            "FIRMA ELLECTRONICA": "JAVIER GERMÁN RAMÍREZ GÓMEZ - 1614308035",
+            "AL PIE DE LA FIRMA": "JAVIER GERMÁN RAMÍREZ GÓMEZ - 1614308035"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1614308035",
+            "NOMBRES": "JAVIER GERMÁN RAMÍREZ GÓMEZ",
+            "FECHA NACIMIENTO": "18/08/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.032.603",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAVIER GERMÁN RAMÍREZ GÓMEZ - 1614308035",
+            "AL PIE DE LA FIRMA": "JAVIER GERMÁN RAMÍREZ GÓMEZ - 1614308035"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6729445",
+            "CEDULA": "1614308035",
+            "NOMBRES": "JAVIER GERMÁN RAMÍREZ GÓMEZ",
+            "CREDITO": "14.032.603",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "341.566",
+            "E.A": "19.43%",
+            "RECOMPRA O DESEMBOLSO": "1.221.296",
+            "FIRMA ELLECTRONICA": "JAVIER GERMÁN RAMÍREZ GÓMEZ - 1614308035"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1614308035",
+            "NOMBRES": "JAVIER GERMÁN RAMÍREZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "JAVIER GERMÁN RAMÍREZ GÓMEZ - 1614308035"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1614308035",
+            "NOMBRES": "JAVIER GERMÁN RAMÍREZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "JAVIER GERMÁN RAMÍREZ GÓMEZ - 1614308035",
+            "AL PIE DE LA FIRMA": "JAVIER GERMÁN RAMÍREZ GÓMEZ - 1614308035"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER GERMÁN RAMÍREZ GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1614308035",
+            "NOMBRES": "JAVIER GERMÁN RAMÍREZ GÓMEZ",
+            "SALARIO": "3.413.270",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1614308035",
+            "NOMBRES": "JAVIER GERMÁN RAMÍREZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.221.296"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "368953717638",
+            "SOLICITUD": "4680705",
+            "CEDULA": "1196460545",
+            "NOMBRES": "MARÍA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.210.196",
+            "FIRMA ELLECTRONICA": "MARÍA HERNÁNDEZ - 1196460545"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "368953717638",
+            "NOMBRES": "MARÍA HERNÁNDEZ",
+            "CREDITO": "17.779.435",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "234.498",
+            "FIRMA ELLECTRONICA": "MARÍA HERNÁNDEZ - 1196460545",
+            "AL PIE DE LA FIRMA": "MARÍA HERNÁNDEZ - 1196460545"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1196460545",
+            "NOMBRES": "MARÍA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "13/05/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.779.435",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA HERNÁNDEZ - 1196460545",
+            "AL PIE DE LA FIRMA": "MARÍA HERNÁNDEZ - 1196460545"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4680705",
+            "CEDULA": "1196460545",
+            "NOMBRES": "MARÍA HERNÁNDEZ",
+            "CREDITO": "17.779.435",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "234.498",
+            "E.A": "20.58%",
+            "RECOMPRA O DESEMBOLSO": "2.210.196",
+            "FIRMA ELLECTRONICA": "MARÍA HERNÁNDEZ - 1196460545"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1196460545",
+            "NOMBRES": "MARÍA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARÍA HERNÁNDEZ - 1196460545"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1196460545",
+            "NOMBRES": "MARÍA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARÍA HERNÁNDEZ - 1196460545",
+            "AL PIE DE LA FIRMA": "MARÍA HERNÁNDEZ - 1196460545"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1196460545",
+            "NOMBRES": "MARÍA HERNÁNDEZ",
+            "SALARIO": "2.103.560",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1196460545",
+            "NOMBRES": "MARÍA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.210.196"
+        }
+    }
+]

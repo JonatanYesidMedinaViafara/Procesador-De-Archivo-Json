@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "377695098807",
+            "SOLICITUD": "6928980",
+            "CEDULA": "1406989155",
+            "NOMBRES": "CARLOS MORENO",
+            "RECOMPRA O DESEMBOLSO": "4.338.949",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1406989155"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "377695098807",
+            "NOMBRES": "CARLOS MORENO",
+            "CREDITO": "13.137.311",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "385.196",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1406989155",
+            "AL PIE DE LA FIRMA": "CARLOS MORENO - 1406989155"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1406989155",
+            "NOMBRES": "CARLOS MORENO",
+            "FECHA NACIMIENTO": "04/11/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.137.311",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1406989155",
+            "AL PIE DE LA FIRMA": "CARLOS MORENO - 1406989155"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6928980",
+            "CEDULA": "1406989155",
+            "NOMBRES": "CARLOS MORENO",
+            "CREDITO": "13.137.311",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "385.196",
+            "E.A": "28.49%",
+            "RECOMPRA O DESEMBOLSO": "4.338.949",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1406989155"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1406989155",
+            "NOMBRES": "CARLOS MORENO",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1406989155"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1406989155",
+            "NOMBRES": "CARLOS MORENO",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1406989155",
+            "AL PIE DE LA FIRMA": "CARLOS MORENO - 1406989155"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1406989155",
+            "NOMBRES": "CARLOS MORENO",
+            "SALARIO": "3.856.242",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1406989155",
+            "NOMBRES": "CARLOS MORENO",
+            "RECOMPRA O DESEMBOLSO": "4.338.949"
+        }
+    }
+]

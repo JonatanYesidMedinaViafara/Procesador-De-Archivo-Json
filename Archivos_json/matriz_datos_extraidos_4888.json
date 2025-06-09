@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "901451630862",
+            "SOLICITUD": "4699830",
+            "CEDULA": "1877443727",
+            "NOMBRES": "CECILIA PEÑA AYALA",
+            "RECOMPRA O DESEMBOLSO": "4.848.138",
+            "FIRMA ELLECTRONICA": "CECILIA PEÑA AYALA - 1877443727"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "901451630862",
+            "NOMBRES": "CECILIA PEÑA AYALA",
+            "CREDITO": "18.502.973",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "217.417",
+            "FIRMA ELLECTRONICA": "CECILIA PEÑA AYALA - 1877443727",
+            "AL PIE DE LA FIRMA": "CECILIA PEÑA AYALA - 1877443727"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1877443727",
+            "NOMBRES": "CECILIA PEÑA AYALA",
+            "FECHA NACIMIENTO": "01/06/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.502.973",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CECILIA PEÑA AYALA - 1877443727",
+            "AL PIE DE LA FIRMA": "CECILIA PEÑA AYALA - 1877443727"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4699830",
+            "CEDULA": "1877443727",
+            "NOMBRES": "CECILIA PEÑA AYALA",
+            "CREDITO": "18.502.973",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "217.417",
+            "E.A": "25.06%",
+            "RECOMPRA O DESEMBOLSO": "4.848.138",
+            "FIRMA ELLECTRONICA": "CECILIA PEÑA AYALA - 1877443727"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1877443727",
+            "NOMBRES": "CECILIA PEÑA AYALA",
+            "FIRMA ELLECTRONICA": "CECILIA PEÑA AYALA - 1877443727"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1877443727",
+            "NOMBRES": "CECILIA PEÑA AYALA",
+            "FIRMA ELLECTRONICA": "CECILIA PEÑA AYALA - 1877443727",
+            "AL PIE DE LA FIRMA": "CECILIA PEÑA AYALA - 1877443727"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA PEÑA AYALA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1877443727",
+            "NOMBRES": "CECILIA PEÑA AYALA",
+            "SALARIO": "1.781.588",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1877443727",
+            "NOMBRES": "CECILIA PEÑA AYALA",
+            "RECOMPRA O DESEMBOLSO": "4.848.138"
+        }
+    }
+]

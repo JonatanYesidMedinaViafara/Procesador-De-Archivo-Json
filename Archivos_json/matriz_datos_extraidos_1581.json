@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "962175704791",
+            "SOLICITUD": "4682047",
+            "CEDULA": "1148965487",
+            "NOMBRES": "MARTHA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.662.472",
+            "FIRMA ELLECTRONICA": "MARTHA HERNÁNDEZ - 1148965487"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "962175704791",
+            "NOMBRES": "MARTHA HERNÁNDEZ",
+            "CREDITO": "8.198.450",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "340.485",
+            "FIRMA ELLECTRONICA": "MARTHA HERNÁNDEZ - 1148965487",
+            "AL PIE DE LA FIRMA": "MARTHA HERNÁNDEZ - 1148965487"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1148965487",
+            "NOMBRES": "MARTHA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "15/10/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.198.450",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARTHA HERNÁNDEZ - 1148965487",
+            "AL PIE DE LA FIRMA": "MARTHA HERNÁNDEZ - 1148965487"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4682047",
+            "CEDULA": "1148965487",
+            "NOMBRES": "MARTHA HERNÁNDEZ",
+            "CREDITO": "8.198.450",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "340.485",
+            "E.A": "18.11%",
+            "RECOMPRA O DESEMBOLSO": "4.662.472",
+            "FIRMA ELLECTRONICA": "MARTHA HERNÁNDEZ - 1148965487"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1148965487",
+            "NOMBRES": "MARTHA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARTHA HERNÁNDEZ - 1148965487"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1148965487",
+            "NOMBRES": "MARTHA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARTHA HERNÁNDEZ - 1148965487",
+            "AL PIE DE LA FIRMA": "MARTHA HERNÁNDEZ - 1148965487"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTHA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1148965487",
+            "NOMBRES": "MARTHA HERNÁNDEZ",
+            "SALARIO": "3.616.141",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1148965487",
+            "NOMBRES": "MARTHA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.662.472"
+        }
+    }
+]

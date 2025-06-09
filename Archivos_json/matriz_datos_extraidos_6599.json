@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "332749895192",
+            "SOLICITUD": "9212030",
+            "CEDULA": "1270687401",
+            "NOMBRES": "LUZ ROMERO NIETO",
+            "RECOMPRA O DESEMBOLSO": "2.418.201",
+            "FIRMA ELLECTRONICA": "LUZ ROMERO NIETO - 1270687401"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "332749895192",
+            "NOMBRES": "LUZ ROMERO NIETO",
+            "CREDITO": "10.785.588",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "126.652",
+            "FIRMA ELLECTRONICA": "LUZ ROMERO NIETO - 1270687401",
+            "AL PIE DE LA FIRMA": "LUZ ROMERO NIETO - 1270687401"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1270687401",
+            "NOMBRES": "LUZ ROMERO NIETO",
+            "FECHA NACIMIENTO": "01/08/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.785.588",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUZ ROMERO NIETO - 1270687401",
+            "AL PIE DE LA FIRMA": "LUZ ROMERO NIETO - 1270687401"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9212030",
+            "CEDULA": "1270687401",
+            "NOMBRES": "LUZ ROMERO NIETO",
+            "CREDITO": "10.785.588",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "126.652",
+            "E.A": "21.07%",
+            "RECOMPRA O DESEMBOLSO": "2.418.201",
+            "FIRMA ELLECTRONICA": "LUZ ROMERO NIETO - 1270687401"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1270687401",
+            "NOMBRES": "LUZ ROMERO NIETO",
+            "FIRMA ELLECTRONICA": "LUZ ROMERO NIETO - 1270687401"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1270687401",
+            "NOMBRES": "LUZ ROMERO NIETO",
+            "FIRMA ELLECTRONICA": "LUZ ROMERO NIETO - 1270687401",
+            "AL PIE DE LA FIRMA": "LUZ ROMERO NIETO - 1270687401"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ ROMERO NIETO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1270687401",
+            "NOMBRES": "LUZ ROMERO NIETO",
+            "SALARIO": "1.033.054",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1270687401",
+            "NOMBRES": "LUZ ROMERO NIETO",
+            "RECOMPRA O DESEMBOLSO": "2.418.201"
+        }
+    }
+]

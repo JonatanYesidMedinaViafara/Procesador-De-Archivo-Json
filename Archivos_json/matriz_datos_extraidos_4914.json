@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "268462423640",
+            "SOLICITUD": "6645255",
+            "CEDULA": "1490381200",
+            "NOMBRES": "IRIS MARÍA RANGEL ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.287.056",
+            "FIRMA ELLECTRONICA": "IRIS MARÍA RANGEL ZAMBRANO - 1490381200"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "268462423640",
+            "NOMBRES": "IRIS MARÍA RANGEL ZAMBRANO",
+            "CREDITO": "14.890.896",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "268.001",
+            "FIRMA ELLECTRONICA": "IRIS MARÍA RANGEL ZAMBRANO - 1490381200",
+            "AL PIE DE LA FIRMA": "IRIS MARÍA RANGEL ZAMBRANO - 1490381200"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1490381200",
+            "NOMBRES": "IRIS MARÍA RANGEL ZAMBRANO",
+            "FECHA NACIMIENTO": "03/03/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.890.896",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "IRIS MARÍA RANGEL ZAMBRANO - 1490381200",
+            "AL PIE DE LA FIRMA": "IRIS MARÍA RANGEL ZAMBRANO - 1490381200"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6645255",
+            "CEDULA": "1490381200",
+            "NOMBRES": "IRIS MARÍA RANGEL ZAMBRANO",
+            "CREDITO": "14.890.896",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "268.001",
+            "E.A": "18.13%",
+            "RECOMPRA O DESEMBOLSO": "4.287.056",
+            "FIRMA ELLECTRONICA": "IRIS MARÍA RANGEL ZAMBRANO - 1490381200"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1490381200",
+            "NOMBRES": "IRIS MARÍA RANGEL ZAMBRANO",
+            "FIRMA ELLECTRONICA": "IRIS MARÍA RANGEL ZAMBRANO - 1490381200"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1490381200",
+            "NOMBRES": "IRIS MARÍA RANGEL ZAMBRANO",
+            "FIRMA ELLECTRONICA": "IRIS MARÍA RANGEL ZAMBRANO - 1490381200",
+            "AL PIE DE LA FIRMA": "IRIS MARÍA RANGEL ZAMBRANO - 1490381200"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IRIS MARÍA RANGEL ZAMBRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1490381200",
+            "NOMBRES": "IRIS MARÍA RANGEL ZAMBRANO",
+            "SALARIO": "3.311.977",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1490381200",
+            "NOMBRES": "IRIS MARÍA RANGEL ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.287.056"
+        }
+    }
+]

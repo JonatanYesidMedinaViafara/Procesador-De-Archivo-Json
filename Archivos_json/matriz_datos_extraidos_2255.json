@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "341603183496",
+            "SOLICITUD": "1896441",
+            "CEDULA": "1080398090",
+            "NOMBRES": "NÉSTOR MURILLO",
+            "RECOMPRA O DESEMBOLSO": "3.632.260",
+            "FIRMA ELLECTRONICA": "NÉSTOR MURILLO - 1080398090"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "341603183496",
+            "NOMBRES": "NÉSTOR MURILLO",
+            "CREDITO": "19.786.514",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "321.039",
+            "FIRMA ELLECTRONICA": "NÉSTOR MURILLO - 1080398090",
+            "AL PIE DE LA FIRMA": "NÉSTOR MURILLO - 1080398090"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1080398090",
+            "NOMBRES": "NÉSTOR MURILLO",
+            "FECHA NACIMIENTO": "13/03/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.786.514",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "NÉSTOR MURILLO - 1080398090",
+            "AL PIE DE LA FIRMA": "NÉSTOR MURILLO - 1080398090"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1896441",
+            "CEDULA": "1080398090",
+            "NOMBRES": "NÉSTOR MURILLO",
+            "CREDITO": "19.786.514",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "321.039",
+            "E.A": "19.99%",
+            "RECOMPRA O DESEMBOLSO": "3.632.260",
+            "FIRMA ELLECTRONICA": "NÉSTOR MURILLO - 1080398090"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1080398090",
+            "NOMBRES": "NÉSTOR MURILLO",
+            "FIRMA ELLECTRONICA": "NÉSTOR MURILLO - 1080398090"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1080398090",
+            "NOMBRES": "NÉSTOR MURILLO",
+            "FIRMA ELLECTRONICA": "NÉSTOR MURILLO - 1080398090",
+            "AL PIE DE LA FIRMA": "NÉSTOR MURILLO - 1080398090"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NÉSTOR MURILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1080398090",
+            "NOMBRES": "NÉSTOR MURILLO",
+            "SALARIO": "1.023.393",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1080398090",
+            "NOMBRES": "NÉSTOR MURILLO",
+            "RECOMPRA O DESEMBOLSO": "3.632.260"
+        }
+    }
+]

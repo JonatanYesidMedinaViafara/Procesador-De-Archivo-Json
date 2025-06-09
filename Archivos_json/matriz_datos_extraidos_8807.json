@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "568756629133",
+            "SOLICITUD": "8631486",
+            "CEDULA": "1891313231",
+            "NOMBRES": "AMPARO PATRICIA DÍAZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.884.187",
+            "FIRMA ELLECTRONICA": "AMPARO PATRICIA DÍAZ LÓPEZ - 1891313231"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "568756629133",
+            "NOMBRES": "AMPARO PATRICIA DÍAZ LÓPEZ",
+            "CREDITO": "8.835.983",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "201.166",
+            "FIRMA ELLECTRONICA": "AMPARO PATRICIA DÍAZ LÓPEZ - 1891313231",
+            "AL PIE DE LA FIRMA": "AMPARO PATRICIA DÍAZ LÓPEZ - 1891313231"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1891313231",
+            "NOMBRES": "AMPARO PATRICIA DÍAZ LÓPEZ",
+            "FECHA NACIMIENTO": "28/11/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.835.983",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "AMPARO PATRICIA DÍAZ LÓPEZ - 1891313231",
+            "AL PIE DE LA FIRMA": "AMPARO PATRICIA DÍAZ LÓPEZ - 1891313231"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8631486",
+            "CEDULA": "1891313231",
+            "NOMBRES": "AMPARO PATRICIA DÍAZ LÓPEZ",
+            "CREDITO": "8.835.983",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "201.166",
+            "E.A": "28.0%",
+            "RECOMPRA O DESEMBOLSO": "1.884.187",
+            "FIRMA ELLECTRONICA": "AMPARO PATRICIA DÍAZ LÓPEZ - 1891313231"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1891313231",
+            "NOMBRES": "AMPARO PATRICIA DÍAZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "AMPARO PATRICIA DÍAZ LÓPEZ - 1891313231"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1891313231",
+            "NOMBRES": "AMPARO PATRICIA DÍAZ LÓPEZ",
+            "FIRMA ELLECTRONICA": "AMPARO PATRICIA DÍAZ LÓPEZ - 1891313231",
+            "AL PIE DE LA FIRMA": "AMPARO PATRICIA DÍAZ LÓPEZ - 1891313231"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AMPARO PATRICIA DÍAZ LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1891313231",
+            "NOMBRES": "AMPARO PATRICIA DÍAZ LÓPEZ",
+            "SALARIO": "4.983.944",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1891313231",
+            "NOMBRES": "AMPARO PATRICIA DÍAZ LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.884.187"
+        }
+    }
+]

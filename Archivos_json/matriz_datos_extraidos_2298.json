@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "138412295373",
+            "SOLICITUD": "5420354",
+            "CEDULA": "1799804768",
+            "NOMBRES": "YESID VERGARA CASTRILLÓN",
+            "RECOMPRA O DESEMBOLSO": "2.466.626",
+            "FIRMA ELLECTRONICA": "YESID VERGARA CASTRILLÓN - 1799804768"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "138412295373",
+            "NOMBRES": "YESID VERGARA CASTRILLÓN",
+            "CREDITO": "7.456.950",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "206.326",
+            "FIRMA ELLECTRONICA": "YESID VERGARA CASTRILLÓN - 1799804768",
+            "AL PIE DE LA FIRMA": "YESID VERGARA CASTRILLÓN - 1799804768"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1799804768",
+            "NOMBRES": "YESID VERGARA CASTRILLÓN",
+            "FECHA NACIMIENTO": "14/11/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.456.950",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "YESID VERGARA CASTRILLÓN - 1799804768",
+            "AL PIE DE LA FIRMA": "YESID VERGARA CASTRILLÓN - 1799804768"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5420354",
+            "CEDULA": "1799804768",
+            "NOMBRES": "YESID VERGARA CASTRILLÓN",
+            "CREDITO": "7.456.950",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "206.326",
+            "E.A": "24.79%",
+            "RECOMPRA O DESEMBOLSO": "2.466.626",
+            "FIRMA ELLECTRONICA": "YESID VERGARA CASTRILLÓN - 1799804768"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1799804768",
+            "NOMBRES": "YESID VERGARA CASTRILLÓN",
+            "FIRMA ELLECTRONICA": "YESID VERGARA CASTRILLÓN - 1799804768"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1799804768",
+            "NOMBRES": "YESID VERGARA CASTRILLÓN",
+            "FIRMA ELLECTRONICA": "YESID VERGARA CASTRILLÓN - 1799804768",
+            "AL PIE DE LA FIRMA": "YESID VERGARA CASTRILLÓN - 1799804768"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YESID VERGARA CASTRILLÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1799804768",
+            "NOMBRES": "YESID VERGARA CASTRILLÓN",
+            "SALARIO": "3.970.395",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1799804768",
+            "NOMBRES": "YESID VERGARA CASTRILLÓN",
+            "RECOMPRA O DESEMBOLSO": "2.466.626"
+        }
+    }
+]

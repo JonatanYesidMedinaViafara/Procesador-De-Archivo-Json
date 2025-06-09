@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "638826453339",
+            "SOLICITUD": "5977200",
+            "CEDULA": "1252833539",
+            "NOMBRES": "ALEJANDRO JAVIER GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.010.379",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JAVIER GUTIÉRREZ - 1252833539"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "638826453339",
+            "NOMBRES": "ALEJANDRO JAVIER GUTIÉRREZ",
+            "CREDITO": "14.204.390",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "203.774",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JAVIER GUTIÉRREZ - 1252833539",
+            "AL PIE DE LA FIRMA": "ALEJANDRO JAVIER GUTIÉRREZ - 1252833539"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1252833539",
+            "NOMBRES": "ALEJANDRO JAVIER GUTIÉRREZ",
+            "FECHA NACIMIENTO": "27/03/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.204.390",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JAVIER GUTIÉRREZ - 1252833539",
+            "AL PIE DE LA FIRMA": "ALEJANDRO JAVIER GUTIÉRREZ - 1252833539"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5977200",
+            "CEDULA": "1252833539",
+            "NOMBRES": "ALEJANDRO JAVIER GUTIÉRREZ",
+            "CREDITO": "14.204.390",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "203.774",
+            "E.A": "29.0%",
+            "RECOMPRA O DESEMBOLSO": "1.010.379",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JAVIER GUTIÉRREZ - 1252833539"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1252833539",
+            "NOMBRES": "ALEJANDRO JAVIER GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JAVIER GUTIÉRREZ - 1252833539"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1252833539",
+            "NOMBRES": "ALEJANDRO JAVIER GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JAVIER GUTIÉRREZ - 1252833539",
+            "AL PIE DE LA FIRMA": "ALEJANDRO JAVIER GUTIÉRREZ - 1252833539"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO JAVIER GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1252833539",
+            "NOMBRES": "ALEJANDRO JAVIER GUTIÉRREZ",
+            "SALARIO": "3.510.924",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1252833539",
+            "NOMBRES": "ALEJANDRO JAVIER GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.010.379"
+        }
+    }
+]

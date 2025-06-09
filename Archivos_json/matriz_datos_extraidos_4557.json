@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "469202413984",
+            "SOLICITUD": "6962981",
+            "CEDULA": "1872252323",
+            "NOMBRES": "MIGUEL FREDDY SALCEDO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.739.235",
+            "FIRMA ELLECTRONICA": "MIGUEL FREDDY SALCEDO HERNÁNDEZ - 1872252323"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "469202413984",
+            "NOMBRES": "MIGUEL FREDDY SALCEDO HERNÁNDEZ",
+            "CREDITO": "5.530.260",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "236.162",
+            "FIRMA ELLECTRONICA": "MIGUEL FREDDY SALCEDO HERNÁNDEZ - 1872252323",
+            "AL PIE DE LA FIRMA": "MIGUEL FREDDY SALCEDO HERNÁNDEZ - 1872252323"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1872252323",
+            "NOMBRES": "MIGUEL FREDDY SALCEDO HERNÁNDEZ",
+            "FECHA NACIMIENTO": "17/12/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.530.260",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MIGUEL FREDDY SALCEDO HERNÁNDEZ - 1872252323",
+            "AL PIE DE LA FIRMA": "MIGUEL FREDDY SALCEDO HERNÁNDEZ - 1872252323"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6962981",
+            "CEDULA": "1872252323",
+            "NOMBRES": "MIGUEL FREDDY SALCEDO HERNÁNDEZ",
+            "CREDITO": "5.530.260",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "236.162",
+            "E.A": "23.65%",
+            "RECOMPRA O DESEMBOLSO": "2.739.235",
+            "FIRMA ELLECTRONICA": "MIGUEL FREDDY SALCEDO HERNÁNDEZ - 1872252323"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1872252323",
+            "NOMBRES": "MIGUEL FREDDY SALCEDO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MIGUEL FREDDY SALCEDO HERNÁNDEZ - 1872252323"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1872252323",
+            "NOMBRES": "MIGUEL FREDDY SALCEDO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MIGUEL FREDDY SALCEDO HERNÁNDEZ - 1872252323",
+            "AL PIE DE LA FIRMA": "MIGUEL FREDDY SALCEDO HERNÁNDEZ - 1872252323"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL FREDDY SALCEDO HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1872252323",
+            "NOMBRES": "MIGUEL FREDDY SALCEDO HERNÁNDEZ",
+            "SALARIO": "4.894.400",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1872252323",
+            "NOMBRES": "MIGUEL FREDDY SALCEDO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.739.235"
+        }
+    }
+]

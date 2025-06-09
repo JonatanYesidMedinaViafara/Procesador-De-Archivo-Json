@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "799500148175",
+            "SOLICITUD": "2861529",
+            "CEDULA": "1293426540",
+            "NOMBRES": "ANDRÉS OCAMPO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.771.275",
+            "FIRMA ELLECTRONICA": "ANDRÉS OCAMPO MUÑOZ - 1293426540"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "799500148175",
+            "NOMBRES": "ANDRÉS OCAMPO MUÑOZ",
+            "CREDITO": "6.703.832",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "149.15",
+            "FIRMA ELLECTRONICA": "ANDRÉS OCAMPO MUÑOZ - 1293426540",
+            "AL PIE DE LA FIRMA": "ANDRÉS OCAMPO MUÑOZ - 1293426540"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1293426540",
+            "NOMBRES": "ANDRÉS OCAMPO MUÑOZ",
+            "FECHA NACIMIENTO": "31/01/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.703.832",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS OCAMPO MUÑOZ - 1293426540",
+            "AL PIE DE LA FIRMA": "ANDRÉS OCAMPO MUÑOZ - 1293426540"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2861529",
+            "CEDULA": "1293426540",
+            "NOMBRES": "ANDRÉS OCAMPO MUÑOZ",
+            "CREDITO": "6.703.832",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "149.15",
+            "E.A": "19.76%",
+            "RECOMPRA O DESEMBOLSO": "3.771.275",
+            "FIRMA ELLECTRONICA": "ANDRÉS OCAMPO MUÑOZ - 1293426540"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1293426540",
+            "NOMBRES": "ANDRÉS OCAMPO MUÑOZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS OCAMPO MUÑOZ - 1293426540"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1293426540",
+            "NOMBRES": "ANDRÉS OCAMPO MUÑOZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS OCAMPO MUÑOZ - 1293426540",
+            "AL PIE DE LA FIRMA": "ANDRÉS OCAMPO MUÑOZ - 1293426540"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS OCAMPO MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1293426540",
+            "NOMBRES": "ANDRÉS OCAMPO MUÑOZ",
+            "SALARIO": "1.207.657",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1293426540",
+            "NOMBRES": "ANDRÉS OCAMPO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.771.275"
+        }
+    }
+]

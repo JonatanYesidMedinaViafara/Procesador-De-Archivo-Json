@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "932568316178",
+            "SOLICITUD": "9196928",
+            "CEDULA": "1468389209",
+            "NOMBRES": "MYRIAM MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.453.415",
+            "FIRMA ELLECTRONICA": "MYRIAM MÉNDEZ - 1468389209"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "932568316178",
+            "NOMBRES": "MYRIAM MÉNDEZ",
+            "CREDITO": "13.737.698",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "127.813",
+            "FIRMA ELLECTRONICA": "MYRIAM MÉNDEZ - 1468389209",
+            "AL PIE DE LA FIRMA": "MYRIAM MÉNDEZ - 1468389209"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1468389209",
+            "NOMBRES": "MYRIAM MÉNDEZ",
+            "FECHA NACIMIENTO": "16/04/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.737.698",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MYRIAM MÉNDEZ - 1468389209",
+            "AL PIE DE LA FIRMA": "MYRIAM MÉNDEZ - 1468389209"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9196928",
+            "CEDULA": "1468389209",
+            "NOMBRES": "MYRIAM MÉNDEZ",
+            "CREDITO": "13.737.698",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "127.813",
+            "E.A": "26.19%",
+            "RECOMPRA O DESEMBOLSO": "2.453.415",
+            "FIRMA ELLECTRONICA": "MYRIAM MÉNDEZ - 1468389209"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1468389209",
+            "NOMBRES": "MYRIAM MÉNDEZ",
+            "FIRMA ELLECTRONICA": "MYRIAM MÉNDEZ - 1468389209"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1468389209",
+            "NOMBRES": "MYRIAM MÉNDEZ",
+            "FIRMA ELLECTRONICA": "MYRIAM MÉNDEZ - 1468389209",
+            "AL PIE DE LA FIRMA": "MYRIAM MÉNDEZ - 1468389209"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MYRIAM MÉNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1468389209",
+            "NOMBRES": "MYRIAM MÉNDEZ",
+            "SALARIO": "4.023.106",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1468389209",
+            "NOMBRES": "MYRIAM MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.453.415"
+        }
+    }
+]

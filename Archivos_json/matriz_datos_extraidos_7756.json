@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "572099164193",
+            "SOLICITUD": "7409841",
+            "CEDULA": "1033956706",
+            "NOMBRES": "ANDRÉS ALARCÓN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.093.403",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALARCÓN PÉREZ - 1033956706"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "572099164193",
+            "NOMBRES": "ANDRÉS ALARCÓN PÉREZ",
+            "CREDITO": "14.757.299",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "248.589",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALARCÓN PÉREZ - 1033956706",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALARCÓN PÉREZ - 1033956706"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1033956706",
+            "NOMBRES": "ANDRÉS ALARCÓN PÉREZ",
+            "FECHA NACIMIENTO": "15/04/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.757.299",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALARCÓN PÉREZ - 1033956706",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALARCÓN PÉREZ - 1033956706"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7409841",
+            "CEDULA": "1033956706",
+            "NOMBRES": "ANDRÉS ALARCÓN PÉREZ",
+            "CREDITO": "14.757.299",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "248.589",
+            "E.A": "22.86%",
+            "RECOMPRA O DESEMBOLSO": "4.093.403",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALARCÓN PÉREZ - 1033956706"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1033956706",
+            "NOMBRES": "ANDRÉS ALARCÓN PÉREZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALARCÓN PÉREZ - 1033956706"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1033956706",
+            "NOMBRES": "ANDRÉS ALARCÓN PÉREZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALARCÓN PÉREZ - 1033956706",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALARCÓN PÉREZ - 1033956706"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ALARCÓN PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1033956706",
+            "NOMBRES": "ANDRÉS ALARCÓN PÉREZ",
+            "SALARIO": "4.248.709",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1033956706",
+            "NOMBRES": "ANDRÉS ALARCÓN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.093.403"
+        }
+    }
+]

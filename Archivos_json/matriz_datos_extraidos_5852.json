@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "715806188295",
+            "SOLICITUD": "6622619",
+            "CEDULA": "1004143276",
+            "NOMBRES": "MÓNICA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.701.455",
+            "FIRMA ELLECTRONICA": "MÓNICA ROJAS - 1004143276"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "715806188295",
+            "NOMBRES": "MÓNICA ROJAS",
+            "CREDITO": "13.303.004",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "255.492",
+            "FIRMA ELLECTRONICA": "MÓNICA ROJAS - 1004143276",
+            "AL PIE DE LA FIRMA": "MÓNICA ROJAS - 1004143276"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1004143276",
+            "NOMBRES": "MÓNICA ROJAS",
+            "FECHA NACIMIENTO": "10/09/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.303.004",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MÓNICA ROJAS - 1004143276",
+            "AL PIE DE LA FIRMA": "MÓNICA ROJAS - 1004143276"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6622619",
+            "CEDULA": "1004143276",
+            "NOMBRES": "MÓNICA ROJAS",
+            "CREDITO": "13.303.004",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "255.492",
+            "E.A": "18.23%",
+            "RECOMPRA O DESEMBOLSO": "2.701.455",
+            "FIRMA ELLECTRONICA": "MÓNICA ROJAS - 1004143276"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1004143276",
+            "NOMBRES": "MÓNICA ROJAS",
+            "FIRMA ELLECTRONICA": "MÓNICA ROJAS - 1004143276"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1004143276",
+            "NOMBRES": "MÓNICA ROJAS",
+            "FIRMA ELLECTRONICA": "MÓNICA ROJAS - 1004143276",
+            "AL PIE DE LA FIRMA": "MÓNICA ROJAS - 1004143276"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MÓNICA ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1004143276",
+            "NOMBRES": "MÓNICA ROJAS",
+            "SALARIO": "2.134.538",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1004143276",
+            "NOMBRES": "MÓNICA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "2.701.455"
+        }
+    }
+]

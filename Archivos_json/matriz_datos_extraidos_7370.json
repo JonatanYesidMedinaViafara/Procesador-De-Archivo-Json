@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "117723099322",
+            "SOLICITUD": "4339087",
+            "CEDULA": "1383988542",
+            "NOMBRES": "SANTIAGO MALDONADO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.732.114",
+            "FIRMA ELLECTRONICA": "SANTIAGO MALDONADO RODRÍGUEZ - 1383988542"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "117723099322",
+            "NOMBRES": "SANTIAGO MALDONADO RODRÍGUEZ",
+            "CREDITO": "14.234.696",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "321.495",
+            "FIRMA ELLECTRONICA": "SANTIAGO MALDONADO RODRÍGUEZ - 1383988542",
+            "AL PIE DE LA FIRMA": "SANTIAGO MALDONADO RODRÍGUEZ - 1383988542"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1383988542",
+            "NOMBRES": "SANTIAGO MALDONADO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "26/07/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.234.696",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SANTIAGO MALDONADO RODRÍGUEZ - 1383988542",
+            "AL PIE DE LA FIRMA": "SANTIAGO MALDONADO RODRÍGUEZ - 1383988542"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4339087",
+            "CEDULA": "1383988542",
+            "NOMBRES": "SANTIAGO MALDONADO RODRÍGUEZ",
+            "CREDITO": "14.234.696",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "321.495",
+            "E.A": "26.66%",
+            "RECOMPRA O DESEMBOLSO": "1.732.114",
+            "FIRMA ELLECTRONICA": "SANTIAGO MALDONADO RODRÍGUEZ - 1383988542"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1383988542",
+            "NOMBRES": "SANTIAGO MALDONADO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SANTIAGO MALDONADO RODRÍGUEZ - 1383988542"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1383988542",
+            "NOMBRES": "SANTIAGO MALDONADO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SANTIAGO MALDONADO RODRÍGUEZ - 1383988542",
+            "AL PIE DE LA FIRMA": "SANTIAGO MALDONADO RODRÍGUEZ - 1383988542"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANTIAGO MALDONADO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1383988542",
+            "NOMBRES": "SANTIAGO MALDONADO RODRÍGUEZ",
+            "SALARIO": "4.550.099",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1383988542",
+            "NOMBRES": "SANTIAGO MALDONADO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.732.114"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "296550211428",
+            "SOLICITUD": "3383224",
+            "CEDULA": "1591108234",
+            "NOMBRES": "EMMA RODRÍGUEZ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.039.038",
+            "FIRMA ELLECTRONICA": "EMMA RODRÍGUEZ RODRÍGUEZ - 1591108234"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "296550211428",
+            "NOMBRES": "EMMA RODRÍGUEZ RODRÍGUEZ",
+            "CREDITO": "18.283.810",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "367.203",
+            "FIRMA ELLECTRONICA": "EMMA RODRÍGUEZ RODRÍGUEZ - 1591108234",
+            "AL PIE DE LA FIRMA": "EMMA RODRÍGUEZ RODRÍGUEZ - 1591108234"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1591108234",
+            "NOMBRES": "EMMA RODRÍGUEZ RODRÍGUEZ",
+            "FECHA NACIMIENTO": "29/06/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.283.810",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EMMA RODRÍGUEZ RODRÍGUEZ - 1591108234",
+            "AL PIE DE LA FIRMA": "EMMA RODRÍGUEZ RODRÍGUEZ - 1591108234"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3383224",
+            "CEDULA": "1591108234",
+            "NOMBRES": "EMMA RODRÍGUEZ RODRÍGUEZ",
+            "CREDITO": "18.283.810",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "367.203",
+            "E.A": "21.45%",
+            "RECOMPRA O DESEMBOLSO": "3.039.038",
+            "FIRMA ELLECTRONICA": "EMMA RODRÍGUEZ RODRÍGUEZ - 1591108234"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1591108234",
+            "NOMBRES": "EMMA RODRÍGUEZ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "EMMA RODRÍGUEZ RODRÍGUEZ - 1591108234"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1591108234",
+            "NOMBRES": "EMMA RODRÍGUEZ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "EMMA RODRÍGUEZ RODRÍGUEZ - 1591108234",
+            "AL PIE DE LA FIRMA": "EMMA RODRÍGUEZ RODRÍGUEZ - 1591108234"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMMA RODRÍGUEZ RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1591108234",
+            "NOMBRES": "EMMA RODRÍGUEZ RODRÍGUEZ",
+            "SALARIO": "1.260.908",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1591108234",
+            "NOMBRES": "EMMA RODRÍGUEZ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.039.038"
+        }
+    }
+]

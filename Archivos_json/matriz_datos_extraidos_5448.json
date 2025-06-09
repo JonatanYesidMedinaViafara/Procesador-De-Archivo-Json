@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "384233517912",
+            "SOLICITUD": "9064556",
+            "CEDULA": "1779850406",
+            "NOMBRES": "TANIA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.296.412",
+            "FIRMA ELLECTRONICA": "TANIA GONZÁLEZ - 1779850406"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "384233517912",
+            "NOMBRES": "TANIA GONZÁLEZ",
+            "CREDITO": "6.646.585",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "179.387",
+            "FIRMA ELLECTRONICA": "TANIA GONZÁLEZ - 1779850406",
+            "AL PIE DE LA FIRMA": "TANIA GONZÁLEZ - 1779850406"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1779850406",
+            "NOMBRES": "TANIA GONZÁLEZ",
+            "FECHA NACIMIENTO": "28/02/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.646.585",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "TANIA GONZÁLEZ - 1779850406",
+            "AL PIE DE LA FIRMA": "TANIA GONZÁLEZ - 1779850406"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9064556",
+            "CEDULA": "1779850406",
+            "NOMBRES": "TANIA GONZÁLEZ",
+            "CREDITO": "6.646.585",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "179.387",
+            "E.A": "22.78%",
+            "RECOMPRA O DESEMBOLSO": "1.296.412",
+            "FIRMA ELLECTRONICA": "TANIA GONZÁLEZ - 1779850406"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1779850406",
+            "NOMBRES": "TANIA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "TANIA GONZÁLEZ - 1779850406"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1779850406",
+            "NOMBRES": "TANIA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "TANIA GONZÁLEZ - 1779850406",
+            "AL PIE DE LA FIRMA": "TANIA GONZÁLEZ - 1779850406"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TANIA GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1779850406",
+            "NOMBRES": "TANIA GONZÁLEZ",
+            "SALARIO": "1.546.077",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1779850406",
+            "NOMBRES": "TANIA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.296.412"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "774105453436",
+            "SOLICITUD": "7123001",
+            "CEDULA": "1654618298",
+            "NOMBRES": "SAMUEL JAVIER RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.837.714",
+            "FIRMA ELLECTRONICA": "SAMUEL JAVIER RODRÍGUEZ - 1654618298"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "774105453436",
+            "NOMBRES": "SAMUEL JAVIER RODRÍGUEZ",
+            "CREDITO": "7.674.374",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "121.749",
+            "FIRMA ELLECTRONICA": "SAMUEL JAVIER RODRÍGUEZ - 1654618298",
+            "AL PIE DE LA FIRMA": "SAMUEL JAVIER RODRÍGUEZ - 1654618298"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1654618298",
+            "NOMBRES": "SAMUEL JAVIER RODRÍGUEZ",
+            "FECHA NACIMIENTO": "30/09/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.674.374",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SAMUEL JAVIER RODRÍGUEZ - 1654618298",
+            "AL PIE DE LA FIRMA": "SAMUEL JAVIER RODRÍGUEZ - 1654618298"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7123001",
+            "CEDULA": "1654618298",
+            "NOMBRES": "SAMUEL JAVIER RODRÍGUEZ",
+            "CREDITO": "7.674.374",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "121.749",
+            "E.A": "25.72%",
+            "RECOMPRA O DESEMBOLSO": "4.837.714",
+            "FIRMA ELLECTRONICA": "SAMUEL JAVIER RODRÍGUEZ - 1654618298"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1654618298",
+            "NOMBRES": "SAMUEL JAVIER RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SAMUEL JAVIER RODRÍGUEZ - 1654618298"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1654618298",
+            "NOMBRES": "SAMUEL JAVIER RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "SAMUEL JAVIER RODRÍGUEZ - 1654618298",
+            "AL PIE DE LA FIRMA": "SAMUEL JAVIER RODRÍGUEZ - 1654618298"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SAMUEL JAVIER RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1654618298",
+            "NOMBRES": "SAMUEL JAVIER RODRÍGUEZ",
+            "SALARIO": "4.531.491",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1654618298",
+            "NOMBRES": "SAMUEL JAVIER RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.837.714"
+        }
+    }
+]

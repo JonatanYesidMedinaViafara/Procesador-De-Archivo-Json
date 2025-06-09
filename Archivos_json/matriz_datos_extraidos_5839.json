@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "719411234808",
+            "SOLICITUD": "3010382",
+            "CEDULA": "1599488594",
+            "NOMBRES": "MARÍA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.010.463",
+            "FIRMA ELLECTRONICA": "MARÍA QUINTERO - 1599488594"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "719411234808",
+            "NOMBRES": "MARÍA QUINTERO",
+            "CREDITO": "12.814.275",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "393.045",
+            "FIRMA ELLECTRONICA": "MARÍA QUINTERO - 1599488594",
+            "AL PIE DE LA FIRMA": "MARÍA QUINTERO - 1599488594"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1599488594",
+            "NOMBRES": "MARÍA QUINTERO",
+            "FECHA NACIMIENTO": "22/09/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.814.275",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA QUINTERO - 1599488594",
+            "AL PIE DE LA FIRMA": "MARÍA QUINTERO - 1599488594"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3010382",
+            "CEDULA": "1599488594",
+            "NOMBRES": "MARÍA QUINTERO",
+            "CREDITO": "12.814.275",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "393.045",
+            "E.A": "18.59%",
+            "RECOMPRA O DESEMBOLSO": "2.010.463",
+            "FIRMA ELLECTRONICA": "MARÍA QUINTERO - 1599488594"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1599488594",
+            "NOMBRES": "MARÍA QUINTERO",
+            "FIRMA ELLECTRONICA": "MARÍA QUINTERO - 1599488594"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1599488594",
+            "NOMBRES": "MARÍA QUINTERO",
+            "FIRMA ELLECTRONICA": "MARÍA QUINTERO - 1599488594",
+            "AL PIE DE LA FIRMA": "MARÍA QUINTERO - 1599488594"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1599488594",
+            "NOMBRES": "MARÍA QUINTERO",
+            "SALARIO": "2.313.159",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1599488594",
+            "NOMBRES": "MARÍA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.010.463"
+        }
+    }
+]

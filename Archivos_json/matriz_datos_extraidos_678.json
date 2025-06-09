@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "913389752808",
+            "SOLICITUD": "6524969",
+            "CEDULA": "1086757725",
+            "NOMBRES": "ÁNGEL ENRIQUE CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.264.400",
+            "FIRMA ELLECTRONICA": "ÁNGEL ENRIQUE CASTILLO - 1086757725"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "913389752808",
+            "NOMBRES": "ÁNGEL ENRIQUE CASTILLO",
+            "CREDITO": "5.683.028",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.584",
+            "FIRMA ELLECTRONICA": "ÁNGEL ENRIQUE CASTILLO - 1086757725",
+            "AL PIE DE LA FIRMA": "ÁNGEL ENRIQUE CASTILLO - 1086757725"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1086757725",
+            "NOMBRES": "ÁNGEL ENRIQUE CASTILLO",
+            "FECHA NACIMIENTO": "30/08/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.683.028",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ÁNGEL ENRIQUE CASTILLO - 1086757725",
+            "AL PIE DE LA FIRMA": "ÁNGEL ENRIQUE CASTILLO - 1086757725"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6524969",
+            "CEDULA": "1086757725",
+            "NOMBRES": "ÁNGEL ENRIQUE CASTILLO",
+            "CREDITO": "5.683.028",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.584",
+            "E.A": "22.14%",
+            "RECOMPRA O DESEMBOLSO": "2.264.400",
+            "FIRMA ELLECTRONICA": "ÁNGEL ENRIQUE CASTILLO - 1086757725"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1086757725",
+            "NOMBRES": "ÁNGEL ENRIQUE CASTILLO",
+            "FIRMA ELLECTRONICA": "ÁNGEL ENRIQUE CASTILLO - 1086757725"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1086757725",
+            "NOMBRES": "ÁNGEL ENRIQUE CASTILLO",
+            "FIRMA ELLECTRONICA": "ÁNGEL ENRIQUE CASTILLO - 1086757725",
+            "AL PIE DE LA FIRMA": "ÁNGEL ENRIQUE CASTILLO - 1086757725"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL ENRIQUE CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1086757725",
+            "NOMBRES": "ÁNGEL ENRIQUE CASTILLO",
+            "SALARIO": "2.209.639",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1086757725",
+            "NOMBRES": "ÁNGEL ENRIQUE CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.264.400"
+        }
+    }
+]

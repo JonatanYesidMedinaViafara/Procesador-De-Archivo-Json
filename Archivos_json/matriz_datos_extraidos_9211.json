@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "552088025617",
+            "SOLICITUD": "8062153",
+            "CEDULA": "1028335412",
+            "NOMBRES": "ÁNGEL CARLOS SÁNCHEZ GIL",
+            "RECOMPRA O DESEMBOLSO": "3.145.516",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARLOS SÁNCHEZ GIL - 1028335412"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "552088025617",
+            "NOMBRES": "ÁNGEL CARLOS SÁNCHEZ GIL",
+            "CREDITO": "6.637.849",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "365.132",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARLOS SÁNCHEZ GIL - 1028335412",
+            "AL PIE DE LA FIRMA": "ÁNGEL CARLOS SÁNCHEZ GIL - 1028335412"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1028335412",
+            "NOMBRES": "ÁNGEL CARLOS SÁNCHEZ GIL",
+            "FECHA NACIMIENTO": "14/05/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.637.849",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARLOS SÁNCHEZ GIL - 1028335412",
+            "AL PIE DE LA FIRMA": "ÁNGEL CARLOS SÁNCHEZ GIL - 1028335412"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8062153",
+            "CEDULA": "1028335412",
+            "NOMBRES": "ÁNGEL CARLOS SÁNCHEZ GIL",
+            "CREDITO": "6.637.849",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "365.132",
+            "E.A": "27.67%",
+            "RECOMPRA O DESEMBOLSO": "3.145.516",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARLOS SÁNCHEZ GIL - 1028335412"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1028335412",
+            "NOMBRES": "ÁNGEL CARLOS SÁNCHEZ GIL",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARLOS SÁNCHEZ GIL - 1028335412"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1028335412",
+            "NOMBRES": "ÁNGEL CARLOS SÁNCHEZ GIL",
+            "FIRMA ELLECTRONICA": "ÁNGEL CARLOS SÁNCHEZ GIL - 1028335412",
+            "AL PIE DE LA FIRMA": "ÁNGEL CARLOS SÁNCHEZ GIL - 1028335412"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL CARLOS SÁNCHEZ GIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1028335412",
+            "NOMBRES": "ÁNGEL CARLOS SÁNCHEZ GIL",
+            "SALARIO": "3.198.042",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1028335412",
+            "NOMBRES": "ÁNGEL CARLOS SÁNCHEZ GIL",
+            "RECOMPRA O DESEMBOLSO": "3.145.516"
+        }
+    }
+]

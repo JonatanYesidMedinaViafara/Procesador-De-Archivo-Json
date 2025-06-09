@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "322983379596",
+            "SOLICITUD": "4024243",
+            "CEDULA": "1201798365",
+            "NOMBRES": "SANDRA MATILDE DURÁN",
+            "RECOMPRA O DESEMBOLSO": "1.083.450",
+            "FIRMA ELLECTRONICA": "SANDRA MATILDE DURÁN - 1201798365"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "322983379596",
+            "NOMBRES": "SANDRA MATILDE DURÁN",
+            "CREDITO": "7.654.214",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "325.627",
+            "FIRMA ELLECTRONICA": "SANDRA MATILDE DURÁN - 1201798365",
+            "AL PIE DE LA FIRMA": "SANDRA MATILDE DURÁN - 1201798365"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1201798365",
+            "NOMBRES": "SANDRA MATILDE DURÁN",
+            "FECHA NACIMIENTO": "01/02/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.654.214",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SANDRA MATILDE DURÁN - 1201798365",
+            "AL PIE DE LA FIRMA": "SANDRA MATILDE DURÁN - 1201798365"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4024243",
+            "CEDULA": "1201798365",
+            "NOMBRES": "SANDRA MATILDE DURÁN",
+            "CREDITO": "7.654.214",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "325.627",
+            "E.A": "24.06%",
+            "RECOMPRA O DESEMBOLSO": "1.083.450",
+            "FIRMA ELLECTRONICA": "SANDRA MATILDE DURÁN - 1201798365"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1201798365",
+            "NOMBRES": "SANDRA MATILDE DURÁN",
+            "FIRMA ELLECTRONICA": "SANDRA MATILDE DURÁN - 1201798365"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1201798365",
+            "NOMBRES": "SANDRA MATILDE DURÁN",
+            "FIRMA ELLECTRONICA": "SANDRA MATILDE DURÁN - 1201798365",
+            "AL PIE DE LA FIRMA": "SANDRA MATILDE DURÁN - 1201798365"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA MATILDE DURÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1201798365",
+            "NOMBRES": "SANDRA MATILDE DURÁN",
+            "SALARIO": "2.785.284",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1201798365",
+            "NOMBRES": "SANDRA MATILDE DURÁN",
+            "RECOMPRA O DESEMBOLSO": "1.083.450"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "128134457308",
+            "SOLICITUD": "1227005",
+            "CEDULA": "1680248256",
+            "NOMBRES": "CARLOS JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.121.436",
+            "FIRMA ELLECTRONICA": "CARLOS JIMÉNEZ - 1680248256"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "128134457308",
+            "NOMBRES": "CARLOS JIMÉNEZ",
+            "CREDITO": "12.244.514",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "204.838",
+            "FIRMA ELLECTRONICA": "CARLOS JIMÉNEZ - 1680248256",
+            "AL PIE DE LA FIRMA": "CARLOS JIMÉNEZ - 1680248256"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1680248256",
+            "NOMBRES": "CARLOS JIMÉNEZ",
+            "FECHA NACIMIENTO": "25/04/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.244.514",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARLOS JIMÉNEZ - 1680248256",
+            "AL PIE DE LA FIRMA": "CARLOS JIMÉNEZ - 1680248256"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1227005",
+            "CEDULA": "1680248256",
+            "NOMBRES": "CARLOS JIMÉNEZ",
+            "CREDITO": "12.244.514",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "204.838",
+            "E.A": "27.91%",
+            "RECOMPRA O DESEMBOLSO": "1.121.436",
+            "FIRMA ELLECTRONICA": "CARLOS JIMÉNEZ - 1680248256"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1680248256",
+            "NOMBRES": "CARLOS JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "CARLOS JIMÉNEZ - 1680248256"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1680248256",
+            "NOMBRES": "CARLOS JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "CARLOS JIMÉNEZ - 1680248256",
+            "AL PIE DE LA FIRMA": "CARLOS JIMÉNEZ - 1680248256"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1680248256",
+            "NOMBRES": "CARLOS JIMÉNEZ",
+            "SALARIO": "2.412.359",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1680248256",
+            "NOMBRES": "CARLOS JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.121.436"
+        }
+    }
+]

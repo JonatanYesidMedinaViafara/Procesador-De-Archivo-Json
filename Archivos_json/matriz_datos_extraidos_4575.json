@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "400439675921",
+            "SOLICITUD": "4685256",
+            "CEDULA": "1501889944",
+            "NOMBRES": "ERNESTO JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "2.710.586",
+            "FIRMA ELLECTRONICA": "ERNESTO JARAMILLO - 1501889944"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "400439675921",
+            "NOMBRES": "ERNESTO JARAMILLO",
+            "CREDITO": "6.371.525",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.891",
+            "FIRMA ELLECTRONICA": "ERNESTO JARAMILLO - 1501889944",
+            "AL PIE DE LA FIRMA": "ERNESTO JARAMILLO - 1501889944"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1501889944",
+            "NOMBRES": "ERNESTO JARAMILLO",
+            "FECHA NACIMIENTO": "31/03/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.371.525",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ERNESTO JARAMILLO - 1501889944",
+            "AL PIE DE LA FIRMA": "ERNESTO JARAMILLO - 1501889944"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4685256",
+            "CEDULA": "1501889944",
+            "NOMBRES": "ERNESTO JARAMILLO",
+            "CREDITO": "6.371.525",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.891",
+            "E.A": "24.35%",
+            "RECOMPRA O DESEMBOLSO": "2.710.586",
+            "FIRMA ELLECTRONICA": "ERNESTO JARAMILLO - 1501889944"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1501889944",
+            "NOMBRES": "ERNESTO JARAMILLO",
+            "FIRMA ELLECTRONICA": "ERNESTO JARAMILLO - 1501889944"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1501889944",
+            "NOMBRES": "ERNESTO JARAMILLO",
+            "FIRMA ELLECTRONICA": "ERNESTO JARAMILLO - 1501889944",
+            "AL PIE DE LA FIRMA": "ERNESTO JARAMILLO - 1501889944"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ERNESTO JARAMILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1501889944",
+            "NOMBRES": "ERNESTO JARAMILLO",
+            "SALARIO": "1.846.894",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1501889944",
+            "NOMBRES": "ERNESTO JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "2.710.586"
+        }
+    }
+]

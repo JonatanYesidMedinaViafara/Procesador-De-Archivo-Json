@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "165331073729",
+            "SOLICITUD": "4978265",
+            "CEDULA": "1030212423",
+            "NOMBRES": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA",
+            "RECOMPRA O DESEMBOLSO": "3.840.027",
+            "FIRMA ELLECTRONICA": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA - 1030212423"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "165331073729",
+            "NOMBRES": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA",
+            "CREDITO": "11.301.060",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "370.384",
+            "FIRMA ELLECTRONICA": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA - 1030212423",
+            "AL PIE DE LA FIRMA": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA - 1030212423"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1030212423",
+            "NOMBRES": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA",
+            "FECHA NACIMIENTO": "24/05/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.301.060",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA - 1030212423",
+            "AL PIE DE LA FIRMA": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA - 1030212423"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4978265",
+            "CEDULA": "1030212423",
+            "NOMBRES": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA",
+            "CREDITO": "11.301.060",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "370.384",
+            "E.A": "26.04%",
+            "RECOMPRA O DESEMBOLSO": "3.840.027",
+            "FIRMA ELLECTRONICA": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA - 1030212423"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1030212423",
+            "NOMBRES": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA",
+            "FIRMA ELLECTRONICA": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA - 1030212423"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1030212423",
+            "NOMBRES": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA",
+            "FIRMA ELLECTRONICA": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA - 1030212423",
+            "AL PIE DE LA FIRMA": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA - 1030212423"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1030212423",
+            "NOMBRES": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA",
+            "SALARIO": "1.420.574",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1030212423",
+            "NOMBRES": "ÁLVARO ISAÍAS CÓRDOBA PEDRAZA",
+            "RECOMPRA O DESEMBOLSO": "3.840.027"
+        }
+    }
+]

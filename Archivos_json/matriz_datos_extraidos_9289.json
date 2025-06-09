@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "265815003306",
+            "SOLICITUD": "3477598",
+            "CEDULA": "1326009641",
+            "NOMBRES": "DAVID WILSON FLÓREZ VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.506.798",
+            "FIRMA ELLECTRONICA": "DAVID WILSON FLÓREZ VARGAS - 1326009641"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "265815003306",
+            "NOMBRES": "DAVID WILSON FLÓREZ VARGAS",
+            "CREDITO": "12.045.500",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "354.017",
+            "FIRMA ELLECTRONICA": "DAVID WILSON FLÓREZ VARGAS - 1326009641",
+            "AL PIE DE LA FIRMA": "DAVID WILSON FLÓREZ VARGAS - 1326009641"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1326009641",
+            "NOMBRES": "DAVID WILSON FLÓREZ VARGAS",
+            "FECHA NACIMIENTO": "14/10/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.045.500",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DAVID WILSON FLÓREZ VARGAS - 1326009641",
+            "AL PIE DE LA FIRMA": "DAVID WILSON FLÓREZ VARGAS - 1326009641"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3477598",
+            "CEDULA": "1326009641",
+            "NOMBRES": "DAVID WILSON FLÓREZ VARGAS",
+            "CREDITO": "12.045.500",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "354.017",
+            "E.A": "23.24%",
+            "RECOMPRA O DESEMBOLSO": "2.506.798",
+            "FIRMA ELLECTRONICA": "DAVID WILSON FLÓREZ VARGAS - 1326009641"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1326009641",
+            "NOMBRES": "DAVID WILSON FLÓREZ VARGAS",
+            "FIRMA ELLECTRONICA": "DAVID WILSON FLÓREZ VARGAS - 1326009641"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1326009641",
+            "NOMBRES": "DAVID WILSON FLÓREZ VARGAS",
+            "FIRMA ELLECTRONICA": "DAVID WILSON FLÓREZ VARGAS - 1326009641",
+            "AL PIE DE LA FIRMA": "DAVID WILSON FLÓREZ VARGAS - 1326009641"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID WILSON FLÓREZ VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1326009641",
+            "NOMBRES": "DAVID WILSON FLÓREZ VARGAS",
+            "SALARIO": "2.378.686",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1326009641",
+            "NOMBRES": "DAVID WILSON FLÓREZ VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.506.798"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "590724476544",
+            "SOLICITUD": "8033867",
+            "CEDULA": "1337530229",
+            "NOMBRES": "ANTONIO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.507.644",
+            "FIRMA ELLECTRONICA": "ANTONIO GÓMEZ - 1337530229"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "590724476544",
+            "NOMBRES": "ANTONIO GÓMEZ",
+            "CREDITO": "13.757.226",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "242.855",
+            "FIRMA ELLECTRONICA": "ANTONIO GÓMEZ - 1337530229",
+            "AL PIE DE LA FIRMA": "ANTONIO GÓMEZ - 1337530229"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1337530229",
+            "NOMBRES": "ANTONIO GÓMEZ",
+            "FECHA NACIMIENTO": "01/11/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.757.226",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANTONIO GÓMEZ - 1337530229",
+            "AL PIE DE LA FIRMA": "ANTONIO GÓMEZ - 1337530229"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8033867",
+            "CEDULA": "1337530229",
+            "NOMBRES": "ANTONIO GÓMEZ",
+            "CREDITO": "13.757.226",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "242.855",
+            "E.A": "21.95%",
+            "RECOMPRA O DESEMBOLSO": "2.507.644",
+            "FIRMA ELLECTRONICA": "ANTONIO GÓMEZ - 1337530229"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1337530229",
+            "NOMBRES": "ANTONIO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANTONIO GÓMEZ - 1337530229"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1337530229",
+            "NOMBRES": "ANTONIO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANTONIO GÓMEZ - 1337530229",
+            "AL PIE DE LA FIRMA": "ANTONIO GÓMEZ - 1337530229"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1337530229",
+            "NOMBRES": "ANTONIO GÓMEZ",
+            "SALARIO": "3.216.801",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1337530229",
+            "NOMBRES": "ANTONIO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.507.644"
+        }
+    }
+]

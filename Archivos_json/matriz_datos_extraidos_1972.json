@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "199914416451",
+            "SOLICITUD": "8306998",
+            "CEDULA": "1438230488",
+            "NOMBRES": "HÉCTOR JOSÉ RAMOS",
+            "RECOMPRA O DESEMBOLSO": "2.261.878",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ RAMOS - 1438230488"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "199914416451",
+            "NOMBRES": "HÉCTOR JOSÉ RAMOS",
+            "CREDITO": "16.453.782",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "135.75",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ RAMOS - 1438230488",
+            "AL PIE DE LA FIRMA": "HÉCTOR JOSÉ RAMOS - 1438230488"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1438230488",
+            "NOMBRES": "HÉCTOR JOSÉ RAMOS",
+            "FECHA NACIMIENTO": "28/04/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.453.782",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ RAMOS - 1438230488",
+            "AL PIE DE LA FIRMA": "HÉCTOR JOSÉ RAMOS - 1438230488"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8306998",
+            "CEDULA": "1438230488",
+            "NOMBRES": "HÉCTOR JOSÉ RAMOS",
+            "CREDITO": "16.453.782",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "135.75",
+            "E.A": "19.7%",
+            "RECOMPRA O DESEMBOLSO": "2.261.878",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ RAMOS - 1438230488"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1438230488",
+            "NOMBRES": "HÉCTOR JOSÉ RAMOS",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ RAMOS - 1438230488"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1438230488",
+            "NOMBRES": "HÉCTOR JOSÉ RAMOS",
+            "FIRMA ELLECTRONICA": "HÉCTOR JOSÉ RAMOS - 1438230488",
+            "AL PIE DE LA FIRMA": "HÉCTOR JOSÉ RAMOS - 1438230488"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HÉCTOR JOSÉ RAMOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1438230488",
+            "NOMBRES": "HÉCTOR JOSÉ RAMOS",
+            "SALARIO": "1.089.758",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1438230488",
+            "NOMBRES": "HÉCTOR JOSÉ RAMOS",
+            "RECOMPRA O DESEMBOLSO": "2.261.878"
+        }
+    }
+]

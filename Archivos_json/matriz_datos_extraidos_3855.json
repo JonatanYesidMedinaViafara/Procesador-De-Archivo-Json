@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "959136329083",
+            "SOLICITUD": "4246085",
+            "CEDULA": "1290524893",
+            "NOMBRES": "MARÍA ALBA MIRANDA",
+            "RECOMPRA O DESEMBOLSO": "4.682.004",
+            "FIRMA ELLECTRONICA": "MARÍA ALBA MIRANDA - 1290524893"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "959136329083",
+            "NOMBRES": "MARÍA ALBA MIRANDA",
+            "CREDITO": "16.955.772",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "192.369",
+            "FIRMA ELLECTRONICA": "MARÍA ALBA MIRANDA - 1290524893",
+            "AL PIE DE LA FIRMA": "MARÍA ALBA MIRANDA - 1290524893"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1290524893",
+            "NOMBRES": "MARÍA ALBA MIRANDA",
+            "FECHA NACIMIENTO": "12/02/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.955.772",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA ALBA MIRANDA - 1290524893",
+            "AL PIE DE LA FIRMA": "MARÍA ALBA MIRANDA - 1290524893"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4246085",
+            "CEDULA": "1290524893",
+            "NOMBRES": "MARÍA ALBA MIRANDA",
+            "CREDITO": "16.955.772",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "192.369",
+            "E.A": "27.94%",
+            "RECOMPRA O DESEMBOLSO": "4.682.004",
+            "FIRMA ELLECTRONICA": "MARÍA ALBA MIRANDA - 1290524893"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1290524893",
+            "NOMBRES": "MARÍA ALBA MIRANDA",
+            "FIRMA ELLECTRONICA": "MARÍA ALBA MIRANDA - 1290524893"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1290524893",
+            "NOMBRES": "MARÍA ALBA MIRANDA",
+            "FIRMA ELLECTRONICA": "MARÍA ALBA MIRANDA - 1290524893",
+            "AL PIE DE LA FIRMA": "MARÍA ALBA MIRANDA - 1290524893"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ALBA MIRANDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1290524893",
+            "NOMBRES": "MARÍA ALBA MIRANDA",
+            "SALARIO": "4.461.176",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1290524893",
+            "NOMBRES": "MARÍA ALBA MIRANDA",
+            "RECOMPRA O DESEMBOLSO": "4.682.004"
+        }
+    }
+]

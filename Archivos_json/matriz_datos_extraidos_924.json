@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "375493998212",
+            "SOLICITUD": "2478994",
+            "CEDULA": "1070274914",
+            "NOMBRES": "JOHANA ISABEL GUERRERO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.189.926",
+            "FIRMA ELLECTRONICA": "JOHANA ISABEL GUERRERO DÍAZ - 1070274914"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "375493998212",
+            "NOMBRES": "JOHANA ISABEL GUERRERO DÍAZ",
+            "CREDITO": "14.844.747",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "165.73",
+            "FIRMA ELLECTRONICA": "JOHANA ISABEL GUERRERO DÍAZ - 1070274914",
+            "AL PIE DE LA FIRMA": "JOHANA ISABEL GUERRERO DÍAZ - 1070274914"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1070274914",
+            "NOMBRES": "JOHANA ISABEL GUERRERO DÍAZ",
+            "FECHA NACIMIENTO": "19/01/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.844.747",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOHANA ISABEL GUERRERO DÍAZ - 1070274914",
+            "AL PIE DE LA FIRMA": "JOHANA ISABEL GUERRERO DÍAZ - 1070274914"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2478994",
+            "CEDULA": "1070274914",
+            "NOMBRES": "JOHANA ISABEL GUERRERO DÍAZ",
+            "CREDITO": "14.844.747",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "165.73",
+            "E.A": "23.49%",
+            "RECOMPRA O DESEMBOLSO": "2.189.926",
+            "FIRMA ELLECTRONICA": "JOHANA ISABEL GUERRERO DÍAZ - 1070274914"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1070274914",
+            "NOMBRES": "JOHANA ISABEL GUERRERO DÍAZ",
+            "FIRMA ELLECTRONICA": "JOHANA ISABEL GUERRERO DÍAZ - 1070274914"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1070274914",
+            "NOMBRES": "JOHANA ISABEL GUERRERO DÍAZ",
+            "FIRMA ELLECTRONICA": "JOHANA ISABEL GUERRERO DÍAZ - 1070274914",
+            "AL PIE DE LA FIRMA": "JOHANA ISABEL GUERRERO DÍAZ - 1070274914"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHANA ISABEL GUERRERO DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1070274914",
+            "NOMBRES": "JOHANA ISABEL GUERRERO DÍAZ",
+            "SALARIO": "3.491.344",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1070274914",
+            "NOMBRES": "JOHANA ISABEL GUERRERO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.189.926"
+        }
+    }
+]

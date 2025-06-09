@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "794671708210",
+            "SOLICITUD": "2329194",
+            "CEDULA": "1757026014",
+            "NOMBRES": "MARTÍN DÍAZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.459.034",
+            "FIRMA ELLECTRONICA": "MARTÍN DÍAZ GÓMEZ - 1757026014"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "794671708210",
+            "NOMBRES": "MARTÍN DÍAZ GÓMEZ",
+            "CREDITO": "5.336.608",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "181.43",
+            "FIRMA ELLECTRONICA": "MARTÍN DÍAZ GÓMEZ - 1757026014",
+            "AL PIE DE LA FIRMA": "MARTÍN DÍAZ GÓMEZ - 1757026014"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1757026014",
+            "NOMBRES": "MARTÍN DÍAZ GÓMEZ",
+            "FECHA NACIMIENTO": "19/03/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.336.608",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARTÍN DÍAZ GÓMEZ - 1757026014",
+            "AL PIE DE LA FIRMA": "MARTÍN DÍAZ GÓMEZ - 1757026014"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2329194",
+            "CEDULA": "1757026014",
+            "NOMBRES": "MARTÍN DÍAZ GÓMEZ",
+            "CREDITO": "5.336.608",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "181.43",
+            "E.A": "25.8%",
+            "RECOMPRA O DESEMBOLSO": "1.459.034",
+            "FIRMA ELLECTRONICA": "MARTÍN DÍAZ GÓMEZ - 1757026014"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1757026014",
+            "NOMBRES": "MARTÍN DÍAZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARTÍN DÍAZ GÓMEZ - 1757026014"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1757026014",
+            "NOMBRES": "MARTÍN DÍAZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARTÍN DÍAZ GÓMEZ - 1757026014",
+            "AL PIE DE LA FIRMA": "MARTÍN DÍAZ GÓMEZ - 1757026014"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTÍN DÍAZ GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1757026014",
+            "NOMBRES": "MARTÍN DÍAZ GÓMEZ",
+            "SALARIO": "1.865.821",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1757026014",
+            "NOMBRES": "MARTÍN DÍAZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.459.034"
+        }
+    }
+]

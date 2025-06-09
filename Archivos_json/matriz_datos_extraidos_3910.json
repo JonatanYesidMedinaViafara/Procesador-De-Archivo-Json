@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "793422173784",
+            "SOLICITUD": "9091590",
+            "CEDULA": "1788051638",
+            "NOMBRES": "LUIS ALEXIS DURÁN",
+            "RECOMPRA O DESEMBOLSO": "4.550.421",
+            "FIRMA ELLECTRONICA": "LUIS ALEXIS DURÁN - 1788051638"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "793422173784",
+            "NOMBRES": "LUIS ALEXIS DURÁN",
+            "CREDITO": "15.333.611",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "181.412",
+            "FIRMA ELLECTRONICA": "LUIS ALEXIS DURÁN - 1788051638",
+            "AL PIE DE LA FIRMA": "LUIS ALEXIS DURÁN - 1788051638"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1788051638",
+            "NOMBRES": "LUIS ALEXIS DURÁN",
+            "FECHA NACIMIENTO": "11/12/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.333.611",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUIS ALEXIS DURÁN - 1788051638",
+            "AL PIE DE LA FIRMA": "LUIS ALEXIS DURÁN - 1788051638"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9091590",
+            "CEDULA": "1788051638",
+            "NOMBRES": "LUIS ALEXIS DURÁN",
+            "CREDITO": "15.333.611",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "181.412",
+            "E.A": "18.48%",
+            "RECOMPRA O DESEMBOLSO": "4.550.421",
+            "FIRMA ELLECTRONICA": "LUIS ALEXIS DURÁN - 1788051638"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1788051638",
+            "NOMBRES": "LUIS ALEXIS DURÁN",
+            "FIRMA ELLECTRONICA": "LUIS ALEXIS DURÁN - 1788051638"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1788051638",
+            "NOMBRES": "LUIS ALEXIS DURÁN",
+            "FIRMA ELLECTRONICA": "LUIS ALEXIS DURÁN - 1788051638",
+            "AL PIE DE LA FIRMA": "LUIS ALEXIS DURÁN - 1788051638"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS ALEXIS DURÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1788051638",
+            "NOMBRES": "LUIS ALEXIS DURÁN",
+            "SALARIO": "2.236.070",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1788051638",
+            "NOMBRES": "LUIS ALEXIS DURÁN",
+            "RECOMPRA O DESEMBOLSO": "4.550.421"
+        }
+    }
+]

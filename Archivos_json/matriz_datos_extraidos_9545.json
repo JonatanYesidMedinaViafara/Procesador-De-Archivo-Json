@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "212565870405",
+            "SOLICITUD": "3444174",
+            "CEDULA": "1587130447",
+            "NOMBRES": "JESÚS VARGAS ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "3.936.470",
+            "FIRMA ELLECTRONICA": "JESÚS VARGAS ORTEGA - 1587130447"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "212565870405",
+            "NOMBRES": "JESÚS VARGAS ORTEGA",
+            "CREDITO": "8.399.309",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.7",
+            "FIRMA ELLECTRONICA": "JESÚS VARGAS ORTEGA - 1587130447",
+            "AL PIE DE LA FIRMA": "JESÚS VARGAS ORTEGA - 1587130447"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1587130447",
+            "NOMBRES": "JESÚS VARGAS ORTEGA",
+            "FECHA NACIMIENTO": "23/12/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.399.309",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JESÚS VARGAS ORTEGA - 1587130447",
+            "AL PIE DE LA FIRMA": "JESÚS VARGAS ORTEGA - 1587130447"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3444174",
+            "CEDULA": "1587130447",
+            "NOMBRES": "JESÚS VARGAS ORTEGA",
+            "CREDITO": "8.399.309",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.7",
+            "E.A": "28.73%",
+            "RECOMPRA O DESEMBOLSO": "3.936.470",
+            "FIRMA ELLECTRONICA": "JESÚS VARGAS ORTEGA - 1587130447"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1587130447",
+            "NOMBRES": "JESÚS VARGAS ORTEGA",
+            "FIRMA ELLECTRONICA": "JESÚS VARGAS ORTEGA - 1587130447"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1587130447",
+            "NOMBRES": "JESÚS VARGAS ORTEGA",
+            "FIRMA ELLECTRONICA": "JESÚS VARGAS ORTEGA - 1587130447",
+            "AL PIE DE LA FIRMA": "JESÚS VARGAS ORTEGA - 1587130447"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS VARGAS ORTEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1587130447",
+            "NOMBRES": "JESÚS VARGAS ORTEGA",
+            "SALARIO": "4.345.607",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1587130447",
+            "NOMBRES": "JESÚS VARGAS ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "3.936.470"
+        }
+    }
+]

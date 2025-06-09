@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "821056612935",
+            "SOLICITUD": "6170346",
+            "CEDULA": "1822100064",
+            "NOMBRES": "RUTH VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.772.237",
+            "FIRMA ELLECTRONICA": "RUTH VALENCIA - 1822100064"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "821056612935",
+            "NOMBRES": "RUTH VALENCIA",
+            "CREDITO": "16.290.778",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "239.875",
+            "FIRMA ELLECTRONICA": "RUTH VALENCIA - 1822100064",
+            "AL PIE DE LA FIRMA": "RUTH VALENCIA - 1822100064"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1822100064",
+            "NOMBRES": "RUTH VALENCIA",
+            "FECHA NACIMIENTO": "03/12/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.290.778",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "RUTH VALENCIA - 1822100064",
+            "AL PIE DE LA FIRMA": "RUTH VALENCIA - 1822100064"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6170346",
+            "CEDULA": "1822100064",
+            "NOMBRES": "RUTH VALENCIA",
+            "CREDITO": "16.290.778",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "239.875",
+            "E.A": "25.37%",
+            "RECOMPRA O DESEMBOLSO": "3.772.237",
+            "FIRMA ELLECTRONICA": "RUTH VALENCIA - 1822100064"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1822100064",
+            "NOMBRES": "RUTH VALENCIA",
+            "FIRMA ELLECTRONICA": "RUTH VALENCIA - 1822100064"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1822100064",
+            "NOMBRES": "RUTH VALENCIA",
+            "FIRMA ELLECTRONICA": "RUTH VALENCIA - 1822100064",
+            "AL PIE DE LA FIRMA": "RUTH VALENCIA - 1822100064"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUTH VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1822100064",
+            "NOMBRES": "RUTH VALENCIA",
+            "SALARIO": "4.460.810",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1822100064",
+            "NOMBRES": "RUTH VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.772.237"
+        }
+    }
+]

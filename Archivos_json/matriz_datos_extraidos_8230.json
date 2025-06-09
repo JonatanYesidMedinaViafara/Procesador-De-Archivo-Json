@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "354607285294",
+            "SOLICITUD": "3136894",
+            "CEDULA": "1552163843",
+            "NOMBRES": "JUAN VILLAMIL",
+            "RECOMPRA O DESEMBOLSO": "4.649.951",
+            "FIRMA ELLECTRONICA": "JUAN VILLAMIL - 1552163843"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "354607285294",
+            "NOMBRES": "JUAN VILLAMIL",
+            "CREDITO": "16.957.615",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "143.531",
+            "FIRMA ELLECTRONICA": "JUAN VILLAMIL - 1552163843",
+            "AL PIE DE LA FIRMA": "JUAN VILLAMIL - 1552163843"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1552163843",
+            "NOMBRES": "JUAN VILLAMIL",
+            "FECHA NACIMIENTO": "15/11/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.957.615",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN VILLAMIL - 1552163843",
+            "AL PIE DE LA FIRMA": "JUAN VILLAMIL - 1552163843"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3136894",
+            "CEDULA": "1552163843",
+            "NOMBRES": "JUAN VILLAMIL",
+            "CREDITO": "16.957.615",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "143.531",
+            "E.A": "18.12%",
+            "RECOMPRA O DESEMBOLSO": "4.649.951",
+            "FIRMA ELLECTRONICA": "JUAN VILLAMIL - 1552163843"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1552163843",
+            "NOMBRES": "JUAN VILLAMIL",
+            "FIRMA ELLECTRONICA": "JUAN VILLAMIL - 1552163843"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1552163843",
+            "NOMBRES": "JUAN VILLAMIL",
+            "FIRMA ELLECTRONICA": "JUAN VILLAMIL - 1552163843",
+            "AL PIE DE LA FIRMA": "JUAN VILLAMIL - 1552163843"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN VILLAMIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1552163843",
+            "NOMBRES": "JUAN VILLAMIL",
+            "SALARIO": "4.687.260",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1552163843",
+            "NOMBRES": "JUAN VILLAMIL",
+            "RECOMPRA O DESEMBOLSO": "4.649.951"
+        }
+    }
+]

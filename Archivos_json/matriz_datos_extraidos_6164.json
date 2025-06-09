@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "856636810402",
+            "SOLICITUD": "6395492",
+            "CEDULA": "1186124200",
+            "NOMBRES": "ALEJANDRA NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "1.331.547",
+            "FIRMA ELLECTRONICA": "ALEJANDRA NAVARRO - 1186124200"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "856636810402",
+            "NOMBRES": "ALEJANDRA NAVARRO",
+            "CREDITO": "6.726.631",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "212.43",
+            "FIRMA ELLECTRONICA": "ALEJANDRA NAVARRO - 1186124200",
+            "AL PIE DE LA FIRMA": "ALEJANDRA NAVARRO - 1186124200"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1186124200",
+            "NOMBRES": "ALEJANDRA NAVARRO",
+            "FECHA NACIMIENTO": "28/03/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.726.631",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALEJANDRA NAVARRO - 1186124200",
+            "AL PIE DE LA FIRMA": "ALEJANDRA NAVARRO - 1186124200"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6395492",
+            "CEDULA": "1186124200",
+            "NOMBRES": "ALEJANDRA NAVARRO",
+            "CREDITO": "6.726.631",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "212.43",
+            "E.A": "23.17%",
+            "RECOMPRA O DESEMBOLSO": "1.331.547",
+            "FIRMA ELLECTRONICA": "ALEJANDRA NAVARRO - 1186124200"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1186124200",
+            "NOMBRES": "ALEJANDRA NAVARRO",
+            "FIRMA ELLECTRONICA": "ALEJANDRA NAVARRO - 1186124200"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1186124200",
+            "NOMBRES": "ALEJANDRA NAVARRO",
+            "FIRMA ELLECTRONICA": "ALEJANDRA NAVARRO - 1186124200",
+            "AL PIE DE LA FIRMA": "ALEJANDRA NAVARRO - 1186124200"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRA NAVARRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1186124200",
+            "NOMBRES": "ALEJANDRA NAVARRO",
+            "SALARIO": "2.761.161",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1186124200",
+            "NOMBRES": "ALEJANDRA NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "1.331.547"
+        }
+    }
+]

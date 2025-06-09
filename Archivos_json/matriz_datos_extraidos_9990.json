@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "865118217971",
+            "SOLICITUD": "7471000",
+            "CEDULA": "1312017757",
+            "NOMBRES": "JAVIER MANUEL CORTÉS CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "1.441.815",
+            "FIRMA ELLECTRONICA": "JAVIER MANUEL CORTÉS CANTILLO - 1312017757"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "865118217971",
+            "NOMBRES": "JAVIER MANUEL CORTÉS CANTILLO",
+            "CREDITO": "17.148.215",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "201.993",
+            "FIRMA ELLECTRONICA": "JAVIER MANUEL CORTÉS CANTILLO - 1312017757",
+            "AL PIE DE LA FIRMA": "JAVIER MANUEL CORTÉS CANTILLO - 1312017757"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1312017757",
+            "NOMBRES": "JAVIER MANUEL CORTÉS CANTILLO",
+            "FECHA NACIMIENTO": "27/01/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.148.215",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAVIER MANUEL CORTÉS CANTILLO - 1312017757",
+            "AL PIE DE LA FIRMA": "JAVIER MANUEL CORTÉS CANTILLO - 1312017757"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7471000",
+            "CEDULA": "1312017757",
+            "NOMBRES": "JAVIER MANUEL CORTÉS CANTILLO",
+            "CREDITO": "17.148.215",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "201.993",
+            "E.A": "20.64%",
+            "RECOMPRA O DESEMBOLSO": "1.441.815",
+            "FIRMA ELLECTRONICA": "JAVIER MANUEL CORTÉS CANTILLO - 1312017757"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1312017757",
+            "NOMBRES": "JAVIER MANUEL CORTÉS CANTILLO",
+            "FIRMA ELLECTRONICA": "JAVIER MANUEL CORTÉS CANTILLO - 1312017757"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1312017757",
+            "NOMBRES": "JAVIER MANUEL CORTÉS CANTILLO",
+            "FIRMA ELLECTRONICA": "JAVIER MANUEL CORTÉS CANTILLO - 1312017757",
+            "AL PIE DE LA FIRMA": "JAVIER MANUEL CORTÉS CANTILLO - 1312017757"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER MANUEL CORTÉS CANTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1312017757",
+            "NOMBRES": "JAVIER MANUEL CORTÉS CANTILLO",
+            "SALARIO": "3.329.180",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1312017757",
+            "NOMBRES": "JAVIER MANUEL CORTÉS CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "1.441.815"
+        }
+    }
+]

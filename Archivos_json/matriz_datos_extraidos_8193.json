@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "526648853674",
+            "SOLICITUD": "1692370",
+            "CEDULA": "1819005765",
+            "NOMBRES": "ALBERTO DIEGO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.105.968",
+            "FIRMA ELLECTRONICA": "ALBERTO DIEGO SÁNCHEZ - 1819005765"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "526648853674",
+            "NOMBRES": "ALBERTO DIEGO SÁNCHEZ",
+            "CREDITO": "13.691.192",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "347.025",
+            "FIRMA ELLECTRONICA": "ALBERTO DIEGO SÁNCHEZ - 1819005765",
+            "AL PIE DE LA FIRMA": "ALBERTO DIEGO SÁNCHEZ - 1819005765"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1819005765",
+            "NOMBRES": "ALBERTO DIEGO SÁNCHEZ",
+            "FECHA NACIMIENTO": "14/07/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.691.192",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALBERTO DIEGO SÁNCHEZ - 1819005765",
+            "AL PIE DE LA FIRMA": "ALBERTO DIEGO SÁNCHEZ - 1819005765"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1692370",
+            "CEDULA": "1819005765",
+            "NOMBRES": "ALBERTO DIEGO SÁNCHEZ",
+            "CREDITO": "13.691.192",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "347.025",
+            "E.A": "25.9%",
+            "RECOMPRA O DESEMBOLSO": "2.105.968",
+            "FIRMA ELLECTRONICA": "ALBERTO DIEGO SÁNCHEZ - 1819005765"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1819005765",
+            "NOMBRES": "ALBERTO DIEGO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO DIEGO SÁNCHEZ - 1819005765"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1819005765",
+            "NOMBRES": "ALBERTO DIEGO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO DIEGO SÁNCHEZ - 1819005765",
+            "AL PIE DE LA FIRMA": "ALBERTO DIEGO SÁNCHEZ - 1819005765"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO DIEGO SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1819005765",
+            "NOMBRES": "ALBERTO DIEGO SÁNCHEZ",
+            "SALARIO": "4.891.377",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1819005765",
+            "NOMBRES": "ALBERTO DIEGO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.105.968"
+        }
+    }
+]

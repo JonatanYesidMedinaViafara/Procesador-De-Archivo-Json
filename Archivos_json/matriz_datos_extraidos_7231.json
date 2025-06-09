@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "280101647186",
+            "SOLICITUD": "1844031",
+            "CEDULA": "1136669477",
+            "NOMBRES": "HUGO JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.876.518",
+            "FIRMA ELLECTRONICA": "HUGO JIMÉNEZ - 1136669477"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "280101647186",
+            "NOMBRES": "HUGO JIMÉNEZ",
+            "CREDITO": "19.908.124",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "128.821",
+            "FIRMA ELLECTRONICA": "HUGO JIMÉNEZ - 1136669477",
+            "AL PIE DE LA FIRMA": "HUGO JIMÉNEZ - 1136669477"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1136669477",
+            "NOMBRES": "HUGO JIMÉNEZ",
+            "FECHA NACIMIENTO": "22/02/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.908.124",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HUGO JIMÉNEZ - 1136669477",
+            "AL PIE DE LA FIRMA": "HUGO JIMÉNEZ - 1136669477"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1844031",
+            "CEDULA": "1136669477",
+            "NOMBRES": "HUGO JIMÉNEZ",
+            "CREDITO": "19.908.124",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "128.821",
+            "E.A": "27.79%",
+            "RECOMPRA O DESEMBOLSO": "1.876.518",
+            "FIRMA ELLECTRONICA": "HUGO JIMÉNEZ - 1136669477"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1136669477",
+            "NOMBRES": "HUGO JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "HUGO JIMÉNEZ - 1136669477"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1136669477",
+            "NOMBRES": "HUGO JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "HUGO JIMÉNEZ - 1136669477",
+            "AL PIE DE LA FIRMA": "HUGO JIMÉNEZ - 1136669477"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HUGO JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1136669477",
+            "NOMBRES": "HUGO JIMÉNEZ",
+            "SALARIO": "4.310.259",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1136669477",
+            "NOMBRES": "HUGO JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.876.518"
+        }
+    }
+]

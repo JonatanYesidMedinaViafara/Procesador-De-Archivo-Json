@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "122915756219",
+            "SOLICITUD": "3002167",
+            "CEDULA": "1148202572",
+            "NOMBRES": "YAIR SILVA",
+            "RECOMPRA O DESEMBOLSO": "3.778.021",
+            "FIRMA ELLECTRONICA": "YAIR SILVA - 1148202572"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "122915756219",
+            "NOMBRES": "YAIR SILVA",
+            "CREDITO": "8.128.202",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "140.517",
+            "FIRMA ELLECTRONICA": "YAIR SILVA - 1148202572",
+            "AL PIE DE LA FIRMA": "YAIR SILVA - 1148202572"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1148202572",
+            "NOMBRES": "YAIR SILVA",
+            "FECHA NACIMIENTO": "28/11/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.128.202",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "YAIR SILVA - 1148202572",
+            "AL PIE DE LA FIRMA": "YAIR SILVA - 1148202572"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3002167",
+            "CEDULA": "1148202572",
+            "NOMBRES": "YAIR SILVA",
+            "CREDITO": "8.128.202",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "140.517",
+            "E.A": "20.14%",
+            "RECOMPRA O DESEMBOLSO": "3.778.021",
+            "FIRMA ELLECTRONICA": "YAIR SILVA - 1148202572"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1148202572",
+            "NOMBRES": "YAIR SILVA",
+            "FIRMA ELLECTRONICA": "YAIR SILVA - 1148202572"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1148202572",
+            "NOMBRES": "YAIR SILVA",
+            "FIRMA ELLECTRONICA": "YAIR SILVA - 1148202572",
+            "AL PIE DE LA FIRMA": "YAIR SILVA - 1148202572"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YAIR SILVA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1148202572",
+            "NOMBRES": "YAIR SILVA",
+            "SALARIO": "4.208.017",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1148202572",
+            "NOMBRES": "YAIR SILVA",
+            "RECOMPRA O DESEMBOLSO": "3.778.021"
+        }
+    }
+]

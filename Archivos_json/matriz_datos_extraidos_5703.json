@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "729611973933",
+            "SOLICITUD": "6076174",
+            "CEDULA": "1463692884",
+            "NOMBRES": "MAURICIO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.083.112",
+            "FIRMA ELLECTRONICA": "MAURICIO SUÁREZ - 1463692884"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "729611973933",
+            "NOMBRES": "MAURICIO SUÁREZ",
+            "CREDITO": "5.849.661",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "399.231",
+            "FIRMA ELLECTRONICA": "MAURICIO SUÁREZ - 1463692884",
+            "AL PIE DE LA FIRMA": "MAURICIO SUÁREZ - 1463692884"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1463692884",
+            "NOMBRES": "MAURICIO SUÁREZ",
+            "FECHA NACIMIENTO": "04/02/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.849.661",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MAURICIO SUÁREZ - 1463692884",
+            "AL PIE DE LA FIRMA": "MAURICIO SUÁREZ - 1463692884"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6076174",
+            "CEDULA": "1463692884",
+            "NOMBRES": "MAURICIO SUÁREZ",
+            "CREDITO": "5.849.661",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "399.231",
+            "E.A": "23.64%",
+            "RECOMPRA O DESEMBOLSO": "3.083.112",
+            "FIRMA ELLECTRONICA": "MAURICIO SUÁREZ - 1463692884"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1463692884",
+            "NOMBRES": "MAURICIO SUÁREZ",
+            "FIRMA ELLECTRONICA": "MAURICIO SUÁREZ - 1463692884"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1463692884",
+            "NOMBRES": "MAURICIO SUÁREZ",
+            "FIRMA ELLECTRONICA": "MAURICIO SUÁREZ - 1463692884",
+            "AL PIE DE LA FIRMA": "MAURICIO SUÁREZ - 1463692884"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1463692884",
+            "NOMBRES": "MAURICIO SUÁREZ",
+            "SALARIO": "4.540.546",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1463692884",
+            "NOMBRES": "MAURICIO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.083.112"
+        }
+    }
+]

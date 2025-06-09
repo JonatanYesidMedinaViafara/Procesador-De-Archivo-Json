@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "780342666518",
+            "SOLICITUD": "3600864",
+            "CEDULA": "1135022246",
+            "NOMBRES": "ELENA CAMILA GIRALDO ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.093.383",
+            "FIRMA ELLECTRONICA": "ELENA CAMILA GIRALDO ÁLVAREZ - 1135022246"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "780342666518",
+            "NOMBRES": "ELENA CAMILA GIRALDO ÁLVAREZ",
+            "CREDITO": "18.100.398",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "340.444",
+            "FIRMA ELLECTRONICA": "ELENA CAMILA GIRALDO ÁLVAREZ - 1135022246",
+            "AL PIE DE LA FIRMA": "ELENA CAMILA GIRALDO ÁLVAREZ - 1135022246"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1135022246",
+            "NOMBRES": "ELENA CAMILA GIRALDO ÁLVAREZ",
+            "FECHA NACIMIENTO": "25/11/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.100.398",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ELENA CAMILA GIRALDO ÁLVAREZ - 1135022246",
+            "AL PIE DE LA FIRMA": "ELENA CAMILA GIRALDO ÁLVAREZ - 1135022246"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3600864",
+            "CEDULA": "1135022246",
+            "NOMBRES": "ELENA CAMILA GIRALDO ÁLVAREZ",
+            "CREDITO": "18.100.398",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "340.444",
+            "E.A": "23.1%",
+            "RECOMPRA O DESEMBOLSO": "4.093.383",
+            "FIRMA ELLECTRONICA": "ELENA CAMILA GIRALDO ÁLVAREZ - 1135022246"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1135022246",
+            "NOMBRES": "ELENA CAMILA GIRALDO ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "ELENA CAMILA GIRALDO ÁLVAREZ - 1135022246"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1135022246",
+            "NOMBRES": "ELENA CAMILA GIRALDO ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "ELENA CAMILA GIRALDO ÁLVAREZ - 1135022246",
+            "AL PIE DE LA FIRMA": "ELENA CAMILA GIRALDO ÁLVAREZ - 1135022246"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA CAMILA GIRALDO ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1135022246",
+            "NOMBRES": "ELENA CAMILA GIRALDO ÁLVAREZ",
+            "SALARIO": "1.718.625",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1135022246",
+            "NOMBRES": "ELENA CAMILA GIRALDO ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.093.383"
+        }
+    }
+]

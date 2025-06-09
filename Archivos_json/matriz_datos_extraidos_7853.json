@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "699165874907",
+            "SOLICITUD": "9668125",
+            "CEDULA": "1967828787",
+            "NOMBRES": "MARÍA MARCELA CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.061.850",
+            "FIRMA ELLECTRONICA": "MARÍA MARCELA CANTILLO - 1967828787"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "699165874907",
+            "NOMBRES": "MARÍA MARCELA CANTILLO",
+            "CREDITO": "8.127.190",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "144.696",
+            "FIRMA ELLECTRONICA": "MARÍA MARCELA CANTILLO - 1967828787",
+            "AL PIE DE LA FIRMA": "MARÍA MARCELA CANTILLO - 1967828787"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1967828787",
+            "NOMBRES": "MARÍA MARCELA CANTILLO",
+            "FECHA NACIMIENTO": "08/03/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.127.190",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA MARCELA CANTILLO - 1967828787",
+            "AL PIE DE LA FIRMA": "MARÍA MARCELA CANTILLO - 1967828787"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9668125",
+            "CEDULA": "1967828787",
+            "NOMBRES": "MARÍA MARCELA CANTILLO",
+            "CREDITO": "8.127.190",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "144.696",
+            "E.A": "23.49%",
+            "RECOMPRA O DESEMBOLSO": "3.061.850",
+            "FIRMA ELLECTRONICA": "MARÍA MARCELA CANTILLO - 1967828787"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1967828787",
+            "NOMBRES": "MARÍA MARCELA CANTILLO",
+            "FIRMA ELLECTRONICA": "MARÍA MARCELA CANTILLO - 1967828787"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1967828787",
+            "NOMBRES": "MARÍA MARCELA CANTILLO",
+            "FIRMA ELLECTRONICA": "MARÍA MARCELA CANTILLO - 1967828787",
+            "AL PIE DE LA FIRMA": "MARÍA MARCELA CANTILLO - 1967828787"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MARCELA CANTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1967828787",
+            "NOMBRES": "MARÍA MARCELA CANTILLO",
+            "SALARIO": "1.069.678",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1967828787",
+            "NOMBRES": "MARÍA MARCELA CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.061.850"
+        }
+    }
+]

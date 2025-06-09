@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "807943699628",
+            "SOLICITUD": "9244035",
+            "CEDULA": "1567959663",
+            "NOMBRES": "AMPARO ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "2.158.999",
+            "FIRMA ELLECTRONICA": "AMPARO ACEVEDO - 1567959663"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "807943699628",
+            "NOMBRES": "AMPARO ACEVEDO",
+            "CREDITO": "19.264.317",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "374.227",
+            "FIRMA ELLECTRONICA": "AMPARO ACEVEDO - 1567959663",
+            "AL PIE DE LA FIRMA": "AMPARO ACEVEDO - 1567959663"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1567959663",
+            "NOMBRES": "AMPARO ACEVEDO",
+            "FECHA NACIMIENTO": "08/05/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.264.317",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "AMPARO ACEVEDO - 1567959663",
+            "AL PIE DE LA FIRMA": "AMPARO ACEVEDO - 1567959663"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9244035",
+            "CEDULA": "1567959663",
+            "NOMBRES": "AMPARO ACEVEDO",
+            "CREDITO": "19.264.317",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "374.227",
+            "E.A": "19.57%",
+            "RECOMPRA O DESEMBOLSO": "2.158.999",
+            "FIRMA ELLECTRONICA": "AMPARO ACEVEDO - 1567959663"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1567959663",
+            "NOMBRES": "AMPARO ACEVEDO",
+            "FIRMA ELLECTRONICA": "AMPARO ACEVEDO - 1567959663"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1567959663",
+            "NOMBRES": "AMPARO ACEVEDO",
+            "FIRMA ELLECTRONICA": "AMPARO ACEVEDO - 1567959663",
+            "AL PIE DE LA FIRMA": "AMPARO ACEVEDO - 1567959663"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AMPARO ACEVEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1567959663",
+            "NOMBRES": "AMPARO ACEVEDO",
+            "SALARIO": "3.023.026",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1567959663",
+            "NOMBRES": "AMPARO ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "2.158.999"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "203753539299",
+            "SOLICITUD": "2457944",
+            "CEDULA": "1533297896",
+            "NOMBRES": "MÓNICA MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.649.371",
+            "FIRMA ELLECTRONICA": "MÓNICA MORALES - 1533297896"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "203753539299",
+            "NOMBRES": "MÓNICA MORALES",
+            "CREDITO": "9.121.561",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "128.64",
+            "FIRMA ELLECTRONICA": "MÓNICA MORALES - 1533297896",
+            "AL PIE DE LA FIRMA": "MÓNICA MORALES - 1533297896"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1533297896",
+            "NOMBRES": "MÓNICA MORALES",
+            "FECHA NACIMIENTO": "07/02/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.121.561",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MÓNICA MORALES - 1533297896",
+            "AL PIE DE LA FIRMA": "MÓNICA MORALES - 1533297896"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2457944",
+            "CEDULA": "1533297896",
+            "NOMBRES": "MÓNICA MORALES",
+            "CREDITO": "9.121.561",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "128.64",
+            "E.A": "27.89%",
+            "RECOMPRA O DESEMBOLSO": "2.649.371",
+            "FIRMA ELLECTRONICA": "MÓNICA MORALES - 1533297896"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1533297896",
+            "NOMBRES": "MÓNICA MORALES",
+            "FIRMA ELLECTRONICA": "MÓNICA MORALES - 1533297896"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1533297896",
+            "NOMBRES": "MÓNICA MORALES",
+            "FIRMA ELLECTRONICA": "MÓNICA MORALES - 1533297896",
+            "AL PIE DE LA FIRMA": "MÓNICA MORALES - 1533297896"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MÓNICA MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1533297896",
+            "NOMBRES": "MÓNICA MORALES",
+            "SALARIO": "2.128.168",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1533297896",
+            "NOMBRES": "MÓNICA MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.649.371"
+        }
+    }
+]

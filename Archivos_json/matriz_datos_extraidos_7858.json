@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "199837184295",
+            "SOLICITUD": "7061395",
+            "CEDULA": "1203364800",
+            "NOMBRES": "JESÚS LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.892.778",
+            "FIRMA ELLECTRONICA": "JESÚS LÓPEZ - 1203364800"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "199837184295",
+            "NOMBRES": "JESÚS LÓPEZ",
+            "CREDITO": "17.177.238",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "136.532",
+            "FIRMA ELLECTRONICA": "JESÚS LÓPEZ - 1203364800",
+            "AL PIE DE LA FIRMA": "JESÚS LÓPEZ - 1203364800"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1203364800",
+            "NOMBRES": "JESÚS LÓPEZ",
+            "FECHA NACIMIENTO": "10/01/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.177.238",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JESÚS LÓPEZ - 1203364800",
+            "AL PIE DE LA FIRMA": "JESÚS LÓPEZ - 1203364800"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7061395",
+            "CEDULA": "1203364800",
+            "NOMBRES": "JESÚS LÓPEZ",
+            "CREDITO": "17.177.238",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "136.532",
+            "E.A": "20.73%",
+            "RECOMPRA O DESEMBOLSO": "4.892.778",
+            "FIRMA ELLECTRONICA": "JESÚS LÓPEZ - 1203364800"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1203364800",
+            "NOMBRES": "JESÚS LÓPEZ",
+            "FIRMA ELLECTRONICA": "JESÚS LÓPEZ - 1203364800"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1203364800",
+            "NOMBRES": "JESÚS LÓPEZ",
+            "FIRMA ELLECTRONICA": "JESÚS LÓPEZ - 1203364800",
+            "AL PIE DE LA FIRMA": "JESÚS LÓPEZ - 1203364800"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1203364800",
+            "NOMBRES": "JESÚS LÓPEZ",
+            "SALARIO": "4.235.338",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1203364800",
+            "NOMBRES": "JESÚS LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "4.892.778"
+        }
+    }
+]

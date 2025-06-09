@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "906311487635",
+            "SOLICITUD": "1954065",
+            "CEDULA": "1034675310",
+            "NOMBRES": "JOAQUÍN DANIEL BONILLA",
+            "RECOMPRA O DESEMBOLSO": "4.410.132",
+            "FIRMA ELLECTRONICA": "JOAQUÍN DANIEL BONILLA - 1034675310"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "906311487635",
+            "NOMBRES": "JOAQUÍN DANIEL BONILLA",
+            "CREDITO": "5.634.313",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "142.187",
+            "FIRMA ELLECTRONICA": "JOAQUÍN DANIEL BONILLA - 1034675310",
+            "AL PIE DE LA FIRMA": "JOAQUÍN DANIEL BONILLA - 1034675310"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1034675310",
+            "NOMBRES": "JOAQUÍN DANIEL BONILLA",
+            "FECHA NACIMIENTO": "08/07/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.634.313",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOAQUÍN DANIEL BONILLA - 1034675310",
+            "AL PIE DE LA FIRMA": "JOAQUÍN DANIEL BONILLA - 1034675310"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1954065",
+            "CEDULA": "1034675310",
+            "NOMBRES": "JOAQUÍN DANIEL BONILLA",
+            "CREDITO": "5.634.313",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "142.187",
+            "E.A": "24.57%",
+            "RECOMPRA O DESEMBOLSO": "4.410.132",
+            "FIRMA ELLECTRONICA": "JOAQUÍN DANIEL BONILLA - 1034675310"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1034675310",
+            "NOMBRES": "JOAQUÍN DANIEL BONILLA",
+            "FIRMA ELLECTRONICA": "JOAQUÍN DANIEL BONILLA - 1034675310"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1034675310",
+            "NOMBRES": "JOAQUÍN DANIEL BONILLA",
+            "FIRMA ELLECTRONICA": "JOAQUÍN DANIEL BONILLA - 1034675310",
+            "AL PIE DE LA FIRMA": "JOAQUÍN DANIEL BONILLA - 1034675310"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOAQUÍN DANIEL BONILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1034675310",
+            "NOMBRES": "JOAQUÍN DANIEL BONILLA",
+            "SALARIO": "1.873.354",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1034675310",
+            "NOMBRES": "JOAQUÍN DANIEL BONILLA",
+            "RECOMPRA O DESEMBOLSO": "4.410.132"
+        }
+    }
+]

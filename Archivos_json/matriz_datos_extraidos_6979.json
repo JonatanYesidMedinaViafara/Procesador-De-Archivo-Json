@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "124219554390",
+            "SOLICITUD": "1835368",
+            "CEDULA": "1147839993",
+            "NOMBRES": "CARLOS WILMER NARANJO ARRIETA",
+            "RECOMPRA O DESEMBOLSO": "1.661.281",
+            "FIRMA ELLECTRONICA": "CARLOS WILMER NARANJO ARRIETA - 1147839993"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "124219554390",
+            "NOMBRES": "CARLOS WILMER NARANJO ARRIETA",
+            "CREDITO": "6.922.861",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "390.734",
+            "FIRMA ELLECTRONICA": "CARLOS WILMER NARANJO ARRIETA - 1147839993",
+            "AL PIE DE LA FIRMA": "CARLOS WILMER NARANJO ARRIETA - 1147839993"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1147839993",
+            "NOMBRES": "CARLOS WILMER NARANJO ARRIETA",
+            "FECHA NACIMIENTO": "23/08/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.922.861",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS WILMER NARANJO ARRIETA - 1147839993",
+            "AL PIE DE LA FIRMA": "CARLOS WILMER NARANJO ARRIETA - 1147839993"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1835368",
+            "CEDULA": "1147839993",
+            "NOMBRES": "CARLOS WILMER NARANJO ARRIETA",
+            "CREDITO": "6.922.861",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "390.734",
+            "E.A": "18.87%",
+            "RECOMPRA O DESEMBOLSO": "1.661.281",
+            "FIRMA ELLECTRONICA": "CARLOS WILMER NARANJO ARRIETA - 1147839993"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1147839993",
+            "NOMBRES": "CARLOS WILMER NARANJO ARRIETA",
+            "FIRMA ELLECTRONICA": "CARLOS WILMER NARANJO ARRIETA - 1147839993"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1147839993",
+            "NOMBRES": "CARLOS WILMER NARANJO ARRIETA",
+            "FIRMA ELLECTRONICA": "CARLOS WILMER NARANJO ARRIETA - 1147839993",
+            "AL PIE DE LA FIRMA": "CARLOS WILMER NARANJO ARRIETA - 1147839993"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS WILMER NARANJO ARRIETA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1147839993",
+            "NOMBRES": "CARLOS WILMER NARANJO ARRIETA",
+            "SALARIO": "4.796.163",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1147839993",
+            "NOMBRES": "CARLOS WILMER NARANJO ARRIETA",
+            "RECOMPRA O DESEMBOLSO": "1.661.281"
+        }
+    }
+]

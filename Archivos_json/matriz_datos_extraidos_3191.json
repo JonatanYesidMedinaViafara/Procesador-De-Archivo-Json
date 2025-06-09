@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "798182370808",
+            "SOLICITUD": "6521892",
+            "CEDULA": "1234835553",
+            "NOMBRES": "LILIANA ORTIZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.153.190",
+            "FIRMA ELLECTRONICA": "LILIANA ORTIZ ARIAS - 1234835553"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "798182370808",
+            "NOMBRES": "LILIANA ORTIZ ARIAS",
+            "CREDITO": "13.009.128",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "317.19",
+            "FIRMA ELLECTRONICA": "LILIANA ORTIZ ARIAS - 1234835553",
+            "AL PIE DE LA FIRMA": "LILIANA ORTIZ ARIAS - 1234835553"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1234835553",
+            "NOMBRES": "LILIANA ORTIZ ARIAS",
+            "FECHA NACIMIENTO": "04/11/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.009.128",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LILIANA ORTIZ ARIAS - 1234835553",
+            "AL PIE DE LA FIRMA": "LILIANA ORTIZ ARIAS - 1234835553"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6521892",
+            "CEDULA": "1234835553",
+            "NOMBRES": "LILIANA ORTIZ ARIAS",
+            "CREDITO": "13.009.128",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "317.19",
+            "E.A": "28.59%",
+            "RECOMPRA O DESEMBOLSO": "2.153.190",
+            "FIRMA ELLECTRONICA": "LILIANA ORTIZ ARIAS - 1234835553"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1234835553",
+            "NOMBRES": "LILIANA ORTIZ ARIAS",
+            "FIRMA ELLECTRONICA": "LILIANA ORTIZ ARIAS - 1234835553"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1234835553",
+            "NOMBRES": "LILIANA ORTIZ ARIAS",
+            "FIRMA ELLECTRONICA": "LILIANA ORTIZ ARIAS - 1234835553",
+            "AL PIE DE LA FIRMA": "LILIANA ORTIZ ARIAS - 1234835553"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LILIANA ORTIZ ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1234835553",
+            "NOMBRES": "LILIANA ORTIZ ARIAS",
+            "SALARIO": "3.124.939",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1234835553",
+            "NOMBRES": "LILIANA ORTIZ ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.153.190"
+        }
+    }
+]

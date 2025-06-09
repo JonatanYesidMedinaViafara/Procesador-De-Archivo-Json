@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "783727645885",
+            "SOLICITUD": "5839004",
+            "CEDULA": "1010534984",
+            "NOMBRES": "VÍCTOR ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.732.311",
+            "FIRMA ELLECTRONICA": "VÍCTOR ÁLVAREZ - 1010534984"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "783727645885",
+            "NOMBRES": "VÍCTOR ÁLVAREZ",
+            "CREDITO": "8.788.235",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "217.026",
+            "FIRMA ELLECTRONICA": "VÍCTOR ÁLVAREZ - 1010534984",
+            "AL PIE DE LA FIRMA": "VÍCTOR ÁLVAREZ - 1010534984"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1010534984",
+            "NOMBRES": "VÍCTOR ÁLVAREZ",
+            "FECHA NACIMIENTO": "19/01/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.788.235",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "VÍCTOR ÁLVAREZ - 1010534984",
+            "AL PIE DE LA FIRMA": "VÍCTOR ÁLVAREZ - 1010534984"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5839004",
+            "CEDULA": "1010534984",
+            "NOMBRES": "VÍCTOR ÁLVAREZ",
+            "CREDITO": "8.788.235",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "217.026",
+            "E.A": "25.64%",
+            "RECOMPRA O DESEMBOLSO": "4.732.311",
+            "FIRMA ELLECTRONICA": "VÍCTOR ÁLVAREZ - 1010534984"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1010534984",
+            "NOMBRES": "VÍCTOR ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "VÍCTOR ÁLVAREZ - 1010534984"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1010534984",
+            "NOMBRES": "VÍCTOR ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "VÍCTOR ÁLVAREZ - 1010534984",
+            "AL PIE DE LA FIRMA": "VÍCTOR ÁLVAREZ - 1010534984"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VÍCTOR ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1010534984",
+            "NOMBRES": "VÍCTOR ÁLVAREZ",
+            "SALARIO": "3.047.202",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1010534984",
+            "NOMBRES": "VÍCTOR ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.732.311"
+        }
+    }
+]

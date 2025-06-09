@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "917863218114",
+            "SOLICITUD": "4326707",
+            "CEDULA": "1672543057",
+            "NOMBRES": "LAURA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.764.088",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ - 1672543057"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "917863218114",
+            "NOMBRES": "LAURA RODRÍGUEZ",
+            "CREDITO": "14.570.341",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "250.218",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ - 1672543057",
+            "AL PIE DE LA FIRMA": "LAURA RODRÍGUEZ - 1672543057"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1672543057",
+            "NOMBRES": "LAURA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "16/02/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.570.341",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ - 1672543057",
+            "AL PIE DE LA FIRMA": "LAURA RODRÍGUEZ - 1672543057"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4326707",
+            "CEDULA": "1672543057",
+            "NOMBRES": "LAURA RODRÍGUEZ",
+            "CREDITO": "14.570.341",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "250.218",
+            "E.A": "18.96%",
+            "RECOMPRA O DESEMBOLSO": "4.764.088",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ - 1672543057"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1672543057",
+            "NOMBRES": "LAURA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ - 1672543057"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1672543057",
+            "NOMBRES": "LAURA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ - 1672543057",
+            "AL PIE DE LA FIRMA": "LAURA RODRÍGUEZ - 1672543057"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1672543057",
+            "NOMBRES": "LAURA RODRÍGUEZ",
+            "SALARIO": "3.907.250",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1672543057",
+            "NOMBRES": "LAURA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.764.088"
+        }
+    }
+]

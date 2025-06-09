@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "306725912400",
+            "SOLICITUD": "8874705",
+            "CEDULA": "1301329950",
+            "NOMBRES": "DAVID RÍOS",
+            "RECOMPRA O DESEMBOLSO": "1.187.531",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1301329950"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "306725912400",
+            "NOMBRES": "DAVID RÍOS",
+            "CREDITO": "10.478.140",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "111.771",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1301329950",
+            "AL PIE DE LA FIRMA": "DAVID RÍOS - 1301329950"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1301329950",
+            "NOMBRES": "DAVID RÍOS",
+            "FECHA NACIMIENTO": "23/01/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.478.140",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1301329950",
+            "AL PIE DE LA FIRMA": "DAVID RÍOS - 1301329950"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8874705",
+            "CEDULA": "1301329950",
+            "NOMBRES": "DAVID RÍOS",
+            "CREDITO": "10.478.140",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "111.771",
+            "E.A": "22.8%",
+            "RECOMPRA O DESEMBOLSO": "1.187.531",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1301329950"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1301329950",
+            "NOMBRES": "DAVID RÍOS",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1301329950"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1301329950",
+            "NOMBRES": "DAVID RÍOS",
+            "FIRMA ELLECTRONICA": "DAVID RÍOS - 1301329950",
+            "AL PIE DE LA FIRMA": "DAVID RÍOS - 1301329950"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1301329950",
+            "NOMBRES": "DAVID RÍOS",
+            "SALARIO": "4.267.742",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1301329950",
+            "NOMBRES": "DAVID RÍOS",
+            "RECOMPRA O DESEMBOLSO": "1.187.531"
+        }
+    }
+]

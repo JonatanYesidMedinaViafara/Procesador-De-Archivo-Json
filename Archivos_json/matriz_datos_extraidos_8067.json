@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "627369620956",
+            "SOLICITUD": "5130291",
+            "CEDULA": "1657463012",
+            "NOMBRES": "SMITH CÉSAR ARIAS CIFUENTES",
+            "RECOMPRA O DESEMBOLSO": "1.154.962",
+            "FIRMA ELLECTRONICA": "SMITH CÉSAR ARIAS CIFUENTES - 1657463012"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "627369620956",
+            "NOMBRES": "SMITH CÉSAR ARIAS CIFUENTES",
+            "CREDITO": "17.827.751",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "139.23",
+            "FIRMA ELLECTRONICA": "SMITH CÉSAR ARIAS CIFUENTES - 1657463012",
+            "AL PIE DE LA FIRMA": "SMITH CÉSAR ARIAS CIFUENTES - 1657463012"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1657463012",
+            "NOMBRES": "SMITH CÉSAR ARIAS CIFUENTES",
+            "FECHA NACIMIENTO": "29/04/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.827.751",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SMITH CÉSAR ARIAS CIFUENTES - 1657463012",
+            "AL PIE DE LA FIRMA": "SMITH CÉSAR ARIAS CIFUENTES - 1657463012"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5130291",
+            "CEDULA": "1657463012",
+            "NOMBRES": "SMITH CÉSAR ARIAS CIFUENTES",
+            "CREDITO": "17.827.751",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "139.23",
+            "E.A": "22.05%",
+            "RECOMPRA O DESEMBOLSO": "1.154.962",
+            "FIRMA ELLECTRONICA": "SMITH CÉSAR ARIAS CIFUENTES - 1657463012"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1657463012",
+            "NOMBRES": "SMITH CÉSAR ARIAS CIFUENTES",
+            "FIRMA ELLECTRONICA": "SMITH CÉSAR ARIAS CIFUENTES - 1657463012"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1657463012",
+            "NOMBRES": "SMITH CÉSAR ARIAS CIFUENTES",
+            "FIRMA ELLECTRONICA": "SMITH CÉSAR ARIAS CIFUENTES - 1657463012",
+            "AL PIE DE LA FIRMA": "SMITH CÉSAR ARIAS CIFUENTES - 1657463012"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SMITH CÉSAR ARIAS CIFUENTES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1657463012",
+            "NOMBRES": "SMITH CÉSAR ARIAS CIFUENTES",
+            "SALARIO": "1.650.303",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1657463012",
+            "NOMBRES": "SMITH CÉSAR ARIAS CIFUENTES",
+            "RECOMPRA O DESEMBOLSO": "1.154.962"
+        }
+    }
+]

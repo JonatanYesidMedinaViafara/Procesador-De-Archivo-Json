@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "935528723432",
+            "SOLICITUD": "6552484",
+            "CEDULA": "1481336258",
+            "NOMBRES": "LORENA CERÓN",
+            "RECOMPRA O DESEMBOLSO": "2.552.945",
+            "FIRMA ELLECTRONICA": "LORENA CERÓN - 1481336258"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "935528723432",
+            "NOMBRES": "LORENA CERÓN",
+            "CREDITO": "11.396.513",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "310.307",
+            "FIRMA ELLECTRONICA": "LORENA CERÓN - 1481336258",
+            "AL PIE DE LA FIRMA": "LORENA CERÓN - 1481336258"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1481336258",
+            "NOMBRES": "LORENA CERÓN",
+            "FECHA NACIMIENTO": "19/09/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.396.513",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LORENA CERÓN - 1481336258",
+            "AL PIE DE LA FIRMA": "LORENA CERÓN - 1481336258"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6552484",
+            "CEDULA": "1481336258",
+            "NOMBRES": "LORENA CERÓN",
+            "CREDITO": "11.396.513",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "310.307",
+            "E.A": "18.38%",
+            "RECOMPRA O DESEMBOLSO": "2.552.945",
+            "FIRMA ELLECTRONICA": "LORENA CERÓN - 1481336258"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1481336258",
+            "NOMBRES": "LORENA CERÓN",
+            "FIRMA ELLECTRONICA": "LORENA CERÓN - 1481336258"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1481336258",
+            "NOMBRES": "LORENA CERÓN",
+            "FIRMA ELLECTRONICA": "LORENA CERÓN - 1481336258",
+            "AL PIE DE LA FIRMA": "LORENA CERÓN - 1481336258"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LORENA CERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1481336258",
+            "NOMBRES": "LORENA CERÓN",
+            "SALARIO": "4.293.593",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1481336258",
+            "NOMBRES": "LORENA CERÓN",
+            "RECOMPRA O DESEMBOLSO": "2.552.945"
+        }
+    }
+]

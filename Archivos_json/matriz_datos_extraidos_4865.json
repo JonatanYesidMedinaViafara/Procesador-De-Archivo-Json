@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "471223056048",
+            "SOLICITUD": "8045661",
+            "CEDULA": "1075929456",
+            "NOMBRES": "MARÍA ANDREA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.654.353",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA QUINTERO - 1075929456"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "471223056048",
+            "NOMBRES": "MARÍA ANDREA QUINTERO",
+            "CREDITO": "7.172.030",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "215.28",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA QUINTERO - 1075929456",
+            "AL PIE DE LA FIRMA": "MARÍA ANDREA QUINTERO - 1075929456"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1075929456",
+            "NOMBRES": "MARÍA ANDREA QUINTERO",
+            "FECHA NACIMIENTO": "05/02/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.172.030",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA QUINTERO - 1075929456",
+            "AL PIE DE LA FIRMA": "MARÍA ANDREA QUINTERO - 1075929456"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8045661",
+            "CEDULA": "1075929456",
+            "NOMBRES": "MARÍA ANDREA QUINTERO",
+            "CREDITO": "7.172.030",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "215.28",
+            "E.A": "25.64%",
+            "RECOMPRA O DESEMBOLSO": "3.654.353",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA QUINTERO - 1075929456"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1075929456",
+            "NOMBRES": "MARÍA ANDREA QUINTERO",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA QUINTERO - 1075929456"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1075929456",
+            "NOMBRES": "MARÍA ANDREA QUINTERO",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA QUINTERO - 1075929456",
+            "AL PIE DE LA FIRMA": "MARÍA ANDREA QUINTERO - 1075929456"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ANDREA QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1075929456",
+            "NOMBRES": "MARÍA ANDREA QUINTERO",
+            "SALARIO": "1.549.384",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1075929456",
+            "NOMBRES": "MARÍA ANDREA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.654.353"
+        }
+    }
+]

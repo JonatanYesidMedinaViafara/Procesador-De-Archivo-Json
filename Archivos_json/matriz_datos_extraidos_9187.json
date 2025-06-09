@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "322355072215",
+            "SOLICITUD": "7649697",
+            "CEDULA": "1040455187",
+            "NOMBRES": "LEANDRO ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.932.072",
+            "FIRMA ELLECTRONICA": "LEANDRO ÁLVAREZ - 1040455187"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "322355072215",
+            "NOMBRES": "LEANDRO ÁLVAREZ",
+            "CREDITO": "18.719.141",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "262.439",
+            "FIRMA ELLECTRONICA": "LEANDRO ÁLVAREZ - 1040455187",
+            "AL PIE DE LA FIRMA": "LEANDRO ÁLVAREZ - 1040455187"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1040455187",
+            "NOMBRES": "LEANDRO ÁLVAREZ",
+            "FECHA NACIMIENTO": "22/01/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.719.141",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LEANDRO ÁLVAREZ - 1040455187",
+            "AL PIE DE LA FIRMA": "LEANDRO ÁLVAREZ - 1040455187"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7649697",
+            "CEDULA": "1040455187",
+            "NOMBRES": "LEANDRO ÁLVAREZ",
+            "CREDITO": "18.719.141",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "262.439",
+            "E.A": "26.05%",
+            "RECOMPRA O DESEMBOLSO": "4.932.072",
+            "FIRMA ELLECTRONICA": "LEANDRO ÁLVAREZ - 1040455187"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1040455187",
+            "NOMBRES": "LEANDRO ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "LEANDRO ÁLVAREZ - 1040455187"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1040455187",
+            "NOMBRES": "LEANDRO ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "LEANDRO ÁLVAREZ - 1040455187",
+            "AL PIE DE LA FIRMA": "LEANDRO ÁLVAREZ - 1040455187"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEANDRO ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1040455187",
+            "NOMBRES": "LEANDRO ÁLVAREZ",
+            "SALARIO": "4.060.063",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1040455187",
+            "NOMBRES": "LEANDRO ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.932.072"
+        }
+    }
+]

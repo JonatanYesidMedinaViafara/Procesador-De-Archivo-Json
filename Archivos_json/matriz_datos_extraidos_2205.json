@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "779457173189",
+            "SOLICITUD": "2588707",
+            "CEDULA": "1393883796",
+            "NOMBRES": "JUAN HÉCTOR DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.733.664",
+            "FIRMA ELLECTRONICA": "JUAN HÉCTOR DÍAZ - 1393883796"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "779457173189",
+            "NOMBRES": "JUAN HÉCTOR DÍAZ",
+            "CREDITO": "12.963.369",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "230.114",
+            "FIRMA ELLECTRONICA": "JUAN HÉCTOR DÍAZ - 1393883796",
+            "AL PIE DE LA FIRMA": "JUAN HÉCTOR DÍAZ - 1393883796"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1393883796",
+            "NOMBRES": "JUAN HÉCTOR DÍAZ",
+            "FECHA NACIMIENTO": "26/05/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.963.369",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN HÉCTOR DÍAZ - 1393883796",
+            "AL PIE DE LA FIRMA": "JUAN HÉCTOR DÍAZ - 1393883796"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2588707",
+            "CEDULA": "1393883796",
+            "NOMBRES": "JUAN HÉCTOR DÍAZ",
+            "CREDITO": "12.963.369",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "230.114",
+            "E.A": "20.65%",
+            "RECOMPRA O DESEMBOLSO": "3.733.664",
+            "FIRMA ELLECTRONICA": "JUAN HÉCTOR DÍAZ - 1393883796"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1393883796",
+            "NOMBRES": "JUAN HÉCTOR DÍAZ",
+            "FIRMA ELLECTRONICA": "JUAN HÉCTOR DÍAZ - 1393883796"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1393883796",
+            "NOMBRES": "JUAN HÉCTOR DÍAZ",
+            "FIRMA ELLECTRONICA": "JUAN HÉCTOR DÍAZ - 1393883796",
+            "AL PIE DE LA FIRMA": "JUAN HÉCTOR DÍAZ - 1393883796"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN HÉCTOR DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1393883796",
+            "NOMBRES": "JUAN HÉCTOR DÍAZ",
+            "SALARIO": "4.498.129",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1393883796",
+            "NOMBRES": "JUAN HÉCTOR DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.733.664"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "226776112583",
+            "SOLICITUD": "6320313",
+            "CEDULA": "1210410591",
+            "NOMBRES": "SAÚL ÁLVARO LÓPEZ CASTRO",
+            "RECOMPRA O DESEMBOLSO": "1.949.962",
+            "FIRMA ELLECTRONICA": "SAÚL ÁLVARO LÓPEZ CASTRO - 1210410591"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "226776112583",
+            "NOMBRES": "SAÚL ÁLVARO LÓPEZ CASTRO",
+            "CREDITO": "5.887.757",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "212.347",
+            "FIRMA ELLECTRONICA": "SAÚL ÁLVARO LÓPEZ CASTRO - 1210410591",
+            "AL PIE DE LA FIRMA": "SAÚL ÁLVARO LÓPEZ CASTRO - 1210410591"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1210410591",
+            "NOMBRES": "SAÚL ÁLVARO LÓPEZ CASTRO",
+            "FECHA NACIMIENTO": "10/02/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.887.757",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SAÚL ÁLVARO LÓPEZ CASTRO - 1210410591",
+            "AL PIE DE LA FIRMA": "SAÚL ÁLVARO LÓPEZ CASTRO - 1210410591"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6320313",
+            "CEDULA": "1210410591",
+            "NOMBRES": "SAÚL ÁLVARO LÓPEZ CASTRO",
+            "CREDITO": "5.887.757",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "212.347",
+            "E.A": "25.12%",
+            "RECOMPRA O DESEMBOLSO": "1.949.962",
+            "FIRMA ELLECTRONICA": "SAÚL ÁLVARO LÓPEZ CASTRO - 1210410591"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1210410591",
+            "NOMBRES": "SAÚL ÁLVARO LÓPEZ CASTRO",
+            "FIRMA ELLECTRONICA": "SAÚL ÁLVARO LÓPEZ CASTRO - 1210410591"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1210410591",
+            "NOMBRES": "SAÚL ÁLVARO LÓPEZ CASTRO",
+            "FIRMA ELLECTRONICA": "SAÚL ÁLVARO LÓPEZ CASTRO - 1210410591",
+            "AL PIE DE LA FIRMA": "SAÚL ÁLVARO LÓPEZ CASTRO - 1210410591"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SAÚL ÁLVARO LÓPEZ CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1210410591",
+            "NOMBRES": "SAÚL ÁLVARO LÓPEZ CASTRO",
+            "SALARIO": "2.401.872",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1210410591",
+            "NOMBRES": "SAÚL ÁLVARO LÓPEZ CASTRO",
+            "RECOMPRA O DESEMBOLSO": "1.949.962"
+        }
+    }
+]

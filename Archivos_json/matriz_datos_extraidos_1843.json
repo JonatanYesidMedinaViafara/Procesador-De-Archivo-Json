@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "618199355411",
+            "SOLICITUD": "1652560",
+            "CEDULA": "1173947030",
+            "NOMBRES": "TOMÁS GUILLERMO PABÓN",
+            "RECOMPRA O DESEMBOLSO": "2.432.344",
+            "FIRMA ELLECTRONICA": "TOMÁS GUILLERMO PABÓN - 1173947030"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "618199355411",
+            "NOMBRES": "TOMÁS GUILLERMO PABÓN",
+            "CREDITO": "19.004.928",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "311.812",
+            "FIRMA ELLECTRONICA": "TOMÁS GUILLERMO PABÓN - 1173947030",
+            "AL PIE DE LA FIRMA": "TOMÁS GUILLERMO PABÓN - 1173947030"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1173947030",
+            "NOMBRES": "TOMÁS GUILLERMO PABÓN",
+            "FECHA NACIMIENTO": "27/01/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.004.928",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "TOMÁS GUILLERMO PABÓN - 1173947030",
+            "AL PIE DE LA FIRMA": "TOMÁS GUILLERMO PABÓN - 1173947030"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1652560",
+            "CEDULA": "1173947030",
+            "NOMBRES": "TOMÁS GUILLERMO PABÓN",
+            "CREDITO": "19.004.928",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "311.812",
+            "E.A": "26.79%",
+            "RECOMPRA O DESEMBOLSO": "2.432.344",
+            "FIRMA ELLECTRONICA": "TOMÁS GUILLERMO PABÓN - 1173947030"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1173947030",
+            "NOMBRES": "TOMÁS GUILLERMO PABÓN",
+            "FIRMA ELLECTRONICA": "TOMÁS GUILLERMO PABÓN - 1173947030"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1173947030",
+            "NOMBRES": "TOMÁS GUILLERMO PABÓN",
+            "FIRMA ELLECTRONICA": "TOMÁS GUILLERMO PABÓN - 1173947030",
+            "AL PIE DE LA FIRMA": "TOMÁS GUILLERMO PABÓN - 1173947030"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TOMÁS GUILLERMO PABÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1173947030",
+            "NOMBRES": "TOMÁS GUILLERMO PABÓN",
+            "SALARIO": "1.823.131",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1173947030",
+            "NOMBRES": "TOMÁS GUILLERMO PABÓN",
+            "RECOMPRA O DESEMBOLSO": "2.432.344"
+        }
+    }
+]

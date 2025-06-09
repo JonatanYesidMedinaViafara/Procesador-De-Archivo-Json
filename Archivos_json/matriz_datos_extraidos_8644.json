@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "614324251997",
+            "SOLICITUD": "3649126",
+            "CEDULA": "1450293320",
+            "NOMBRES": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "2.660.530",
+            "FIRMA ELLECTRONICA": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO - 1450293320"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "614324251997",
+            "NOMBRES": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO",
+            "CREDITO": "5.151.268",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "126.344",
+            "FIRMA ELLECTRONICA": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO - 1450293320",
+            "AL PIE DE LA FIRMA": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO - 1450293320"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1450293320",
+            "NOMBRES": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO",
+            "FECHA NACIMIENTO": "17/06/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.151.268",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO - 1450293320",
+            "AL PIE DE LA FIRMA": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO - 1450293320"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3649126",
+            "CEDULA": "1450293320",
+            "NOMBRES": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO",
+            "CREDITO": "5.151.268",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "126.344",
+            "E.A": "18.12%",
+            "RECOMPRA O DESEMBOLSO": "2.660.530",
+            "FIRMA ELLECTRONICA": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO - 1450293320"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1450293320",
+            "NOMBRES": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO",
+            "FIRMA ELLECTRONICA": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO - 1450293320"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1450293320",
+            "NOMBRES": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO",
+            "FIRMA ELLECTRONICA": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO - 1450293320",
+            "AL PIE DE LA FIRMA": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO - 1450293320"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1450293320",
+            "NOMBRES": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO",
+            "SALARIO": "2.772.949",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1450293320",
+            "NOMBRES": "ANDRÉS SEBASTIÁN SUÁREZ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "2.660.530"
+        }
+    }
+]

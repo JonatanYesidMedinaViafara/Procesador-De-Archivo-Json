@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "309881652309",
+            "SOLICITUD": "1567521",
+            "CEDULA": "1753349676",
+            "NOMBRES": "TERESA MEJÍA",
+            "RECOMPRA O DESEMBOLSO": "3.786.499",
+            "FIRMA ELLECTRONICA": "TERESA MEJÍA - 1753349676"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "309881652309",
+            "NOMBRES": "TERESA MEJÍA",
+            "CREDITO": "11.621.704",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "174.732",
+            "FIRMA ELLECTRONICA": "TERESA MEJÍA - 1753349676",
+            "AL PIE DE LA FIRMA": "TERESA MEJÍA - 1753349676"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1753349676",
+            "NOMBRES": "TERESA MEJÍA",
+            "FECHA NACIMIENTO": "24/12/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.621.704",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "TERESA MEJÍA - 1753349676",
+            "AL PIE DE LA FIRMA": "TERESA MEJÍA - 1753349676"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1567521",
+            "CEDULA": "1753349676",
+            "NOMBRES": "TERESA MEJÍA",
+            "CREDITO": "11.621.704",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "174.732",
+            "E.A": "21.96%",
+            "RECOMPRA O DESEMBOLSO": "3.786.499",
+            "FIRMA ELLECTRONICA": "TERESA MEJÍA - 1753349676"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1753349676",
+            "NOMBRES": "TERESA MEJÍA",
+            "FIRMA ELLECTRONICA": "TERESA MEJÍA - 1753349676"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1753349676",
+            "NOMBRES": "TERESA MEJÍA",
+            "FIRMA ELLECTRONICA": "TERESA MEJÍA - 1753349676",
+            "AL PIE DE LA FIRMA": "TERESA MEJÍA - 1753349676"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TERESA MEJÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1753349676",
+            "NOMBRES": "TERESA MEJÍA",
+            "SALARIO": "3.869.922",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1753349676",
+            "NOMBRES": "TERESA MEJÍA",
+            "RECOMPRA O DESEMBOLSO": "3.786.499"
+        }
+    }
+]

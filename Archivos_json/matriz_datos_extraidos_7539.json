@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "419568001128",
+            "SOLICITUD": "6745600",
+            "CEDULA": "1442820908",
+            "NOMBRES": "ALONSO MURILLO BENÍTEZ",
+            "RECOMPRA O DESEMBOLSO": "4.765.523",
+            "FIRMA ELLECTRONICA": "ALONSO MURILLO BENÍTEZ - 1442820908"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "419568001128",
+            "NOMBRES": "ALONSO MURILLO BENÍTEZ",
+            "CREDITO": "18.874.998",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "261.134",
+            "FIRMA ELLECTRONICA": "ALONSO MURILLO BENÍTEZ - 1442820908",
+            "AL PIE DE LA FIRMA": "ALONSO MURILLO BENÍTEZ - 1442820908"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1442820908",
+            "NOMBRES": "ALONSO MURILLO BENÍTEZ",
+            "FECHA NACIMIENTO": "05/07/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.874.998",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALONSO MURILLO BENÍTEZ - 1442820908",
+            "AL PIE DE LA FIRMA": "ALONSO MURILLO BENÍTEZ - 1442820908"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6745600",
+            "CEDULA": "1442820908",
+            "NOMBRES": "ALONSO MURILLO BENÍTEZ",
+            "CREDITO": "18.874.998",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "261.134",
+            "E.A": "22.89%",
+            "RECOMPRA O DESEMBOLSO": "4.765.523",
+            "FIRMA ELLECTRONICA": "ALONSO MURILLO BENÍTEZ - 1442820908"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1442820908",
+            "NOMBRES": "ALONSO MURILLO BENÍTEZ",
+            "FIRMA ELLECTRONICA": "ALONSO MURILLO BENÍTEZ - 1442820908"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1442820908",
+            "NOMBRES": "ALONSO MURILLO BENÍTEZ",
+            "FIRMA ELLECTRONICA": "ALONSO MURILLO BENÍTEZ - 1442820908",
+            "AL PIE DE LA FIRMA": "ALONSO MURILLO BENÍTEZ - 1442820908"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALONSO MURILLO BENÍTEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1442820908",
+            "NOMBRES": "ALONSO MURILLO BENÍTEZ",
+            "SALARIO": "4.734.140",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1442820908",
+            "NOMBRES": "ALONSO MURILLO BENÍTEZ",
+            "RECOMPRA O DESEMBOLSO": "4.765.523"
+        }
+    }
+]

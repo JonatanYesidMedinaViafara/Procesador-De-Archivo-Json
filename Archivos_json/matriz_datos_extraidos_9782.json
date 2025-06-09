@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "797044492436",
+            "SOLICITUD": "7736120",
+            "CEDULA": "1549495174",
+            "NOMBRES": "FABIO RODRIGO SIERRA CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "4.460.689",
+            "FIRMA ELLECTRONICA": "FABIO RODRIGO SIERRA CÁRDENAS - 1549495174"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "797044492436",
+            "NOMBRES": "FABIO RODRIGO SIERRA CÁRDENAS",
+            "CREDITO": "13.905.581",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "290.059",
+            "FIRMA ELLECTRONICA": "FABIO RODRIGO SIERRA CÁRDENAS - 1549495174",
+            "AL PIE DE LA FIRMA": "FABIO RODRIGO SIERRA CÁRDENAS - 1549495174"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1549495174",
+            "NOMBRES": "FABIO RODRIGO SIERRA CÁRDENAS",
+            "FECHA NACIMIENTO": "10/09/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.905.581",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FABIO RODRIGO SIERRA CÁRDENAS - 1549495174",
+            "AL PIE DE LA FIRMA": "FABIO RODRIGO SIERRA CÁRDENAS - 1549495174"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7736120",
+            "CEDULA": "1549495174",
+            "NOMBRES": "FABIO RODRIGO SIERRA CÁRDENAS",
+            "CREDITO": "13.905.581",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "290.059",
+            "E.A": "23.57%",
+            "RECOMPRA O DESEMBOLSO": "4.460.689",
+            "FIRMA ELLECTRONICA": "FABIO RODRIGO SIERRA CÁRDENAS - 1549495174"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1549495174",
+            "NOMBRES": "FABIO RODRIGO SIERRA CÁRDENAS",
+            "FIRMA ELLECTRONICA": "FABIO RODRIGO SIERRA CÁRDENAS - 1549495174"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1549495174",
+            "NOMBRES": "FABIO RODRIGO SIERRA CÁRDENAS",
+            "FIRMA ELLECTRONICA": "FABIO RODRIGO SIERRA CÁRDENAS - 1549495174",
+            "AL PIE DE LA FIRMA": "FABIO RODRIGO SIERRA CÁRDENAS - 1549495174"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIO RODRIGO SIERRA CÁRDENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1549495174",
+            "NOMBRES": "FABIO RODRIGO SIERRA CÁRDENAS",
+            "SALARIO": "1.971.052",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1549495174",
+            "NOMBRES": "FABIO RODRIGO SIERRA CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "4.460.689"
+        }
+    }
+]

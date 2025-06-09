@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "121223770368",
+            "SOLICITUD": "7718618",
+            "CEDULA": "1244280257",
+            "NOMBRES": "SAMUEL JUAN MARÍN",
+            "RECOMPRA O DESEMBOLSO": "1.325.113",
+            "FIRMA ELLECTRONICA": "SAMUEL JUAN MARÍN - 1244280257"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "121223770368",
+            "NOMBRES": "SAMUEL JUAN MARÍN",
+            "CREDITO": "14.736.165",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "371.519",
+            "FIRMA ELLECTRONICA": "SAMUEL JUAN MARÍN - 1244280257",
+            "AL PIE DE LA FIRMA": "SAMUEL JUAN MARÍN - 1244280257"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1244280257",
+            "NOMBRES": "SAMUEL JUAN MARÍN",
+            "FECHA NACIMIENTO": "19/09/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.736.165",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SAMUEL JUAN MARÍN - 1244280257",
+            "AL PIE DE LA FIRMA": "SAMUEL JUAN MARÍN - 1244280257"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7718618",
+            "CEDULA": "1244280257",
+            "NOMBRES": "SAMUEL JUAN MARÍN",
+            "CREDITO": "14.736.165",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "371.519",
+            "E.A": "20.07%",
+            "RECOMPRA O DESEMBOLSO": "1.325.113",
+            "FIRMA ELLECTRONICA": "SAMUEL JUAN MARÍN - 1244280257"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1244280257",
+            "NOMBRES": "SAMUEL JUAN MARÍN",
+            "FIRMA ELLECTRONICA": "SAMUEL JUAN MARÍN - 1244280257"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1244280257",
+            "NOMBRES": "SAMUEL JUAN MARÍN",
+            "FIRMA ELLECTRONICA": "SAMUEL JUAN MARÍN - 1244280257",
+            "AL PIE DE LA FIRMA": "SAMUEL JUAN MARÍN - 1244280257"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SAMUEL JUAN MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1244280257",
+            "NOMBRES": "SAMUEL JUAN MARÍN",
+            "SALARIO": "2.917.709",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1244280257",
+            "NOMBRES": "SAMUEL JUAN MARÍN",
+            "RECOMPRA O DESEMBOLSO": "1.325.113"
+        }
+    }
+]

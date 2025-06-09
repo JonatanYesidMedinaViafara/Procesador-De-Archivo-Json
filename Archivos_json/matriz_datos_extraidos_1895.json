@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "584671395544",
+            "SOLICITUD": "5560908",
+            "CEDULA": "1757111299",
+            "NOMBRES": "JOSÉ DAZA CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.139.688",
+            "FIRMA ELLECTRONICA": "JOSÉ DAZA CASTILLO - 1757111299"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "584671395544",
+            "NOMBRES": "JOSÉ DAZA CASTILLO",
+            "CREDITO": "14.428.641",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "265.094",
+            "FIRMA ELLECTRONICA": "JOSÉ DAZA CASTILLO - 1757111299",
+            "AL PIE DE LA FIRMA": "JOSÉ DAZA CASTILLO - 1757111299"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1757111299",
+            "NOMBRES": "JOSÉ DAZA CASTILLO",
+            "FECHA NACIMIENTO": "06/02/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.428.641",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ DAZA CASTILLO - 1757111299",
+            "AL PIE DE LA FIRMA": "JOSÉ DAZA CASTILLO - 1757111299"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5560908",
+            "CEDULA": "1757111299",
+            "NOMBRES": "JOSÉ DAZA CASTILLO",
+            "CREDITO": "14.428.641",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "265.094",
+            "E.A": "24.35%",
+            "RECOMPRA O DESEMBOLSO": "3.139.688",
+            "FIRMA ELLECTRONICA": "JOSÉ DAZA CASTILLO - 1757111299"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1757111299",
+            "NOMBRES": "JOSÉ DAZA CASTILLO",
+            "FIRMA ELLECTRONICA": "JOSÉ DAZA CASTILLO - 1757111299"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1757111299",
+            "NOMBRES": "JOSÉ DAZA CASTILLO",
+            "FIRMA ELLECTRONICA": "JOSÉ DAZA CASTILLO - 1757111299",
+            "AL PIE DE LA FIRMA": "JOSÉ DAZA CASTILLO - 1757111299"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ DAZA CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1757111299",
+            "NOMBRES": "JOSÉ DAZA CASTILLO",
+            "SALARIO": "4.324.735",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1757111299",
+            "NOMBRES": "JOSÉ DAZA CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.139.688"
+        }
+    }
+]

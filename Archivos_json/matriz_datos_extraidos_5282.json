@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "916366078470",
+            "SOLICITUD": "1336105",
+            "CEDULA": "1320233439",
+            "NOMBRES": "MARÍA NUBIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.751.137",
+            "FIRMA ELLECTRONICA": "MARÍA NUBIA GARCÍA - 1320233439"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "916366078470",
+            "NOMBRES": "MARÍA NUBIA GARCÍA",
+            "CREDITO": "7.101.229",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "187.42",
+            "FIRMA ELLECTRONICA": "MARÍA NUBIA GARCÍA - 1320233439",
+            "AL PIE DE LA FIRMA": "MARÍA NUBIA GARCÍA - 1320233439"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1320233439",
+            "NOMBRES": "MARÍA NUBIA GARCÍA",
+            "FECHA NACIMIENTO": "03/04/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.101.229",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA NUBIA GARCÍA - 1320233439",
+            "AL PIE DE LA FIRMA": "MARÍA NUBIA GARCÍA - 1320233439"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1336105",
+            "CEDULA": "1320233439",
+            "NOMBRES": "MARÍA NUBIA GARCÍA",
+            "CREDITO": "7.101.229",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "187.42",
+            "E.A": "27.27%",
+            "RECOMPRA O DESEMBOLSO": "1.751.137",
+            "FIRMA ELLECTRONICA": "MARÍA NUBIA GARCÍA - 1320233439"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1320233439",
+            "NOMBRES": "MARÍA NUBIA GARCÍA",
+            "FIRMA ELLECTRONICA": "MARÍA NUBIA GARCÍA - 1320233439"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1320233439",
+            "NOMBRES": "MARÍA NUBIA GARCÍA",
+            "FIRMA ELLECTRONICA": "MARÍA NUBIA GARCÍA - 1320233439",
+            "AL PIE DE LA FIRMA": "MARÍA NUBIA GARCÍA - 1320233439"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA NUBIA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1320233439",
+            "NOMBRES": "MARÍA NUBIA GARCÍA",
+            "SALARIO": "4.898.222",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1320233439",
+            "NOMBRES": "MARÍA NUBIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.751.137"
+        }
+    }
+]

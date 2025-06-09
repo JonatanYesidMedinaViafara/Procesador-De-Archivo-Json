@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "246867919878",
+            "SOLICITUD": "7230962",
+            "CEDULA": "1411368519",
+            "NOMBRES": "ÁLVARO PÉREZ PALACIOS",
+            "RECOMPRA O DESEMBOLSO": "2.028.236",
+            "FIRMA ELLECTRONICA": "ÁLVARO PÉREZ PALACIOS - 1411368519"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "246867919878",
+            "NOMBRES": "ÁLVARO PÉREZ PALACIOS",
+            "CREDITO": "9.494.299",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "125.832",
+            "FIRMA ELLECTRONICA": "ÁLVARO PÉREZ PALACIOS - 1411368519",
+            "AL PIE DE LA FIRMA": "ÁLVARO PÉREZ PALACIOS - 1411368519"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1411368519",
+            "NOMBRES": "ÁLVARO PÉREZ PALACIOS",
+            "FECHA NACIMIENTO": "02/08/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.494.299",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ÁLVARO PÉREZ PALACIOS - 1411368519",
+            "AL PIE DE LA FIRMA": "ÁLVARO PÉREZ PALACIOS - 1411368519"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7230962",
+            "CEDULA": "1411368519",
+            "NOMBRES": "ÁLVARO PÉREZ PALACIOS",
+            "CREDITO": "9.494.299",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "125.832",
+            "E.A": "20.61%",
+            "RECOMPRA O DESEMBOLSO": "2.028.236",
+            "FIRMA ELLECTRONICA": "ÁLVARO PÉREZ PALACIOS - 1411368519"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1411368519",
+            "NOMBRES": "ÁLVARO PÉREZ PALACIOS",
+            "FIRMA ELLECTRONICA": "ÁLVARO PÉREZ PALACIOS - 1411368519"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1411368519",
+            "NOMBRES": "ÁLVARO PÉREZ PALACIOS",
+            "FIRMA ELLECTRONICA": "ÁLVARO PÉREZ PALACIOS - 1411368519",
+            "AL PIE DE LA FIRMA": "ÁLVARO PÉREZ PALACIOS - 1411368519"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO PÉREZ PALACIOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1411368519",
+            "NOMBRES": "ÁLVARO PÉREZ PALACIOS",
+            "SALARIO": "3.510.752",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1411368519",
+            "NOMBRES": "ÁLVARO PÉREZ PALACIOS",
+            "RECOMPRA O DESEMBOLSO": "2.028.236"
+        }
+    }
+]

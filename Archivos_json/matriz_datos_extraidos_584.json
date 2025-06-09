@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "707206864403",
+            "SOLICITUD": "9051427",
+            "CEDULA": "1619370876",
+            "NOMBRES": "JUAN ÁLVARO LÓPEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.745.506",
+            "FIRMA ELLECTRONICA": "JUAN ÁLVARO LÓPEZ PÉREZ - 1619370876"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "707206864403",
+            "NOMBRES": "JUAN ÁLVARO LÓPEZ PÉREZ",
+            "CREDITO": "5.392.970",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "109.89",
+            "FIRMA ELLECTRONICA": "JUAN ÁLVARO LÓPEZ PÉREZ - 1619370876",
+            "AL PIE DE LA FIRMA": "JUAN ÁLVARO LÓPEZ PÉREZ - 1619370876"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1619370876",
+            "NOMBRES": "JUAN ÁLVARO LÓPEZ PÉREZ",
+            "FECHA NACIMIENTO": "28/01/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.392.970",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN ÁLVARO LÓPEZ PÉREZ - 1619370876",
+            "AL PIE DE LA FIRMA": "JUAN ÁLVARO LÓPEZ PÉREZ - 1619370876"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9051427",
+            "CEDULA": "1619370876",
+            "NOMBRES": "JUAN ÁLVARO LÓPEZ PÉREZ",
+            "CREDITO": "5.392.970",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "109.89",
+            "E.A": "19.05%",
+            "RECOMPRA O DESEMBOLSO": "4.745.506",
+            "FIRMA ELLECTRONICA": "JUAN ÁLVARO LÓPEZ PÉREZ - 1619370876"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1619370876",
+            "NOMBRES": "JUAN ÁLVARO LÓPEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "JUAN ÁLVARO LÓPEZ PÉREZ - 1619370876"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1619370876",
+            "NOMBRES": "JUAN ÁLVARO LÓPEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "JUAN ÁLVARO LÓPEZ PÉREZ - 1619370876",
+            "AL PIE DE LA FIRMA": "JUAN ÁLVARO LÓPEZ PÉREZ - 1619370876"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ÁLVARO LÓPEZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1619370876",
+            "NOMBRES": "JUAN ÁLVARO LÓPEZ PÉREZ",
+            "SALARIO": "3.982.045",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1619370876",
+            "NOMBRES": "JUAN ÁLVARO LÓPEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.745.506"
+        }
+    }
+]

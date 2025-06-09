@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "984010559854",
+            "SOLICITUD": "4064604",
+            "CEDULA": "1807583499",
+            "NOMBRES": "ABELARDO GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.214.747",
+            "FIRMA ELLECTRONICA": "ABELARDO GIRALDO - 1807583499"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "984010559854",
+            "NOMBRES": "ABELARDO GIRALDO",
+            "CREDITO": "11.885.099",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "309.593",
+            "FIRMA ELLECTRONICA": "ABELARDO GIRALDO - 1807583499",
+            "AL PIE DE LA FIRMA": "ABELARDO GIRALDO - 1807583499"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1807583499",
+            "NOMBRES": "ABELARDO GIRALDO",
+            "FECHA NACIMIENTO": "15/01/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.885.099",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ABELARDO GIRALDO - 1807583499",
+            "AL PIE DE LA FIRMA": "ABELARDO GIRALDO - 1807583499"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4064604",
+            "CEDULA": "1807583499",
+            "NOMBRES": "ABELARDO GIRALDO",
+            "CREDITO": "11.885.099",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "309.593",
+            "E.A": "18.88%",
+            "RECOMPRA O DESEMBOLSO": "3.214.747",
+            "FIRMA ELLECTRONICA": "ABELARDO GIRALDO - 1807583499"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1807583499",
+            "NOMBRES": "ABELARDO GIRALDO",
+            "FIRMA ELLECTRONICA": "ABELARDO GIRALDO - 1807583499"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1807583499",
+            "NOMBRES": "ABELARDO GIRALDO",
+            "FIRMA ELLECTRONICA": "ABELARDO GIRALDO - 1807583499",
+            "AL PIE DE LA FIRMA": "ABELARDO GIRALDO - 1807583499"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ABELARDO GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1807583499",
+            "NOMBRES": "ABELARDO GIRALDO",
+            "SALARIO": "2.187.417",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1807583499",
+            "NOMBRES": "ABELARDO GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.214.747"
+        }
+    }
+]

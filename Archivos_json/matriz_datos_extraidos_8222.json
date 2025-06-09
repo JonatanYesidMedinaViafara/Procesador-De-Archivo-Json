@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "481288531518",
+            "SOLICITUD": "6481108",
+            "CEDULA": "1512523130",
+            "NOMBRES": "JAVIER CORREA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "4.002.336",
+            "FIRMA ELLECTRONICA": "JAVIER CORREA RUIZ - 1512523130"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "481288531518",
+            "NOMBRES": "JAVIER CORREA RUIZ",
+            "CREDITO": "11.897.899",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "290.469",
+            "FIRMA ELLECTRONICA": "JAVIER CORREA RUIZ - 1512523130",
+            "AL PIE DE LA FIRMA": "JAVIER CORREA RUIZ - 1512523130"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1512523130",
+            "NOMBRES": "JAVIER CORREA RUIZ",
+            "FECHA NACIMIENTO": "01/11/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.897.899",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAVIER CORREA RUIZ - 1512523130",
+            "AL PIE DE LA FIRMA": "JAVIER CORREA RUIZ - 1512523130"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6481108",
+            "CEDULA": "1512523130",
+            "NOMBRES": "JAVIER CORREA RUIZ",
+            "CREDITO": "11.897.899",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "290.469",
+            "E.A": "20.17%",
+            "RECOMPRA O DESEMBOLSO": "4.002.336",
+            "FIRMA ELLECTRONICA": "JAVIER CORREA RUIZ - 1512523130"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1512523130",
+            "NOMBRES": "JAVIER CORREA RUIZ",
+            "FIRMA ELLECTRONICA": "JAVIER CORREA RUIZ - 1512523130"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1512523130",
+            "NOMBRES": "JAVIER CORREA RUIZ",
+            "FIRMA ELLECTRONICA": "JAVIER CORREA RUIZ - 1512523130",
+            "AL PIE DE LA FIRMA": "JAVIER CORREA RUIZ - 1512523130"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER CORREA RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1512523130",
+            "NOMBRES": "JAVIER CORREA RUIZ",
+            "SALARIO": "3.347.961",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1512523130",
+            "NOMBRES": "JAVIER CORREA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "4.002.336"
+        }
+    }
+]

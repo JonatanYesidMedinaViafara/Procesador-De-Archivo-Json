@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "358708080401",
+            "SOLICITUD": "9048288",
+            "CEDULA": "1949582302",
+            "NOMBRES": "LUCÍA TRIANA",
+            "RECOMPRA O DESEMBOLSO": "2.476.588",
+            "FIRMA ELLECTRONICA": "LUCÍA TRIANA - 1949582302"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "358708080401",
+            "NOMBRES": "LUCÍA TRIANA",
+            "CREDITO": "12.597.296",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "267.818",
+            "FIRMA ELLECTRONICA": "LUCÍA TRIANA - 1949582302",
+            "AL PIE DE LA FIRMA": "LUCÍA TRIANA - 1949582302"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1949582302",
+            "NOMBRES": "LUCÍA TRIANA",
+            "FECHA NACIMIENTO": "15/03/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.597.296",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUCÍA TRIANA - 1949582302",
+            "AL PIE DE LA FIRMA": "LUCÍA TRIANA - 1949582302"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9048288",
+            "CEDULA": "1949582302",
+            "NOMBRES": "LUCÍA TRIANA",
+            "CREDITO": "12.597.296",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "267.818",
+            "E.A": "25.95%",
+            "RECOMPRA O DESEMBOLSO": "2.476.588",
+            "FIRMA ELLECTRONICA": "LUCÍA TRIANA - 1949582302"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1949582302",
+            "NOMBRES": "LUCÍA TRIANA",
+            "FIRMA ELLECTRONICA": "LUCÍA TRIANA - 1949582302"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1949582302",
+            "NOMBRES": "LUCÍA TRIANA",
+            "FIRMA ELLECTRONICA": "LUCÍA TRIANA - 1949582302",
+            "AL PIE DE LA FIRMA": "LUCÍA TRIANA - 1949582302"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA TRIANA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1949582302",
+            "NOMBRES": "LUCÍA TRIANA",
+            "SALARIO": "4.742.803",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1949582302",
+            "NOMBRES": "LUCÍA TRIANA",
+            "RECOMPRA O DESEMBOLSO": "2.476.588"
+        }
+    }
+]

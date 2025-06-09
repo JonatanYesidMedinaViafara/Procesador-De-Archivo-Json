@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "889786604316",
+            "SOLICITUD": "7095108",
+            "CEDULA": "1119381264",
+            "NOMBRES": "MARÍA BEATRIZ VARGAS CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.663.841",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ VARGAS CORTÉS - 1119381264"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "889786604316",
+            "NOMBRES": "MARÍA BEATRIZ VARGAS CORTÉS",
+            "CREDITO": "15.763.295",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "217.137",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ VARGAS CORTÉS - 1119381264",
+            "AL PIE DE LA FIRMA": "MARÍA BEATRIZ VARGAS CORTÉS - 1119381264"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1119381264",
+            "NOMBRES": "MARÍA BEATRIZ VARGAS CORTÉS",
+            "FECHA NACIMIENTO": "04/11/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.763.295",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ VARGAS CORTÉS - 1119381264",
+            "AL PIE DE LA FIRMA": "MARÍA BEATRIZ VARGAS CORTÉS - 1119381264"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7095108",
+            "CEDULA": "1119381264",
+            "NOMBRES": "MARÍA BEATRIZ VARGAS CORTÉS",
+            "CREDITO": "15.763.295",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "217.137",
+            "E.A": "26.96%",
+            "RECOMPRA O DESEMBOLSO": "2.663.841",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ VARGAS CORTÉS - 1119381264"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1119381264",
+            "NOMBRES": "MARÍA BEATRIZ VARGAS CORTÉS",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ VARGAS CORTÉS - 1119381264"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1119381264",
+            "NOMBRES": "MARÍA BEATRIZ VARGAS CORTÉS",
+            "FIRMA ELLECTRONICA": "MARÍA BEATRIZ VARGAS CORTÉS - 1119381264",
+            "AL PIE DE LA FIRMA": "MARÍA BEATRIZ VARGAS CORTÉS - 1119381264"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA BEATRIZ VARGAS CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1119381264",
+            "NOMBRES": "MARÍA BEATRIZ VARGAS CORTÉS",
+            "SALARIO": "1.829.935",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1119381264",
+            "NOMBRES": "MARÍA BEATRIZ VARGAS CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.663.841"
+        }
+    }
+]

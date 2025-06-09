@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "723145488825",
+            "SOLICITUD": "1010803",
+            "CEDULA": "1070277708",
+            "NOMBRES": "JOSÉ BELTRÁN PORTILLA",
+            "RECOMPRA O DESEMBOLSO": "2.513.055",
+            "FIRMA ELLECTRONICA": "JOSÉ BELTRÁN PORTILLA - 1070277708"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "723145488825",
+            "NOMBRES": "JOSÉ BELTRÁN PORTILLA",
+            "CREDITO": "19.797.204",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "328.358",
+            "FIRMA ELLECTRONICA": "JOSÉ BELTRÁN PORTILLA - 1070277708",
+            "AL PIE DE LA FIRMA": "JOSÉ BELTRÁN PORTILLA - 1070277708"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1070277708",
+            "NOMBRES": "JOSÉ BELTRÁN PORTILLA",
+            "FECHA NACIMIENTO": "26/12/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.797.204",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ BELTRÁN PORTILLA - 1070277708",
+            "AL PIE DE LA FIRMA": "JOSÉ BELTRÁN PORTILLA - 1070277708"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1010803",
+            "CEDULA": "1070277708",
+            "NOMBRES": "JOSÉ BELTRÁN PORTILLA",
+            "CREDITO": "19.797.204",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "328.358",
+            "E.A": "26.53%",
+            "RECOMPRA O DESEMBOLSO": "2.513.055",
+            "FIRMA ELLECTRONICA": "JOSÉ BELTRÁN PORTILLA - 1070277708"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1070277708",
+            "NOMBRES": "JOSÉ BELTRÁN PORTILLA",
+            "FIRMA ELLECTRONICA": "JOSÉ BELTRÁN PORTILLA - 1070277708"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1070277708",
+            "NOMBRES": "JOSÉ BELTRÁN PORTILLA",
+            "FIRMA ELLECTRONICA": "JOSÉ BELTRÁN PORTILLA - 1070277708",
+            "AL PIE DE LA FIRMA": "JOSÉ BELTRÁN PORTILLA - 1070277708"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ BELTRÁN PORTILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1070277708",
+            "NOMBRES": "JOSÉ BELTRÁN PORTILLA",
+            "SALARIO": "1.256.773",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1070277708",
+            "NOMBRES": "JOSÉ BELTRÁN PORTILLA",
+            "RECOMPRA O DESEMBOLSO": "2.513.055"
+        }
+    }
+]

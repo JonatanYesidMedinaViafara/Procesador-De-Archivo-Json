@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "355495713250",
+            "SOLICITUD": "1963421",
+            "CEDULA": "1259886605",
+            "NOMBRES": "MARIANA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.155.071",
+            "FIRMA ELLECTRONICA": "MARIANA GUERRERO - 1259886605"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "355495713250",
+            "NOMBRES": "MARIANA GUERRERO",
+            "CREDITO": "15.269.286",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "357.939",
+            "FIRMA ELLECTRONICA": "MARIANA GUERRERO - 1259886605",
+            "AL PIE DE LA FIRMA": "MARIANA GUERRERO - 1259886605"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1259886605",
+            "NOMBRES": "MARIANA GUERRERO",
+            "FECHA NACIMIENTO": "23/10/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.269.286",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARIANA GUERRERO - 1259886605",
+            "AL PIE DE LA FIRMA": "MARIANA GUERRERO - 1259886605"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1963421",
+            "CEDULA": "1259886605",
+            "NOMBRES": "MARIANA GUERRERO",
+            "CREDITO": "15.269.286",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "357.939",
+            "E.A": "27.8%",
+            "RECOMPRA O DESEMBOLSO": "4.155.071",
+            "FIRMA ELLECTRONICA": "MARIANA GUERRERO - 1259886605"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1259886605",
+            "NOMBRES": "MARIANA GUERRERO",
+            "FIRMA ELLECTRONICA": "MARIANA GUERRERO - 1259886605"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1259886605",
+            "NOMBRES": "MARIANA GUERRERO",
+            "FIRMA ELLECTRONICA": "MARIANA GUERRERO - 1259886605",
+            "AL PIE DE LA FIRMA": "MARIANA GUERRERO - 1259886605"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIANA GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1259886605",
+            "NOMBRES": "MARIANA GUERRERO",
+            "SALARIO": "2.784.499",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1259886605",
+            "NOMBRES": "MARIANA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.155.071"
+        }
+    }
+]

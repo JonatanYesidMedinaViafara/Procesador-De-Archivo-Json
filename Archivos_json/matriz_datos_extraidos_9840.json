@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "513222595216",
+            "SOLICITUD": "8394582",
+            "CEDULA": "1423881597",
+            "NOMBRES": "NANCY CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "1.103.823",
+            "FIRMA ELLECTRONICA": "NANCY CANTILLO - 1423881597"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "513222595216",
+            "NOMBRES": "NANCY CANTILLO",
+            "CREDITO": "5.923.200",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "365.46",
+            "FIRMA ELLECTRONICA": "NANCY CANTILLO - 1423881597",
+            "AL PIE DE LA FIRMA": "NANCY CANTILLO - 1423881597"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1423881597",
+            "NOMBRES": "NANCY CANTILLO",
+            "FECHA NACIMIENTO": "28/02/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.923.200",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "NANCY CANTILLO - 1423881597",
+            "AL PIE DE LA FIRMA": "NANCY CANTILLO - 1423881597"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8394582",
+            "CEDULA": "1423881597",
+            "NOMBRES": "NANCY CANTILLO",
+            "CREDITO": "5.923.200",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "365.46",
+            "E.A": "21.63%",
+            "RECOMPRA O DESEMBOLSO": "1.103.823",
+            "FIRMA ELLECTRONICA": "NANCY CANTILLO - 1423881597"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1423881597",
+            "NOMBRES": "NANCY CANTILLO",
+            "FIRMA ELLECTRONICA": "NANCY CANTILLO - 1423881597"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1423881597",
+            "NOMBRES": "NANCY CANTILLO",
+            "FIRMA ELLECTRONICA": "NANCY CANTILLO - 1423881597",
+            "AL PIE DE LA FIRMA": "NANCY CANTILLO - 1423881597"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NANCY CANTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1423881597",
+            "NOMBRES": "NANCY CANTILLO",
+            "SALARIO": "2.014.548",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1423881597",
+            "NOMBRES": "NANCY CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "1.103.823"
+        }
+    }
+]

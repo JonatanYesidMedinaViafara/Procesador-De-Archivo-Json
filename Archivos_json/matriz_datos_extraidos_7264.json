@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "258848624170",
+            "SOLICITUD": "5216083",
+            "CEDULA": "1604048043",
+            "NOMBRES": "ENRIQUE NARVÁEZ BEJARANO",
+            "RECOMPRA O DESEMBOLSO": "4.822.003",
+            "FIRMA ELLECTRONICA": "ENRIQUE NARVÁEZ BEJARANO - 1604048043"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "258848624170",
+            "NOMBRES": "ENRIQUE NARVÁEZ BEJARANO",
+            "CREDITO": "5.109.535",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "216.989",
+            "FIRMA ELLECTRONICA": "ENRIQUE NARVÁEZ BEJARANO - 1604048043",
+            "AL PIE DE LA FIRMA": "ENRIQUE NARVÁEZ BEJARANO - 1604048043"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1604048043",
+            "NOMBRES": "ENRIQUE NARVÁEZ BEJARANO",
+            "FECHA NACIMIENTO": "01/08/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.109.535",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ENRIQUE NARVÁEZ BEJARANO - 1604048043",
+            "AL PIE DE LA FIRMA": "ENRIQUE NARVÁEZ BEJARANO - 1604048043"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5216083",
+            "CEDULA": "1604048043",
+            "NOMBRES": "ENRIQUE NARVÁEZ BEJARANO",
+            "CREDITO": "5.109.535",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "216.989",
+            "E.A": "23.28%",
+            "RECOMPRA O DESEMBOLSO": "4.822.003",
+            "FIRMA ELLECTRONICA": "ENRIQUE NARVÁEZ BEJARANO - 1604048043"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1604048043",
+            "NOMBRES": "ENRIQUE NARVÁEZ BEJARANO",
+            "FIRMA ELLECTRONICA": "ENRIQUE NARVÁEZ BEJARANO - 1604048043"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1604048043",
+            "NOMBRES": "ENRIQUE NARVÁEZ BEJARANO",
+            "FIRMA ELLECTRONICA": "ENRIQUE NARVÁEZ BEJARANO - 1604048043",
+            "AL PIE DE LA FIRMA": "ENRIQUE NARVÁEZ BEJARANO - 1604048043"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE NARVÁEZ BEJARANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1604048043",
+            "NOMBRES": "ENRIQUE NARVÁEZ BEJARANO",
+            "SALARIO": "3.381.327",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1604048043",
+            "NOMBRES": "ENRIQUE NARVÁEZ BEJARANO",
+            "RECOMPRA O DESEMBOLSO": "4.822.003"
+        }
+    }
+]

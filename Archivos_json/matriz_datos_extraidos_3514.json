@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "820454814278",
+            "SOLICITUD": "9400264",
+            "CEDULA": "1843193742",
+            "NOMBRES": "PATRICIA MURILLO",
+            "RECOMPRA O DESEMBOLSO": "1.269.235",
+            "FIRMA ELLECTRONICA": "PATRICIA MURILLO - 1843193742"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "820454814278",
+            "NOMBRES": "PATRICIA MURILLO",
+            "CREDITO": "18.211.364",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "195.838",
+            "FIRMA ELLECTRONICA": "PATRICIA MURILLO - 1843193742",
+            "AL PIE DE LA FIRMA": "PATRICIA MURILLO - 1843193742"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1843193742",
+            "NOMBRES": "PATRICIA MURILLO",
+            "FECHA NACIMIENTO": "20/04/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.211.364",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "PATRICIA MURILLO - 1843193742",
+            "AL PIE DE LA FIRMA": "PATRICIA MURILLO - 1843193742"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9400264",
+            "CEDULA": "1843193742",
+            "NOMBRES": "PATRICIA MURILLO",
+            "CREDITO": "18.211.364",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "195.838",
+            "E.A": "27.99%",
+            "RECOMPRA O DESEMBOLSO": "1.269.235",
+            "FIRMA ELLECTRONICA": "PATRICIA MURILLO - 1843193742"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1843193742",
+            "NOMBRES": "PATRICIA MURILLO",
+            "FIRMA ELLECTRONICA": "PATRICIA MURILLO - 1843193742"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1843193742",
+            "NOMBRES": "PATRICIA MURILLO",
+            "FIRMA ELLECTRONICA": "PATRICIA MURILLO - 1843193742",
+            "AL PIE DE LA FIRMA": "PATRICIA MURILLO - 1843193742"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA MURILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1843193742",
+            "NOMBRES": "PATRICIA MURILLO",
+            "SALARIO": "4.955.743",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1843193742",
+            "NOMBRES": "PATRICIA MURILLO",
+            "RECOMPRA O DESEMBOLSO": "1.269.235"
+        }
+    }
+]

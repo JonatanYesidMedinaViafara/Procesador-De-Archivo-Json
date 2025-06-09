@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "303852944380",
+            "SOLICITUD": "4689112",
+            "CEDULA": "1380255830",
+            "NOMBRES": "BLANCA ANA MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.541.129",
+            "FIRMA ELLECTRONICA": "BLANCA ANA MORALES - 1380255830"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "303852944380",
+            "NOMBRES": "BLANCA ANA MORALES",
+            "CREDITO": "8.911.293",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "213.353",
+            "FIRMA ELLECTRONICA": "BLANCA ANA MORALES - 1380255830",
+            "AL PIE DE LA FIRMA": "BLANCA ANA MORALES - 1380255830"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1380255830",
+            "NOMBRES": "BLANCA ANA MORALES",
+            "FECHA NACIMIENTO": "27/08/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.911.293",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "BLANCA ANA MORALES - 1380255830",
+            "AL PIE DE LA FIRMA": "BLANCA ANA MORALES - 1380255830"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4689112",
+            "CEDULA": "1380255830",
+            "NOMBRES": "BLANCA ANA MORALES",
+            "CREDITO": "8.911.293",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "213.353",
+            "E.A": "22.9%",
+            "RECOMPRA O DESEMBOLSO": "2.541.129",
+            "FIRMA ELLECTRONICA": "BLANCA ANA MORALES - 1380255830"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1380255830",
+            "NOMBRES": "BLANCA ANA MORALES",
+            "FIRMA ELLECTRONICA": "BLANCA ANA MORALES - 1380255830"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1380255830",
+            "NOMBRES": "BLANCA ANA MORALES",
+            "FIRMA ELLECTRONICA": "BLANCA ANA MORALES - 1380255830",
+            "AL PIE DE LA FIRMA": "BLANCA ANA MORALES - 1380255830"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BLANCA ANA MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1380255830",
+            "NOMBRES": "BLANCA ANA MORALES",
+            "SALARIO": "4.538.366",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1380255830",
+            "NOMBRES": "BLANCA ANA MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.541.129"
+        }
+    }
+]

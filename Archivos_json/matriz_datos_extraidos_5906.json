@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "534677263220",
+            "SOLICITUD": "6019581",
+            "CEDULA": "1777862270",
+            "NOMBRES": "JESÚS FERNANDO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.818.890",
+            "FIRMA ELLECTRONICA": "JESÚS FERNANDO RODRÍGUEZ - 1777862270"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "534677263220",
+            "NOMBRES": "JESÚS FERNANDO RODRÍGUEZ",
+            "CREDITO": "12.645.302",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "291.437",
+            "FIRMA ELLECTRONICA": "JESÚS FERNANDO RODRÍGUEZ - 1777862270",
+            "AL PIE DE LA FIRMA": "JESÚS FERNANDO RODRÍGUEZ - 1777862270"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1777862270",
+            "NOMBRES": "JESÚS FERNANDO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "01/07/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.645.302",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JESÚS FERNANDO RODRÍGUEZ - 1777862270",
+            "AL PIE DE LA FIRMA": "JESÚS FERNANDO RODRÍGUEZ - 1777862270"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6019581",
+            "CEDULA": "1777862270",
+            "NOMBRES": "JESÚS FERNANDO RODRÍGUEZ",
+            "CREDITO": "12.645.302",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "291.437",
+            "E.A": "19.56%",
+            "RECOMPRA O DESEMBOLSO": "2.818.890",
+            "FIRMA ELLECTRONICA": "JESÚS FERNANDO RODRÍGUEZ - 1777862270"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1777862270",
+            "NOMBRES": "JESÚS FERNANDO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JESÚS FERNANDO RODRÍGUEZ - 1777862270"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1777862270",
+            "NOMBRES": "JESÚS FERNANDO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JESÚS FERNANDO RODRÍGUEZ - 1777862270",
+            "AL PIE DE LA FIRMA": "JESÚS FERNANDO RODRÍGUEZ - 1777862270"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS FERNANDO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1777862270",
+            "NOMBRES": "JESÚS FERNANDO RODRÍGUEZ",
+            "SALARIO": "2.234.414",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1777862270",
+            "NOMBRES": "JESÚS FERNANDO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.818.890"
+        }
+    }
+]

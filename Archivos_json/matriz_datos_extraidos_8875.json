@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "476801257812",
+            "SOLICITUD": "9795564",
+            "CEDULA": "1837766984",
+            "NOMBRES": "EUGENIO GERMÁN ORTEGA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "3.080.238",
+            "FIRMA ELLECTRONICA": "EUGENIO GERMÁN ORTEGA CÓRDOBA - 1837766984"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "476801257812",
+            "NOMBRES": "EUGENIO GERMÁN ORTEGA CÓRDOBA",
+            "CREDITO": "19.389.558",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "243.298",
+            "FIRMA ELLECTRONICA": "EUGENIO GERMÁN ORTEGA CÓRDOBA - 1837766984",
+            "AL PIE DE LA FIRMA": "EUGENIO GERMÁN ORTEGA CÓRDOBA - 1837766984"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1837766984",
+            "NOMBRES": "EUGENIO GERMÁN ORTEGA CÓRDOBA",
+            "FECHA NACIMIENTO": "09/09/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.389.558",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "EUGENIO GERMÁN ORTEGA CÓRDOBA - 1837766984",
+            "AL PIE DE LA FIRMA": "EUGENIO GERMÁN ORTEGA CÓRDOBA - 1837766984"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9795564",
+            "CEDULA": "1837766984",
+            "NOMBRES": "EUGENIO GERMÁN ORTEGA CÓRDOBA",
+            "CREDITO": "19.389.558",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "243.298",
+            "E.A": "23.3%",
+            "RECOMPRA O DESEMBOLSO": "3.080.238",
+            "FIRMA ELLECTRONICA": "EUGENIO GERMÁN ORTEGA CÓRDOBA - 1837766984"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1837766984",
+            "NOMBRES": "EUGENIO GERMÁN ORTEGA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "EUGENIO GERMÁN ORTEGA CÓRDOBA - 1837766984"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1837766984",
+            "NOMBRES": "EUGENIO GERMÁN ORTEGA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "EUGENIO GERMÁN ORTEGA CÓRDOBA - 1837766984",
+            "AL PIE DE LA FIRMA": "EUGENIO GERMÁN ORTEGA CÓRDOBA - 1837766984"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EUGENIO GERMÁN ORTEGA CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1837766984",
+            "NOMBRES": "EUGENIO GERMÁN ORTEGA CÓRDOBA",
+            "SALARIO": "1.089.045",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1837766984",
+            "NOMBRES": "EUGENIO GERMÁN ORTEGA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "3.080.238"
+        }
+    }
+]

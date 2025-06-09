@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "435535561782",
+            "SOLICITUD": "7202708",
+            "CEDULA": "1000875202",
+            "NOMBRES": "FABIO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.442.122",
+            "FIRMA ELLECTRONICA": "FABIO SUÁREZ - 1000875202"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "435535561782",
+            "NOMBRES": "FABIO SUÁREZ",
+            "CREDITO": "11.333.564",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "150.873",
+            "FIRMA ELLECTRONICA": "FABIO SUÁREZ - 1000875202",
+            "AL PIE DE LA FIRMA": "FABIO SUÁREZ - 1000875202"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1000875202",
+            "NOMBRES": "FABIO SUÁREZ",
+            "FECHA NACIMIENTO": "15/05/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.333.564",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FABIO SUÁREZ - 1000875202",
+            "AL PIE DE LA FIRMA": "FABIO SUÁREZ - 1000875202"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7202708",
+            "CEDULA": "1000875202",
+            "NOMBRES": "FABIO SUÁREZ",
+            "CREDITO": "11.333.564",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "150.873",
+            "E.A": "26.18%",
+            "RECOMPRA O DESEMBOLSO": "1.442.122",
+            "FIRMA ELLECTRONICA": "FABIO SUÁREZ - 1000875202"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1000875202",
+            "NOMBRES": "FABIO SUÁREZ",
+            "FIRMA ELLECTRONICA": "FABIO SUÁREZ - 1000875202"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1000875202",
+            "NOMBRES": "FABIO SUÁREZ",
+            "FIRMA ELLECTRONICA": "FABIO SUÁREZ - 1000875202",
+            "AL PIE DE LA FIRMA": "FABIO SUÁREZ - 1000875202"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIO SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1000875202",
+            "NOMBRES": "FABIO SUÁREZ",
+            "SALARIO": "1.054.504",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1000875202",
+            "NOMBRES": "FABIO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.442.122"
+        }
+    }
+]

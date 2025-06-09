@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "516403648300",
+            "SOLICITUD": "5189361",
+            "CEDULA": "1049784769",
+            "NOMBRES": "DIEGO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.839.614",
+            "FIRMA ELLECTRONICA": "DIEGO PÉREZ - 1049784769"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "516403648300",
+            "NOMBRES": "DIEGO PÉREZ",
+            "CREDITO": "16.080.067",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "215.88",
+            "FIRMA ELLECTRONICA": "DIEGO PÉREZ - 1049784769",
+            "AL PIE DE LA FIRMA": "DIEGO PÉREZ - 1049784769"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1049784769",
+            "NOMBRES": "DIEGO PÉREZ",
+            "FECHA NACIMIENTO": "09/02/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.080.067",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DIEGO PÉREZ - 1049784769",
+            "AL PIE DE LA FIRMA": "DIEGO PÉREZ - 1049784769"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5189361",
+            "CEDULA": "1049784769",
+            "NOMBRES": "DIEGO PÉREZ",
+            "CREDITO": "16.080.067",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "215.88",
+            "E.A": "20.69%",
+            "RECOMPRA O DESEMBOLSO": "2.839.614",
+            "FIRMA ELLECTRONICA": "DIEGO PÉREZ - 1049784769"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1049784769",
+            "NOMBRES": "DIEGO PÉREZ",
+            "FIRMA ELLECTRONICA": "DIEGO PÉREZ - 1049784769"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1049784769",
+            "NOMBRES": "DIEGO PÉREZ",
+            "FIRMA ELLECTRONICA": "DIEGO PÉREZ - 1049784769",
+            "AL PIE DE LA FIRMA": "DIEGO PÉREZ - 1049784769"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1049784769",
+            "NOMBRES": "DIEGO PÉREZ",
+            "SALARIO": "2.321.397",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1049784769",
+            "NOMBRES": "DIEGO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.839.614"
+        }
+    }
+]

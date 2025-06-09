@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "194741738242",
+            "SOLICITUD": "9018921",
+            "CEDULA": "1923317646",
+            "NOMBRES": "JOSÉ ÁNGEL RIVERA",
+            "RECOMPRA O DESEMBOLSO": "3.303.626",
+            "FIRMA ELLECTRONICA": "JOSÉ ÁNGEL RIVERA - 1923317646"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "194741738242",
+            "NOMBRES": "JOSÉ ÁNGEL RIVERA",
+            "CREDITO": "12.718.605",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "318.611",
+            "FIRMA ELLECTRONICA": "JOSÉ ÁNGEL RIVERA - 1923317646",
+            "AL PIE DE LA FIRMA": "JOSÉ ÁNGEL RIVERA - 1923317646"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1923317646",
+            "NOMBRES": "JOSÉ ÁNGEL RIVERA",
+            "FECHA NACIMIENTO": "09/12/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.718.605",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ ÁNGEL RIVERA - 1923317646",
+            "AL PIE DE LA FIRMA": "JOSÉ ÁNGEL RIVERA - 1923317646"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9018921",
+            "CEDULA": "1923317646",
+            "NOMBRES": "JOSÉ ÁNGEL RIVERA",
+            "CREDITO": "12.718.605",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "318.611",
+            "E.A": "28.56%",
+            "RECOMPRA O DESEMBOLSO": "3.303.626",
+            "FIRMA ELLECTRONICA": "JOSÉ ÁNGEL RIVERA - 1923317646"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1923317646",
+            "NOMBRES": "JOSÉ ÁNGEL RIVERA",
+            "FIRMA ELLECTRONICA": "JOSÉ ÁNGEL RIVERA - 1923317646"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1923317646",
+            "NOMBRES": "JOSÉ ÁNGEL RIVERA",
+            "FIRMA ELLECTRONICA": "JOSÉ ÁNGEL RIVERA - 1923317646",
+            "AL PIE DE LA FIRMA": "JOSÉ ÁNGEL RIVERA - 1923317646"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ÁNGEL RIVERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1923317646",
+            "NOMBRES": "JOSÉ ÁNGEL RIVERA",
+            "SALARIO": "2.245.999",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1923317646",
+            "NOMBRES": "JOSÉ ÁNGEL RIVERA",
+            "RECOMPRA O DESEMBOLSO": "3.303.626"
+        }
+    }
+]

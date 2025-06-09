@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "691005300347",
+            "SOLICITUD": "9624588",
+            "CEDULA": "1819704493",
+            "NOMBRES": "FERNANDO ANDRÉS GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "3.627.130",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GUERRERO - 1819704493"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "691005300347",
+            "NOMBRES": "FERNANDO ANDRÉS GUERRERO",
+            "CREDITO": "13.116.316",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.4",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GUERRERO - 1819704493",
+            "AL PIE DE LA FIRMA": "FERNANDO ANDRÉS GUERRERO - 1819704493"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1819704493",
+            "NOMBRES": "FERNANDO ANDRÉS GUERRERO",
+            "FECHA NACIMIENTO": "02/06/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.116.316",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GUERRERO - 1819704493",
+            "AL PIE DE LA FIRMA": "FERNANDO ANDRÉS GUERRERO - 1819704493"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9624588",
+            "CEDULA": "1819704493",
+            "NOMBRES": "FERNANDO ANDRÉS GUERRERO",
+            "CREDITO": "13.116.316",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.4",
+            "E.A": "18.71%",
+            "RECOMPRA O DESEMBOLSO": "3.627.130",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GUERRERO - 1819704493"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1819704493",
+            "NOMBRES": "FERNANDO ANDRÉS GUERRERO",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GUERRERO - 1819704493"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1819704493",
+            "NOMBRES": "FERNANDO ANDRÉS GUERRERO",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GUERRERO - 1819704493",
+            "AL PIE DE LA FIRMA": "FERNANDO ANDRÉS GUERRERO - 1819704493"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO ANDRÉS GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1819704493",
+            "NOMBRES": "FERNANDO ANDRÉS GUERRERO",
+            "SALARIO": "2.268.011",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1819704493",
+            "NOMBRES": "FERNANDO ANDRÉS GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "3.627.130"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "259864079275",
+            "SOLICITUD": "2469597",
+            "CEDULA": "1838066384",
+            "NOMBRES": "CAMILO SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.661.831",
+            "FIRMA ELLECTRONICA": "CAMILO SALAZAR - 1838066384"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "259864079275",
+            "NOMBRES": "CAMILO SALAZAR",
+            "CREDITO": "13.426.776",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "337.857",
+            "FIRMA ELLECTRONICA": "CAMILO SALAZAR - 1838066384",
+            "AL PIE DE LA FIRMA": "CAMILO SALAZAR - 1838066384"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1838066384",
+            "NOMBRES": "CAMILO SALAZAR",
+            "FECHA NACIMIENTO": "03/08/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.426.776",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAMILO SALAZAR - 1838066384",
+            "AL PIE DE LA FIRMA": "CAMILO SALAZAR - 1838066384"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2469597",
+            "CEDULA": "1838066384",
+            "NOMBRES": "CAMILO SALAZAR",
+            "CREDITO": "13.426.776",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "337.857",
+            "E.A": "22.36%",
+            "RECOMPRA O DESEMBOLSO": "1.661.831",
+            "FIRMA ELLECTRONICA": "CAMILO SALAZAR - 1838066384"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1838066384",
+            "NOMBRES": "CAMILO SALAZAR",
+            "FIRMA ELLECTRONICA": "CAMILO SALAZAR - 1838066384"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1838066384",
+            "NOMBRES": "CAMILO SALAZAR",
+            "FIRMA ELLECTRONICA": "CAMILO SALAZAR - 1838066384",
+            "AL PIE DE LA FIRMA": "CAMILO SALAZAR - 1838066384"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1838066384",
+            "NOMBRES": "CAMILO SALAZAR",
+            "SALARIO": "3.736.958",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1838066384",
+            "NOMBRES": "CAMILO SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.661.831"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "645366600797",
+            "SOLICITUD": "3202631",
+            "CEDULA": "1393883974",
+            "NOMBRES": "SANDRA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.866.796",
+            "FIRMA ELLECTRONICA": "SANDRA TORRES - 1393883974"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "645366600797",
+            "NOMBRES": "SANDRA TORRES",
+            "CREDITO": "5.906.574",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "316.955",
+            "FIRMA ELLECTRONICA": "SANDRA TORRES - 1393883974",
+            "AL PIE DE LA FIRMA": "SANDRA TORRES - 1393883974"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1393883974",
+            "NOMBRES": "SANDRA TORRES",
+            "FECHA NACIMIENTO": "20/12/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.906.574",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SANDRA TORRES - 1393883974",
+            "AL PIE DE LA FIRMA": "SANDRA TORRES - 1393883974"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3202631",
+            "CEDULA": "1393883974",
+            "NOMBRES": "SANDRA TORRES",
+            "CREDITO": "5.906.574",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "316.955",
+            "E.A": "24.9%",
+            "RECOMPRA O DESEMBOLSO": "4.866.796",
+            "FIRMA ELLECTRONICA": "SANDRA TORRES - 1393883974"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1393883974",
+            "NOMBRES": "SANDRA TORRES",
+            "FIRMA ELLECTRONICA": "SANDRA TORRES - 1393883974"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1393883974",
+            "NOMBRES": "SANDRA TORRES",
+            "FIRMA ELLECTRONICA": "SANDRA TORRES - 1393883974",
+            "AL PIE DE LA FIRMA": "SANDRA TORRES - 1393883974"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1393883974",
+            "NOMBRES": "SANDRA TORRES",
+            "SALARIO": "1.634.162",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1393883974",
+            "NOMBRES": "SANDRA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.866.796"
+        }
+    }
+]

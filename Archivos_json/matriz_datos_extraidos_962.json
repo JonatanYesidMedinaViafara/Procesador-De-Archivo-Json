@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "462816080375",
+            "SOLICITUD": "3876740",
+            "CEDULA": "1348796080",
+            "NOMBRES": "MARÍA AGUIRRE SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "1.088.566",
+            "FIRMA ELLECTRONICA": "MARÍA AGUIRRE SARMIENTO - 1348796080"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "462816080375",
+            "NOMBRES": "MARÍA AGUIRRE SARMIENTO",
+            "CREDITO": "13.125.693",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "129.107",
+            "FIRMA ELLECTRONICA": "MARÍA AGUIRRE SARMIENTO - 1348796080",
+            "AL PIE DE LA FIRMA": "MARÍA AGUIRRE SARMIENTO - 1348796080"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1348796080",
+            "NOMBRES": "MARÍA AGUIRRE SARMIENTO",
+            "FECHA NACIMIENTO": "01/09/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.125.693",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA AGUIRRE SARMIENTO - 1348796080",
+            "AL PIE DE LA FIRMA": "MARÍA AGUIRRE SARMIENTO - 1348796080"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3876740",
+            "CEDULA": "1348796080",
+            "NOMBRES": "MARÍA AGUIRRE SARMIENTO",
+            "CREDITO": "13.125.693",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "129.107",
+            "E.A": "20.8%",
+            "RECOMPRA O DESEMBOLSO": "1.088.566",
+            "FIRMA ELLECTRONICA": "MARÍA AGUIRRE SARMIENTO - 1348796080"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1348796080",
+            "NOMBRES": "MARÍA AGUIRRE SARMIENTO",
+            "FIRMA ELLECTRONICA": "MARÍA AGUIRRE SARMIENTO - 1348796080"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1348796080",
+            "NOMBRES": "MARÍA AGUIRRE SARMIENTO",
+            "FIRMA ELLECTRONICA": "MARÍA AGUIRRE SARMIENTO - 1348796080",
+            "AL PIE DE LA FIRMA": "MARÍA AGUIRRE SARMIENTO - 1348796080"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA AGUIRRE SARMIENTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1348796080",
+            "NOMBRES": "MARÍA AGUIRRE SARMIENTO",
+            "SALARIO": "3.081.533",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1348796080",
+            "NOMBRES": "MARÍA AGUIRRE SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "1.088.566"
+        }
+    }
+]

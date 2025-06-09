@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "742819852660",
+            "SOLICITUD": "3331760",
+            "CEDULA": "1018037598",
+            "NOMBRES": "MARÍA OLGA LÓPEZ VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.661.324",
+            "FIRMA ELLECTRONICA": "MARÍA OLGA LÓPEZ VELÁSQUEZ - 1018037598"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "742819852660",
+            "NOMBRES": "MARÍA OLGA LÓPEZ VELÁSQUEZ",
+            "CREDITO": "13.103.015",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "355.198",
+            "FIRMA ELLECTRONICA": "MARÍA OLGA LÓPEZ VELÁSQUEZ - 1018037598",
+            "AL PIE DE LA FIRMA": "MARÍA OLGA LÓPEZ VELÁSQUEZ - 1018037598"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1018037598",
+            "NOMBRES": "MARÍA OLGA LÓPEZ VELÁSQUEZ",
+            "FECHA NACIMIENTO": "25/12/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.103.015",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA OLGA LÓPEZ VELÁSQUEZ - 1018037598",
+            "AL PIE DE LA FIRMA": "MARÍA OLGA LÓPEZ VELÁSQUEZ - 1018037598"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3331760",
+            "CEDULA": "1018037598",
+            "NOMBRES": "MARÍA OLGA LÓPEZ VELÁSQUEZ",
+            "CREDITO": "13.103.015",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "355.198",
+            "E.A": "18.62%",
+            "RECOMPRA O DESEMBOLSO": "1.661.324",
+            "FIRMA ELLECTRONICA": "MARÍA OLGA LÓPEZ VELÁSQUEZ - 1018037598"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1018037598",
+            "NOMBRES": "MARÍA OLGA LÓPEZ VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "MARÍA OLGA LÓPEZ VELÁSQUEZ - 1018037598"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1018037598",
+            "NOMBRES": "MARÍA OLGA LÓPEZ VELÁSQUEZ",
+            "FIRMA ELLECTRONICA": "MARÍA OLGA LÓPEZ VELÁSQUEZ - 1018037598",
+            "AL PIE DE LA FIRMA": "MARÍA OLGA LÓPEZ VELÁSQUEZ - 1018037598"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA OLGA LÓPEZ VELÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1018037598",
+            "NOMBRES": "MARÍA OLGA LÓPEZ VELÁSQUEZ",
+            "SALARIO": "3.488.094",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1018037598",
+            "NOMBRES": "MARÍA OLGA LÓPEZ VELÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.661.324"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "692762070597",
+            "SOLICITUD": "1186791",
+            "CEDULA": "1454955319",
+            "NOMBRES": "CATALINA DÍAZ BONILLA",
+            "RECOMPRA O DESEMBOLSO": "1.047.332",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ BONILLA - 1454955319"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "692762070597",
+            "NOMBRES": "CATALINA DÍAZ BONILLA",
+            "CREDITO": "10.515.104",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "208.721",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ BONILLA - 1454955319",
+            "AL PIE DE LA FIRMA": "CATALINA DÍAZ BONILLA - 1454955319"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1454955319",
+            "NOMBRES": "CATALINA DÍAZ BONILLA",
+            "FECHA NACIMIENTO": "08/04/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.515.104",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ BONILLA - 1454955319",
+            "AL PIE DE LA FIRMA": "CATALINA DÍAZ BONILLA - 1454955319"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1186791",
+            "CEDULA": "1454955319",
+            "NOMBRES": "CATALINA DÍAZ BONILLA",
+            "CREDITO": "10.515.104",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "208.721",
+            "E.A": "20.21%",
+            "RECOMPRA O DESEMBOLSO": "1.047.332",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ BONILLA - 1454955319"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1454955319",
+            "NOMBRES": "CATALINA DÍAZ BONILLA",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ BONILLA - 1454955319"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1454955319",
+            "NOMBRES": "CATALINA DÍAZ BONILLA",
+            "FIRMA ELLECTRONICA": "CATALINA DÍAZ BONILLA - 1454955319",
+            "AL PIE DE LA FIRMA": "CATALINA DÍAZ BONILLA - 1454955319"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CATALINA DÍAZ BONILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1454955319",
+            "NOMBRES": "CATALINA DÍAZ BONILLA",
+            "SALARIO": "3.228.753",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "31/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1454955319",
+            "NOMBRES": "CATALINA DÍAZ BONILLA",
+            "RECOMPRA O DESEMBOLSO": "1.047.332"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "151280260497",
+            "SOLICITUD": "2366725",
+            "CEDULA": "1569369001",
+            "NOMBRES": "FRANCISCO SALCEDO PRADA",
+            "RECOMPRA O DESEMBOLSO": "2.582.316",
+            "FIRMA ELLECTRONICA": "FRANCISCO SALCEDO PRADA - 1569369001"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "151280260497",
+            "NOMBRES": "FRANCISCO SALCEDO PRADA",
+            "CREDITO": "6.775.735",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "157.404",
+            "FIRMA ELLECTRONICA": "FRANCISCO SALCEDO PRADA - 1569369001",
+            "AL PIE DE LA FIRMA": "FRANCISCO SALCEDO PRADA - 1569369001"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1569369001",
+            "NOMBRES": "FRANCISCO SALCEDO PRADA",
+            "FECHA NACIMIENTO": "13/06/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.775.735",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FRANCISCO SALCEDO PRADA - 1569369001",
+            "AL PIE DE LA FIRMA": "FRANCISCO SALCEDO PRADA - 1569369001"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2366725",
+            "CEDULA": "1569369001",
+            "NOMBRES": "FRANCISCO SALCEDO PRADA",
+            "CREDITO": "6.775.735",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "157.404",
+            "E.A": "22.15%",
+            "RECOMPRA O DESEMBOLSO": "2.582.316",
+            "FIRMA ELLECTRONICA": "FRANCISCO SALCEDO PRADA - 1569369001"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1569369001",
+            "NOMBRES": "FRANCISCO SALCEDO PRADA",
+            "FIRMA ELLECTRONICA": "FRANCISCO SALCEDO PRADA - 1569369001"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1569369001",
+            "NOMBRES": "FRANCISCO SALCEDO PRADA",
+            "FIRMA ELLECTRONICA": "FRANCISCO SALCEDO PRADA - 1569369001",
+            "AL PIE DE LA FIRMA": "FRANCISCO SALCEDO PRADA - 1569369001"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO SALCEDO PRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1569369001",
+            "NOMBRES": "FRANCISCO SALCEDO PRADA",
+            "SALARIO": "2.086.971",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1569369001",
+            "NOMBRES": "FRANCISCO SALCEDO PRADA",
+            "RECOMPRA O DESEMBOLSO": "2.582.316"
+        }
+    }
+]

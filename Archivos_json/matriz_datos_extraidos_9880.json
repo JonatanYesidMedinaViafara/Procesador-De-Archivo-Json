@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "453495017723",
+            "SOLICITUD": "7973321",
+            "CEDULA": "1096870963",
+            "NOMBRES": "JHON GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.211.972",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA - 1096870963"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "453495017723",
+            "NOMBRES": "JHON GARCÍA",
+            "CREDITO": "14.738.574",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "352.806",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA - 1096870963",
+            "AL PIE DE LA FIRMA": "JHON GARCÍA - 1096870963"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1096870963",
+            "NOMBRES": "JHON GARCÍA",
+            "FECHA NACIMIENTO": "18/03/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.738.574",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA - 1096870963",
+            "AL PIE DE LA FIRMA": "JHON GARCÍA - 1096870963"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7973321",
+            "CEDULA": "1096870963",
+            "NOMBRES": "JHON GARCÍA",
+            "CREDITO": "14.738.574",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "352.806",
+            "E.A": "19.39%",
+            "RECOMPRA O DESEMBOLSO": "4.211.972",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA - 1096870963"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1096870963",
+            "NOMBRES": "JHON GARCÍA",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA - 1096870963"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1096870963",
+            "NOMBRES": "JHON GARCÍA",
+            "FIRMA ELLECTRONICA": "JHON GARCÍA - 1096870963",
+            "AL PIE DE LA FIRMA": "JHON GARCÍA - 1096870963"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1096870963",
+            "NOMBRES": "JHON GARCÍA",
+            "SALARIO": "1.549.307",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "29/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1096870963",
+            "NOMBRES": "JHON GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.211.972"
+        }
+    }
+]

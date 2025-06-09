@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "231513908039",
+            "SOLICITUD": "2957433",
+            "CEDULA": "1700181424",
+            "NOMBRES": "JHON HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.680.395",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ - 1700181424"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "231513908039",
+            "NOMBRES": "JHON HERNÁNDEZ",
+            "CREDITO": "6.317.712",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "256.116",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ - 1700181424",
+            "AL PIE DE LA FIRMA": "JHON HERNÁNDEZ - 1700181424"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1700181424",
+            "NOMBRES": "JHON HERNÁNDEZ",
+            "FECHA NACIMIENTO": "03/10/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.317.712",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ - 1700181424",
+            "AL PIE DE LA FIRMA": "JHON HERNÁNDEZ - 1700181424"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2957433",
+            "CEDULA": "1700181424",
+            "NOMBRES": "JHON HERNÁNDEZ",
+            "CREDITO": "6.317.712",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "256.116",
+            "E.A": "18.58%",
+            "RECOMPRA O DESEMBOLSO": "2.680.395",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ - 1700181424"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1700181424",
+            "NOMBRES": "JHON HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ - 1700181424"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1700181424",
+            "NOMBRES": "JHON HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ - 1700181424",
+            "AL PIE DE LA FIRMA": "JHON HERNÁNDEZ - 1700181424"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1700181424",
+            "NOMBRES": "JHON HERNÁNDEZ",
+            "SALARIO": "3.835.440",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1700181424",
+            "NOMBRES": "JHON HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.680.395"
+        }
+    }
+]

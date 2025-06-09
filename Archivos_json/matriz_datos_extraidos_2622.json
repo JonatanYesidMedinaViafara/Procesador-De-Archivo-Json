@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "962904684629",
+            "SOLICITUD": "5310629",
+            "CEDULA": "1508958568",
+            "NOMBRES": "IRMA ÁNGELA MURILLO",
+            "RECOMPRA O DESEMBOLSO": "1.988.184",
+            "FIRMA ELLECTRONICA": "IRMA ÁNGELA MURILLO - 1508958568"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "962904684629",
+            "NOMBRES": "IRMA ÁNGELA MURILLO",
+            "CREDITO": "8.641.832",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "335.324",
+            "FIRMA ELLECTRONICA": "IRMA ÁNGELA MURILLO - 1508958568",
+            "AL PIE DE LA FIRMA": "IRMA ÁNGELA MURILLO - 1508958568"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1508958568",
+            "NOMBRES": "IRMA ÁNGELA MURILLO",
+            "FECHA NACIMIENTO": "12/04/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.641.832",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "IRMA ÁNGELA MURILLO - 1508958568",
+            "AL PIE DE LA FIRMA": "IRMA ÁNGELA MURILLO - 1508958568"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5310629",
+            "CEDULA": "1508958568",
+            "NOMBRES": "IRMA ÁNGELA MURILLO",
+            "CREDITO": "8.641.832",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "335.324",
+            "E.A": "21.56%",
+            "RECOMPRA O DESEMBOLSO": "1.988.184",
+            "FIRMA ELLECTRONICA": "IRMA ÁNGELA MURILLO - 1508958568"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1508958568",
+            "NOMBRES": "IRMA ÁNGELA MURILLO",
+            "FIRMA ELLECTRONICA": "IRMA ÁNGELA MURILLO - 1508958568"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1508958568",
+            "NOMBRES": "IRMA ÁNGELA MURILLO",
+            "FIRMA ELLECTRONICA": "IRMA ÁNGELA MURILLO - 1508958568",
+            "AL PIE DE LA FIRMA": "IRMA ÁNGELA MURILLO - 1508958568"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IRMA ÁNGELA MURILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1508958568",
+            "NOMBRES": "IRMA ÁNGELA MURILLO",
+            "SALARIO": "1.722.742",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1508958568",
+            "NOMBRES": "IRMA ÁNGELA MURILLO",
+            "RECOMPRA O DESEMBOLSO": "1.988.184"
+        }
+    }
+]

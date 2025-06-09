@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "867952038192",
+            "SOLICITUD": "6298671",
+            "CEDULA": "1456362381",
+            "NOMBRES": "ALICIA CASTAÑEDA BLANCO",
+            "RECOMPRA O DESEMBOLSO": "2.921.588",
+            "FIRMA ELLECTRONICA": "ALICIA CASTAÑEDA BLANCO - 1456362381"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "867952038192",
+            "NOMBRES": "ALICIA CASTAÑEDA BLANCO",
+            "CREDITO": "5.086.911",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "102.32",
+            "FIRMA ELLECTRONICA": "ALICIA CASTAÑEDA BLANCO - 1456362381",
+            "AL PIE DE LA FIRMA": "ALICIA CASTAÑEDA BLANCO - 1456362381"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1456362381",
+            "NOMBRES": "ALICIA CASTAÑEDA BLANCO",
+            "FECHA NACIMIENTO": "19/11/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.086.911",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALICIA CASTAÑEDA BLANCO - 1456362381",
+            "AL PIE DE LA FIRMA": "ALICIA CASTAÑEDA BLANCO - 1456362381"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6298671",
+            "CEDULA": "1456362381",
+            "NOMBRES": "ALICIA CASTAÑEDA BLANCO",
+            "CREDITO": "5.086.911",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "102.32",
+            "E.A": "20.71%",
+            "RECOMPRA O DESEMBOLSO": "2.921.588",
+            "FIRMA ELLECTRONICA": "ALICIA CASTAÑEDA BLANCO - 1456362381"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1456362381",
+            "NOMBRES": "ALICIA CASTAÑEDA BLANCO",
+            "FIRMA ELLECTRONICA": "ALICIA CASTAÑEDA BLANCO - 1456362381"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1456362381",
+            "NOMBRES": "ALICIA CASTAÑEDA BLANCO",
+            "FIRMA ELLECTRONICA": "ALICIA CASTAÑEDA BLANCO - 1456362381",
+            "AL PIE DE LA FIRMA": "ALICIA CASTAÑEDA BLANCO - 1456362381"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALICIA CASTAÑEDA BLANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1456362381",
+            "NOMBRES": "ALICIA CASTAÑEDA BLANCO",
+            "SALARIO": "4.118.900",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1456362381",
+            "NOMBRES": "ALICIA CASTAÑEDA BLANCO",
+            "RECOMPRA O DESEMBOLSO": "2.921.588"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "786306762463",
+            "SOLICITUD": "5602045",
+            "CEDULA": "1817897087",
+            "NOMBRES": "ÁLVARO RIVAS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.860.112",
+            "FIRMA ELLECTRONICA": "ÁLVARO RIVAS GÓMEZ - 1817897087"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "786306762463",
+            "NOMBRES": "ÁLVARO RIVAS GÓMEZ",
+            "CREDITO": "6.484.894",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "333.526",
+            "FIRMA ELLECTRONICA": "ÁLVARO RIVAS GÓMEZ - 1817897087",
+            "AL PIE DE LA FIRMA": "ÁLVARO RIVAS GÓMEZ - 1817897087"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1817897087",
+            "NOMBRES": "ÁLVARO RIVAS GÓMEZ",
+            "FECHA NACIMIENTO": "21/01/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.484.894",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ÁLVARO RIVAS GÓMEZ - 1817897087",
+            "AL PIE DE LA FIRMA": "ÁLVARO RIVAS GÓMEZ - 1817897087"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5602045",
+            "CEDULA": "1817897087",
+            "NOMBRES": "ÁLVARO RIVAS GÓMEZ",
+            "CREDITO": "6.484.894",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "333.526",
+            "E.A": "24.57%",
+            "RECOMPRA O DESEMBOLSO": "4.860.112",
+            "FIRMA ELLECTRONICA": "ÁLVARO RIVAS GÓMEZ - 1817897087"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1817897087",
+            "NOMBRES": "ÁLVARO RIVAS GÓMEZ",
+            "FIRMA ELLECTRONICA": "ÁLVARO RIVAS GÓMEZ - 1817897087"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1817897087",
+            "NOMBRES": "ÁLVARO RIVAS GÓMEZ",
+            "FIRMA ELLECTRONICA": "ÁLVARO RIVAS GÓMEZ - 1817897087",
+            "AL PIE DE LA FIRMA": "ÁLVARO RIVAS GÓMEZ - 1817897087"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO RIVAS GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1817897087",
+            "NOMBRES": "ÁLVARO RIVAS GÓMEZ",
+            "SALARIO": "1.934.760",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1817897087",
+            "NOMBRES": "ÁLVARO RIVAS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.860.112"
+        }
+    }
+]

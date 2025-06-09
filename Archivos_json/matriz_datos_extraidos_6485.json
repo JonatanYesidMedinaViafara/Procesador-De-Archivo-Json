@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "988212793570",
+            "SOLICITUD": "7688829",
+            "CEDULA": "1473179983",
+            "NOMBRES": "MANUELA CLAUDIA GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "4.307.921",
+            "FIRMA ELLECTRONICA": "MANUELA CLAUDIA GARZÓN - 1473179983"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "988212793570",
+            "NOMBRES": "MANUELA CLAUDIA GARZÓN",
+            "CREDITO": "19.436.780",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "165.491",
+            "FIRMA ELLECTRONICA": "MANUELA CLAUDIA GARZÓN - 1473179983",
+            "AL PIE DE LA FIRMA": "MANUELA CLAUDIA GARZÓN - 1473179983"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1473179983",
+            "NOMBRES": "MANUELA CLAUDIA GARZÓN",
+            "FECHA NACIMIENTO": "25/03/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.436.780",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MANUELA CLAUDIA GARZÓN - 1473179983",
+            "AL PIE DE LA FIRMA": "MANUELA CLAUDIA GARZÓN - 1473179983"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7688829",
+            "CEDULA": "1473179983",
+            "NOMBRES": "MANUELA CLAUDIA GARZÓN",
+            "CREDITO": "19.436.780",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "165.491",
+            "E.A": "24.84%",
+            "RECOMPRA O DESEMBOLSO": "4.307.921",
+            "FIRMA ELLECTRONICA": "MANUELA CLAUDIA GARZÓN - 1473179983"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1473179983",
+            "NOMBRES": "MANUELA CLAUDIA GARZÓN",
+            "FIRMA ELLECTRONICA": "MANUELA CLAUDIA GARZÓN - 1473179983"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1473179983",
+            "NOMBRES": "MANUELA CLAUDIA GARZÓN",
+            "FIRMA ELLECTRONICA": "MANUELA CLAUDIA GARZÓN - 1473179983",
+            "AL PIE DE LA FIRMA": "MANUELA CLAUDIA GARZÓN - 1473179983"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUELA CLAUDIA GARZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1473179983",
+            "NOMBRES": "MANUELA CLAUDIA GARZÓN",
+            "SALARIO": "4.163.422",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1473179983",
+            "NOMBRES": "MANUELA CLAUDIA GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "4.307.921"
+        }
+    }
+]

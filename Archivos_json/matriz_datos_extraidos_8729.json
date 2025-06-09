@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "925388951481",
+            "SOLICITUD": "2928080",
+            "CEDULA": "1311352270",
+            "NOMBRES": "JOSÉ MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "1.651.686",
+            "FIRMA ELLECTRONICA": "JOSÉ MENDOZA - 1311352270"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "925388951481",
+            "NOMBRES": "JOSÉ MENDOZA",
+            "CREDITO": "6.379.259",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "114.155",
+            "FIRMA ELLECTRONICA": "JOSÉ MENDOZA - 1311352270",
+            "AL PIE DE LA FIRMA": "JOSÉ MENDOZA - 1311352270"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1311352270",
+            "NOMBRES": "JOSÉ MENDOZA",
+            "FECHA NACIMIENTO": "13/12/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.379.259",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ MENDOZA - 1311352270",
+            "AL PIE DE LA FIRMA": "JOSÉ MENDOZA - 1311352270"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2928080",
+            "CEDULA": "1311352270",
+            "NOMBRES": "JOSÉ MENDOZA",
+            "CREDITO": "6.379.259",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "114.155",
+            "E.A": "21.32%",
+            "RECOMPRA O DESEMBOLSO": "1.651.686",
+            "FIRMA ELLECTRONICA": "JOSÉ MENDOZA - 1311352270"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1311352270",
+            "NOMBRES": "JOSÉ MENDOZA",
+            "FIRMA ELLECTRONICA": "JOSÉ MENDOZA - 1311352270"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1311352270",
+            "NOMBRES": "JOSÉ MENDOZA",
+            "FIRMA ELLECTRONICA": "JOSÉ MENDOZA - 1311352270",
+            "AL PIE DE LA FIRMA": "JOSÉ MENDOZA - 1311352270"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ MENDOZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1311352270",
+            "NOMBRES": "JOSÉ MENDOZA",
+            "SALARIO": "1.803.564",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1311352270",
+            "NOMBRES": "JOSÉ MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "1.651.686"
+        }
+    }
+]

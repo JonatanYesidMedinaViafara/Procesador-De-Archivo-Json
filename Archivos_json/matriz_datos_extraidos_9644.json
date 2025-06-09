@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "567895434250",
+            "SOLICITUD": "1656502",
+            "CEDULA": "1510010455",
+            "NOMBRES": "GUSTAVO ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "3.769.834",
+            "FIRMA ELLECTRONICA": "GUSTAVO ESCOBAR - 1510010455"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "567895434250",
+            "NOMBRES": "GUSTAVO ESCOBAR",
+            "CREDITO": "16.840.105",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "394.231",
+            "FIRMA ELLECTRONICA": "GUSTAVO ESCOBAR - 1510010455",
+            "AL PIE DE LA FIRMA": "GUSTAVO ESCOBAR - 1510010455"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1510010455",
+            "NOMBRES": "GUSTAVO ESCOBAR",
+            "FECHA NACIMIENTO": "29/01/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.840.105",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GUSTAVO ESCOBAR - 1510010455",
+            "AL PIE DE LA FIRMA": "GUSTAVO ESCOBAR - 1510010455"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1656502",
+            "CEDULA": "1510010455",
+            "NOMBRES": "GUSTAVO ESCOBAR",
+            "CREDITO": "16.840.105",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "394.231",
+            "E.A": "25.77%",
+            "RECOMPRA O DESEMBOLSO": "3.769.834",
+            "FIRMA ELLECTRONICA": "GUSTAVO ESCOBAR - 1510010455"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1510010455",
+            "NOMBRES": "GUSTAVO ESCOBAR",
+            "FIRMA ELLECTRONICA": "GUSTAVO ESCOBAR - 1510010455"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1510010455",
+            "NOMBRES": "GUSTAVO ESCOBAR",
+            "FIRMA ELLECTRONICA": "GUSTAVO ESCOBAR - 1510010455",
+            "AL PIE DE LA FIRMA": "GUSTAVO ESCOBAR - 1510010455"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GUSTAVO ESCOBAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1510010455",
+            "NOMBRES": "GUSTAVO ESCOBAR",
+            "SALARIO": "2.789.295",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1510010455",
+            "NOMBRES": "GUSTAVO ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "3.769.834"
+        }
+    }
+]

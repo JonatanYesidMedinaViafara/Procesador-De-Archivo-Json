@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "202812043651",
+            "SOLICITUD": "7346406",
+            "CEDULA": "1038352279",
+            "NOMBRES": "ANA RIVAS DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.706.405",
+            "FIRMA ELLECTRONICA": "ANA RIVAS DÍAZ - 1038352279"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "202812043651",
+            "NOMBRES": "ANA RIVAS DÍAZ",
+            "CREDITO": "17.305.243",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "247.621",
+            "FIRMA ELLECTRONICA": "ANA RIVAS DÍAZ - 1038352279",
+            "AL PIE DE LA FIRMA": "ANA RIVAS DÍAZ - 1038352279"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1038352279",
+            "NOMBRES": "ANA RIVAS DÍAZ",
+            "FECHA NACIMIENTO": "26/01/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.305.243",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANA RIVAS DÍAZ - 1038352279",
+            "AL PIE DE LA FIRMA": "ANA RIVAS DÍAZ - 1038352279"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7346406",
+            "CEDULA": "1038352279",
+            "NOMBRES": "ANA RIVAS DÍAZ",
+            "CREDITO": "17.305.243",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "247.621",
+            "E.A": "24.69%",
+            "RECOMPRA O DESEMBOLSO": "2.706.405",
+            "FIRMA ELLECTRONICA": "ANA RIVAS DÍAZ - 1038352279"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1038352279",
+            "NOMBRES": "ANA RIVAS DÍAZ",
+            "FIRMA ELLECTRONICA": "ANA RIVAS DÍAZ - 1038352279"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1038352279",
+            "NOMBRES": "ANA RIVAS DÍAZ",
+            "FIRMA ELLECTRONICA": "ANA RIVAS DÍAZ - 1038352279",
+            "AL PIE DE LA FIRMA": "ANA RIVAS DÍAZ - 1038352279"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA RIVAS DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1038352279",
+            "NOMBRES": "ANA RIVAS DÍAZ",
+            "SALARIO": "2.906.320",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1038352279",
+            "NOMBRES": "ANA RIVAS DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.706.405"
+        }
+    }
+]

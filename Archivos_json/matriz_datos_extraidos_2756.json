@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "636398357683",
+            "SOLICITUD": "3727288",
+            "CEDULA": "1033601980",
+            "NOMBRES": "ANDRÉS JHON GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.989.688",
+            "FIRMA ELLECTRONICA": "ANDRÉS JHON GARCÍA - 1033601980"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "636398357683",
+            "NOMBRES": "ANDRÉS JHON GARCÍA",
+            "CREDITO": "7.452.947",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "222.518",
+            "FIRMA ELLECTRONICA": "ANDRÉS JHON GARCÍA - 1033601980",
+            "AL PIE DE LA FIRMA": "ANDRÉS JHON GARCÍA - 1033601980"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1033601980",
+            "NOMBRES": "ANDRÉS JHON GARCÍA",
+            "FECHA NACIMIENTO": "01/12/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.452.947",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS JHON GARCÍA - 1033601980",
+            "AL PIE DE LA FIRMA": "ANDRÉS JHON GARCÍA - 1033601980"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3727288",
+            "CEDULA": "1033601980",
+            "NOMBRES": "ANDRÉS JHON GARCÍA",
+            "CREDITO": "7.452.947",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "222.518",
+            "E.A": "20.5%",
+            "RECOMPRA O DESEMBOLSO": "3.989.688",
+            "FIRMA ELLECTRONICA": "ANDRÉS JHON GARCÍA - 1033601980"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1033601980",
+            "NOMBRES": "ANDRÉS JHON GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDRÉS JHON GARCÍA - 1033601980"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1033601980",
+            "NOMBRES": "ANDRÉS JHON GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDRÉS JHON GARCÍA - 1033601980",
+            "AL PIE DE LA FIRMA": "ANDRÉS JHON GARCÍA - 1033601980"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS JHON GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1033601980",
+            "NOMBRES": "ANDRÉS JHON GARCÍA",
+            "SALARIO": "1.798.977",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1033601980",
+            "NOMBRES": "ANDRÉS JHON GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.989.688"
+        }
+    }
+]

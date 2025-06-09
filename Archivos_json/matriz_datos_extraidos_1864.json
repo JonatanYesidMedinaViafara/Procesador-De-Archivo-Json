@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "752829661338",
+            "SOLICITUD": "9222231",
+            "CEDULA": "1197985384",
+            "NOMBRES": "FERNANDO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.085.882",
+            "FIRMA ELLECTRONICA": "FERNANDO PÉREZ - 1197985384"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "752829661338",
+            "NOMBRES": "FERNANDO PÉREZ",
+            "CREDITO": "12.071.086",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "100.192",
+            "FIRMA ELLECTRONICA": "FERNANDO PÉREZ - 1197985384",
+            "AL PIE DE LA FIRMA": "FERNANDO PÉREZ - 1197985384"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1197985384",
+            "NOMBRES": "FERNANDO PÉREZ",
+            "FECHA NACIMIENTO": "13/05/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.071.086",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO PÉREZ - 1197985384",
+            "AL PIE DE LA FIRMA": "FERNANDO PÉREZ - 1197985384"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9222231",
+            "CEDULA": "1197985384",
+            "NOMBRES": "FERNANDO PÉREZ",
+            "CREDITO": "12.071.086",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "100.192",
+            "E.A": "22.45%",
+            "RECOMPRA O DESEMBOLSO": "2.085.882",
+            "FIRMA ELLECTRONICA": "FERNANDO PÉREZ - 1197985384"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1197985384",
+            "NOMBRES": "FERNANDO PÉREZ",
+            "FIRMA ELLECTRONICA": "FERNANDO PÉREZ - 1197985384"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1197985384",
+            "NOMBRES": "FERNANDO PÉREZ",
+            "FIRMA ELLECTRONICA": "FERNANDO PÉREZ - 1197985384",
+            "AL PIE DE LA FIRMA": "FERNANDO PÉREZ - 1197985384"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1197985384",
+            "NOMBRES": "FERNANDO PÉREZ",
+            "SALARIO": "4.853.988",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1197985384",
+            "NOMBRES": "FERNANDO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.085.882"
+        }
+    }
+]

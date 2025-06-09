@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "731514485778",
+            "SOLICITUD": "3830129",
+            "CEDULA": "1820889475",
+            "NOMBRES": "JHON JORGE PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.458.078",
+            "FIRMA ELLECTRONICA": "JHON JORGE PÉREZ - 1820889475"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "731514485778",
+            "NOMBRES": "JHON JORGE PÉREZ",
+            "CREDITO": "18.993.186",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "390.008",
+            "FIRMA ELLECTRONICA": "JHON JORGE PÉREZ - 1820889475",
+            "AL PIE DE LA FIRMA": "JHON JORGE PÉREZ - 1820889475"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1820889475",
+            "NOMBRES": "JHON JORGE PÉREZ",
+            "FECHA NACIMIENTO": "11/03/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.993.186",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JHON JORGE PÉREZ - 1820889475",
+            "AL PIE DE LA FIRMA": "JHON JORGE PÉREZ - 1820889475"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3830129",
+            "CEDULA": "1820889475",
+            "NOMBRES": "JHON JORGE PÉREZ",
+            "CREDITO": "18.993.186",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "390.008",
+            "E.A": "18.63%",
+            "RECOMPRA O DESEMBOLSO": "3.458.078",
+            "FIRMA ELLECTRONICA": "JHON JORGE PÉREZ - 1820889475"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1820889475",
+            "NOMBRES": "JHON JORGE PÉREZ",
+            "FIRMA ELLECTRONICA": "JHON JORGE PÉREZ - 1820889475"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1820889475",
+            "NOMBRES": "JHON JORGE PÉREZ",
+            "FIRMA ELLECTRONICA": "JHON JORGE PÉREZ - 1820889475",
+            "AL PIE DE LA FIRMA": "JHON JORGE PÉREZ - 1820889475"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON JORGE PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1820889475",
+            "NOMBRES": "JHON JORGE PÉREZ",
+            "SALARIO": "1.460.136",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1820889475",
+            "NOMBRES": "JHON JORGE PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.458.078"
+        }
+    }
+]

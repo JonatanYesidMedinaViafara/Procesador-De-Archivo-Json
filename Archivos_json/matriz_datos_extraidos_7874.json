@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "817189644154",
+            "SOLICITUD": "5936058",
+            "CEDULA": "1043104792",
+            "NOMBRES": "MARCO GUERRERO PINEDA",
+            "RECOMPRA O DESEMBOLSO": "3.969.286",
+            "FIRMA ELLECTRONICA": "MARCO GUERRERO PINEDA - 1043104792"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "817189644154",
+            "NOMBRES": "MARCO GUERRERO PINEDA",
+            "CREDITO": "16.878.729",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "306.343",
+            "FIRMA ELLECTRONICA": "MARCO GUERRERO PINEDA - 1043104792",
+            "AL PIE DE LA FIRMA": "MARCO GUERRERO PINEDA - 1043104792"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1043104792",
+            "NOMBRES": "MARCO GUERRERO PINEDA",
+            "FECHA NACIMIENTO": "15/11/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.878.729",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARCO GUERRERO PINEDA - 1043104792",
+            "AL PIE DE LA FIRMA": "MARCO GUERRERO PINEDA - 1043104792"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5936058",
+            "CEDULA": "1043104792",
+            "NOMBRES": "MARCO GUERRERO PINEDA",
+            "CREDITO": "16.878.729",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "306.343",
+            "E.A": "27.25%",
+            "RECOMPRA O DESEMBOLSO": "3.969.286",
+            "FIRMA ELLECTRONICA": "MARCO GUERRERO PINEDA - 1043104792"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1043104792",
+            "NOMBRES": "MARCO GUERRERO PINEDA",
+            "FIRMA ELLECTRONICA": "MARCO GUERRERO PINEDA - 1043104792"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1043104792",
+            "NOMBRES": "MARCO GUERRERO PINEDA",
+            "FIRMA ELLECTRONICA": "MARCO GUERRERO PINEDA - 1043104792",
+            "AL PIE DE LA FIRMA": "MARCO GUERRERO PINEDA - 1043104792"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCO GUERRERO PINEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1043104792",
+            "NOMBRES": "MARCO GUERRERO PINEDA",
+            "SALARIO": "3.531.101",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1043104792",
+            "NOMBRES": "MARCO GUERRERO PINEDA",
+            "RECOMPRA O DESEMBOLSO": "3.969.286"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "567708155465",
+            "SOLICITUD": "2485869",
+            "CEDULA": "1483713348",
+            "NOMBRES": "LINA RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "1.736.877",
+            "FIRMA ELLECTRONICA": "LINA RINCÓN - 1483713348"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "567708155465",
+            "NOMBRES": "LINA RINCÓN",
+            "CREDITO": "18.648.767",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "156.731",
+            "FIRMA ELLECTRONICA": "LINA RINCÓN - 1483713348",
+            "AL PIE DE LA FIRMA": "LINA RINCÓN - 1483713348"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1483713348",
+            "NOMBRES": "LINA RINCÓN",
+            "FECHA NACIMIENTO": "30/07/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.648.767",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LINA RINCÓN - 1483713348",
+            "AL PIE DE LA FIRMA": "LINA RINCÓN - 1483713348"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2485869",
+            "CEDULA": "1483713348",
+            "NOMBRES": "LINA RINCÓN",
+            "CREDITO": "18.648.767",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "156.731",
+            "E.A": "22.32%",
+            "RECOMPRA O DESEMBOLSO": "1.736.877",
+            "FIRMA ELLECTRONICA": "LINA RINCÓN - 1483713348"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1483713348",
+            "NOMBRES": "LINA RINCÓN",
+            "FIRMA ELLECTRONICA": "LINA RINCÓN - 1483713348"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1483713348",
+            "NOMBRES": "LINA RINCÓN",
+            "FIRMA ELLECTRONICA": "LINA RINCÓN - 1483713348",
+            "AL PIE DE LA FIRMA": "LINA RINCÓN - 1483713348"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LINA RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1483713348",
+            "NOMBRES": "LINA RINCÓN",
+            "SALARIO": "3.647.236",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1483713348",
+            "NOMBRES": "LINA RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "1.736.877"
+        }
+    }
+]

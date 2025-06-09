@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "213793199484",
+            "SOLICITUD": "7983655",
+            "CEDULA": "1290085188",
+            "NOMBRES": "MÓNICA AURA MELO",
+            "RECOMPRA O DESEMBOLSO": "4.687.487",
+            "FIRMA ELLECTRONICA": "MÓNICA AURA MELO - 1290085188"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "213793199484",
+            "NOMBRES": "MÓNICA AURA MELO",
+            "CREDITO": "17.545.980",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "162.964",
+            "FIRMA ELLECTRONICA": "MÓNICA AURA MELO - 1290085188",
+            "AL PIE DE LA FIRMA": "MÓNICA AURA MELO - 1290085188"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1290085188",
+            "NOMBRES": "MÓNICA AURA MELO",
+            "FECHA NACIMIENTO": "05/08/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.545.980",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MÓNICA AURA MELO - 1290085188",
+            "AL PIE DE LA FIRMA": "MÓNICA AURA MELO - 1290085188"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7983655",
+            "CEDULA": "1290085188",
+            "NOMBRES": "MÓNICA AURA MELO",
+            "CREDITO": "17.545.980",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "162.964",
+            "E.A": "24.99%",
+            "RECOMPRA O DESEMBOLSO": "4.687.487",
+            "FIRMA ELLECTRONICA": "MÓNICA AURA MELO - 1290085188"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1290085188",
+            "NOMBRES": "MÓNICA AURA MELO",
+            "FIRMA ELLECTRONICA": "MÓNICA AURA MELO - 1290085188"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1290085188",
+            "NOMBRES": "MÓNICA AURA MELO",
+            "FIRMA ELLECTRONICA": "MÓNICA AURA MELO - 1290085188",
+            "AL PIE DE LA FIRMA": "MÓNICA AURA MELO - 1290085188"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MÓNICA AURA MELO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1290085188",
+            "NOMBRES": "MÓNICA AURA MELO",
+            "SALARIO": "4.390.726",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1290085188",
+            "NOMBRES": "MÓNICA AURA MELO",
+            "RECOMPRA O DESEMBOLSO": "4.687.487"
+        }
+    }
+]

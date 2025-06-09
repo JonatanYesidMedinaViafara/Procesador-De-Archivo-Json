@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "454226640501",
+            "SOLICITUD": "2953130",
+            "CEDULA": "1488219780",
+            "NOMBRES": "DANIELA OLGA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.271.889",
+            "FIRMA ELLECTRONICA": "DANIELA OLGA RODRÍGUEZ - 1488219780"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "454226640501",
+            "NOMBRES": "DANIELA OLGA RODRÍGUEZ",
+            "CREDITO": "13.769.758",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "153.349",
+            "FIRMA ELLECTRONICA": "DANIELA OLGA RODRÍGUEZ - 1488219780",
+            "AL PIE DE LA FIRMA": "DANIELA OLGA RODRÍGUEZ - 1488219780"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1488219780",
+            "NOMBRES": "DANIELA OLGA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "01/03/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.769.758",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DANIELA OLGA RODRÍGUEZ - 1488219780",
+            "AL PIE DE LA FIRMA": "DANIELA OLGA RODRÍGUEZ - 1488219780"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2953130",
+            "CEDULA": "1488219780",
+            "NOMBRES": "DANIELA OLGA RODRÍGUEZ",
+            "CREDITO": "13.769.758",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "153.349",
+            "E.A": "26.5%",
+            "RECOMPRA O DESEMBOLSO": "2.271.889",
+            "FIRMA ELLECTRONICA": "DANIELA OLGA RODRÍGUEZ - 1488219780"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1488219780",
+            "NOMBRES": "DANIELA OLGA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "DANIELA OLGA RODRÍGUEZ - 1488219780"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1488219780",
+            "NOMBRES": "DANIELA OLGA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "DANIELA OLGA RODRÍGUEZ - 1488219780",
+            "AL PIE DE LA FIRMA": "DANIELA OLGA RODRÍGUEZ - 1488219780"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIELA OLGA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1488219780",
+            "NOMBRES": "DANIELA OLGA RODRÍGUEZ",
+            "SALARIO": "4.400.386",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1488219780",
+            "NOMBRES": "DANIELA OLGA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.271.889"
+        }
+    }
+]

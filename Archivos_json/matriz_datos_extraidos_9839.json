@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "428033253839",
+            "SOLICITUD": "5607356",
+            "CEDULA": "1335131077",
+            "NOMBRES": "ANDERSON VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "2.999.086",
+            "FIRMA ELLECTRONICA": "ANDERSON VANEGAS - 1335131077"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "428033253839",
+            "NOMBRES": "ANDERSON VANEGAS",
+            "CREDITO": "19.696.257",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "256.805",
+            "FIRMA ELLECTRONICA": "ANDERSON VANEGAS - 1335131077",
+            "AL PIE DE LA FIRMA": "ANDERSON VANEGAS - 1335131077"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1335131077",
+            "NOMBRES": "ANDERSON VANEGAS",
+            "FECHA NACIMIENTO": "17/11/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.696.257",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDERSON VANEGAS - 1335131077",
+            "AL PIE DE LA FIRMA": "ANDERSON VANEGAS - 1335131077"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5607356",
+            "CEDULA": "1335131077",
+            "NOMBRES": "ANDERSON VANEGAS",
+            "CREDITO": "19.696.257",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "256.805",
+            "E.A": "28.93%",
+            "RECOMPRA O DESEMBOLSO": "2.999.086",
+            "FIRMA ELLECTRONICA": "ANDERSON VANEGAS - 1335131077"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1335131077",
+            "NOMBRES": "ANDERSON VANEGAS",
+            "FIRMA ELLECTRONICA": "ANDERSON VANEGAS - 1335131077"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1335131077",
+            "NOMBRES": "ANDERSON VANEGAS",
+            "FIRMA ELLECTRONICA": "ANDERSON VANEGAS - 1335131077",
+            "AL PIE DE LA FIRMA": "ANDERSON VANEGAS - 1335131077"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDERSON VANEGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1335131077",
+            "NOMBRES": "ANDERSON VANEGAS",
+            "SALARIO": "4.698.387",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1335131077",
+            "NOMBRES": "ANDERSON VANEGAS",
+            "RECOMPRA O DESEMBOLSO": "2.999.086"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "539366309809",
+            "SOLICITUD": "4053475",
+            "CEDULA": "1735959154",
+            "NOMBRES": "MANUEL PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.261.638",
+            "FIRMA ELLECTRONICA": "MANUEL PÉREZ - 1735959154"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "539366309809",
+            "NOMBRES": "MANUEL PÉREZ",
+            "CREDITO": "7.317.962",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "363.264",
+            "FIRMA ELLECTRONICA": "MANUEL PÉREZ - 1735959154",
+            "AL PIE DE LA FIRMA": "MANUEL PÉREZ - 1735959154"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1735959154",
+            "NOMBRES": "MANUEL PÉREZ",
+            "FECHA NACIMIENTO": "24/05/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.317.962",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MANUEL PÉREZ - 1735959154",
+            "AL PIE DE LA FIRMA": "MANUEL PÉREZ - 1735959154"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4053475",
+            "CEDULA": "1735959154",
+            "NOMBRES": "MANUEL PÉREZ",
+            "CREDITO": "7.317.962",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "363.264",
+            "E.A": "18.85%",
+            "RECOMPRA O DESEMBOLSO": "3.261.638",
+            "FIRMA ELLECTRONICA": "MANUEL PÉREZ - 1735959154"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1735959154",
+            "NOMBRES": "MANUEL PÉREZ",
+            "FIRMA ELLECTRONICA": "MANUEL PÉREZ - 1735959154"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1735959154",
+            "NOMBRES": "MANUEL PÉREZ",
+            "FIRMA ELLECTRONICA": "MANUEL PÉREZ - 1735959154",
+            "AL PIE DE LA FIRMA": "MANUEL PÉREZ - 1735959154"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1735959154",
+            "NOMBRES": "MANUEL PÉREZ",
+            "SALARIO": "4.644.474",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1735959154",
+            "NOMBRES": "MANUEL PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.261.638"
+        }
+    }
+]

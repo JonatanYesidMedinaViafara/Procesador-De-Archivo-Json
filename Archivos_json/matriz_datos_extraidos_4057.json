@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "892297176963",
+            "SOLICITUD": "6095472",
+            "CEDULA": "1236041269",
+            "NOMBRES": "MARÍA NATALIA NIÑO",
+            "RECOMPRA O DESEMBOLSO": "4.230.121",
+            "FIRMA ELLECTRONICA": "MARÍA NATALIA NIÑO - 1236041269"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "892297176963",
+            "NOMBRES": "MARÍA NATALIA NIÑO",
+            "CREDITO": "18.537.158",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "227.513",
+            "FIRMA ELLECTRONICA": "MARÍA NATALIA NIÑO - 1236041269",
+            "AL PIE DE LA FIRMA": "MARÍA NATALIA NIÑO - 1236041269"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1236041269",
+            "NOMBRES": "MARÍA NATALIA NIÑO",
+            "FECHA NACIMIENTO": "15/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.537.158",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA NATALIA NIÑO - 1236041269",
+            "AL PIE DE LA FIRMA": "MARÍA NATALIA NIÑO - 1236041269"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6095472",
+            "CEDULA": "1236041269",
+            "NOMBRES": "MARÍA NATALIA NIÑO",
+            "CREDITO": "18.537.158",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "227.513",
+            "E.A": "20.56%",
+            "RECOMPRA O DESEMBOLSO": "4.230.121",
+            "FIRMA ELLECTRONICA": "MARÍA NATALIA NIÑO - 1236041269"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1236041269",
+            "NOMBRES": "MARÍA NATALIA NIÑO",
+            "FIRMA ELLECTRONICA": "MARÍA NATALIA NIÑO - 1236041269"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1236041269",
+            "NOMBRES": "MARÍA NATALIA NIÑO",
+            "FIRMA ELLECTRONICA": "MARÍA NATALIA NIÑO - 1236041269",
+            "AL PIE DE LA FIRMA": "MARÍA NATALIA NIÑO - 1236041269"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA NATALIA NIÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1236041269",
+            "NOMBRES": "MARÍA NATALIA NIÑO",
+            "SALARIO": "4.624.212",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1236041269",
+            "NOMBRES": "MARÍA NATALIA NIÑO",
+            "RECOMPRA O DESEMBOLSO": "4.230.121"
+        }
+    }
+]

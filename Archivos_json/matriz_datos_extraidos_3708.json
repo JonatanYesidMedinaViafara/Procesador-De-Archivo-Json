@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "871571848950",
+            "SOLICITUD": "6803117",
+            "CEDULA": "1296388136",
+            "NOMBRES": "NANCY MARÍN",
+            "RECOMPRA O DESEMBOLSO": "4.634.323",
+            "FIRMA ELLECTRONICA": "NANCY MARÍN - 1296388136"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "871571848950",
+            "NOMBRES": "NANCY MARÍN",
+            "CREDITO": "18.466.071",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "128.469",
+            "FIRMA ELLECTRONICA": "NANCY MARÍN - 1296388136",
+            "AL PIE DE LA FIRMA": "NANCY MARÍN - 1296388136"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1296388136",
+            "NOMBRES": "NANCY MARÍN",
+            "FECHA NACIMIENTO": "26/03/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.466.071",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "NANCY MARÍN - 1296388136",
+            "AL PIE DE LA FIRMA": "NANCY MARÍN - 1296388136"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6803117",
+            "CEDULA": "1296388136",
+            "NOMBRES": "NANCY MARÍN",
+            "CREDITO": "18.466.071",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "128.469",
+            "E.A": "26.2%",
+            "RECOMPRA O DESEMBOLSO": "4.634.323",
+            "FIRMA ELLECTRONICA": "NANCY MARÍN - 1296388136"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1296388136",
+            "NOMBRES": "NANCY MARÍN",
+            "FIRMA ELLECTRONICA": "NANCY MARÍN - 1296388136"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1296388136",
+            "NOMBRES": "NANCY MARÍN",
+            "FIRMA ELLECTRONICA": "NANCY MARÍN - 1296388136",
+            "AL PIE DE LA FIRMA": "NANCY MARÍN - 1296388136"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NANCY MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1296388136",
+            "NOMBRES": "NANCY MARÍN",
+            "SALARIO": "1.555.735",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1296388136",
+            "NOMBRES": "NANCY MARÍN",
+            "RECOMPRA O DESEMBOLSO": "4.634.323"
+        }
+    }
+]

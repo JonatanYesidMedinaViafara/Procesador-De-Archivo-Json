@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "321431082650",
+            "SOLICITUD": "5148470",
+            "CEDULA": "1468832751",
+            "NOMBRES": "LUIS JOSÉ CAMPO",
+            "RECOMPRA O DESEMBOLSO": "3.692.262",
+            "FIRMA ELLECTRONICA": "LUIS JOSÉ CAMPO - 1468832751"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "321431082650",
+            "NOMBRES": "LUIS JOSÉ CAMPO",
+            "CREDITO": "14.428.793",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "153.731",
+            "FIRMA ELLECTRONICA": "LUIS JOSÉ CAMPO - 1468832751",
+            "AL PIE DE LA FIRMA": "LUIS JOSÉ CAMPO - 1468832751"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1468832751",
+            "NOMBRES": "LUIS JOSÉ CAMPO",
+            "FECHA NACIMIENTO": "12/11/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.428.793",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS JOSÉ CAMPO - 1468832751",
+            "AL PIE DE LA FIRMA": "LUIS JOSÉ CAMPO - 1468832751"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5148470",
+            "CEDULA": "1468832751",
+            "NOMBRES": "LUIS JOSÉ CAMPO",
+            "CREDITO": "14.428.793",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "153.731",
+            "E.A": "26.2%",
+            "RECOMPRA O DESEMBOLSO": "3.692.262",
+            "FIRMA ELLECTRONICA": "LUIS JOSÉ CAMPO - 1468832751"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1468832751",
+            "NOMBRES": "LUIS JOSÉ CAMPO",
+            "FIRMA ELLECTRONICA": "LUIS JOSÉ CAMPO - 1468832751"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1468832751",
+            "NOMBRES": "LUIS JOSÉ CAMPO",
+            "FIRMA ELLECTRONICA": "LUIS JOSÉ CAMPO - 1468832751",
+            "AL PIE DE LA FIRMA": "LUIS JOSÉ CAMPO - 1468832751"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS JOSÉ CAMPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1468832751",
+            "NOMBRES": "LUIS JOSÉ CAMPO",
+            "SALARIO": "3.686.833",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1468832751",
+            "NOMBRES": "LUIS JOSÉ CAMPO",
+            "RECOMPRA O DESEMBOLSO": "3.692.262"
+        }
+    }
+]

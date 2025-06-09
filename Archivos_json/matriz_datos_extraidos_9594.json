@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "827015687827",
+            "SOLICITUD": "7568297",
+            "CEDULA": "1342062520",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.721.960",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1342062520"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "827015687827",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "CREDITO": "5.802.948",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "240.317",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1342062520",
+            "AL PIE DE LA FIRMA": "MANUEL HERNÁNDEZ - 1342062520"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1342062520",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "FECHA NACIMIENTO": "25/04/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.802.948",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1342062520",
+            "AL PIE DE LA FIRMA": "MANUEL HERNÁNDEZ - 1342062520"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7568297",
+            "CEDULA": "1342062520",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "CREDITO": "5.802.948",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "240.317",
+            "E.A": "19.87%",
+            "RECOMPRA O DESEMBOLSO": "3.721.960",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1342062520"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1342062520",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1342062520"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1342062520",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1342062520",
+            "AL PIE DE LA FIRMA": "MANUEL HERNÁNDEZ - 1342062520"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1342062520",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "SALARIO": "3.855.713",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1342062520",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.721.960"
+        }
+    }
+]

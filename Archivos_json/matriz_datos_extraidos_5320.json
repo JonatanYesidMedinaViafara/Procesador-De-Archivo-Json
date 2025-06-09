@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "851330437133",
+            "SOLICITUD": "8775351",
+            "CEDULA": "1860865870",
+            "NOMBRES": "ESTHER MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.567.095",
+            "FIRMA ELLECTRONICA": "ESTHER MUÑOZ - 1860865870"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "851330437133",
+            "NOMBRES": "ESTHER MUÑOZ",
+            "CREDITO": "12.974.900",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "145.346",
+            "FIRMA ELLECTRONICA": "ESTHER MUÑOZ - 1860865870",
+            "AL PIE DE LA FIRMA": "ESTHER MUÑOZ - 1860865870"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1860865870",
+            "NOMBRES": "ESTHER MUÑOZ",
+            "FECHA NACIMIENTO": "18/03/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.974.900",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ESTHER MUÑOZ - 1860865870",
+            "AL PIE DE LA FIRMA": "ESTHER MUÑOZ - 1860865870"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8775351",
+            "CEDULA": "1860865870",
+            "NOMBRES": "ESTHER MUÑOZ",
+            "CREDITO": "12.974.900",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "145.346",
+            "E.A": "21.7%",
+            "RECOMPRA O DESEMBOLSO": "1.567.095",
+            "FIRMA ELLECTRONICA": "ESTHER MUÑOZ - 1860865870"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1860865870",
+            "NOMBRES": "ESTHER MUÑOZ",
+            "FIRMA ELLECTRONICA": "ESTHER MUÑOZ - 1860865870"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1860865870",
+            "NOMBRES": "ESTHER MUÑOZ",
+            "FIRMA ELLECTRONICA": "ESTHER MUÑOZ - 1860865870",
+            "AL PIE DE LA FIRMA": "ESTHER MUÑOZ - 1860865870"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTHER MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1860865870",
+            "NOMBRES": "ESTHER MUÑOZ",
+            "SALARIO": "1.944.220",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1860865870",
+            "NOMBRES": "ESTHER MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.567.095"
+        }
+    }
+]

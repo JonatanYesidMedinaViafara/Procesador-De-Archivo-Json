@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "780694671122",
+            "SOLICITUD": "4038019",
+            "CEDULA": "1834219462",
+            "NOMBRES": "HERNÁN JOSÉ ESPINOSA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.082.799",
+            "FIRMA ELLECTRONICA": "HERNÁN JOSÉ ESPINOSA GÓMEZ - 1834219462"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "780694671122",
+            "NOMBRES": "HERNÁN JOSÉ ESPINOSA GÓMEZ",
+            "CREDITO": "12.722.241",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "355.385",
+            "FIRMA ELLECTRONICA": "HERNÁN JOSÉ ESPINOSA GÓMEZ - 1834219462",
+            "AL PIE DE LA FIRMA": "HERNÁN JOSÉ ESPINOSA GÓMEZ - 1834219462"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1834219462",
+            "NOMBRES": "HERNÁN JOSÉ ESPINOSA GÓMEZ",
+            "FECHA NACIMIENTO": "10/09/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.722.241",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "HERNÁN JOSÉ ESPINOSA GÓMEZ - 1834219462",
+            "AL PIE DE LA FIRMA": "HERNÁN JOSÉ ESPINOSA GÓMEZ - 1834219462"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4038019",
+            "CEDULA": "1834219462",
+            "NOMBRES": "HERNÁN JOSÉ ESPINOSA GÓMEZ",
+            "CREDITO": "12.722.241",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "355.385",
+            "E.A": "24.98%",
+            "RECOMPRA O DESEMBOLSO": "1.082.799",
+            "FIRMA ELLECTRONICA": "HERNÁN JOSÉ ESPINOSA GÓMEZ - 1834219462"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1834219462",
+            "NOMBRES": "HERNÁN JOSÉ ESPINOSA GÓMEZ",
+            "FIRMA ELLECTRONICA": "HERNÁN JOSÉ ESPINOSA GÓMEZ - 1834219462"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1834219462",
+            "NOMBRES": "HERNÁN JOSÉ ESPINOSA GÓMEZ",
+            "FIRMA ELLECTRONICA": "HERNÁN JOSÉ ESPINOSA GÓMEZ - 1834219462",
+            "AL PIE DE LA FIRMA": "HERNÁN JOSÉ ESPINOSA GÓMEZ - 1834219462"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNÁN JOSÉ ESPINOSA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1834219462",
+            "NOMBRES": "HERNÁN JOSÉ ESPINOSA GÓMEZ",
+            "SALARIO": "4.374.985",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1834219462",
+            "NOMBRES": "HERNÁN JOSÉ ESPINOSA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.082.799"
+        }
+    }
+]

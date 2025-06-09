@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "373834211602",
+            "SOLICITUD": "3307842",
+            "CEDULA": "1567635289",
+            "NOMBRES": "STELLA MARTÍNEZ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.032.438",
+            "FIRMA ELLECTRONICA": "STELLA MARTÍNEZ ROMERO - 1567635289"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "373834211602",
+            "NOMBRES": "STELLA MARTÍNEZ ROMERO",
+            "CREDITO": "8.647.533",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "331.056",
+            "FIRMA ELLECTRONICA": "STELLA MARTÍNEZ ROMERO - 1567635289",
+            "AL PIE DE LA FIRMA": "STELLA MARTÍNEZ ROMERO - 1567635289"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1567635289",
+            "NOMBRES": "STELLA MARTÍNEZ ROMERO",
+            "FECHA NACIMIENTO": "20/05/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.647.533",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "STELLA MARTÍNEZ ROMERO - 1567635289",
+            "AL PIE DE LA FIRMA": "STELLA MARTÍNEZ ROMERO - 1567635289"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3307842",
+            "CEDULA": "1567635289",
+            "NOMBRES": "STELLA MARTÍNEZ ROMERO",
+            "CREDITO": "8.647.533",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "331.056",
+            "E.A": "23.24%",
+            "RECOMPRA O DESEMBOLSO": "1.032.438",
+            "FIRMA ELLECTRONICA": "STELLA MARTÍNEZ ROMERO - 1567635289"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1567635289",
+            "NOMBRES": "STELLA MARTÍNEZ ROMERO",
+            "FIRMA ELLECTRONICA": "STELLA MARTÍNEZ ROMERO - 1567635289"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1567635289",
+            "NOMBRES": "STELLA MARTÍNEZ ROMERO",
+            "FIRMA ELLECTRONICA": "STELLA MARTÍNEZ ROMERO - 1567635289",
+            "AL PIE DE LA FIRMA": "STELLA MARTÍNEZ ROMERO - 1567635289"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "STELLA MARTÍNEZ ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1567635289",
+            "NOMBRES": "STELLA MARTÍNEZ ROMERO",
+            "SALARIO": "1.661.714",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1567635289",
+            "NOMBRES": "STELLA MARTÍNEZ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.032.438"
+        }
+    }
+]

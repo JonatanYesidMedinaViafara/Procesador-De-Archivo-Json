@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "456050092199",
+            "SOLICITUD": "9737141",
+            "CEDULA": "1537937443",
+            "NOMBRES": "JEFFERSON ALBERTO FONSECA",
+            "RECOMPRA O DESEMBOLSO": "1.365.398",
+            "FIRMA ELLECTRONICA": "JEFFERSON ALBERTO FONSECA - 1537937443"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "456050092199",
+            "NOMBRES": "JEFFERSON ALBERTO FONSECA",
+            "CREDITO": "11.878.126",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "119.732",
+            "FIRMA ELLECTRONICA": "JEFFERSON ALBERTO FONSECA - 1537937443",
+            "AL PIE DE LA FIRMA": "JEFFERSON ALBERTO FONSECA - 1537937443"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1537937443",
+            "NOMBRES": "JEFFERSON ALBERTO FONSECA",
+            "FECHA NACIMIENTO": "25/05/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.878.126",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JEFFERSON ALBERTO FONSECA - 1537937443",
+            "AL PIE DE LA FIRMA": "JEFFERSON ALBERTO FONSECA - 1537937443"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9737141",
+            "CEDULA": "1537937443",
+            "NOMBRES": "JEFFERSON ALBERTO FONSECA",
+            "CREDITO": "11.878.126",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "119.732",
+            "E.A": "26.13%",
+            "RECOMPRA O DESEMBOLSO": "1.365.398",
+            "FIRMA ELLECTRONICA": "JEFFERSON ALBERTO FONSECA - 1537937443"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1537937443",
+            "NOMBRES": "JEFFERSON ALBERTO FONSECA",
+            "FIRMA ELLECTRONICA": "JEFFERSON ALBERTO FONSECA - 1537937443"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1537937443",
+            "NOMBRES": "JEFFERSON ALBERTO FONSECA",
+            "FIRMA ELLECTRONICA": "JEFFERSON ALBERTO FONSECA - 1537937443",
+            "AL PIE DE LA FIRMA": "JEFFERSON ALBERTO FONSECA - 1537937443"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JEFFERSON ALBERTO FONSECA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1537937443",
+            "NOMBRES": "JEFFERSON ALBERTO FONSECA",
+            "SALARIO": "1.026.429",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1537937443",
+            "NOMBRES": "JEFFERSON ALBERTO FONSECA",
+            "RECOMPRA O DESEMBOLSO": "1.365.398"
+        }
+    }
+]

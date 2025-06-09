@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "672000214027",
+            "SOLICITUD": "7590266",
+            "CEDULA": "1739643077",
+            "NOMBRES": "JOSÉ MORENO",
+            "RECOMPRA O DESEMBOLSO": "1.085.831",
+            "FIRMA ELLECTRONICA": "JOSÉ MORENO - 1739643077"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "672000214027",
+            "NOMBRES": "JOSÉ MORENO",
+            "CREDITO": "6.859.657",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "256.326",
+            "FIRMA ELLECTRONICA": "JOSÉ MORENO - 1739643077",
+            "AL PIE DE LA FIRMA": "JOSÉ MORENO - 1739643077"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1739643077",
+            "NOMBRES": "JOSÉ MORENO",
+            "FECHA NACIMIENTO": "14/07/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.859.657",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ MORENO - 1739643077",
+            "AL PIE DE LA FIRMA": "JOSÉ MORENO - 1739643077"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7590266",
+            "CEDULA": "1739643077",
+            "NOMBRES": "JOSÉ MORENO",
+            "CREDITO": "6.859.657",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "256.326",
+            "E.A": "18.57%",
+            "RECOMPRA O DESEMBOLSO": "1.085.831",
+            "FIRMA ELLECTRONICA": "JOSÉ MORENO - 1739643077"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1739643077",
+            "NOMBRES": "JOSÉ MORENO",
+            "FIRMA ELLECTRONICA": "JOSÉ MORENO - 1739643077"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1739643077",
+            "NOMBRES": "JOSÉ MORENO",
+            "FIRMA ELLECTRONICA": "JOSÉ MORENO - 1739643077",
+            "AL PIE DE LA FIRMA": "JOSÉ MORENO - 1739643077"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1739643077",
+            "NOMBRES": "JOSÉ MORENO",
+            "SALARIO": "1.808.079",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1739643077",
+            "NOMBRES": "JOSÉ MORENO",
+            "RECOMPRA O DESEMBOLSO": "1.085.831"
+        }
+    }
+]

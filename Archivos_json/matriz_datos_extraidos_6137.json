@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "964565796445",
+            "SOLICITUD": "5739434",
+            "CEDULA": "1609231575",
+            "NOMBRES": "JOHN LUIS RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.289.216",
+            "FIRMA ELLECTRONICA": "JOHN LUIS RAMÍREZ - 1609231575"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "964565796445",
+            "NOMBRES": "JOHN LUIS RAMÍREZ",
+            "CREDITO": "11.208.077",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "291.428",
+            "FIRMA ELLECTRONICA": "JOHN LUIS RAMÍREZ - 1609231575",
+            "AL PIE DE LA FIRMA": "JOHN LUIS RAMÍREZ - 1609231575"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1609231575",
+            "NOMBRES": "JOHN LUIS RAMÍREZ",
+            "FECHA NACIMIENTO": "05/07/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.208.077",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOHN LUIS RAMÍREZ - 1609231575",
+            "AL PIE DE LA FIRMA": "JOHN LUIS RAMÍREZ - 1609231575"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5739434",
+            "CEDULA": "1609231575",
+            "NOMBRES": "JOHN LUIS RAMÍREZ",
+            "CREDITO": "11.208.077",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "291.428",
+            "E.A": "24.93%",
+            "RECOMPRA O DESEMBOLSO": "3.289.216",
+            "FIRMA ELLECTRONICA": "JOHN LUIS RAMÍREZ - 1609231575"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1609231575",
+            "NOMBRES": "JOHN LUIS RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JOHN LUIS RAMÍREZ - 1609231575"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1609231575",
+            "NOMBRES": "JOHN LUIS RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JOHN LUIS RAMÍREZ - 1609231575",
+            "AL PIE DE LA FIRMA": "JOHN LUIS RAMÍREZ - 1609231575"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN LUIS RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1609231575",
+            "NOMBRES": "JOHN LUIS RAMÍREZ",
+            "SALARIO": "1.211.125",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1609231575",
+            "NOMBRES": "JOHN LUIS RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.289.216"
+        }
+    }
+]

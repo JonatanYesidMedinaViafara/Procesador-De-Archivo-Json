@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "786014208272",
+            "SOLICITUD": "2086328",
+            "CEDULA": "1030571870",
+            "NOMBRES": "JORGE DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.227.337",
+            "FIRMA ELLECTRONICA": "JORGE DÍAZ - 1030571870"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "786014208272",
+            "NOMBRES": "JORGE DÍAZ",
+            "CREDITO": "11.100.848",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "382.481",
+            "FIRMA ELLECTRONICA": "JORGE DÍAZ - 1030571870",
+            "AL PIE DE LA FIRMA": "JORGE DÍAZ - 1030571870"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1030571870",
+            "NOMBRES": "JORGE DÍAZ",
+            "FECHA NACIMIENTO": "23/07/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.100.848",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JORGE DÍAZ - 1030571870",
+            "AL PIE DE LA FIRMA": "JORGE DÍAZ - 1030571870"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2086328",
+            "CEDULA": "1030571870",
+            "NOMBRES": "JORGE DÍAZ",
+            "CREDITO": "11.100.848",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "382.481",
+            "E.A": "21.35%",
+            "RECOMPRA O DESEMBOLSO": "2.227.337",
+            "FIRMA ELLECTRONICA": "JORGE DÍAZ - 1030571870"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1030571870",
+            "NOMBRES": "JORGE DÍAZ",
+            "FIRMA ELLECTRONICA": "JORGE DÍAZ - 1030571870"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1030571870",
+            "NOMBRES": "JORGE DÍAZ",
+            "FIRMA ELLECTRONICA": "JORGE DÍAZ - 1030571870",
+            "AL PIE DE LA FIRMA": "JORGE DÍAZ - 1030571870"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1030571870",
+            "NOMBRES": "JORGE DÍAZ",
+            "SALARIO": "4.976.567",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1030571870",
+            "NOMBRES": "JORGE DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.227.337"
+        }
+    }
+]

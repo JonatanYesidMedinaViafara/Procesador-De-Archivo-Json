@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "856876295036",
+            "SOLICITUD": "1061312",
+            "CEDULA": "1593449947",
+            "NOMBRES": "FERNEY MORA",
+            "RECOMPRA O DESEMBOLSO": "4.485.183",
+            "FIRMA ELLECTRONICA": "FERNEY MORA - 1593449947"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "856876295036",
+            "NOMBRES": "FERNEY MORA",
+            "CREDITO": "6.104.873",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.603",
+            "FIRMA ELLECTRONICA": "FERNEY MORA - 1593449947",
+            "AL PIE DE LA FIRMA": "FERNEY MORA - 1593449947"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1593449947",
+            "NOMBRES": "FERNEY MORA",
+            "FECHA NACIMIENTO": "17/07/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.104.873",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNEY MORA - 1593449947",
+            "AL PIE DE LA FIRMA": "FERNEY MORA - 1593449947"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1061312",
+            "CEDULA": "1593449947",
+            "NOMBRES": "FERNEY MORA",
+            "CREDITO": "6.104.873",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.603",
+            "E.A": "19.9%",
+            "RECOMPRA O DESEMBOLSO": "4.485.183",
+            "FIRMA ELLECTRONICA": "FERNEY MORA - 1593449947"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1593449947",
+            "NOMBRES": "FERNEY MORA",
+            "FIRMA ELLECTRONICA": "FERNEY MORA - 1593449947"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1593449947",
+            "NOMBRES": "FERNEY MORA",
+            "FIRMA ELLECTRONICA": "FERNEY MORA - 1593449947",
+            "AL PIE DE LA FIRMA": "FERNEY MORA - 1593449947"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNEY MORA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1593449947",
+            "NOMBRES": "FERNEY MORA",
+            "SALARIO": "4.321.309",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1593449947",
+            "NOMBRES": "FERNEY MORA",
+            "RECOMPRA O DESEMBOLSO": "4.485.183"
+        }
+    }
+]

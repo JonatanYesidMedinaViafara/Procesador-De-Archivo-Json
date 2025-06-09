@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "399666797948",
+            "SOLICITUD": "3544384",
+            "CEDULA": "1023351462",
+            "NOMBRES": "MERCEDES MARINA ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.389.046",
+            "FIRMA ELLECTRONICA": "MERCEDES MARINA ÁLVAREZ - 1023351462"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "399666797948",
+            "NOMBRES": "MERCEDES MARINA ÁLVAREZ",
+            "CREDITO": "15.099.283",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "265.957",
+            "FIRMA ELLECTRONICA": "MERCEDES MARINA ÁLVAREZ - 1023351462",
+            "AL PIE DE LA FIRMA": "MERCEDES MARINA ÁLVAREZ - 1023351462"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1023351462",
+            "NOMBRES": "MERCEDES MARINA ÁLVAREZ",
+            "FECHA NACIMIENTO": "26/04/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.099.283",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MERCEDES MARINA ÁLVAREZ - 1023351462",
+            "AL PIE DE LA FIRMA": "MERCEDES MARINA ÁLVAREZ - 1023351462"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3544384",
+            "CEDULA": "1023351462",
+            "NOMBRES": "MERCEDES MARINA ÁLVAREZ",
+            "CREDITO": "15.099.283",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "265.957",
+            "E.A": "25.36%",
+            "RECOMPRA O DESEMBOLSO": "4.389.046",
+            "FIRMA ELLECTRONICA": "MERCEDES MARINA ÁLVAREZ - 1023351462"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1023351462",
+            "NOMBRES": "MERCEDES MARINA ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "MERCEDES MARINA ÁLVAREZ - 1023351462"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1023351462",
+            "NOMBRES": "MERCEDES MARINA ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "MERCEDES MARINA ÁLVAREZ - 1023351462",
+            "AL PIE DE LA FIRMA": "MERCEDES MARINA ÁLVAREZ - 1023351462"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MERCEDES MARINA ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1023351462",
+            "NOMBRES": "MERCEDES MARINA ÁLVAREZ",
+            "SALARIO": "1.625.769",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1023351462",
+            "NOMBRES": "MERCEDES MARINA ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "4.389.046"
+        }
+    }
+]

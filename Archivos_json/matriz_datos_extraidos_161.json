@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "753009078560",
+            "SOLICITUD": "1012875",
+            "CEDULA": "1332799517",
+            "NOMBRES": "RAFAEL SANABRIA CAICEDO",
+            "RECOMPRA O DESEMBOLSO": "1.532.264",
+            "FIRMA ELLECTRONICA": "RAFAEL SANABRIA CAICEDO - 1332799517"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "753009078560",
+            "NOMBRES": "RAFAEL SANABRIA CAICEDO",
+            "CREDITO": "17.924.316",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "106.291",
+            "FIRMA ELLECTRONICA": "RAFAEL SANABRIA CAICEDO - 1332799517",
+            "AL PIE DE LA FIRMA": "RAFAEL SANABRIA CAICEDO - 1332799517"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1332799517",
+            "NOMBRES": "RAFAEL SANABRIA CAICEDO",
+            "FECHA NACIMIENTO": "30/08/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.924.316",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "RAFAEL SANABRIA CAICEDO - 1332799517",
+            "AL PIE DE LA FIRMA": "RAFAEL SANABRIA CAICEDO - 1332799517"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1012875",
+            "CEDULA": "1332799517",
+            "NOMBRES": "RAFAEL SANABRIA CAICEDO",
+            "CREDITO": "17.924.316",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "106.291",
+            "E.A": "18.13%",
+            "RECOMPRA O DESEMBOLSO": "1.532.264",
+            "FIRMA ELLECTRONICA": "RAFAEL SANABRIA CAICEDO - 1332799517"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1332799517",
+            "NOMBRES": "RAFAEL SANABRIA CAICEDO",
+            "FIRMA ELLECTRONICA": "RAFAEL SANABRIA CAICEDO - 1332799517"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1332799517",
+            "NOMBRES": "RAFAEL SANABRIA CAICEDO",
+            "FIRMA ELLECTRONICA": "RAFAEL SANABRIA CAICEDO - 1332799517",
+            "AL PIE DE LA FIRMA": "RAFAEL SANABRIA CAICEDO - 1332799517"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL SANABRIA CAICEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1332799517",
+            "NOMBRES": "RAFAEL SANABRIA CAICEDO",
+            "SALARIO": "2.751.067",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1332799517",
+            "NOMBRES": "RAFAEL SANABRIA CAICEDO",
+            "RECOMPRA O DESEMBOLSO": "1.532.264"
+        }
+    }
+]

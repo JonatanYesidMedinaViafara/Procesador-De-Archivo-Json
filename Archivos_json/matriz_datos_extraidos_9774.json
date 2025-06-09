@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "468724006090",
+            "SOLICITUD": "1329448",
+            "CEDULA": "1070495645",
+            "NOMBRES": "JUAN HENAO",
+            "RECOMPRA O DESEMBOLSO": "3.222.731",
+            "FIRMA ELLECTRONICA": "JUAN HENAO - 1070495645"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "468724006090",
+            "NOMBRES": "JUAN HENAO",
+            "CREDITO": "6.393.898",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "341.911",
+            "FIRMA ELLECTRONICA": "JUAN HENAO - 1070495645",
+            "AL PIE DE LA FIRMA": "JUAN HENAO - 1070495645"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1070495645",
+            "NOMBRES": "JUAN HENAO",
+            "FECHA NACIMIENTO": "27/01/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.393.898",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN HENAO - 1070495645",
+            "AL PIE DE LA FIRMA": "JUAN HENAO - 1070495645"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1329448",
+            "CEDULA": "1070495645",
+            "NOMBRES": "JUAN HENAO",
+            "CREDITO": "6.393.898",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "341.911",
+            "E.A": "20.02%",
+            "RECOMPRA O DESEMBOLSO": "3.222.731",
+            "FIRMA ELLECTRONICA": "JUAN HENAO - 1070495645"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1070495645",
+            "NOMBRES": "JUAN HENAO",
+            "FIRMA ELLECTRONICA": "JUAN HENAO - 1070495645"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1070495645",
+            "NOMBRES": "JUAN HENAO",
+            "FIRMA ELLECTRONICA": "JUAN HENAO - 1070495645",
+            "AL PIE DE LA FIRMA": "JUAN HENAO - 1070495645"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN HENAO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1070495645",
+            "NOMBRES": "JUAN HENAO",
+            "SALARIO": "2.912.938",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1070495645",
+            "NOMBRES": "JUAN HENAO",
+            "RECOMPRA O DESEMBOLSO": "3.222.731"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "753729416516",
+            "SOLICITUD": "4102090",
+            "CEDULA": "1291403769",
+            "NOMBRES": "ELVIRA NIDIA CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "1.814.254",
+            "FIRMA ELLECTRONICA": "ELVIRA NIDIA CANTILLO - 1291403769"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "753729416516",
+            "NOMBRES": "ELVIRA NIDIA CANTILLO",
+            "CREDITO": "10.176.631",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "194.145",
+            "FIRMA ELLECTRONICA": "ELVIRA NIDIA CANTILLO - 1291403769",
+            "AL PIE DE LA FIRMA": "ELVIRA NIDIA CANTILLO - 1291403769"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1291403769",
+            "NOMBRES": "ELVIRA NIDIA CANTILLO",
+            "FECHA NACIMIENTO": "13/12/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.176.631",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ELVIRA NIDIA CANTILLO - 1291403769",
+            "AL PIE DE LA FIRMA": "ELVIRA NIDIA CANTILLO - 1291403769"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4102090",
+            "CEDULA": "1291403769",
+            "NOMBRES": "ELVIRA NIDIA CANTILLO",
+            "CREDITO": "10.176.631",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "194.145",
+            "E.A": "27.08%",
+            "RECOMPRA O DESEMBOLSO": "1.814.254",
+            "FIRMA ELLECTRONICA": "ELVIRA NIDIA CANTILLO - 1291403769"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1291403769",
+            "NOMBRES": "ELVIRA NIDIA CANTILLO",
+            "FIRMA ELLECTRONICA": "ELVIRA NIDIA CANTILLO - 1291403769"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1291403769",
+            "NOMBRES": "ELVIRA NIDIA CANTILLO",
+            "FIRMA ELLECTRONICA": "ELVIRA NIDIA CANTILLO - 1291403769",
+            "AL PIE DE LA FIRMA": "ELVIRA NIDIA CANTILLO - 1291403769"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELVIRA NIDIA CANTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1291403769",
+            "NOMBRES": "ELVIRA NIDIA CANTILLO",
+            "SALARIO": "4.733.754",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1291403769",
+            "NOMBRES": "ELVIRA NIDIA CANTILLO",
+            "RECOMPRA O DESEMBOLSO": "1.814.254"
+        }
+    }
+]

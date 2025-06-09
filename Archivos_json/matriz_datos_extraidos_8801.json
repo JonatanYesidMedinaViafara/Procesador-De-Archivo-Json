@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "483277823123",
+            "SOLICITUD": "6344685",
+            "CEDULA": "1209363450",
+            "NOMBRES": "SALVADOR GIL",
+            "RECOMPRA O DESEMBOLSO": "2.211.708",
+            "FIRMA ELLECTRONICA": "SALVADOR GIL - 1209363450"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "483277823123",
+            "NOMBRES": "SALVADOR GIL",
+            "CREDITO": "11.640.725",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "382.655",
+            "FIRMA ELLECTRONICA": "SALVADOR GIL - 1209363450",
+            "AL PIE DE LA FIRMA": "SALVADOR GIL - 1209363450"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1209363450",
+            "NOMBRES": "SALVADOR GIL",
+            "FECHA NACIMIENTO": "15/02/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.640.725",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SALVADOR GIL - 1209363450",
+            "AL PIE DE LA FIRMA": "SALVADOR GIL - 1209363450"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6344685",
+            "CEDULA": "1209363450",
+            "NOMBRES": "SALVADOR GIL",
+            "CREDITO": "11.640.725",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "382.655",
+            "E.A": "23.74%",
+            "RECOMPRA O DESEMBOLSO": "2.211.708",
+            "FIRMA ELLECTRONICA": "SALVADOR GIL - 1209363450"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1209363450",
+            "NOMBRES": "SALVADOR GIL",
+            "FIRMA ELLECTRONICA": "SALVADOR GIL - 1209363450"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1209363450",
+            "NOMBRES": "SALVADOR GIL",
+            "FIRMA ELLECTRONICA": "SALVADOR GIL - 1209363450",
+            "AL PIE DE LA FIRMA": "SALVADOR GIL - 1209363450"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SALVADOR GIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1209363450",
+            "NOMBRES": "SALVADOR GIL",
+            "SALARIO": "4.283.813",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1209363450",
+            "NOMBRES": "SALVADOR GIL",
+            "RECOMPRA O DESEMBOLSO": "2.211.708"
+        }
+    }
+]

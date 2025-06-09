@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "354953769813",
+            "SOLICITUD": "1827836",
+            "CEDULA": "1431087691",
+            "NOMBRES": "JUAN CARLOS ARENAS",
+            "RECOMPRA O DESEMBOLSO": "2.272.594",
+            "FIRMA ELLECTRONICA": "JUAN CARLOS ARENAS - 1431087691"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "354953769813",
+            "NOMBRES": "JUAN CARLOS ARENAS",
+            "CREDITO": "9.436.404",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "102.754",
+            "FIRMA ELLECTRONICA": "JUAN CARLOS ARENAS - 1431087691",
+            "AL PIE DE LA FIRMA": "JUAN CARLOS ARENAS - 1431087691"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1431087691",
+            "NOMBRES": "JUAN CARLOS ARENAS",
+            "FECHA NACIMIENTO": "03/02/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.436.404",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JUAN CARLOS ARENAS - 1431087691",
+            "AL PIE DE LA FIRMA": "JUAN CARLOS ARENAS - 1431087691"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1827836",
+            "CEDULA": "1431087691",
+            "NOMBRES": "JUAN CARLOS ARENAS",
+            "CREDITO": "9.436.404",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "102.754",
+            "E.A": "25.39%",
+            "RECOMPRA O DESEMBOLSO": "2.272.594",
+            "FIRMA ELLECTRONICA": "JUAN CARLOS ARENAS - 1431087691"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1431087691",
+            "NOMBRES": "JUAN CARLOS ARENAS",
+            "FIRMA ELLECTRONICA": "JUAN CARLOS ARENAS - 1431087691"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1431087691",
+            "NOMBRES": "JUAN CARLOS ARENAS",
+            "FIRMA ELLECTRONICA": "JUAN CARLOS ARENAS - 1431087691",
+            "AL PIE DE LA FIRMA": "JUAN CARLOS ARENAS - 1431087691"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN CARLOS ARENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1431087691",
+            "NOMBRES": "JUAN CARLOS ARENAS",
+            "SALARIO": "3.585.619",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1431087691",
+            "NOMBRES": "JUAN CARLOS ARENAS",
+            "RECOMPRA O DESEMBOLSO": "2.272.594"
+        }
+    }
+]

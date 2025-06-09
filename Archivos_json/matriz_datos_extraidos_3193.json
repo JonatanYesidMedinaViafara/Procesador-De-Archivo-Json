@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "985530209809",
+            "SOLICITUD": "2781383",
+            "CEDULA": "1906661434",
+            "NOMBRES": "ALBERTO TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.363.781",
+            "FIRMA ELLECTRONICA": "ALBERTO TORRES - 1906661434"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "985530209809",
+            "NOMBRES": "ALBERTO TORRES",
+            "CREDITO": "8.936.427",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "109.512",
+            "FIRMA ELLECTRONICA": "ALBERTO TORRES - 1906661434",
+            "AL PIE DE LA FIRMA": "ALBERTO TORRES - 1906661434"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1906661434",
+            "NOMBRES": "ALBERTO TORRES",
+            "FECHA NACIMIENTO": "10/03/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.936.427",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALBERTO TORRES - 1906661434",
+            "AL PIE DE LA FIRMA": "ALBERTO TORRES - 1906661434"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2781383",
+            "CEDULA": "1906661434",
+            "NOMBRES": "ALBERTO TORRES",
+            "CREDITO": "8.936.427",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "109.512",
+            "E.A": "27.36%",
+            "RECOMPRA O DESEMBOLSO": "4.363.781",
+            "FIRMA ELLECTRONICA": "ALBERTO TORRES - 1906661434"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1906661434",
+            "NOMBRES": "ALBERTO TORRES",
+            "FIRMA ELLECTRONICA": "ALBERTO TORRES - 1906661434"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1906661434",
+            "NOMBRES": "ALBERTO TORRES",
+            "FIRMA ELLECTRONICA": "ALBERTO TORRES - 1906661434",
+            "AL PIE DE LA FIRMA": "ALBERTO TORRES - 1906661434"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1906661434",
+            "NOMBRES": "ALBERTO TORRES",
+            "SALARIO": "3.514.593",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1906661434",
+            "NOMBRES": "ALBERTO TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.363.781"
+        }
+    }
+]

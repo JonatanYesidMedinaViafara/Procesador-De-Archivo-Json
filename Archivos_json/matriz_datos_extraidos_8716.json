@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "108641386870",
+            "SOLICITUD": "3921336",
+            "CEDULA": "1223818976",
+            "NOMBRES": "ALEXANDER JUAN VILLA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.852.480",
+            "FIRMA ELLECTRONICA": "ALEXANDER JUAN VILLA GÓMEZ - 1223818976"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "108641386870",
+            "NOMBRES": "ALEXANDER JUAN VILLA GÓMEZ",
+            "CREDITO": "8.309.016",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "133.667",
+            "FIRMA ELLECTRONICA": "ALEXANDER JUAN VILLA GÓMEZ - 1223818976",
+            "AL PIE DE LA FIRMA": "ALEXANDER JUAN VILLA GÓMEZ - 1223818976"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1223818976",
+            "NOMBRES": "ALEXANDER JUAN VILLA GÓMEZ",
+            "FECHA NACIMIENTO": "24/04/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.309.016",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALEXANDER JUAN VILLA GÓMEZ - 1223818976",
+            "AL PIE DE LA FIRMA": "ALEXANDER JUAN VILLA GÓMEZ - 1223818976"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3921336",
+            "CEDULA": "1223818976",
+            "NOMBRES": "ALEXANDER JUAN VILLA GÓMEZ",
+            "CREDITO": "8.309.016",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "133.667",
+            "E.A": "25.12%",
+            "RECOMPRA O DESEMBOLSO": "1.852.480",
+            "FIRMA ELLECTRONICA": "ALEXANDER JUAN VILLA GÓMEZ - 1223818976"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1223818976",
+            "NOMBRES": "ALEXANDER JUAN VILLA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER JUAN VILLA GÓMEZ - 1223818976"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1223818976",
+            "NOMBRES": "ALEXANDER JUAN VILLA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER JUAN VILLA GÓMEZ - 1223818976",
+            "AL PIE DE LA FIRMA": "ALEXANDER JUAN VILLA GÓMEZ - 1223818976"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER JUAN VILLA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1223818976",
+            "NOMBRES": "ALEXANDER JUAN VILLA GÓMEZ",
+            "SALARIO": "1.251.741",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1223818976",
+            "NOMBRES": "ALEXANDER JUAN VILLA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.852.480"
+        }
+    }
+]

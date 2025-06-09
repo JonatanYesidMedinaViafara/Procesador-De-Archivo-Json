@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "531086429576",
+            "SOLICITUD": "4761142",
+            "CEDULA": "1954970100",
+            "NOMBRES": "ROSARIO NAVARRO PATIÑO",
+            "RECOMPRA O DESEMBOLSO": "1.839.800",
+            "FIRMA ELLECTRONICA": "ROSARIO NAVARRO PATIÑO - 1954970100"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "531086429576",
+            "NOMBRES": "ROSARIO NAVARRO PATIÑO",
+            "CREDITO": "16.850.074",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "263.234",
+            "FIRMA ELLECTRONICA": "ROSARIO NAVARRO PATIÑO - 1954970100",
+            "AL PIE DE LA FIRMA": "ROSARIO NAVARRO PATIÑO - 1954970100"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1954970100",
+            "NOMBRES": "ROSARIO NAVARRO PATIÑO",
+            "FECHA NACIMIENTO": "12/10/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.850.074",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ROSARIO NAVARRO PATIÑO - 1954970100",
+            "AL PIE DE LA FIRMA": "ROSARIO NAVARRO PATIÑO - 1954970100"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4761142",
+            "CEDULA": "1954970100",
+            "NOMBRES": "ROSARIO NAVARRO PATIÑO",
+            "CREDITO": "16.850.074",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "263.234",
+            "E.A": "24.86%",
+            "RECOMPRA O DESEMBOLSO": "1.839.800",
+            "FIRMA ELLECTRONICA": "ROSARIO NAVARRO PATIÑO - 1954970100"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1954970100",
+            "NOMBRES": "ROSARIO NAVARRO PATIÑO",
+            "FIRMA ELLECTRONICA": "ROSARIO NAVARRO PATIÑO - 1954970100"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1954970100",
+            "NOMBRES": "ROSARIO NAVARRO PATIÑO",
+            "FIRMA ELLECTRONICA": "ROSARIO NAVARRO PATIÑO - 1954970100",
+            "AL PIE DE LA FIRMA": "ROSARIO NAVARRO PATIÑO - 1954970100"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSARIO NAVARRO PATIÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1954970100",
+            "NOMBRES": "ROSARIO NAVARRO PATIÑO",
+            "SALARIO": "1.717.658",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1954970100",
+            "NOMBRES": "ROSARIO NAVARRO PATIÑO",
+            "RECOMPRA O DESEMBOLSO": "1.839.800"
+        }
+    }
+]

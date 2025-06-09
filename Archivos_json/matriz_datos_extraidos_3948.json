@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "359075459171",
+            "SOLICITUD": "9130416",
+            "CEDULA": "1085611561",
+            "NOMBRES": "CARLOS JORGE ALFONSO",
+            "RECOMPRA O DESEMBOLSO": "4.309.109",
+            "FIRMA ELLECTRONICA": "CARLOS JORGE ALFONSO - 1085611561"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "359075459171",
+            "NOMBRES": "CARLOS JORGE ALFONSO",
+            "CREDITO": "16.048.170",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "386.486",
+            "FIRMA ELLECTRONICA": "CARLOS JORGE ALFONSO - 1085611561",
+            "AL PIE DE LA FIRMA": "CARLOS JORGE ALFONSO - 1085611561"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1085611561",
+            "NOMBRES": "CARLOS JORGE ALFONSO",
+            "FECHA NACIMIENTO": "30/01/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.048.170",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS JORGE ALFONSO - 1085611561",
+            "AL PIE DE LA FIRMA": "CARLOS JORGE ALFONSO - 1085611561"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9130416",
+            "CEDULA": "1085611561",
+            "NOMBRES": "CARLOS JORGE ALFONSO",
+            "CREDITO": "16.048.170",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "386.486",
+            "E.A": "26.8%",
+            "RECOMPRA O DESEMBOLSO": "4.309.109",
+            "FIRMA ELLECTRONICA": "CARLOS JORGE ALFONSO - 1085611561"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1085611561",
+            "NOMBRES": "CARLOS JORGE ALFONSO",
+            "FIRMA ELLECTRONICA": "CARLOS JORGE ALFONSO - 1085611561"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1085611561",
+            "NOMBRES": "CARLOS JORGE ALFONSO",
+            "FIRMA ELLECTRONICA": "CARLOS JORGE ALFONSO - 1085611561",
+            "AL PIE DE LA FIRMA": "CARLOS JORGE ALFONSO - 1085611561"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS JORGE ALFONSO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1085611561",
+            "NOMBRES": "CARLOS JORGE ALFONSO",
+            "SALARIO": "1.403.025",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1085611561",
+            "NOMBRES": "CARLOS JORGE ALFONSO",
+            "RECOMPRA O DESEMBOLSO": "4.309.109"
+        }
+    }
+]

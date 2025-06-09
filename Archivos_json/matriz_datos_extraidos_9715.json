@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "971152965704",
+            "SOLICITUD": "9641688",
+            "CEDULA": "1421845488",
+            "NOMBRES": "ELISA BEDOYA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.369.172",
+            "FIRMA ELLECTRONICA": "ELISA BEDOYA LÓPEZ - 1421845488"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "971152965704",
+            "NOMBRES": "ELISA BEDOYA LÓPEZ",
+            "CREDITO": "11.813.229",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "208.714",
+            "FIRMA ELLECTRONICA": "ELISA BEDOYA LÓPEZ - 1421845488",
+            "AL PIE DE LA FIRMA": "ELISA BEDOYA LÓPEZ - 1421845488"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1421845488",
+            "NOMBRES": "ELISA BEDOYA LÓPEZ",
+            "FECHA NACIMIENTO": "25/03/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.813.229",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ELISA BEDOYA LÓPEZ - 1421845488",
+            "AL PIE DE LA FIRMA": "ELISA BEDOYA LÓPEZ - 1421845488"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9641688",
+            "CEDULA": "1421845488",
+            "NOMBRES": "ELISA BEDOYA LÓPEZ",
+            "CREDITO": "11.813.229",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "208.714",
+            "E.A": "24.45%",
+            "RECOMPRA O DESEMBOLSO": "2.369.172",
+            "FIRMA ELLECTRONICA": "ELISA BEDOYA LÓPEZ - 1421845488"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1421845488",
+            "NOMBRES": "ELISA BEDOYA LÓPEZ",
+            "FIRMA ELLECTRONICA": "ELISA BEDOYA LÓPEZ - 1421845488"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1421845488",
+            "NOMBRES": "ELISA BEDOYA LÓPEZ",
+            "FIRMA ELLECTRONICA": "ELISA BEDOYA LÓPEZ - 1421845488",
+            "AL PIE DE LA FIRMA": "ELISA BEDOYA LÓPEZ - 1421845488"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELISA BEDOYA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1421845488",
+            "NOMBRES": "ELISA BEDOYA LÓPEZ",
+            "SALARIO": "4.490.460",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1421845488",
+            "NOMBRES": "ELISA BEDOYA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.369.172"
+        }
+    }
+]

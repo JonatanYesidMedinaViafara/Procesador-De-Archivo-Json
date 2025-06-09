@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "269568968324",
+            "SOLICITUD": "4773225",
+            "CEDULA": "1278218300",
+            "NOMBRES": "JULIA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.787.451",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1278218300"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "269568968324",
+            "NOMBRES": "JULIA DÍAZ",
+            "CREDITO": "19.408.163",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.8",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1278218300",
+            "AL PIE DE LA FIRMA": "JULIA DÍAZ - 1278218300"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1278218300",
+            "NOMBRES": "JULIA DÍAZ",
+            "FECHA NACIMIENTO": "08/01/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.408.163",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1278218300",
+            "AL PIE DE LA FIRMA": "JULIA DÍAZ - 1278218300"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4773225",
+            "CEDULA": "1278218300",
+            "NOMBRES": "JULIA DÍAZ",
+            "CREDITO": "19.408.163",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "186.8",
+            "E.A": "20.18%",
+            "RECOMPRA O DESEMBOLSO": "4.787.451",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1278218300"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1278218300",
+            "NOMBRES": "JULIA DÍAZ",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1278218300"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1278218300",
+            "NOMBRES": "JULIA DÍAZ",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1278218300",
+            "AL PIE DE LA FIRMA": "JULIA DÍAZ - 1278218300"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1278218300",
+            "NOMBRES": "JULIA DÍAZ",
+            "SALARIO": "2.942.159",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1278218300",
+            "NOMBRES": "JULIA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.787.451"
+        }
+    }
+]

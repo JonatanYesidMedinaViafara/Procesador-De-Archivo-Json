@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "429899074659",
+            "SOLICITUD": "1273931",
+            "CEDULA": "1945199046",
+            "NOMBRES": "ALEJANDRO SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "2.496.741",
+            "FIRMA ELLECTRONICA": "ALEJANDRO SARMIENTO - 1945199046"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "429899074659",
+            "NOMBRES": "ALEJANDRO SARMIENTO",
+            "CREDITO": "6.065.597",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "289.599",
+            "FIRMA ELLECTRONICA": "ALEJANDRO SARMIENTO - 1945199046",
+            "AL PIE DE LA FIRMA": "ALEJANDRO SARMIENTO - 1945199046"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1945199046",
+            "NOMBRES": "ALEJANDRO SARMIENTO",
+            "FECHA NACIMIENTO": "29/03/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.065.597",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALEJANDRO SARMIENTO - 1945199046",
+            "AL PIE DE LA FIRMA": "ALEJANDRO SARMIENTO - 1945199046"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1273931",
+            "CEDULA": "1945199046",
+            "NOMBRES": "ALEJANDRO SARMIENTO",
+            "CREDITO": "6.065.597",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "289.599",
+            "E.A": "20.82%",
+            "RECOMPRA O DESEMBOLSO": "2.496.741",
+            "FIRMA ELLECTRONICA": "ALEJANDRO SARMIENTO - 1945199046"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1945199046",
+            "NOMBRES": "ALEJANDRO SARMIENTO",
+            "FIRMA ELLECTRONICA": "ALEJANDRO SARMIENTO - 1945199046"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1945199046",
+            "NOMBRES": "ALEJANDRO SARMIENTO",
+            "FIRMA ELLECTRONICA": "ALEJANDRO SARMIENTO - 1945199046",
+            "AL PIE DE LA FIRMA": "ALEJANDRO SARMIENTO - 1945199046"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO SARMIENTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1945199046",
+            "NOMBRES": "ALEJANDRO SARMIENTO",
+            "SALARIO": "3.948.706",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1945199046",
+            "NOMBRES": "ALEJANDRO SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "2.496.741"
+        }
+    }
+]

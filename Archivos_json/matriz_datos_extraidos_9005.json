@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "906947389436",
+            "SOLICITUD": "3948361",
+            "CEDULA": "1551152696",
+            "NOMBRES": "JIMENA PRADA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "1.507.660",
+            "FIRMA ELLECTRONICA": "JIMENA PRADA ACOSTA - 1551152696"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "906947389436",
+            "NOMBRES": "JIMENA PRADA ACOSTA",
+            "CREDITO": "12.093.692",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "220.446",
+            "FIRMA ELLECTRONICA": "JIMENA PRADA ACOSTA - 1551152696",
+            "AL PIE DE LA FIRMA": "JIMENA PRADA ACOSTA - 1551152696"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1551152696",
+            "NOMBRES": "JIMENA PRADA ACOSTA",
+            "FECHA NACIMIENTO": "08/01/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.093.692",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JIMENA PRADA ACOSTA - 1551152696",
+            "AL PIE DE LA FIRMA": "JIMENA PRADA ACOSTA - 1551152696"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3948361",
+            "CEDULA": "1551152696",
+            "NOMBRES": "JIMENA PRADA ACOSTA",
+            "CREDITO": "12.093.692",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "220.446",
+            "E.A": "25.21%",
+            "RECOMPRA O DESEMBOLSO": "1.507.660",
+            "FIRMA ELLECTRONICA": "JIMENA PRADA ACOSTA - 1551152696"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1551152696",
+            "NOMBRES": "JIMENA PRADA ACOSTA",
+            "FIRMA ELLECTRONICA": "JIMENA PRADA ACOSTA - 1551152696"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1551152696",
+            "NOMBRES": "JIMENA PRADA ACOSTA",
+            "FIRMA ELLECTRONICA": "JIMENA PRADA ACOSTA - 1551152696",
+            "AL PIE DE LA FIRMA": "JIMENA PRADA ACOSTA - 1551152696"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JIMENA PRADA ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1551152696",
+            "NOMBRES": "JIMENA PRADA ACOSTA",
+            "SALARIO": "3.958.103",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1551152696",
+            "NOMBRES": "JIMENA PRADA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "1.507.660"
+        }
+    }
+]

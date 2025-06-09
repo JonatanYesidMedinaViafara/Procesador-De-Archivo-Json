@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "786953069409",
+            "SOLICITUD": "7654033",
+            "CEDULA": "1780495352",
+            "NOMBRES": "LUZ LUZ CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.243.179",
+            "FIRMA ELLECTRONICA": "LUZ LUZ CARDONA - 1780495352"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "786953069409",
+            "NOMBRES": "LUZ LUZ CARDONA",
+            "CREDITO": "17.105.747",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "379.213",
+            "FIRMA ELLECTRONICA": "LUZ LUZ CARDONA - 1780495352",
+            "AL PIE DE LA FIRMA": "LUZ LUZ CARDONA - 1780495352"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1780495352",
+            "NOMBRES": "LUZ LUZ CARDONA",
+            "FECHA NACIMIENTO": "26/08/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.105.747",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ LUZ CARDONA - 1780495352",
+            "AL PIE DE LA FIRMA": "LUZ LUZ CARDONA - 1780495352"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7654033",
+            "CEDULA": "1780495352",
+            "NOMBRES": "LUZ LUZ CARDONA",
+            "CREDITO": "17.105.747",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "379.213",
+            "E.A": "20.1%",
+            "RECOMPRA O DESEMBOLSO": "4.243.179",
+            "FIRMA ELLECTRONICA": "LUZ LUZ CARDONA - 1780495352"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1780495352",
+            "NOMBRES": "LUZ LUZ CARDONA",
+            "FIRMA ELLECTRONICA": "LUZ LUZ CARDONA - 1780495352"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1780495352",
+            "NOMBRES": "LUZ LUZ CARDONA",
+            "FIRMA ELLECTRONICA": "LUZ LUZ CARDONA - 1780495352",
+            "AL PIE DE LA FIRMA": "LUZ LUZ CARDONA - 1780495352"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ LUZ CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1780495352",
+            "NOMBRES": "LUZ LUZ CARDONA",
+            "SALARIO": "1.844.953",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1780495352",
+            "NOMBRES": "LUZ LUZ CARDONA",
+            "RECOMPRA O DESEMBOLSO": "4.243.179"
+        }
+    }
+]

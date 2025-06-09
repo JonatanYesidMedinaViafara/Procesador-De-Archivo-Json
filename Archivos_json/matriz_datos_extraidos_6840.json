@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "776576145443",
+            "SOLICITUD": "7060963",
+            "CEDULA": "1234354415",
+            "NOMBRES": "ARTURO CASTAÑEDA",
+            "RECOMPRA O DESEMBOLSO": "2.882.393",
+            "FIRMA ELLECTRONICA": "ARTURO CASTAÑEDA - 1234354415"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "776576145443",
+            "NOMBRES": "ARTURO CASTAÑEDA",
+            "CREDITO": "6.355.402",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "260.26",
+            "FIRMA ELLECTRONICA": "ARTURO CASTAÑEDA - 1234354415",
+            "AL PIE DE LA FIRMA": "ARTURO CASTAÑEDA - 1234354415"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1234354415",
+            "NOMBRES": "ARTURO CASTAÑEDA",
+            "FECHA NACIMIENTO": "23/09/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.355.402",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ARTURO CASTAÑEDA - 1234354415",
+            "AL PIE DE LA FIRMA": "ARTURO CASTAÑEDA - 1234354415"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7060963",
+            "CEDULA": "1234354415",
+            "NOMBRES": "ARTURO CASTAÑEDA",
+            "CREDITO": "6.355.402",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "260.26",
+            "E.A": "23.66%",
+            "RECOMPRA O DESEMBOLSO": "2.882.393",
+            "FIRMA ELLECTRONICA": "ARTURO CASTAÑEDA - 1234354415"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1234354415",
+            "NOMBRES": "ARTURO CASTAÑEDA",
+            "FIRMA ELLECTRONICA": "ARTURO CASTAÑEDA - 1234354415"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1234354415",
+            "NOMBRES": "ARTURO CASTAÑEDA",
+            "FIRMA ELLECTRONICA": "ARTURO CASTAÑEDA - 1234354415",
+            "AL PIE DE LA FIRMA": "ARTURO CASTAÑEDA - 1234354415"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARTURO CASTAÑEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1234354415",
+            "NOMBRES": "ARTURO CASTAÑEDA",
+            "SALARIO": "3.619.849",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1234354415",
+            "NOMBRES": "ARTURO CASTAÑEDA",
+            "RECOMPRA O DESEMBOLSO": "2.882.393"
+        }
+    }
+]

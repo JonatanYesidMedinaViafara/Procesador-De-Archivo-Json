@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "757377010989",
+            "SOLICITUD": "6439282",
+            "CEDULA": "1576850825",
+            "NOMBRES": "ANA MARÍA VALDERRAMA",
+            "RECOMPRA O DESEMBOLSO": "4.056.467",
+            "FIRMA ELLECTRONICA": "ANA MARÍA VALDERRAMA - 1576850825"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "757377010989",
+            "NOMBRES": "ANA MARÍA VALDERRAMA",
+            "CREDITO": "10.335.440",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "392.742",
+            "FIRMA ELLECTRONICA": "ANA MARÍA VALDERRAMA - 1576850825",
+            "AL PIE DE LA FIRMA": "ANA MARÍA VALDERRAMA - 1576850825"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1576850825",
+            "NOMBRES": "ANA MARÍA VALDERRAMA",
+            "FECHA NACIMIENTO": "02/09/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.335.440",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANA MARÍA VALDERRAMA - 1576850825",
+            "AL PIE DE LA FIRMA": "ANA MARÍA VALDERRAMA - 1576850825"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6439282",
+            "CEDULA": "1576850825",
+            "NOMBRES": "ANA MARÍA VALDERRAMA",
+            "CREDITO": "10.335.440",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "392.742",
+            "E.A": "20.73%",
+            "RECOMPRA O DESEMBOLSO": "4.056.467",
+            "FIRMA ELLECTRONICA": "ANA MARÍA VALDERRAMA - 1576850825"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1576850825",
+            "NOMBRES": "ANA MARÍA VALDERRAMA",
+            "FIRMA ELLECTRONICA": "ANA MARÍA VALDERRAMA - 1576850825"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1576850825",
+            "NOMBRES": "ANA MARÍA VALDERRAMA",
+            "FIRMA ELLECTRONICA": "ANA MARÍA VALDERRAMA - 1576850825",
+            "AL PIE DE LA FIRMA": "ANA MARÍA VALDERRAMA - 1576850825"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA MARÍA VALDERRAMA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1576850825",
+            "NOMBRES": "ANA MARÍA VALDERRAMA",
+            "SALARIO": "3.350.513",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1576850825",
+            "NOMBRES": "ANA MARÍA VALDERRAMA",
+            "RECOMPRA O DESEMBOLSO": "4.056.467"
+        }
+    }
+]

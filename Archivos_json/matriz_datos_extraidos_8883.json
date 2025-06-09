@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "488112217217",
+            "SOLICITUD": "1576578",
+            "CEDULA": "1024779069",
+            "NOMBRES": "DAVID MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.074.399",
+            "FIRMA ELLECTRONICA": "DAVID MORENO - 1024779069"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "488112217217",
+            "NOMBRES": "DAVID MORENO",
+            "CREDITO": "6.846.412",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "376.108",
+            "FIRMA ELLECTRONICA": "DAVID MORENO - 1024779069",
+            "AL PIE DE LA FIRMA": "DAVID MORENO - 1024779069"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1024779069",
+            "NOMBRES": "DAVID MORENO",
+            "FECHA NACIMIENTO": "04/06/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.846.412",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DAVID MORENO - 1024779069",
+            "AL PIE DE LA FIRMA": "DAVID MORENO - 1024779069"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1576578",
+            "CEDULA": "1024779069",
+            "NOMBRES": "DAVID MORENO",
+            "CREDITO": "6.846.412",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "376.108",
+            "E.A": "23.06%",
+            "RECOMPRA O DESEMBOLSO": "3.074.399",
+            "FIRMA ELLECTRONICA": "DAVID MORENO - 1024779069"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1024779069",
+            "NOMBRES": "DAVID MORENO",
+            "FIRMA ELLECTRONICA": "DAVID MORENO - 1024779069"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1024779069",
+            "NOMBRES": "DAVID MORENO",
+            "FIRMA ELLECTRONICA": "DAVID MORENO - 1024779069",
+            "AL PIE DE LA FIRMA": "DAVID MORENO - 1024779069"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1024779069",
+            "NOMBRES": "DAVID MORENO",
+            "SALARIO": "1.062.483",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1024779069",
+            "NOMBRES": "DAVID MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.074.399"
+        }
+    }
+]

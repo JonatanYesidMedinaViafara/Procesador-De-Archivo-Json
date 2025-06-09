@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "731706674319",
+            "SOLICITUD": "5664465",
+            "CEDULA": "1479163984",
+            "NOMBRES": "LUCÍA MUÑOZ RUBIO",
+            "RECOMPRA O DESEMBOLSO": "4.275.812",
+            "FIRMA ELLECTRONICA": "LUCÍA MUÑOZ RUBIO - 1479163984"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "731706674319",
+            "NOMBRES": "LUCÍA MUÑOZ RUBIO",
+            "CREDITO": "16.021.251",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "240.263",
+            "FIRMA ELLECTRONICA": "LUCÍA MUÑOZ RUBIO - 1479163984",
+            "AL PIE DE LA FIRMA": "LUCÍA MUÑOZ RUBIO - 1479163984"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1479163984",
+            "NOMBRES": "LUCÍA MUÑOZ RUBIO",
+            "FECHA NACIMIENTO": "02/01/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.021.251",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUCÍA MUÑOZ RUBIO - 1479163984",
+            "AL PIE DE LA FIRMA": "LUCÍA MUÑOZ RUBIO - 1479163984"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5664465",
+            "CEDULA": "1479163984",
+            "NOMBRES": "LUCÍA MUÑOZ RUBIO",
+            "CREDITO": "16.021.251",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "240.263",
+            "E.A": "27.63%",
+            "RECOMPRA O DESEMBOLSO": "4.275.812",
+            "FIRMA ELLECTRONICA": "LUCÍA MUÑOZ RUBIO - 1479163984"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1479163984",
+            "NOMBRES": "LUCÍA MUÑOZ RUBIO",
+            "FIRMA ELLECTRONICA": "LUCÍA MUÑOZ RUBIO - 1479163984"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1479163984",
+            "NOMBRES": "LUCÍA MUÑOZ RUBIO",
+            "FIRMA ELLECTRONICA": "LUCÍA MUÑOZ RUBIO - 1479163984",
+            "AL PIE DE LA FIRMA": "LUCÍA MUÑOZ RUBIO - 1479163984"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA MUÑOZ RUBIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1479163984",
+            "NOMBRES": "LUCÍA MUÑOZ RUBIO",
+            "SALARIO": "4.347.226",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1479163984",
+            "NOMBRES": "LUCÍA MUÑOZ RUBIO",
+            "RECOMPRA O DESEMBOLSO": "4.275.812"
+        }
+    }
+]

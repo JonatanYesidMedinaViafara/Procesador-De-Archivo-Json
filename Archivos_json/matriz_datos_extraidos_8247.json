@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "574390176021",
+            "SOLICITUD": "8480995",
+            "CEDULA": "1929039357",
+            "NOMBRES": "IGNACIO DAZA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "4.230.708",
+            "FIRMA ELLECTRONICA": "IGNACIO DAZA CÓRDOBA - 1929039357"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "574390176021",
+            "NOMBRES": "IGNACIO DAZA CÓRDOBA",
+            "CREDITO": "9.367.749",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "371.014",
+            "FIRMA ELLECTRONICA": "IGNACIO DAZA CÓRDOBA - 1929039357",
+            "AL PIE DE LA FIRMA": "IGNACIO DAZA CÓRDOBA - 1929039357"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1929039357",
+            "NOMBRES": "IGNACIO DAZA CÓRDOBA",
+            "FECHA NACIMIENTO": "27/04/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.367.749",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "IGNACIO DAZA CÓRDOBA - 1929039357",
+            "AL PIE DE LA FIRMA": "IGNACIO DAZA CÓRDOBA - 1929039357"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8480995",
+            "CEDULA": "1929039357",
+            "NOMBRES": "IGNACIO DAZA CÓRDOBA",
+            "CREDITO": "9.367.749",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "371.014",
+            "E.A": "24.01%",
+            "RECOMPRA O DESEMBOLSO": "4.230.708",
+            "FIRMA ELLECTRONICA": "IGNACIO DAZA CÓRDOBA - 1929039357"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1929039357",
+            "NOMBRES": "IGNACIO DAZA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "IGNACIO DAZA CÓRDOBA - 1929039357"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1929039357",
+            "NOMBRES": "IGNACIO DAZA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "IGNACIO DAZA CÓRDOBA - 1929039357",
+            "AL PIE DE LA FIRMA": "IGNACIO DAZA CÓRDOBA - 1929039357"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IGNACIO DAZA CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1929039357",
+            "NOMBRES": "IGNACIO DAZA CÓRDOBA",
+            "SALARIO": "3.087.570",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1929039357",
+            "NOMBRES": "IGNACIO DAZA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "4.230.708"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "324960560411",
+            "SOLICITUD": "6198750",
+            "CEDULA": "1848049693",
+            "NOMBRES": "MARIO JUAN IBARRA",
+            "RECOMPRA O DESEMBOLSO": "2.647.206",
+            "FIRMA ELLECTRONICA": "MARIO JUAN IBARRA - 1848049693"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "324960560411",
+            "NOMBRES": "MARIO JUAN IBARRA",
+            "CREDITO": "7.125.491",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "106.148",
+            "FIRMA ELLECTRONICA": "MARIO JUAN IBARRA - 1848049693",
+            "AL PIE DE LA FIRMA": "MARIO JUAN IBARRA - 1848049693"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1848049693",
+            "NOMBRES": "MARIO JUAN IBARRA",
+            "FECHA NACIMIENTO": "11/09/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.125.491",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARIO JUAN IBARRA - 1848049693",
+            "AL PIE DE LA FIRMA": "MARIO JUAN IBARRA - 1848049693"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6198750",
+            "CEDULA": "1848049693",
+            "NOMBRES": "MARIO JUAN IBARRA",
+            "CREDITO": "7.125.491",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "106.148",
+            "E.A": "18.5%",
+            "RECOMPRA O DESEMBOLSO": "2.647.206",
+            "FIRMA ELLECTRONICA": "MARIO JUAN IBARRA - 1848049693"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1848049693",
+            "NOMBRES": "MARIO JUAN IBARRA",
+            "FIRMA ELLECTRONICA": "MARIO JUAN IBARRA - 1848049693"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1848049693",
+            "NOMBRES": "MARIO JUAN IBARRA",
+            "FIRMA ELLECTRONICA": "MARIO JUAN IBARRA - 1848049693",
+            "AL PIE DE LA FIRMA": "MARIO JUAN IBARRA - 1848049693"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIO JUAN IBARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1848049693",
+            "NOMBRES": "MARIO JUAN IBARRA",
+            "SALARIO": "2.067.834",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "12/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1848049693",
+            "NOMBRES": "MARIO JUAN IBARRA",
+            "RECOMPRA O DESEMBOLSO": "2.647.206"
+        }
+    }
+]

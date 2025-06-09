@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "262559575779",
+            "SOLICITUD": "9889684",
+            "CEDULA": "1825938769",
+            "NOMBRES": "MARÍA LUISA CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.380.016",
+            "FIRMA ELLECTRONICA": "MARÍA LUISA CALDERÓN - 1825938769"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "262559575779",
+            "NOMBRES": "MARÍA LUISA CALDERÓN",
+            "CREDITO": "13.471.543",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "297.448",
+            "FIRMA ELLECTRONICA": "MARÍA LUISA CALDERÓN - 1825938769",
+            "AL PIE DE LA FIRMA": "MARÍA LUISA CALDERÓN - 1825938769"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1825938769",
+            "NOMBRES": "MARÍA LUISA CALDERÓN",
+            "FECHA NACIMIENTO": "04/07/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.471.543",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA LUISA CALDERÓN - 1825938769",
+            "AL PIE DE LA FIRMA": "MARÍA LUISA CALDERÓN - 1825938769"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9889684",
+            "CEDULA": "1825938769",
+            "NOMBRES": "MARÍA LUISA CALDERÓN",
+            "CREDITO": "13.471.543",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "297.448",
+            "E.A": "20.48%",
+            "RECOMPRA O DESEMBOLSO": "4.380.016",
+            "FIRMA ELLECTRONICA": "MARÍA LUISA CALDERÓN - 1825938769"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1825938769",
+            "NOMBRES": "MARÍA LUISA CALDERÓN",
+            "FIRMA ELLECTRONICA": "MARÍA LUISA CALDERÓN - 1825938769"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1825938769",
+            "NOMBRES": "MARÍA LUISA CALDERÓN",
+            "FIRMA ELLECTRONICA": "MARÍA LUISA CALDERÓN - 1825938769",
+            "AL PIE DE LA FIRMA": "MARÍA LUISA CALDERÓN - 1825938769"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LUISA CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1825938769",
+            "NOMBRES": "MARÍA LUISA CALDERÓN",
+            "SALARIO": "2.420.897",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1825938769",
+            "NOMBRES": "MARÍA LUISA CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.380.016"
+        }
+    }
+]

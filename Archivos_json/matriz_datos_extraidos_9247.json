@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "723872885667",
+            "SOLICITUD": "2488613",
+            "CEDULA": "1457451203",
+            "NOMBRES": "FERNANDO RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.098.901",
+            "FIRMA ELLECTRONICA": "FERNANDO RUIZ - 1457451203"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "723872885667",
+            "NOMBRES": "FERNANDO RUIZ",
+            "CREDITO": "12.655.406",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "309.261",
+            "FIRMA ELLECTRONICA": "FERNANDO RUIZ - 1457451203",
+            "AL PIE DE LA FIRMA": "FERNANDO RUIZ - 1457451203"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1457451203",
+            "NOMBRES": "FERNANDO RUIZ",
+            "FECHA NACIMIENTO": "24/02/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.655.406",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNANDO RUIZ - 1457451203",
+            "AL PIE DE LA FIRMA": "FERNANDO RUIZ - 1457451203"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2488613",
+            "CEDULA": "1457451203",
+            "NOMBRES": "FERNANDO RUIZ",
+            "CREDITO": "12.655.406",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "309.261",
+            "E.A": "20.49%",
+            "RECOMPRA O DESEMBOLSO": "1.098.901",
+            "FIRMA ELLECTRONICA": "FERNANDO RUIZ - 1457451203"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1457451203",
+            "NOMBRES": "FERNANDO RUIZ",
+            "FIRMA ELLECTRONICA": "FERNANDO RUIZ - 1457451203"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1457451203",
+            "NOMBRES": "FERNANDO RUIZ",
+            "FIRMA ELLECTRONICA": "FERNANDO RUIZ - 1457451203",
+            "AL PIE DE LA FIRMA": "FERNANDO RUIZ - 1457451203"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1457451203",
+            "NOMBRES": "FERNANDO RUIZ",
+            "SALARIO": "3.927.664",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1457451203",
+            "NOMBRES": "FERNANDO RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.098.901"
+        }
+    }
+]

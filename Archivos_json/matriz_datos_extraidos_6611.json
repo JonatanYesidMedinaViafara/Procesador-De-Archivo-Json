@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "597914037158",
+            "SOLICITUD": "6468534",
+            "CEDULA": "1891257505",
+            "NOMBRES": "MARÍA ESTELLA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.862.813",
+            "FIRMA ELLECTRONICA": "MARÍA ESTELLA LÓPEZ - 1891257505"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "597914037158",
+            "NOMBRES": "MARÍA ESTELLA LÓPEZ",
+            "CREDITO": "10.925.617",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "100.631",
+            "FIRMA ELLECTRONICA": "MARÍA ESTELLA LÓPEZ - 1891257505",
+            "AL PIE DE LA FIRMA": "MARÍA ESTELLA LÓPEZ - 1891257505"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1891257505",
+            "NOMBRES": "MARÍA ESTELLA LÓPEZ",
+            "FECHA NACIMIENTO": "17/12/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.925.617",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA ESTELLA LÓPEZ - 1891257505",
+            "AL PIE DE LA FIRMA": "MARÍA ESTELLA LÓPEZ - 1891257505"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6468534",
+            "CEDULA": "1891257505",
+            "NOMBRES": "MARÍA ESTELLA LÓPEZ",
+            "CREDITO": "10.925.617",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "100.631",
+            "E.A": "25.04%",
+            "RECOMPRA O DESEMBOLSO": "2.862.813",
+            "FIRMA ELLECTRONICA": "MARÍA ESTELLA LÓPEZ - 1891257505"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1891257505",
+            "NOMBRES": "MARÍA ESTELLA LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARÍA ESTELLA LÓPEZ - 1891257505"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1891257505",
+            "NOMBRES": "MARÍA ESTELLA LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARÍA ESTELLA LÓPEZ - 1891257505",
+            "AL PIE DE LA FIRMA": "MARÍA ESTELLA LÓPEZ - 1891257505"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ESTELLA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1891257505",
+            "NOMBRES": "MARÍA ESTELLA LÓPEZ",
+            "SALARIO": "1.796.085",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1891257505",
+            "NOMBRES": "MARÍA ESTELLA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.862.813"
+        }
+    }
+]

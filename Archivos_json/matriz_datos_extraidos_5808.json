@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "698519355586",
+            "SOLICITUD": "6233730",
+            "CEDULA": "1509866879",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.827.847",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1509866879"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "698519355586",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "CREDITO": "14.162.580",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "149.999",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1509866879",
+            "AL PIE DE LA FIRMA": "CAMILO SUÁREZ - 1509866879"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1509866879",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "FECHA NACIMIENTO": "09/05/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.162.580",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1509866879",
+            "AL PIE DE LA FIRMA": "CAMILO SUÁREZ - 1509866879"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6233730",
+            "CEDULA": "1509866879",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "CREDITO": "14.162.580",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "149.999",
+            "E.A": "19.02%",
+            "RECOMPRA O DESEMBOLSO": "2.827.847",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1509866879"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1509866879",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1509866879"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1509866879",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "FIRMA ELLECTRONICA": "CAMILO SUÁREZ - 1509866879",
+            "AL PIE DE LA FIRMA": "CAMILO SUÁREZ - 1509866879"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1509866879",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "SALARIO": "2.817.102",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1509866879",
+            "NOMBRES": "CAMILO SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.827.847"
+        }
+    }
+]

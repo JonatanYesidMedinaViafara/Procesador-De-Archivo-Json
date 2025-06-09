@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "129816275389",
+            "SOLICITUD": "9412345",
+            "CEDULA": "1820536567",
+            "NOMBRES": "ANDERSON MARTÍN BUSTAMANTE CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.580.329",
+            "FIRMA ELLECTRONICA": "ANDERSON MARTÍN BUSTAMANTE CASTRO - 1820536567"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "129816275389",
+            "NOMBRES": "ANDERSON MARTÍN BUSTAMANTE CASTRO",
+            "CREDITO": "14.545.134",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "155.327",
+            "FIRMA ELLECTRONICA": "ANDERSON MARTÍN BUSTAMANTE CASTRO - 1820536567",
+            "AL PIE DE LA FIRMA": "ANDERSON MARTÍN BUSTAMANTE CASTRO - 1820536567"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1820536567",
+            "NOMBRES": "ANDERSON MARTÍN BUSTAMANTE CASTRO",
+            "FECHA NACIMIENTO": "30/09/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.545.134",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDERSON MARTÍN BUSTAMANTE CASTRO - 1820536567",
+            "AL PIE DE LA FIRMA": "ANDERSON MARTÍN BUSTAMANTE CASTRO - 1820536567"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9412345",
+            "CEDULA": "1820536567",
+            "NOMBRES": "ANDERSON MARTÍN BUSTAMANTE CASTRO",
+            "CREDITO": "14.545.134",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "155.327",
+            "E.A": "24.84%",
+            "RECOMPRA O DESEMBOLSO": "4.580.329",
+            "FIRMA ELLECTRONICA": "ANDERSON MARTÍN BUSTAMANTE CASTRO - 1820536567"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1820536567",
+            "NOMBRES": "ANDERSON MARTÍN BUSTAMANTE CASTRO",
+            "FIRMA ELLECTRONICA": "ANDERSON MARTÍN BUSTAMANTE CASTRO - 1820536567"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1820536567",
+            "NOMBRES": "ANDERSON MARTÍN BUSTAMANTE CASTRO",
+            "FIRMA ELLECTRONICA": "ANDERSON MARTÍN BUSTAMANTE CASTRO - 1820536567",
+            "AL PIE DE LA FIRMA": "ANDERSON MARTÍN BUSTAMANTE CASTRO - 1820536567"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDERSON MARTÍN BUSTAMANTE CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1820536567",
+            "NOMBRES": "ANDERSON MARTÍN BUSTAMANTE CASTRO",
+            "SALARIO": "2.734.125",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1820536567",
+            "NOMBRES": "ANDERSON MARTÍN BUSTAMANTE CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.580.329"
+        }
+    }
+]

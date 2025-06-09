@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "377613571988",
+            "SOLICITUD": "5795816",
+            "CEDULA": "1318721553",
+            "NOMBRES": "MARÍA KAREN CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "2.838.607",
+            "FIRMA ELLECTRONICA": "MARÍA KAREN CALDERÓN - 1318721553"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "377613571988",
+            "NOMBRES": "MARÍA KAREN CALDERÓN",
+            "CREDITO": "6.974.624",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "267.188",
+            "FIRMA ELLECTRONICA": "MARÍA KAREN CALDERÓN - 1318721553",
+            "AL PIE DE LA FIRMA": "MARÍA KAREN CALDERÓN - 1318721553"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1318721553",
+            "NOMBRES": "MARÍA KAREN CALDERÓN",
+            "FECHA NACIMIENTO": "19/02/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.974.624",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA KAREN CALDERÓN - 1318721553",
+            "AL PIE DE LA FIRMA": "MARÍA KAREN CALDERÓN - 1318721553"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5795816",
+            "CEDULA": "1318721553",
+            "NOMBRES": "MARÍA KAREN CALDERÓN",
+            "CREDITO": "6.974.624",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "267.188",
+            "E.A": "23.21%",
+            "RECOMPRA O DESEMBOLSO": "2.838.607",
+            "FIRMA ELLECTRONICA": "MARÍA KAREN CALDERÓN - 1318721553"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1318721553",
+            "NOMBRES": "MARÍA KAREN CALDERÓN",
+            "FIRMA ELLECTRONICA": "MARÍA KAREN CALDERÓN - 1318721553"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1318721553",
+            "NOMBRES": "MARÍA KAREN CALDERÓN",
+            "FIRMA ELLECTRONICA": "MARÍA KAREN CALDERÓN - 1318721553",
+            "AL PIE DE LA FIRMA": "MARÍA KAREN CALDERÓN - 1318721553"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA KAREN CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1318721553",
+            "NOMBRES": "MARÍA KAREN CALDERÓN",
+            "SALARIO": "1.098.730",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1318721553",
+            "NOMBRES": "MARÍA KAREN CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "2.838.607"
+        }
+    }
+]

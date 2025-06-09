@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "353551685946",
+            "SOLICITUD": "1148956",
+            "CEDULA": "1185248693",
+            "NOMBRES": "CARLOS LEONEL VERGARA",
+            "RECOMPRA O DESEMBOLSO": "3.731.108",
+            "FIRMA ELLECTRONICA": "CARLOS LEONEL VERGARA - 1185248693"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "353551685946",
+            "NOMBRES": "CARLOS LEONEL VERGARA",
+            "CREDITO": "10.835.819",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "348.632",
+            "FIRMA ELLECTRONICA": "CARLOS LEONEL VERGARA - 1185248693",
+            "AL PIE DE LA FIRMA": "CARLOS LEONEL VERGARA - 1185248693"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1185248693",
+            "NOMBRES": "CARLOS LEONEL VERGARA",
+            "FECHA NACIMIENTO": "30/06/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.835.819",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARLOS LEONEL VERGARA - 1185248693",
+            "AL PIE DE LA FIRMA": "CARLOS LEONEL VERGARA - 1185248693"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1148956",
+            "CEDULA": "1185248693",
+            "NOMBRES": "CARLOS LEONEL VERGARA",
+            "CREDITO": "10.835.819",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "348.632",
+            "E.A": "24.62%",
+            "RECOMPRA O DESEMBOLSO": "3.731.108",
+            "FIRMA ELLECTRONICA": "CARLOS LEONEL VERGARA - 1185248693"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1185248693",
+            "NOMBRES": "CARLOS LEONEL VERGARA",
+            "FIRMA ELLECTRONICA": "CARLOS LEONEL VERGARA - 1185248693"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1185248693",
+            "NOMBRES": "CARLOS LEONEL VERGARA",
+            "FIRMA ELLECTRONICA": "CARLOS LEONEL VERGARA - 1185248693",
+            "AL PIE DE LA FIRMA": "CARLOS LEONEL VERGARA - 1185248693"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS LEONEL VERGARA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1185248693",
+            "NOMBRES": "CARLOS LEONEL VERGARA",
+            "SALARIO": "4.114.431",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1185248693",
+            "NOMBRES": "CARLOS LEONEL VERGARA",
+            "RECOMPRA O DESEMBOLSO": "3.731.108"
+        }
+    }
+]

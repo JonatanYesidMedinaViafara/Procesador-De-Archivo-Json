@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "492344194456",
+            "SOLICITUD": "3900959",
+            "CEDULA": "1009346516",
+            "NOMBRES": "ALFONSO SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "2.802.524",
+            "FIRMA ELLECTRONICA": "ALFONSO SARMIENTO - 1009346516"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "492344194456",
+            "NOMBRES": "ALFONSO SARMIENTO",
+            "CREDITO": "13.699.945",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "352.569",
+            "FIRMA ELLECTRONICA": "ALFONSO SARMIENTO - 1009346516",
+            "AL PIE DE LA FIRMA": "ALFONSO SARMIENTO - 1009346516"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1009346516",
+            "NOMBRES": "ALFONSO SARMIENTO",
+            "FECHA NACIMIENTO": "09/09/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.699.945",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALFONSO SARMIENTO - 1009346516",
+            "AL PIE DE LA FIRMA": "ALFONSO SARMIENTO - 1009346516"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3900959",
+            "CEDULA": "1009346516",
+            "NOMBRES": "ALFONSO SARMIENTO",
+            "CREDITO": "13.699.945",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "352.569",
+            "E.A": "18.21%",
+            "RECOMPRA O DESEMBOLSO": "2.802.524",
+            "FIRMA ELLECTRONICA": "ALFONSO SARMIENTO - 1009346516"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1009346516",
+            "NOMBRES": "ALFONSO SARMIENTO",
+            "FIRMA ELLECTRONICA": "ALFONSO SARMIENTO - 1009346516"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1009346516",
+            "NOMBRES": "ALFONSO SARMIENTO",
+            "FIRMA ELLECTRONICA": "ALFONSO SARMIENTO - 1009346516",
+            "AL PIE DE LA FIRMA": "ALFONSO SARMIENTO - 1009346516"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFONSO SARMIENTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1009346516",
+            "NOMBRES": "ALFONSO SARMIENTO",
+            "SALARIO": "1.598.867",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1009346516",
+            "NOMBRES": "ALFONSO SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "2.802.524"
+        }
+    }
+]

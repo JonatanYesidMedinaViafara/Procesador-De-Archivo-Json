@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "103399345442",
+            "SOLICITUD": "2874663",
+            "CEDULA": "1410604875",
+            "NOMBRES": "AUGUSTO EDWIN RIVAS",
+            "RECOMPRA O DESEMBOLSO": "2.618.600",
+            "FIRMA ELLECTRONICA": "AUGUSTO EDWIN RIVAS - 1410604875"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "103399345442",
+            "NOMBRES": "AUGUSTO EDWIN RIVAS",
+            "CREDITO": "13.645.288",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "218.005",
+            "FIRMA ELLECTRONICA": "AUGUSTO EDWIN RIVAS - 1410604875",
+            "AL PIE DE LA FIRMA": "AUGUSTO EDWIN RIVAS - 1410604875"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1410604875",
+            "NOMBRES": "AUGUSTO EDWIN RIVAS",
+            "FECHA NACIMIENTO": "08/01/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.645.288",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "AUGUSTO EDWIN RIVAS - 1410604875",
+            "AL PIE DE LA FIRMA": "AUGUSTO EDWIN RIVAS - 1410604875"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2874663",
+            "CEDULA": "1410604875",
+            "NOMBRES": "AUGUSTO EDWIN RIVAS",
+            "CREDITO": "13.645.288",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "218.005",
+            "E.A": "27.22%",
+            "RECOMPRA O DESEMBOLSO": "2.618.600",
+            "FIRMA ELLECTRONICA": "AUGUSTO EDWIN RIVAS - 1410604875"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1410604875",
+            "NOMBRES": "AUGUSTO EDWIN RIVAS",
+            "FIRMA ELLECTRONICA": "AUGUSTO EDWIN RIVAS - 1410604875"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1410604875",
+            "NOMBRES": "AUGUSTO EDWIN RIVAS",
+            "FIRMA ELLECTRONICA": "AUGUSTO EDWIN RIVAS - 1410604875",
+            "AL PIE DE LA FIRMA": "AUGUSTO EDWIN RIVAS - 1410604875"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AUGUSTO EDWIN RIVAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1410604875",
+            "NOMBRES": "AUGUSTO EDWIN RIVAS",
+            "SALARIO": "3.139.462",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1410604875",
+            "NOMBRES": "AUGUSTO EDWIN RIVAS",
+            "RECOMPRA O DESEMBOLSO": "2.618.600"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "740381767235",
+            "SOLICITUD": "6743467",
+            "CEDULA": "1185298026",
+            "NOMBRES": "MILENA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.000.622",
+            "FIRMA ELLECTRONICA": "MILENA PÉREZ - 1185298026"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "740381767235",
+            "NOMBRES": "MILENA PÉREZ",
+            "CREDITO": "15.727.710",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "272.659",
+            "FIRMA ELLECTRONICA": "MILENA PÉREZ - 1185298026",
+            "AL PIE DE LA FIRMA": "MILENA PÉREZ - 1185298026"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1185298026",
+            "NOMBRES": "MILENA PÉREZ",
+            "FECHA NACIMIENTO": "14/07/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.727.710",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MILENA PÉREZ - 1185298026",
+            "AL PIE DE LA FIRMA": "MILENA PÉREZ - 1185298026"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6743467",
+            "CEDULA": "1185298026",
+            "NOMBRES": "MILENA PÉREZ",
+            "CREDITO": "15.727.710",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "272.659",
+            "E.A": "28.59%",
+            "RECOMPRA O DESEMBOLSO": "3.000.622",
+            "FIRMA ELLECTRONICA": "MILENA PÉREZ - 1185298026"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1185298026",
+            "NOMBRES": "MILENA PÉREZ",
+            "FIRMA ELLECTRONICA": "MILENA PÉREZ - 1185298026"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1185298026",
+            "NOMBRES": "MILENA PÉREZ",
+            "FIRMA ELLECTRONICA": "MILENA PÉREZ - 1185298026",
+            "AL PIE DE LA FIRMA": "MILENA PÉREZ - 1185298026"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1185298026",
+            "NOMBRES": "MILENA PÉREZ",
+            "SALARIO": "1.767.906",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1185298026",
+            "NOMBRES": "MILENA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.000.622"
+        }
+    }
+]

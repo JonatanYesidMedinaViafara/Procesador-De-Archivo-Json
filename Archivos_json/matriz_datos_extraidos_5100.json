@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "255718169764",
+            "SOLICITUD": "9747172",
+            "CEDULA": "1909701089",
+            "NOMBRES": "ANTONIO DÍAZ MENESES",
+            "RECOMPRA O DESEMBOLSO": "4.579.205",
+            "FIRMA ELLECTRONICA": "ANTONIO DÍAZ MENESES - 1909701089"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "255718169764",
+            "NOMBRES": "ANTONIO DÍAZ MENESES",
+            "CREDITO": "6.077.177",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "123.366",
+            "FIRMA ELLECTRONICA": "ANTONIO DÍAZ MENESES - 1909701089",
+            "AL PIE DE LA FIRMA": "ANTONIO DÍAZ MENESES - 1909701089"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1909701089",
+            "NOMBRES": "ANTONIO DÍAZ MENESES",
+            "FECHA NACIMIENTO": "11/04/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.077.177",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANTONIO DÍAZ MENESES - 1909701089",
+            "AL PIE DE LA FIRMA": "ANTONIO DÍAZ MENESES - 1909701089"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9747172",
+            "CEDULA": "1909701089",
+            "NOMBRES": "ANTONIO DÍAZ MENESES",
+            "CREDITO": "6.077.177",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "123.366",
+            "E.A": "25.57%",
+            "RECOMPRA O DESEMBOLSO": "4.579.205",
+            "FIRMA ELLECTRONICA": "ANTONIO DÍAZ MENESES - 1909701089"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1909701089",
+            "NOMBRES": "ANTONIO DÍAZ MENESES",
+            "FIRMA ELLECTRONICA": "ANTONIO DÍAZ MENESES - 1909701089"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1909701089",
+            "NOMBRES": "ANTONIO DÍAZ MENESES",
+            "FIRMA ELLECTRONICA": "ANTONIO DÍAZ MENESES - 1909701089",
+            "AL PIE DE LA FIRMA": "ANTONIO DÍAZ MENESES - 1909701089"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO DÍAZ MENESES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1909701089",
+            "NOMBRES": "ANTONIO DÍAZ MENESES",
+            "SALARIO": "1.200.480",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1909701089",
+            "NOMBRES": "ANTONIO DÍAZ MENESES",
+            "RECOMPRA O DESEMBOLSO": "4.579.205"
+        }
+    }
+]

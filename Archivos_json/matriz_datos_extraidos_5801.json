@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "152425694452",
+            "SOLICITUD": "2197193",
+            "CEDULA": "1361975718",
+            "NOMBRES": "ANDRÉS LUIS HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.264.306",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS HERNÁNDEZ - 1361975718"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "152425694452",
+            "NOMBRES": "ANDRÉS LUIS HERNÁNDEZ",
+            "CREDITO": "15.895.885",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "153.859",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS HERNÁNDEZ - 1361975718",
+            "AL PIE DE LA FIRMA": "ANDRÉS LUIS HERNÁNDEZ - 1361975718"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1361975718",
+            "NOMBRES": "ANDRÉS LUIS HERNÁNDEZ",
+            "FECHA NACIMIENTO": "18/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.895.885",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS HERNÁNDEZ - 1361975718",
+            "AL PIE DE LA FIRMA": "ANDRÉS LUIS HERNÁNDEZ - 1361975718"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2197193",
+            "CEDULA": "1361975718",
+            "NOMBRES": "ANDRÉS LUIS HERNÁNDEZ",
+            "CREDITO": "15.895.885",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "153.859",
+            "E.A": "23.29%",
+            "RECOMPRA O DESEMBOLSO": "4.264.306",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS HERNÁNDEZ - 1361975718"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1361975718",
+            "NOMBRES": "ANDRÉS LUIS HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS HERNÁNDEZ - 1361975718"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1361975718",
+            "NOMBRES": "ANDRÉS LUIS HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS LUIS HERNÁNDEZ - 1361975718",
+            "AL PIE DE LA FIRMA": "ANDRÉS LUIS HERNÁNDEZ - 1361975718"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS LUIS HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1361975718",
+            "NOMBRES": "ANDRÉS LUIS HERNÁNDEZ",
+            "SALARIO": "2.684.741",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1361975718",
+            "NOMBRES": "ANDRÉS LUIS HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.264.306"
+        }
+    }
+]

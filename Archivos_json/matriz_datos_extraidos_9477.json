@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "281388348293",
+            "SOLICITUD": "5594243",
+            "CEDULA": "1341570808",
+            "NOMBRES": "CARLOS FRANCISCO MEDINA CASTRO",
+            "RECOMPRA O DESEMBOLSO": "3.780.436",
+            "FIRMA ELLECTRONICA": "CARLOS FRANCISCO MEDINA CASTRO - 1341570808"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "281388348293",
+            "NOMBRES": "CARLOS FRANCISCO MEDINA CASTRO",
+            "CREDITO": "18.244.485",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "311.523",
+            "FIRMA ELLECTRONICA": "CARLOS FRANCISCO MEDINA CASTRO - 1341570808",
+            "AL PIE DE LA FIRMA": "CARLOS FRANCISCO MEDINA CASTRO - 1341570808"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1341570808",
+            "NOMBRES": "CARLOS FRANCISCO MEDINA CASTRO",
+            "FECHA NACIMIENTO": "20/07/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.244.485",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARLOS FRANCISCO MEDINA CASTRO - 1341570808",
+            "AL PIE DE LA FIRMA": "CARLOS FRANCISCO MEDINA CASTRO - 1341570808"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5594243",
+            "CEDULA": "1341570808",
+            "NOMBRES": "CARLOS FRANCISCO MEDINA CASTRO",
+            "CREDITO": "18.244.485",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "311.523",
+            "E.A": "21.69%",
+            "RECOMPRA O DESEMBOLSO": "3.780.436",
+            "FIRMA ELLECTRONICA": "CARLOS FRANCISCO MEDINA CASTRO - 1341570808"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1341570808",
+            "NOMBRES": "CARLOS FRANCISCO MEDINA CASTRO",
+            "FIRMA ELLECTRONICA": "CARLOS FRANCISCO MEDINA CASTRO - 1341570808"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1341570808",
+            "NOMBRES": "CARLOS FRANCISCO MEDINA CASTRO",
+            "FIRMA ELLECTRONICA": "CARLOS FRANCISCO MEDINA CASTRO - 1341570808",
+            "AL PIE DE LA FIRMA": "CARLOS FRANCISCO MEDINA CASTRO - 1341570808"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS FRANCISCO MEDINA CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1341570808",
+            "NOMBRES": "CARLOS FRANCISCO MEDINA CASTRO",
+            "SALARIO": "3.156.639",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1341570808",
+            "NOMBRES": "CARLOS FRANCISCO MEDINA CASTRO",
+            "RECOMPRA O DESEMBOLSO": "3.780.436"
+        }
+    }
+]

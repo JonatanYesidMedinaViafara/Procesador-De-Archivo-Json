@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "297215695949",
+            "SOLICITUD": "7253533",
+            "CEDULA": "1310124852",
+            "NOMBRES": "SARA GARZÓN BASTIDAS",
+            "RECOMPRA O DESEMBOLSO": "1.306.437",
+            "FIRMA ELLECTRONICA": "SARA GARZÓN BASTIDAS - 1310124852"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "297215695949",
+            "NOMBRES": "SARA GARZÓN BASTIDAS",
+            "CREDITO": "7.541.104",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "384.147",
+            "FIRMA ELLECTRONICA": "SARA GARZÓN BASTIDAS - 1310124852",
+            "AL PIE DE LA FIRMA": "SARA GARZÓN BASTIDAS - 1310124852"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1310124852",
+            "NOMBRES": "SARA GARZÓN BASTIDAS",
+            "FECHA NACIMIENTO": "09/08/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.541.104",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SARA GARZÓN BASTIDAS - 1310124852",
+            "AL PIE DE LA FIRMA": "SARA GARZÓN BASTIDAS - 1310124852"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7253533",
+            "CEDULA": "1310124852",
+            "NOMBRES": "SARA GARZÓN BASTIDAS",
+            "CREDITO": "7.541.104",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "384.147",
+            "E.A": "23.22%",
+            "RECOMPRA O DESEMBOLSO": "1.306.437",
+            "FIRMA ELLECTRONICA": "SARA GARZÓN BASTIDAS - 1310124852"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1310124852",
+            "NOMBRES": "SARA GARZÓN BASTIDAS",
+            "FIRMA ELLECTRONICA": "SARA GARZÓN BASTIDAS - 1310124852"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1310124852",
+            "NOMBRES": "SARA GARZÓN BASTIDAS",
+            "FIRMA ELLECTRONICA": "SARA GARZÓN BASTIDAS - 1310124852",
+            "AL PIE DE LA FIRMA": "SARA GARZÓN BASTIDAS - 1310124852"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SARA GARZÓN BASTIDAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1310124852",
+            "NOMBRES": "SARA GARZÓN BASTIDAS",
+            "SALARIO": "3.950.198",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1310124852",
+            "NOMBRES": "SARA GARZÓN BASTIDAS",
+            "RECOMPRA O DESEMBOLSO": "1.306.437"
+        }
+    }
+]

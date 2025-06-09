@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "214182807903",
+            "SOLICITUD": "7469221",
+            "CEDULA": "1293599617",
+            "NOMBRES": "CLARA MARTÍNEZ CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "1.623.411",
+            "FIRMA ELLECTRONICA": "CLARA MARTÍNEZ CORTÉS - 1293599617"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "214182807903",
+            "NOMBRES": "CLARA MARTÍNEZ CORTÉS",
+            "CREDITO": "12.890.372",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "330.662",
+            "FIRMA ELLECTRONICA": "CLARA MARTÍNEZ CORTÉS - 1293599617",
+            "AL PIE DE LA FIRMA": "CLARA MARTÍNEZ CORTÉS - 1293599617"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1293599617",
+            "NOMBRES": "CLARA MARTÍNEZ CORTÉS",
+            "FECHA NACIMIENTO": "20/04/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.890.372",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CLARA MARTÍNEZ CORTÉS - 1293599617",
+            "AL PIE DE LA FIRMA": "CLARA MARTÍNEZ CORTÉS - 1293599617"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7469221",
+            "CEDULA": "1293599617",
+            "NOMBRES": "CLARA MARTÍNEZ CORTÉS",
+            "CREDITO": "12.890.372",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "330.662",
+            "E.A": "19.95%",
+            "RECOMPRA O DESEMBOLSO": "1.623.411",
+            "FIRMA ELLECTRONICA": "CLARA MARTÍNEZ CORTÉS - 1293599617"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1293599617",
+            "NOMBRES": "CLARA MARTÍNEZ CORTÉS",
+            "FIRMA ELLECTRONICA": "CLARA MARTÍNEZ CORTÉS - 1293599617"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1293599617",
+            "NOMBRES": "CLARA MARTÍNEZ CORTÉS",
+            "FIRMA ELLECTRONICA": "CLARA MARTÍNEZ CORTÉS - 1293599617",
+            "AL PIE DE LA FIRMA": "CLARA MARTÍNEZ CORTÉS - 1293599617"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLARA MARTÍNEZ CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1293599617",
+            "NOMBRES": "CLARA MARTÍNEZ CORTÉS",
+            "SALARIO": "3.921.460",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1293599617",
+            "NOMBRES": "CLARA MARTÍNEZ CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "1.623.411"
+        }
+    }
+]

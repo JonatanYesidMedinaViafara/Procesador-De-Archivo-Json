@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "995355214551",
+            "SOLICITUD": "5642919",
+            "CEDULA": "1362840532",
+            "NOMBRES": "YAMILE BECERRA",
+            "RECOMPRA O DESEMBOLSO": "3.782.434",
+            "FIRMA ELLECTRONICA": "YAMILE BECERRA - 1362840532"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "995355214551",
+            "NOMBRES": "YAMILE BECERRA",
+            "CREDITO": "17.813.139",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "389.356",
+            "FIRMA ELLECTRONICA": "YAMILE BECERRA - 1362840532",
+            "AL PIE DE LA FIRMA": "YAMILE BECERRA - 1362840532"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1362840532",
+            "NOMBRES": "YAMILE BECERRA",
+            "FECHA NACIMIENTO": "07/10/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.813.139",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "YAMILE BECERRA - 1362840532",
+            "AL PIE DE LA FIRMA": "YAMILE BECERRA - 1362840532"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5642919",
+            "CEDULA": "1362840532",
+            "NOMBRES": "YAMILE BECERRA",
+            "CREDITO": "17.813.139",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "389.356",
+            "E.A": "23.13%",
+            "RECOMPRA O DESEMBOLSO": "3.782.434",
+            "FIRMA ELLECTRONICA": "YAMILE BECERRA - 1362840532"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1362840532",
+            "NOMBRES": "YAMILE BECERRA",
+            "FIRMA ELLECTRONICA": "YAMILE BECERRA - 1362840532"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1362840532",
+            "NOMBRES": "YAMILE BECERRA",
+            "FIRMA ELLECTRONICA": "YAMILE BECERRA - 1362840532",
+            "AL PIE DE LA FIRMA": "YAMILE BECERRA - 1362840532"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YAMILE BECERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1362840532",
+            "NOMBRES": "YAMILE BECERRA",
+            "SALARIO": "3.007.439",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1362840532",
+            "NOMBRES": "YAMILE BECERRA",
+            "RECOMPRA O DESEMBOLSO": "3.782.434"
+        }
+    }
+]

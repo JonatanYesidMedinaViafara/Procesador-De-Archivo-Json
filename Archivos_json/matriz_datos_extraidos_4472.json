@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "789877878889",
+            "SOLICITUD": "5104402",
+            "CEDULA": "1684826052",
+            "NOMBRES": "ANDREA ELENA PÉREZ ANGARITA",
+            "RECOMPRA O DESEMBOLSO": "3.969.661",
+            "FIRMA ELLECTRONICA": "ANDREA ELENA PÉREZ ANGARITA - 1684826052"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "789877878889",
+            "NOMBRES": "ANDREA ELENA PÉREZ ANGARITA",
+            "CREDITO": "18.802.262",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "257.482",
+            "FIRMA ELLECTRONICA": "ANDREA ELENA PÉREZ ANGARITA - 1684826052",
+            "AL PIE DE LA FIRMA": "ANDREA ELENA PÉREZ ANGARITA - 1684826052"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1684826052",
+            "NOMBRES": "ANDREA ELENA PÉREZ ANGARITA",
+            "FECHA NACIMIENTO": "12/01/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.802.262",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDREA ELENA PÉREZ ANGARITA - 1684826052",
+            "AL PIE DE LA FIRMA": "ANDREA ELENA PÉREZ ANGARITA - 1684826052"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5104402",
+            "CEDULA": "1684826052",
+            "NOMBRES": "ANDREA ELENA PÉREZ ANGARITA",
+            "CREDITO": "18.802.262",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "257.482",
+            "E.A": "25.42%",
+            "RECOMPRA O DESEMBOLSO": "3.969.661",
+            "FIRMA ELLECTRONICA": "ANDREA ELENA PÉREZ ANGARITA - 1684826052"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1684826052",
+            "NOMBRES": "ANDREA ELENA PÉREZ ANGARITA",
+            "FIRMA ELLECTRONICA": "ANDREA ELENA PÉREZ ANGARITA - 1684826052"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1684826052",
+            "NOMBRES": "ANDREA ELENA PÉREZ ANGARITA",
+            "FIRMA ELLECTRONICA": "ANDREA ELENA PÉREZ ANGARITA - 1684826052",
+            "AL PIE DE LA FIRMA": "ANDREA ELENA PÉREZ ANGARITA - 1684826052"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA ELENA PÉREZ ANGARITA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1684826052",
+            "NOMBRES": "ANDREA ELENA PÉREZ ANGARITA",
+            "SALARIO": "1.635.973",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1684826052",
+            "NOMBRES": "ANDREA ELENA PÉREZ ANGARITA",
+            "RECOMPRA O DESEMBOLSO": "3.969.661"
+        }
+    }
+]

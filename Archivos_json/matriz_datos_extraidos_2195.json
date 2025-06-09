@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "137004660832",
+            "SOLICITUD": "2911642",
+            "CEDULA": "1672361328",
+            "NOMBRES": "MARCELA STELLA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.234.454",
+            "FIRMA ELLECTRONICA": "MARCELA STELLA DÍAZ - 1672361328"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "137004660832",
+            "NOMBRES": "MARCELA STELLA DÍAZ",
+            "CREDITO": "14.682.617",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "132.377",
+            "FIRMA ELLECTRONICA": "MARCELA STELLA DÍAZ - 1672361328",
+            "AL PIE DE LA FIRMA": "MARCELA STELLA DÍAZ - 1672361328"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1672361328",
+            "NOMBRES": "MARCELA STELLA DÍAZ",
+            "FECHA NACIMIENTO": "07/08/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.682.617",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARCELA STELLA DÍAZ - 1672361328",
+            "AL PIE DE LA FIRMA": "MARCELA STELLA DÍAZ - 1672361328"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2911642",
+            "CEDULA": "1672361328",
+            "NOMBRES": "MARCELA STELLA DÍAZ",
+            "CREDITO": "14.682.617",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "132.377",
+            "E.A": "18.58%",
+            "RECOMPRA O DESEMBOLSO": "3.234.454",
+            "FIRMA ELLECTRONICA": "MARCELA STELLA DÍAZ - 1672361328"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1672361328",
+            "NOMBRES": "MARCELA STELLA DÍAZ",
+            "FIRMA ELLECTRONICA": "MARCELA STELLA DÍAZ - 1672361328"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1672361328",
+            "NOMBRES": "MARCELA STELLA DÍAZ",
+            "FIRMA ELLECTRONICA": "MARCELA STELLA DÍAZ - 1672361328",
+            "AL PIE DE LA FIRMA": "MARCELA STELLA DÍAZ - 1672361328"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCELA STELLA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1672361328",
+            "NOMBRES": "MARCELA STELLA DÍAZ",
+            "SALARIO": "4.764.058",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1672361328",
+            "NOMBRES": "MARCELA STELLA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.234.454"
+        }
+    }
+]

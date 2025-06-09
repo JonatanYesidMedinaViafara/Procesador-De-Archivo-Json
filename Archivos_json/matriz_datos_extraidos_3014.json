@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "361243152491",
+            "SOLICITUD": "4451501",
+            "CEDULA": "1626066180",
+            "NOMBRES": "KARINA MARÍA FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.808.938",
+            "FIRMA ELLECTRONICA": "KARINA MARÍA FERNÁNDEZ - 1626066180"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "361243152491",
+            "NOMBRES": "KARINA MARÍA FERNÁNDEZ",
+            "CREDITO": "12.459.211",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "322.288",
+            "FIRMA ELLECTRONICA": "KARINA MARÍA FERNÁNDEZ - 1626066180",
+            "AL PIE DE LA FIRMA": "KARINA MARÍA FERNÁNDEZ - 1626066180"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1626066180",
+            "NOMBRES": "KARINA MARÍA FERNÁNDEZ",
+            "FECHA NACIMIENTO": "17/09/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.459.211",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "KARINA MARÍA FERNÁNDEZ - 1626066180",
+            "AL PIE DE LA FIRMA": "KARINA MARÍA FERNÁNDEZ - 1626066180"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4451501",
+            "CEDULA": "1626066180",
+            "NOMBRES": "KARINA MARÍA FERNÁNDEZ",
+            "CREDITO": "12.459.211",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "322.288",
+            "E.A": "24.92%",
+            "RECOMPRA O DESEMBOLSO": "3.808.938",
+            "FIRMA ELLECTRONICA": "KARINA MARÍA FERNÁNDEZ - 1626066180"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1626066180",
+            "NOMBRES": "KARINA MARÍA FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "KARINA MARÍA FERNÁNDEZ - 1626066180"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1626066180",
+            "NOMBRES": "KARINA MARÍA FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "KARINA MARÍA FERNÁNDEZ - 1626066180",
+            "AL PIE DE LA FIRMA": "KARINA MARÍA FERNÁNDEZ - 1626066180"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "KARINA MARÍA FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1626066180",
+            "NOMBRES": "KARINA MARÍA FERNÁNDEZ",
+            "SALARIO": "3.028.135",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1626066180",
+            "NOMBRES": "KARINA MARÍA FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.808.938"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "987369642678",
+            "SOLICITUD": "5944749",
+            "CEDULA": "1941204089",
+            "NOMBRES": "OLGA CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "3.767.824",
+            "FIRMA ELLECTRONICA": "OLGA CASTELLANOS - 1941204089"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "987369642678",
+            "NOMBRES": "OLGA CASTELLANOS",
+            "CREDITO": "11.409.388",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "221.364",
+            "FIRMA ELLECTRONICA": "OLGA CASTELLANOS - 1941204089",
+            "AL PIE DE LA FIRMA": "OLGA CASTELLANOS - 1941204089"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1941204089",
+            "NOMBRES": "OLGA CASTELLANOS",
+            "FECHA NACIMIENTO": "23/07/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.409.388",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "OLGA CASTELLANOS - 1941204089",
+            "AL PIE DE LA FIRMA": "OLGA CASTELLANOS - 1941204089"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5944749",
+            "CEDULA": "1941204089",
+            "NOMBRES": "OLGA CASTELLANOS",
+            "CREDITO": "11.409.388",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "221.364",
+            "E.A": "28.82%",
+            "RECOMPRA O DESEMBOLSO": "3.767.824",
+            "FIRMA ELLECTRONICA": "OLGA CASTELLANOS - 1941204089"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1941204089",
+            "NOMBRES": "OLGA CASTELLANOS",
+            "FIRMA ELLECTRONICA": "OLGA CASTELLANOS - 1941204089"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1941204089",
+            "NOMBRES": "OLGA CASTELLANOS",
+            "FIRMA ELLECTRONICA": "OLGA CASTELLANOS - 1941204089",
+            "AL PIE DE LA FIRMA": "OLGA CASTELLANOS - 1941204089"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OLGA CASTELLANOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1941204089",
+            "NOMBRES": "OLGA CASTELLANOS",
+            "SALARIO": "3.502.666",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1941204089",
+            "NOMBRES": "OLGA CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "3.767.824"
+        }
+    }
+]

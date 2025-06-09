@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "222720382808",
+            "SOLICITUD": "6364118",
+            "CEDULA": "1996604282",
+            "NOMBRES": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE",
+            "RECOMPRA O DESEMBOLSO": "3.903.341",
+            "FIRMA ELLECTRONICA": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE - 1996604282"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "222720382808",
+            "NOMBRES": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE",
+            "CREDITO": "14.138.354",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "306.725",
+            "FIRMA ELLECTRONICA": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE - 1996604282",
+            "AL PIE DE LA FIRMA": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE - 1996604282"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1996604282",
+            "NOMBRES": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE",
+            "FECHA NACIMIENTO": "18/01/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.138.354",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE - 1996604282",
+            "AL PIE DE LA FIRMA": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE - 1996604282"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6364118",
+            "CEDULA": "1996604282",
+            "NOMBRES": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE",
+            "CREDITO": "14.138.354",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "306.725",
+            "E.A": "24.33%",
+            "RECOMPRA O DESEMBOLSO": "3.903.341",
+            "FIRMA ELLECTRONICA": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE - 1996604282"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1996604282",
+            "NOMBRES": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE",
+            "FIRMA ELLECTRONICA": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE - 1996604282"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1996604282",
+            "NOMBRES": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE",
+            "FIRMA ELLECTRONICA": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE - 1996604282",
+            "AL PIE DE LA FIRMA": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE - 1996604282"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1996604282",
+            "NOMBRES": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE",
+            "SALARIO": "4.571.272",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1996604282",
+            "NOMBRES": "IGNACIO ENRIQUE RAMÍREZ BUSTAMANTE",
+            "RECOMPRA O DESEMBOLSO": "3.903.341"
+        }
+    }
+]

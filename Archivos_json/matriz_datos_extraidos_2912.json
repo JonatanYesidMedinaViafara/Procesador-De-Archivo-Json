@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "150015273972",
+            "SOLICITUD": "8982111",
+            "CEDULA": "1836807452",
+            "NOMBRES": "ORLANDO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.743.204",
+            "FIRMA ELLECTRONICA": "ORLANDO RODRÍGUEZ - 1836807452"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "150015273972",
+            "NOMBRES": "ORLANDO RODRÍGUEZ",
+            "CREDITO": "19.756.866",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "247.997",
+            "FIRMA ELLECTRONICA": "ORLANDO RODRÍGUEZ - 1836807452",
+            "AL PIE DE LA FIRMA": "ORLANDO RODRÍGUEZ - 1836807452"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1836807452",
+            "NOMBRES": "ORLANDO RODRÍGUEZ",
+            "FECHA NACIMIENTO": "09/03/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.756.866",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ORLANDO RODRÍGUEZ - 1836807452",
+            "AL PIE DE LA FIRMA": "ORLANDO RODRÍGUEZ - 1836807452"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8982111",
+            "CEDULA": "1836807452",
+            "NOMBRES": "ORLANDO RODRÍGUEZ",
+            "CREDITO": "19.756.866",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "247.997",
+            "E.A": "18.2%",
+            "RECOMPRA O DESEMBOLSO": "2.743.204",
+            "FIRMA ELLECTRONICA": "ORLANDO RODRÍGUEZ - 1836807452"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1836807452",
+            "NOMBRES": "ORLANDO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ORLANDO RODRÍGUEZ - 1836807452"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1836807452",
+            "NOMBRES": "ORLANDO RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ORLANDO RODRÍGUEZ - 1836807452",
+            "AL PIE DE LA FIRMA": "ORLANDO RODRÍGUEZ - 1836807452"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ORLANDO RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1836807452",
+            "NOMBRES": "ORLANDO RODRÍGUEZ",
+            "SALARIO": "4.198.525",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1836807452",
+            "NOMBRES": "ORLANDO RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.743.204"
+        }
+    }
+]

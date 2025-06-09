@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "637637329195",
+            "SOLICITUD": "7754759",
+            "CEDULA": "1126582484",
+            "NOMBRES": "CARLOS MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.247.526",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1126582484"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "637637329195",
+            "NOMBRES": "CARLOS MORENO",
+            "CREDITO": "17.000.256",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "213.885",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1126582484",
+            "AL PIE DE LA FIRMA": "CARLOS MORENO - 1126582484"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1126582484",
+            "NOMBRES": "CARLOS MORENO",
+            "FECHA NACIMIENTO": "23/01/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.000.256",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1126582484",
+            "AL PIE DE LA FIRMA": "CARLOS MORENO - 1126582484"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7754759",
+            "CEDULA": "1126582484",
+            "NOMBRES": "CARLOS MORENO",
+            "CREDITO": "17.000.256",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "213.885",
+            "E.A": "18.75%",
+            "RECOMPRA O DESEMBOLSO": "3.247.526",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1126582484"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1126582484",
+            "NOMBRES": "CARLOS MORENO",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1126582484"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1126582484",
+            "NOMBRES": "CARLOS MORENO",
+            "FIRMA ELLECTRONICA": "CARLOS MORENO - 1126582484",
+            "AL PIE DE LA FIRMA": "CARLOS MORENO - 1126582484"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1126582484",
+            "NOMBRES": "CARLOS MORENO",
+            "SALARIO": "3.764.729",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1126582484",
+            "NOMBRES": "CARLOS MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.247.526"
+        }
+    }
+]

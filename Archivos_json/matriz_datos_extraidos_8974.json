@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "798209211200",
+            "SOLICITUD": "8729826",
+            "CEDULA": "1467636786",
+            "NOMBRES": "CRISTINA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.857.859",
+            "FIRMA ELLECTRONICA": "CRISTINA GARCÍA - 1467636786"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "798209211200",
+            "NOMBRES": "CRISTINA GARCÍA",
+            "CREDITO": "17.592.795",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "274.932",
+            "FIRMA ELLECTRONICA": "CRISTINA GARCÍA - 1467636786",
+            "AL PIE DE LA FIRMA": "CRISTINA GARCÍA - 1467636786"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1467636786",
+            "NOMBRES": "CRISTINA GARCÍA",
+            "FECHA NACIMIENTO": "29/06/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.592.795",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CRISTINA GARCÍA - 1467636786",
+            "AL PIE DE LA FIRMA": "CRISTINA GARCÍA - 1467636786"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8729826",
+            "CEDULA": "1467636786",
+            "NOMBRES": "CRISTINA GARCÍA",
+            "CREDITO": "17.592.795",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "274.932",
+            "E.A": "18.93%",
+            "RECOMPRA O DESEMBOLSO": "2.857.859",
+            "FIRMA ELLECTRONICA": "CRISTINA GARCÍA - 1467636786"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1467636786",
+            "NOMBRES": "CRISTINA GARCÍA",
+            "FIRMA ELLECTRONICA": "CRISTINA GARCÍA - 1467636786"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1467636786",
+            "NOMBRES": "CRISTINA GARCÍA",
+            "FIRMA ELLECTRONICA": "CRISTINA GARCÍA - 1467636786",
+            "AL PIE DE LA FIRMA": "CRISTINA GARCÍA - 1467636786"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTINA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1467636786",
+            "NOMBRES": "CRISTINA GARCÍA",
+            "SALARIO": "4.104.174",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1467636786",
+            "NOMBRES": "CRISTINA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.857.859"
+        }
+    }
+]

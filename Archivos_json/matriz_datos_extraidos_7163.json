@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "229095151291",
+            "SOLICITUD": "9562637",
+            "CEDULA": "1796143813",
+            "NOMBRES": "DIANA VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.224.298",
+            "FIRMA ELLECTRONICA": "DIANA VÁSQUEZ - 1796143813"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "229095151291",
+            "NOMBRES": "DIANA VÁSQUEZ",
+            "CREDITO": "12.386.098",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "340.792",
+            "FIRMA ELLECTRONICA": "DIANA VÁSQUEZ - 1796143813",
+            "AL PIE DE LA FIRMA": "DIANA VÁSQUEZ - 1796143813"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1796143813",
+            "NOMBRES": "DIANA VÁSQUEZ",
+            "FECHA NACIMIENTO": "05/08/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.386.098",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DIANA VÁSQUEZ - 1796143813",
+            "AL PIE DE LA FIRMA": "DIANA VÁSQUEZ - 1796143813"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9562637",
+            "CEDULA": "1796143813",
+            "NOMBRES": "DIANA VÁSQUEZ",
+            "CREDITO": "12.386.098",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "340.792",
+            "E.A": "28.66%",
+            "RECOMPRA O DESEMBOLSO": "3.224.298",
+            "FIRMA ELLECTRONICA": "DIANA VÁSQUEZ - 1796143813"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1796143813",
+            "NOMBRES": "DIANA VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "DIANA VÁSQUEZ - 1796143813"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1796143813",
+            "NOMBRES": "DIANA VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "DIANA VÁSQUEZ - 1796143813",
+            "AL PIE DE LA FIRMA": "DIANA VÁSQUEZ - 1796143813"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA VÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1796143813",
+            "NOMBRES": "DIANA VÁSQUEZ",
+            "SALARIO": "3.152.249",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1796143813",
+            "NOMBRES": "DIANA VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.224.298"
+        }
+    }
+]

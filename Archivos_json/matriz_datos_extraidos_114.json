@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "275982214952",
+            "SOLICITUD": "4498636",
+            "CEDULA": "1289950499",
+            "NOMBRES": "JOSÉ ALVARADO",
+            "RECOMPRA O DESEMBOLSO": "1.405.411",
+            "FIRMA ELLECTRONICA": "JOSÉ ALVARADO - 1289950499"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "275982214952",
+            "NOMBRES": "JOSÉ ALVARADO",
+            "CREDITO": "12.897.517",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "326.37",
+            "FIRMA ELLECTRONICA": "JOSÉ ALVARADO - 1289950499",
+            "AL PIE DE LA FIRMA": "JOSÉ ALVARADO - 1289950499"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1289950499",
+            "NOMBRES": "JOSÉ ALVARADO",
+            "FECHA NACIMIENTO": "03/02/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.897.517",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ ALVARADO - 1289950499",
+            "AL PIE DE LA FIRMA": "JOSÉ ALVARADO - 1289950499"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4498636",
+            "CEDULA": "1289950499",
+            "NOMBRES": "JOSÉ ALVARADO",
+            "CREDITO": "12.897.517",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "326.37",
+            "E.A": "25.9%",
+            "RECOMPRA O DESEMBOLSO": "1.405.411",
+            "FIRMA ELLECTRONICA": "JOSÉ ALVARADO - 1289950499"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1289950499",
+            "NOMBRES": "JOSÉ ALVARADO",
+            "FIRMA ELLECTRONICA": "JOSÉ ALVARADO - 1289950499"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1289950499",
+            "NOMBRES": "JOSÉ ALVARADO",
+            "FIRMA ELLECTRONICA": "JOSÉ ALVARADO - 1289950499",
+            "AL PIE DE LA FIRMA": "JOSÉ ALVARADO - 1289950499"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ALVARADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1289950499",
+            "NOMBRES": "JOSÉ ALVARADO",
+            "SALARIO": "2.129.627",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1289950499",
+            "NOMBRES": "JOSÉ ALVARADO",
+            "RECOMPRA O DESEMBOLSO": "1.405.411"
+        }
+    }
+]

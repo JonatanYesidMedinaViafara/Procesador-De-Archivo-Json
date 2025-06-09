@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "969775338303",
+            "SOLICITUD": "5051560",
+            "CEDULA": "1077231550",
+            "NOMBRES": "FERNANDO ENRIQUE VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.183.698",
+            "FIRMA ELLECTRONICA": "FERNANDO ENRIQUE VARGAS - 1077231550"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "969775338303",
+            "NOMBRES": "FERNANDO ENRIQUE VARGAS",
+            "CREDITO": "17.921.702",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "168.562",
+            "FIRMA ELLECTRONICA": "FERNANDO ENRIQUE VARGAS - 1077231550",
+            "AL PIE DE LA FIRMA": "FERNANDO ENRIQUE VARGAS - 1077231550"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1077231550",
+            "NOMBRES": "FERNANDO ENRIQUE VARGAS",
+            "FECHA NACIMIENTO": "11/02/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.921.702",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNANDO ENRIQUE VARGAS - 1077231550",
+            "AL PIE DE LA FIRMA": "FERNANDO ENRIQUE VARGAS - 1077231550"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5051560",
+            "CEDULA": "1077231550",
+            "NOMBRES": "FERNANDO ENRIQUE VARGAS",
+            "CREDITO": "17.921.702",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "168.562",
+            "E.A": "28.73%",
+            "RECOMPRA O DESEMBOLSO": "3.183.698",
+            "FIRMA ELLECTRONICA": "FERNANDO ENRIQUE VARGAS - 1077231550"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1077231550",
+            "NOMBRES": "FERNANDO ENRIQUE VARGAS",
+            "FIRMA ELLECTRONICA": "FERNANDO ENRIQUE VARGAS - 1077231550"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1077231550",
+            "NOMBRES": "FERNANDO ENRIQUE VARGAS",
+            "FIRMA ELLECTRONICA": "FERNANDO ENRIQUE VARGAS - 1077231550",
+            "AL PIE DE LA FIRMA": "FERNANDO ENRIQUE VARGAS - 1077231550"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO ENRIQUE VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1077231550",
+            "NOMBRES": "FERNANDO ENRIQUE VARGAS",
+            "SALARIO": "2.713.540",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1077231550",
+            "NOMBRES": "FERNANDO ENRIQUE VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.183.698"
+        }
+    }
+]

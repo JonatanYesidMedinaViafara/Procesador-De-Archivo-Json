@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "215939277434",
+            "SOLICITUD": "9040403",
+            "CEDULA": "1850255111",
+            "NOMBRES": "FELIPE LUIS SIERRA",
+            "RECOMPRA O DESEMBOLSO": "3.118.440",
+            "FIRMA ELLECTRONICA": "FELIPE LUIS SIERRA - 1850255111"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "215939277434",
+            "NOMBRES": "FELIPE LUIS SIERRA",
+            "CREDITO": "15.562.607",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "340.299",
+            "FIRMA ELLECTRONICA": "FELIPE LUIS SIERRA - 1850255111",
+            "AL PIE DE LA FIRMA": "FELIPE LUIS SIERRA - 1850255111"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1850255111",
+            "NOMBRES": "FELIPE LUIS SIERRA",
+            "FECHA NACIMIENTO": "25/08/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.562.607",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FELIPE LUIS SIERRA - 1850255111",
+            "AL PIE DE LA FIRMA": "FELIPE LUIS SIERRA - 1850255111"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9040403",
+            "CEDULA": "1850255111",
+            "NOMBRES": "FELIPE LUIS SIERRA",
+            "CREDITO": "15.562.607",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "340.299",
+            "E.A": "19.39%",
+            "RECOMPRA O DESEMBOLSO": "3.118.440",
+            "FIRMA ELLECTRONICA": "FELIPE LUIS SIERRA - 1850255111"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1850255111",
+            "NOMBRES": "FELIPE LUIS SIERRA",
+            "FIRMA ELLECTRONICA": "FELIPE LUIS SIERRA - 1850255111"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1850255111",
+            "NOMBRES": "FELIPE LUIS SIERRA",
+            "FIRMA ELLECTRONICA": "FELIPE LUIS SIERRA - 1850255111",
+            "AL PIE DE LA FIRMA": "FELIPE LUIS SIERRA - 1850255111"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FELIPE LUIS SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1850255111",
+            "NOMBRES": "FELIPE LUIS SIERRA",
+            "SALARIO": "1.264.127",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1850255111",
+            "NOMBRES": "FELIPE LUIS SIERRA",
+            "RECOMPRA O DESEMBOLSO": "3.118.440"
+        }
+    }
+]

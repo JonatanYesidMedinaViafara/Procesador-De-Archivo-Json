@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "796927258209",
+            "SOLICITUD": "4438275",
+            "CEDULA": "1753310118",
+            "NOMBRES": "ANDREA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.478.906",
+            "FIRMA ELLECTRONICA": "ANDREA GARCÍA - 1753310118"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "796927258209",
+            "NOMBRES": "ANDREA GARCÍA",
+            "CREDITO": "12.030.054",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "368.804",
+            "FIRMA ELLECTRONICA": "ANDREA GARCÍA - 1753310118",
+            "AL PIE DE LA FIRMA": "ANDREA GARCÍA - 1753310118"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1753310118",
+            "NOMBRES": "ANDREA GARCÍA",
+            "FECHA NACIMIENTO": "26/07/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.030.054",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDREA GARCÍA - 1753310118",
+            "AL PIE DE LA FIRMA": "ANDREA GARCÍA - 1753310118"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4438275",
+            "CEDULA": "1753310118",
+            "NOMBRES": "ANDREA GARCÍA",
+            "CREDITO": "12.030.054",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "368.804",
+            "E.A": "24.32%",
+            "RECOMPRA O DESEMBOLSO": "1.478.906",
+            "FIRMA ELLECTRONICA": "ANDREA GARCÍA - 1753310118"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1753310118",
+            "NOMBRES": "ANDREA GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDREA GARCÍA - 1753310118"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1753310118",
+            "NOMBRES": "ANDREA GARCÍA",
+            "FIRMA ELLECTRONICA": "ANDREA GARCÍA - 1753310118",
+            "AL PIE DE LA FIRMA": "ANDREA GARCÍA - 1753310118"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1753310118",
+            "NOMBRES": "ANDREA GARCÍA",
+            "SALARIO": "3.153.240",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1753310118",
+            "NOMBRES": "ANDREA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.478.906"
+        }
+    }
+]

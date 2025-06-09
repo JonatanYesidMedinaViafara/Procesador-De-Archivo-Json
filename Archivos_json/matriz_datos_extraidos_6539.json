@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "306907870954",
+            "SOLICITUD": "9112893",
+            "CEDULA": "1802471107",
+            "NOMBRES": "CARLOS QUIROGA",
+            "RECOMPRA O DESEMBOLSO": "1.385.271",
+            "FIRMA ELLECTRONICA": "CARLOS QUIROGA - 1802471107"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "306907870954",
+            "NOMBRES": "CARLOS QUIROGA",
+            "CREDITO": "11.752.715",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "118.904",
+            "FIRMA ELLECTRONICA": "CARLOS QUIROGA - 1802471107",
+            "AL PIE DE LA FIRMA": "CARLOS QUIROGA - 1802471107"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1802471107",
+            "NOMBRES": "CARLOS QUIROGA",
+            "FECHA NACIMIENTO": "25/08/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.752.715",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARLOS QUIROGA - 1802471107",
+            "AL PIE DE LA FIRMA": "CARLOS QUIROGA - 1802471107"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9112893",
+            "CEDULA": "1802471107",
+            "NOMBRES": "CARLOS QUIROGA",
+            "CREDITO": "11.752.715",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "118.904",
+            "E.A": "26.52%",
+            "RECOMPRA O DESEMBOLSO": "1.385.271",
+            "FIRMA ELLECTRONICA": "CARLOS QUIROGA - 1802471107"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1802471107",
+            "NOMBRES": "CARLOS QUIROGA",
+            "FIRMA ELLECTRONICA": "CARLOS QUIROGA - 1802471107"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1802471107",
+            "NOMBRES": "CARLOS QUIROGA",
+            "FIRMA ELLECTRONICA": "CARLOS QUIROGA - 1802471107",
+            "AL PIE DE LA FIRMA": "CARLOS QUIROGA - 1802471107"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS QUIROGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1802471107",
+            "NOMBRES": "CARLOS QUIROGA",
+            "SALARIO": "3.161.074",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1802471107",
+            "NOMBRES": "CARLOS QUIROGA",
+            "RECOMPRA O DESEMBOLSO": "1.385.271"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "221307792797",
+            "SOLICITUD": "6365883",
+            "CEDULA": "1847709722",
+            "NOMBRES": "YOHANA FLÓREZ MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "4.919.067",
+            "FIRMA ELLECTRONICA": "YOHANA FLÓREZ MENDOZA - 1847709722"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "221307792797",
+            "NOMBRES": "YOHANA FLÓREZ MENDOZA",
+            "CREDITO": "16.062.985",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "338.566",
+            "FIRMA ELLECTRONICA": "YOHANA FLÓREZ MENDOZA - 1847709722",
+            "AL PIE DE LA FIRMA": "YOHANA FLÓREZ MENDOZA - 1847709722"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1847709722",
+            "NOMBRES": "YOHANA FLÓREZ MENDOZA",
+            "FECHA NACIMIENTO": "23/01/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.062.985",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "YOHANA FLÓREZ MENDOZA - 1847709722",
+            "AL PIE DE LA FIRMA": "YOHANA FLÓREZ MENDOZA - 1847709722"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6365883",
+            "CEDULA": "1847709722",
+            "NOMBRES": "YOHANA FLÓREZ MENDOZA",
+            "CREDITO": "16.062.985",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "338.566",
+            "E.A": "28.65%",
+            "RECOMPRA O DESEMBOLSO": "4.919.067",
+            "FIRMA ELLECTRONICA": "YOHANA FLÓREZ MENDOZA - 1847709722"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1847709722",
+            "NOMBRES": "YOHANA FLÓREZ MENDOZA",
+            "FIRMA ELLECTRONICA": "YOHANA FLÓREZ MENDOZA - 1847709722"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1847709722",
+            "NOMBRES": "YOHANA FLÓREZ MENDOZA",
+            "FIRMA ELLECTRONICA": "YOHANA FLÓREZ MENDOZA - 1847709722",
+            "AL PIE DE LA FIRMA": "YOHANA FLÓREZ MENDOZA - 1847709722"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YOHANA FLÓREZ MENDOZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1847709722",
+            "NOMBRES": "YOHANA FLÓREZ MENDOZA",
+            "SALARIO": "2.591.017",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1847709722",
+            "NOMBRES": "YOHANA FLÓREZ MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "4.919.067"
+        }
+    }
+]

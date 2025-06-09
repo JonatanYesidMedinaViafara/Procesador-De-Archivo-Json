@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "372198042068",
+            "SOLICITUD": "9019797",
+            "CEDULA": "1614041016",
+            "NOMBRES": "NÉSTOR JOSÉ PRIETO ROA",
+            "RECOMPRA O DESEMBOLSO": "2.731.567",
+            "FIRMA ELLECTRONICA": "NÉSTOR JOSÉ PRIETO ROA - 1614041016"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "372198042068",
+            "NOMBRES": "NÉSTOR JOSÉ PRIETO ROA",
+            "CREDITO": "5.590.443",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "365.829",
+            "FIRMA ELLECTRONICA": "NÉSTOR JOSÉ PRIETO ROA - 1614041016",
+            "AL PIE DE LA FIRMA": "NÉSTOR JOSÉ PRIETO ROA - 1614041016"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1614041016",
+            "NOMBRES": "NÉSTOR JOSÉ PRIETO ROA",
+            "FECHA NACIMIENTO": "21/08/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.590.443",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "NÉSTOR JOSÉ PRIETO ROA - 1614041016",
+            "AL PIE DE LA FIRMA": "NÉSTOR JOSÉ PRIETO ROA - 1614041016"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9019797",
+            "CEDULA": "1614041016",
+            "NOMBRES": "NÉSTOR JOSÉ PRIETO ROA",
+            "CREDITO": "5.590.443",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "365.829",
+            "E.A": "27.86%",
+            "RECOMPRA O DESEMBOLSO": "2.731.567",
+            "FIRMA ELLECTRONICA": "NÉSTOR JOSÉ PRIETO ROA - 1614041016"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1614041016",
+            "NOMBRES": "NÉSTOR JOSÉ PRIETO ROA",
+            "FIRMA ELLECTRONICA": "NÉSTOR JOSÉ PRIETO ROA - 1614041016"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1614041016",
+            "NOMBRES": "NÉSTOR JOSÉ PRIETO ROA",
+            "FIRMA ELLECTRONICA": "NÉSTOR JOSÉ PRIETO ROA - 1614041016",
+            "AL PIE DE LA FIRMA": "NÉSTOR JOSÉ PRIETO ROA - 1614041016"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NÉSTOR JOSÉ PRIETO ROA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1614041016",
+            "NOMBRES": "NÉSTOR JOSÉ PRIETO ROA",
+            "SALARIO": "4.330.026",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1614041016",
+            "NOMBRES": "NÉSTOR JOSÉ PRIETO ROA",
+            "RECOMPRA O DESEMBOLSO": "2.731.567"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "236067242308",
+            "SOLICITUD": "1072752",
+            "CEDULA": "1232383855",
+            "NOMBRES": "CAROLINA FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "3.353.788",
+            "FIRMA ELLECTRONICA": "CAROLINA FLÓREZ - 1232383855"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "236067242308",
+            "NOMBRES": "CAROLINA FLÓREZ",
+            "CREDITO": "15.378.362",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "296.992",
+            "FIRMA ELLECTRONICA": "CAROLINA FLÓREZ - 1232383855",
+            "AL PIE DE LA FIRMA": "CAROLINA FLÓREZ - 1232383855"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1232383855",
+            "NOMBRES": "CAROLINA FLÓREZ",
+            "FECHA NACIMIENTO": "20/11/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.378.362",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAROLINA FLÓREZ - 1232383855",
+            "AL PIE DE LA FIRMA": "CAROLINA FLÓREZ - 1232383855"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1072752",
+            "CEDULA": "1232383855",
+            "NOMBRES": "CAROLINA FLÓREZ",
+            "CREDITO": "15.378.362",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "296.992",
+            "E.A": "25.84%",
+            "RECOMPRA O DESEMBOLSO": "3.353.788",
+            "FIRMA ELLECTRONICA": "CAROLINA FLÓREZ - 1232383855"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1232383855",
+            "NOMBRES": "CAROLINA FLÓREZ",
+            "FIRMA ELLECTRONICA": "CAROLINA FLÓREZ - 1232383855"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1232383855",
+            "NOMBRES": "CAROLINA FLÓREZ",
+            "FIRMA ELLECTRONICA": "CAROLINA FLÓREZ - 1232383855",
+            "AL PIE DE LA FIRMA": "CAROLINA FLÓREZ - 1232383855"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAROLINA FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1232383855",
+            "NOMBRES": "CAROLINA FLÓREZ",
+            "SALARIO": "2.015.847",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1232383855",
+            "NOMBRES": "CAROLINA FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "3.353.788"
+        }
+    }
+]

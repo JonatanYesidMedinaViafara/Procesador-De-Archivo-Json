@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "688283278609",
+            "SOLICITUD": "2434250",
+            "CEDULA": "1189962634",
+            "NOMBRES": "SANTIAGO CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.444.486",
+            "FIRMA ELLECTRONICA": "SANTIAGO CALDERÓN - 1189962634"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "688283278609",
+            "NOMBRES": "SANTIAGO CALDERÓN",
+            "CREDITO": "13.895.199",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "397.942",
+            "FIRMA ELLECTRONICA": "SANTIAGO CALDERÓN - 1189962634",
+            "AL PIE DE LA FIRMA": "SANTIAGO CALDERÓN - 1189962634"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1189962634",
+            "NOMBRES": "SANTIAGO CALDERÓN",
+            "FECHA NACIMIENTO": "20/08/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.895.199",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SANTIAGO CALDERÓN - 1189962634",
+            "AL PIE DE LA FIRMA": "SANTIAGO CALDERÓN - 1189962634"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2434250",
+            "CEDULA": "1189962634",
+            "NOMBRES": "SANTIAGO CALDERÓN",
+            "CREDITO": "13.895.199",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "397.942",
+            "E.A": "22.56%",
+            "RECOMPRA O DESEMBOLSO": "4.444.486",
+            "FIRMA ELLECTRONICA": "SANTIAGO CALDERÓN - 1189962634"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1189962634",
+            "NOMBRES": "SANTIAGO CALDERÓN",
+            "FIRMA ELLECTRONICA": "SANTIAGO CALDERÓN - 1189962634"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1189962634",
+            "NOMBRES": "SANTIAGO CALDERÓN",
+            "FIRMA ELLECTRONICA": "SANTIAGO CALDERÓN - 1189962634",
+            "AL PIE DE LA FIRMA": "SANTIAGO CALDERÓN - 1189962634"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANTIAGO CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1189962634",
+            "NOMBRES": "SANTIAGO CALDERÓN",
+            "SALARIO": "3.223.918",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1189962634",
+            "NOMBRES": "SANTIAGO CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.444.486"
+        }
+    }
+]

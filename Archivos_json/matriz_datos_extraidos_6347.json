@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "829554627850",
+            "SOLICITUD": "9472850",
+            "CEDULA": "1054457000",
+            "NOMBRES": "LUIS CASTRO ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "4.075.825",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO ANDRADE - 1054457000"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "829554627850",
+            "NOMBRES": "LUIS CASTRO ANDRADE",
+            "CREDITO": "10.219.291",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "187.189",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO ANDRADE - 1054457000",
+            "AL PIE DE LA FIRMA": "LUIS CASTRO ANDRADE - 1054457000"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1054457000",
+            "NOMBRES": "LUIS CASTRO ANDRADE",
+            "FECHA NACIMIENTO": "28/02/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.219.291",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO ANDRADE - 1054457000",
+            "AL PIE DE LA FIRMA": "LUIS CASTRO ANDRADE - 1054457000"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9472850",
+            "CEDULA": "1054457000",
+            "NOMBRES": "LUIS CASTRO ANDRADE",
+            "CREDITO": "10.219.291",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "187.189",
+            "E.A": "18.67%",
+            "RECOMPRA O DESEMBOLSO": "4.075.825",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO ANDRADE - 1054457000"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1054457000",
+            "NOMBRES": "LUIS CASTRO ANDRADE",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO ANDRADE - 1054457000"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1054457000",
+            "NOMBRES": "LUIS CASTRO ANDRADE",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO ANDRADE - 1054457000",
+            "AL PIE DE LA FIRMA": "LUIS CASTRO ANDRADE - 1054457000"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS CASTRO ANDRADE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1054457000",
+            "NOMBRES": "LUIS CASTRO ANDRADE",
+            "SALARIO": "2.934.428",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1054457000",
+            "NOMBRES": "LUIS CASTRO ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "4.075.825"
+        }
+    }
+]

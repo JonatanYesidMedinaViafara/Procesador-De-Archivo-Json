@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "864366000099",
+            "SOLICITUD": "2575200",
+            "CEDULA": "1415090640",
+            "NOMBRES": "ELÍAS YEPES",
+            "RECOMPRA O DESEMBOLSO": "2.607.913",
+            "FIRMA ELLECTRONICA": "ELÍAS YEPES - 1415090640"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "864366000099",
+            "NOMBRES": "ELÍAS YEPES",
+            "CREDITO": "13.971.216",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "116.365",
+            "FIRMA ELLECTRONICA": "ELÍAS YEPES - 1415090640",
+            "AL PIE DE LA FIRMA": "ELÍAS YEPES - 1415090640"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1415090640",
+            "NOMBRES": "ELÍAS YEPES",
+            "FECHA NACIMIENTO": "31/12/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.971.216",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ELÍAS YEPES - 1415090640",
+            "AL PIE DE LA FIRMA": "ELÍAS YEPES - 1415090640"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2575200",
+            "CEDULA": "1415090640",
+            "NOMBRES": "ELÍAS YEPES",
+            "CREDITO": "13.971.216",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "116.365",
+            "E.A": "23.35%",
+            "RECOMPRA O DESEMBOLSO": "2.607.913",
+            "FIRMA ELLECTRONICA": "ELÍAS YEPES - 1415090640"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1415090640",
+            "NOMBRES": "ELÍAS YEPES",
+            "FIRMA ELLECTRONICA": "ELÍAS YEPES - 1415090640"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1415090640",
+            "NOMBRES": "ELÍAS YEPES",
+            "FIRMA ELLECTRONICA": "ELÍAS YEPES - 1415090640",
+            "AL PIE DE LA FIRMA": "ELÍAS YEPES - 1415090640"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELÍAS YEPES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1415090640",
+            "NOMBRES": "ELÍAS YEPES",
+            "SALARIO": "2.079.675",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1415090640",
+            "NOMBRES": "ELÍAS YEPES",
+            "RECOMPRA O DESEMBOLSO": "2.607.913"
+        }
+    }
+]

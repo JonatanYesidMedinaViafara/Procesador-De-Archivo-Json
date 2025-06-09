@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "900391247455",
+            "SOLICITUD": "8363271",
+            "CEDULA": "1684098971",
+            "NOMBRES": "BEATRIZ GARCÍA RAMOS",
+            "RECOMPRA O DESEMBOLSO": "3.539.993",
+            "FIRMA ELLECTRONICA": "BEATRIZ GARCÍA RAMOS - 1684098971"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "900391247455",
+            "NOMBRES": "BEATRIZ GARCÍA RAMOS",
+            "CREDITO": "16.825.207",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "241.594",
+            "FIRMA ELLECTRONICA": "BEATRIZ GARCÍA RAMOS - 1684098971",
+            "AL PIE DE LA FIRMA": "BEATRIZ GARCÍA RAMOS - 1684098971"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1684098971",
+            "NOMBRES": "BEATRIZ GARCÍA RAMOS",
+            "FECHA NACIMIENTO": "25/04/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.825.207",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "BEATRIZ GARCÍA RAMOS - 1684098971",
+            "AL PIE DE LA FIRMA": "BEATRIZ GARCÍA RAMOS - 1684098971"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8363271",
+            "CEDULA": "1684098971",
+            "NOMBRES": "BEATRIZ GARCÍA RAMOS",
+            "CREDITO": "16.825.207",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "241.594",
+            "E.A": "25.6%",
+            "RECOMPRA O DESEMBOLSO": "3.539.993",
+            "FIRMA ELLECTRONICA": "BEATRIZ GARCÍA RAMOS - 1684098971"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1684098971",
+            "NOMBRES": "BEATRIZ GARCÍA RAMOS",
+            "FIRMA ELLECTRONICA": "BEATRIZ GARCÍA RAMOS - 1684098971"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1684098971",
+            "NOMBRES": "BEATRIZ GARCÍA RAMOS",
+            "FIRMA ELLECTRONICA": "BEATRIZ GARCÍA RAMOS - 1684098971",
+            "AL PIE DE LA FIRMA": "BEATRIZ GARCÍA RAMOS - 1684098971"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BEATRIZ GARCÍA RAMOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1684098971",
+            "NOMBRES": "BEATRIZ GARCÍA RAMOS",
+            "SALARIO": "2.268.378",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1684098971",
+            "NOMBRES": "BEATRIZ GARCÍA RAMOS",
+            "RECOMPRA O DESEMBOLSO": "3.539.993"
+        }
+    }
+]

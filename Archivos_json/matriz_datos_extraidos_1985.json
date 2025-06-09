@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "988334908179",
+            "SOLICITUD": "1467351",
+            "CEDULA": "1189993824",
+            "NOMBRES": "ISABEL LILIANA PÉREZ OVIEDO",
+            "RECOMPRA O DESEMBOLSO": "1.900.860",
+            "FIRMA ELLECTRONICA": "ISABEL LILIANA PÉREZ OVIEDO - 1189993824"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "988334908179",
+            "NOMBRES": "ISABEL LILIANA PÉREZ OVIEDO",
+            "CREDITO": "7.911.682",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "368.695",
+            "FIRMA ELLECTRONICA": "ISABEL LILIANA PÉREZ OVIEDO - 1189993824",
+            "AL PIE DE LA FIRMA": "ISABEL LILIANA PÉREZ OVIEDO - 1189993824"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1189993824",
+            "NOMBRES": "ISABEL LILIANA PÉREZ OVIEDO",
+            "FECHA NACIMIENTO": "04/04/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.911.682",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ISABEL LILIANA PÉREZ OVIEDO - 1189993824",
+            "AL PIE DE LA FIRMA": "ISABEL LILIANA PÉREZ OVIEDO - 1189993824"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1467351",
+            "CEDULA": "1189993824",
+            "NOMBRES": "ISABEL LILIANA PÉREZ OVIEDO",
+            "CREDITO": "7.911.682",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "368.695",
+            "E.A": "20.26%",
+            "RECOMPRA O DESEMBOLSO": "1.900.860",
+            "FIRMA ELLECTRONICA": "ISABEL LILIANA PÉREZ OVIEDO - 1189993824"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1189993824",
+            "NOMBRES": "ISABEL LILIANA PÉREZ OVIEDO",
+            "FIRMA ELLECTRONICA": "ISABEL LILIANA PÉREZ OVIEDO - 1189993824"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1189993824",
+            "NOMBRES": "ISABEL LILIANA PÉREZ OVIEDO",
+            "FIRMA ELLECTRONICA": "ISABEL LILIANA PÉREZ OVIEDO - 1189993824",
+            "AL PIE DE LA FIRMA": "ISABEL LILIANA PÉREZ OVIEDO - 1189993824"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL LILIANA PÉREZ OVIEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1189993824",
+            "NOMBRES": "ISABEL LILIANA PÉREZ OVIEDO",
+            "SALARIO": "2.686.682",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1189993824",
+            "NOMBRES": "ISABEL LILIANA PÉREZ OVIEDO",
+            "RECOMPRA O DESEMBOLSO": "1.900.860"
+        }
+    }
+]

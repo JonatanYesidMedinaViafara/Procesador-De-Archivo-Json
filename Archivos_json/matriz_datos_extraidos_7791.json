@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "695176458338",
+            "SOLICITUD": "2579075",
+            "CEDULA": "1349050070",
+            "NOMBRES": "BLANCA TOVAR PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.236.227",
+            "FIRMA ELLECTRONICA": "BLANCA TOVAR PÉREZ - 1349050070"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "695176458338",
+            "NOMBRES": "BLANCA TOVAR PÉREZ",
+            "CREDITO": "14.290.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "333.551",
+            "FIRMA ELLECTRONICA": "BLANCA TOVAR PÉREZ - 1349050070",
+            "AL PIE DE LA FIRMA": "BLANCA TOVAR PÉREZ - 1349050070"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1349050070",
+            "NOMBRES": "BLANCA TOVAR PÉREZ",
+            "FECHA NACIMIENTO": "06/08/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.290.775",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "BLANCA TOVAR PÉREZ - 1349050070",
+            "AL PIE DE LA FIRMA": "BLANCA TOVAR PÉREZ - 1349050070"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2579075",
+            "CEDULA": "1349050070",
+            "NOMBRES": "BLANCA TOVAR PÉREZ",
+            "CREDITO": "14.290.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "333.551",
+            "E.A": "18.91%",
+            "RECOMPRA O DESEMBOLSO": "1.236.227",
+            "FIRMA ELLECTRONICA": "BLANCA TOVAR PÉREZ - 1349050070"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1349050070",
+            "NOMBRES": "BLANCA TOVAR PÉREZ",
+            "FIRMA ELLECTRONICA": "BLANCA TOVAR PÉREZ - 1349050070"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1349050070",
+            "NOMBRES": "BLANCA TOVAR PÉREZ",
+            "FIRMA ELLECTRONICA": "BLANCA TOVAR PÉREZ - 1349050070",
+            "AL PIE DE LA FIRMA": "BLANCA TOVAR PÉREZ - 1349050070"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BLANCA TOVAR PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1349050070",
+            "NOMBRES": "BLANCA TOVAR PÉREZ",
+            "SALARIO": "4.135.381",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1349050070",
+            "NOMBRES": "BLANCA TOVAR PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.236.227"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "910772487296",
+            "SOLICITUD": "9115483",
+            "CEDULA": "1403267594",
+            "NOMBRES": "MARIO JESÚS RODRÍGUEZ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.705.294",
+            "FIRMA ELLECTRONICA": "MARIO JESÚS RODRÍGUEZ GARCÍA - 1403267594"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "910772487296",
+            "NOMBRES": "MARIO JESÚS RODRÍGUEZ GARCÍA",
+            "CREDITO": "13.650.192",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "398.746",
+            "FIRMA ELLECTRONICA": "MARIO JESÚS RODRÍGUEZ GARCÍA - 1403267594",
+            "AL PIE DE LA FIRMA": "MARIO JESÚS RODRÍGUEZ GARCÍA - 1403267594"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1403267594",
+            "NOMBRES": "MARIO JESÚS RODRÍGUEZ GARCÍA",
+            "FECHA NACIMIENTO": "20/04/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.650.192",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARIO JESÚS RODRÍGUEZ GARCÍA - 1403267594",
+            "AL PIE DE LA FIRMA": "MARIO JESÚS RODRÍGUEZ GARCÍA - 1403267594"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9115483",
+            "CEDULA": "1403267594",
+            "NOMBRES": "MARIO JESÚS RODRÍGUEZ GARCÍA",
+            "CREDITO": "13.650.192",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "398.746",
+            "E.A": "28.63%",
+            "RECOMPRA O DESEMBOLSO": "2.705.294",
+            "FIRMA ELLECTRONICA": "MARIO JESÚS RODRÍGUEZ GARCÍA - 1403267594"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1403267594",
+            "NOMBRES": "MARIO JESÚS RODRÍGUEZ GARCÍA",
+            "FIRMA ELLECTRONICA": "MARIO JESÚS RODRÍGUEZ GARCÍA - 1403267594"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1403267594",
+            "NOMBRES": "MARIO JESÚS RODRÍGUEZ GARCÍA",
+            "FIRMA ELLECTRONICA": "MARIO JESÚS RODRÍGUEZ GARCÍA - 1403267594",
+            "AL PIE DE LA FIRMA": "MARIO JESÚS RODRÍGUEZ GARCÍA - 1403267594"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIO JESÚS RODRÍGUEZ GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1403267594",
+            "NOMBRES": "MARIO JESÚS RODRÍGUEZ GARCÍA",
+            "SALARIO": "4.213.086",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1403267594",
+            "NOMBRES": "MARIO JESÚS RODRÍGUEZ GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.705.294"
+        }
+    }
+]

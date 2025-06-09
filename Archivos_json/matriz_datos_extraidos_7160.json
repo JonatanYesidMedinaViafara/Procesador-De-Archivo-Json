@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "110996156917",
+            "SOLICITUD": "3566216",
+            "CEDULA": "1262367566",
+            "NOMBRES": "MARÍA GALINDO",
+            "RECOMPRA O DESEMBOLSO": "3.363.338",
+            "FIRMA ELLECTRONICA": "MARÍA GALINDO - 1262367566"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "110996156917",
+            "NOMBRES": "MARÍA GALINDO",
+            "CREDITO": "6.346.941",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "295.033",
+            "FIRMA ELLECTRONICA": "MARÍA GALINDO - 1262367566",
+            "AL PIE DE LA FIRMA": "MARÍA GALINDO - 1262367566"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1262367566",
+            "NOMBRES": "MARÍA GALINDO",
+            "FECHA NACIMIENTO": "30/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.346.941",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA GALINDO - 1262367566",
+            "AL PIE DE LA FIRMA": "MARÍA GALINDO - 1262367566"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3566216",
+            "CEDULA": "1262367566",
+            "NOMBRES": "MARÍA GALINDO",
+            "CREDITO": "6.346.941",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "295.033",
+            "E.A": "19.31%",
+            "RECOMPRA O DESEMBOLSO": "3.363.338",
+            "FIRMA ELLECTRONICA": "MARÍA GALINDO - 1262367566"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1262367566",
+            "NOMBRES": "MARÍA GALINDO",
+            "FIRMA ELLECTRONICA": "MARÍA GALINDO - 1262367566"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1262367566",
+            "NOMBRES": "MARÍA GALINDO",
+            "FIRMA ELLECTRONICA": "MARÍA GALINDO - 1262367566",
+            "AL PIE DE LA FIRMA": "MARÍA GALINDO - 1262367566"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA GALINDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1262367566",
+            "NOMBRES": "MARÍA GALINDO",
+            "SALARIO": "2.029.542",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1262367566",
+            "NOMBRES": "MARÍA GALINDO",
+            "RECOMPRA O DESEMBOLSO": "3.363.338"
+        }
+    }
+]

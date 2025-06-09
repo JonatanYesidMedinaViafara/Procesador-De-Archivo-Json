@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "312375987987",
+            "SOLICITUD": "7671715",
+            "CEDULA": "1652043268",
+            "NOMBRES": "NATALIA MENA",
+            "RECOMPRA O DESEMBOLSO": "2.105.032",
+            "FIRMA ELLECTRONICA": "NATALIA MENA - 1652043268"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "312375987987",
+            "NOMBRES": "NATALIA MENA",
+            "CREDITO": "18.404.038",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "333.45",
+            "FIRMA ELLECTRONICA": "NATALIA MENA - 1652043268",
+            "AL PIE DE LA FIRMA": "NATALIA MENA - 1652043268"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1652043268",
+            "NOMBRES": "NATALIA MENA",
+            "FECHA NACIMIENTO": "13/09/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.404.038",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "NATALIA MENA - 1652043268",
+            "AL PIE DE LA FIRMA": "NATALIA MENA - 1652043268"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7671715",
+            "CEDULA": "1652043268",
+            "NOMBRES": "NATALIA MENA",
+            "CREDITO": "18.404.038",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "333.45",
+            "E.A": "26.26%",
+            "RECOMPRA O DESEMBOLSO": "2.105.032",
+            "FIRMA ELLECTRONICA": "NATALIA MENA - 1652043268"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1652043268",
+            "NOMBRES": "NATALIA MENA",
+            "FIRMA ELLECTRONICA": "NATALIA MENA - 1652043268"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1652043268",
+            "NOMBRES": "NATALIA MENA",
+            "FIRMA ELLECTRONICA": "NATALIA MENA - 1652043268",
+            "AL PIE DE LA FIRMA": "NATALIA MENA - 1652043268"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NATALIA MENA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1652043268",
+            "NOMBRES": "NATALIA MENA",
+            "SALARIO": "2.070.450",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1652043268",
+            "NOMBRES": "NATALIA MENA",
+            "RECOMPRA O DESEMBOLSO": "2.105.032"
+        }
+    }
+]

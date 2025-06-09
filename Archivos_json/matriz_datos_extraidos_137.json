@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "756811584068",
+            "SOLICITUD": "5038609",
+            "CEDULA": "1259272345",
+            "NOMBRES": "JULIO ALBERTO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "4.575.604",
+            "FIRMA ELLECTRONICA": "JULIO ALBERTO RINCÓN - 1259272345"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "756811584068",
+            "NOMBRES": "JULIO ALBERTO RINCÓN",
+            "CREDITO": "10.196.464",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "187.815",
+            "FIRMA ELLECTRONICA": "JULIO ALBERTO RINCÓN - 1259272345",
+            "AL PIE DE LA FIRMA": "JULIO ALBERTO RINCÓN - 1259272345"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1259272345",
+            "NOMBRES": "JULIO ALBERTO RINCÓN",
+            "FECHA NACIMIENTO": "08/08/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.196.464",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JULIO ALBERTO RINCÓN - 1259272345",
+            "AL PIE DE LA FIRMA": "JULIO ALBERTO RINCÓN - 1259272345"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5038609",
+            "CEDULA": "1259272345",
+            "NOMBRES": "JULIO ALBERTO RINCÓN",
+            "CREDITO": "10.196.464",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "187.815",
+            "E.A": "26.78%",
+            "RECOMPRA O DESEMBOLSO": "4.575.604",
+            "FIRMA ELLECTRONICA": "JULIO ALBERTO RINCÓN - 1259272345"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1259272345",
+            "NOMBRES": "JULIO ALBERTO RINCÓN",
+            "FIRMA ELLECTRONICA": "JULIO ALBERTO RINCÓN - 1259272345"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1259272345",
+            "NOMBRES": "JULIO ALBERTO RINCÓN",
+            "FIRMA ELLECTRONICA": "JULIO ALBERTO RINCÓN - 1259272345",
+            "AL PIE DE LA FIRMA": "JULIO ALBERTO RINCÓN - 1259272345"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO ALBERTO RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1259272345",
+            "NOMBRES": "JULIO ALBERTO RINCÓN",
+            "SALARIO": "4.240.749",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1259272345",
+            "NOMBRES": "JULIO ALBERTO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "4.575.604"
+        }
+    }
+]

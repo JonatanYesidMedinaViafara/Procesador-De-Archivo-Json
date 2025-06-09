@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "556965083486",
+            "SOLICITUD": "7262314",
+            "CEDULA": "1261769590",
+            "NOMBRES": "ALEJANDRA MARÍA ANAYA",
+            "RECOMPRA O DESEMBOLSO": "1.442.961",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARÍA ANAYA - 1261769590"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "556965083486",
+            "NOMBRES": "ALEJANDRA MARÍA ANAYA",
+            "CREDITO": "5.309.524",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "267.228",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARÍA ANAYA - 1261769590",
+            "AL PIE DE LA FIRMA": "ALEJANDRA MARÍA ANAYA - 1261769590"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1261769590",
+            "NOMBRES": "ALEJANDRA MARÍA ANAYA",
+            "FECHA NACIMIENTO": "03/02/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.309.524",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARÍA ANAYA - 1261769590",
+            "AL PIE DE LA FIRMA": "ALEJANDRA MARÍA ANAYA - 1261769590"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7262314",
+            "CEDULA": "1261769590",
+            "NOMBRES": "ALEJANDRA MARÍA ANAYA",
+            "CREDITO": "5.309.524",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "267.228",
+            "E.A": "26.26%",
+            "RECOMPRA O DESEMBOLSO": "1.442.961",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARÍA ANAYA - 1261769590"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1261769590",
+            "NOMBRES": "ALEJANDRA MARÍA ANAYA",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARÍA ANAYA - 1261769590"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1261769590",
+            "NOMBRES": "ALEJANDRA MARÍA ANAYA",
+            "FIRMA ELLECTRONICA": "ALEJANDRA MARÍA ANAYA - 1261769590",
+            "AL PIE DE LA FIRMA": "ALEJANDRA MARÍA ANAYA - 1261769590"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRA MARÍA ANAYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1261769590",
+            "NOMBRES": "ALEJANDRA MARÍA ANAYA",
+            "SALARIO": "2.920.508",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "08/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1261769590",
+            "NOMBRES": "ALEJANDRA MARÍA ANAYA",
+            "RECOMPRA O DESEMBOLSO": "1.442.961"
+        }
+    }
+]

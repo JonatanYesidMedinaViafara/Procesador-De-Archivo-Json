@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "899930760937",
+            "SOLICITUD": "4987161",
+            "CEDULA": "1987601737",
+            "NOMBRES": "PIEDAD SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.644.273",
+            "FIRMA ELLECTRONICA": "PIEDAD SUÁREZ - 1987601737"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "899930760937",
+            "NOMBRES": "PIEDAD SUÁREZ",
+            "CREDITO": "17.736.194",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "345.912",
+            "FIRMA ELLECTRONICA": "PIEDAD SUÁREZ - 1987601737",
+            "AL PIE DE LA FIRMA": "PIEDAD SUÁREZ - 1987601737"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1987601737",
+            "NOMBRES": "PIEDAD SUÁREZ",
+            "FECHA NACIMIENTO": "31/01/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.736.194",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "PIEDAD SUÁREZ - 1987601737",
+            "AL PIE DE LA FIRMA": "PIEDAD SUÁREZ - 1987601737"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4987161",
+            "CEDULA": "1987601737",
+            "NOMBRES": "PIEDAD SUÁREZ",
+            "CREDITO": "17.736.194",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "345.912",
+            "E.A": "26.09%",
+            "RECOMPRA O DESEMBOLSO": "1.644.273",
+            "FIRMA ELLECTRONICA": "PIEDAD SUÁREZ - 1987601737"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1987601737",
+            "NOMBRES": "PIEDAD SUÁREZ",
+            "FIRMA ELLECTRONICA": "PIEDAD SUÁREZ - 1987601737"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1987601737",
+            "NOMBRES": "PIEDAD SUÁREZ",
+            "FIRMA ELLECTRONICA": "PIEDAD SUÁREZ - 1987601737",
+            "AL PIE DE LA FIRMA": "PIEDAD SUÁREZ - 1987601737"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PIEDAD SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1987601737",
+            "NOMBRES": "PIEDAD SUÁREZ",
+            "SALARIO": "4.768.255",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1987601737",
+            "NOMBRES": "PIEDAD SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "1.644.273"
+        }
+    }
+]

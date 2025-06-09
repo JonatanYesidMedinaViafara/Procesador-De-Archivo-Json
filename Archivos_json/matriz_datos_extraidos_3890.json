@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "196850259815",
+            "SOLICITUD": "1434690",
+            "CEDULA": "1220021564",
+            "NOMBRES": "ANDRÉS BEDOYA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "4.313.349",
+            "FIRMA ELLECTRONICA": "ANDRÉS BEDOYA RUIZ - 1220021564"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "196850259815",
+            "NOMBRES": "ANDRÉS BEDOYA RUIZ",
+            "CREDITO": "9.833.515",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "285.587",
+            "FIRMA ELLECTRONICA": "ANDRÉS BEDOYA RUIZ - 1220021564",
+            "AL PIE DE LA FIRMA": "ANDRÉS BEDOYA RUIZ - 1220021564"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1220021564",
+            "NOMBRES": "ANDRÉS BEDOYA RUIZ",
+            "FECHA NACIMIENTO": "22/03/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.833.515",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS BEDOYA RUIZ - 1220021564",
+            "AL PIE DE LA FIRMA": "ANDRÉS BEDOYA RUIZ - 1220021564"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1434690",
+            "CEDULA": "1220021564",
+            "NOMBRES": "ANDRÉS BEDOYA RUIZ",
+            "CREDITO": "9.833.515",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "285.587",
+            "E.A": "24.66%",
+            "RECOMPRA O DESEMBOLSO": "4.313.349",
+            "FIRMA ELLECTRONICA": "ANDRÉS BEDOYA RUIZ - 1220021564"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1220021564",
+            "NOMBRES": "ANDRÉS BEDOYA RUIZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS BEDOYA RUIZ - 1220021564"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1220021564",
+            "NOMBRES": "ANDRÉS BEDOYA RUIZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS BEDOYA RUIZ - 1220021564",
+            "AL PIE DE LA FIRMA": "ANDRÉS BEDOYA RUIZ - 1220021564"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS BEDOYA RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1220021564",
+            "NOMBRES": "ANDRÉS BEDOYA RUIZ",
+            "SALARIO": "1.283.385",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1220021564",
+            "NOMBRES": "ANDRÉS BEDOYA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "4.313.349"
+        }
+    }
+]

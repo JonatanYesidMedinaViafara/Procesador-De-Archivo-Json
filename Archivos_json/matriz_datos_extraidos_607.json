@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "549078015987",
+            "SOLICITUD": "1562309",
+            "CEDULA": "1760527477",
+            "NOMBRES": "CARLOS LEONARDO RANGEL CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.786.269",
+            "FIRMA ELLECTRONICA": "CARLOS LEONARDO RANGEL CARRILLO - 1760527477"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "549078015987",
+            "NOMBRES": "CARLOS LEONARDO RANGEL CARRILLO",
+            "CREDITO": "12.668.759",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "309.365",
+            "FIRMA ELLECTRONICA": "CARLOS LEONARDO RANGEL CARRILLO - 1760527477",
+            "AL PIE DE LA FIRMA": "CARLOS LEONARDO RANGEL CARRILLO - 1760527477"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1760527477",
+            "NOMBRES": "CARLOS LEONARDO RANGEL CARRILLO",
+            "FECHA NACIMIENTO": "05/04/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.668.759",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS LEONARDO RANGEL CARRILLO - 1760527477",
+            "AL PIE DE LA FIRMA": "CARLOS LEONARDO RANGEL CARRILLO - 1760527477"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1562309",
+            "CEDULA": "1760527477",
+            "NOMBRES": "CARLOS LEONARDO RANGEL CARRILLO",
+            "CREDITO": "12.668.759",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "309.365",
+            "E.A": "27.46%",
+            "RECOMPRA O DESEMBOLSO": "3.786.269",
+            "FIRMA ELLECTRONICA": "CARLOS LEONARDO RANGEL CARRILLO - 1760527477"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1760527477",
+            "NOMBRES": "CARLOS LEONARDO RANGEL CARRILLO",
+            "FIRMA ELLECTRONICA": "CARLOS LEONARDO RANGEL CARRILLO - 1760527477"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1760527477",
+            "NOMBRES": "CARLOS LEONARDO RANGEL CARRILLO",
+            "FIRMA ELLECTRONICA": "CARLOS LEONARDO RANGEL CARRILLO - 1760527477",
+            "AL PIE DE LA FIRMA": "CARLOS LEONARDO RANGEL CARRILLO - 1760527477"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS LEONARDO RANGEL CARRILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1760527477",
+            "NOMBRES": "CARLOS LEONARDO RANGEL CARRILLO",
+            "SALARIO": "1.519.110",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1760527477",
+            "NOMBRES": "CARLOS LEONARDO RANGEL CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.786.269"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "883803806351",
+            "SOLICITUD": "9781108",
+            "CEDULA": "1965146194",
+            "NOMBRES": "MICHAEL FRANK HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.526.625",
+            "FIRMA ELLECTRONICA": "MICHAEL FRANK HERNÁNDEZ - 1965146194"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "883803806351",
+            "NOMBRES": "MICHAEL FRANK HERNÁNDEZ",
+            "CREDITO": "6.632.746",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "175.799",
+            "FIRMA ELLECTRONICA": "MICHAEL FRANK HERNÁNDEZ - 1965146194",
+            "AL PIE DE LA FIRMA": "MICHAEL FRANK HERNÁNDEZ - 1965146194"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1965146194",
+            "NOMBRES": "MICHAEL FRANK HERNÁNDEZ",
+            "FECHA NACIMIENTO": "26/08/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.632.746",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MICHAEL FRANK HERNÁNDEZ - 1965146194",
+            "AL PIE DE LA FIRMA": "MICHAEL FRANK HERNÁNDEZ - 1965146194"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9781108",
+            "CEDULA": "1965146194",
+            "NOMBRES": "MICHAEL FRANK HERNÁNDEZ",
+            "CREDITO": "6.632.746",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "175.799",
+            "E.A": "18.09%",
+            "RECOMPRA O DESEMBOLSO": "1.526.625",
+            "FIRMA ELLECTRONICA": "MICHAEL FRANK HERNÁNDEZ - 1965146194"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1965146194",
+            "NOMBRES": "MICHAEL FRANK HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MICHAEL FRANK HERNÁNDEZ - 1965146194"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1965146194",
+            "NOMBRES": "MICHAEL FRANK HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MICHAEL FRANK HERNÁNDEZ - 1965146194",
+            "AL PIE DE LA FIRMA": "MICHAEL FRANK HERNÁNDEZ - 1965146194"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MICHAEL FRANK HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1965146194",
+            "NOMBRES": "MICHAEL FRANK HERNÁNDEZ",
+            "SALARIO": "2.577.445",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1965146194",
+            "NOMBRES": "MICHAEL FRANK HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.526.625"
+        }
+    }
+]

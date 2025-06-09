@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "790976246717",
+            "SOLICITUD": "7335304",
+            "CEDULA": "1083910241",
+            "NOMBRES": "ANDRÉS ANDRÉS JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "1.516.904",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS JARAMILLO - 1083910241"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "790976246717",
+            "NOMBRES": "ANDRÉS ANDRÉS JARAMILLO",
+            "CREDITO": "8.418.463",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "389.11",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS JARAMILLO - 1083910241",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDRÉS JARAMILLO - 1083910241"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1083910241",
+            "NOMBRES": "ANDRÉS ANDRÉS JARAMILLO",
+            "FECHA NACIMIENTO": "21/08/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.418.463",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS JARAMILLO - 1083910241",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDRÉS JARAMILLO - 1083910241"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7335304",
+            "CEDULA": "1083910241",
+            "NOMBRES": "ANDRÉS ANDRÉS JARAMILLO",
+            "CREDITO": "8.418.463",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "389.11",
+            "E.A": "21.31%",
+            "RECOMPRA O DESEMBOLSO": "1.516.904",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS JARAMILLO - 1083910241"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1083910241",
+            "NOMBRES": "ANDRÉS ANDRÉS JARAMILLO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS JARAMILLO - 1083910241"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1083910241",
+            "NOMBRES": "ANDRÉS ANDRÉS JARAMILLO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS JARAMILLO - 1083910241",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDRÉS JARAMILLO - 1083910241"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ANDRÉS JARAMILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1083910241",
+            "NOMBRES": "ANDRÉS ANDRÉS JARAMILLO",
+            "SALARIO": "1.754.865",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1083910241",
+            "NOMBRES": "ANDRÉS ANDRÉS JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "1.516.904"
+        }
+    }
+]

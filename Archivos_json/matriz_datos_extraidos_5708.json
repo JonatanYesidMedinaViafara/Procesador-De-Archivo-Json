@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "621900889376",
+            "SOLICITUD": "7797846",
+            "CEDULA": "1301838499",
+            "NOMBRES": "LUZ VÁSQUEZ SIERRA",
+            "RECOMPRA O DESEMBOLSO": "2.898.533",
+            "FIRMA ELLECTRONICA": "LUZ VÁSQUEZ SIERRA - 1301838499"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "621900889376",
+            "NOMBRES": "LUZ VÁSQUEZ SIERRA",
+            "CREDITO": "13.632.454",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "189.673",
+            "FIRMA ELLECTRONICA": "LUZ VÁSQUEZ SIERRA - 1301838499",
+            "AL PIE DE LA FIRMA": "LUZ VÁSQUEZ SIERRA - 1301838499"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1301838499",
+            "NOMBRES": "LUZ VÁSQUEZ SIERRA",
+            "FECHA NACIMIENTO": "02/06/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.632.454",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUZ VÁSQUEZ SIERRA - 1301838499",
+            "AL PIE DE LA FIRMA": "LUZ VÁSQUEZ SIERRA - 1301838499"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7797846",
+            "CEDULA": "1301838499",
+            "NOMBRES": "LUZ VÁSQUEZ SIERRA",
+            "CREDITO": "13.632.454",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "189.673",
+            "E.A": "18.87%",
+            "RECOMPRA O DESEMBOLSO": "2.898.533",
+            "FIRMA ELLECTRONICA": "LUZ VÁSQUEZ SIERRA - 1301838499"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1301838499",
+            "NOMBRES": "LUZ VÁSQUEZ SIERRA",
+            "FIRMA ELLECTRONICA": "LUZ VÁSQUEZ SIERRA - 1301838499"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1301838499",
+            "NOMBRES": "LUZ VÁSQUEZ SIERRA",
+            "FIRMA ELLECTRONICA": "LUZ VÁSQUEZ SIERRA - 1301838499",
+            "AL PIE DE LA FIRMA": "LUZ VÁSQUEZ SIERRA - 1301838499"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ VÁSQUEZ SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1301838499",
+            "NOMBRES": "LUZ VÁSQUEZ SIERRA",
+            "SALARIO": "1.023.055",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1301838499",
+            "NOMBRES": "LUZ VÁSQUEZ SIERRA",
+            "RECOMPRA O DESEMBOLSO": "2.898.533"
+        }
+    }
+]

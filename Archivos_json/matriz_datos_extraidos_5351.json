@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "559371890865",
+            "SOLICITUD": "9672455",
+            "CEDULA": "1761406211",
+            "NOMBRES": "ROSA MARÍA GUERRA",
+            "RECOMPRA O DESEMBOLSO": "1.154.627",
+            "FIRMA ELLECTRONICA": "ROSA MARÍA GUERRA - 1761406211"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "559371890865",
+            "NOMBRES": "ROSA MARÍA GUERRA",
+            "CREDITO": "14.094.334",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "372.695",
+            "FIRMA ELLECTRONICA": "ROSA MARÍA GUERRA - 1761406211",
+            "AL PIE DE LA FIRMA": "ROSA MARÍA GUERRA - 1761406211"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1761406211",
+            "NOMBRES": "ROSA MARÍA GUERRA",
+            "FECHA NACIMIENTO": "18/11/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.094.334",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ROSA MARÍA GUERRA - 1761406211",
+            "AL PIE DE LA FIRMA": "ROSA MARÍA GUERRA - 1761406211"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9672455",
+            "CEDULA": "1761406211",
+            "NOMBRES": "ROSA MARÍA GUERRA",
+            "CREDITO": "14.094.334",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "372.695",
+            "E.A": "25.19%",
+            "RECOMPRA O DESEMBOLSO": "1.154.627",
+            "FIRMA ELLECTRONICA": "ROSA MARÍA GUERRA - 1761406211"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1761406211",
+            "NOMBRES": "ROSA MARÍA GUERRA",
+            "FIRMA ELLECTRONICA": "ROSA MARÍA GUERRA - 1761406211"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1761406211",
+            "NOMBRES": "ROSA MARÍA GUERRA",
+            "FIRMA ELLECTRONICA": "ROSA MARÍA GUERRA - 1761406211",
+            "AL PIE DE LA FIRMA": "ROSA MARÍA GUERRA - 1761406211"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSA MARÍA GUERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1761406211",
+            "NOMBRES": "ROSA MARÍA GUERRA",
+            "SALARIO": "4.912.846",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1761406211",
+            "NOMBRES": "ROSA MARÍA GUERRA",
+            "RECOMPRA O DESEMBOLSO": "1.154.627"
+        }
+    }
+]

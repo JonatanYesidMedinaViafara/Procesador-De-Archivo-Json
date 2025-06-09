@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "589852886330",
+            "SOLICITUD": "5839819",
+            "CEDULA": "1206996637",
+            "NOMBRES": "JEFFERSON GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.544.967",
+            "FIRMA ELLECTRONICA": "JEFFERSON GÓMEZ - 1206996637"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "589852886330",
+            "NOMBRES": "JEFFERSON GÓMEZ",
+            "CREDITO": "19.797.789",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "202.268",
+            "FIRMA ELLECTRONICA": "JEFFERSON GÓMEZ - 1206996637",
+            "AL PIE DE LA FIRMA": "JEFFERSON GÓMEZ - 1206996637"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1206996637",
+            "NOMBRES": "JEFFERSON GÓMEZ",
+            "FECHA NACIMIENTO": "09/01/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.797.789",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JEFFERSON GÓMEZ - 1206996637",
+            "AL PIE DE LA FIRMA": "JEFFERSON GÓMEZ - 1206996637"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5839819",
+            "CEDULA": "1206996637",
+            "NOMBRES": "JEFFERSON GÓMEZ",
+            "CREDITO": "19.797.789",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "202.268",
+            "E.A": "22.2%",
+            "RECOMPRA O DESEMBOLSO": "1.544.967",
+            "FIRMA ELLECTRONICA": "JEFFERSON GÓMEZ - 1206996637"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1206996637",
+            "NOMBRES": "JEFFERSON GÓMEZ",
+            "FIRMA ELLECTRONICA": "JEFFERSON GÓMEZ - 1206996637"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1206996637",
+            "NOMBRES": "JEFFERSON GÓMEZ",
+            "FIRMA ELLECTRONICA": "JEFFERSON GÓMEZ - 1206996637",
+            "AL PIE DE LA FIRMA": "JEFFERSON GÓMEZ - 1206996637"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JEFFERSON GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1206996637",
+            "NOMBRES": "JEFFERSON GÓMEZ",
+            "SALARIO": "4.087.824",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1206996637",
+            "NOMBRES": "JEFFERSON GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.544.967"
+        }
+    }
+]

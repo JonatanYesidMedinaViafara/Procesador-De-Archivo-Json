@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "463698297556",
+            "SOLICITUD": "5053498",
+            "CEDULA": "1969113231",
+            "NOMBRES": "MARÍA CHACÓN AGUDELO",
+            "RECOMPRA O DESEMBOLSO": "4.891.745",
+            "FIRMA ELLECTRONICA": "MARÍA CHACÓN AGUDELO - 1969113231"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "463698297556",
+            "NOMBRES": "MARÍA CHACÓN AGUDELO",
+            "CREDITO": "14.614.465",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "138.389",
+            "FIRMA ELLECTRONICA": "MARÍA CHACÓN AGUDELO - 1969113231",
+            "AL PIE DE LA FIRMA": "MARÍA CHACÓN AGUDELO - 1969113231"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1969113231",
+            "NOMBRES": "MARÍA CHACÓN AGUDELO",
+            "FECHA NACIMIENTO": "20/12/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.614.465",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA CHACÓN AGUDELO - 1969113231",
+            "AL PIE DE LA FIRMA": "MARÍA CHACÓN AGUDELO - 1969113231"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5053498",
+            "CEDULA": "1969113231",
+            "NOMBRES": "MARÍA CHACÓN AGUDELO",
+            "CREDITO": "14.614.465",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "138.389",
+            "E.A": "27.4%",
+            "RECOMPRA O DESEMBOLSO": "4.891.745",
+            "FIRMA ELLECTRONICA": "MARÍA CHACÓN AGUDELO - 1969113231"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1969113231",
+            "NOMBRES": "MARÍA CHACÓN AGUDELO",
+            "FIRMA ELLECTRONICA": "MARÍA CHACÓN AGUDELO - 1969113231"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1969113231",
+            "NOMBRES": "MARÍA CHACÓN AGUDELO",
+            "FIRMA ELLECTRONICA": "MARÍA CHACÓN AGUDELO - 1969113231",
+            "AL PIE DE LA FIRMA": "MARÍA CHACÓN AGUDELO - 1969113231"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CHACÓN AGUDELO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1969113231",
+            "NOMBRES": "MARÍA CHACÓN AGUDELO",
+            "SALARIO": "2.263.669",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1969113231",
+            "NOMBRES": "MARÍA CHACÓN AGUDELO",
+            "RECOMPRA O DESEMBOLSO": "4.891.745"
+        }
+    }
+]

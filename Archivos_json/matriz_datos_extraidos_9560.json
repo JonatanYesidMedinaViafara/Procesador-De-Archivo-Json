@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "501303738210",
+            "SOLICITUD": "7130771",
+            "CEDULA": "1853892434",
+            "NOMBRES": "AUGUSTO ANDRÉS SALGADO",
+            "RECOMPRA O DESEMBOLSO": "3.771.480",
+            "FIRMA ELLECTRONICA": "AUGUSTO ANDRÉS SALGADO - 1853892434"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "501303738210",
+            "NOMBRES": "AUGUSTO ANDRÉS SALGADO",
+            "CREDITO": "8.737.279",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "186.9",
+            "FIRMA ELLECTRONICA": "AUGUSTO ANDRÉS SALGADO - 1853892434",
+            "AL PIE DE LA FIRMA": "AUGUSTO ANDRÉS SALGADO - 1853892434"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1853892434",
+            "NOMBRES": "AUGUSTO ANDRÉS SALGADO",
+            "FECHA NACIMIENTO": "10/08/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.737.279",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "AUGUSTO ANDRÉS SALGADO - 1853892434",
+            "AL PIE DE LA FIRMA": "AUGUSTO ANDRÉS SALGADO - 1853892434"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7130771",
+            "CEDULA": "1853892434",
+            "NOMBRES": "AUGUSTO ANDRÉS SALGADO",
+            "CREDITO": "8.737.279",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "186.9",
+            "E.A": "27.8%",
+            "RECOMPRA O DESEMBOLSO": "3.771.480",
+            "FIRMA ELLECTRONICA": "AUGUSTO ANDRÉS SALGADO - 1853892434"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1853892434",
+            "NOMBRES": "AUGUSTO ANDRÉS SALGADO",
+            "FIRMA ELLECTRONICA": "AUGUSTO ANDRÉS SALGADO - 1853892434"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1853892434",
+            "NOMBRES": "AUGUSTO ANDRÉS SALGADO",
+            "FIRMA ELLECTRONICA": "AUGUSTO ANDRÉS SALGADO - 1853892434",
+            "AL PIE DE LA FIRMA": "AUGUSTO ANDRÉS SALGADO - 1853892434"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AUGUSTO ANDRÉS SALGADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1853892434",
+            "NOMBRES": "AUGUSTO ANDRÉS SALGADO",
+            "SALARIO": "2.874.094",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1853892434",
+            "NOMBRES": "AUGUSTO ANDRÉS SALGADO",
+            "RECOMPRA O DESEMBOLSO": "3.771.480"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "958980908486",
+            "SOLICITUD": "2398392",
+            "CEDULA": "1709642490",
+            "NOMBRES": "CARMEN MALDONADO",
+            "RECOMPRA O DESEMBOLSO": "4.314.167",
+            "FIRMA ELLECTRONICA": "CARMEN MALDONADO - 1709642490"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "958980908486",
+            "NOMBRES": "CARMEN MALDONADO",
+            "CREDITO": "13.300.252",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "183.42",
+            "FIRMA ELLECTRONICA": "CARMEN MALDONADO - 1709642490",
+            "AL PIE DE LA FIRMA": "CARMEN MALDONADO - 1709642490"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1709642490",
+            "NOMBRES": "CARMEN MALDONADO",
+            "FECHA NACIMIENTO": "27/01/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.300.252",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARMEN MALDONADO - 1709642490",
+            "AL PIE DE LA FIRMA": "CARMEN MALDONADO - 1709642490"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2398392",
+            "CEDULA": "1709642490",
+            "NOMBRES": "CARMEN MALDONADO",
+            "CREDITO": "13.300.252",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "183.42",
+            "E.A": "19.21%",
+            "RECOMPRA O DESEMBOLSO": "4.314.167",
+            "FIRMA ELLECTRONICA": "CARMEN MALDONADO - 1709642490"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1709642490",
+            "NOMBRES": "CARMEN MALDONADO",
+            "FIRMA ELLECTRONICA": "CARMEN MALDONADO - 1709642490"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1709642490",
+            "NOMBRES": "CARMEN MALDONADO",
+            "FIRMA ELLECTRONICA": "CARMEN MALDONADO - 1709642490",
+            "AL PIE DE LA FIRMA": "CARMEN MALDONADO - 1709642490"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN MALDONADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1709642490",
+            "NOMBRES": "CARMEN MALDONADO",
+            "SALARIO": "2.706.745",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "17/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1709642490",
+            "NOMBRES": "CARMEN MALDONADO",
+            "RECOMPRA O DESEMBOLSO": "4.314.167"
+        }
+    }
+]

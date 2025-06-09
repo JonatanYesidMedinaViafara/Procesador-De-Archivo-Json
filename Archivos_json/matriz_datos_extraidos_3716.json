@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "711725279324",
+            "SOLICITUD": "6862579",
+            "CEDULA": "1113374386",
+            "NOMBRES": "DANIEL JORGE BECERRA MORALES",
+            "RECOMPRA O DESEMBOLSO": "3.389.905",
+            "FIRMA ELLECTRONICA": "DANIEL JORGE BECERRA MORALES - 1113374386"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "711725279324",
+            "NOMBRES": "DANIEL JORGE BECERRA MORALES",
+            "CREDITO": "13.831.155",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "369.107",
+            "FIRMA ELLECTRONICA": "DANIEL JORGE BECERRA MORALES - 1113374386",
+            "AL PIE DE LA FIRMA": "DANIEL JORGE BECERRA MORALES - 1113374386"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1113374386",
+            "NOMBRES": "DANIEL JORGE BECERRA MORALES",
+            "FECHA NACIMIENTO": "30/10/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.831.155",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DANIEL JORGE BECERRA MORALES - 1113374386",
+            "AL PIE DE LA FIRMA": "DANIEL JORGE BECERRA MORALES - 1113374386"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6862579",
+            "CEDULA": "1113374386",
+            "NOMBRES": "DANIEL JORGE BECERRA MORALES",
+            "CREDITO": "13.831.155",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "369.107",
+            "E.A": "20.8%",
+            "RECOMPRA O DESEMBOLSO": "3.389.905",
+            "FIRMA ELLECTRONICA": "DANIEL JORGE BECERRA MORALES - 1113374386"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1113374386",
+            "NOMBRES": "DANIEL JORGE BECERRA MORALES",
+            "FIRMA ELLECTRONICA": "DANIEL JORGE BECERRA MORALES - 1113374386"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1113374386",
+            "NOMBRES": "DANIEL JORGE BECERRA MORALES",
+            "FIRMA ELLECTRONICA": "DANIEL JORGE BECERRA MORALES - 1113374386",
+            "AL PIE DE LA FIRMA": "DANIEL JORGE BECERRA MORALES - 1113374386"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL JORGE BECERRA MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1113374386",
+            "NOMBRES": "DANIEL JORGE BECERRA MORALES",
+            "SALARIO": "1.788.260",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1113374386",
+            "NOMBRES": "DANIEL JORGE BECERRA MORALES",
+            "RECOMPRA O DESEMBOLSO": "3.389.905"
+        }
+    }
+]

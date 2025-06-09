@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "833376499476",
+            "SOLICITUD": "3131376",
+            "CEDULA": "1824710139",
+            "NOMBRES": "ABEL LEÓN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.362.497",
+            "FIRMA ELLECTRONICA": "ABEL LEÓN GÓMEZ - 1824710139"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "833376499476",
+            "NOMBRES": "ABEL LEÓN GÓMEZ",
+            "CREDITO": "19.791.312",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "314.135",
+            "FIRMA ELLECTRONICA": "ABEL LEÓN GÓMEZ - 1824710139",
+            "AL PIE DE LA FIRMA": "ABEL LEÓN GÓMEZ - 1824710139"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1824710139",
+            "NOMBRES": "ABEL LEÓN GÓMEZ",
+            "FECHA NACIMIENTO": "19/09/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.791.312",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ABEL LEÓN GÓMEZ - 1824710139",
+            "AL PIE DE LA FIRMA": "ABEL LEÓN GÓMEZ - 1824710139"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3131376",
+            "CEDULA": "1824710139",
+            "NOMBRES": "ABEL LEÓN GÓMEZ",
+            "CREDITO": "19.791.312",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "314.135",
+            "E.A": "19.99%",
+            "RECOMPRA O DESEMBOLSO": "1.362.497",
+            "FIRMA ELLECTRONICA": "ABEL LEÓN GÓMEZ - 1824710139"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1824710139",
+            "NOMBRES": "ABEL LEÓN GÓMEZ",
+            "FIRMA ELLECTRONICA": "ABEL LEÓN GÓMEZ - 1824710139"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1824710139",
+            "NOMBRES": "ABEL LEÓN GÓMEZ",
+            "FIRMA ELLECTRONICA": "ABEL LEÓN GÓMEZ - 1824710139",
+            "AL PIE DE LA FIRMA": "ABEL LEÓN GÓMEZ - 1824710139"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ABEL LEÓN GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1824710139",
+            "NOMBRES": "ABEL LEÓN GÓMEZ",
+            "SALARIO": "3.219.233",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1824710139",
+            "NOMBRES": "ABEL LEÓN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.362.497"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "918864300806",
+            "SOLICITUD": "8060048",
+            "CEDULA": "1922082931",
+            "NOMBRES": "FERNANDO PORTILLA OCHOA",
+            "RECOMPRA O DESEMBOLSO": "1.635.232",
+            "FIRMA ELLECTRONICA": "FERNANDO PORTILLA OCHOA - 1922082931"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "918864300806",
+            "NOMBRES": "FERNANDO PORTILLA OCHOA",
+            "CREDITO": "12.774.708",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "333.451",
+            "FIRMA ELLECTRONICA": "FERNANDO PORTILLA OCHOA - 1922082931",
+            "AL PIE DE LA FIRMA": "FERNANDO PORTILLA OCHOA - 1922082931"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1922082931",
+            "NOMBRES": "FERNANDO PORTILLA OCHOA",
+            "FECHA NACIMIENTO": "24/08/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.774.708",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FERNANDO PORTILLA OCHOA - 1922082931",
+            "AL PIE DE LA FIRMA": "FERNANDO PORTILLA OCHOA - 1922082931"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8060048",
+            "CEDULA": "1922082931",
+            "NOMBRES": "FERNANDO PORTILLA OCHOA",
+            "CREDITO": "12.774.708",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "333.451",
+            "E.A": "28.35%",
+            "RECOMPRA O DESEMBOLSO": "1.635.232",
+            "FIRMA ELLECTRONICA": "FERNANDO PORTILLA OCHOA - 1922082931"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1922082931",
+            "NOMBRES": "FERNANDO PORTILLA OCHOA",
+            "FIRMA ELLECTRONICA": "FERNANDO PORTILLA OCHOA - 1922082931"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1922082931",
+            "NOMBRES": "FERNANDO PORTILLA OCHOA",
+            "FIRMA ELLECTRONICA": "FERNANDO PORTILLA OCHOA - 1922082931",
+            "AL PIE DE LA FIRMA": "FERNANDO PORTILLA OCHOA - 1922082931"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO PORTILLA OCHOA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1922082931",
+            "NOMBRES": "FERNANDO PORTILLA OCHOA",
+            "SALARIO": "1.831.573",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1922082931",
+            "NOMBRES": "FERNANDO PORTILLA OCHOA",
+            "RECOMPRA O DESEMBOLSO": "1.635.232"
+        }
+    }
+]

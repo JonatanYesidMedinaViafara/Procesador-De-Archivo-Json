@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "446002602776",
+            "SOLICITUD": "8017797",
+            "CEDULA": "1392765833",
+            "NOMBRES": "INÉS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.205.887",
+            "FIRMA ELLECTRONICA": "INÉS MARTÍNEZ - 1392765833"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "446002602776",
+            "NOMBRES": "INÉS MARTÍNEZ",
+            "CREDITO": "10.100.118",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "213.262",
+            "FIRMA ELLECTRONICA": "INÉS MARTÍNEZ - 1392765833",
+            "AL PIE DE LA FIRMA": "INÉS MARTÍNEZ - 1392765833"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1392765833",
+            "NOMBRES": "INÉS MARTÍNEZ",
+            "FECHA NACIMIENTO": "18/08/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.100.118",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "INÉS MARTÍNEZ - 1392765833",
+            "AL PIE DE LA FIRMA": "INÉS MARTÍNEZ - 1392765833"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8017797",
+            "CEDULA": "1392765833",
+            "NOMBRES": "INÉS MARTÍNEZ",
+            "CREDITO": "10.100.118",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "213.262",
+            "E.A": "18.52%",
+            "RECOMPRA O DESEMBOLSO": "4.205.887",
+            "FIRMA ELLECTRONICA": "INÉS MARTÍNEZ - 1392765833"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1392765833",
+            "NOMBRES": "INÉS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "INÉS MARTÍNEZ - 1392765833"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1392765833",
+            "NOMBRES": "INÉS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "INÉS MARTÍNEZ - 1392765833",
+            "AL PIE DE LA FIRMA": "INÉS MARTÍNEZ - 1392765833"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "INÉS MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1392765833",
+            "NOMBRES": "INÉS MARTÍNEZ",
+            "SALARIO": "2.134.872",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1392765833",
+            "NOMBRES": "INÉS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.205.887"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "814706794566",
+            "SOLICITUD": "6785302",
+            "CEDULA": "1992565106",
+            "NOMBRES": "ARMANDO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.550.582",
+            "FIRMA ELLECTRONICA": "ARMANDO SÁNCHEZ - 1992565106"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "814706794566",
+            "NOMBRES": "ARMANDO SÁNCHEZ",
+            "CREDITO": "9.535.876",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "328.884",
+            "FIRMA ELLECTRONICA": "ARMANDO SÁNCHEZ - 1992565106",
+            "AL PIE DE LA FIRMA": "ARMANDO SÁNCHEZ - 1992565106"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1992565106",
+            "NOMBRES": "ARMANDO SÁNCHEZ",
+            "FECHA NACIMIENTO": "18/09/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.535.876",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ARMANDO SÁNCHEZ - 1992565106",
+            "AL PIE DE LA FIRMA": "ARMANDO SÁNCHEZ - 1992565106"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6785302",
+            "CEDULA": "1992565106",
+            "NOMBRES": "ARMANDO SÁNCHEZ",
+            "CREDITO": "9.535.876",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "328.884",
+            "E.A": "25.3%",
+            "RECOMPRA O DESEMBOLSO": "2.550.582",
+            "FIRMA ELLECTRONICA": "ARMANDO SÁNCHEZ - 1992565106"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1992565106",
+            "NOMBRES": "ARMANDO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ARMANDO SÁNCHEZ - 1992565106"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1992565106",
+            "NOMBRES": "ARMANDO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ARMANDO SÁNCHEZ - 1992565106",
+            "AL PIE DE LA FIRMA": "ARMANDO SÁNCHEZ - 1992565106"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARMANDO SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1992565106",
+            "NOMBRES": "ARMANDO SÁNCHEZ",
+            "SALARIO": "4.005.323",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1992565106",
+            "NOMBRES": "ARMANDO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.550.582"
+        }
+    }
+]

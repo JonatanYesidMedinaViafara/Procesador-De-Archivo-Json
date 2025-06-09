@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "420969370224",
+            "SOLICITUD": "9217362",
+            "CEDULA": "1585615867",
+            "NOMBRES": "ESTEBAN CARMONA",
+            "RECOMPRA O DESEMBOLSO": "3.226.181",
+            "FIRMA ELLECTRONICA": "ESTEBAN CARMONA - 1585615867"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "420969370224",
+            "NOMBRES": "ESTEBAN CARMONA",
+            "CREDITO": "17.151.797",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "258.486",
+            "FIRMA ELLECTRONICA": "ESTEBAN CARMONA - 1585615867",
+            "AL PIE DE LA FIRMA": "ESTEBAN CARMONA - 1585615867"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1585615867",
+            "NOMBRES": "ESTEBAN CARMONA",
+            "FECHA NACIMIENTO": "12/09/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.151.797",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ESTEBAN CARMONA - 1585615867",
+            "AL PIE DE LA FIRMA": "ESTEBAN CARMONA - 1585615867"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9217362",
+            "CEDULA": "1585615867",
+            "NOMBRES": "ESTEBAN CARMONA",
+            "CREDITO": "17.151.797",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "258.486",
+            "E.A": "18.23%",
+            "RECOMPRA O DESEMBOLSO": "3.226.181",
+            "FIRMA ELLECTRONICA": "ESTEBAN CARMONA - 1585615867"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1585615867",
+            "NOMBRES": "ESTEBAN CARMONA",
+            "FIRMA ELLECTRONICA": "ESTEBAN CARMONA - 1585615867"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1585615867",
+            "NOMBRES": "ESTEBAN CARMONA",
+            "FIRMA ELLECTRONICA": "ESTEBAN CARMONA - 1585615867",
+            "AL PIE DE LA FIRMA": "ESTEBAN CARMONA - 1585615867"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTEBAN CARMONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1585615867",
+            "NOMBRES": "ESTEBAN CARMONA",
+            "SALARIO": "2.501.105",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1585615867",
+            "NOMBRES": "ESTEBAN CARMONA",
+            "RECOMPRA O DESEMBOLSO": "3.226.181"
+        }
+    }
+]

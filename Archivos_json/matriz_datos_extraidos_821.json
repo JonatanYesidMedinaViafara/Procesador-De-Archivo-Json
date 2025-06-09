@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "208356343102",
+            "SOLICITUD": "6111506",
+            "CEDULA": "1136875887",
+            "NOMBRES": "MARCO FELIPE REYES DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.659.359",
+            "FIRMA ELLECTRONICA": "MARCO FELIPE REYES DÍAZ - 1136875887"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "208356343102",
+            "NOMBRES": "MARCO FELIPE REYES DÍAZ",
+            "CREDITO": "15.564.205",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "169.466",
+            "FIRMA ELLECTRONICA": "MARCO FELIPE REYES DÍAZ - 1136875887",
+            "AL PIE DE LA FIRMA": "MARCO FELIPE REYES DÍAZ - 1136875887"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1136875887",
+            "NOMBRES": "MARCO FELIPE REYES DÍAZ",
+            "FECHA NACIMIENTO": "25/05/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.564.205",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARCO FELIPE REYES DÍAZ - 1136875887",
+            "AL PIE DE LA FIRMA": "MARCO FELIPE REYES DÍAZ - 1136875887"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6111506",
+            "CEDULA": "1136875887",
+            "NOMBRES": "MARCO FELIPE REYES DÍAZ",
+            "CREDITO": "15.564.205",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "169.466",
+            "E.A": "26.53%",
+            "RECOMPRA O DESEMBOLSO": "2.659.359",
+            "FIRMA ELLECTRONICA": "MARCO FELIPE REYES DÍAZ - 1136875887"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1136875887",
+            "NOMBRES": "MARCO FELIPE REYES DÍAZ",
+            "FIRMA ELLECTRONICA": "MARCO FELIPE REYES DÍAZ - 1136875887"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1136875887",
+            "NOMBRES": "MARCO FELIPE REYES DÍAZ",
+            "FIRMA ELLECTRONICA": "MARCO FELIPE REYES DÍAZ - 1136875887",
+            "AL PIE DE LA FIRMA": "MARCO FELIPE REYES DÍAZ - 1136875887"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCO FELIPE REYES DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1136875887",
+            "NOMBRES": "MARCO FELIPE REYES DÍAZ",
+            "SALARIO": "2.715.970",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1136875887",
+            "NOMBRES": "MARCO FELIPE REYES DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.659.359"
+        }
+    }
+]

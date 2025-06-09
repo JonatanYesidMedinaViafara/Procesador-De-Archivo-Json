@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "919058399881",
+            "SOLICITUD": "1068051",
+            "CEDULA": "1630016148",
+            "NOMBRES": "JAVIER MARTÍN RIVERA",
+            "RECOMPRA O DESEMBOLSO": "1.669.287",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍN RIVERA - 1630016148"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "919058399881",
+            "NOMBRES": "JAVIER MARTÍN RIVERA",
+            "CREDITO": "6.268.548",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "258.74",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍN RIVERA - 1630016148",
+            "AL PIE DE LA FIRMA": "JAVIER MARTÍN RIVERA - 1630016148"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1630016148",
+            "NOMBRES": "JAVIER MARTÍN RIVERA",
+            "FECHA NACIMIENTO": "07/06/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.268.548",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍN RIVERA - 1630016148",
+            "AL PIE DE LA FIRMA": "JAVIER MARTÍN RIVERA - 1630016148"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1068051",
+            "CEDULA": "1630016148",
+            "NOMBRES": "JAVIER MARTÍN RIVERA",
+            "CREDITO": "6.268.548",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "258.74",
+            "E.A": "18.98%",
+            "RECOMPRA O DESEMBOLSO": "1.669.287",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍN RIVERA - 1630016148"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1630016148",
+            "NOMBRES": "JAVIER MARTÍN RIVERA",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍN RIVERA - 1630016148"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1630016148",
+            "NOMBRES": "JAVIER MARTÍN RIVERA",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍN RIVERA - 1630016148",
+            "AL PIE DE LA FIRMA": "JAVIER MARTÍN RIVERA - 1630016148"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER MARTÍN RIVERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1630016148",
+            "NOMBRES": "JAVIER MARTÍN RIVERA",
+            "SALARIO": "4.144.721",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1630016148",
+            "NOMBRES": "JAVIER MARTÍN RIVERA",
+            "RECOMPRA O DESEMBOLSO": "1.669.287"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "872016709851",
+            "SOLICITUD": "2072390",
+            "CEDULA": "1933117476",
+            "NOMBRES": "MARÍA ROSA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.212.631",
+            "FIRMA ELLECTRONICA": "MARÍA ROSA GÓMEZ - 1933117476"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "872016709851",
+            "NOMBRES": "MARÍA ROSA GÓMEZ",
+            "CREDITO": "12.018.410",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "128.327",
+            "FIRMA ELLECTRONICA": "MARÍA ROSA GÓMEZ - 1933117476",
+            "AL PIE DE LA FIRMA": "MARÍA ROSA GÓMEZ - 1933117476"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1933117476",
+            "NOMBRES": "MARÍA ROSA GÓMEZ",
+            "FECHA NACIMIENTO": "05/01/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.018.410",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA ROSA GÓMEZ - 1933117476",
+            "AL PIE DE LA FIRMA": "MARÍA ROSA GÓMEZ - 1933117476"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2072390",
+            "CEDULA": "1933117476",
+            "NOMBRES": "MARÍA ROSA GÓMEZ",
+            "CREDITO": "12.018.410",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "128.327",
+            "E.A": "22.29%",
+            "RECOMPRA O DESEMBOLSO": "1.212.631",
+            "FIRMA ELLECTRONICA": "MARÍA ROSA GÓMEZ - 1933117476"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1933117476",
+            "NOMBRES": "MARÍA ROSA GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARÍA ROSA GÓMEZ - 1933117476"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1933117476",
+            "NOMBRES": "MARÍA ROSA GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARÍA ROSA GÓMEZ - 1933117476",
+            "AL PIE DE LA FIRMA": "MARÍA ROSA GÓMEZ - 1933117476"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ROSA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1933117476",
+            "NOMBRES": "MARÍA ROSA GÓMEZ",
+            "SALARIO": "1.095.467",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1933117476",
+            "NOMBRES": "MARÍA ROSA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.212.631"
+        }
+    }
+]

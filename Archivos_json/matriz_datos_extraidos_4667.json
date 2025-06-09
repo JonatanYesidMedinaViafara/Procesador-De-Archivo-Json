@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "764897773255",
+            "SOLICITUD": "4649972",
+            "CEDULA": "1486385158",
+            "NOMBRES": "JUAN ALONSO SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.912.564",
+            "FIRMA ELLECTRONICA": "JUAN ALONSO SALAZAR - 1486385158"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "764897773255",
+            "NOMBRES": "JUAN ALONSO SALAZAR",
+            "CREDITO": "18.092.045",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "257.361",
+            "FIRMA ELLECTRONICA": "JUAN ALONSO SALAZAR - 1486385158",
+            "AL PIE DE LA FIRMA": "JUAN ALONSO SALAZAR - 1486385158"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1486385158",
+            "NOMBRES": "JUAN ALONSO SALAZAR",
+            "FECHA NACIMIENTO": "23/02/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.092.045",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN ALONSO SALAZAR - 1486385158",
+            "AL PIE DE LA FIRMA": "JUAN ALONSO SALAZAR - 1486385158"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4649972",
+            "CEDULA": "1486385158",
+            "NOMBRES": "JUAN ALONSO SALAZAR",
+            "CREDITO": "18.092.045",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "257.361",
+            "E.A": "20.77%",
+            "RECOMPRA O DESEMBOLSO": "1.912.564",
+            "FIRMA ELLECTRONICA": "JUAN ALONSO SALAZAR - 1486385158"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1486385158",
+            "NOMBRES": "JUAN ALONSO SALAZAR",
+            "FIRMA ELLECTRONICA": "JUAN ALONSO SALAZAR - 1486385158"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1486385158",
+            "NOMBRES": "JUAN ALONSO SALAZAR",
+            "FIRMA ELLECTRONICA": "JUAN ALONSO SALAZAR - 1486385158",
+            "AL PIE DE LA FIRMA": "JUAN ALONSO SALAZAR - 1486385158"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ALONSO SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1486385158",
+            "NOMBRES": "JUAN ALONSO SALAZAR",
+            "SALARIO": "3.452.710",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1486385158",
+            "NOMBRES": "JUAN ALONSO SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.912.564"
+        }
+    }
+]

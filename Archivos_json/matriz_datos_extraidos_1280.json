@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "170741317332",
+            "SOLICITUD": "9955351",
+            "CEDULA": "1005799582",
+            "NOMBRES": "CARLOS CABALLERO CANO",
+            "RECOMPRA O DESEMBOLSO": "3.711.011",
+            "FIRMA ELLECTRONICA": "CARLOS CABALLERO CANO - 1005799582"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "170741317332",
+            "NOMBRES": "CARLOS CABALLERO CANO",
+            "CREDITO": "5.122.526",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "203.527",
+            "FIRMA ELLECTRONICA": "CARLOS CABALLERO CANO - 1005799582",
+            "AL PIE DE LA FIRMA": "CARLOS CABALLERO CANO - 1005799582"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1005799582",
+            "NOMBRES": "CARLOS CABALLERO CANO",
+            "FECHA NACIMIENTO": "15/12/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.122.526",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS CABALLERO CANO - 1005799582",
+            "AL PIE DE LA FIRMA": "CARLOS CABALLERO CANO - 1005799582"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9955351",
+            "CEDULA": "1005799582",
+            "NOMBRES": "CARLOS CABALLERO CANO",
+            "CREDITO": "5.122.526",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "203.527",
+            "E.A": "27.95%",
+            "RECOMPRA O DESEMBOLSO": "3.711.011",
+            "FIRMA ELLECTRONICA": "CARLOS CABALLERO CANO - 1005799582"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1005799582",
+            "NOMBRES": "CARLOS CABALLERO CANO",
+            "FIRMA ELLECTRONICA": "CARLOS CABALLERO CANO - 1005799582"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1005799582",
+            "NOMBRES": "CARLOS CABALLERO CANO",
+            "FIRMA ELLECTRONICA": "CARLOS CABALLERO CANO - 1005799582",
+            "AL PIE DE LA FIRMA": "CARLOS CABALLERO CANO - 1005799582"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS CABALLERO CANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1005799582",
+            "NOMBRES": "CARLOS CABALLERO CANO",
+            "SALARIO": "4.708.224",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1005799582",
+            "NOMBRES": "CARLOS CABALLERO CANO",
+            "RECOMPRA O DESEMBOLSO": "3.711.011"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "642841802930",
+            "SOLICITUD": "7951183",
+            "CEDULA": "1728031233",
+            "NOMBRES": "INÉS CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.242.113",
+            "FIRMA ELLECTRONICA": "INÉS CORTÉS - 1728031233"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "642841802930",
+            "NOMBRES": "INÉS CORTÉS",
+            "CREDITO": "15.667.071",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "254.478",
+            "FIRMA ELLECTRONICA": "INÉS CORTÉS - 1728031233",
+            "AL PIE DE LA FIRMA": "INÉS CORTÉS - 1728031233"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1728031233",
+            "NOMBRES": "INÉS CORTÉS",
+            "FECHA NACIMIENTO": "14/08/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.667.071",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "INÉS CORTÉS - 1728031233",
+            "AL PIE DE LA FIRMA": "INÉS CORTÉS - 1728031233"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7951183",
+            "CEDULA": "1728031233",
+            "NOMBRES": "INÉS CORTÉS",
+            "CREDITO": "15.667.071",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "254.478",
+            "E.A": "25.53%",
+            "RECOMPRA O DESEMBOLSO": "2.242.113",
+            "FIRMA ELLECTRONICA": "INÉS CORTÉS - 1728031233"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1728031233",
+            "NOMBRES": "INÉS CORTÉS",
+            "FIRMA ELLECTRONICA": "INÉS CORTÉS - 1728031233"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1728031233",
+            "NOMBRES": "INÉS CORTÉS",
+            "FIRMA ELLECTRONICA": "INÉS CORTÉS - 1728031233",
+            "AL PIE DE LA FIRMA": "INÉS CORTÉS - 1728031233"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "INÉS CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1728031233",
+            "NOMBRES": "INÉS CORTÉS",
+            "SALARIO": "4.080.555",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1728031233",
+            "NOMBRES": "INÉS CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.242.113"
+        }
+    }
+]

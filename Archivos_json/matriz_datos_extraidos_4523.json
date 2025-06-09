@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "377587663690",
+            "SOLICITUD": "8944376",
+            "CEDULA": "1026990291",
+            "NOMBRES": "ALONSO ANGULO",
+            "RECOMPRA O DESEMBOLSO": "1.094.917",
+            "FIRMA ELLECTRONICA": "ALONSO ANGULO - 1026990291"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "377587663690",
+            "NOMBRES": "ALONSO ANGULO",
+            "CREDITO": "9.915.955",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "110.802",
+            "FIRMA ELLECTRONICA": "ALONSO ANGULO - 1026990291",
+            "AL PIE DE LA FIRMA": "ALONSO ANGULO - 1026990291"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1026990291",
+            "NOMBRES": "ALONSO ANGULO",
+            "FECHA NACIMIENTO": "09/06/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.915.955",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALONSO ANGULO - 1026990291",
+            "AL PIE DE LA FIRMA": "ALONSO ANGULO - 1026990291"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8944376",
+            "CEDULA": "1026990291",
+            "NOMBRES": "ALONSO ANGULO",
+            "CREDITO": "9.915.955",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "110.802",
+            "E.A": "26.63%",
+            "RECOMPRA O DESEMBOLSO": "1.094.917",
+            "FIRMA ELLECTRONICA": "ALONSO ANGULO - 1026990291"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1026990291",
+            "NOMBRES": "ALONSO ANGULO",
+            "FIRMA ELLECTRONICA": "ALONSO ANGULO - 1026990291"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1026990291",
+            "NOMBRES": "ALONSO ANGULO",
+            "FIRMA ELLECTRONICA": "ALONSO ANGULO - 1026990291",
+            "AL PIE DE LA FIRMA": "ALONSO ANGULO - 1026990291"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALONSO ANGULO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1026990291",
+            "NOMBRES": "ALONSO ANGULO",
+            "SALARIO": "3.884.974",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1026990291",
+            "NOMBRES": "ALONSO ANGULO",
+            "RECOMPRA O DESEMBOLSO": "1.094.917"
+        }
+    }
+]

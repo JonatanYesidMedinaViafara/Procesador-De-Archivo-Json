@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "813766953915",
+            "SOLICITUD": "7273063",
+            "CEDULA": "1473283081",
+            "NOMBRES": "ANA FLOR LÓPEZ CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "1.170.627",
+            "FIRMA ELLECTRONICA": "ANA FLOR LÓPEZ CARRILLO - 1473283081"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "813766953915",
+            "NOMBRES": "ANA FLOR LÓPEZ CARRILLO",
+            "CREDITO": "15.845.197",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "185.426",
+            "FIRMA ELLECTRONICA": "ANA FLOR LÓPEZ CARRILLO - 1473283081",
+            "AL PIE DE LA FIRMA": "ANA FLOR LÓPEZ CARRILLO - 1473283081"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1473283081",
+            "NOMBRES": "ANA FLOR LÓPEZ CARRILLO",
+            "FECHA NACIMIENTO": "16/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.845.197",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANA FLOR LÓPEZ CARRILLO - 1473283081",
+            "AL PIE DE LA FIRMA": "ANA FLOR LÓPEZ CARRILLO - 1473283081"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7273063",
+            "CEDULA": "1473283081",
+            "NOMBRES": "ANA FLOR LÓPEZ CARRILLO",
+            "CREDITO": "15.845.197",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "185.426",
+            "E.A": "26.49%",
+            "RECOMPRA O DESEMBOLSO": "1.170.627",
+            "FIRMA ELLECTRONICA": "ANA FLOR LÓPEZ CARRILLO - 1473283081"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1473283081",
+            "NOMBRES": "ANA FLOR LÓPEZ CARRILLO",
+            "FIRMA ELLECTRONICA": "ANA FLOR LÓPEZ CARRILLO - 1473283081"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1473283081",
+            "NOMBRES": "ANA FLOR LÓPEZ CARRILLO",
+            "FIRMA ELLECTRONICA": "ANA FLOR LÓPEZ CARRILLO - 1473283081",
+            "AL PIE DE LA FIRMA": "ANA FLOR LÓPEZ CARRILLO - 1473283081"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA FLOR LÓPEZ CARRILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1473283081",
+            "NOMBRES": "ANA FLOR LÓPEZ CARRILLO",
+            "SALARIO": "3.801.789",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1473283081",
+            "NOMBRES": "ANA FLOR LÓPEZ CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "1.170.627"
+        }
+    }
+]

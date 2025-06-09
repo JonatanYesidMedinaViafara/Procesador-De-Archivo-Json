@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "296950737354",
+            "SOLICITUD": "9102043",
+            "CEDULA": "1272417949",
+            "NOMBRES": "MAURICIO ANDRÉS PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.363.295",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS PÉREZ - 1272417949"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "296950737354",
+            "NOMBRES": "MAURICIO ANDRÉS PÉREZ",
+            "CREDITO": "19.965.924",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "217.532",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS PÉREZ - 1272417949",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDRÉS PÉREZ - 1272417949"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1272417949",
+            "NOMBRES": "MAURICIO ANDRÉS PÉREZ",
+            "FECHA NACIMIENTO": "11/09/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.965.924",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS PÉREZ - 1272417949",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDRÉS PÉREZ - 1272417949"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9102043",
+            "CEDULA": "1272417949",
+            "NOMBRES": "MAURICIO ANDRÉS PÉREZ",
+            "CREDITO": "19.965.924",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "217.532",
+            "E.A": "23.45%",
+            "RECOMPRA O DESEMBOLSO": "3.363.295",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS PÉREZ - 1272417949"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1272417949",
+            "NOMBRES": "MAURICIO ANDRÉS PÉREZ",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS PÉREZ - 1272417949"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1272417949",
+            "NOMBRES": "MAURICIO ANDRÉS PÉREZ",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS PÉREZ - 1272417949",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDRÉS PÉREZ - 1272417949"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO ANDRÉS PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1272417949",
+            "NOMBRES": "MAURICIO ANDRÉS PÉREZ",
+            "SALARIO": "2.913.958",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1272417949",
+            "NOMBRES": "MAURICIO ANDRÉS PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.363.295"
+        }
+    }
+]

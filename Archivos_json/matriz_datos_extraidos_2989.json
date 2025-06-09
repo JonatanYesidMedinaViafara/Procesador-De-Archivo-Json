@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "775842500957",
+            "SOLICITUD": "1154934",
+            "CEDULA": "1646137006",
+            "NOMBRES": "JOSÉ JORGE MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "3.559.596",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE MENDOZA - 1646137006"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "775842500957",
+            "NOMBRES": "JOSÉ JORGE MENDOZA",
+            "CREDITO": "9.153.551",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "364.204",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE MENDOZA - 1646137006",
+            "AL PIE DE LA FIRMA": "JOSÉ JORGE MENDOZA - 1646137006"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1646137006",
+            "NOMBRES": "JOSÉ JORGE MENDOZA",
+            "FECHA NACIMIENTO": "03/03/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.153.551",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE MENDOZA - 1646137006",
+            "AL PIE DE LA FIRMA": "JOSÉ JORGE MENDOZA - 1646137006"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1154934",
+            "CEDULA": "1646137006",
+            "NOMBRES": "JOSÉ JORGE MENDOZA",
+            "CREDITO": "9.153.551",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "364.204",
+            "E.A": "23.11%",
+            "RECOMPRA O DESEMBOLSO": "3.559.596",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE MENDOZA - 1646137006"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1646137006",
+            "NOMBRES": "JOSÉ JORGE MENDOZA",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE MENDOZA - 1646137006"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1646137006",
+            "NOMBRES": "JOSÉ JORGE MENDOZA",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE MENDOZA - 1646137006",
+            "AL PIE DE LA FIRMA": "JOSÉ JORGE MENDOZA - 1646137006"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ JORGE MENDOZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1646137006",
+            "NOMBRES": "JOSÉ JORGE MENDOZA",
+            "SALARIO": "3.929.552",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1646137006",
+            "NOMBRES": "JOSÉ JORGE MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "3.559.596"
+        }
+    }
+]

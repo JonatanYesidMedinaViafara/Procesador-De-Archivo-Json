@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "129310041750",
+            "SOLICITUD": "4758873",
+            "CEDULA": "1979595466",
+            "NOMBRES": "CECILIA MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.518.197",
+            "FIRMA ELLECTRONICA": "CECILIA MÉNDEZ - 1979595466"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "129310041750",
+            "NOMBRES": "CECILIA MÉNDEZ",
+            "CREDITO": "14.015.050",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.527",
+            "FIRMA ELLECTRONICA": "CECILIA MÉNDEZ - 1979595466",
+            "AL PIE DE LA FIRMA": "CECILIA MÉNDEZ - 1979595466"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1979595466",
+            "NOMBRES": "CECILIA MÉNDEZ",
+            "FECHA NACIMIENTO": "17/06/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.015.050",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CECILIA MÉNDEZ - 1979595466",
+            "AL PIE DE LA FIRMA": "CECILIA MÉNDEZ - 1979595466"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4758873",
+            "CEDULA": "1979595466",
+            "NOMBRES": "CECILIA MÉNDEZ",
+            "CREDITO": "14.015.050",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.527",
+            "E.A": "28.05%",
+            "RECOMPRA O DESEMBOLSO": "3.518.197",
+            "FIRMA ELLECTRONICA": "CECILIA MÉNDEZ - 1979595466"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1979595466",
+            "NOMBRES": "CECILIA MÉNDEZ",
+            "FIRMA ELLECTRONICA": "CECILIA MÉNDEZ - 1979595466"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1979595466",
+            "NOMBRES": "CECILIA MÉNDEZ",
+            "FIRMA ELLECTRONICA": "CECILIA MÉNDEZ - 1979595466",
+            "AL PIE DE LA FIRMA": "CECILIA MÉNDEZ - 1979595466"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA MÉNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1979595466",
+            "NOMBRES": "CECILIA MÉNDEZ",
+            "SALARIO": "1.063.538",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1979595466",
+            "NOMBRES": "CECILIA MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.518.197"
+        }
+    }
+]

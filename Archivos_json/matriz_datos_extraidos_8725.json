@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "470368882275",
+            "SOLICITUD": "5097081",
+            "CEDULA": "1083954248",
+            "NOMBRES": "LUISA ZAPATA ORJUELA",
+            "RECOMPRA O DESEMBOLSO": "2.591.166",
+            "FIRMA ELLECTRONICA": "LUISA ZAPATA ORJUELA - 1083954248"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "470368882275",
+            "NOMBRES": "LUISA ZAPATA ORJUELA",
+            "CREDITO": "16.910.931",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "109.397",
+            "FIRMA ELLECTRONICA": "LUISA ZAPATA ORJUELA - 1083954248",
+            "AL PIE DE LA FIRMA": "LUISA ZAPATA ORJUELA - 1083954248"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1083954248",
+            "NOMBRES": "LUISA ZAPATA ORJUELA",
+            "FECHA NACIMIENTO": "12/04/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.910.931",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUISA ZAPATA ORJUELA - 1083954248",
+            "AL PIE DE LA FIRMA": "LUISA ZAPATA ORJUELA - 1083954248"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5097081",
+            "CEDULA": "1083954248",
+            "NOMBRES": "LUISA ZAPATA ORJUELA",
+            "CREDITO": "16.910.931",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "109.397",
+            "E.A": "23.2%",
+            "RECOMPRA O DESEMBOLSO": "2.591.166",
+            "FIRMA ELLECTRONICA": "LUISA ZAPATA ORJUELA - 1083954248"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1083954248",
+            "NOMBRES": "LUISA ZAPATA ORJUELA",
+            "FIRMA ELLECTRONICA": "LUISA ZAPATA ORJUELA - 1083954248"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1083954248",
+            "NOMBRES": "LUISA ZAPATA ORJUELA",
+            "FIRMA ELLECTRONICA": "LUISA ZAPATA ORJUELA - 1083954248",
+            "AL PIE DE LA FIRMA": "LUISA ZAPATA ORJUELA - 1083954248"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUISA ZAPATA ORJUELA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1083954248",
+            "NOMBRES": "LUISA ZAPATA ORJUELA",
+            "SALARIO": "1.094.342",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1083954248",
+            "NOMBRES": "LUISA ZAPATA ORJUELA",
+            "RECOMPRA O DESEMBOLSO": "2.591.166"
+        }
+    }
+]

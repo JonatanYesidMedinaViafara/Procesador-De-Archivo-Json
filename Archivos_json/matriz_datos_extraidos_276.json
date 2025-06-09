@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "533513018615",
+            "SOLICITUD": "3180785",
+            "CEDULA": "1306676204",
+            "NOMBRES": "INÉS OROZCO",
+            "RECOMPRA O DESEMBOLSO": "3.949.986",
+            "FIRMA ELLECTRONICA": "INÉS OROZCO - 1306676204"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "533513018615",
+            "NOMBRES": "INÉS OROZCO",
+            "CREDITO": "15.574.803",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "200.052",
+            "FIRMA ELLECTRONICA": "INÉS OROZCO - 1306676204",
+            "AL PIE DE LA FIRMA": "INÉS OROZCO - 1306676204"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1306676204",
+            "NOMBRES": "INÉS OROZCO",
+            "FECHA NACIMIENTO": "05/05/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.574.803",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "INÉS OROZCO - 1306676204",
+            "AL PIE DE LA FIRMA": "INÉS OROZCO - 1306676204"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3180785",
+            "CEDULA": "1306676204",
+            "NOMBRES": "INÉS OROZCO",
+            "CREDITO": "15.574.803",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "200.052",
+            "E.A": "18.43%",
+            "RECOMPRA O DESEMBOLSO": "3.949.986",
+            "FIRMA ELLECTRONICA": "INÉS OROZCO - 1306676204"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1306676204",
+            "NOMBRES": "INÉS OROZCO",
+            "FIRMA ELLECTRONICA": "INÉS OROZCO - 1306676204"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1306676204",
+            "NOMBRES": "INÉS OROZCO",
+            "FIRMA ELLECTRONICA": "INÉS OROZCO - 1306676204",
+            "AL PIE DE LA FIRMA": "INÉS OROZCO - 1306676204"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "INÉS OROZCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1306676204",
+            "NOMBRES": "INÉS OROZCO",
+            "SALARIO": "2.694.394",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1306676204",
+            "NOMBRES": "INÉS OROZCO",
+            "RECOMPRA O DESEMBOLSO": "3.949.986"
+        }
+    }
+]

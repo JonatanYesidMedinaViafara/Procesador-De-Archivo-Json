@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "344486601095",
+            "SOLICITUD": "2360640",
+            "CEDULA": "1830635572",
+            "NOMBRES": "JUAN WILSON GARCÍA PINEDA",
+            "RECOMPRA O DESEMBOLSO": "2.618.057",
+            "FIRMA ELLECTRONICA": "JUAN WILSON GARCÍA PINEDA - 1830635572"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "344486601095",
+            "NOMBRES": "JUAN WILSON GARCÍA PINEDA",
+            "CREDITO": "6.493.289",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "386.706",
+            "FIRMA ELLECTRONICA": "JUAN WILSON GARCÍA PINEDA - 1830635572",
+            "AL PIE DE LA FIRMA": "JUAN WILSON GARCÍA PINEDA - 1830635572"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1830635572",
+            "NOMBRES": "JUAN WILSON GARCÍA PINEDA",
+            "FECHA NACIMIENTO": "17/11/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.493.289",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JUAN WILSON GARCÍA PINEDA - 1830635572",
+            "AL PIE DE LA FIRMA": "JUAN WILSON GARCÍA PINEDA - 1830635572"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2360640",
+            "CEDULA": "1830635572",
+            "NOMBRES": "JUAN WILSON GARCÍA PINEDA",
+            "CREDITO": "6.493.289",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "386.706",
+            "E.A": "25.52%",
+            "RECOMPRA O DESEMBOLSO": "2.618.057",
+            "FIRMA ELLECTRONICA": "JUAN WILSON GARCÍA PINEDA - 1830635572"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1830635572",
+            "NOMBRES": "JUAN WILSON GARCÍA PINEDA",
+            "FIRMA ELLECTRONICA": "JUAN WILSON GARCÍA PINEDA - 1830635572"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1830635572",
+            "NOMBRES": "JUAN WILSON GARCÍA PINEDA",
+            "FIRMA ELLECTRONICA": "JUAN WILSON GARCÍA PINEDA - 1830635572",
+            "AL PIE DE LA FIRMA": "JUAN WILSON GARCÍA PINEDA - 1830635572"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN WILSON GARCÍA PINEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1830635572",
+            "NOMBRES": "JUAN WILSON GARCÍA PINEDA",
+            "SALARIO": "3.317.849",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1830635572",
+            "NOMBRES": "JUAN WILSON GARCÍA PINEDA",
+            "RECOMPRA O DESEMBOLSO": "2.618.057"
+        }
+    }
+]

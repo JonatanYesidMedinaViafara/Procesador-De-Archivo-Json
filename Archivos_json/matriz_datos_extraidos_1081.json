@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "483936553162",
+            "SOLICITUD": "1488842",
+            "CEDULA": "1070201405",
+            "NOMBRES": "ERICK RIVAS",
+            "RECOMPRA O DESEMBOLSO": "1.469.441",
+            "FIRMA ELLECTRONICA": "ERICK RIVAS - 1070201405"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "483936553162",
+            "NOMBRES": "ERICK RIVAS",
+            "CREDITO": "7.733.584",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "318.589",
+            "FIRMA ELLECTRONICA": "ERICK RIVAS - 1070201405",
+            "AL PIE DE LA FIRMA": "ERICK RIVAS - 1070201405"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1070201405",
+            "NOMBRES": "ERICK RIVAS",
+            "FECHA NACIMIENTO": "24/03/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.733.584",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ERICK RIVAS - 1070201405",
+            "AL PIE DE LA FIRMA": "ERICK RIVAS - 1070201405"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1488842",
+            "CEDULA": "1070201405",
+            "NOMBRES": "ERICK RIVAS",
+            "CREDITO": "7.733.584",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "318.589",
+            "E.A": "21.5%",
+            "RECOMPRA O DESEMBOLSO": "1.469.441",
+            "FIRMA ELLECTRONICA": "ERICK RIVAS - 1070201405"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1070201405",
+            "NOMBRES": "ERICK RIVAS",
+            "FIRMA ELLECTRONICA": "ERICK RIVAS - 1070201405"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1070201405",
+            "NOMBRES": "ERICK RIVAS",
+            "FIRMA ELLECTRONICA": "ERICK RIVAS - 1070201405",
+            "AL PIE DE LA FIRMA": "ERICK RIVAS - 1070201405"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ERICK RIVAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1070201405",
+            "NOMBRES": "ERICK RIVAS",
+            "SALARIO": "3.789.322",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1070201405",
+            "NOMBRES": "ERICK RIVAS",
+            "RECOMPRA O DESEMBOLSO": "1.469.441"
+        }
+    }
+]

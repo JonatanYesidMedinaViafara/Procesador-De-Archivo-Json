@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "931678745071",
+            "SOLICITUD": "9455605",
+            "CEDULA": "1343593130",
+            "NOMBRES": "PATRICIA CABRERA",
+            "RECOMPRA O DESEMBOLSO": "2.160.915",
+            "FIRMA ELLECTRONICA": "PATRICIA CABRERA - 1343593130"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "931678745071",
+            "NOMBRES": "PATRICIA CABRERA",
+            "CREDITO": "18.076.349",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "189.114",
+            "FIRMA ELLECTRONICA": "PATRICIA CABRERA - 1343593130",
+            "AL PIE DE LA FIRMA": "PATRICIA CABRERA - 1343593130"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1343593130",
+            "NOMBRES": "PATRICIA CABRERA",
+            "FECHA NACIMIENTO": "14/12/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.076.349",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PATRICIA CABRERA - 1343593130",
+            "AL PIE DE LA FIRMA": "PATRICIA CABRERA - 1343593130"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9455605",
+            "CEDULA": "1343593130",
+            "NOMBRES": "PATRICIA CABRERA",
+            "CREDITO": "18.076.349",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "189.114",
+            "E.A": "21.48%",
+            "RECOMPRA O DESEMBOLSO": "2.160.915",
+            "FIRMA ELLECTRONICA": "PATRICIA CABRERA - 1343593130"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1343593130",
+            "NOMBRES": "PATRICIA CABRERA",
+            "FIRMA ELLECTRONICA": "PATRICIA CABRERA - 1343593130"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1343593130",
+            "NOMBRES": "PATRICIA CABRERA",
+            "FIRMA ELLECTRONICA": "PATRICIA CABRERA - 1343593130",
+            "AL PIE DE LA FIRMA": "PATRICIA CABRERA - 1343593130"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA CABRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1343593130",
+            "NOMBRES": "PATRICIA CABRERA",
+            "SALARIO": "1.597.087",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1343593130",
+            "NOMBRES": "PATRICIA CABRERA",
+            "RECOMPRA O DESEMBOLSO": "2.160.915"
+        }
+    }
+]

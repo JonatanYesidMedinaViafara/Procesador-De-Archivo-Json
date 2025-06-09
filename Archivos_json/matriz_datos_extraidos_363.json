@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "323495162345",
+            "SOLICITUD": "5113022",
+            "CEDULA": "1093503490",
+            "NOMBRES": "JHON AYALA",
+            "RECOMPRA O DESEMBOLSO": "1.099.011",
+            "FIRMA ELLECTRONICA": "JHON AYALA - 1093503490"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "323495162345",
+            "NOMBRES": "JHON AYALA",
+            "CREDITO": "8.716.886",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "101.352",
+            "FIRMA ELLECTRONICA": "JHON AYALA - 1093503490",
+            "AL PIE DE LA FIRMA": "JHON AYALA - 1093503490"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1093503490",
+            "NOMBRES": "JHON AYALA",
+            "FECHA NACIMIENTO": "22/09/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.716.886",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JHON AYALA - 1093503490",
+            "AL PIE DE LA FIRMA": "JHON AYALA - 1093503490"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5113022",
+            "CEDULA": "1093503490",
+            "NOMBRES": "JHON AYALA",
+            "CREDITO": "8.716.886",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "101.352",
+            "E.A": "28.87%",
+            "RECOMPRA O DESEMBOLSO": "1.099.011",
+            "FIRMA ELLECTRONICA": "JHON AYALA - 1093503490"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1093503490",
+            "NOMBRES": "JHON AYALA",
+            "FIRMA ELLECTRONICA": "JHON AYALA - 1093503490"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1093503490",
+            "NOMBRES": "JHON AYALA",
+            "FIRMA ELLECTRONICA": "JHON AYALA - 1093503490",
+            "AL PIE DE LA FIRMA": "JHON AYALA - 1093503490"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON AYALA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1093503490",
+            "NOMBRES": "JHON AYALA",
+            "SALARIO": "1.228.070",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1093503490",
+            "NOMBRES": "JHON AYALA",
+            "RECOMPRA O DESEMBOLSO": "1.099.011"
+        }
+    }
+]

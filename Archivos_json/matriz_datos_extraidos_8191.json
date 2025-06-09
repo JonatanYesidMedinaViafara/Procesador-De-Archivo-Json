@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "950060563965",
+            "SOLICITUD": "6626948",
+            "CEDULA": "1942631301",
+            "NOMBRES": "JHON BRAYAN MONTES QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.288.613",
+            "FIRMA ELLECTRONICA": "JHON BRAYAN MONTES QUINTERO - 1942631301"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "950060563965",
+            "NOMBRES": "JHON BRAYAN MONTES QUINTERO",
+            "CREDITO": "18.955.396",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "352.376",
+            "FIRMA ELLECTRONICA": "JHON BRAYAN MONTES QUINTERO - 1942631301",
+            "AL PIE DE LA FIRMA": "JHON BRAYAN MONTES QUINTERO - 1942631301"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1942631301",
+            "NOMBRES": "JHON BRAYAN MONTES QUINTERO",
+            "FECHA NACIMIENTO": "30/10/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.955.396",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JHON BRAYAN MONTES QUINTERO - 1942631301",
+            "AL PIE DE LA FIRMA": "JHON BRAYAN MONTES QUINTERO - 1942631301"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6626948",
+            "CEDULA": "1942631301",
+            "NOMBRES": "JHON BRAYAN MONTES QUINTERO",
+            "CREDITO": "18.955.396",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "352.376",
+            "E.A": "24.22%",
+            "RECOMPRA O DESEMBOLSO": "3.288.613",
+            "FIRMA ELLECTRONICA": "JHON BRAYAN MONTES QUINTERO - 1942631301"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1942631301",
+            "NOMBRES": "JHON BRAYAN MONTES QUINTERO",
+            "FIRMA ELLECTRONICA": "JHON BRAYAN MONTES QUINTERO - 1942631301"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1942631301",
+            "NOMBRES": "JHON BRAYAN MONTES QUINTERO",
+            "FIRMA ELLECTRONICA": "JHON BRAYAN MONTES QUINTERO - 1942631301",
+            "AL PIE DE LA FIRMA": "JHON BRAYAN MONTES QUINTERO - 1942631301"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON BRAYAN MONTES QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1942631301",
+            "NOMBRES": "JHON BRAYAN MONTES QUINTERO",
+            "SALARIO": "4.562.343",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1942631301",
+            "NOMBRES": "JHON BRAYAN MONTES QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.288.613"
+        }
+    }
+]

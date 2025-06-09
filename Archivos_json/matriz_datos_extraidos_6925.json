@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "464407512382",
+            "SOLICITUD": "7101367",
+            "CEDULA": "1236047429",
+            "NOMBRES": "ISABEL CLARA ESCOBAR SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "4.416.248",
+            "FIRMA ELLECTRONICA": "ISABEL CLARA ESCOBAR SUÁREZ - 1236047429"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "464407512382",
+            "NOMBRES": "ISABEL CLARA ESCOBAR SUÁREZ",
+            "CREDITO": "6.677.550",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "392.223",
+            "FIRMA ELLECTRONICA": "ISABEL CLARA ESCOBAR SUÁREZ - 1236047429",
+            "AL PIE DE LA FIRMA": "ISABEL CLARA ESCOBAR SUÁREZ - 1236047429"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1236047429",
+            "NOMBRES": "ISABEL CLARA ESCOBAR SUÁREZ",
+            "FECHA NACIMIENTO": "21/12/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.677.550",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ISABEL CLARA ESCOBAR SUÁREZ - 1236047429",
+            "AL PIE DE LA FIRMA": "ISABEL CLARA ESCOBAR SUÁREZ - 1236047429"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7101367",
+            "CEDULA": "1236047429",
+            "NOMBRES": "ISABEL CLARA ESCOBAR SUÁREZ",
+            "CREDITO": "6.677.550",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "392.223",
+            "E.A": "19.74%",
+            "RECOMPRA O DESEMBOLSO": "4.416.248",
+            "FIRMA ELLECTRONICA": "ISABEL CLARA ESCOBAR SUÁREZ - 1236047429"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1236047429",
+            "NOMBRES": "ISABEL CLARA ESCOBAR SUÁREZ",
+            "FIRMA ELLECTRONICA": "ISABEL CLARA ESCOBAR SUÁREZ - 1236047429"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1236047429",
+            "NOMBRES": "ISABEL CLARA ESCOBAR SUÁREZ",
+            "FIRMA ELLECTRONICA": "ISABEL CLARA ESCOBAR SUÁREZ - 1236047429",
+            "AL PIE DE LA FIRMA": "ISABEL CLARA ESCOBAR SUÁREZ - 1236047429"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL CLARA ESCOBAR SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1236047429",
+            "NOMBRES": "ISABEL CLARA ESCOBAR SUÁREZ",
+            "SALARIO": "1.321.239",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1236047429",
+            "NOMBRES": "ISABEL CLARA ESCOBAR SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "4.416.248"
+        }
+    }
+]

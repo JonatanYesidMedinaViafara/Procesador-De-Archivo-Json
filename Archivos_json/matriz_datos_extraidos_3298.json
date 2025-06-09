@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "419011603810",
+            "SOLICITUD": "5810606",
+            "CEDULA": "1863332058",
+            "NOMBRES": "EDUARDO ALEXANDER ANGULO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.240.499",
+            "FIRMA ELLECTRONICA": "EDUARDO ALEXANDER ANGULO RINCÓN - 1863332058"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "419011603810",
+            "NOMBRES": "EDUARDO ALEXANDER ANGULO RINCÓN",
+            "CREDITO": "17.148.703",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "362.495",
+            "FIRMA ELLECTRONICA": "EDUARDO ALEXANDER ANGULO RINCÓN - 1863332058",
+            "AL PIE DE LA FIRMA": "EDUARDO ALEXANDER ANGULO RINCÓN - 1863332058"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1863332058",
+            "NOMBRES": "EDUARDO ALEXANDER ANGULO RINCÓN",
+            "FECHA NACIMIENTO": "29/05/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.148.703",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDUARDO ALEXANDER ANGULO RINCÓN - 1863332058",
+            "AL PIE DE LA FIRMA": "EDUARDO ALEXANDER ANGULO RINCÓN - 1863332058"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5810606",
+            "CEDULA": "1863332058",
+            "NOMBRES": "EDUARDO ALEXANDER ANGULO RINCÓN",
+            "CREDITO": "17.148.703",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "362.495",
+            "E.A": "26.45%",
+            "RECOMPRA O DESEMBOLSO": "2.240.499",
+            "FIRMA ELLECTRONICA": "EDUARDO ALEXANDER ANGULO RINCÓN - 1863332058"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1863332058",
+            "NOMBRES": "EDUARDO ALEXANDER ANGULO RINCÓN",
+            "FIRMA ELLECTRONICA": "EDUARDO ALEXANDER ANGULO RINCÓN - 1863332058"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1863332058",
+            "NOMBRES": "EDUARDO ALEXANDER ANGULO RINCÓN",
+            "FIRMA ELLECTRONICA": "EDUARDO ALEXANDER ANGULO RINCÓN - 1863332058",
+            "AL PIE DE LA FIRMA": "EDUARDO ALEXANDER ANGULO RINCÓN - 1863332058"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO ALEXANDER ANGULO RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1863332058",
+            "NOMBRES": "EDUARDO ALEXANDER ANGULO RINCÓN",
+            "SALARIO": "4.993.114",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1863332058",
+            "NOMBRES": "EDUARDO ALEXANDER ANGULO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.240.499"
+        }
+    }
+]

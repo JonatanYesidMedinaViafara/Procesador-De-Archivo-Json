@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "245798588596",
+            "SOLICITUD": "6414318",
+            "CEDULA": "1741211747",
+            "NOMBRES": "RICHARD DANIEL RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.322.891",
+            "FIRMA ELLECTRONICA": "RICHARD DANIEL RAMÍREZ - 1741211747"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "245798588596",
+            "NOMBRES": "RICHARD DANIEL RAMÍREZ",
+            "CREDITO": "18.988.899",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "277.607",
+            "FIRMA ELLECTRONICA": "RICHARD DANIEL RAMÍREZ - 1741211747",
+            "AL PIE DE LA FIRMA": "RICHARD DANIEL RAMÍREZ - 1741211747"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1741211747",
+            "NOMBRES": "RICHARD DANIEL RAMÍREZ",
+            "FECHA NACIMIENTO": "30/09/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.988.899",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "RICHARD DANIEL RAMÍREZ - 1741211747",
+            "AL PIE DE LA FIRMA": "RICHARD DANIEL RAMÍREZ - 1741211747"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6414318",
+            "CEDULA": "1741211747",
+            "NOMBRES": "RICHARD DANIEL RAMÍREZ",
+            "CREDITO": "18.988.899",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "277.607",
+            "E.A": "28.72%",
+            "RECOMPRA O DESEMBOLSO": "1.322.891",
+            "FIRMA ELLECTRONICA": "RICHARD DANIEL RAMÍREZ - 1741211747"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1741211747",
+            "NOMBRES": "RICHARD DANIEL RAMÍREZ",
+            "FIRMA ELLECTRONICA": "RICHARD DANIEL RAMÍREZ - 1741211747"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1741211747",
+            "NOMBRES": "RICHARD DANIEL RAMÍREZ",
+            "FIRMA ELLECTRONICA": "RICHARD DANIEL RAMÍREZ - 1741211747",
+            "AL PIE DE LA FIRMA": "RICHARD DANIEL RAMÍREZ - 1741211747"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RICHARD DANIEL RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1741211747",
+            "NOMBRES": "RICHARD DANIEL RAMÍREZ",
+            "SALARIO": "3.203.403",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1741211747",
+            "NOMBRES": "RICHARD DANIEL RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.322.891"
+        }
+    }
+]

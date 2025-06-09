@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "165949200108",
+            "SOLICITUD": "4155216",
+            "CEDULA": "1852918431",
+            "NOMBRES": "JOSÉ LUIS VARGAS RENTERÍA",
+            "RECOMPRA O DESEMBOLSO": "3.501.797",
+            "FIRMA ELLECTRONICA": "JOSÉ LUIS VARGAS RENTERÍA - 1852918431"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "165949200108",
+            "NOMBRES": "JOSÉ LUIS VARGAS RENTERÍA",
+            "CREDITO": "6.065.743",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "165.118",
+            "FIRMA ELLECTRONICA": "JOSÉ LUIS VARGAS RENTERÍA - 1852918431",
+            "AL PIE DE LA FIRMA": "JOSÉ LUIS VARGAS RENTERÍA - 1852918431"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1852918431",
+            "NOMBRES": "JOSÉ LUIS VARGAS RENTERÍA",
+            "FECHA NACIMIENTO": "11/09/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.065.743",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOSÉ LUIS VARGAS RENTERÍA - 1852918431",
+            "AL PIE DE LA FIRMA": "JOSÉ LUIS VARGAS RENTERÍA - 1852918431"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4155216",
+            "CEDULA": "1852918431",
+            "NOMBRES": "JOSÉ LUIS VARGAS RENTERÍA",
+            "CREDITO": "6.065.743",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "165.118",
+            "E.A": "22.62%",
+            "RECOMPRA O DESEMBOLSO": "3.501.797",
+            "FIRMA ELLECTRONICA": "JOSÉ LUIS VARGAS RENTERÍA - 1852918431"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1852918431",
+            "NOMBRES": "JOSÉ LUIS VARGAS RENTERÍA",
+            "FIRMA ELLECTRONICA": "JOSÉ LUIS VARGAS RENTERÍA - 1852918431"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1852918431",
+            "NOMBRES": "JOSÉ LUIS VARGAS RENTERÍA",
+            "FIRMA ELLECTRONICA": "JOSÉ LUIS VARGAS RENTERÍA - 1852918431",
+            "AL PIE DE LA FIRMA": "JOSÉ LUIS VARGAS RENTERÍA - 1852918431"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ LUIS VARGAS RENTERÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1852918431",
+            "NOMBRES": "JOSÉ LUIS VARGAS RENTERÍA",
+            "SALARIO": "1.377.328",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1852918431",
+            "NOMBRES": "JOSÉ LUIS VARGAS RENTERÍA",
+            "RECOMPRA O DESEMBOLSO": "3.501.797"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "780126425890",
+            "SOLICITUD": "1195139",
+            "CEDULA": "1619565983",
+            "NOMBRES": "ALBERTO DUQUE",
+            "RECOMPRA O DESEMBOLSO": "3.249.682",
+            "FIRMA ELLECTRONICA": "ALBERTO DUQUE - 1619565983"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "780126425890",
+            "NOMBRES": "ALBERTO DUQUE",
+            "CREDITO": "9.249.147",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.347",
+            "FIRMA ELLECTRONICA": "ALBERTO DUQUE - 1619565983",
+            "AL PIE DE LA FIRMA": "ALBERTO DUQUE - 1619565983"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1619565983",
+            "NOMBRES": "ALBERTO DUQUE",
+            "FECHA NACIMIENTO": "27/12/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.249.147",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBERTO DUQUE - 1619565983",
+            "AL PIE DE LA FIRMA": "ALBERTO DUQUE - 1619565983"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1195139",
+            "CEDULA": "1619565983",
+            "NOMBRES": "ALBERTO DUQUE",
+            "CREDITO": "9.249.147",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.347",
+            "E.A": "19.9%",
+            "RECOMPRA O DESEMBOLSO": "3.249.682",
+            "FIRMA ELLECTRONICA": "ALBERTO DUQUE - 1619565983"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1619565983",
+            "NOMBRES": "ALBERTO DUQUE",
+            "FIRMA ELLECTRONICA": "ALBERTO DUQUE - 1619565983"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1619565983",
+            "NOMBRES": "ALBERTO DUQUE",
+            "FIRMA ELLECTRONICA": "ALBERTO DUQUE - 1619565983",
+            "AL PIE DE LA FIRMA": "ALBERTO DUQUE - 1619565983"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO DUQUE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1619565983",
+            "NOMBRES": "ALBERTO DUQUE",
+            "SALARIO": "4.840.792",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1619565983",
+            "NOMBRES": "ALBERTO DUQUE",
+            "RECOMPRA O DESEMBOLSO": "3.249.682"
+        }
+    }
+]

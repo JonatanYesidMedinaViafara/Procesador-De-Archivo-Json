@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "807287647567",
+            "SOLICITUD": "4307537",
+            "CEDULA": "1423982112",
+            "NOMBRES": "ELIECER FERNANDO MOLINA",
+            "RECOMPRA O DESEMBOLSO": "1.173.489",
+            "FIRMA ELLECTRONICA": "ELIECER FERNANDO MOLINA - 1423982112"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "807287647567",
+            "NOMBRES": "ELIECER FERNANDO MOLINA",
+            "CREDITO": "6.497.512",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "192.427",
+            "FIRMA ELLECTRONICA": "ELIECER FERNANDO MOLINA - 1423982112",
+            "AL PIE DE LA FIRMA": "ELIECER FERNANDO MOLINA - 1423982112"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1423982112",
+            "NOMBRES": "ELIECER FERNANDO MOLINA",
+            "FECHA NACIMIENTO": "14/09/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.497.512",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ELIECER FERNANDO MOLINA - 1423982112",
+            "AL PIE DE LA FIRMA": "ELIECER FERNANDO MOLINA - 1423982112"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4307537",
+            "CEDULA": "1423982112",
+            "NOMBRES": "ELIECER FERNANDO MOLINA",
+            "CREDITO": "6.497.512",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "192.427",
+            "E.A": "19.65%",
+            "RECOMPRA O DESEMBOLSO": "1.173.489",
+            "FIRMA ELLECTRONICA": "ELIECER FERNANDO MOLINA - 1423982112"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1423982112",
+            "NOMBRES": "ELIECER FERNANDO MOLINA",
+            "FIRMA ELLECTRONICA": "ELIECER FERNANDO MOLINA - 1423982112"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1423982112",
+            "NOMBRES": "ELIECER FERNANDO MOLINA",
+            "FIRMA ELLECTRONICA": "ELIECER FERNANDO MOLINA - 1423982112",
+            "AL PIE DE LA FIRMA": "ELIECER FERNANDO MOLINA - 1423982112"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELIECER FERNANDO MOLINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1423982112",
+            "NOMBRES": "ELIECER FERNANDO MOLINA",
+            "SALARIO": "3.143.454",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1423982112",
+            "NOMBRES": "ELIECER FERNANDO MOLINA",
+            "RECOMPRA O DESEMBOLSO": "1.173.489"
+        }
+    }
+]

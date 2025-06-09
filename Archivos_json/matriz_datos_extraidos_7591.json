@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "553233783155",
+            "SOLICITUD": "3777802",
+            "CEDULA": "1098972313",
+            "NOMBRES": "EDGAR RAMÍREZ GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.471.357",
+            "FIRMA ELLECTRONICA": "EDGAR RAMÍREZ GONZÁLEZ - 1098972313"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "553233783155",
+            "NOMBRES": "EDGAR RAMÍREZ GONZÁLEZ",
+            "CREDITO": "10.102.742",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "397.194",
+            "FIRMA ELLECTRONICA": "EDGAR RAMÍREZ GONZÁLEZ - 1098972313",
+            "AL PIE DE LA FIRMA": "EDGAR RAMÍREZ GONZÁLEZ - 1098972313"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1098972313",
+            "NOMBRES": "EDGAR RAMÍREZ GONZÁLEZ",
+            "FECHA NACIMIENTO": "03/01/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.102.742",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDGAR RAMÍREZ GONZÁLEZ - 1098972313",
+            "AL PIE DE LA FIRMA": "EDGAR RAMÍREZ GONZÁLEZ - 1098972313"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3777802",
+            "CEDULA": "1098972313",
+            "NOMBRES": "EDGAR RAMÍREZ GONZÁLEZ",
+            "CREDITO": "10.102.742",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "397.194",
+            "E.A": "20.52%",
+            "RECOMPRA O DESEMBOLSO": "2.471.357",
+            "FIRMA ELLECTRONICA": "EDGAR RAMÍREZ GONZÁLEZ - 1098972313"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1098972313",
+            "NOMBRES": "EDGAR RAMÍREZ GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "EDGAR RAMÍREZ GONZÁLEZ - 1098972313"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1098972313",
+            "NOMBRES": "EDGAR RAMÍREZ GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "EDGAR RAMÍREZ GONZÁLEZ - 1098972313",
+            "AL PIE DE LA FIRMA": "EDGAR RAMÍREZ GONZÁLEZ - 1098972313"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDGAR RAMÍREZ GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1098972313",
+            "NOMBRES": "EDGAR RAMÍREZ GONZÁLEZ",
+            "SALARIO": "3.101.916",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1098972313",
+            "NOMBRES": "EDGAR RAMÍREZ GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.471.357"
+        }
+    }
+]

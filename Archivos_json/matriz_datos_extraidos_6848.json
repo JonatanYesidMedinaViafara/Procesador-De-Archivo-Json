@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "887194875134",
+            "SOLICITUD": "6934653",
+            "CEDULA": "1427378216",
+            "NOMBRES": "SANDRA ANA HENAO",
+            "RECOMPRA O DESEMBOLSO": "4.556.398",
+            "FIRMA ELLECTRONICA": "SANDRA ANA HENAO - 1427378216"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "887194875134",
+            "NOMBRES": "SANDRA ANA HENAO",
+            "CREDITO": "13.713.285",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "196.549",
+            "FIRMA ELLECTRONICA": "SANDRA ANA HENAO - 1427378216",
+            "AL PIE DE LA FIRMA": "SANDRA ANA HENAO - 1427378216"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1427378216",
+            "NOMBRES": "SANDRA ANA HENAO",
+            "FECHA NACIMIENTO": "15/01/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.713.285",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SANDRA ANA HENAO - 1427378216",
+            "AL PIE DE LA FIRMA": "SANDRA ANA HENAO - 1427378216"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6934653",
+            "CEDULA": "1427378216",
+            "NOMBRES": "SANDRA ANA HENAO",
+            "CREDITO": "13.713.285",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "196.549",
+            "E.A": "25.48%",
+            "RECOMPRA O DESEMBOLSO": "4.556.398",
+            "FIRMA ELLECTRONICA": "SANDRA ANA HENAO - 1427378216"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1427378216",
+            "NOMBRES": "SANDRA ANA HENAO",
+            "FIRMA ELLECTRONICA": "SANDRA ANA HENAO - 1427378216"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1427378216",
+            "NOMBRES": "SANDRA ANA HENAO",
+            "FIRMA ELLECTRONICA": "SANDRA ANA HENAO - 1427378216",
+            "AL PIE DE LA FIRMA": "SANDRA ANA HENAO - 1427378216"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA ANA HENAO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1427378216",
+            "NOMBRES": "SANDRA ANA HENAO",
+            "SALARIO": "2.990.520",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1427378216",
+            "NOMBRES": "SANDRA ANA HENAO",
+            "RECOMPRA O DESEMBOLSO": "4.556.398"
+        }
+    }
+]

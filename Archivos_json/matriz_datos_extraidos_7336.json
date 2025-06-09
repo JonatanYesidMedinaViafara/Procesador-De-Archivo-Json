@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "919473325888",
+            "SOLICITUD": "5696312",
+            "CEDULA": "1017026554",
+            "NOMBRES": "ARTURO VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.760.356",
+            "FIRMA ELLECTRONICA": "ARTURO VALENCIA - 1017026554"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "919473325888",
+            "NOMBRES": "ARTURO VALENCIA",
+            "CREDITO": "17.486.281",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "109.865",
+            "FIRMA ELLECTRONICA": "ARTURO VALENCIA - 1017026554",
+            "AL PIE DE LA FIRMA": "ARTURO VALENCIA - 1017026554"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1017026554",
+            "NOMBRES": "ARTURO VALENCIA",
+            "FECHA NACIMIENTO": "10/01/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.486.281",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ARTURO VALENCIA - 1017026554",
+            "AL PIE DE LA FIRMA": "ARTURO VALENCIA - 1017026554"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5696312",
+            "CEDULA": "1017026554",
+            "NOMBRES": "ARTURO VALENCIA",
+            "CREDITO": "17.486.281",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "109.865",
+            "E.A": "24.62%",
+            "RECOMPRA O DESEMBOLSO": "1.760.356",
+            "FIRMA ELLECTRONICA": "ARTURO VALENCIA - 1017026554"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1017026554",
+            "NOMBRES": "ARTURO VALENCIA",
+            "FIRMA ELLECTRONICA": "ARTURO VALENCIA - 1017026554"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1017026554",
+            "NOMBRES": "ARTURO VALENCIA",
+            "FIRMA ELLECTRONICA": "ARTURO VALENCIA - 1017026554",
+            "AL PIE DE LA FIRMA": "ARTURO VALENCIA - 1017026554"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARTURO VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1017026554",
+            "NOMBRES": "ARTURO VALENCIA",
+            "SALARIO": "1.525.176",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1017026554",
+            "NOMBRES": "ARTURO VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "1.760.356"
+        }
+    }
+]

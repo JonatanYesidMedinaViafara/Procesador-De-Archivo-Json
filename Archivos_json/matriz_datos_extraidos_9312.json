@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "240360307615",
+            "SOLICITUD": "3276430",
+            "CEDULA": "1342679850",
+            "NOMBRES": "IVÁN LUIS BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "2.646.616",
+            "FIRMA ELLECTRONICA": "IVÁN LUIS BELTRÁN - 1342679850"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "240360307615",
+            "NOMBRES": "IVÁN LUIS BELTRÁN",
+            "CREDITO": "10.618.415",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "108.218",
+            "FIRMA ELLECTRONICA": "IVÁN LUIS BELTRÁN - 1342679850",
+            "AL PIE DE LA FIRMA": "IVÁN LUIS BELTRÁN - 1342679850"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1342679850",
+            "NOMBRES": "IVÁN LUIS BELTRÁN",
+            "FECHA NACIMIENTO": "31/01/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.618.415",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "IVÁN LUIS BELTRÁN - 1342679850",
+            "AL PIE DE LA FIRMA": "IVÁN LUIS BELTRÁN - 1342679850"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3276430",
+            "CEDULA": "1342679850",
+            "NOMBRES": "IVÁN LUIS BELTRÁN",
+            "CREDITO": "10.618.415",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "108.218",
+            "E.A": "25.57%",
+            "RECOMPRA O DESEMBOLSO": "2.646.616",
+            "FIRMA ELLECTRONICA": "IVÁN LUIS BELTRÁN - 1342679850"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1342679850",
+            "NOMBRES": "IVÁN LUIS BELTRÁN",
+            "FIRMA ELLECTRONICA": "IVÁN LUIS BELTRÁN - 1342679850"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1342679850",
+            "NOMBRES": "IVÁN LUIS BELTRÁN",
+            "FIRMA ELLECTRONICA": "IVÁN LUIS BELTRÁN - 1342679850",
+            "AL PIE DE LA FIRMA": "IVÁN LUIS BELTRÁN - 1342679850"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IVÁN LUIS BELTRÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1342679850",
+            "NOMBRES": "IVÁN LUIS BELTRÁN",
+            "SALARIO": "1.078.529",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1342679850",
+            "NOMBRES": "IVÁN LUIS BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "2.646.616"
+        }
+    }
+]

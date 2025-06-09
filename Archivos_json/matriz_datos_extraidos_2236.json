@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "151703077101",
+            "SOLICITUD": "8404704",
+            "CEDULA": "1718537392",
+            "NOMBRES": "CARLOS ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.833.945",
+            "FIRMA ELLECTRONICA": "CARLOS ROJAS - 1718537392"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "151703077101",
+            "NOMBRES": "CARLOS ROJAS",
+            "CREDITO": "10.503.185",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "379.087",
+            "FIRMA ELLECTRONICA": "CARLOS ROJAS - 1718537392",
+            "AL PIE DE LA FIRMA": "CARLOS ROJAS - 1718537392"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1718537392",
+            "NOMBRES": "CARLOS ROJAS",
+            "FECHA NACIMIENTO": "09/03/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.503.185",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARLOS ROJAS - 1718537392",
+            "AL PIE DE LA FIRMA": "CARLOS ROJAS - 1718537392"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8404704",
+            "CEDULA": "1718537392",
+            "NOMBRES": "CARLOS ROJAS",
+            "CREDITO": "10.503.185",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "379.087",
+            "E.A": "20.71%",
+            "RECOMPRA O DESEMBOLSO": "4.833.945",
+            "FIRMA ELLECTRONICA": "CARLOS ROJAS - 1718537392"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1718537392",
+            "NOMBRES": "CARLOS ROJAS",
+            "FIRMA ELLECTRONICA": "CARLOS ROJAS - 1718537392"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1718537392",
+            "NOMBRES": "CARLOS ROJAS",
+            "FIRMA ELLECTRONICA": "CARLOS ROJAS - 1718537392",
+            "AL PIE DE LA FIRMA": "CARLOS ROJAS - 1718537392"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1718537392",
+            "NOMBRES": "CARLOS ROJAS",
+            "SALARIO": "1.782.359",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1718537392",
+            "NOMBRES": "CARLOS ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.833.945"
+        }
+    }
+]

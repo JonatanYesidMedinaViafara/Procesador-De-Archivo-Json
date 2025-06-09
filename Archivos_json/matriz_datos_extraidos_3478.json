@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "435195256283",
+            "SOLICITUD": "2016210",
+            "CEDULA": "1165528209",
+            "NOMBRES": "MARTA MARÍA MALDONADO RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.862.790",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA MALDONADO RÍOS - 1165528209"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "435195256283",
+            "NOMBRES": "MARTA MARÍA MALDONADO RÍOS",
+            "CREDITO": "5.171.517",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "336.472",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA MALDONADO RÍOS - 1165528209",
+            "AL PIE DE LA FIRMA": "MARTA MARÍA MALDONADO RÍOS - 1165528209"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1165528209",
+            "NOMBRES": "MARTA MARÍA MALDONADO RÍOS",
+            "FECHA NACIMIENTO": "04/07/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.171.517",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA MALDONADO RÍOS - 1165528209",
+            "AL PIE DE LA FIRMA": "MARTA MARÍA MALDONADO RÍOS - 1165528209"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2016210",
+            "CEDULA": "1165528209",
+            "NOMBRES": "MARTA MARÍA MALDONADO RÍOS",
+            "CREDITO": "5.171.517",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "336.472",
+            "E.A": "28.52%",
+            "RECOMPRA O DESEMBOLSO": "3.862.790",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA MALDONADO RÍOS - 1165528209"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1165528209",
+            "NOMBRES": "MARTA MARÍA MALDONADO RÍOS",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA MALDONADO RÍOS - 1165528209"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1165528209",
+            "NOMBRES": "MARTA MARÍA MALDONADO RÍOS",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA MALDONADO RÍOS - 1165528209",
+            "AL PIE DE LA FIRMA": "MARTA MARÍA MALDONADO RÍOS - 1165528209"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTA MARÍA MALDONADO RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1165528209",
+            "NOMBRES": "MARTA MARÍA MALDONADO RÍOS",
+            "SALARIO": "3.788.148",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1165528209",
+            "NOMBRES": "MARTA MARÍA MALDONADO RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.862.790"
+        }
+    }
+]

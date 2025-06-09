@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "625999501545",
+            "SOLICITUD": "7791657",
+            "CEDULA": "1740415103",
+            "NOMBRES": "FRANCISCO BARRERA",
+            "RECOMPRA O DESEMBOLSO": "4.062.924",
+            "FIRMA ELLECTRONICA": "FRANCISCO BARRERA - 1740415103"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "625999501545",
+            "NOMBRES": "FRANCISCO BARRERA",
+            "CREDITO": "14.509.714",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "391.37",
+            "FIRMA ELLECTRONICA": "FRANCISCO BARRERA - 1740415103",
+            "AL PIE DE LA FIRMA": "FRANCISCO BARRERA - 1740415103"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1740415103",
+            "NOMBRES": "FRANCISCO BARRERA",
+            "FECHA NACIMIENTO": "25/10/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.509.714",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FRANCISCO BARRERA - 1740415103",
+            "AL PIE DE LA FIRMA": "FRANCISCO BARRERA - 1740415103"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7791657",
+            "CEDULA": "1740415103",
+            "NOMBRES": "FRANCISCO BARRERA",
+            "CREDITO": "14.509.714",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "391.37",
+            "E.A": "23.12%",
+            "RECOMPRA O DESEMBOLSO": "4.062.924",
+            "FIRMA ELLECTRONICA": "FRANCISCO BARRERA - 1740415103"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1740415103",
+            "NOMBRES": "FRANCISCO BARRERA",
+            "FIRMA ELLECTRONICA": "FRANCISCO BARRERA - 1740415103"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1740415103",
+            "NOMBRES": "FRANCISCO BARRERA",
+            "FIRMA ELLECTRONICA": "FRANCISCO BARRERA - 1740415103",
+            "AL PIE DE LA FIRMA": "FRANCISCO BARRERA - 1740415103"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO BARRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1740415103",
+            "NOMBRES": "FRANCISCO BARRERA",
+            "SALARIO": "1.678.558",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1740415103",
+            "NOMBRES": "FRANCISCO BARRERA",
+            "RECOMPRA O DESEMBOLSO": "4.062.924"
+        }
+    }
+]

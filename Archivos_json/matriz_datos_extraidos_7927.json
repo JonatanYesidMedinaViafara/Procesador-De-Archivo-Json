@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "796342219170",
+            "SOLICITUD": "6236262",
+            "CEDULA": "1824929919",
+            "NOMBRES": "WILMER LUNA",
+            "RECOMPRA O DESEMBOLSO": "1.260.424",
+            "FIRMA ELLECTRONICA": "WILMER LUNA - 1824929919"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "796342219170",
+            "NOMBRES": "WILMER LUNA",
+            "CREDITO": "10.524.789",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "153.266",
+            "FIRMA ELLECTRONICA": "WILMER LUNA - 1824929919",
+            "AL PIE DE LA FIRMA": "WILMER LUNA - 1824929919"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1824929919",
+            "NOMBRES": "WILMER LUNA",
+            "FECHA NACIMIENTO": "27/03/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.524.789",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "WILMER LUNA - 1824929919",
+            "AL PIE DE LA FIRMA": "WILMER LUNA - 1824929919"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6236262",
+            "CEDULA": "1824929919",
+            "NOMBRES": "WILMER LUNA",
+            "CREDITO": "10.524.789",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "153.266",
+            "E.A": "20.02%",
+            "RECOMPRA O DESEMBOLSO": "1.260.424",
+            "FIRMA ELLECTRONICA": "WILMER LUNA - 1824929919"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1824929919",
+            "NOMBRES": "WILMER LUNA",
+            "FIRMA ELLECTRONICA": "WILMER LUNA - 1824929919"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1824929919",
+            "NOMBRES": "WILMER LUNA",
+            "FIRMA ELLECTRONICA": "WILMER LUNA - 1824929919",
+            "AL PIE DE LA FIRMA": "WILMER LUNA - 1824929919"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WILMER LUNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1824929919",
+            "NOMBRES": "WILMER LUNA",
+            "SALARIO": "3.363.986",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1824929919",
+            "NOMBRES": "WILMER LUNA",
+            "RECOMPRA O DESEMBOLSO": "1.260.424"
+        }
+    }
+]

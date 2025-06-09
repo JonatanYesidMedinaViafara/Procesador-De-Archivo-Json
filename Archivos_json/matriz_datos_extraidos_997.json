@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "567316045979",
+            "SOLICITUD": "1590329",
+            "CEDULA": "1310967760",
+            "NOMBRES": "CARLOS CASTRO BOLÍVAR",
+            "RECOMPRA O DESEMBOLSO": "3.973.024",
+            "FIRMA ELLECTRONICA": "CARLOS CASTRO BOLÍVAR - 1310967760"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "567316045979",
+            "NOMBRES": "CARLOS CASTRO BOLÍVAR",
+            "CREDITO": "19.623.459",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "336.045",
+            "FIRMA ELLECTRONICA": "CARLOS CASTRO BOLÍVAR - 1310967760",
+            "AL PIE DE LA FIRMA": "CARLOS CASTRO BOLÍVAR - 1310967760"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1310967760",
+            "NOMBRES": "CARLOS CASTRO BOLÍVAR",
+            "FECHA NACIMIENTO": "06/07/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.623.459",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS CASTRO BOLÍVAR - 1310967760",
+            "AL PIE DE LA FIRMA": "CARLOS CASTRO BOLÍVAR - 1310967760"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1590329",
+            "CEDULA": "1310967760",
+            "NOMBRES": "CARLOS CASTRO BOLÍVAR",
+            "CREDITO": "19.623.459",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "336.045",
+            "E.A": "23.8%",
+            "RECOMPRA O DESEMBOLSO": "3.973.024",
+            "FIRMA ELLECTRONICA": "CARLOS CASTRO BOLÍVAR - 1310967760"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1310967760",
+            "NOMBRES": "CARLOS CASTRO BOLÍVAR",
+            "FIRMA ELLECTRONICA": "CARLOS CASTRO BOLÍVAR - 1310967760"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1310967760",
+            "NOMBRES": "CARLOS CASTRO BOLÍVAR",
+            "FIRMA ELLECTRONICA": "CARLOS CASTRO BOLÍVAR - 1310967760",
+            "AL PIE DE LA FIRMA": "CARLOS CASTRO BOLÍVAR - 1310967760"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS CASTRO BOLÍVAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1310967760",
+            "NOMBRES": "CARLOS CASTRO BOLÍVAR",
+            "SALARIO": "4.786.202",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1310967760",
+            "NOMBRES": "CARLOS CASTRO BOLÍVAR",
+            "RECOMPRA O DESEMBOLSO": "3.973.024"
+        }
+    }
+]

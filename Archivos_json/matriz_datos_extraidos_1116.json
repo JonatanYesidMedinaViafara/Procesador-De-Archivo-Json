@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "955086045667",
+            "SOLICITUD": "4104979",
+            "CEDULA": "1457960501",
+            "NOMBRES": "ROSALBA MARÍA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.165.180",
+            "FIRMA ELLECTRONICA": "ROSALBA MARÍA LÓPEZ - 1457960501"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "955086045667",
+            "NOMBRES": "ROSALBA MARÍA LÓPEZ",
+            "CREDITO": "19.182.293",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "238.072",
+            "FIRMA ELLECTRONICA": "ROSALBA MARÍA LÓPEZ - 1457960501",
+            "AL PIE DE LA FIRMA": "ROSALBA MARÍA LÓPEZ - 1457960501"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1457960501",
+            "NOMBRES": "ROSALBA MARÍA LÓPEZ",
+            "FECHA NACIMIENTO": "30/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.182.293",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ROSALBA MARÍA LÓPEZ - 1457960501",
+            "AL PIE DE LA FIRMA": "ROSALBA MARÍA LÓPEZ - 1457960501"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4104979",
+            "CEDULA": "1457960501",
+            "NOMBRES": "ROSALBA MARÍA LÓPEZ",
+            "CREDITO": "19.182.293",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "238.072",
+            "E.A": "28.93%",
+            "RECOMPRA O DESEMBOLSO": "1.165.180",
+            "FIRMA ELLECTRONICA": "ROSALBA MARÍA LÓPEZ - 1457960501"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1457960501",
+            "NOMBRES": "ROSALBA MARÍA LÓPEZ",
+            "FIRMA ELLECTRONICA": "ROSALBA MARÍA LÓPEZ - 1457960501"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1457960501",
+            "NOMBRES": "ROSALBA MARÍA LÓPEZ",
+            "FIRMA ELLECTRONICA": "ROSALBA MARÍA LÓPEZ - 1457960501",
+            "AL PIE DE LA FIRMA": "ROSALBA MARÍA LÓPEZ - 1457960501"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSALBA MARÍA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1457960501",
+            "NOMBRES": "ROSALBA MARÍA LÓPEZ",
+            "SALARIO": "4.717.361",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1457960501",
+            "NOMBRES": "ROSALBA MARÍA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.165.180"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "121104703778",
+            "SOLICITUD": "1225398",
+            "CEDULA": "1046342755",
+            "NOMBRES": "HUGO SERNA",
+            "RECOMPRA O DESEMBOLSO": "2.516.308",
+            "FIRMA ELLECTRONICA": "HUGO SERNA - 1046342755"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "121104703778",
+            "NOMBRES": "HUGO SERNA",
+            "CREDITO": "7.747.905",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "243.786",
+            "FIRMA ELLECTRONICA": "HUGO SERNA - 1046342755",
+            "AL PIE DE LA FIRMA": "HUGO SERNA - 1046342755"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1046342755",
+            "NOMBRES": "HUGO SERNA",
+            "FECHA NACIMIENTO": "25/05/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.747.905",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "HUGO SERNA - 1046342755",
+            "AL PIE DE LA FIRMA": "HUGO SERNA - 1046342755"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1225398",
+            "CEDULA": "1046342755",
+            "NOMBRES": "HUGO SERNA",
+            "CREDITO": "7.747.905",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "243.786",
+            "E.A": "28.26%",
+            "RECOMPRA O DESEMBOLSO": "2.516.308",
+            "FIRMA ELLECTRONICA": "HUGO SERNA - 1046342755"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1046342755",
+            "NOMBRES": "HUGO SERNA",
+            "FIRMA ELLECTRONICA": "HUGO SERNA - 1046342755"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1046342755",
+            "NOMBRES": "HUGO SERNA",
+            "FIRMA ELLECTRONICA": "HUGO SERNA - 1046342755",
+            "AL PIE DE LA FIRMA": "HUGO SERNA - 1046342755"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HUGO SERNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1046342755",
+            "NOMBRES": "HUGO SERNA",
+            "SALARIO": "2.861.965",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1046342755",
+            "NOMBRES": "HUGO SERNA",
+            "RECOMPRA O DESEMBOLSO": "2.516.308"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "377383395336",
+            "SOLICITUD": "9092999",
+            "CEDULA": "1426697102",
+            "NOMBRES": "EDUARDO HERRERA",
+            "RECOMPRA O DESEMBOLSO": "1.055.774",
+            "FIRMA ELLECTRONICA": "EDUARDO HERRERA - 1426697102"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "377383395336",
+            "NOMBRES": "EDUARDO HERRERA",
+            "CREDITO": "16.457.897",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "314.046",
+            "FIRMA ELLECTRONICA": "EDUARDO HERRERA - 1426697102",
+            "AL PIE DE LA FIRMA": "EDUARDO HERRERA - 1426697102"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1426697102",
+            "NOMBRES": "EDUARDO HERRERA",
+            "FECHA NACIMIENTO": "28/12/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.457.897",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EDUARDO HERRERA - 1426697102",
+            "AL PIE DE LA FIRMA": "EDUARDO HERRERA - 1426697102"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9092999",
+            "CEDULA": "1426697102",
+            "NOMBRES": "EDUARDO HERRERA",
+            "CREDITO": "16.457.897",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "314.046",
+            "E.A": "20.15%",
+            "RECOMPRA O DESEMBOLSO": "1.055.774",
+            "FIRMA ELLECTRONICA": "EDUARDO HERRERA - 1426697102"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1426697102",
+            "NOMBRES": "EDUARDO HERRERA",
+            "FIRMA ELLECTRONICA": "EDUARDO HERRERA - 1426697102"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1426697102",
+            "NOMBRES": "EDUARDO HERRERA",
+            "FIRMA ELLECTRONICA": "EDUARDO HERRERA - 1426697102",
+            "AL PIE DE LA FIRMA": "EDUARDO HERRERA - 1426697102"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1426697102",
+            "NOMBRES": "EDUARDO HERRERA",
+            "SALARIO": "2.809.400",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1426697102",
+            "NOMBRES": "EDUARDO HERRERA",
+            "RECOMPRA O DESEMBOLSO": "1.055.774"
+        }
+    }
+]

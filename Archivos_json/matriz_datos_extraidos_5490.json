@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "942732127275",
+            "SOLICITUD": "3150242",
+            "CEDULA": "1958285613",
+            "NOMBRES": "LAURA RODRÍGUEZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.326.120",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ VALENCIA - 1958285613"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "942732127275",
+            "NOMBRES": "LAURA RODRÍGUEZ VALENCIA",
+            "CREDITO": "5.299.079",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "302.679",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ VALENCIA - 1958285613",
+            "AL PIE DE LA FIRMA": "LAURA RODRÍGUEZ VALENCIA - 1958285613"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1958285613",
+            "NOMBRES": "LAURA RODRÍGUEZ VALENCIA",
+            "FECHA NACIMIENTO": "19/06/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.299.079",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ VALENCIA - 1958285613",
+            "AL PIE DE LA FIRMA": "LAURA RODRÍGUEZ VALENCIA - 1958285613"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3150242",
+            "CEDULA": "1958285613",
+            "NOMBRES": "LAURA RODRÍGUEZ VALENCIA",
+            "CREDITO": "5.299.079",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "302.679",
+            "E.A": "25.26%",
+            "RECOMPRA O DESEMBOLSO": "2.326.120",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ VALENCIA - 1958285613"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1958285613",
+            "NOMBRES": "LAURA RODRÍGUEZ VALENCIA",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ VALENCIA - 1958285613"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1958285613",
+            "NOMBRES": "LAURA RODRÍGUEZ VALENCIA",
+            "FIRMA ELLECTRONICA": "LAURA RODRÍGUEZ VALENCIA - 1958285613",
+            "AL PIE DE LA FIRMA": "LAURA RODRÍGUEZ VALENCIA - 1958285613"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA RODRÍGUEZ VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1958285613",
+            "NOMBRES": "LAURA RODRÍGUEZ VALENCIA",
+            "SALARIO": "2.415.604",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1958285613",
+            "NOMBRES": "LAURA RODRÍGUEZ VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.326.120"
+        }
+    }
+]

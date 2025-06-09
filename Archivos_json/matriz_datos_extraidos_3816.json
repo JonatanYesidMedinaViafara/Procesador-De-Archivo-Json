@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "652805529159",
+            "SOLICITUD": "2155598",
+            "CEDULA": "1533446900",
+            "NOMBRES": "ROBERTO BARRERA",
+            "RECOMPRA O DESEMBOLSO": "1.785.514",
+            "FIRMA ELLECTRONICA": "ROBERTO BARRERA - 1533446900"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "652805529159",
+            "NOMBRES": "ROBERTO BARRERA",
+            "CREDITO": "18.074.878",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "166.795",
+            "FIRMA ELLECTRONICA": "ROBERTO BARRERA - 1533446900",
+            "AL PIE DE LA FIRMA": "ROBERTO BARRERA - 1533446900"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1533446900",
+            "NOMBRES": "ROBERTO BARRERA",
+            "FECHA NACIMIENTO": "15/11/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.074.878",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ROBERTO BARRERA - 1533446900",
+            "AL PIE DE LA FIRMA": "ROBERTO BARRERA - 1533446900"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2155598",
+            "CEDULA": "1533446900",
+            "NOMBRES": "ROBERTO BARRERA",
+            "CREDITO": "18.074.878",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "166.795",
+            "E.A": "18.05%",
+            "RECOMPRA O DESEMBOLSO": "1.785.514",
+            "FIRMA ELLECTRONICA": "ROBERTO BARRERA - 1533446900"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1533446900",
+            "NOMBRES": "ROBERTO BARRERA",
+            "FIRMA ELLECTRONICA": "ROBERTO BARRERA - 1533446900"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1533446900",
+            "NOMBRES": "ROBERTO BARRERA",
+            "FIRMA ELLECTRONICA": "ROBERTO BARRERA - 1533446900",
+            "AL PIE DE LA FIRMA": "ROBERTO BARRERA - 1533446900"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROBERTO BARRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1533446900",
+            "NOMBRES": "ROBERTO BARRERA",
+            "SALARIO": "3.970.137",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1533446900",
+            "NOMBRES": "ROBERTO BARRERA",
+            "RECOMPRA O DESEMBOLSO": "1.785.514"
+        }
+    }
+]

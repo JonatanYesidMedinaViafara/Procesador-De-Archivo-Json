@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "789800245375",
+            "SOLICITUD": "8675895",
+            "CEDULA": "1720855252",
+            "NOMBRES": "NICOLÁS MARTÍNEZ HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.679.603",
+            "FIRMA ELLECTRONICA": "NICOLÁS MARTÍNEZ HERNÁNDEZ - 1720855252"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "789800245375",
+            "NOMBRES": "NICOLÁS MARTÍNEZ HERNÁNDEZ",
+            "CREDITO": "16.008.842",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "128.018",
+            "FIRMA ELLECTRONICA": "NICOLÁS MARTÍNEZ HERNÁNDEZ - 1720855252",
+            "AL PIE DE LA FIRMA": "NICOLÁS MARTÍNEZ HERNÁNDEZ - 1720855252"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1720855252",
+            "NOMBRES": "NICOLÁS MARTÍNEZ HERNÁNDEZ",
+            "FECHA NACIMIENTO": "11/01/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.008.842",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "NICOLÁS MARTÍNEZ HERNÁNDEZ - 1720855252",
+            "AL PIE DE LA FIRMA": "NICOLÁS MARTÍNEZ HERNÁNDEZ - 1720855252"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8675895",
+            "CEDULA": "1720855252",
+            "NOMBRES": "NICOLÁS MARTÍNEZ HERNÁNDEZ",
+            "CREDITO": "16.008.842",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "128.018",
+            "E.A": "27.58%",
+            "RECOMPRA O DESEMBOLSO": "3.679.603",
+            "FIRMA ELLECTRONICA": "NICOLÁS MARTÍNEZ HERNÁNDEZ - 1720855252"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1720855252",
+            "NOMBRES": "NICOLÁS MARTÍNEZ HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "NICOLÁS MARTÍNEZ HERNÁNDEZ - 1720855252"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1720855252",
+            "NOMBRES": "NICOLÁS MARTÍNEZ HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "NICOLÁS MARTÍNEZ HERNÁNDEZ - 1720855252",
+            "AL PIE DE LA FIRMA": "NICOLÁS MARTÍNEZ HERNÁNDEZ - 1720855252"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NICOLÁS MARTÍNEZ HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1720855252",
+            "NOMBRES": "NICOLÁS MARTÍNEZ HERNÁNDEZ",
+            "SALARIO": "2.525.381",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1720855252",
+            "NOMBRES": "NICOLÁS MARTÍNEZ HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "3.679.603"
+        }
+    }
+]

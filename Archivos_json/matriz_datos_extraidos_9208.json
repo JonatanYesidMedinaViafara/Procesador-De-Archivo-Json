@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "364259935942",
+            "SOLICITUD": "2722209",
+            "CEDULA": "1878831557",
+            "NOMBRES": "ALBERTO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "2.011.469",
+            "FIRMA ELLECTRONICA": "ALBERTO CASTRO - 1878831557"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "364259935942",
+            "NOMBRES": "ALBERTO CASTRO",
+            "CREDITO": "9.087.837",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "364.729",
+            "FIRMA ELLECTRONICA": "ALBERTO CASTRO - 1878831557",
+            "AL PIE DE LA FIRMA": "ALBERTO CASTRO - 1878831557"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1878831557",
+            "NOMBRES": "ALBERTO CASTRO",
+            "FECHA NACIMIENTO": "15/10/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.087.837",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALBERTO CASTRO - 1878831557",
+            "AL PIE DE LA FIRMA": "ALBERTO CASTRO - 1878831557"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2722209",
+            "CEDULA": "1878831557",
+            "NOMBRES": "ALBERTO CASTRO",
+            "CREDITO": "9.087.837",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "364.729",
+            "E.A": "26.98%",
+            "RECOMPRA O DESEMBOLSO": "2.011.469",
+            "FIRMA ELLECTRONICA": "ALBERTO CASTRO - 1878831557"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1878831557",
+            "NOMBRES": "ALBERTO CASTRO",
+            "FIRMA ELLECTRONICA": "ALBERTO CASTRO - 1878831557"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1878831557",
+            "NOMBRES": "ALBERTO CASTRO",
+            "FIRMA ELLECTRONICA": "ALBERTO CASTRO - 1878831557",
+            "AL PIE DE LA FIRMA": "ALBERTO CASTRO - 1878831557"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1878831557",
+            "NOMBRES": "ALBERTO CASTRO",
+            "SALARIO": "4.040.888",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "08/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1878831557",
+            "NOMBRES": "ALBERTO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "2.011.469"
+        }
+    }
+]

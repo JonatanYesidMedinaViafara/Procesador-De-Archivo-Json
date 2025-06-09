@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "395828739349",
+            "SOLICITUD": "5327685",
+            "CEDULA": "1835770030",
+            "NOMBRES": "AUGUSTO RAMOS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.602.410",
+            "FIRMA ELLECTRONICA": "AUGUSTO RAMOS MARTÍNEZ - 1835770030"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "395828739349",
+            "NOMBRES": "AUGUSTO RAMOS MARTÍNEZ",
+            "CREDITO": "7.792.431",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "271.101",
+            "FIRMA ELLECTRONICA": "AUGUSTO RAMOS MARTÍNEZ - 1835770030",
+            "AL PIE DE LA FIRMA": "AUGUSTO RAMOS MARTÍNEZ - 1835770030"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1835770030",
+            "NOMBRES": "AUGUSTO RAMOS MARTÍNEZ",
+            "FECHA NACIMIENTO": "30/03/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.792.431",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "AUGUSTO RAMOS MARTÍNEZ - 1835770030",
+            "AL PIE DE LA FIRMA": "AUGUSTO RAMOS MARTÍNEZ - 1835770030"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5327685",
+            "CEDULA": "1835770030",
+            "NOMBRES": "AUGUSTO RAMOS MARTÍNEZ",
+            "CREDITO": "7.792.431",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "271.101",
+            "E.A": "28.1%",
+            "RECOMPRA O DESEMBOLSO": "1.602.410",
+            "FIRMA ELLECTRONICA": "AUGUSTO RAMOS MARTÍNEZ - 1835770030"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1835770030",
+            "NOMBRES": "AUGUSTO RAMOS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "AUGUSTO RAMOS MARTÍNEZ - 1835770030"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1835770030",
+            "NOMBRES": "AUGUSTO RAMOS MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "AUGUSTO RAMOS MARTÍNEZ - 1835770030",
+            "AL PIE DE LA FIRMA": "AUGUSTO RAMOS MARTÍNEZ - 1835770030"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AUGUSTO RAMOS MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1835770030",
+            "NOMBRES": "AUGUSTO RAMOS MARTÍNEZ",
+            "SALARIO": "2.545.076",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1835770030",
+            "NOMBRES": "AUGUSTO RAMOS MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.602.410"
+        }
+    }
+]

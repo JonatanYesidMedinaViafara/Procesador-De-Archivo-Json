@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "206534193612",
+            "SOLICITUD": "6612966",
+            "CEDULA": "1992920206",
+            "NOMBRES": "JOSÉ MARÍN SERNA",
+            "RECOMPRA O DESEMBOLSO": "4.202.213",
+            "FIRMA ELLECTRONICA": "JOSÉ MARÍN SERNA - 1992920206"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "206534193612",
+            "NOMBRES": "JOSÉ MARÍN SERNA",
+            "CREDITO": "18.157.756",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "137.184",
+            "FIRMA ELLECTRONICA": "JOSÉ MARÍN SERNA - 1992920206",
+            "AL PIE DE LA FIRMA": "JOSÉ MARÍN SERNA - 1992920206"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1992920206",
+            "NOMBRES": "JOSÉ MARÍN SERNA",
+            "FECHA NACIMIENTO": "24/05/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.157.756",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOSÉ MARÍN SERNA - 1992920206",
+            "AL PIE DE LA FIRMA": "JOSÉ MARÍN SERNA - 1992920206"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6612966",
+            "CEDULA": "1992920206",
+            "NOMBRES": "JOSÉ MARÍN SERNA",
+            "CREDITO": "18.157.756",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "137.184",
+            "E.A": "25.81%",
+            "RECOMPRA O DESEMBOLSO": "4.202.213",
+            "FIRMA ELLECTRONICA": "JOSÉ MARÍN SERNA - 1992920206"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1992920206",
+            "NOMBRES": "JOSÉ MARÍN SERNA",
+            "FIRMA ELLECTRONICA": "JOSÉ MARÍN SERNA - 1992920206"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1992920206",
+            "NOMBRES": "JOSÉ MARÍN SERNA",
+            "FIRMA ELLECTRONICA": "JOSÉ MARÍN SERNA - 1992920206",
+            "AL PIE DE LA FIRMA": "JOSÉ MARÍN SERNA - 1992920206"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ MARÍN SERNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1992920206",
+            "NOMBRES": "JOSÉ MARÍN SERNA",
+            "SALARIO": "1.089.498",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1992920206",
+            "NOMBRES": "JOSÉ MARÍN SERNA",
+            "RECOMPRA O DESEMBOLSO": "4.202.213"
+        }
+    }
+]

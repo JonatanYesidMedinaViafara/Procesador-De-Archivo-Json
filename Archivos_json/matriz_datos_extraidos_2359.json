@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "554283193106",
+            "SOLICITUD": "1630924",
+            "CEDULA": "1055941059",
+            "NOMBRES": "LUIS MOLINA",
+            "RECOMPRA O DESEMBOLSO": "2.893.270",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA - 1055941059"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "554283193106",
+            "NOMBRES": "LUIS MOLINA",
+            "CREDITO": "19.929.638",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "296.752",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA - 1055941059",
+            "AL PIE DE LA FIRMA": "LUIS MOLINA - 1055941059"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1055941059",
+            "NOMBRES": "LUIS MOLINA",
+            "FECHA NACIMIENTO": "05/11/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.929.638",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA - 1055941059",
+            "AL PIE DE LA FIRMA": "LUIS MOLINA - 1055941059"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1630924",
+            "CEDULA": "1055941059",
+            "NOMBRES": "LUIS MOLINA",
+            "CREDITO": "19.929.638",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "296.752",
+            "E.A": "26.65%",
+            "RECOMPRA O DESEMBOLSO": "2.893.270",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA - 1055941059"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1055941059",
+            "NOMBRES": "LUIS MOLINA",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA - 1055941059"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1055941059",
+            "NOMBRES": "LUIS MOLINA",
+            "FIRMA ELLECTRONICA": "LUIS MOLINA - 1055941059",
+            "AL PIE DE LA FIRMA": "LUIS MOLINA - 1055941059"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MOLINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1055941059",
+            "NOMBRES": "LUIS MOLINA",
+            "SALARIO": "3.815.022",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1055941059",
+            "NOMBRES": "LUIS MOLINA",
+            "RECOMPRA O DESEMBOLSO": "2.893.270"
+        }
+    }
+]

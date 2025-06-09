@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "805551468892",
+            "SOLICITUD": "5464835",
+            "CEDULA": "1477709676",
+            "NOMBRES": "RAFAEL OVIEDO",
+            "RECOMPRA O DESEMBOLSO": "2.409.807",
+            "FIRMA ELLECTRONICA": "RAFAEL OVIEDO - 1477709676"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "805551468892",
+            "NOMBRES": "RAFAEL OVIEDO",
+            "CREDITO": "18.561.360",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "209.257",
+            "FIRMA ELLECTRONICA": "RAFAEL OVIEDO - 1477709676",
+            "AL PIE DE LA FIRMA": "RAFAEL OVIEDO - 1477709676"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1477709676",
+            "NOMBRES": "RAFAEL OVIEDO",
+            "FECHA NACIMIENTO": "02/01/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.561.360",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RAFAEL OVIEDO - 1477709676",
+            "AL PIE DE LA FIRMA": "RAFAEL OVIEDO - 1477709676"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5464835",
+            "CEDULA": "1477709676",
+            "NOMBRES": "RAFAEL OVIEDO",
+            "CREDITO": "18.561.360",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "209.257",
+            "E.A": "23.42%",
+            "RECOMPRA O DESEMBOLSO": "2.409.807",
+            "FIRMA ELLECTRONICA": "RAFAEL OVIEDO - 1477709676"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1477709676",
+            "NOMBRES": "RAFAEL OVIEDO",
+            "FIRMA ELLECTRONICA": "RAFAEL OVIEDO - 1477709676"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1477709676",
+            "NOMBRES": "RAFAEL OVIEDO",
+            "FIRMA ELLECTRONICA": "RAFAEL OVIEDO - 1477709676",
+            "AL PIE DE LA FIRMA": "RAFAEL OVIEDO - 1477709676"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL OVIEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1477709676",
+            "NOMBRES": "RAFAEL OVIEDO",
+            "SALARIO": "4.325.558",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1477709676",
+            "NOMBRES": "RAFAEL OVIEDO",
+            "RECOMPRA O DESEMBOLSO": "2.409.807"
+        }
+    }
+]

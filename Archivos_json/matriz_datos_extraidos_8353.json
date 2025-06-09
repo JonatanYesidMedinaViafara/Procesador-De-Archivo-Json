@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "898318820271",
+            "SOLICITUD": "8579630",
+            "CEDULA": "1285220343",
+            "NOMBRES": "JULIA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.081.288",
+            "FIRMA ELLECTRONICA": "JULIA RAMÍREZ - 1285220343"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "898318820271",
+            "NOMBRES": "JULIA RAMÍREZ",
+            "CREDITO": "12.351.190",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "311.695",
+            "FIRMA ELLECTRONICA": "JULIA RAMÍREZ - 1285220343",
+            "AL PIE DE LA FIRMA": "JULIA RAMÍREZ - 1285220343"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1285220343",
+            "NOMBRES": "JULIA RAMÍREZ",
+            "FECHA NACIMIENTO": "10/06/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.351.190",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JULIA RAMÍREZ - 1285220343",
+            "AL PIE DE LA FIRMA": "JULIA RAMÍREZ - 1285220343"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8579630",
+            "CEDULA": "1285220343",
+            "NOMBRES": "JULIA RAMÍREZ",
+            "CREDITO": "12.351.190",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "311.695",
+            "E.A": "20.56%",
+            "RECOMPRA O DESEMBOLSO": "1.081.288",
+            "FIRMA ELLECTRONICA": "JULIA RAMÍREZ - 1285220343"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1285220343",
+            "NOMBRES": "JULIA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JULIA RAMÍREZ - 1285220343"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1285220343",
+            "NOMBRES": "JULIA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JULIA RAMÍREZ - 1285220343",
+            "AL PIE DE LA FIRMA": "JULIA RAMÍREZ - 1285220343"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1285220343",
+            "NOMBRES": "JULIA RAMÍREZ",
+            "SALARIO": "1.368.712",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1285220343",
+            "NOMBRES": "JULIA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.081.288"
+        }
+    }
+]

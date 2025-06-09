@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "654882154164",
+            "SOLICITUD": "2002635",
+            "CEDULA": "1956824504",
+            "NOMBRES": "MARCELA PIEDAD PINTO",
+            "RECOMPRA O DESEMBOLSO": "3.453.245",
+            "FIRMA ELLECTRONICA": "MARCELA PIEDAD PINTO - 1956824504"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "654882154164",
+            "NOMBRES": "MARCELA PIEDAD PINTO",
+            "CREDITO": "9.447.025",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.902",
+            "FIRMA ELLECTRONICA": "MARCELA PIEDAD PINTO - 1956824504",
+            "AL PIE DE LA FIRMA": "MARCELA PIEDAD PINTO - 1956824504"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1956824504",
+            "NOMBRES": "MARCELA PIEDAD PINTO",
+            "FECHA NACIMIENTO": "19/08/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.447.025",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARCELA PIEDAD PINTO - 1956824504",
+            "AL PIE DE LA FIRMA": "MARCELA PIEDAD PINTO - 1956824504"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2002635",
+            "CEDULA": "1956824504",
+            "NOMBRES": "MARCELA PIEDAD PINTO",
+            "CREDITO": "9.447.025",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.902",
+            "E.A": "21.58%",
+            "RECOMPRA O DESEMBOLSO": "3.453.245",
+            "FIRMA ELLECTRONICA": "MARCELA PIEDAD PINTO - 1956824504"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1956824504",
+            "NOMBRES": "MARCELA PIEDAD PINTO",
+            "FIRMA ELLECTRONICA": "MARCELA PIEDAD PINTO - 1956824504"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1956824504",
+            "NOMBRES": "MARCELA PIEDAD PINTO",
+            "FIRMA ELLECTRONICA": "MARCELA PIEDAD PINTO - 1956824504",
+            "AL PIE DE LA FIRMA": "MARCELA PIEDAD PINTO - 1956824504"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCELA PIEDAD PINTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1956824504",
+            "NOMBRES": "MARCELA PIEDAD PINTO",
+            "SALARIO": "3.207.954",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1956824504",
+            "NOMBRES": "MARCELA PIEDAD PINTO",
+            "RECOMPRA O DESEMBOLSO": "3.453.245"
+        }
+    }
+]

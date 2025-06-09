@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "428377330530",
+            "SOLICITUD": "2377924",
+            "CEDULA": "1874110956",
+            "NOMBRES": "DIDIER PALACIO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.928.193",
+            "FIRMA ELLECTRONICA": "DIDIER PALACIO GARCÍA - 1874110956"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "428377330530",
+            "NOMBRES": "DIDIER PALACIO GARCÍA",
+            "CREDITO": "10.988.023",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "310.936",
+            "FIRMA ELLECTRONICA": "DIDIER PALACIO GARCÍA - 1874110956",
+            "AL PIE DE LA FIRMA": "DIDIER PALACIO GARCÍA - 1874110956"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1874110956",
+            "NOMBRES": "DIDIER PALACIO GARCÍA",
+            "FECHA NACIMIENTO": "13/05/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.988.023",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DIDIER PALACIO GARCÍA - 1874110956",
+            "AL PIE DE LA FIRMA": "DIDIER PALACIO GARCÍA - 1874110956"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2377924",
+            "CEDULA": "1874110956",
+            "NOMBRES": "DIDIER PALACIO GARCÍA",
+            "CREDITO": "10.988.023",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "310.936",
+            "E.A": "25.5%",
+            "RECOMPRA O DESEMBOLSO": "3.928.193",
+            "FIRMA ELLECTRONICA": "DIDIER PALACIO GARCÍA - 1874110956"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1874110956",
+            "NOMBRES": "DIDIER PALACIO GARCÍA",
+            "FIRMA ELLECTRONICA": "DIDIER PALACIO GARCÍA - 1874110956"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1874110956",
+            "NOMBRES": "DIDIER PALACIO GARCÍA",
+            "FIRMA ELLECTRONICA": "DIDIER PALACIO GARCÍA - 1874110956",
+            "AL PIE DE LA FIRMA": "DIDIER PALACIO GARCÍA - 1874110956"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIDIER PALACIO GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1874110956",
+            "NOMBRES": "DIDIER PALACIO GARCÍA",
+            "SALARIO": "4.104.852",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1874110956",
+            "NOMBRES": "DIDIER PALACIO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.928.193"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "137117586812",
+            "SOLICITUD": "8706519",
+            "CEDULA": "1309338495",
+            "NOMBRES": "GLORIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.433.879",
+            "FIRMA ELLECTRONICA": "GLORIA GARCÍA - 1309338495"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "137117586812",
+            "NOMBRES": "GLORIA GARCÍA",
+            "CREDITO": "6.675.175",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "145.887",
+            "FIRMA ELLECTRONICA": "GLORIA GARCÍA - 1309338495",
+            "AL PIE DE LA FIRMA": "GLORIA GARCÍA - 1309338495"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1309338495",
+            "NOMBRES": "GLORIA GARCÍA",
+            "FECHA NACIMIENTO": "21/04/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.675.175",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "GLORIA GARCÍA - 1309338495",
+            "AL PIE DE LA FIRMA": "GLORIA GARCÍA - 1309338495"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8706519",
+            "CEDULA": "1309338495",
+            "NOMBRES": "GLORIA GARCÍA",
+            "CREDITO": "6.675.175",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "145.887",
+            "E.A": "18.48%",
+            "RECOMPRA O DESEMBOLSO": "1.433.879",
+            "FIRMA ELLECTRONICA": "GLORIA GARCÍA - 1309338495"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1309338495",
+            "NOMBRES": "GLORIA GARCÍA",
+            "FIRMA ELLECTRONICA": "GLORIA GARCÍA - 1309338495"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1309338495",
+            "NOMBRES": "GLORIA GARCÍA",
+            "FIRMA ELLECTRONICA": "GLORIA GARCÍA - 1309338495",
+            "AL PIE DE LA FIRMA": "GLORIA GARCÍA - 1309338495"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GLORIA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1309338495",
+            "NOMBRES": "GLORIA GARCÍA",
+            "SALARIO": "4.993.520",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1309338495",
+            "NOMBRES": "GLORIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.433.879"
+        }
+    }
+]

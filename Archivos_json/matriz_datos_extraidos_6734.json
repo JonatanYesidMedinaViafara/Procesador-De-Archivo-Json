@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "490089504657",
+            "SOLICITUD": "5626010",
+            "CEDULA": "1281197995",
+            "NOMBRES": "MARTÍN ALFONSO TAMAYO",
+            "RECOMPRA O DESEMBOLSO": "4.410.704",
+            "FIRMA ELLECTRONICA": "MARTÍN ALFONSO TAMAYO - 1281197995"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "490089504657",
+            "NOMBRES": "MARTÍN ALFONSO TAMAYO",
+            "CREDITO": "6.069.761",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "350.16",
+            "FIRMA ELLECTRONICA": "MARTÍN ALFONSO TAMAYO - 1281197995",
+            "AL PIE DE LA FIRMA": "MARTÍN ALFONSO TAMAYO - 1281197995"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1281197995",
+            "NOMBRES": "MARTÍN ALFONSO TAMAYO",
+            "FECHA NACIMIENTO": "08/09/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.069.761",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARTÍN ALFONSO TAMAYO - 1281197995",
+            "AL PIE DE LA FIRMA": "MARTÍN ALFONSO TAMAYO - 1281197995"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5626010",
+            "CEDULA": "1281197995",
+            "NOMBRES": "MARTÍN ALFONSO TAMAYO",
+            "CREDITO": "6.069.761",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "350.16",
+            "E.A": "22.76%",
+            "RECOMPRA O DESEMBOLSO": "4.410.704",
+            "FIRMA ELLECTRONICA": "MARTÍN ALFONSO TAMAYO - 1281197995"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1281197995",
+            "NOMBRES": "MARTÍN ALFONSO TAMAYO",
+            "FIRMA ELLECTRONICA": "MARTÍN ALFONSO TAMAYO - 1281197995"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1281197995",
+            "NOMBRES": "MARTÍN ALFONSO TAMAYO",
+            "FIRMA ELLECTRONICA": "MARTÍN ALFONSO TAMAYO - 1281197995",
+            "AL PIE DE LA FIRMA": "MARTÍN ALFONSO TAMAYO - 1281197995"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTÍN ALFONSO TAMAYO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1281197995",
+            "NOMBRES": "MARTÍN ALFONSO TAMAYO",
+            "SALARIO": "2.116.623",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1281197995",
+            "NOMBRES": "MARTÍN ALFONSO TAMAYO",
+            "RECOMPRA O DESEMBOLSO": "4.410.704"
+        }
+    }
+]

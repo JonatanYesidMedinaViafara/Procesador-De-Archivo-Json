@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "412531239210",
+            "SOLICITUD": "9061748",
+            "CEDULA": "1225555193",
+            "NOMBRES": "DIANA DUQUE",
+            "RECOMPRA O DESEMBOLSO": "3.630.165",
+            "FIRMA ELLECTRONICA": "DIANA DUQUE - 1225555193"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "412531239210",
+            "NOMBRES": "DIANA DUQUE",
+            "CREDITO": "14.845.271",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "145.225",
+            "FIRMA ELLECTRONICA": "DIANA DUQUE - 1225555193",
+            "AL PIE DE LA FIRMA": "DIANA DUQUE - 1225555193"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1225555193",
+            "NOMBRES": "DIANA DUQUE",
+            "FECHA NACIMIENTO": "05/06/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.845.271",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DIANA DUQUE - 1225555193",
+            "AL PIE DE LA FIRMA": "DIANA DUQUE - 1225555193"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9061748",
+            "CEDULA": "1225555193",
+            "NOMBRES": "DIANA DUQUE",
+            "CREDITO": "14.845.271",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "145.225",
+            "E.A": "27.73%",
+            "RECOMPRA O DESEMBOLSO": "3.630.165",
+            "FIRMA ELLECTRONICA": "DIANA DUQUE - 1225555193"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1225555193",
+            "NOMBRES": "DIANA DUQUE",
+            "FIRMA ELLECTRONICA": "DIANA DUQUE - 1225555193"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1225555193",
+            "NOMBRES": "DIANA DUQUE",
+            "FIRMA ELLECTRONICA": "DIANA DUQUE - 1225555193",
+            "AL PIE DE LA FIRMA": "DIANA DUQUE - 1225555193"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA DUQUE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1225555193",
+            "NOMBRES": "DIANA DUQUE",
+            "SALARIO": "4.626.399",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1225555193",
+            "NOMBRES": "DIANA DUQUE",
+            "RECOMPRA O DESEMBOLSO": "3.630.165"
+        }
+    }
+]

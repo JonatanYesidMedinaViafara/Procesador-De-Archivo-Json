@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "941768915727",
+            "SOLICITUD": "4557258",
+            "CEDULA": "1699483464",
+            "NOMBRES": "RAFAEL VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.579.389",
+            "FIRMA ELLECTRONICA": "RAFAEL VEGA - 1699483464"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "941768915727",
+            "NOMBRES": "RAFAEL VEGA",
+            "CREDITO": "18.902.753",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "187.079",
+            "FIRMA ELLECTRONICA": "RAFAEL VEGA - 1699483464",
+            "AL PIE DE LA FIRMA": "RAFAEL VEGA - 1699483464"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1699483464",
+            "NOMBRES": "RAFAEL VEGA",
+            "FECHA NACIMIENTO": "12/04/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.902.753",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RAFAEL VEGA - 1699483464",
+            "AL PIE DE LA FIRMA": "RAFAEL VEGA - 1699483464"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4557258",
+            "CEDULA": "1699483464",
+            "NOMBRES": "RAFAEL VEGA",
+            "CREDITO": "18.902.753",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "187.079",
+            "E.A": "23.87%",
+            "RECOMPRA O DESEMBOLSO": "3.579.389",
+            "FIRMA ELLECTRONICA": "RAFAEL VEGA - 1699483464"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1699483464",
+            "NOMBRES": "RAFAEL VEGA",
+            "FIRMA ELLECTRONICA": "RAFAEL VEGA - 1699483464"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1699483464",
+            "NOMBRES": "RAFAEL VEGA",
+            "FIRMA ELLECTRONICA": "RAFAEL VEGA - 1699483464",
+            "AL PIE DE LA FIRMA": "RAFAEL VEGA - 1699483464"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1699483464",
+            "NOMBRES": "RAFAEL VEGA",
+            "SALARIO": "1.088.178",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1699483464",
+            "NOMBRES": "RAFAEL VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.579.389"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "892377124048",
+            "SOLICITUD": "8294993",
+            "CEDULA": "1765035657",
+            "NOMBRES": "SEBASTIÁN RAMOS",
+            "RECOMPRA O DESEMBOLSO": "3.586.660",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN RAMOS - 1765035657"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "892377124048",
+            "NOMBRES": "SEBASTIÁN RAMOS",
+            "CREDITO": "5.951.511",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "165.978",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN RAMOS - 1765035657",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN RAMOS - 1765035657"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1765035657",
+            "NOMBRES": "SEBASTIÁN RAMOS",
+            "FECHA NACIMIENTO": "02/02/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.951.511",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN RAMOS - 1765035657",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN RAMOS - 1765035657"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8294993",
+            "CEDULA": "1765035657",
+            "NOMBRES": "SEBASTIÁN RAMOS",
+            "CREDITO": "5.951.511",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "165.978",
+            "E.A": "20.84%",
+            "RECOMPRA O DESEMBOLSO": "3.586.660",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN RAMOS - 1765035657"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1765035657",
+            "NOMBRES": "SEBASTIÁN RAMOS",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN RAMOS - 1765035657"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1765035657",
+            "NOMBRES": "SEBASTIÁN RAMOS",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN RAMOS - 1765035657",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN RAMOS - 1765035657"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEBASTIÁN RAMOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1765035657",
+            "NOMBRES": "SEBASTIÁN RAMOS",
+            "SALARIO": "1.141.930",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1765035657",
+            "NOMBRES": "SEBASTIÁN RAMOS",
+            "RECOMPRA O DESEMBOLSO": "3.586.660"
+        }
+    }
+]

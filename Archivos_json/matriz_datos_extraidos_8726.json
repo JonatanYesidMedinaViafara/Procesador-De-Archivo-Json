@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "445538218571",
+            "SOLICITUD": "7884320",
+            "CEDULA": "1746639471",
+            "NOMBRES": "FRANCISCO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.194.872",
+            "FIRMA ELLECTRONICA": "FRANCISCO LÓPEZ - 1746639471"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "445538218571",
+            "NOMBRES": "FRANCISCO LÓPEZ",
+            "CREDITO": "8.509.366",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.417",
+            "FIRMA ELLECTRONICA": "FRANCISCO LÓPEZ - 1746639471",
+            "AL PIE DE LA FIRMA": "FRANCISCO LÓPEZ - 1746639471"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1746639471",
+            "NOMBRES": "FRANCISCO LÓPEZ",
+            "FECHA NACIMIENTO": "31/12/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.509.366",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FRANCISCO LÓPEZ - 1746639471",
+            "AL PIE DE LA FIRMA": "FRANCISCO LÓPEZ - 1746639471"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7884320",
+            "CEDULA": "1746639471",
+            "NOMBRES": "FRANCISCO LÓPEZ",
+            "CREDITO": "8.509.366",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "293.417",
+            "E.A": "26.63%",
+            "RECOMPRA O DESEMBOLSO": "2.194.872",
+            "FIRMA ELLECTRONICA": "FRANCISCO LÓPEZ - 1746639471"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1746639471",
+            "NOMBRES": "FRANCISCO LÓPEZ",
+            "FIRMA ELLECTRONICA": "FRANCISCO LÓPEZ - 1746639471"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1746639471",
+            "NOMBRES": "FRANCISCO LÓPEZ",
+            "FIRMA ELLECTRONICA": "FRANCISCO LÓPEZ - 1746639471",
+            "AL PIE DE LA FIRMA": "FRANCISCO LÓPEZ - 1746639471"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1746639471",
+            "NOMBRES": "FRANCISCO LÓPEZ",
+            "SALARIO": "4.485.155",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1746639471",
+            "NOMBRES": "FRANCISCO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.194.872"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "981339229547",
+            "SOLICITUD": "8346668",
+            "CEDULA": "1075651739",
+            "NOMBRES": "LUZ ARDILA",
+            "RECOMPRA O DESEMBOLSO": "3.559.221",
+            "FIRMA ELLECTRONICA": "LUZ ARDILA - 1075651739"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "981339229547",
+            "NOMBRES": "LUZ ARDILA",
+            "CREDITO": "12.326.710",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "165.98",
+            "FIRMA ELLECTRONICA": "LUZ ARDILA - 1075651739",
+            "AL PIE DE LA FIRMA": "LUZ ARDILA - 1075651739"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1075651739",
+            "NOMBRES": "LUZ ARDILA",
+            "FECHA NACIMIENTO": "28/02/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.326.710",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUZ ARDILA - 1075651739",
+            "AL PIE DE LA FIRMA": "LUZ ARDILA - 1075651739"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8346668",
+            "CEDULA": "1075651739",
+            "NOMBRES": "LUZ ARDILA",
+            "CREDITO": "12.326.710",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "165.98",
+            "E.A": "20.4%",
+            "RECOMPRA O DESEMBOLSO": "3.559.221",
+            "FIRMA ELLECTRONICA": "LUZ ARDILA - 1075651739"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1075651739",
+            "NOMBRES": "LUZ ARDILA",
+            "FIRMA ELLECTRONICA": "LUZ ARDILA - 1075651739"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1075651739",
+            "NOMBRES": "LUZ ARDILA",
+            "FIRMA ELLECTRONICA": "LUZ ARDILA - 1075651739",
+            "AL PIE DE LA FIRMA": "LUZ ARDILA - 1075651739"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ ARDILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1075651739",
+            "NOMBRES": "LUZ ARDILA",
+            "SALARIO": "1.964.399",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1075651739",
+            "NOMBRES": "LUZ ARDILA",
+            "RECOMPRA O DESEMBOLSO": "3.559.221"
+        }
+    }
+]

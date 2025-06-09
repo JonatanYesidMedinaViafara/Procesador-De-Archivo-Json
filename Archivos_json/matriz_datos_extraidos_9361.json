@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "218567770006",
+            "SOLICITUD": "2631087",
+            "CEDULA": "1288935476",
+            "NOMBRES": "HERNÁN BELTRÁN CASTRO",
+            "RECOMPRA O DESEMBOLSO": "1.586.550",
+            "FIRMA ELLECTRONICA": "HERNÁN BELTRÁN CASTRO - 1288935476"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "218567770006",
+            "NOMBRES": "HERNÁN BELTRÁN CASTRO",
+            "CREDITO": "9.845.951",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "261.43",
+            "FIRMA ELLECTRONICA": "HERNÁN BELTRÁN CASTRO - 1288935476",
+            "AL PIE DE LA FIRMA": "HERNÁN BELTRÁN CASTRO - 1288935476"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1288935476",
+            "NOMBRES": "HERNÁN BELTRÁN CASTRO",
+            "FECHA NACIMIENTO": "29/05/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.845.951",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HERNÁN BELTRÁN CASTRO - 1288935476",
+            "AL PIE DE LA FIRMA": "HERNÁN BELTRÁN CASTRO - 1288935476"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2631087",
+            "CEDULA": "1288935476",
+            "NOMBRES": "HERNÁN BELTRÁN CASTRO",
+            "CREDITO": "9.845.951",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "261.43",
+            "E.A": "27.45%",
+            "RECOMPRA O DESEMBOLSO": "1.586.550",
+            "FIRMA ELLECTRONICA": "HERNÁN BELTRÁN CASTRO - 1288935476"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1288935476",
+            "NOMBRES": "HERNÁN BELTRÁN CASTRO",
+            "FIRMA ELLECTRONICA": "HERNÁN BELTRÁN CASTRO - 1288935476"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1288935476",
+            "NOMBRES": "HERNÁN BELTRÁN CASTRO",
+            "FIRMA ELLECTRONICA": "HERNÁN BELTRÁN CASTRO - 1288935476",
+            "AL PIE DE LA FIRMA": "HERNÁN BELTRÁN CASTRO - 1288935476"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNÁN BELTRÁN CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1288935476",
+            "NOMBRES": "HERNÁN BELTRÁN CASTRO",
+            "SALARIO": "3.481.543",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1288935476",
+            "NOMBRES": "HERNÁN BELTRÁN CASTRO",
+            "RECOMPRA O DESEMBOLSO": "1.586.550"
+        }
+    }
+]

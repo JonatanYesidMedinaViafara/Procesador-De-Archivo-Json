@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "885090666918",
+            "SOLICITUD": "8848187",
+            "CEDULA": "1949616334",
+            "NOMBRES": "ANDRÉS CORREA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.068.919",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORREA RODRÍGUEZ - 1949616334"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "885090666918",
+            "NOMBRES": "ANDRÉS CORREA RODRÍGUEZ",
+            "CREDITO": "12.788.697",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "228.784",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORREA RODRÍGUEZ - 1949616334",
+            "AL PIE DE LA FIRMA": "ANDRÉS CORREA RODRÍGUEZ - 1949616334"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1949616334",
+            "NOMBRES": "ANDRÉS CORREA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "19/02/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.788.697",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORREA RODRÍGUEZ - 1949616334",
+            "AL PIE DE LA FIRMA": "ANDRÉS CORREA RODRÍGUEZ - 1949616334"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8848187",
+            "CEDULA": "1949616334",
+            "NOMBRES": "ANDRÉS CORREA RODRÍGUEZ",
+            "CREDITO": "12.788.697",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "228.784",
+            "E.A": "18.71%",
+            "RECOMPRA O DESEMBOLSO": "1.068.919",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORREA RODRÍGUEZ - 1949616334"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1949616334",
+            "NOMBRES": "ANDRÉS CORREA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORREA RODRÍGUEZ - 1949616334"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1949616334",
+            "NOMBRES": "ANDRÉS CORREA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORREA RODRÍGUEZ - 1949616334",
+            "AL PIE DE LA FIRMA": "ANDRÉS CORREA RODRÍGUEZ - 1949616334"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS CORREA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1949616334",
+            "NOMBRES": "ANDRÉS CORREA RODRÍGUEZ",
+            "SALARIO": "3.833.636",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1949616334",
+            "NOMBRES": "ANDRÉS CORREA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.068.919"
+        }
+    }
+]

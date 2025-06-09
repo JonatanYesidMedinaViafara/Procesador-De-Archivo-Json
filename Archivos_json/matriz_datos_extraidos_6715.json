@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "517586644396",
+            "SOLICITUD": "5175374",
+            "CEDULA": "1088282817",
+            "NOMBRES": "RICARDO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.446.447",
+            "FIRMA ELLECTRONICA": "RICARDO GÓMEZ - 1088282817"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "517586644396",
+            "NOMBRES": "RICARDO GÓMEZ",
+            "CREDITO": "10.682.854",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "147.371",
+            "FIRMA ELLECTRONICA": "RICARDO GÓMEZ - 1088282817",
+            "AL PIE DE LA FIRMA": "RICARDO GÓMEZ - 1088282817"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1088282817",
+            "NOMBRES": "RICARDO GÓMEZ",
+            "FECHA NACIMIENTO": "03/09/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.682.854",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RICARDO GÓMEZ - 1088282817",
+            "AL PIE DE LA FIRMA": "RICARDO GÓMEZ - 1088282817"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5175374",
+            "CEDULA": "1088282817",
+            "NOMBRES": "RICARDO GÓMEZ",
+            "CREDITO": "10.682.854",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "147.371",
+            "E.A": "19.26%",
+            "RECOMPRA O DESEMBOLSO": "2.446.447",
+            "FIRMA ELLECTRONICA": "RICARDO GÓMEZ - 1088282817"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1088282817",
+            "NOMBRES": "RICARDO GÓMEZ",
+            "FIRMA ELLECTRONICA": "RICARDO GÓMEZ - 1088282817"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1088282817",
+            "NOMBRES": "RICARDO GÓMEZ",
+            "FIRMA ELLECTRONICA": "RICARDO GÓMEZ - 1088282817",
+            "AL PIE DE LA FIRMA": "RICARDO GÓMEZ - 1088282817"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RICARDO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1088282817",
+            "NOMBRES": "RICARDO GÓMEZ",
+            "SALARIO": "1.847.804",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1088282817",
+            "NOMBRES": "RICARDO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.446.447"
+        }
+    }
+]

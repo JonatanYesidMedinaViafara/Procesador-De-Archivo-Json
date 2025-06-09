@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "646288504487",
+            "SOLICITUD": "8613972",
+            "CEDULA": "1515821074",
+            "NOMBRES": "MANUEL ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "1.697.879",
+            "FIRMA ELLECTRONICA": "MANUEL ZAPATA - 1515821074"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "646288504487",
+            "NOMBRES": "MANUEL ZAPATA",
+            "CREDITO": "19.839.234",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "396.995",
+            "FIRMA ELLECTRONICA": "MANUEL ZAPATA - 1515821074",
+            "AL PIE DE LA FIRMA": "MANUEL ZAPATA - 1515821074"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1515821074",
+            "NOMBRES": "MANUEL ZAPATA",
+            "FECHA NACIMIENTO": "03/04/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.839.234",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MANUEL ZAPATA - 1515821074",
+            "AL PIE DE LA FIRMA": "MANUEL ZAPATA - 1515821074"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8613972",
+            "CEDULA": "1515821074",
+            "NOMBRES": "MANUEL ZAPATA",
+            "CREDITO": "19.839.234",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "396.995",
+            "E.A": "19.83%",
+            "RECOMPRA O DESEMBOLSO": "1.697.879",
+            "FIRMA ELLECTRONICA": "MANUEL ZAPATA - 1515821074"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1515821074",
+            "NOMBRES": "MANUEL ZAPATA",
+            "FIRMA ELLECTRONICA": "MANUEL ZAPATA - 1515821074"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1515821074",
+            "NOMBRES": "MANUEL ZAPATA",
+            "FIRMA ELLECTRONICA": "MANUEL ZAPATA - 1515821074",
+            "AL PIE DE LA FIRMA": "MANUEL ZAPATA - 1515821074"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1515821074",
+            "NOMBRES": "MANUEL ZAPATA",
+            "SALARIO": "4.145.325",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1515821074",
+            "NOMBRES": "MANUEL ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "1.697.879"
+        }
+    }
+]

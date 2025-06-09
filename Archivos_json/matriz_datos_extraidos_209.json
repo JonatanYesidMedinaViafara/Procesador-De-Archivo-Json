@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "535567081274",
+            "SOLICITUD": "6383383",
+            "CEDULA": "1779042103",
+            "NOMBRES": "ÁLVARO PABLO VALLEJO",
+            "RECOMPRA O DESEMBOLSO": "4.562.049",
+            "FIRMA ELLECTRONICA": "ÁLVARO PABLO VALLEJO - 1779042103"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "535567081274",
+            "NOMBRES": "ÁLVARO PABLO VALLEJO",
+            "CREDITO": "16.191.671",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "330.362",
+            "FIRMA ELLECTRONICA": "ÁLVARO PABLO VALLEJO - 1779042103",
+            "AL PIE DE LA FIRMA": "ÁLVARO PABLO VALLEJO - 1779042103"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1779042103",
+            "NOMBRES": "ÁLVARO PABLO VALLEJO",
+            "FECHA NACIMIENTO": "25/06/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.191.671",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ÁLVARO PABLO VALLEJO - 1779042103",
+            "AL PIE DE LA FIRMA": "ÁLVARO PABLO VALLEJO - 1779042103"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6383383",
+            "CEDULA": "1779042103",
+            "NOMBRES": "ÁLVARO PABLO VALLEJO",
+            "CREDITO": "16.191.671",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "330.362",
+            "E.A": "28.09%",
+            "RECOMPRA O DESEMBOLSO": "4.562.049",
+            "FIRMA ELLECTRONICA": "ÁLVARO PABLO VALLEJO - 1779042103"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1779042103",
+            "NOMBRES": "ÁLVARO PABLO VALLEJO",
+            "FIRMA ELLECTRONICA": "ÁLVARO PABLO VALLEJO - 1779042103"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1779042103",
+            "NOMBRES": "ÁLVARO PABLO VALLEJO",
+            "FIRMA ELLECTRONICA": "ÁLVARO PABLO VALLEJO - 1779042103",
+            "AL PIE DE LA FIRMA": "ÁLVARO PABLO VALLEJO - 1779042103"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO PABLO VALLEJO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1779042103",
+            "NOMBRES": "ÁLVARO PABLO VALLEJO",
+            "SALARIO": "2.343.299",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1779042103",
+            "NOMBRES": "ÁLVARO PABLO VALLEJO",
+            "RECOMPRA O DESEMBOLSO": "4.562.049"
+        }
+    }
+]

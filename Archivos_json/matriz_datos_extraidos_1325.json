@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "546542411233",
+            "SOLICITUD": "3746285",
+            "CEDULA": "1479399175",
+            "NOMBRES": "JORGE HERNÁN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.081.989",
+            "FIRMA ELLECTRONICA": "JORGE HERNÁN PÉREZ - 1479399175"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "546542411233",
+            "NOMBRES": "JORGE HERNÁN PÉREZ",
+            "CREDITO": "15.535.423",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "295.512",
+            "FIRMA ELLECTRONICA": "JORGE HERNÁN PÉREZ - 1479399175",
+            "AL PIE DE LA FIRMA": "JORGE HERNÁN PÉREZ - 1479399175"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1479399175",
+            "NOMBRES": "JORGE HERNÁN PÉREZ",
+            "FECHA NACIMIENTO": "05/09/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.535.423",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JORGE HERNÁN PÉREZ - 1479399175",
+            "AL PIE DE LA FIRMA": "JORGE HERNÁN PÉREZ - 1479399175"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3746285",
+            "CEDULA": "1479399175",
+            "NOMBRES": "JORGE HERNÁN PÉREZ",
+            "CREDITO": "15.535.423",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "295.512",
+            "E.A": "18.36%",
+            "RECOMPRA O DESEMBOLSO": "3.081.989",
+            "FIRMA ELLECTRONICA": "JORGE HERNÁN PÉREZ - 1479399175"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1479399175",
+            "NOMBRES": "JORGE HERNÁN PÉREZ",
+            "FIRMA ELLECTRONICA": "JORGE HERNÁN PÉREZ - 1479399175"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1479399175",
+            "NOMBRES": "JORGE HERNÁN PÉREZ",
+            "FIRMA ELLECTRONICA": "JORGE HERNÁN PÉREZ - 1479399175",
+            "AL PIE DE LA FIRMA": "JORGE HERNÁN PÉREZ - 1479399175"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE HERNÁN PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1479399175",
+            "NOMBRES": "JORGE HERNÁN PÉREZ",
+            "SALARIO": "1.434.304",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1479399175",
+            "NOMBRES": "JORGE HERNÁN PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.081.989"
+        }
+    }
+]

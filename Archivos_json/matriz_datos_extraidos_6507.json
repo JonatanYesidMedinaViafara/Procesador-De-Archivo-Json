@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "690044478039",
+            "SOLICITUD": "5774977",
+            "CEDULA": "1087683423",
+            "NOMBRES": "MARÍA MORALES",
+            "RECOMPRA O DESEMBOLSO": "4.518.526",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1087683423"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "690044478039",
+            "NOMBRES": "MARÍA MORALES",
+            "CREDITO": "7.958.402",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "259.449",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1087683423",
+            "AL PIE DE LA FIRMA": "MARÍA MORALES - 1087683423"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1087683423",
+            "NOMBRES": "MARÍA MORALES",
+            "FECHA NACIMIENTO": "15/04/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.958.402",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1087683423",
+            "AL PIE DE LA FIRMA": "MARÍA MORALES - 1087683423"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5774977",
+            "CEDULA": "1087683423",
+            "NOMBRES": "MARÍA MORALES",
+            "CREDITO": "7.958.402",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "259.449",
+            "E.A": "19.74%",
+            "RECOMPRA O DESEMBOLSO": "4.518.526",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1087683423"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1087683423",
+            "NOMBRES": "MARÍA MORALES",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1087683423"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1087683423",
+            "NOMBRES": "MARÍA MORALES",
+            "FIRMA ELLECTRONICA": "MARÍA MORALES - 1087683423",
+            "AL PIE DE LA FIRMA": "MARÍA MORALES - 1087683423"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1087683423",
+            "NOMBRES": "MARÍA MORALES",
+            "SALARIO": "4.045.163",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1087683423",
+            "NOMBRES": "MARÍA MORALES",
+            "RECOMPRA O DESEMBOLSO": "4.518.526"
+        }
+    }
+]

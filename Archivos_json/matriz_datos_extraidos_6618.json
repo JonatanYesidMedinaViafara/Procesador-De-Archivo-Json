@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "584689219726",
+            "SOLICITUD": "7878663",
+            "CEDULA": "1267123494",
+            "NOMBRES": "SAMUEL CHÁVEZ",
+            "RECOMPRA O DESEMBOLSO": "4.539.932",
+            "FIRMA ELLECTRONICA": "SAMUEL CHÁVEZ - 1267123494"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "584689219726",
+            "NOMBRES": "SAMUEL CHÁVEZ",
+            "CREDITO": "14.394.219",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "349.579",
+            "FIRMA ELLECTRONICA": "SAMUEL CHÁVEZ - 1267123494",
+            "AL PIE DE LA FIRMA": "SAMUEL CHÁVEZ - 1267123494"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1267123494",
+            "NOMBRES": "SAMUEL CHÁVEZ",
+            "FECHA NACIMIENTO": "05/05/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.394.219",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SAMUEL CHÁVEZ - 1267123494",
+            "AL PIE DE LA FIRMA": "SAMUEL CHÁVEZ - 1267123494"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7878663",
+            "CEDULA": "1267123494",
+            "NOMBRES": "SAMUEL CHÁVEZ",
+            "CREDITO": "14.394.219",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "349.579",
+            "E.A": "22.22%",
+            "RECOMPRA O DESEMBOLSO": "4.539.932",
+            "FIRMA ELLECTRONICA": "SAMUEL CHÁVEZ - 1267123494"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1267123494",
+            "NOMBRES": "SAMUEL CHÁVEZ",
+            "FIRMA ELLECTRONICA": "SAMUEL CHÁVEZ - 1267123494"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1267123494",
+            "NOMBRES": "SAMUEL CHÁVEZ",
+            "FIRMA ELLECTRONICA": "SAMUEL CHÁVEZ - 1267123494",
+            "AL PIE DE LA FIRMA": "SAMUEL CHÁVEZ - 1267123494"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SAMUEL CHÁVEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1267123494",
+            "NOMBRES": "SAMUEL CHÁVEZ",
+            "SALARIO": "1.568.724",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1267123494",
+            "NOMBRES": "SAMUEL CHÁVEZ",
+            "RECOMPRA O DESEMBOLSO": "4.539.932"
+        }
+    }
+]

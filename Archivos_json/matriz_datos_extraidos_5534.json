@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "204214836409",
+            "SOLICITUD": "3610635",
+            "CEDULA": "1155120774",
+            "NOMBRES": "SEBASTIÁN ÓSCAR VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.603.979",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ÓSCAR VEGA - 1155120774"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "204214836409",
+            "NOMBRES": "SEBASTIÁN ÓSCAR VEGA",
+            "CREDITO": "10.706.889",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "226.378",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ÓSCAR VEGA - 1155120774",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN ÓSCAR VEGA - 1155120774"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1155120774",
+            "NOMBRES": "SEBASTIÁN ÓSCAR VEGA",
+            "FECHA NACIMIENTO": "18/05/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.706.889",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ÓSCAR VEGA - 1155120774",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN ÓSCAR VEGA - 1155120774"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3610635",
+            "CEDULA": "1155120774",
+            "NOMBRES": "SEBASTIÁN ÓSCAR VEGA",
+            "CREDITO": "10.706.889",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "226.378",
+            "E.A": "19.4%",
+            "RECOMPRA O DESEMBOLSO": "3.603.979",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ÓSCAR VEGA - 1155120774"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1155120774",
+            "NOMBRES": "SEBASTIÁN ÓSCAR VEGA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ÓSCAR VEGA - 1155120774"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1155120774",
+            "NOMBRES": "SEBASTIÁN ÓSCAR VEGA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN ÓSCAR VEGA - 1155120774",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN ÓSCAR VEGA - 1155120774"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEBASTIÁN ÓSCAR VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1155120774",
+            "NOMBRES": "SEBASTIÁN ÓSCAR VEGA",
+            "SALARIO": "2.108.880",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1155120774",
+            "NOMBRES": "SEBASTIÁN ÓSCAR VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.603.979"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "477639113194",
+            "SOLICITUD": "5106725",
+            "CEDULA": "1460169653",
+            "NOMBRES": "DANIELA MARÍA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.122.437",
+            "FIRMA ELLECTRONICA": "DANIELA MARÍA ROJAS - 1460169653"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "477639113194",
+            "NOMBRES": "DANIELA MARÍA ROJAS",
+            "CREDITO": "12.543.160",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.325",
+            "FIRMA ELLECTRONICA": "DANIELA MARÍA ROJAS - 1460169653",
+            "AL PIE DE LA FIRMA": "DANIELA MARÍA ROJAS - 1460169653"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1460169653",
+            "NOMBRES": "DANIELA MARÍA ROJAS",
+            "FECHA NACIMIENTO": "10/11/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.543.160",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DANIELA MARÍA ROJAS - 1460169653",
+            "AL PIE DE LA FIRMA": "DANIELA MARÍA ROJAS - 1460169653"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5106725",
+            "CEDULA": "1460169653",
+            "NOMBRES": "DANIELA MARÍA ROJAS",
+            "CREDITO": "12.543.160",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.325",
+            "E.A": "23.7%",
+            "RECOMPRA O DESEMBOLSO": "3.122.437",
+            "FIRMA ELLECTRONICA": "DANIELA MARÍA ROJAS - 1460169653"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1460169653",
+            "NOMBRES": "DANIELA MARÍA ROJAS",
+            "FIRMA ELLECTRONICA": "DANIELA MARÍA ROJAS - 1460169653"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1460169653",
+            "NOMBRES": "DANIELA MARÍA ROJAS",
+            "FIRMA ELLECTRONICA": "DANIELA MARÍA ROJAS - 1460169653",
+            "AL PIE DE LA FIRMA": "DANIELA MARÍA ROJAS - 1460169653"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIELA MARÍA ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1460169653",
+            "NOMBRES": "DANIELA MARÍA ROJAS",
+            "SALARIO": "4.826.383",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1460169653",
+            "NOMBRES": "DANIELA MARÍA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.122.437"
+        }
+    }
+]

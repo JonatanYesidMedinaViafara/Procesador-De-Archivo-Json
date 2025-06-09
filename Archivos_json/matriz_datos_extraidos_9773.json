@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "381068932448",
+            "SOLICITUD": "7276798",
+            "CEDULA": "1830780945",
+            "NOMBRES": "ALONSO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.922.759",
+            "FIRMA ELLECTRONICA": "ALONSO SÁNCHEZ - 1830780945"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "381068932448",
+            "NOMBRES": "ALONSO SÁNCHEZ",
+            "CREDITO": "18.745.842",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "226.955",
+            "FIRMA ELLECTRONICA": "ALONSO SÁNCHEZ - 1830780945",
+            "AL PIE DE LA FIRMA": "ALONSO SÁNCHEZ - 1830780945"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1830780945",
+            "NOMBRES": "ALONSO SÁNCHEZ",
+            "FECHA NACIMIENTO": "30/05/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.745.842",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALONSO SÁNCHEZ - 1830780945",
+            "AL PIE DE LA FIRMA": "ALONSO SÁNCHEZ - 1830780945"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7276798",
+            "CEDULA": "1830780945",
+            "NOMBRES": "ALONSO SÁNCHEZ",
+            "CREDITO": "18.745.842",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "226.955",
+            "E.A": "23.52%",
+            "RECOMPRA O DESEMBOLSO": "2.922.759",
+            "FIRMA ELLECTRONICA": "ALONSO SÁNCHEZ - 1830780945"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1830780945",
+            "NOMBRES": "ALONSO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ALONSO SÁNCHEZ - 1830780945"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1830780945",
+            "NOMBRES": "ALONSO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "ALONSO SÁNCHEZ - 1830780945",
+            "AL PIE DE LA FIRMA": "ALONSO SÁNCHEZ - 1830780945"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALONSO SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1830780945",
+            "NOMBRES": "ALONSO SÁNCHEZ",
+            "SALARIO": "2.418.474",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1830780945",
+            "NOMBRES": "ALONSO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "2.922.759"
+        }
+    }
+]

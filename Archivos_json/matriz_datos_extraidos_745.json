@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "439881861897",
+            "SOLICITUD": "2933934",
+            "CEDULA": "1555994124",
+            "NOMBRES": "JOSEFINA MÓNICA BARRERA",
+            "RECOMPRA O DESEMBOLSO": "2.042.020",
+            "FIRMA ELLECTRONICA": "JOSEFINA MÓNICA BARRERA - 1555994124"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "439881861897",
+            "NOMBRES": "JOSEFINA MÓNICA BARRERA",
+            "CREDITO": "7.413.551",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "364.383",
+            "FIRMA ELLECTRONICA": "JOSEFINA MÓNICA BARRERA - 1555994124",
+            "AL PIE DE LA FIRMA": "JOSEFINA MÓNICA BARRERA - 1555994124"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1555994124",
+            "NOMBRES": "JOSEFINA MÓNICA BARRERA",
+            "FECHA NACIMIENTO": "01/06/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.413.551",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSEFINA MÓNICA BARRERA - 1555994124",
+            "AL PIE DE LA FIRMA": "JOSEFINA MÓNICA BARRERA - 1555994124"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2933934",
+            "CEDULA": "1555994124",
+            "NOMBRES": "JOSEFINA MÓNICA BARRERA",
+            "CREDITO": "7.413.551",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "364.383",
+            "E.A": "25.1%",
+            "RECOMPRA O DESEMBOLSO": "2.042.020",
+            "FIRMA ELLECTRONICA": "JOSEFINA MÓNICA BARRERA - 1555994124"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1555994124",
+            "NOMBRES": "JOSEFINA MÓNICA BARRERA",
+            "FIRMA ELLECTRONICA": "JOSEFINA MÓNICA BARRERA - 1555994124"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1555994124",
+            "NOMBRES": "JOSEFINA MÓNICA BARRERA",
+            "FIRMA ELLECTRONICA": "JOSEFINA MÓNICA BARRERA - 1555994124",
+            "AL PIE DE LA FIRMA": "JOSEFINA MÓNICA BARRERA - 1555994124"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSEFINA MÓNICA BARRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1555994124",
+            "NOMBRES": "JOSEFINA MÓNICA BARRERA",
+            "SALARIO": "2.017.211",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1555994124",
+            "NOMBRES": "JOSEFINA MÓNICA BARRERA",
+            "RECOMPRA O DESEMBOLSO": "2.042.020"
+        }
+    }
+]

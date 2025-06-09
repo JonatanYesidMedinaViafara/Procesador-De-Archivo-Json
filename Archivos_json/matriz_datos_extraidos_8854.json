@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "525564482892",
+            "SOLICITUD": "9365261",
+            "CEDULA": "1046615630",
+            "NOMBRES": "PAOLA TORO CASTAÑEDA",
+            "RECOMPRA O DESEMBOLSO": "2.292.794",
+            "FIRMA ELLECTRONICA": "PAOLA TORO CASTAÑEDA - 1046615630"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "525564482892",
+            "NOMBRES": "PAOLA TORO CASTAÑEDA",
+            "CREDITO": "9.566.408",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "332.221",
+            "FIRMA ELLECTRONICA": "PAOLA TORO CASTAÑEDA - 1046615630",
+            "AL PIE DE LA FIRMA": "PAOLA TORO CASTAÑEDA - 1046615630"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1046615630",
+            "NOMBRES": "PAOLA TORO CASTAÑEDA",
+            "FECHA NACIMIENTO": "24/12/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.566.408",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PAOLA TORO CASTAÑEDA - 1046615630",
+            "AL PIE DE LA FIRMA": "PAOLA TORO CASTAÑEDA - 1046615630"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9365261",
+            "CEDULA": "1046615630",
+            "NOMBRES": "PAOLA TORO CASTAÑEDA",
+            "CREDITO": "9.566.408",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "332.221",
+            "E.A": "22.13%",
+            "RECOMPRA O DESEMBOLSO": "2.292.794",
+            "FIRMA ELLECTRONICA": "PAOLA TORO CASTAÑEDA - 1046615630"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1046615630",
+            "NOMBRES": "PAOLA TORO CASTAÑEDA",
+            "FIRMA ELLECTRONICA": "PAOLA TORO CASTAÑEDA - 1046615630"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1046615630",
+            "NOMBRES": "PAOLA TORO CASTAÑEDA",
+            "FIRMA ELLECTRONICA": "PAOLA TORO CASTAÑEDA - 1046615630",
+            "AL PIE DE LA FIRMA": "PAOLA TORO CASTAÑEDA - 1046615630"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA TORO CASTAÑEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1046615630",
+            "NOMBRES": "PAOLA TORO CASTAÑEDA",
+            "SALARIO": "1.008.331",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1046615630",
+            "NOMBRES": "PAOLA TORO CASTAÑEDA",
+            "RECOMPRA O DESEMBOLSO": "2.292.794"
+        }
+    }
+]

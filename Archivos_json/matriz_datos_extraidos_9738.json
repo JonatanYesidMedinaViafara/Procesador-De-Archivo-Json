@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "836920972904",
+            "SOLICITUD": "5092719",
+            "CEDULA": "1360357079",
+            "NOMBRES": "ALBERTO MUÑOZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.061.578",
+            "FIRMA ELLECTRONICA": "ALBERTO MUÑOZ PÉREZ - 1360357079"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "836920972904",
+            "NOMBRES": "ALBERTO MUÑOZ PÉREZ",
+            "CREDITO": "19.543.401",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "243.983",
+            "FIRMA ELLECTRONICA": "ALBERTO MUÑOZ PÉREZ - 1360357079",
+            "AL PIE DE LA FIRMA": "ALBERTO MUÑOZ PÉREZ - 1360357079"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1360357079",
+            "NOMBRES": "ALBERTO MUÑOZ PÉREZ",
+            "FECHA NACIMIENTO": "11/02/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.543.401",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALBERTO MUÑOZ PÉREZ - 1360357079",
+            "AL PIE DE LA FIRMA": "ALBERTO MUÑOZ PÉREZ - 1360357079"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5092719",
+            "CEDULA": "1360357079",
+            "NOMBRES": "ALBERTO MUÑOZ PÉREZ",
+            "CREDITO": "19.543.401",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "243.983",
+            "E.A": "26.4%",
+            "RECOMPRA O DESEMBOLSO": "3.061.578",
+            "FIRMA ELLECTRONICA": "ALBERTO MUÑOZ PÉREZ - 1360357079"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1360357079",
+            "NOMBRES": "ALBERTO MUÑOZ PÉREZ",
+            "FIRMA ELLECTRONICA": "ALBERTO MUÑOZ PÉREZ - 1360357079"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1360357079",
+            "NOMBRES": "ALBERTO MUÑOZ PÉREZ",
+            "FIRMA ELLECTRONICA": "ALBERTO MUÑOZ PÉREZ - 1360357079",
+            "AL PIE DE LA FIRMA": "ALBERTO MUÑOZ PÉREZ - 1360357079"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO MUÑOZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1360357079",
+            "NOMBRES": "ALBERTO MUÑOZ PÉREZ",
+            "SALARIO": "3.735.806",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1360357079",
+            "NOMBRES": "ALBERTO MUÑOZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.061.578"
+        }
+    }
+]

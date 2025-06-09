@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "190987777092",
+            "SOLICITUD": "3495254",
+            "CEDULA": "1154265426",
+            "NOMBRES": "LUIS VANEGAS VERA",
+            "RECOMPRA O DESEMBOLSO": "1.611.126",
+            "FIRMA ELLECTRONICA": "LUIS VANEGAS VERA - 1154265426"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "190987777092",
+            "NOMBRES": "LUIS VANEGAS VERA",
+            "CREDITO": "8.910.863",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "172.536",
+            "FIRMA ELLECTRONICA": "LUIS VANEGAS VERA - 1154265426",
+            "AL PIE DE LA FIRMA": "LUIS VANEGAS VERA - 1154265426"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1154265426",
+            "NOMBRES": "LUIS VANEGAS VERA",
+            "FECHA NACIMIENTO": "27/08/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.910.863",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUIS VANEGAS VERA - 1154265426",
+            "AL PIE DE LA FIRMA": "LUIS VANEGAS VERA - 1154265426"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3495254",
+            "CEDULA": "1154265426",
+            "NOMBRES": "LUIS VANEGAS VERA",
+            "CREDITO": "8.910.863",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "172.536",
+            "E.A": "21.97%",
+            "RECOMPRA O DESEMBOLSO": "1.611.126",
+            "FIRMA ELLECTRONICA": "LUIS VANEGAS VERA - 1154265426"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1154265426",
+            "NOMBRES": "LUIS VANEGAS VERA",
+            "FIRMA ELLECTRONICA": "LUIS VANEGAS VERA - 1154265426"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1154265426",
+            "NOMBRES": "LUIS VANEGAS VERA",
+            "FIRMA ELLECTRONICA": "LUIS VANEGAS VERA - 1154265426",
+            "AL PIE DE LA FIRMA": "LUIS VANEGAS VERA - 1154265426"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS VANEGAS VERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1154265426",
+            "NOMBRES": "LUIS VANEGAS VERA",
+            "SALARIO": "1.266.834",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1154265426",
+            "NOMBRES": "LUIS VANEGAS VERA",
+            "RECOMPRA O DESEMBOLSO": "1.611.126"
+        }
+    }
+]

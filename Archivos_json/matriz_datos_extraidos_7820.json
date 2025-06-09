@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "999088667620",
+            "SOLICITUD": "3081786",
+            "CEDULA": "1630603597",
+            "NOMBRES": "STELLA BERNAL",
+            "RECOMPRA O DESEMBOLSO": "1.243.104",
+            "FIRMA ELLECTRONICA": "STELLA BERNAL - 1630603597"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "999088667620",
+            "NOMBRES": "STELLA BERNAL",
+            "CREDITO": "10.648.753",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "355.214",
+            "FIRMA ELLECTRONICA": "STELLA BERNAL - 1630603597",
+            "AL PIE DE LA FIRMA": "STELLA BERNAL - 1630603597"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1630603597",
+            "NOMBRES": "STELLA BERNAL",
+            "FECHA NACIMIENTO": "12/02/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.648.753",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "STELLA BERNAL - 1630603597",
+            "AL PIE DE LA FIRMA": "STELLA BERNAL - 1630603597"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3081786",
+            "CEDULA": "1630603597",
+            "NOMBRES": "STELLA BERNAL",
+            "CREDITO": "10.648.753",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "355.214",
+            "E.A": "26.99%",
+            "RECOMPRA O DESEMBOLSO": "1.243.104",
+            "FIRMA ELLECTRONICA": "STELLA BERNAL - 1630603597"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1630603597",
+            "NOMBRES": "STELLA BERNAL",
+            "FIRMA ELLECTRONICA": "STELLA BERNAL - 1630603597"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1630603597",
+            "NOMBRES": "STELLA BERNAL",
+            "FIRMA ELLECTRONICA": "STELLA BERNAL - 1630603597",
+            "AL PIE DE LA FIRMA": "STELLA BERNAL - 1630603597"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "STELLA BERNAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1630603597",
+            "NOMBRES": "STELLA BERNAL",
+            "SALARIO": "3.108.620",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1630603597",
+            "NOMBRES": "STELLA BERNAL",
+            "RECOMPRA O DESEMBOLSO": "1.243.104"
+        }
+    }
+]

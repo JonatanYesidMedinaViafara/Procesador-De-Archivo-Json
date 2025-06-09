@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "157927451356",
+            "SOLICITUD": "6316894",
+            "CEDULA": "1966834048",
+            "NOMBRES": "FERNEY JOSÉ ESTRADA",
+            "RECOMPRA O DESEMBOLSO": "2.028.484",
+            "FIRMA ELLECTRONICA": "FERNEY JOSÉ ESTRADA - 1966834048"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "157927451356",
+            "NOMBRES": "FERNEY JOSÉ ESTRADA",
+            "CREDITO": "5.855.437",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.399",
+            "FIRMA ELLECTRONICA": "FERNEY JOSÉ ESTRADA - 1966834048",
+            "AL PIE DE LA FIRMA": "FERNEY JOSÉ ESTRADA - 1966834048"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1966834048",
+            "NOMBRES": "FERNEY JOSÉ ESTRADA",
+            "FECHA NACIMIENTO": "14/08/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.855.437",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNEY JOSÉ ESTRADA - 1966834048",
+            "AL PIE DE LA FIRMA": "FERNEY JOSÉ ESTRADA - 1966834048"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6316894",
+            "CEDULA": "1966834048",
+            "NOMBRES": "FERNEY JOSÉ ESTRADA",
+            "CREDITO": "5.855.437",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "229.399",
+            "E.A": "28.19%",
+            "RECOMPRA O DESEMBOLSO": "2.028.484",
+            "FIRMA ELLECTRONICA": "FERNEY JOSÉ ESTRADA - 1966834048"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1966834048",
+            "NOMBRES": "FERNEY JOSÉ ESTRADA",
+            "FIRMA ELLECTRONICA": "FERNEY JOSÉ ESTRADA - 1966834048"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1966834048",
+            "NOMBRES": "FERNEY JOSÉ ESTRADA",
+            "FIRMA ELLECTRONICA": "FERNEY JOSÉ ESTRADA - 1966834048",
+            "AL PIE DE LA FIRMA": "FERNEY JOSÉ ESTRADA - 1966834048"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNEY JOSÉ ESTRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1966834048",
+            "NOMBRES": "FERNEY JOSÉ ESTRADA",
+            "SALARIO": "4.475.255",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1966834048",
+            "NOMBRES": "FERNEY JOSÉ ESTRADA",
+            "RECOMPRA O DESEMBOLSO": "2.028.484"
+        }
+    }
+]

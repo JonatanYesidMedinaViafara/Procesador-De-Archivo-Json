@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "506073184054",
+            "SOLICITUD": "3485037",
+            "CEDULA": "1037099818",
+            "NOMBRES": "ENRIQUE CEBALLOS CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.444.474",
+            "FIRMA ELLECTRONICA": "ENRIQUE CEBALLOS CORREDOR - 1037099818"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "506073184054",
+            "NOMBRES": "ENRIQUE CEBALLOS CORREDOR",
+            "CREDITO": "14.348.242",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "141.414",
+            "FIRMA ELLECTRONICA": "ENRIQUE CEBALLOS CORREDOR - 1037099818",
+            "AL PIE DE LA FIRMA": "ENRIQUE CEBALLOS CORREDOR - 1037099818"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1037099818",
+            "NOMBRES": "ENRIQUE CEBALLOS CORREDOR",
+            "FECHA NACIMIENTO": "01/09/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.348.242",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE CEBALLOS CORREDOR - 1037099818",
+            "AL PIE DE LA FIRMA": "ENRIQUE CEBALLOS CORREDOR - 1037099818"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3485037",
+            "CEDULA": "1037099818",
+            "NOMBRES": "ENRIQUE CEBALLOS CORREDOR",
+            "CREDITO": "14.348.242",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "141.414",
+            "E.A": "22.67%",
+            "RECOMPRA O DESEMBOLSO": "3.444.474",
+            "FIRMA ELLECTRONICA": "ENRIQUE CEBALLOS CORREDOR - 1037099818"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1037099818",
+            "NOMBRES": "ENRIQUE CEBALLOS CORREDOR",
+            "FIRMA ELLECTRONICA": "ENRIQUE CEBALLOS CORREDOR - 1037099818"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1037099818",
+            "NOMBRES": "ENRIQUE CEBALLOS CORREDOR",
+            "FIRMA ELLECTRONICA": "ENRIQUE CEBALLOS CORREDOR - 1037099818",
+            "AL PIE DE LA FIRMA": "ENRIQUE CEBALLOS CORREDOR - 1037099818"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE CEBALLOS CORREDOR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1037099818",
+            "NOMBRES": "ENRIQUE CEBALLOS CORREDOR",
+            "SALARIO": "3.245.581",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1037099818",
+            "NOMBRES": "ENRIQUE CEBALLOS CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.444.474"
+        }
+    }
+]

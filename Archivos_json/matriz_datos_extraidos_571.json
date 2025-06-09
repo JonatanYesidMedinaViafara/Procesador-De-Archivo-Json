@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "514489174384",
+            "SOLICITUD": "3068745",
+            "CEDULA": "1181442664",
+            "NOMBRES": "ALBERTO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.258.654",
+            "FIRMA ELLECTRONICA": "ALBERTO GÓMEZ - 1181442664"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "514489174384",
+            "NOMBRES": "ALBERTO GÓMEZ",
+            "CREDITO": "12.129.147",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "188.178",
+            "FIRMA ELLECTRONICA": "ALBERTO GÓMEZ - 1181442664",
+            "AL PIE DE LA FIRMA": "ALBERTO GÓMEZ - 1181442664"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1181442664",
+            "NOMBRES": "ALBERTO GÓMEZ",
+            "FECHA NACIMIENTO": "09/04/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.129.147",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBERTO GÓMEZ - 1181442664",
+            "AL PIE DE LA FIRMA": "ALBERTO GÓMEZ - 1181442664"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3068745",
+            "CEDULA": "1181442664",
+            "NOMBRES": "ALBERTO GÓMEZ",
+            "CREDITO": "12.129.147",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "188.178",
+            "E.A": "25.24%",
+            "RECOMPRA O DESEMBOLSO": "1.258.654",
+            "FIRMA ELLECTRONICA": "ALBERTO GÓMEZ - 1181442664"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1181442664",
+            "NOMBRES": "ALBERTO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO GÓMEZ - 1181442664"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1181442664",
+            "NOMBRES": "ALBERTO GÓMEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO GÓMEZ - 1181442664",
+            "AL PIE DE LA FIRMA": "ALBERTO GÓMEZ - 1181442664"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1181442664",
+            "NOMBRES": "ALBERTO GÓMEZ",
+            "SALARIO": "4.709.768",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1181442664",
+            "NOMBRES": "ALBERTO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.258.654"
+        }
+    }
+]

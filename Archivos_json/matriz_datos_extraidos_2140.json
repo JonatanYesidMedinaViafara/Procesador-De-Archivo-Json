@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "131024613451",
+            "SOLICITUD": "8605451",
+            "CEDULA": "1925823951",
+            "NOMBRES": "ROSA YULI MEJÍA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.217.724",
+            "FIRMA ELLECTRONICA": "ROSA YULI MEJÍA GIRALDO - 1925823951"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "131024613451",
+            "NOMBRES": "ROSA YULI MEJÍA GIRALDO",
+            "CREDITO": "10.918.745",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "353.288",
+            "FIRMA ELLECTRONICA": "ROSA YULI MEJÍA GIRALDO - 1925823951",
+            "AL PIE DE LA FIRMA": "ROSA YULI MEJÍA GIRALDO - 1925823951"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1925823951",
+            "NOMBRES": "ROSA YULI MEJÍA GIRALDO",
+            "FECHA NACIMIENTO": "09/01/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.918.745",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ROSA YULI MEJÍA GIRALDO - 1925823951",
+            "AL PIE DE LA FIRMA": "ROSA YULI MEJÍA GIRALDO - 1925823951"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8605451",
+            "CEDULA": "1925823951",
+            "NOMBRES": "ROSA YULI MEJÍA GIRALDO",
+            "CREDITO": "10.918.745",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "353.288",
+            "E.A": "18.51%",
+            "RECOMPRA O DESEMBOLSO": "3.217.724",
+            "FIRMA ELLECTRONICA": "ROSA YULI MEJÍA GIRALDO - 1925823951"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1925823951",
+            "NOMBRES": "ROSA YULI MEJÍA GIRALDO",
+            "FIRMA ELLECTRONICA": "ROSA YULI MEJÍA GIRALDO - 1925823951"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1925823951",
+            "NOMBRES": "ROSA YULI MEJÍA GIRALDO",
+            "FIRMA ELLECTRONICA": "ROSA YULI MEJÍA GIRALDO - 1925823951",
+            "AL PIE DE LA FIRMA": "ROSA YULI MEJÍA GIRALDO - 1925823951"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSA YULI MEJÍA GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1925823951",
+            "NOMBRES": "ROSA YULI MEJÍA GIRALDO",
+            "SALARIO": "3.488.165",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1925823951",
+            "NOMBRES": "ROSA YULI MEJÍA GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.217.724"
+        }
+    }
+]

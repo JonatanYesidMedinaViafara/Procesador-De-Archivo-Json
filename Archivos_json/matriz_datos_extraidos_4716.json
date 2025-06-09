@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "787020181635",
+            "SOLICITUD": "6818338",
+            "CEDULA": "1459668557",
+            "NOMBRES": "FERNANDO VICENTE CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "4.248.685",
+            "FIRMA ELLECTRONICA": "FERNANDO VICENTE CASTAÑO - 1459668557"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "787020181635",
+            "NOMBRES": "FERNANDO VICENTE CASTAÑO",
+            "CREDITO": "17.064.682",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "373.096",
+            "FIRMA ELLECTRONICA": "FERNANDO VICENTE CASTAÑO - 1459668557",
+            "AL PIE DE LA FIRMA": "FERNANDO VICENTE CASTAÑO - 1459668557"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1459668557",
+            "NOMBRES": "FERNANDO VICENTE CASTAÑO",
+            "FECHA NACIMIENTO": "01/06/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.064.682",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNANDO VICENTE CASTAÑO - 1459668557",
+            "AL PIE DE LA FIRMA": "FERNANDO VICENTE CASTAÑO - 1459668557"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6818338",
+            "CEDULA": "1459668557",
+            "NOMBRES": "FERNANDO VICENTE CASTAÑO",
+            "CREDITO": "17.064.682",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "373.096",
+            "E.A": "24.73%",
+            "RECOMPRA O DESEMBOLSO": "4.248.685",
+            "FIRMA ELLECTRONICA": "FERNANDO VICENTE CASTAÑO - 1459668557"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1459668557",
+            "NOMBRES": "FERNANDO VICENTE CASTAÑO",
+            "FIRMA ELLECTRONICA": "FERNANDO VICENTE CASTAÑO - 1459668557"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1459668557",
+            "NOMBRES": "FERNANDO VICENTE CASTAÑO",
+            "FIRMA ELLECTRONICA": "FERNANDO VICENTE CASTAÑO - 1459668557",
+            "AL PIE DE LA FIRMA": "FERNANDO VICENTE CASTAÑO - 1459668557"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO VICENTE CASTAÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1459668557",
+            "NOMBRES": "FERNANDO VICENTE CASTAÑO",
+            "SALARIO": "4.578.435",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1459668557",
+            "NOMBRES": "FERNANDO VICENTE CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "4.248.685"
+        }
+    }
+]

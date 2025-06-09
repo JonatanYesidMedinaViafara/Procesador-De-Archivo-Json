@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "335567582213",
+            "SOLICITUD": "6455064",
+            "CEDULA": "1448588589",
+            "NOMBRES": "CLARA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "4.030.919",
+            "FIRMA ELLECTRONICA": "CLARA VALENCIA - 1448588589"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "335567582213",
+            "NOMBRES": "CLARA VALENCIA",
+            "CREDITO": "13.944.617",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "187.311",
+            "FIRMA ELLECTRONICA": "CLARA VALENCIA - 1448588589",
+            "AL PIE DE LA FIRMA": "CLARA VALENCIA - 1448588589"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1448588589",
+            "NOMBRES": "CLARA VALENCIA",
+            "FECHA NACIMIENTO": "26/09/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.944.617",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CLARA VALENCIA - 1448588589",
+            "AL PIE DE LA FIRMA": "CLARA VALENCIA - 1448588589"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6455064",
+            "CEDULA": "1448588589",
+            "NOMBRES": "CLARA VALENCIA",
+            "CREDITO": "13.944.617",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "187.311",
+            "E.A": "26.37%",
+            "RECOMPRA O DESEMBOLSO": "4.030.919",
+            "FIRMA ELLECTRONICA": "CLARA VALENCIA - 1448588589"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1448588589",
+            "NOMBRES": "CLARA VALENCIA",
+            "FIRMA ELLECTRONICA": "CLARA VALENCIA - 1448588589"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1448588589",
+            "NOMBRES": "CLARA VALENCIA",
+            "FIRMA ELLECTRONICA": "CLARA VALENCIA - 1448588589",
+            "AL PIE DE LA FIRMA": "CLARA VALENCIA - 1448588589"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLARA VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1448588589",
+            "NOMBRES": "CLARA VALENCIA",
+            "SALARIO": "4.101.438",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1448588589",
+            "NOMBRES": "CLARA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "4.030.919"
+        }
+    }
+]

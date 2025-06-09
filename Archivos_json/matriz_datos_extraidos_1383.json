@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "497078872076",
+            "SOLICITUD": "3192042",
+            "CEDULA": "1854069789",
+            "NOMBRES": "NANCY MARÍA GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "2.615.392",
+            "FIRMA ELLECTRONICA": "NANCY MARÍA GALLEGO - 1854069789"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "497078872076",
+            "NOMBRES": "NANCY MARÍA GALLEGO",
+            "CREDITO": "8.542.250",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "218.718",
+            "FIRMA ELLECTRONICA": "NANCY MARÍA GALLEGO - 1854069789",
+            "AL PIE DE LA FIRMA": "NANCY MARÍA GALLEGO - 1854069789"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1854069789",
+            "NOMBRES": "NANCY MARÍA GALLEGO",
+            "FECHA NACIMIENTO": "26/07/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.542.250",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "NANCY MARÍA GALLEGO - 1854069789",
+            "AL PIE DE LA FIRMA": "NANCY MARÍA GALLEGO - 1854069789"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3192042",
+            "CEDULA": "1854069789",
+            "NOMBRES": "NANCY MARÍA GALLEGO",
+            "CREDITO": "8.542.250",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "218.718",
+            "E.A": "18.7%",
+            "RECOMPRA O DESEMBOLSO": "2.615.392",
+            "FIRMA ELLECTRONICA": "NANCY MARÍA GALLEGO - 1854069789"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1854069789",
+            "NOMBRES": "NANCY MARÍA GALLEGO",
+            "FIRMA ELLECTRONICA": "NANCY MARÍA GALLEGO - 1854069789"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1854069789",
+            "NOMBRES": "NANCY MARÍA GALLEGO",
+            "FIRMA ELLECTRONICA": "NANCY MARÍA GALLEGO - 1854069789",
+            "AL PIE DE LA FIRMA": "NANCY MARÍA GALLEGO - 1854069789"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NANCY MARÍA GALLEGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1854069789",
+            "NOMBRES": "NANCY MARÍA GALLEGO",
+            "SALARIO": "2.121.938",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1854069789",
+            "NOMBRES": "NANCY MARÍA GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "2.615.392"
+        }
+    }
+]

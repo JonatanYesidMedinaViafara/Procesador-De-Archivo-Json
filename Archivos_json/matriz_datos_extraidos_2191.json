@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "206671479677",
+            "SOLICITUD": "3505682",
+            "CEDULA": "1619901295",
+            "NOMBRES": "MARÍA PADILLA",
+            "RECOMPRA O DESEMBOLSO": "3.505.501",
+            "FIRMA ELLECTRONICA": "MARÍA PADILLA - 1619901295"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "206671479677",
+            "NOMBRES": "MARÍA PADILLA",
+            "CREDITO": "19.068.734",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "396.812",
+            "FIRMA ELLECTRONICA": "MARÍA PADILLA - 1619901295",
+            "AL PIE DE LA FIRMA": "MARÍA PADILLA - 1619901295"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1619901295",
+            "NOMBRES": "MARÍA PADILLA",
+            "FECHA NACIMIENTO": "13/11/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.068.734",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA PADILLA - 1619901295",
+            "AL PIE DE LA FIRMA": "MARÍA PADILLA - 1619901295"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3505682",
+            "CEDULA": "1619901295",
+            "NOMBRES": "MARÍA PADILLA",
+            "CREDITO": "19.068.734",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "396.812",
+            "E.A": "23.71%",
+            "RECOMPRA O DESEMBOLSO": "3.505.501",
+            "FIRMA ELLECTRONICA": "MARÍA PADILLA - 1619901295"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1619901295",
+            "NOMBRES": "MARÍA PADILLA",
+            "FIRMA ELLECTRONICA": "MARÍA PADILLA - 1619901295"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1619901295",
+            "NOMBRES": "MARÍA PADILLA",
+            "FIRMA ELLECTRONICA": "MARÍA PADILLA - 1619901295",
+            "AL PIE DE LA FIRMA": "MARÍA PADILLA - 1619901295"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA PADILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1619901295",
+            "NOMBRES": "MARÍA PADILLA",
+            "SALARIO": "1.009.965",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1619901295",
+            "NOMBRES": "MARÍA PADILLA",
+            "RECOMPRA O DESEMBOLSO": "3.505.501"
+        }
+    }
+]

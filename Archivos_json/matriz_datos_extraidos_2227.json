@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "492314897046",
+            "SOLICITUD": "9578952",
+            "CEDULA": "1176134206",
+            "NOMBRES": "ELIANA DORIS HERRERA CANO",
+            "RECOMPRA O DESEMBOLSO": "2.256.527",
+            "FIRMA ELLECTRONICA": "ELIANA DORIS HERRERA CANO - 1176134206"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "492314897046",
+            "NOMBRES": "ELIANA DORIS HERRERA CANO",
+            "CREDITO": "13.524.309",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "243.05",
+            "FIRMA ELLECTRONICA": "ELIANA DORIS HERRERA CANO - 1176134206",
+            "AL PIE DE LA FIRMA": "ELIANA DORIS HERRERA CANO - 1176134206"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1176134206",
+            "NOMBRES": "ELIANA DORIS HERRERA CANO",
+            "FECHA NACIMIENTO": "07/01/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.524.309",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ELIANA DORIS HERRERA CANO - 1176134206",
+            "AL PIE DE LA FIRMA": "ELIANA DORIS HERRERA CANO - 1176134206"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9578952",
+            "CEDULA": "1176134206",
+            "NOMBRES": "ELIANA DORIS HERRERA CANO",
+            "CREDITO": "13.524.309",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "243.05",
+            "E.A": "26.77%",
+            "RECOMPRA O DESEMBOLSO": "2.256.527",
+            "FIRMA ELLECTRONICA": "ELIANA DORIS HERRERA CANO - 1176134206"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1176134206",
+            "NOMBRES": "ELIANA DORIS HERRERA CANO",
+            "FIRMA ELLECTRONICA": "ELIANA DORIS HERRERA CANO - 1176134206"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1176134206",
+            "NOMBRES": "ELIANA DORIS HERRERA CANO",
+            "FIRMA ELLECTRONICA": "ELIANA DORIS HERRERA CANO - 1176134206",
+            "AL PIE DE LA FIRMA": "ELIANA DORIS HERRERA CANO - 1176134206"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELIANA DORIS HERRERA CANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1176134206",
+            "NOMBRES": "ELIANA DORIS HERRERA CANO",
+            "SALARIO": "3.664.250",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1176134206",
+            "NOMBRES": "ELIANA DORIS HERRERA CANO",
+            "RECOMPRA O DESEMBOLSO": "2.256.527"
+        }
+    }
+]

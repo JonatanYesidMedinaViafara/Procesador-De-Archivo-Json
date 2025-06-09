@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "712588405629",
+            "SOLICITUD": "8388764",
+            "CEDULA": "1445086890",
+            "NOMBRES": "ISABEL CASTRO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.481.673",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO HERNÁNDEZ - 1445086890"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "712588405629",
+            "NOMBRES": "ISABEL CASTRO HERNÁNDEZ",
+            "CREDITO": "8.454.516",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "166.436",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO HERNÁNDEZ - 1445086890",
+            "AL PIE DE LA FIRMA": "ISABEL CASTRO HERNÁNDEZ - 1445086890"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1445086890",
+            "NOMBRES": "ISABEL CASTRO HERNÁNDEZ",
+            "FECHA NACIMIENTO": "11/07/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.454.516",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO HERNÁNDEZ - 1445086890",
+            "AL PIE DE LA FIRMA": "ISABEL CASTRO HERNÁNDEZ - 1445086890"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8388764",
+            "CEDULA": "1445086890",
+            "NOMBRES": "ISABEL CASTRO HERNÁNDEZ",
+            "CREDITO": "8.454.516",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "166.436",
+            "E.A": "27.87%",
+            "RECOMPRA O DESEMBOLSO": "2.481.673",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO HERNÁNDEZ - 1445086890"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1445086890",
+            "NOMBRES": "ISABEL CASTRO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO HERNÁNDEZ - 1445086890"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1445086890",
+            "NOMBRES": "ISABEL CASTRO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO HERNÁNDEZ - 1445086890",
+            "AL PIE DE LA FIRMA": "ISABEL CASTRO HERNÁNDEZ - 1445086890"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL CASTRO HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1445086890",
+            "NOMBRES": "ISABEL CASTRO HERNÁNDEZ",
+            "SALARIO": "4.447.101",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1445086890",
+            "NOMBRES": "ISABEL CASTRO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.481.673"
+        }
+    }
+]

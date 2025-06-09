@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "697922813774",
+            "SOLICITUD": "4159924",
+            "CEDULA": "1488783097",
+            "NOMBRES": "JOHN ALEXANDER BEJARANO CAMPO",
+            "RECOMPRA O DESEMBOLSO": "2.820.327",
+            "FIRMA ELLECTRONICA": "JOHN ALEXANDER BEJARANO CAMPO - 1488783097"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "697922813774",
+            "NOMBRES": "JOHN ALEXANDER BEJARANO CAMPO",
+            "CREDITO": "12.355.342",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "157.316",
+            "FIRMA ELLECTRONICA": "JOHN ALEXANDER BEJARANO CAMPO - 1488783097",
+            "AL PIE DE LA FIRMA": "JOHN ALEXANDER BEJARANO CAMPO - 1488783097"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1488783097",
+            "NOMBRES": "JOHN ALEXANDER BEJARANO CAMPO",
+            "FECHA NACIMIENTO": "11/04/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.355.342",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOHN ALEXANDER BEJARANO CAMPO - 1488783097",
+            "AL PIE DE LA FIRMA": "JOHN ALEXANDER BEJARANO CAMPO - 1488783097"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4159924",
+            "CEDULA": "1488783097",
+            "NOMBRES": "JOHN ALEXANDER BEJARANO CAMPO",
+            "CREDITO": "12.355.342",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "157.316",
+            "E.A": "28.91%",
+            "RECOMPRA O DESEMBOLSO": "2.820.327",
+            "FIRMA ELLECTRONICA": "JOHN ALEXANDER BEJARANO CAMPO - 1488783097"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1488783097",
+            "NOMBRES": "JOHN ALEXANDER BEJARANO CAMPO",
+            "FIRMA ELLECTRONICA": "JOHN ALEXANDER BEJARANO CAMPO - 1488783097"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1488783097",
+            "NOMBRES": "JOHN ALEXANDER BEJARANO CAMPO",
+            "FIRMA ELLECTRONICA": "JOHN ALEXANDER BEJARANO CAMPO - 1488783097",
+            "AL PIE DE LA FIRMA": "JOHN ALEXANDER BEJARANO CAMPO - 1488783097"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN ALEXANDER BEJARANO CAMPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1488783097",
+            "NOMBRES": "JOHN ALEXANDER BEJARANO CAMPO",
+            "SALARIO": "3.437.592",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1488783097",
+            "NOMBRES": "JOHN ALEXANDER BEJARANO CAMPO",
+            "RECOMPRA O DESEMBOLSO": "2.820.327"
+        }
+    }
+]

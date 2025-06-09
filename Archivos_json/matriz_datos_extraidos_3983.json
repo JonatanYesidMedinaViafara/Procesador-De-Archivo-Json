@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "678078782696",
+            "SOLICITUD": "4451773",
+            "CEDULA": "1302250931",
+            "NOMBRES": "ABEL MARTÍNEZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "2.381.465",
+            "FIRMA ELLECTRONICA": "ABEL MARTÍNEZ MEDINA - 1302250931"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "678078782696",
+            "NOMBRES": "ABEL MARTÍNEZ MEDINA",
+            "CREDITO": "10.934.078",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "393.589",
+            "FIRMA ELLECTRONICA": "ABEL MARTÍNEZ MEDINA - 1302250931",
+            "AL PIE DE LA FIRMA": "ABEL MARTÍNEZ MEDINA - 1302250931"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1302250931",
+            "NOMBRES": "ABEL MARTÍNEZ MEDINA",
+            "FECHA NACIMIENTO": "13/06/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.934.078",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ABEL MARTÍNEZ MEDINA - 1302250931",
+            "AL PIE DE LA FIRMA": "ABEL MARTÍNEZ MEDINA - 1302250931"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4451773",
+            "CEDULA": "1302250931",
+            "NOMBRES": "ABEL MARTÍNEZ MEDINA",
+            "CREDITO": "10.934.078",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "393.589",
+            "E.A": "20.46%",
+            "RECOMPRA O DESEMBOLSO": "2.381.465",
+            "FIRMA ELLECTRONICA": "ABEL MARTÍNEZ MEDINA - 1302250931"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1302250931",
+            "NOMBRES": "ABEL MARTÍNEZ MEDINA",
+            "FIRMA ELLECTRONICA": "ABEL MARTÍNEZ MEDINA - 1302250931"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1302250931",
+            "NOMBRES": "ABEL MARTÍNEZ MEDINA",
+            "FIRMA ELLECTRONICA": "ABEL MARTÍNEZ MEDINA - 1302250931",
+            "AL PIE DE LA FIRMA": "ABEL MARTÍNEZ MEDINA - 1302250931"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ABEL MARTÍNEZ MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1302250931",
+            "NOMBRES": "ABEL MARTÍNEZ MEDINA",
+            "SALARIO": "1.951.737",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1302250931",
+            "NOMBRES": "ABEL MARTÍNEZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "2.381.465"
+        }
+    }
+]

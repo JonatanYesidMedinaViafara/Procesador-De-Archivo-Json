@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "203618406426",
+            "SOLICITUD": "3847912",
+            "CEDULA": "1323099851",
+            "NOMBRES": "EDISON JOSÉ MENESES DUQUE",
+            "RECOMPRA O DESEMBOLSO": "1.439.290",
+            "FIRMA ELLECTRONICA": "EDISON JOSÉ MENESES DUQUE - 1323099851"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "203618406426",
+            "NOMBRES": "EDISON JOSÉ MENESES DUQUE",
+            "CREDITO": "17.202.656",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "213.919",
+            "FIRMA ELLECTRONICA": "EDISON JOSÉ MENESES DUQUE - 1323099851",
+            "AL PIE DE LA FIRMA": "EDISON JOSÉ MENESES DUQUE - 1323099851"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1323099851",
+            "NOMBRES": "EDISON JOSÉ MENESES DUQUE",
+            "FECHA NACIMIENTO": "16/03/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.202.656",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDISON JOSÉ MENESES DUQUE - 1323099851",
+            "AL PIE DE LA FIRMA": "EDISON JOSÉ MENESES DUQUE - 1323099851"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3847912",
+            "CEDULA": "1323099851",
+            "NOMBRES": "EDISON JOSÉ MENESES DUQUE",
+            "CREDITO": "17.202.656",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "213.919",
+            "E.A": "23.1%",
+            "RECOMPRA O DESEMBOLSO": "1.439.290",
+            "FIRMA ELLECTRONICA": "EDISON JOSÉ MENESES DUQUE - 1323099851"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1323099851",
+            "NOMBRES": "EDISON JOSÉ MENESES DUQUE",
+            "FIRMA ELLECTRONICA": "EDISON JOSÉ MENESES DUQUE - 1323099851"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1323099851",
+            "NOMBRES": "EDISON JOSÉ MENESES DUQUE",
+            "FIRMA ELLECTRONICA": "EDISON JOSÉ MENESES DUQUE - 1323099851",
+            "AL PIE DE LA FIRMA": "EDISON JOSÉ MENESES DUQUE - 1323099851"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDISON JOSÉ MENESES DUQUE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1323099851",
+            "NOMBRES": "EDISON JOSÉ MENESES DUQUE",
+            "SALARIO": "3.154.923",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1323099851",
+            "NOMBRES": "EDISON JOSÉ MENESES DUQUE",
+            "RECOMPRA O DESEMBOLSO": "1.439.290"
+        }
+    }
+]

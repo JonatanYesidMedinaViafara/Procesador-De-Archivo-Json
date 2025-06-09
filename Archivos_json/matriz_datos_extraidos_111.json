@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "619511517743",
+            "SOLICITUD": "9479132",
+            "CEDULA": "1172116379",
+            "NOMBRES": "HENRY MEDINA PARDO",
+            "RECOMPRA O DESEMBOLSO": "1.366.105",
+            "FIRMA ELLECTRONICA": "HENRY MEDINA PARDO - 1172116379"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "619511517743",
+            "NOMBRES": "HENRY MEDINA PARDO",
+            "CREDITO": "16.983.930",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "150.555",
+            "FIRMA ELLECTRONICA": "HENRY MEDINA PARDO - 1172116379",
+            "AL PIE DE LA FIRMA": "HENRY MEDINA PARDO - 1172116379"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1172116379",
+            "NOMBRES": "HENRY MEDINA PARDO",
+            "FECHA NACIMIENTO": "25/06/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.983.930",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "HENRY MEDINA PARDO - 1172116379",
+            "AL PIE DE LA FIRMA": "HENRY MEDINA PARDO - 1172116379"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9479132",
+            "CEDULA": "1172116379",
+            "NOMBRES": "HENRY MEDINA PARDO",
+            "CREDITO": "16.983.930",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "150.555",
+            "E.A": "28.93%",
+            "RECOMPRA O DESEMBOLSO": "1.366.105",
+            "FIRMA ELLECTRONICA": "HENRY MEDINA PARDO - 1172116379"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1172116379",
+            "NOMBRES": "HENRY MEDINA PARDO",
+            "FIRMA ELLECTRONICA": "HENRY MEDINA PARDO - 1172116379"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1172116379",
+            "NOMBRES": "HENRY MEDINA PARDO",
+            "FIRMA ELLECTRONICA": "HENRY MEDINA PARDO - 1172116379",
+            "AL PIE DE LA FIRMA": "HENRY MEDINA PARDO - 1172116379"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HENRY MEDINA PARDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1172116379",
+            "NOMBRES": "HENRY MEDINA PARDO",
+            "SALARIO": "1.254.014",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1172116379",
+            "NOMBRES": "HENRY MEDINA PARDO",
+            "RECOMPRA O DESEMBOLSO": "1.366.105"
+        }
+    }
+]

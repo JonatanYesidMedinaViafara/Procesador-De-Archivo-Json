@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "183142649925",
+            "SOLICITUD": "8759174",
+            "CEDULA": "1839140640",
+            "NOMBRES": "MARÍA JOHANA POLO",
+            "RECOMPRA O DESEMBOLSO": "2.292.408",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANA POLO - 1839140640"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "183142649925",
+            "NOMBRES": "MARÍA JOHANA POLO",
+            "CREDITO": "17.224.729",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "105.306",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANA POLO - 1839140640",
+            "AL PIE DE LA FIRMA": "MARÍA JOHANA POLO - 1839140640"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1839140640",
+            "NOMBRES": "MARÍA JOHANA POLO",
+            "FECHA NACIMIENTO": "11/04/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.224.729",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANA POLO - 1839140640",
+            "AL PIE DE LA FIRMA": "MARÍA JOHANA POLO - 1839140640"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8759174",
+            "CEDULA": "1839140640",
+            "NOMBRES": "MARÍA JOHANA POLO",
+            "CREDITO": "17.224.729",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "105.306",
+            "E.A": "28.19%",
+            "RECOMPRA O DESEMBOLSO": "2.292.408",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANA POLO - 1839140640"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1839140640",
+            "NOMBRES": "MARÍA JOHANA POLO",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANA POLO - 1839140640"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1839140640",
+            "NOMBRES": "MARÍA JOHANA POLO",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANA POLO - 1839140640",
+            "AL PIE DE LA FIRMA": "MARÍA JOHANA POLO - 1839140640"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA JOHANA POLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1839140640",
+            "NOMBRES": "MARÍA JOHANA POLO",
+            "SALARIO": "4.796.447",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1839140640",
+            "NOMBRES": "MARÍA JOHANA POLO",
+            "RECOMPRA O DESEMBOLSO": "2.292.408"
+        }
+    }
+]

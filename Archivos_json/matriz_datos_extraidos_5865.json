@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "583904440362",
+            "SOLICITUD": "9692084",
+            "CEDULA": "1307596318",
+            "NOMBRES": "JOHN BENJAMÍN CASTRO",
+            "RECOMPRA O DESEMBOLSO": "3.003.045",
+            "FIRMA ELLECTRONICA": "JOHN BENJAMÍN CASTRO - 1307596318"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "583904440362",
+            "NOMBRES": "JOHN BENJAMÍN CASTRO",
+            "CREDITO": "18.645.641",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "159.381",
+            "FIRMA ELLECTRONICA": "JOHN BENJAMÍN CASTRO - 1307596318",
+            "AL PIE DE LA FIRMA": "JOHN BENJAMÍN CASTRO - 1307596318"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1307596318",
+            "NOMBRES": "JOHN BENJAMÍN CASTRO",
+            "FECHA NACIMIENTO": "26/02/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.645.641",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOHN BENJAMÍN CASTRO - 1307596318",
+            "AL PIE DE LA FIRMA": "JOHN BENJAMÍN CASTRO - 1307596318"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9692084",
+            "CEDULA": "1307596318",
+            "NOMBRES": "JOHN BENJAMÍN CASTRO",
+            "CREDITO": "18.645.641",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "159.381",
+            "E.A": "24.65%",
+            "RECOMPRA O DESEMBOLSO": "3.003.045",
+            "FIRMA ELLECTRONICA": "JOHN BENJAMÍN CASTRO - 1307596318"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1307596318",
+            "NOMBRES": "JOHN BENJAMÍN CASTRO",
+            "FIRMA ELLECTRONICA": "JOHN BENJAMÍN CASTRO - 1307596318"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1307596318",
+            "NOMBRES": "JOHN BENJAMÍN CASTRO",
+            "FIRMA ELLECTRONICA": "JOHN BENJAMÍN CASTRO - 1307596318",
+            "AL PIE DE LA FIRMA": "JOHN BENJAMÍN CASTRO - 1307596318"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN BENJAMÍN CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1307596318",
+            "NOMBRES": "JOHN BENJAMÍN CASTRO",
+            "SALARIO": "4.945.416",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1307596318",
+            "NOMBRES": "JOHN BENJAMÍN CASTRO",
+            "RECOMPRA O DESEMBOLSO": "3.003.045"
+        }
+    }
+]

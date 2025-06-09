@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "820803043442",
+            "SOLICITUD": "5665266",
+            "CEDULA": "1065840518",
+            "NOMBRES": "PEDRO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.921.629",
+            "FIRMA ELLECTRONICA": "PEDRO GARCÍA - 1065840518"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "820803043442",
+            "NOMBRES": "PEDRO GARCÍA",
+            "CREDITO": "6.578.116",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "380.838",
+            "FIRMA ELLECTRONICA": "PEDRO GARCÍA - 1065840518",
+            "AL PIE DE LA FIRMA": "PEDRO GARCÍA - 1065840518"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1065840518",
+            "NOMBRES": "PEDRO GARCÍA",
+            "FECHA NACIMIENTO": "14/09/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.578.116",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "PEDRO GARCÍA - 1065840518",
+            "AL PIE DE LA FIRMA": "PEDRO GARCÍA - 1065840518"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5665266",
+            "CEDULA": "1065840518",
+            "NOMBRES": "PEDRO GARCÍA",
+            "CREDITO": "6.578.116",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "380.838",
+            "E.A": "21.61%",
+            "RECOMPRA O DESEMBOLSO": "3.921.629",
+            "FIRMA ELLECTRONICA": "PEDRO GARCÍA - 1065840518"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1065840518",
+            "NOMBRES": "PEDRO GARCÍA",
+            "FIRMA ELLECTRONICA": "PEDRO GARCÍA - 1065840518"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1065840518",
+            "NOMBRES": "PEDRO GARCÍA",
+            "FIRMA ELLECTRONICA": "PEDRO GARCÍA - 1065840518",
+            "AL PIE DE LA FIRMA": "PEDRO GARCÍA - 1065840518"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PEDRO GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1065840518",
+            "NOMBRES": "PEDRO GARCÍA",
+            "SALARIO": "2.570.048",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1065840518",
+            "NOMBRES": "PEDRO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.921.629"
+        }
+    }
+]

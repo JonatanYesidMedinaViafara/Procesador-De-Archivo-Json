@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "697442456190",
+            "SOLICITUD": "4252435",
+            "CEDULA": "1516456663",
+            "NOMBRES": "SEBASTIÁN EDGARDO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.117.461",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN EDGARDO GARCÍA - 1516456663"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "697442456190",
+            "NOMBRES": "SEBASTIÁN EDGARDO GARCÍA",
+            "CREDITO": "9.449.310",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "103.456",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN EDGARDO GARCÍA - 1516456663",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN EDGARDO GARCÍA - 1516456663"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1516456663",
+            "NOMBRES": "SEBASTIÁN EDGARDO GARCÍA",
+            "FECHA NACIMIENTO": "25/06/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.449.310",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN EDGARDO GARCÍA - 1516456663",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN EDGARDO GARCÍA - 1516456663"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4252435",
+            "CEDULA": "1516456663",
+            "NOMBRES": "SEBASTIÁN EDGARDO GARCÍA",
+            "CREDITO": "9.449.310",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "103.456",
+            "E.A": "28.55%",
+            "RECOMPRA O DESEMBOLSO": "3.117.461",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN EDGARDO GARCÍA - 1516456663"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1516456663",
+            "NOMBRES": "SEBASTIÁN EDGARDO GARCÍA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN EDGARDO GARCÍA - 1516456663"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1516456663",
+            "NOMBRES": "SEBASTIÁN EDGARDO GARCÍA",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN EDGARDO GARCÍA - 1516456663",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN EDGARDO GARCÍA - 1516456663"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEBASTIÁN EDGARDO GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1516456663",
+            "NOMBRES": "SEBASTIÁN EDGARDO GARCÍA",
+            "SALARIO": "4.736.576",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1516456663",
+            "NOMBRES": "SEBASTIÁN EDGARDO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.117.461"
+        }
+    }
+]

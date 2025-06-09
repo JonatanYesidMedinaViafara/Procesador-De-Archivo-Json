@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "426103274226",
+            "SOLICITUD": "5994105",
+            "CEDULA": "1042361804",
+            "NOMBRES": "LUIS MORENO",
+            "RECOMPRA O DESEMBOLSO": "1.332.569",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1042361804"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "426103274226",
+            "NOMBRES": "LUIS MORENO",
+            "CREDITO": "15.694.462",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "242.257",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1042361804",
+            "AL PIE DE LA FIRMA": "LUIS MORENO - 1042361804"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1042361804",
+            "NOMBRES": "LUIS MORENO",
+            "FECHA NACIMIENTO": "10/06/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.694.462",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1042361804",
+            "AL PIE DE LA FIRMA": "LUIS MORENO - 1042361804"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5994105",
+            "CEDULA": "1042361804",
+            "NOMBRES": "LUIS MORENO",
+            "CREDITO": "15.694.462",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "242.257",
+            "E.A": "18.25%",
+            "RECOMPRA O DESEMBOLSO": "1.332.569",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1042361804"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1042361804",
+            "NOMBRES": "LUIS MORENO",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1042361804"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1042361804",
+            "NOMBRES": "LUIS MORENO",
+            "FIRMA ELLECTRONICA": "LUIS MORENO - 1042361804",
+            "AL PIE DE LA FIRMA": "LUIS MORENO - 1042361804"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1042361804",
+            "NOMBRES": "LUIS MORENO",
+            "SALARIO": "4.648.000",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1042361804",
+            "NOMBRES": "LUIS MORENO",
+            "RECOMPRA O DESEMBOLSO": "1.332.569"
+        }
+    }
+]

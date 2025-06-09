@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "321369225621",
+            "SOLICITUD": "9111083",
+            "CEDULA": "1778997339",
+            "NOMBRES": "CRISTINA MARÍA GAVIRIA",
+            "RECOMPRA O DESEMBOLSO": "2.179.560",
+            "FIRMA ELLECTRONICA": "CRISTINA MARÍA GAVIRIA - 1778997339"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "321369225621",
+            "NOMBRES": "CRISTINA MARÍA GAVIRIA",
+            "CREDITO": "11.129.603",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "146.385",
+            "FIRMA ELLECTRONICA": "CRISTINA MARÍA GAVIRIA - 1778997339",
+            "AL PIE DE LA FIRMA": "CRISTINA MARÍA GAVIRIA - 1778997339"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1778997339",
+            "NOMBRES": "CRISTINA MARÍA GAVIRIA",
+            "FECHA NACIMIENTO": "06/05/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.129.603",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CRISTINA MARÍA GAVIRIA - 1778997339",
+            "AL PIE DE LA FIRMA": "CRISTINA MARÍA GAVIRIA - 1778997339"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9111083",
+            "CEDULA": "1778997339",
+            "NOMBRES": "CRISTINA MARÍA GAVIRIA",
+            "CREDITO": "11.129.603",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "146.385",
+            "E.A": "25.76%",
+            "RECOMPRA O DESEMBOLSO": "2.179.560",
+            "FIRMA ELLECTRONICA": "CRISTINA MARÍA GAVIRIA - 1778997339"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1778997339",
+            "NOMBRES": "CRISTINA MARÍA GAVIRIA",
+            "FIRMA ELLECTRONICA": "CRISTINA MARÍA GAVIRIA - 1778997339"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1778997339",
+            "NOMBRES": "CRISTINA MARÍA GAVIRIA",
+            "FIRMA ELLECTRONICA": "CRISTINA MARÍA GAVIRIA - 1778997339",
+            "AL PIE DE LA FIRMA": "CRISTINA MARÍA GAVIRIA - 1778997339"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTINA MARÍA GAVIRIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1778997339",
+            "NOMBRES": "CRISTINA MARÍA GAVIRIA",
+            "SALARIO": "2.163.733",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1778997339",
+            "NOMBRES": "CRISTINA MARÍA GAVIRIA",
+            "RECOMPRA O DESEMBOLSO": "2.179.560"
+        }
+    }
+]

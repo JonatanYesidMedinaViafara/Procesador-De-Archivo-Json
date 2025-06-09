@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "977076035416",
+            "SOLICITUD": "1336094",
+            "CEDULA": "1628866373",
+            "NOMBRES": "DAVID MELO",
+            "RECOMPRA O DESEMBOLSO": "4.439.722",
+            "FIRMA ELLECTRONICA": "DAVID MELO - 1628866373"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "977076035416",
+            "NOMBRES": "DAVID MELO",
+            "CREDITO": "13.846.842",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "365.32",
+            "FIRMA ELLECTRONICA": "DAVID MELO - 1628866373",
+            "AL PIE DE LA FIRMA": "DAVID MELO - 1628866373"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1628866373",
+            "NOMBRES": "DAVID MELO",
+            "FECHA NACIMIENTO": "07/10/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.846.842",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DAVID MELO - 1628866373",
+            "AL PIE DE LA FIRMA": "DAVID MELO - 1628866373"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1336094",
+            "CEDULA": "1628866373",
+            "NOMBRES": "DAVID MELO",
+            "CREDITO": "13.846.842",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "365.32",
+            "E.A": "21.32%",
+            "RECOMPRA O DESEMBOLSO": "4.439.722",
+            "FIRMA ELLECTRONICA": "DAVID MELO - 1628866373"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1628866373",
+            "NOMBRES": "DAVID MELO",
+            "FIRMA ELLECTRONICA": "DAVID MELO - 1628866373"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1628866373",
+            "NOMBRES": "DAVID MELO",
+            "FIRMA ELLECTRONICA": "DAVID MELO - 1628866373",
+            "AL PIE DE LA FIRMA": "DAVID MELO - 1628866373"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID MELO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1628866373",
+            "NOMBRES": "DAVID MELO",
+            "SALARIO": "3.142.812",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1628866373",
+            "NOMBRES": "DAVID MELO",
+            "RECOMPRA O DESEMBOLSO": "4.439.722"
+        }
+    }
+]

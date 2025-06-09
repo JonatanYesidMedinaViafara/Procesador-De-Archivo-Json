@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "987446114891",
+            "SOLICITUD": "8827623",
+            "CEDULA": "1128463464",
+            "NOMBRES": "ALBERTO HERIBERTO MOSQUERA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.546.981",
+            "FIRMA ELLECTRONICA": "ALBERTO HERIBERTO MOSQUERA LÓPEZ - 1128463464"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "987446114891",
+            "NOMBRES": "ALBERTO HERIBERTO MOSQUERA LÓPEZ",
+            "CREDITO": "17.840.377",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "224.769",
+            "FIRMA ELLECTRONICA": "ALBERTO HERIBERTO MOSQUERA LÓPEZ - 1128463464",
+            "AL PIE DE LA FIRMA": "ALBERTO HERIBERTO MOSQUERA LÓPEZ - 1128463464"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1128463464",
+            "NOMBRES": "ALBERTO HERIBERTO MOSQUERA LÓPEZ",
+            "FECHA NACIMIENTO": "07/09/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.840.377",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALBERTO HERIBERTO MOSQUERA LÓPEZ - 1128463464",
+            "AL PIE DE LA FIRMA": "ALBERTO HERIBERTO MOSQUERA LÓPEZ - 1128463464"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8827623",
+            "CEDULA": "1128463464",
+            "NOMBRES": "ALBERTO HERIBERTO MOSQUERA LÓPEZ",
+            "CREDITO": "17.840.377",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "224.769",
+            "E.A": "28.06%",
+            "RECOMPRA O DESEMBOLSO": "1.546.981",
+            "FIRMA ELLECTRONICA": "ALBERTO HERIBERTO MOSQUERA LÓPEZ - 1128463464"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1128463464",
+            "NOMBRES": "ALBERTO HERIBERTO MOSQUERA LÓPEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO HERIBERTO MOSQUERA LÓPEZ - 1128463464"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1128463464",
+            "NOMBRES": "ALBERTO HERIBERTO MOSQUERA LÓPEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO HERIBERTO MOSQUERA LÓPEZ - 1128463464",
+            "AL PIE DE LA FIRMA": "ALBERTO HERIBERTO MOSQUERA LÓPEZ - 1128463464"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO HERIBERTO MOSQUERA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1128463464",
+            "NOMBRES": "ALBERTO HERIBERTO MOSQUERA LÓPEZ",
+            "SALARIO": "2.144.796",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1128463464",
+            "NOMBRES": "ALBERTO HERIBERTO MOSQUERA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.546.981"
+        }
+    }
+]

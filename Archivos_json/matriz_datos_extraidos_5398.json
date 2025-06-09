@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "863198768350",
+            "SOLICITUD": "9706660",
+            "CEDULA": "1441793598",
+            "NOMBRES": "FLOR GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.619.305",
+            "FIRMA ELLECTRONICA": "FLOR GARCÍA - 1441793598"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "863198768350",
+            "NOMBRES": "FLOR GARCÍA",
+            "CREDITO": "11.444.699",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "292.693",
+            "FIRMA ELLECTRONICA": "FLOR GARCÍA - 1441793598",
+            "AL PIE DE LA FIRMA": "FLOR GARCÍA - 1441793598"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1441793598",
+            "NOMBRES": "FLOR GARCÍA",
+            "FECHA NACIMIENTO": "29/09/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.444.699",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FLOR GARCÍA - 1441793598",
+            "AL PIE DE LA FIRMA": "FLOR GARCÍA - 1441793598"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9706660",
+            "CEDULA": "1441793598",
+            "NOMBRES": "FLOR GARCÍA",
+            "CREDITO": "11.444.699",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "292.693",
+            "E.A": "28.66%",
+            "RECOMPRA O DESEMBOLSO": "2.619.305",
+            "FIRMA ELLECTRONICA": "FLOR GARCÍA - 1441793598"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1441793598",
+            "NOMBRES": "FLOR GARCÍA",
+            "FIRMA ELLECTRONICA": "FLOR GARCÍA - 1441793598"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1441793598",
+            "NOMBRES": "FLOR GARCÍA",
+            "FIRMA ELLECTRONICA": "FLOR GARCÍA - 1441793598",
+            "AL PIE DE LA FIRMA": "FLOR GARCÍA - 1441793598"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FLOR GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1441793598",
+            "NOMBRES": "FLOR GARCÍA",
+            "SALARIO": "3.722.618",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1441793598",
+            "NOMBRES": "FLOR GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.619.305"
+        }
+    }
+]

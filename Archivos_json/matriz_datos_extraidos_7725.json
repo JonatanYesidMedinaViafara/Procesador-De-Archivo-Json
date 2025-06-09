@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "707104303412",
+            "SOLICITUD": "3309801",
+            "CEDULA": "1190935123",
+            "NOMBRES": "OLGA ALBA VALDERRAMA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.221.779",
+            "FIRMA ELLECTRONICA": "OLGA ALBA VALDERRAMA GUTIÉRREZ - 1190935123"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "707104303412",
+            "NOMBRES": "OLGA ALBA VALDERRAMA GUTIÉRREZ",
+            "CREDITO": "9.842.264",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "353.782",
+            "FIRMA ELLECTRONICA": "OLGA ALBA VALDERRAMA GUTIÉRREZ - 1190935123",
+            "AL PIE DE LA FIRMA": "OLGA ALBA VALDERRAMA GUTIÉRREZ - 1190935123"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1190935123",
+            "NOMBRES": "OLGA ALBA VALDERRAMA GUTIÉRREZ",
+            "FECHA NACIMIENTO": "03/03/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.842.264",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "OLGA ALBA VALDERRAMA GUTIÉRREZ - 1190935123",
+            "AL PIE DE LA FIRMA": "OLGA ALBA VALDERRAMA GUTIÉRREZ - 1190935123"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3309801",
+            "CEDULA": "1190935123",
+            "NOMBRES": "OLGA ALBA VALDERRAMA GUTIÉRREZ",
+            "CREDITO": "9.842.264",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "353.782",
+            "E.A": "23.69%",
+            "RECOMPRA O DESEMBOLSO": "1.221.779",
+            "FIRMA ELLECTRONICA": "OLGA ALBA VALDERRAMA GUTIÉRREZ - 1190935123"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1190935123",
+            "NOMBRES": "OLGA ALBA VALDERRAMA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "OLGA ALBA VALDERRAMA GUTIÉRREZ - 1190935123"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1190935123",
+            "NOMBRES": "OLGA ALBA VALDERRAMA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "OLGA ALBA VALDERRAMA GUTIÉRREZ - 1190935123",
+            "AL PIE DE LA FIRMA": "OLGA ALBA VALDERRAMA GUTIÉRREZ - 1190935123"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OLGA ALBA VALDERRAMA GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1190935123",
+            "NOMBRES": "OLGA ALBA VALDERRAMA GUTIÉRREZ",
+            "SALARIO": "1.669.447",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1190935123",
+            "NOMBRES": "OLGA ALBA VALDERRAMA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "1.221.779"
+        }
+    }
+]

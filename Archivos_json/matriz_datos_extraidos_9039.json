@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "429054015649",
+            "SOLICITUD": "8395423",
+            "CEDULA": "1590537157",
+            "NOMBRES": "ALBA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.291.618",
+            "FIRMA ELLECTRONICA": "ALBA DÍAZ - 1590537157"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "429054015649",
+            "NOMBRES": "ALBA DÍAZ",
+            "CREDITO": "9.951.337",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "384.163",
+            "FIRMA ELLECTRONICA": "ALBA DÍAZ - 1590537157",
+            "AL PIE DE LA FIRMA": "ALBA DÍAZ - 1590537157"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1590537157",
+            "NOMBRES": "ALBA DÍAZ",
+            "FECHA NACIMIENTO": "17/07/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.951.337",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALBA DÍAZ - 1590537157",
+            "AL PIE DE LA FIRMA": "ALBA DÍAZ - 1590537157"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8395423",
+            "CEDULA": "1590537157",
+            "NOMBRES": "ALBA DÍAZ",
+            "CREDITO": "9.951.337",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "384.163",
+            "E.A": "18.45%",
+            "RECOMPRA O DESEMBOLSO": "3.291.618",
+            "FIRMA ELLECTRONICA": "ALBA DÍAZ - 1590537157"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1590537157",
+            "NOMBRES": "ALBA DÍAZ",
+            "FIRMA ELLECTRONICA": "ALBA DÍAZ - 1590537157"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1590537157",
+            "NOMBRES": "ALBA DÍAZ",
+            "FIRMA ELLECTRONICA": "ALBA DÍAZ - 1590537157",
+            "AL PIE DE LA FIRMA": "ALBA DÍAZ - 1590537157"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1590537157",
+            "NOMBRES": "ALBA DÍAZ",
+            "SALARIO": "3.754.892",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1590537157",
+            "NOMBRES": "ALBA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.291.618"
+        }
+    }
+]

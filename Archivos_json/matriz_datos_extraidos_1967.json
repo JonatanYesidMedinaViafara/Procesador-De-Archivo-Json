@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "209739854630",
+            "SOLICITUD": "1746563",
+            "CEDULA": "1822401010",
+            "NOMBRES": "FERNANDA PAULA QUIROGA",
+            "RECOMPRA O DESEMBOLSO": "3.497.740",
+            "FIRMA ELLECTRONICA": "FERNANDA PAULA QUIROGA - 1822401010"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "209739854630",
+            "NOMBRES": "FERNANDA PAULA QUIROGA",
+            "CREDITO": "15.357.527",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "334.264",
+            "FIRMA ELLECTRONICA": "FERNANDA PAULA QUIROGA - 1822401010",
+            "AL PIE DE LA FIRMA": "FERNANDA PAULA QUIROGA - 1822401010"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1822401010",
+            "NOMBRES": "FERNANDA PAULA QUIROGA",
+            "FECHA NACIMIENTO": "16/07/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.357.527",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FERNANDA PAULA QUIROGA - 1822401010",
+            "AL PIE DE LA FIRMA": "FERNANDA PAULA QUIROGA - 1822401010"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1746563",
+            "CEDULA": "1822401010",
+            "NOMBRES": "FERNANDA PAULA QUIROGA",
+            "CREDITO": "15.357.527",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "334.264",
+            "E.A": "22.13%",
+            "RECOMPRA O DESEMBOLSO": "3.497.740",
+            "FIRMA ELLECTRONICA": "FERNANDA PAULA QUIROGA - 1822401010"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1822401010",
+            "NOMBRES": "FERNANDA PAULA QUIROGA",
+            "FIRMA ELLECTRONICA": "FERNANDA PAULA QUIROGA - 1822401010"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1822401010",
+            "NOMBRES": "FERNANDA PAULA QUIROGA",
+            "FIRMA ELLECTRONICA": "FERNANDA PAULA QUIROGA - 1822401010",
+            "AL PIE DE LA FIRMA": "FERNANDA PAULA QUIROGA - 1822401010"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDA PAULA QUIROGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1822401010",
+            "NOMBRES": "FERNANDA PAULA QUIROGA",
+            "SALARIO": "1.646.285",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1822401010",
+            "NOMBRES": "FERNANDA PAULA QUIROGA",
+            "RECOMPRA O DESEMBOLSO": "3.497.740"
+        }
+    }
+]

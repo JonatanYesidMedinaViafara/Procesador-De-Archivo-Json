@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "805447747323",
+            "SOLICITUD": "6506441",
+            "CEDULA": "1325512946",
+            "NOMBRES": "MARÍA CLAUDIA CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.451.332",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA CALDERÓN - 1325512946"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "805447747323",
+            "NOMBRES": "MARÍA CLAUDIA CALDERÓN",
+            "CREDITO": "13.757.579",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "382.595",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA CALDERÓN - 1325512946",
+            "AL PIE DE LA FIRMA": "MARÍA CLAUDIA CALDERÓN - 1325512946"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1325512946",
+            "NOMBRES": "MARÍA CLAUDIA CALDERÓN",
+            "FECHA NACIMIENTO": "21/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.757.579",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA CALDERÓN - 1325512946",
+            "AL PIE DE LA FIRMA": "MARÍA CLAUDIA CALDERÓN - 1325512946"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6506441",
+            "CEDULA": "1325512946",
+            "NOMBRES": "MARÍA CLAUDIA CALDERÓN",
+            "CREDITO": "13.757.579",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "382.595",
+            "E.A": "24.16%",
+            "RECOMPRA O DESEMBOLSO": "4.451.332",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA CALDERÓN - 1325512946"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1325512946",
+            "NOMBRES": "MARÍA CLAUDIA CALDERÓN",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA CALDERÓN - 1325512946"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1325512946",
+            "NOMBRES": "MARÍA CLAUDIA CALDERÓN",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA CALDERÓN - 1325512946",
+            "AL PIE DE LA FIRMA": "MARÍA CLAUDIA CALDERÓN - 1325512946"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CLAUDIA CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1325512946",
+            "NOMBRES": "MARÍA CLAUDIA CALDERÓN",
+            "SALARIO": "2.548.418",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1325512946",
+            "NOMBRES": "MARÍA CLAUDIA CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.451.332"
+        }
+    }
+]

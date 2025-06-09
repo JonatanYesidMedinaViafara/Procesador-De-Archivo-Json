@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "158220559557",
+            "SOLICITUD": "1930555",
+            "CEDULA": "1985976483",
+            "NOMBRES": "LILIANA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.691.192",
+            "FIRMA ELLECTRONICA": "LILIANA RODRÍGUEZ - 1985976483"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "158220559557",
+            "NOMBRES": "LILIANA RODRÍGUEZ",
+            "CREDITO": "12.921.565",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "113.235",
+            "FIRMA ELLECTRONICA": "LILIANA RODRÍGUEZ - 1985976483",
+            "AL PIE DE LA FIRMA": "LILIANA RODRÍGUEZ - 1985976483"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1985976483",
+            "NOMBRES": "LILIANA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "04/10/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.921.565",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LILIANA RODRÍGUEZ - 1985976483",
+            "AL PIE DE LA FIRMA": "LILIANA RODRÍGUEZ - 1985976483"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1930555",
+            "CEDULA": "1985976483",
+            "NOMBRES": "LILIANA RODRÍGUEZ",
+            "CREDITO": "12.921.565",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "113.235",
+            "E.A": "23.01%",
+            "RECOMPRA O DESEMBOLSO": "2.691.192",
+            "FIRMA ELLECTRONICA": "LILIANA RODRÍGUEZ - 1985976483"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1985976483",
+            "NOMBRES": "LILIANA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LILIANA RODRÍGUEZ - 1985976483"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1985976483",
+            "NOMBRES": "LILIANA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LILIANA RODRÍGUEZ - 1985976483",
+            "AL PIE DE LA FIRMA": "LILIANA RODRÍGUEZ - 1985976483"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LILIANA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1985976483",
+            "NOMBRES": "LILIANA RODRÍGUEZ",
+            "SALARIO": "4.236.902",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1985976483",
+            "NOMBRES": "LILIANA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.691.192"
+        }
+    }
+]

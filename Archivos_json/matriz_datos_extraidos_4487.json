@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "681767709908",
+            "SOLICITUD": "8205235",
+            "CEDULA": "1460018523",
+            "NOMBRES": "MANUEL CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.525.239",
+            "FIRMA ELLECTRONICA": "MANUEL CARRILLO - 1460018523"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "681767709908",
+            "NOMBRES": "MANUEL CARRILLO",
+            "CREDITO": "8.927.589",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "234.618",
+            "FIRMA ELLECTRONICA": "MANUEL CARRILLO - 1460018523",
+            "AL PIE DE LA FIRMA": "MANUEL CARRILLO - 1460018523"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1460018523",
+            "NOMBRES": "MANUEL CARRILLO",
+            "FECHA NACIMIENTO": "14/11/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.927.589",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MANUEL CARRILLO - 1460018523",
+            "AL PIE DE LA FIRMA": "MANUEL CARRILLO - 1460018523"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8205235",
+            "CEDULA": "1460018523",
+            "NOMBRES": "MANUEL CARRILLO",
+            "CREDITO": "8.927.589",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "234.618",
+            "E.A": "18.26%",
+            "RECOMPRA O DESEMBOLSO": "3.525.239",
+            "FIRMA ELLECTRONICA": "MANUEL CARRILLO - 1460018523"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1460018523",
+            "NOMBRES": "MANUEL CARRILLO",
+            "FIRMA ELLECTRONICA": "MANUEL CARRILLO - 1460018523"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1460018523",
+            "NOMBRES": "MANUEL CARRILLO",
+            "FIRMA ELLECTRONICA": "MANUEL CARRILLO - 1460018523",
+            "AL PIE DE LA FIRMA": "MANUEL CARRILLO - 1460018523"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL CARRILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1460018523",
+            "NOMBRES": "MANUEL CARRILLO",
+            "SALARIO": "1.735.759",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1460018523",
+            "NOMBRES": "MANUEL CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.525.239"
+        }
+    }
+]

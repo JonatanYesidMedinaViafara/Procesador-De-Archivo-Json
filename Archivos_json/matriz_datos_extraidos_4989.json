@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "489473359275",
+            "SOLICITUD": "8392670",
+            "CEDULA": "1844849161",
+            "NOMBRES": "MICHAEL DÍAZ SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "3.563.103",
+            "FIRMA ELLECTRONICA": "MICHAEL DÍAZ SALAZAR - 1844849161"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "489473359275",
+            "NOMBRES": "MICHAEL DÍAZ SALAZAR",
+            "CREDITO": "12.119.507",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "311.17",
+            "FIRMA ELLECTRONICA": "MICHAEL DÍAZ SALAZAR - 1844849161",
+            "AL PIE DE LA FIRMA": "MICHAEL DÍAZ SALAZAR - 1844849161"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1844849161",
+            "NOMBRES": "MICHAEL DÍAZ SALAZAR",
+            "FECHA NACIMIENTO": "09/03/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.119.507",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MICHAEL DÍAZ SALAZAR - 1844849161",
+            "AL PIE DE LA FIRMA": "MICHAEL DÍAZ SALAZAR - 1844849161"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8392670",
+            "CEDULA": "1844849161",
+            "NOMBRES": "MICHAEL DÍAZ SALAZAR",
+            "CREDITO": "12.119.507",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "311.17",
+            "E.A": "28.81%",
+            "RECOMPRA O DESEMBOLSO": "3.563.103",
+            "FIRMA ELLECTRONICA": "MICHAEL DÍAZ SALAZAR - 1844849161"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1844849161",
+            "NOMBRES": "MICHAEL DÍAZ SALAZAR",
+            "FIRMA ELLECTRONICA": "MICHAEL DÍAZ SALAZAR - 1844849161"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1844849161",
+            "NOMBRES": "MICHAEL DÍAZ SALAZAR",
+            "FIRMA ELLECTRONICA": "MICHAEL DÍAZ SALAZAR - 1844849161",
+            "AL PIE DE LA FIRMA": "MICHAEL DÍAZ SALAZAR - 1844849161"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MICHAEL DÍAZ SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1844849161",
+            "NOMBRES": "MICHAEL DÍAZ SALAZAR",
+            "SALARIO": "3.447.293",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1844849161",
+            "NOMBRES": "MICHAEL DÍAZ SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "3.563.103"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "792120456092",
+            "SOLICITUD": "8415741",
+            "CEDULA": "1739517591",
+            "NOMBRES": "MARÍA PATRICIA CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "3.297.733",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA CONTRERAS - 1739517591"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "792120456092",
+            "NOMBRES": "MARÍA PATRICIA CONTRERAS",
+            "CREDITO": "13.309.507",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "338.32",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA CONTRERAS - 1739517591",
+            "AL PIE DE LA FIRMA": "MARÍA PATRICIA CONTRERAS - 1739517591"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1739517591",
+            "NOMBRES": "MARÍA PATRICIA CONTRERAS",
+            "FECHA NACIMIENTO": "26/10/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.309.507",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA CONTRERAS - 1739517591",
+            "AL PIE DE LA FIRMA": "MARÍA PATRICIA CONTRERAS - 1739517591"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8415741",
+            "CEDULA": "1739517591",
+            "NOMBRES": "MARÍA PATRICIA CONTRERAS",
+            "CREDITO": "13.309.507",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "338.32",
+            "E.A": "18.45%",
+            "RECOMPRA O DESEMBOLSO": "3.297.733",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA CONTRERAS - 1739517591"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1739517591",
+            "NOMBRES": "MARÍA PATRICIA CONTRERAS",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA CONTRERAS - 1739517591"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1739517591",
+            "NOMBRES": "MARÍA PATRICIA CONTRERAS",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA CONTRERAS - 1739517591",
+            "AL PIE DE LA FIRMA": "MARÍA PATRICIA CONTRERAS - 1739517591"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA PATRICIA CONTRERAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1739517591",
+            "NOMBRES": "MARÍA PATRICIA CONTRERAS",
+            "SALARIO": "3.609.808",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1739517591",
+            "NOMBRES": "MARÍA PATRICIA CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "3.297.733"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "560083451302",
+            "SOLICITUD": "1635603",
+            "CEDULA": "1238521366",
+            "NOMBRES": "CARMENZA PINEDA",
+            "RECOMPRA O DESEMBOLSO": "2.558.398",
+            "FIRMA ELLECTRONICA": "CARMENZA PINEDA - 1238521366"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "560083451302",
+            "NOMBRES": "CARMENZA PINEDA",
+            "CREDITO": "6.467.655",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "364.501",
+            "FIRMA ELLECTRONICA": "CARMENZA PINEDA - 1238521366",
+            "AL PIE DE LA FIRMA": "CARMENZA PINEDA - 1238521366"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1238521366",
+            "NOMBRES": "CARMENZA PINEDA",
+            "FECHA NACIMIENTO": "17/03/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.467.655",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARMENZA PINEDA - 1238521366",
+            "AL PIE DE LA FIRMA": "CARMENZA PINEDA - 1238521366"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1635603",
+            "CEDULA": "1238521366",
+            "NOMBRES": "CARMENZA PINEDA",
+            "CREDITO": "6.467.655",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "364.501",
+            "E.A": "21.95%",
+            "RECOMPRA O DESEMBOLSO": "2.558.398",
+            "FIRMA ELLECTRONICA": "CARMENZA PINEDA - 1238521366"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1238521366",
+            "NOMBRES": "CARMENZA PINEDA",
+            "FIRMA ELLECTRONICA": "CARMENZA PINEDA - 1238521366"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1238521366",
+            "NOMBRES": "CARMENZA PINEDA",
+            "FIRMA ELLECTRONICA": "CARMENZA PINEDA - 1238521366",
+            "AL PIE DE LA FIRMA": "CARMENZA PINEDA - 1238521366"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMENZA PINEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1238521366",
+            "NOMBRES": "CARMENZA PINEDA",
+            "SALARIO": "3.089.650",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1238521366",
+            "NOMBRES": "CARMENZA PINEDA",
+            "RECOMPRA O DESEMBOLSO": "2.558.398"
+        }
+    }
+]

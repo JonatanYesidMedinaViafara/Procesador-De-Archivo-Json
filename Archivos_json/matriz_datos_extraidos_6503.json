@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "356036415889",
+            "SOLICITUD": "2709590",
+            "CEDULA": "1799346520",
+            "NOMBRES": "RAFAEL MOLINA SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "2.262.045",
+            "FIRMA ELLECTRONICA": "RAFAEL MOLINA SALAZAR - 1799346520"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "356036415889",
+            "NOMBRES": "RAFAEL MOLINA SALAZAR",
+            "CREDITO": "11.141.157",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "266.719",
+            "FIRMA ELLECTRONICA": "RAFAEL MOLINA SALAZAR - 1799346520",
+            "AL PIE DE LA FIRMA": "RAFAEL MOLINA SALAZAR - 1799346520"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1799346520",
+            "NOMBRES": "RAFAEL MOLINA SALAZAR",
+            "FECHA NACIMIENTO": "31/12/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.141.157",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "RAFAEL MOLINA SALAZAR - 1799346520",
+            "AL PIE DE LA FIRMA": "RAFAEL MOLINA SALAZAR - 1799346520"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2709590",
+            "CEDULA": "1799346520",
+            "NOMBRES": "RAFAEL MOLINA SALAZAR",
+            "CREDITO": "11.141.157",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "266.719",
+            "E.A": "24.84%",
+            "RECOMPRA O DESEMBOLSO": "2.262.045",
+            "FIRMA ELLECTRONICA": "RAFAEL MOLINA SALAZAR - 1799346520"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1799346520",
+            "NOMBRES": "RAFAEL MOLINA SALAZAR",
+            "FIRMA ELLECTRONICA": "RAFAEL MOLINA SALAZAR - 1799346520"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1799346520",
+            "NOMBRES": "RAFAEL MOLINA SALAZAR",
+            "FIRMA ELLECTRONICA": "RAFAEL MOLINA SALAZAR - 1799346520",
+            "AL PIE DE LA FIRMA": "RAFAEL MOLINA SALAZAR - 1799346520"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL MOLINA SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1799346520",
+            "NOMBRES": "RAFAEL MOLINA SALAZAR",
+            "SALARIO": "1.834.200",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1799346520",
+            "NOMBRES": "RAFAEL MOLINA SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "2.262.045"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "271306838933",
+            "SOLICITUD": "9583846",
+            "CEDULA": "1069682861",
+            "NOMBRES": "DANIELA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.272.902",
+            "FIRMA ELLECTRONICA": "DANIELA SÁNCHEZ - 1069682861"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "271306838933",
+            "NOMBRES": "DANIELA SÁNCHEZ",
+            "CREDITO": "15.433.111",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "271.055",
+            "FIRMA ELLECTRONICA": "DANIELA SÁNCHEZ - 1069682861",
+            "AL PIE DE LA FIRMA": "DANIELA SÁNCHEZ - 1069682861"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1069682861",
+            "NOMBRES": "DANIELA SÁNCHEZ",
+            "FECHA NACIMIENTO": "10/09/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.433.111",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DANIELA SÁNCHEZ - 1069682861",
+            "AL PIE DE LA FIRMA": "DANIELA SÁNCHEZ - 1069682861"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9583846",
+            "CEDULA": "1069682861",
+            "NOMBRES": "DANIELA SÁNCHEZ",
+            "CREDITO": "15.433.111",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "271.055",
+            "E.A": "25.16%",
+            "RECOMPRA O DESEMBOLSO": "1.272.902",
+            "FIRMA ELLECTRONICA": "DANIELA SÁNCHEZ - 1069682861"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1069682861",
+            "NOMBRES": "DANIELA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "DANIELA SÁNCHEZ - 1069682861"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1069682861",
+            "NOMBRES": "DANIELA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "DANIELA SÁNCHEZ - 1069682861",
+            "AL PIE DE LA FIRMA": "DANIELA SÁNCHEZ - 1069682861"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIELA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1069682861",
+            "NOMBRES": "DANIELA SÁNCHEZ",
+            "SALARIO": "2.470.004",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1069682861",
+            "NOMBRES": "DANIELA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.272.902"
+        }
+    }
+]

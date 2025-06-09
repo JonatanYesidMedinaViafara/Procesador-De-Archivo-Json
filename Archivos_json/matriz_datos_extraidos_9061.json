@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "427353507152",
+            "SOLICITUD": "2001604",
+            "CEDULA": "1560597383",
+            "NOMBRES": "DAVID PARRA BARBOSA",
+            "RECOMPRA O DESEMBOLSO": "1.495.286",
+            "FIRMA ELLECTRONICA": "DAVID PARRA BARBOSA - 1560597383"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "427353507152",
+            "NOMBRES": "DAVID PARRA BARBOSA",
+            "CREDITO": "12.651.637",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "269.508",
+            "FIRMA ELLECTRONICA": "DAVID PARRA BARBOSA - 1560597383",
+            "AL PIE DE LA FIRMA": "DAVID PARRA BARBOSA - 1560597383"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1560597383",
+            "NOMBRES": "DAVID PARRA BARBOSA",
+            "FECHA NACIMIENTO": "20/06/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.651.637",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DAVID PARRA BARBOSA - 1560597383",
+            "AL PIE DE LA FIRMA": "DAVID PARRA BARBOSA - 1560597383"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2001604",
+            "CEDULA": "1560597383",
+            "NOMBRES": "DAVID PARRA BARBOSA",
+            "CREDITO": "12.651.637",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "269.508",
+            "E.A": "20.19%",
+            "RECOMPRA O DESEMBOLSO": "1.495.286",
+            "FIRMA ELLECTRONICA": "DAVID PARRA BARBOSA - 1560597383"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1560597383",
+            "NOMBRES": "DAVID PARRA BARBOSA",
+            "FIRMA ELLECTRONICA": "DAVID PARRA BARBOSA - 1560597383"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1560597383",
+            "NOMBRES": "DAVID PARRA BARBOSA",
+            "FIRMA ELLECTRONICA": "DAVID PARRA BARBOSA - 1560597383",
+            "AL PIE DE LA FIRMA": "DAVID PARRA BARBOSA - 1560597383"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID PARRA BARBOSA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1560597383",
+            "NOMBRES": "DAVID PARRA BARBOSA",
+            "SALARIO": "3.007.677",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1560597383",
+            "NOMBRES": "DAVID PARRA BARBOSA",
+            "RECOMPRA O DESEMBOLSO": "1.495.286"
+        }
+    }
+]

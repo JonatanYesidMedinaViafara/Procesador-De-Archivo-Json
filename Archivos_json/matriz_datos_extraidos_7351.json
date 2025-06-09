@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "629232001476",
+            "SOLICITUD": "2221476",
+            "CEDULA": "1772299739",
+            "NOMBRES": "GERARDO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.756.574",
+            "FIRMA ELLECTRONICA": "GERARDO PÉREZ - 1772299739"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "629232001476",
+            "NOMBRES": "GERARDO PÉREZ",
+            "CREDITO": "6.262.922",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "109.039",
+            "FIRMA ELLECTRONICA": "GERARDO PÉREZ - 1772299739",
+            "AL PIE DE LA FIRMA": "GERARDO PÉREZ - 1772299739"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1772299739",
+            "NOMBRES": "GERARDO PÉREZ",
+            "FECHA NACIMIENTO": "05/08/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.262.922",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GERARDO PÉREZ - 1772299739",
+            "AL PIE DE LA FIRMA": "GERARDO PÉREZ - 1772299739"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2221476",
+            "CEDULA": "1772299739",
+            "NOMBRES": "GERARDO PÉREZ",
+            "CREDITO": "6.262.922",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "109.039",
+            "E.A": "25.61%",
+            "RECOMPRA O DESEMBOLSO": "1.756.574",
+            "FIRMA ELLECTRONICA": "GERARDO PÉREZ - 1772299739"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1772299739",
+            "NOMBRES": "GERARDO PÉREZ",
+            "FIRMA ELLECTRONICA": "GERARDO PÉREZ - 1772299739"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1772299739",
+            "NOMBRES": "GERARDO PÉREZ",
+            "FIRMA ELLECTRONICA": "GERARDO PÉREZ - 1772299739",
+            "AL PIE DE LA FIRMA": "GERARDO PÉREZ - 1772299739"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GERARDO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1772299739",
+            "NOMBRES": "GERARDO PÉREZ",
+            "SALARIO": "4.759.149",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1772299739",
+            "NOMBRES": "GERARDO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.756.574"
+        }
+    }
+]

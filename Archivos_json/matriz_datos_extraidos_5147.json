@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "734956304288",
+            "SOLICITUD": "7103938",
+            "CEDULA": "1488579980",
+            "NOMBRES": "TATIANA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.081.519",
+            "FIRMA ELLECTRONICA": "TATIANA PÉREZ - 1488579980"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "734956304288",
+            "NOMBRES": "TATIANA PÉREZ",
+            "CREDITO": "18.748.307",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "337.588",
+            "FIRMA ELLECTRONICA": "TATIANA PÉREZ - 1488579980",
+            "AL PIE DE LA FIRMA": "TATIANA PÉREZ - 1488579980"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1488579980",
+            "NOMBRES": "TATIANA PÉREZ",
+            "FECHA NACIMIENTO": "28/11/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.748.307",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "TATIANA PÉREZ - 1488579980",
+            "AL PIE DE LA FIRMA": "TATIANA PÉREZ - 1488579980"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7103938",
+            "CEDULA": "1488579980",
+            "NOMBRES": "TATIANA PÉREZ",
+            "CREDITO": "18.748.307",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "337.588",
+            "E.A": "28.82%",
+            "RECOMPRA O DESEMBOLSO": "1.081.519",
+            "FIRMA ELLECTRONICA": "TATIANA PÉREZ - 1488579980"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1488579980",
+            "NOMBRES": "TATIANA PÉREZ",
+            "FIRMA ELLECTRONICA": "TATIANA PÉREZ - 1488579980"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1488579980",
+            "NOMBRES": "TATIANA PÉREZ",
+            "FIRMA ELLECTRONICA": "TATIANA PÉREZ - 1488579980",
+            "AL PIE DE LA FIRMA": "TATIANA PÉREZ - 1488579980"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TATIANA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1488579980",
+            "NOMBRES": "TATIANA PÉREZ",
+            "SALARIO": "2.978.672",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1488579980",
+            "NOMBRES": "TATIANA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.081.519"
+        }
+    }
+]

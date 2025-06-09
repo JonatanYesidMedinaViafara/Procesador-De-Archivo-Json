@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "769983492857",
+            "SOLICITUD": "2051455",
+            "CEDULA": "1848684536",
+            "NOMBRES": "ANA GÓMEZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.693.605",
+            "FIRMA ELLECTRONICA": "ANA GÓMEZ GÓMEZ - 1848684536"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "769983492857",
+            "NOMBRES": "ANA GÓMEZ GÓMEZ",
+            "CREDITO": "9.344.423",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "172.483",
+            "FIRMA ELLECTRONICA": "ANA GÓMEZ GÓMEZ - 1848684536",
+            "AL PIE DE LA FIRMA": "ANA GÓMEZ GÓMEZ - 1848684536"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1848684536",
+            "NOMBRES": "ANA GÓMEZ GÓMEZ",
+            "FECHA NACIMIENTO": "09/06/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.344.423",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANA GÓMEZ GÓMEZ - 1848684536",
+            "AL PIE DE LA FIRMA": "ANA GÓMEZ GÓMEZ - 1848684536"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2051455",
+            "CEDULA": "1848684536",
+            "NOMBRES": "ANA GÓMEZ GÓMEZ",
+            "CREDITO": "9.344.423",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "172.483",
+            "E.A": "24.24%",
+            "RECOMPRA O DESEMBOLSO": "1.693.605",
+            "FIRMA ELLECTRONICA": "ANA GÓMEZ GÓMEZ - 1848684536"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1848684536",
+            "NOMBRES": "ANA GÓMEZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANA GÓMEZ GÓMEZ - 1848684536"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1848684536",
+            "NOMBRES": "ANA GÓMEZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANA GÓMEZ GÓMEZ - 1848684536",
+            "AL PIE DE LA FIRMA": "ANA GÓMEZ GÓMEZ - 1848684536"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA GÓMEZ GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1848684536",
+            "NOMBRES": "ANA GÓMEZ GÓMEZ",
+            "SALARIO": "2.094.814",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1848684536",
+            "NOMBRES": "ANA GÓMEZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.693.605"
+        }
+    }
+]

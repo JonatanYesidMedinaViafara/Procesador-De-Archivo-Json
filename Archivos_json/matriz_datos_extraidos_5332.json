@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "982641841844",
+            "SOLICITUD": "3945590",
+            "CEDULA": "1254632665",
+            "NOMBRES": "DANILO MONTENEGRO",
+            "RECOMPRA O DESEMBOLSO": "2.575.009",
+            "FIRMA ELLECTRONICA": "DANILO MONTENEGRO - 1254632665"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "982641841844",
+            "NOMBRES": "DANILO MONTENEGRO",
+            "CREDITO": "11.117.266",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "238.549",
+            "FIRMA ELLECTRONICA": "DANILO MONTENEGRO - 1254632665",
+            "AL PIE DE LA FIRMA": "DANILO MONTENEGRO - 1254632665"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1254632665",
+            "NOMBRES": "DANILO MONTENEGRO",
+            "FECHA NACIMIENTO": "29/09/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.117.266",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DANILO MONTENEGRO - 1254632665",
+            "AL PIE DE LA FIRMA": "DANILO MONTENEGRO - 1254632665"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3945590",
+            "CEDULA": "1254632665",
+            "NOMBRES": "DANILO MONTENEGRO",
+            "CREDITO": "11.117.266",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "238.549",
+            "E.A": "28.62%",
+            "RECOMPRA O DESEMBOLSO": "2.575.009",
+            "FIRMA ELLECTRONICA": "DANILO MONTENEGRO - 1254632665"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1254632665",
+            "NOMBRES": "DANILO MONTENEGRO",
+            "FIRMA ELLECTRONICA": "DANILO MONTENEGRO - 1254632665"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1254632665",
+            "NOMBRES": "DANILO MONTENEGRO",
+            "FIRMA ELLECTRONICA": "DANILO MONTENEGRO - 1254632665",
+            "AL PIE DE LA FIRMA": "DANILO MONTENEGRO - 1254632665"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANILO MONTENEGRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1254632665",
+            "NOMBRES": "DANILO MONTENEGRO",
+            "SALARIO": "3.417.169",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1254632665",
+            "NOMBRES": "DANILO MONTENEGRO",
+            "RECOMPRA O DESEMBOLSO": "2.575.009"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "846934188462",
+            "SOLICITUD": "9992610",
+            "CEDULA": "1175605871",
+            "NOMBRES": "JAIRO PRADA",
+            "RECOMPRA O DESEMBOLSO": "2.788.499",
+            "FIRMA ELLECTRONICA": "JAIRO PRADA - 1175605871"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "846934188462",
+            "NOMBRES": "JAIRO PRADA",
+            "CREDITO": "6.507.424",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "161.706",
+            "FIRMA ELLECTRONICA": "JAIRO PRADA - 1175605871",
+            "AL PIE DE LA FIRMA": "JAIRO PRADA - 1175605871"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1175605871",
+            "NOMBRES": "JAIRO PRADA",
+            "FECHA NACIMIENTO": "17/03/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.507.424",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAIRO PRADA - 1175605871",
+            "AL PIE DE LA FIRMA": "JAIRO PRADA - 1175605871"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9992610",
+            "CEDULA": "1175605871",
+            "NOMBRES": "JAIRO PRADA",
+            "CREDITO": "6.507.424",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "161.706",
+            "E.A": "27.07%",
+            "RECOMPRA O DESEMBOLSO": "2.788.499",
+            "FIRMA ELLECTRONICA": "JAIRO PRADA - 1175605871"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1175605871",
+            "NOMBRES": "JAIRO PRADA",
+            "FIRMA ELLECTRONICA": "JAIRO PRADA - 1175605871"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1175605871",
+            "NOMBRES": "JAIRO PRADA",
+            "FIRMA ELLECTRONICA": "JAIRO PRADA - 1175605871",
+            "AL PIE DE LA FIRMA": "JAIRO PRADA - 1175605871"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIRO PRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1175605871",
+            "NOMBRES": "JAIRO PRADA",
+            "SALARIO": "4.884.805",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1175605871",
+            "NOMBRES": "JAIRO PRADA",
+            "RECOMPRA O DESEMBOLSO": "2.788.499"
+        }
+    }
+]

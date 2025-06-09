@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "144599267414",
+            "SOLICITUD": "9484953",
+            "CEDULA": "1716513325",
+            "NOMBRES": "DIEGO SOLANO",
+            "RECOMPRA O DESEMBOLSO": "1.719.781",
+            "FIRMA ELLECTRONICA": "DIEGO SOLANO - 1716513325"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "144599267414",
+            "NOMBRES": "DIEGO SOLANO",
+            "CREDITO": "7.463.859",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "182.814",
+            "FIRMA ELLECTRONICA": "DIEGO SOLANO - 1716513325",
+            "AL PIE DE LA FIRMA": "DIEGO SOLANO - 1716513325"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1716513325",
+            "NOMBRES": "DIEGO SOLANO",
+            "FECHA NACIMIENTO": "15/03/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.463.859",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DIEGO SOLANO - 1716513325",
+            "AL PIE DE LA FIRMA": "DIEGO SOLANO - 1716513325"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9484953",
+            "CEDULA": "1716513325",
+            "NOMBRES": "DIEGO SOLANO",
+            "CREDITO": "7.463.859",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "182.814",
+            "E.A": "27.37%",
+            "RECOMPRA O DESEMBOLSO": "1.719.781",
+            "FIRMA ELLECTRONICA": "DIEGO SOLANO - 1716513325"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1716513325",
+            "NOMBRES": "DIEGO SOLANO",
+            "FIRMA ELLECTRONICA": "DIEGO SOLANO - 1716513325"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1716513325",
+            "NOMBRES": "DIEGO SOLANO",
+            "FIRMA ELLECTRONICA": "DIEGO SOLANO - 1716513325",
+            "AL PIE DE LA FIRMA": "DIEGO SOLANO - 1716513325"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO SOLANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1716513325",
+            "NOMBRES": "DIEGO SOLANO",
+            "SALARIO": "4.202.956",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1716513325",
+            "NOMBRES": "DIEGO SOLANO",
+            "RECOMPRA O DESEMBOLSO": "1.719.781"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "496128540765",
+            "SOLICITUD": "8886005",
+            "CEDULA": "1472767505",
+            "NOMBRES": "CARLOS BLANCO",
+            "RECOMPRA O DESEMBOLSO": "3.062.364",
+            "FIRMA ELLECTRONICA": "CARLOS BLANCO - 1472767505"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "496128540765",
+            "NOMBRES": "CARLOS BLANCO",
+            "CREDITO": "14.132.350",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "214.013",
+            "FIRMA ELLECTRONICA": "CARLOS BLANCO - 1472767505",
+            "AL PIE DE LA FIRMA": "CARLOS BLANCO - 1472767505"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1472767505",
+            "NOMBRES": "CARLOS BLANCO",
+            "FECHA NACIMIENTO": "13/10/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.132.350",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS BLANCO - 1472767505",
+            "AL PIE DE LA FIRMA": "CARLOS BLANCO - 1472767505"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8886005",
+            "CEDULA": "1472767505",
+            "NOMBRES": "CARLOS BLANCO",
+            "CREDITO": "14.132.350",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "214.013",
+            "E.A": "23.67%",
+            "RECOMPRA O DESEMBOLSO": "3.062.364",
+            "FIRMA ELLECTRONICA": "CARLOS BLANCO - 1472767505"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1472767505",
+            "NOMBRES": "CARLOS BLANCO",
+            "FIRMA ELLECTRONICA": "CARLOS BLANCO - 1472767505"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1472767505",
+            "NOMBRES": "CARLOS BLANCO",
+            "FIRMA ELLECTRONICA": "CARLOS BLANCO - 1472767505",
+            "AL PIE DE LA FIRMA": "CARLOS BLANCO - 1472767505"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS BLANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1472767505",
+            "NOMBRES": "CARLOS BLANCO",
+            "SALARIO": "4.562.473",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1472767505",
+            "NOMBRES": "CARLOS BLANCO",
+            "RECOMPRA O DESEMBOLSO": "3.062.364"
+        }
+    }
+]

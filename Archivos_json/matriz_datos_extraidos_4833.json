@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "139869108161",
+            "SOLICITUD": "6233660",
+            "CEDULA": "1993337113",
+            "NOMBRES": "ANTONIO ÁLVAREZ MONTES",
+            "RECOMPRA O DESEMBOLSO": "1.068.514",
+            "FIRMA ELLECTRONICA": "ANTONIO ÁLVAREZ MONTES - 1993337113"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "139869108161",
+            "NOMBRES": "ANTONIO ÁLVAREZ MONTES",
+            "CREDITO": "17.237.759",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "317.282",
+            "FIRMA ELLECTRONICA": "ANTONIO ÁLVAREZ MONTES - 1993337113",
+            "AL PIE DE LA FIRMA": "ANTONIO ÁLVAREZ MONTES - 1993337113"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1993337113",
+            "NOMBRES": "ANTONIO ÁLVAREZ MONTES",
+            "FECHA NACIMIENTO": "06/09/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.237.759",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANTONIO ÁLVAREZ MONTES - 1993337113",
+            "AL PIE DE LA FIRMA": "ANTONIO ÁLVAREZ MONTES - 1993337113"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6233660",
+            "CEDULA": "1993337113",
+            "NOMBRES": "ANTONIO ÁLVAREZ MONTES",
+            "CREDITO": "17.237.759",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "317.282",
+            "E.A": "23.68%",
+            "RECOMPRA O DESEMBOLSO": "1.068.514",
+            "FIRMA ELLECTRONICA": "ANTONIO ÁLVAREZ MONTES - 1993337113"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1993337113",
+            "NOMBRES": "ANTONIO ÁLVAREZ MONTES",
+            "FIRMA ELLECTRONICA": "ANTONIO ÁLVAREZ MONTES - 1993337113"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1993337113",
+            "NOMBRES": "ANTONIO ÁLVAREZ MONTES",
+            "FIRMA ELLECTRONICA": "ANTONIO ÁLVAREZ MONTES - 1993337113",
+            "AL PIE DE LA FIRMA": "ANTONIO ÁLVAREZ MONTES - 1993337113"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO ÁLVAREZ MONTES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1993337113",
+            "NOMBRES": "ANTONIO ÁLVAREZ MONTES",
+            "SALARIO": "1.363.015",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1993337113",
+            "NOMBRES": "ANTONIO ÁLVAREZ MONTES",
+            "RECOMPRA O DESEMBOLSO": "1.068.514"
+        }
+    }
+]

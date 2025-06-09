@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "888129335544",
+            "SOLICITUD": "5142368",
+            "CEDULA": "1745562792",
+            "NOMBRES": "ELIZABETH LEÓN RAMOS",
+            "RECOMPRA O DESEMBOLSO": "2.346.721",
+            "FIRMA ELLECTRONICA": "ELIZABETH LEÓN RAMOS - 1745562792"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "888129335544",
+            "NOMBRES": "ELIZABETH LEÓN RAMOS",
+            "CREDITO": "8.830.263",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.605",
+            "FIRMA ELLECTRONICA": "ELIZABETH LEÓN RAMOS - 1745562792",
+            "AL PIE DE LA FIRMA": "ELIZABETH LEÓN RAMOS - 1745562792"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1745562792",
+            "NOMBRES": "ELIZABETH LEÓN RAMOS",
+            "FECHA NACIMIENTO": "05/10/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.830.263",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ELIZABETH LEÓN RAMOS - 1745562792",
+            "AL PIE DE LA FIRMA": "ELIZABETH LEÓN RAMOS - 1745562792"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5142368",
+            "CEDULA": "1745562792",
+            "NOMBRES": "ELIZABETH LEÓN RAMOS",
+            "CREDITO": "8.830.263",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.605",
+            "E.A": "23.2%",
+            "RECOMPRA O DESEMBOLSO": "2.346.721",
+            "FIRMA ELLECTRONICA": "ELIZABETH LEÓN RAMOS - 1745562792"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1745562792",
+            "NOMBRES": "ELIZABETH LEÓN RAMOS",
+            "FIRMA ELLECTRONICA": "ELIZABETH LEÓN RAMOS - 1745562792"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1745562792",
+            "NOMBRES": "ELIZABETH LEÓN RAMOS",
+            "FIRMA ELLECTRONICA": "ELIZABETH LEÓN RAMOS - 1745562792",
+            "AL PIE DE LA FIRMA": "ELIZABETH LEÓN RAMOS - 1745562792"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELIZABETH LEÓN RAMOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1745562792",
+            "NOMBRES": "ELIZABETH LEÓN RAMOS",
+            "SALARIO": "2.188.856",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1745562792",
+            "NOMBRES": "ELIZABETH LEÓN RAMOS",
+            "RECOMPRA O DESEMBOLSO": "2.346.721"
+        }
+    }
+]

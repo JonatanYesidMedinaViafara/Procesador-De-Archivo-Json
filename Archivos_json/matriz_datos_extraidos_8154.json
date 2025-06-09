@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "234732120898",
+            "SOLICITUD": "5751405",
+            "CEDULA": "1226002558",
+            "NOMBRES": "LUZ TOVAR",
+            "RECOMPRA O DESEMBOLSO": "3.980.490",
+            "FIRMA ELLECTRONICA": "LUZ TOVAR - 1226002558"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "234732120898",
+            "NOMBRES": "LUZ TOVAR",
+            "CREDITO": "16.194.659",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "150.071",
+            "FIRMA ELLECTRONICA": "LUZ TOVAR - 1226002558",
+            "AL PIE DE LA FIRMA": "LUZ TOVAR - 1226002558"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1226002558",
+            "NOMBRES": "LUZ TOVAR",
+            "FECHA NACIMIENTO": "15/03/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.194.659",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUZ TOVAR - 1226002558",
+            "AL PIE DE LA FIRMA": "LUZ TOVAR - 1226002558"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5751405",
+            "CEDULA": "1226002558",
+            "NOMBRES": "LUZ TOVAR",
+            "CREDITO": "16.194.659",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "150.071",
+            "E.A": "28.12%",
+            "RECOMPRA O DESEMBOLSO": "3.980.490",
+            "FIRMA ELLECTRONICA": "LUZ TOVAR - 1226002558"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1226002558",
+            "NOMBRES": "LUZ TOVAR",
+            "FIRMA ELLECTRONICA": "LUZ TOVAR - 1226002558"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1226002558",
+            "NOMBRES": "LUZ TOVAR",
+            "FIRMA ELLECTRONICA": "LUZ TOVAR - 1226002558",
+            "AL PIE DE LA FIRMA": "LUZ TOVAR - 1226002558"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ TOVAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1226002558",
+            "NOMBRES": "LUZ TOVAR",
+            "SALARIO": "1.821.284",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1226002558",
+            "NOMBRES": "LUZ TOVAR",
+            "RECOMPRA O DESEMBOLSO": "3.980.490"
+        }
+    }
+]

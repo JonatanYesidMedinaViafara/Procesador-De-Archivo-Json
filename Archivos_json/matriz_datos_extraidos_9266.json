@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "634893640912",
+            "SOLICITUD": "4414368",
+            "CEDULA": "1895860010",
+            "NOMBRES": "MAURICIO ANDRÉS DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.325.882",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS DÍAZ - 1895860010"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "634893640912",
+            "NOMBRES": "MAURICIO ANDRÉS DÍAZ",
+            "CREDITO": "17.319.510",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "330.114",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS DÍAZ - 1895860010",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDRÉS DÍAZ - 1895860010"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1895860010",
+            "NOMBRES": "MAURICIO ANDRÉS DÍAZ",
+            "FECHA NACIMIENTO": "14/10/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.319.510",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS DÍAZ - 1895860010",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDRÉS DÍAZ - 1895860010"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4414368",
+            "CEDULA": "1895860010",
+            "NOMBRES": "MAURICIO ANDRÉS DÍAZ",
+            "CREDITO": "17.319.510",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "330.114",
+            "E.A": "20.56%",
+            "RECOMPRA O DESEMBOLSO": "3.325.882",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS DÍAZ - 1895860010"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1895860010",
+            "NOMBRES": "MAURICIO ANDRÉS DÍAZ",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS DÍAZ - 1895860010"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1895860010",
+            "NOMBRES": "MAURICIO ANDRÉS DÍAZ",
+            "FIRMA ELLECTRONICA": "MAURICIO ANDRÉS DÍAZ - 1895860010",
+            "AL PIE DE LA FIRMA": "MAURICIO ANDRÉS DÍAZ - 1895860010"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO ANDRÉS DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1895860010",
+            "NOMBRES": "MAURICIO ANDRÉS DÍAZ",
+            "SALARIO": "3.449.476",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1895860010",
+            "NOMBRES": "MAURICIO ANDRÉS DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.325.882"
+        }
+    }
+]

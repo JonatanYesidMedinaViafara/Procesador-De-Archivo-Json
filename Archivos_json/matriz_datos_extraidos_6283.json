@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "767428736684",
+            "SOLICITUD": "9229265",
+            "CEDULA": "1333089274",
+            "NOMBRES": "SAMUEL OROZCO",
+            "RECOMPRA O DESEMBOLSO": "2.272.226",
+            "FIRMA ELLECTRONICA": "SAMUEL OROZCO - 1333089274"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "767428736684",
+            "NOMBRES": "SAMUEL OROZCO",
+            "CREDITO": "5.706.978",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "224.014",
+            "FIRMA ELLECTRONICA": "SAMUEL OROZCO - 1333089274",
+            "AL PIE DE LA FIRMA": "SAMUEL OROZCO - 1333089274"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1333089274",
+            "NOMBRES": "SAMUEL OROZCO",
+            "FECHA NACIMIENTO": "05/11/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.706.978",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "SAMUEL OROZCO - 1333089274",
+            "AL PIE DE LA FIRMA": "SAMUEL OROZCO - 1333089274"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9229265",
+            "CEDULA": "1333089274",
+            "NOMBRES": "SAMUEL OROZCO",
+            "CREDITO": "5.706.978",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "224.014",
+            "E.A": "26.5%",
+            "RECOMPRA O DESEMBOLSO": "2.272.226",
+            "FIRMA ELLECTRONICA": "SAMUEL OROZCO - 1333089274"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1333089274",
+            "NOMBRES": "SAMUEL OROZCO",
+            "FIRMA ELLECTRONICA": "SAMUEL OROZCO - 1333089274"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1333089274",
+            "NOMBRES": "SAMUEL OROZCO",
+            "FIRMA ELLECTRONICA": "SAMUEL OROZCO - 1333089274",
+            "AL PIE DE LA FIRMA": "SAMUEL OROZCO - 1333089274"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SAMUEL OROZCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1333089274",
+            "NOMBRES": "SAMUEL OROZCO",
+            "SALARIO": "1.865.812",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1333089274",
+            "NOMBRES": "SAMUEL OROZCO",
+            "RECOMPRA O DESEMBOLSO": "2.272.226"
+        }
+    }
+]

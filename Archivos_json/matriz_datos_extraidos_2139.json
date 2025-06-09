@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "172880212687",
+            "SOLICITUD": "5162801",
+            "CEDULA": "1283349996",
+            "NOMBRES": "ANDRÉS ANDRÉS PEDRAZA MORALES",
+            "RECOMPRA O DESEMBOLSO": "3.936.369",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS PEDRAZA MORALES - 1283349996"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "172880212687",
+            "NOMBRES": "ANDRÉS ANDRÉS PEDRAZA MORALES",
+            "CREDITO": "9.127.095",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "222.336",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS PEDRAZA MORALES - 1283349996",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDRÉS PEDRAZA MORALES - 1283349996"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1283349996",
+            "NOMBRES": "ANDRÉS ANDRÉS PEDRAZA MORALES",
+            "FECHA NACIMIENTO": "27/09/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.127.095",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS PEDRAZA MORALES - 1283349996",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDRÉS PEDRAZA MORALES - 1283349996"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5162801",
+            "CEDULA": "1283349996",
+            "NOMBRES": "ANDRÉS ANDRÉS PEDRAZA MORALES",
+            "CREDITO": "9.127.095",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "222.336",
+            "E.A": "28.91%",
+            "RECOMPRA O DESEMBOLSO": "3.936.369",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS PEDRAZA MORALES - 1283349996"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1283349996",
+            "NOMBRES": "ANDRÉS ANDRÉS PEDRAZA MORALES",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS PEDRAZA MORALES - 1283349996"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1283349996",
+            "NOMBRES": "ANDRÉS ANDRÉS PEDRAZA MORALES",
+            "FIRMA ELLECTRONICA": "ANDRÉS ANDRÉS PEDRAZA MORALES - 1283349996",
+            "AL PIE DE LA FIRMA": "ANDRÉS ANDRÉS PEDRAZA MORALES - 1283349996"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ANDRÉS PEDRAZA MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1283349996",
+            "NOMBRES": "ANDRÉS ANDRÉS PEDRAZA MORALES",
+            "SALARIO": "4.243.444",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1283349996",
+            "NOMBRES": "ANDRÉS ANDRÉS PEDRAZA MORALES",
+            "RECOMPRA O DESEMBOLSO": "3.936.369"
+        }
+    }
+]

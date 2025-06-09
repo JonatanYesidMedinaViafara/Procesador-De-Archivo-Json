@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "198689532416",
+            "SOLICITUD": "5749643",
+            "CEDULA": "1844614213",
+            "NOMBRES": "ÁLVARO EMILIO CASTELLANOS BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "1.525.558",
+            "FIRMA ELLECTRONICA": "ÁLVARO EMILIO CASTELLANOS BEDOYA - 1844614213"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "198689532416",
+            "NOMBRES": "ÁLVARO EMILIO CASTELLANOS BEDOYA",
+            "CREDITO": "5.414.468",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "176.846",
+            "FIRMA ELLECTRONICA": "ÁLVARO EMILIO CASTELLANOS BEDOYA - 1844614213",
+            "AL PIE DE LA FIRMA": "ÁLVARO EMILIO CASTELLANOS BEDOYA - 1844614213"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1844614213",
+            "NOMBRES": "ÁLVARO EMILIO CASTELLANOS BEDOYA",
+            "FECHA NACIMIENTO": "03/09/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.414.468",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ÁLVARO EMILIO CASTELLANOS BEDOYA - 1844614213",
+            "AL PIE DE LA FIRMA": "ÁLVARO EMILIO CASTELLANOS BEDOYA - 1844614213"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5749643",
+            "CEDULA": "1844614213",
+            "NOMBRES": "ÁLVARO EMILIO CASTELLANOS BEDOYA",
+            "CREDITO": "5.414.468",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "176.846",
+            "E.A": "21.65%",
+            "RECOMPRA O DESEMBOLSO": "1.525.558",
+            "FIRMA ELLECTRONICA": "ÁLVARO EMILIO CASTELLANOS BEDOYA - 1844614213"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1844614213",
+            "NOMBRES": "ÁLVARO EMILIO CASTELLANOS BEDOYA",
+            "FIRMA ELLECTRONICA": "ÁLVARO EMILIO CASTELLANOS BEDOYA - 1844614213"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1844614213",
+            "NOMBRES": "ÁLVARO EMILIO CASTELLANOS BEDOYA",
+            "FIRMA ELLECTRONICA": "ÁLVARO EMILIO CASTELLANOS BEDOYA - 1844614213",
+            "AL PIE DE LA FIRMA": "ÁLVARO EMILIO CASTELLANOS BEDOYA - 1844614213"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO EMILIO CASTELLANOS BEDOYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1844614213",
+            "NOMBRES": "ÁLVARO EMILIO CASTELLANOS BEDOYA",
+            "SALARIO": "4.855.038",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1844614213",
+            "NOMBRES": "ÁLVARO EMILIO CASTELLANOS BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "1.525.558"
+        }
+    }
+]

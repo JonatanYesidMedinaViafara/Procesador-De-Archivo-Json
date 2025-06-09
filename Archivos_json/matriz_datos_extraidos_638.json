@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "540864076824",
+            "SOLICITUD": "9438836",
+            "CEDULA": "1300148620",
+            "NOMBRES": "EDITH MARÍA ROJAS MELO",
+            "RECOMPRA O DESEMBOLSO": "1.688.977",
+            "FIRMA ELLECTRONICA": "EDITH MARÍA ROJAS MELO - 1300148620"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "540864076824",
+            "NOMBRES": "EDITH MARÍA ROJAS MELO",
+            "CREDITO": "12.805.889",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "147.953",
+            "FIRMA ELLECTRONICA": "EDITH MARÍA ROJAS MELO - 1300148620",
+            "AL PIE DE LA FIRMA": "EDITH MARÍA ROJAS MELO - 1300148620"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1300148620",
+            "NOMBRES": "EDITH MARÍA ROJAS MELO",
+            "FECHA NACIMIENTO": "06/01/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.805.889",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EDITH MARÍA ROJAS MELO - 1300148620",
+            "AL PIE DE LA FIRMA": "EDITH MARÍA ROJAS MELO - 1300148620"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9438836",
+            "CEDULA": "1300148620",
+            "NOMBRES": "EDITH MARÍA ROJAS MELO",
+            "CREDITO": "12.805.889",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "147.953",
+            "E.A": "25.67%",
+            "RECOMPRA O DESEMBOLSO": "1.688.977",
+            "FIRMA ELLECTRONICA": "EDITH MARÍA ROJAS MELO - 1300148620"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1300148620",
+            "NOMBRES": "EDITH MARÍA ROJAS MELO",
+            "FIRMA ELLECTRONICA": "EDITH MARÍA ROJAS MELO - 1300148620"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1300148620",
+            "NOMBRES": "EDITH MARÍA ROJAS MELO",
+            "FIRMA ELLECTRONICA": "EDITH MARÍA ROJAS MELO - 1300148620",
+            "AL PIE DE LA FIRMA": "EDITH MARÍA ROJAS MELO - 1300148620"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDITH MARÍA ROJAS MELO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1300148620",
+            "NOMBRES": "EDITH MARÍA ROJAS MELO",
+            "SALARIO": "4.457.434",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1300148620",
+            "NOMBRES": "EDITH MARÍA ROJAS MELO",
+            "RECOMPRA O DESEMBOLSO": "1.688.977"
+        }
+    }
+]

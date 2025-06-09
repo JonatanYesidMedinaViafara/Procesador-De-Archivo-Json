@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "382616725964",
+            "SOLICITUD": "6406786",
+            "CEDULA": "1353829938",
+            "NOMBRES": "MARÍA LOZANO CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.444.779",
+            "FIRMA ELLECTRONICA": "MARÍA LOZANO CASTILLO - 1353829938"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "382616725964",
+            "NOMBRES": "MARÍA LOZANO CASTILLO",
+            "CREDITO": "9.091.655",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "260.55",
+            "FIRMA ELLECTRONICA": "MARÍA LOZANO CASTILLO - 1353829938",
+            "AL PIE DE LA FIRMA": "MARÍA LOZANO CASTILLO - 1353829938"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1353829938",
+            "NOMBRES": "MARÍA LOZANO CASTILLO",
+            "FECHA NACIMIENTO": "20/08/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.091.655",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA LOZANO CASTILLO - 1353829938",
+            "AL PIE DE LA FIRMA": "MARÍA LOZANO CASTILLO - 1353829938"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6406786",
+            "CEDULA": "1353829938",
+            "NOMBRES": "MARÍA LOZANO CASTILLO",
+            "CREDITO": "9.091.655",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "260.55",
+            "E.A": "27.46%",
+            "RECOMPRA O DESEMBOLSO": "3.444.779",
+            "FIRMA ELLECTRONICA": "MARÍA LOZANO CASTILLO - 1353829938"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1353829938",
+            "NOMBRES": "MARÍA LOZANO CASTILLO",
+            "FIRMA ELLECTRONICA": "MARÍA LOZANO CASTILLO - 1353829938"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1353829938",
+            "NOMBRES": "MARÍA LOZANO CASTILLO",
+            "FIRMA ELLECTRONICA": "MARÍA LOZANO CASTILLO - 1353829938",
+            "AL PIE DE LA FIRMA": "MARÍA LOZANO CASTILLO - 1353829938"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LOZANO CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1353829938",
+            "NOMBRES": "MARÍA LOZANO CASTILLO",
+            "SALARIO": "3.655.790",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1353829938",
+            "NOMBRES": "MARÍA LOZANO CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.444.779"
+        }
+    }
+]

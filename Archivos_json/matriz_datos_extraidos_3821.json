@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "437516280479",
+            "SOLICITUD": "2933125",
+            "CEDULA": "1481676450",
+            "NOMBRES": "MARÍA PATRICIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.759.684",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA GARCÍA - 1481676450"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "437516280479",
+            "NOMBRES": "MARÍA PATRICIA GARCÍA",
+            "CREDITO": "14.013.544",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "177.879",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA GARCÍA - 1481676450",
+            "AL PIE DE LA FIRMA": "MARÍA PATRICIA GARCÍA - 1481676450"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1481676450",
+            "NOMBRES": "MARÍA PATRICIA GARCÍA",
+            "FECHA NACIMIENTO": "01/01/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.013.544",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA GARCÍA - 1481676450",
+            "AL PIE DE LA FIRMA": "MARÍA PATRICIA GARCÍA - 1481676450"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2933125",
+            "CEDULA": "1481676450",
+            "NOMBRES": "MARÍA PATRICIA GARCÍA",
+            "CREDITO": "14.013.544",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "177.879",
+            "E.A": "19.22%",
+            "RECOMPRA O DESEMBOLSO": "4.759.684",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA GARCÍA - 1481676450"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1481676450",
+            "NOMBRES": "MARÍA PATRICIA GARCÍA",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA GARCÍA - 1481676450"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1481676450",
+            "NOMBRES": "MARÍA PATRICIA GARCÍA",
+            "FIRMA ELLECTRONICA": "MARÍA PATRICIA GARCÍA - 1481676450",
+            "AL PIE DE LA FIRMA": "MARÍA PATRICIA GARCÍA - 1481676450"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA PATRICIA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1481676450",
+            "NOMBRES": "MARÍA PATRICIA GARCÍA",
+            "SALARIO": "3.538.413",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1481676450",
+            "NOMBRES": "MARÍA PATRICIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "4.759.684"
+        }
+    }
+]

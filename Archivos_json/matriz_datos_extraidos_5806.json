@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "305245106006",
+            "SOLICITUD": "3024287",
+            "CEDULA": "1457931608",
+            "NOMBRES": "RAFAEL OSORIO BAUTISTA",
+            "RECOMPRA O DESEMBOLSO": "2.025.170",
+            "FIRMA ELLECTRONICA": "RAFAEL OSORIO BAUTISTA - 1457931608"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "305245106006",
+            "NOMBRES": "RAFAEL OSORIO BAUTISTA",
+            "CREDITO": "17.052.338",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "341.783",
+            "FIRMA ELLECTRONICA": "RAFAEL OSORIO BAUTISTA - 1457931608",
+            "AL PIE DE LA FIRMA": "RAFAEL OSORIO BAUTISTA - 1457931608"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1457931608",
+            "NOMBRES": "RAFAEL OSORIO BAUTISTA",
+            "FECHA NACIMIENTO": "26/09/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.052.338",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RAFAEL OSORIO BAUTISTA - 1457931608",
+            "AL PIE DE LA FIRMA": "RAFAEL OSORIO BAUTISTA - 1457931608"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3024287",
+            "CEDULA": "1457931608",
+            "NOMBRES": "RAFAEL OSORIO BAUTISTA",
+            "CREDITO": "17.052.338",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "341.783",
+            "E.A": "21.09%",
+            "RECOMPRA O DESEMBOLSO": "2.025.170",
+            "FIRMA ELLECTRONICA": "RAFAEL OSORIO BAUTISTA - 1457931608"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1457931608",
+            "NOMBRES": "RAFAEL OSORIO BAUTISTA",
+            "FIRMA ELLECTRONICA": "RAFAEL OSORIO BAUTISTA - 1457931608"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1457931608",
+            "NOMBRES": "RAFAEL OSORIO BAUTISTA",
+            "FIRMA ELLECTRONICA": "RAFAEL OSORIO BAUTISTA - 1457931608",
+            "AL PIE DE LA FIRMA": "RAFAEL OSORIO BAUTISTA - 1457931608"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL OSORIO BAUTISTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1457931608",
+            "NOMBRES": "RAFAEL OSORIO BAUTISTA",
+            "SALARIO": "1.638.908",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1457931608",
+            "NOMBRES": "RAFAEL OSORIO BAUTISTA",
+            "RECOMPRA O DESEMBOLSO": "2.025.170"
+        }
+    }
+]

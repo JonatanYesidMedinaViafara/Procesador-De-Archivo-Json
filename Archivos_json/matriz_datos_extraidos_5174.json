@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "989506080465",
+            "SOLICITUD": "2047221",
+            "CEDULA": "1515123160",
+            "NOMBRES": "OLGA MARÍA GONZÁLEZ ARDILA",
+            "RECOMPRA O DESEMBOLSO": "2.353.216",
+            "FIRMA ELLECTRONICA": "OLGA MARÍA GONZÁLEZ ARDILA - 1515123160"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "989506080465",
+            "NOMBRES": "OLGA MARÍA GONZÁLEZ ARDILA",
+            "CREDITO": "6.597.679",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.551",
+            "FIRMA ELLECTRONICA": "OLGA MARÍA GONZÁLEZ ARDILA - 1515123160",
+            "AL PIE DE LA FIRMA": "OLGA MARÍA GONZÁLEZ ARDILA - 1515123160"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1515123160",
+            "NOMBRES": "OLGA MARÍA GONZÁLEZ ARDILA",
+            "FECHA NACIMIENTO": "28/01/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.597.679",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "OLGA MARÍA GONZÁLEZ ARDILA - 1515123160",
+            "AL PIE DE LA FIRMA": "OLGA MARÍA GONZÁLEZ ARDILA - 1515123160"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2047221",
+            "CEDULA": "1515123160",
+            "NOMBRES": "OLGA MARÍA GONZÁLEZ ARDILA",
+            "CREDITO": "6.597.679",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.551",
+            "E.A": "20.3%",
+            "RECOMPRA O DESEMBOLSO": "2.353.216",
+            "FIRMA ELLECTRONICA": "OLGA MARÍA GONZÁLEZ ARDILA - 1515123160"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1515123160",
+            "NOMBRES": "OLGA MARÍA GONZÁLEZ ARDILA",
+            "FIRMA ELLECTRONICA": "OLGA MARÍA GONZÁLEZ ARDILA - 1515123160"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1515123160",
+            "NOMBRES": "OLGA MARÍA GONZÁLEZ ARDILA",
+            "FIRMA ELLECTRONICA": "OLGA MARÍA GONZÁLEZ ARDILA - 1515123160",
+            "AL PIE DE LA FIRMA": "OLGA MARÍA GONZÁLEZ ARDILA - 1515123160"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OLGA MARÍA GONZÁLEZ ARDILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1515123160",
+            "NOMBRES": "OLGA MARÍA GONZÁLEZ ARDILA",
+            "SALARIO": "3.005.603",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1515123160",
+            "NOMBRES": "OLGA MARÍA GONZÁLEZ ARDILA",
+            "RECOMPRA O DESEMBOLSO": "2.353.216"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "352864264079",
+            "SOLICITUD": "8417439",
+            "CEDULA": "1725457375",
+            "NOMBRES": "LORENA CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "3.385.478",
+            "FIRMA ELLECTRONICA": "LORENA CONTRERAS - 1725457375"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "352864264079",
+            "NOMBRES": "LORENA CONTRERAS",
+            "CREDITO": "18.175.098",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "239.42",
+            "FIRMA ELLECTRONICA": "LORENA CONTRERAS - 1725457375",
+            "AL PIE DE LA FIRMA": "LORENA CONTRERAS - 1725457375"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1725457375",
+            "NOMBRES": "LORENA CONTRERAS",
+            "FECHA NACIMIENTO": "08/05/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.175.098",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LORENA CONTRERAS - 1725457375",
+            "AL PIE DE LA FIRMA": "LORENA CONTRERAS - 1725457375"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8417439",
+            "CEDULA": "1725457375",
+            "NOMBRES": "LORENA CONTRERAS",
+            "CREDITO": "18.175.098",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "239.42",
+            "E.A": "27.88%",
+            "RECOMPRA O DESEMBOLSO": "3.385.478",
+            "FIRMA ELLECTRONICA": "LORENA CONTRERAS - 1725457375"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1725457375",
+            "NOMBRES": "LORENA CONTRERAS",
+            "FIRMA ELLECTRONICA": "LORENA CONTRERAS - 1725457375"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1725457375",
+            "NOMBRES": "LORENA CONTRERAS",
+            "FIRMA ELLECTRONICA": "LORENA CONTRERAS - 1725457375",
+            "AL PIE DE LA FIRMA": "LORENA CONTRERAS - 1725457375"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LORENA CONTRERAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1725457375",
+            "NOMBRES": "LORENA CONTRERAS",
+            "SALARIO": "1.820.284",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1725457375",
+            "NOMBRES": "LORENA CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "3.385.478"
+        }
+    }
+]

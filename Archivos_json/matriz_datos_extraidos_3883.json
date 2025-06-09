@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "989089214509",
+            "SOLICITUD": "6158306",
+            "CEDULA": "1895571525",
+            "NOMBRES": "DANIEL JAIDER VERGARA CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "2.037.799",
+            "FIRMA ELLECTRONICA": "DANIEL JAIDER VERGARA CALDERÓN - 1895571525"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "989089214509",
+            "NOMBRES": "DANIEL JAIDER VERGARA CALDERÓN",
+            "CREDITO": "9.691.150",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "304.839",
+            "FIRMA ELLECTRONICA": "DANIEL JAIDER VERGARA CALDERÓN - 1895571525",
+            "AL PIE DE LA FIRMA": "DANIEL JAIDER VERGARA CALDERÓN - 1895571525"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1895571525",
+            "NOMBRES": "DANIEL JAIDER VERGARA CALDERÓN",
+            "FECHA NACIMIENTO": "29/03/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.691.150",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DANIEL JAIDER VERGARA CALDERÓN - 1895571525",
+            "AL PIE DE LA FIRMA": "DANIEL JAIDER VERGARA CALDERÓN - 1895571525"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6158306",
+            "CEDULA": "1895571525",
+            "NOMBRES": "DANIEL JAIDER VERGARA CALDERÓN",
+            "CREDITO": "9.691.150",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "304.839",
+            "E.A": "18.3%",
+            "RECOMPRA O DESEMBOLSO": "2.037.799",
+            "FIRMA ELLECTRONICA": "DANIEL JAIDER VERGARA CALDERÓN - 1895571525"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1895571525",
+            "NOMBRES": "DANIEL JAIDER VERGARA CALDERÓN",
+            "FIRMA ELLECTRONICA": "DANIEL JAIDER VERGARA CALDERÓN - 1895571525"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1895571525",
+            "NOMBRES": "DANIEL JAIDER VERGARA CALDERÓN",
+            "FIRMA ELLECTRONICA": "DANIEL JAIDER VERGARA CALDERÓN - 1895571525",
+            "AL PIE DE LA FIRMA": "DANIEL JAIDER VERGARA CALDERÓN - 1895571525"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL JAIDER VERGARA CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1895571525",
+            "NOMBRES": "DANIEL JAIDER VERGARA CALDERÓN",
+            "SALARIO": "4.585.492",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1895571525",
+            "NOMBRES": "DANIEL JAIDER VERGARA CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "2.037.799"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "868938500256",
+            "SOLICITUD": "4432160",
+            "CEDULA": "1293430079",
+            "NOMBRES": "CARLOS GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.868.613",
+            "FIRMA ELLECTRONICA": "CARLOS GONZÁLEZ - 1293430079"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "868938500256",
+            "NOMBRES": "CARLOS GONZÁLEZ",
+            "CREDITO": "15.247.734",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "258.452",
+            "FIRMA ELLECTRONICA": "CARLOS GONZÁLEZ - 1293430079",
+            "AL PIE DE LA FIRMA": "CARLOS GONZÁLEZ - 1293430079"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1293430079",
+            "NOMBRES": "CARLOS GONZÁLEZ",
+            "FECHA NACIMIENTO": "25/11/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.247.734",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS GONZÁLEZ - 1293430079",
+            "AL PIE DE LA FIRMA": "CARLOS GONZÁLEZ - 1293430079"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4432160",
+            "CEDULA": "1293430079",
+            "NOMBRES": "CARLOS GONZÁLEZ",
+            "CREDITO": "15.247.734",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "258.452",
+            "E.A": "20.7%",
+            "RECOMPRA O DESEMBOLSO": "2.868.613",
+            "FIRMA ELLECTRONICA": "CARLOS GONZÁLEZ - 1293430079"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1293430079",
+            "NOMBRES": "CARLOS GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CARLOS GONZÁLEZ - 1293430079"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1293430079",
+            "NOMBRES": "CARLOS GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CARLOS GONZÁLEZ - 1293430079",
+            "AL PIE DE LA FIRMA": "CARLOS GONZÁLEZ - 1293430079"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1293430079",
+            "NOMBRES": "CARLOS GONZÁLEZ",
+            "SALARIO": "2.111.917",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1293430079",
+            "NOMBRES": "CARLOS GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.868.613"
+        }
+    }
+]

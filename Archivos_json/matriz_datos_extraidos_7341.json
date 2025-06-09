@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "445008623420",
+            "SOLICITUD": "8043857",
+            "CEDULA": "1994888494",
+            "NOMBRES": "ERNESTO JHONNY ESPINOSA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.601.965",
+            "FIRMA ELLECTRONICA": "ERNESTO JHONNY ESPINOSA GARCÍA - 1994888494"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "445008623420",
+            "NOMBRES": "ERNESTO JHONNY ESPINOSA GARCÍA",
+            "CREDITO": "12.361.240",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "158.656",
+            "FIRMA ELLECTRONICA": "ERNESTO JHONNY ESPINOSA GARCÍA - 1994888494",
+            "AL PIE DE LA FIRMA": "ERNESTO JHONNY ESPINOSA GARCÍA - 1994888494"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1994888494",
+            "NOMBRES": "ERNESTO JHONNY ESPINOSA GARCÍA",
+            "FECHA NACIMIENTO": "11/02/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.361.240",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ERNESTO JHONNY ESPINOSA GARCÍA - 1994888494",
+            "AL PIE DE LA FIRMA": "ERNESTO JHONNY ESPINOSA GARCÍA - 1994888494"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8043857",
+            "CEDULA": "1994888494",
+            "NOMBRES": "ERNESTO JHONNY ESPINOSA GARCÍA",
+            "CREDITO": "12.361.240",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "158.656",
+            "E.A": "25.08%",
+            "RECOMPRA O DESEMBOLSO": "2.601.965",
+            "FIRMA ELLECTRONICA": "ERNESTO JHONNY ESPINOSA GARCÍA - 1994888494"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1994888494",
+            "NOMBRES": "ERNESTO JHONNY ESPINOSA GARCÍA",
+            "FIRMA ELLECTRONICA": "ERNESTO JHONNY ESPINOSA GARCÍA - 1994888494"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1994888494",
+            "NOMBRES": "ERNESTO JHONNY ESPINOSA GARCÍA",
+            "FIRMA ELLECTRONICA": "ERNESTO JHONNY ESPINOSA GARCÍA - 1994888494",
+            "AL PIE DE LA FIRMA": "ERNESTO JHONNY ESPINOSA GARCÍA - 1994888494"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ERNESTO JHONNY ESPINOSA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1994888494",
+            "NOMBRES": "ERNESTO JHONNY ESPINOSA GARCÍA",
+            "SALARIO": "1.744.189",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1994888494",
+            "NOMBRES": "ERNESTO JHONNY ESPINOSA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.601.965"
+        }
+    }
+]

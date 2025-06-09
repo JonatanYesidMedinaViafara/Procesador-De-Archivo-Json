@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "586504629780",
+            "SOLICITUD": "8452558",
+            "CEDULA": "1583430264",
+            "NOMBRES": "FABIO PULIDO",
+            "RECOMPRA O DESEMBOLSO": "2.408.411",
+            "FIRMA ELLECTRONICA": "FABIO PULIDO - 1583430264"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "586504629780",
+            "NOMBRES": "FABIO PULIDO",
+            "CREDITO": "18.568.260",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "355.339",
+            "FIRMA ELLECTRONICA": "FABIO PULIDO - 1583430264",
+            "AL PIE DE LA FIRMA": "FABIO PULIDO - 1583430264"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1583430264",
+            "NOMBRES": "FABIO PULIDO",
+            "FECHA NACIMIENTO": "10/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.568.260",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FABIO PULIDO - 1583430264",
+            "AL PIE DE LA FIRMA": "FABIO PULIDO - 1583430264"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8452558",
+            "CEDULA": "1583430264",
+            "NOMBRES": "FABIO PULIDO",
+            "CREDITO": "18.568.260",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "355.339",
+            "E.A": "24.23%",
+            "RECOMPRA O DESEMBOLSO": "2.408.411",
+            "FIRMA ELLECTRONICA": "FABIO PULIDO - 1583430264"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1583430264",
+            "NOMBRES": "FABIO PULIDO",
+            "FIRMA ELLECTRONICA": "FABIO PULIDO - 1583430264"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1583430264",
+            "NOMBRES": "FABIO PULIDO",
+            "FIRMA ELLECTRONICA": "FABIO PULIDO - 1583430264",
+            "AL PIE DE LA FIRMA": "FABIO PULIDO - 1583430264"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIO PULIDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1583430264",
+            "NOMBRES": "FABIO PULIDO",
+            "SALARIO": "2.882.337",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1583430264",
+            "NOMBRES": "FABIO PULIDO",
+            "RECOMPRA O DESEMBOLSO": "2.408.411"
+        }
+    }
+]

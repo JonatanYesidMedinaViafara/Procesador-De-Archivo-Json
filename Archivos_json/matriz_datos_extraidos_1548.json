@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "540977861025",
+            "SOLICITUD": "8420275",
+            "CEDULA": "1898909264",
+            "NOMBRES": "AUGUSTO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.371.290",
+            "FIRMA ELLECTRONICA": "AUGUSTO VARGAS - 1898909264"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "540977861025",
+            "NOMBRES": "AUGUSTO VARGAS",
+            "CREDITO": "6.459.016",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "129.605",
+            "FIRMA ELLECTRONICA": "AUGUSTO VARGAS - 1898909264",
+            "AL PIE DE LA FIRMA": "AUGUSTO VARGAS - 1898909264"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1898909264",
+            "NOMBRES": "AUGUSTO VARGAS",
+            "FECHA NACIMIENTO": "02/06/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.459.016",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "AUGUSTO VARGAS - 1898909264",
+            "AL PIE DE LA FIRMA": "AUGUSTO VARGAS - 1898909264"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8420275",
+            "CEDULA": "1898909264",
+            "NOMBRES": "AUGUSTO VARGAS",
+            "CREDITO": "6.459.016",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "129.605",
+            "E.A": "27.24%",
+            "RECOMPRA O DESEMBOLSO": "4.371.290",
+            "FIRMA ELLECTRONICA": "AUGUSTO VARGAS - 1898909264"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1898909264",
+            "NOMBRES": "AUGUSTO VARGAS",
+            "FIRMA ELLECTRONICA": "AUGUSTO VARGAS - 1898909264"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1898909264",
+            "NOMBRES": "AUGUSTO VARGAS",
+            "FIRMA ELLECTRONICA": "AUGUSTO VARGAS - 1898909264",
+            "AL PIE DE LA FIRMA": "AUGUSTO VARGAS - 1898909264"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AUGUSTO VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1898909264",
+            "NOMBRES": "AUGUSTO VARGAS",
+            "SALARIO": "2.683.583",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1898909264",
+            "NOMBRES": "AUGUSTO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.371.290"
+        }
+    }
+]

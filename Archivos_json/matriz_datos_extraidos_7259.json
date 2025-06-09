@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "855888921401",
+            "SOLICITUD": "2580730",
+            "CEDULA": "1886989371",
+            "NOMBRES": "ANDRÉS CERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.734.424",
+            "FIRMA ELLECTRONICA": "ANDRÉS CERÓN - 1886989371"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "855888921401",
+            "NOMBRES": "ANDRÉS CERÓN",
+            "CREDITO": "14.650.239",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "223.46",
+            "FIRMA ELLECTRONICA": "ANDRÉS CERÓN - 1886989371",
+            "AL PIE DE LA FIRMA": "ANDRÉS CERÓN - 1886989371"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1886989371",
+            "NOMBRES": "ANDRÉS CERÓN",
+            "FECHA NACIMIENTO": "11/10/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.650.239",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS CERÓN - 1886989371",
+            "AL PIE DE LA FIRMA": "ANDRÉS CERÓN - 1886989371"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2580730",
+            "CEDULA": "1886989371",
+            "NOMBRES": "ANDRÉS CERÓN",
+            "CREDITO": "14.650.239",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "223.46",
+            "E.A": "28.05%",
+            "RECOMPRA O DESEMBOLSO": "4.734.424",
+            "FIRMA ELLECTRONICA": "ANDRÉS CERÓN - 1886989371"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1886989371",
+            "NOMBRES": "ANDRÉS CERÓN",
+            "FIRMA ELLECTRONICA": "ANDRÉS CERÓN - 1886989371"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1886989371",
+            "NOMBRES": "ANDRÉS CERÓN",
+            "FIRMA ELLECTRONICA": "ANDRÉS CERÓN - 1886989371",
+            "AL PIE DE LA FIRMA": "ANDRÉS CERÓN - 1886989371"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS CERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1886989371",
+            "NOMBRES": "ANDRÉS CERÓN",
+            "SALARIO": "2.108.031",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1886989371",
+            "NOMBRES": "ANDRÉS CERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.734.424"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "192590131231",
+            "SOLICITUD": "2166049",
+            "CEDULA": "1563331894",
+            "NOMBRES": "MIREYA OSPINA JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "2.696.338",
+            "FIRMA ELLECTRONICA": "MIREYA OSPINA JARAMILLO - 1563331894"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "192590131231",
+            "NOMBRES": "MIREYA OSPINA JARAMILLO",
+            "CREDITO": "16.042.285",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "310.776",
+            "FIRMA ELLECTRONICA": "MIREYA OSPINA JARAMILLO - 1563331894",
+            "AL PIE DE LA FIRMA": "MIREYA OSPINA JARAMILLO - 1563331894"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1563331894",
+            "NOMBRES": "MIREYA OSPINA JARAMILLO",
+            "FECHA NACIMIENTO": "23/05/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.042.285",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MIREYA OSPINA JARAMILLO - 1563331894",
+            "AL PIE DE LA FIRMA": "MIREYA OSPINA JARAMILLO - 1563331894"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2166049",
+            "CEDULA": "1563331894",
+            "NOMBRES": "MIREYA OSPINA JARAMILLO",
+            "CREDITO": "16.042.285",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "310.776",
+            "E.A": "27.95%",
+            "RECOMPRA O DESEMBOLSO": "2.696.338",
+            "FIRMA ELLECTRONICA": "MIREYA OSPINA JARAMILLO - 1563331894"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1563331894",
+            "NOMBRES": "MIREYA OSPINA JARAMILLO",
+            "FIRMA ELLECTRONICA": "MIREYA OSPINA JARAMILLO - 1563331894"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1563331894",
+            "NOMBRES": "MIREYA OSPINA JARAMILLO",
+            "FIRMA ELLECTRONICA": "MIREYA OSPINA JARAMILLO - 1563331894",
+            "AL PIE DE LA FIRMA": "MIREYA OSPINA JARAMILLO - 1563331894"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIREYA OSPINA JARAMILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1563331894",
+            "NOMBRES": "MIREYA OSPINA JARAMILLO",
+            "SALARIO": "1.211.092",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1563331894",
+            "NOMBRES": "MIREYA OSPINA JARAMILLO",
+            "RECOMPRA O DESEMBOLSO": "2.696.338"
+        }
+    }
+]

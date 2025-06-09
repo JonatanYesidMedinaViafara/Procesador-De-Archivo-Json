@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "573979473210",
+            "SOLICITUD": "2807764",
+            "CEDULA": "1329329602",
+            "NOMBRES": "AURA MÓNICA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.953.620",
+            "FIRMA ELLECTRONICA": "AURA MÓNICA VALENCIA - 1329329602"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "573979473210",
+            "NOMBRES": "AURA MÓNICA VALENCIA",
+            "CREDITO": "7.801.319",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "367.076",
+            "FIRMA ELLECTRONICA": "AURA MÓNICA VALENCIA - 1329329602",
+            "AL PIE DE LA FIRMA": "AURA MÓNICA VALENCIA - 1329329602"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1329329602",
+            "NOMBRES": "AURA MÓNICA VALENCIA",
+            "FECHA NACIMIENTO": "02/09/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.801.319",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "AURA MÓNICA VALENCIA - 1329329602",
+            "AL PIE DE LA FIRMA": "AURA MÓNICA VALENCIA - 1329329602"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2807764",
+            "CEDULA": "1329329602",
+            "NOMBRES": "AURA MÓNICA VALENCIA",
+            "CREDITO": "7.801.319",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "367.076",
+            "E.A": "18.64%",
+            "RECOMPRA O DESEMBOLSO": "3.953.620",
+            "FIRMA ELLECTRONICA": "AURA MÓNICA VALENCIA - 1329329602"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1329329602",
+            "NOMBRES": "AURA MÓNICA VALENCIA",
+            "FIRMA ELLECTRONICA": "AURA MÓNICA VALENCIA - 1329329602"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1329329602",
+            "NOMBRES": "AURA MÓNICA VALENCIA",
+            "FIRMA ELLECTRONICA": "AURA MÓNICA VALENCIA - 1329329602",
+            "AL PIE DE LA FIRMA": "AURA MÓNICA VALENCIA - 1329329602"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AURA MÓNICA VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1329329602",
+            "NOMBRES": "AURA MÓNICA VALENCIA",
+            "SALARIO": "1.408.542",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1329329602",
+            "NOMBRES": "AURA MÓNICA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "3.953.620"
+        }
+    }
+]

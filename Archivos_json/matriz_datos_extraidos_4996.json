@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "573075869551",
+            "SOLICITUD": "4999892",
+            "CEDULA": "1861823354",
+            "NOMBRES": "LUIS DAVID VALENCIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.157.547",
+            "FIRMA ELLECTRONICA": "LUIS DAVID VALENCIA GARCÍA - 1861823354"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "573075869551",
+            "NOMBRES": "LUIS DAVID VALENCIA GARCÍA",
+            "CREDITO": "8.061.728",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "326.858",
+            "FIRMA ELLECTRONICA": "LUIS DAVID VALENCIA GARCÍA - 1861823354",
+            "AL PIE DE LA FIRMA": "LUIS DAVID VALENCIA GARCÍA - 1861823354"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1861823354",
+            "NOMBRES": "LUIS DAVID VALENCIA GARCÍA",
+            "FECHA NACIMIENTO": "18/07/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.061.728",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUIS DAVID VALENCIA GARCÍA - 1861823354",
+            "AL PIE DE LA FIRMA": "LUIS DAVID VALENCIA GARCÍA - 1861823354"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4999892",
+            "CEDULA": "1861823354",
+            "NOMBRES": "LUIS DAVID VALENCIA GARCÍA",
+            "CREDITO": "8.061.728",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "326.858",
+            "E.A": "21.08%",
+            "RECOMPRA O DESEMBOLSO": "1.157.547",
+            "FIRMA ELLECTRONICA": "LUIS DAVID VALENCIA GARCÍA - 1861823354"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1861823354",
+            "NOMBRES": "LUIS DAVID VALENCIA GARCÍA",
+            "FIRMA ELLECTRONICA": "LUIS DAVID VALENCIA GARCÍA - 1861823354"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1861823354",
+            "NOMBRES": "LUIS DAVID VALENCIA GARCÍA",
+            "FIRMA ELLECTRONICA": "LUIS DAVID VALENCIA GARCÍA - 1861823354",
+            "AL PIE DE LA FIRMA": "LUIS DAVID VALENCIA GARCÍA - 1861823354"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS DAVID VALENCIA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1861823354",
+            "NOMBRES": "LUIS DAVID VALENCIA GARCÍA",
+            "SALARIO": "3.524.250",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1861823354",
+            "NOMBRES": "LUIS DAVID VALENCIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.157.547"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "445704283845",
+            "SOLICITUD": "8894341",
+            "CEDULA": "1420234349",
+            "NOMBRES": "ALBERTO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.435.023",
+            "FIRMA ELLECTRONICA": "ALBERTO MARTÍNEZ - 1420234349"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "445704283845",
+            "NOMBRES": "ALBERTO MARTÍNEZ",
+            "CREDITO": "8.937.939",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "372.893",
+            "FIRMA ELLECTRONICA": "ALBERTO MARTÍNEZ - 1420234349",
+            "AL PIE DE LA FIRMA": "ALBERTO MARTÍNEZ - 1420234349"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1420234349",
+            "NOMBRES": "ALBERTO MARTÍNEZ",
+            "FECHA NACIMIENTO": "11/07/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.937.939",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALBERTO MARTÍNEZ - 1420234349",
+            "AL PIE DE LA FIRMA": "ALBERTO MARTÍNEZ - 1420234349"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8894341",
+            "CEDULA": "1420234349",
+            "NOMBRES": "ALBERTO MARTÍNEZ",
+            "CREDITO": "8.937.939",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "372.893",
+            "E.A": "21.4%",
+            "RECOMPRA O DESEMBOLSO": "4.435.023",
+            "FIRMA ELLECTRONICA": "ALBERTO MARTÍNEZ - 1420234349"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1420234349",
+            "NOMBRES": "ALBERTO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO MARTÍNEZ - 1420234349"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1420234349",
+            "NOMBRES": "ALBERTO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ALBERTO MARTÍNEZ - 1420234349",
+            "AL PIE DE LA FIRMA": "ALBERTO MARTÍNEZ - 1420234349"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1420234349",
+            "NOMBRES": "ALBERTO MARTÍNEZ",
+            "SALARIO": "1.185.567",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1420234349",
+            "NOMBRES": "ALBERTO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.435.023"
+        }
+    }
+]

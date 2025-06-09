@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "961816203204",
+            "SOLICITUD": "7523579",
+            "CEDULA": "1623656535",
+            "NOMBRES": "MARÍA LINA CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "4.365.888",
+            "FIRMA ELLECTRONICA": "MARÍA LINA CEBALLOS - 1623656535"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "961816203204",
+            "NOMBRES": "MARÍA LINA CEBALLOS",
+            "CREDITO": "6.345.314",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.089",
+            "FIRMA ELLECTRONICA": "MARÍA LINA CEBALLOS - 1623656535",
+            "AL PIE DE LA FIRMA": "MARÍA LINA CEBALLOS - 1623656535"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1623656535",
+            "NOMBRES": "MARÍA LINA CEBALLOS",
+            "FECHA NACIMIENTO": "01/09/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.345.314",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA LINA CEBALLOS - 1623656535",
+            "AL PIE DE LA FIRMA": "MARÍA LINA CEBALLOS - 1623656535"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7523579",
+            "CEDULA": "1623656535",
+            "NOMBRES": "MARÍA LINA CEBALLOS",
+            "CREDITO": "6.345.314",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.089",
+            "E.A": "27.4%",
+            "RECOMPRA O DESEMBOLSO": "4.365.888",
+            "FIRMA ELLECTRONICA": "MARÍA LINA CEBALLOS - 1623656535"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1623656535",
+            "NOMBRES": "MARÍA LINA CEBALLOS",
+            "FIRMA ELLECTRONICA": "MARÍA LINA CEBALLOS - 1623656535"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1623656535",
+            "NOMBRES": "MARÍA LINA CEBALLOS",
+            "FIRMA ELLECTRONICA": "MARÍA LINA CEBALLOS - 1623656535",
+            "AL PIE DE LA FIRMA": "MARÍA LINA CEBALLOS - 1623656535"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LINA CEBALLOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1623656535",
+            "NOMBRES": "MARÍA LINA CEBALLOS",
+            "SALARIO": "3.876.330",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1623656535",
+            "NOMBRES": "MARÍA LINA CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "4.365.888"
+        }
+    }
+]

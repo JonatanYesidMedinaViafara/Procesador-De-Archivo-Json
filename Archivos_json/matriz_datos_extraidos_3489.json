@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "691585103360",
+            "SOLICITUD": "7544083",
+            "CEDULA": "1177152063",
+            "NOMBRES": "RUBY PINTO LOZANO",
+            "RECOMPRA O DESEMBOLSO": "2.005.417",
+            "FIRMA ELLECTRONICA": "RUBY PINTO LOZANO - 1177152063"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "691585103360",
+            "NOMBRES": "RUBY PINTO LOZANO",
+            "CREDITO": "18.427.182",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "117.025",
+            "FIRMA ELLECTRONICA": "RUBY PINTO LOZANO - 1177152063",
+            "AL PIE DE LA FIRMA": "RUBY PINTO LOZANO - 1177152063"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1177152063",
+            "NOMBRES": "RUBY PINTO LOZANO",
+            "FECHA NACIMIENTO": "30/12/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.427.182",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RUBY PINTO LOZANO - 1177152063",
+            "AL PIE DE LA FIRMA": "RUBY PINTO LOZANO - 1177152063"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7544083",
+            "CEDULA": "1177152063",
+            "NOMBRES": "RUBY PINTO LOZANO",
+            "CREDITO": "18.427.182",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "117.025",
+            "E.A": "28.74%",
+            "RECOMPRA O DESEMBOLSO": "2.005.417",
+            "FIRMA ELLECTRONICA": "RUBY PINTO LOZANO - 1177152063"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1177152063",
+            "NOMBRES": "RUBY PINTO LOZANO",
+            "FIRMA ELLECTRONICA": "RUBY PINTO LOZANO - 1177152063"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1177152063",
+            "NOMBRES": "RUBY PINTO LOZANO",
+            "FIRMA ELLECTRONICA": "RUBY PINTO LOZANO - 1177152063",
+            "AL PIE DE LA FIRMA": "RUBY PINTO LOZANO - 1177152063"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUBY PINTO LOZANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1177152063",
+            "NOMBRES": "RUBY PINTO LOZANO",
+            "SALARIO": "3.511.135",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1177152063",
+            "NOMBRES": "RUBY PINTO LOZANO",
+            "RECOMPRA O DESEMBOLSO": "2.005.417"
+        }
+    }
+]

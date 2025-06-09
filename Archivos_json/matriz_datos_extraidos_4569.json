@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "473216730078",
+            "SOLICITUD": "8332656",
+            "CEDULA": "1683711255",
+            "NOMBRES": "HÉCTOR CARRILLO CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "2.577.179",
+            "FIRMA ELLECTRONICA": "HÉCTOR CARRILLO CÁRDENAS - 1683711255"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "473216730078",
+            "NOMBRES": "HÉCTOR CARRILLO CÁRDENAS",
+            "CREDITO": "5.417.678",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "202.029",
+            "FIRMA ELLECTRONICA": "HÉCTOR CARRILLO CÁRDENAS - 1683711255",
+            "AL PIE DE LA FIRMA": "HÉCTOR CARRILLO CÁRDENAS - 1683711255"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1683711255",
+            "NOMBRES": "HÉCTOR CARRILLO CÁRDENAS",
+            "FECHA NACIMIENTO": "01/09/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.417.678",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HÉCTOR CARRILLO CÁRDENAS - 1683711255",
+            "AL PIE DE LA FIRMA": "HÉCTOR CARRILLO CÁRDENAS - 1683711255"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8332656",
+            "CEDULA": "1683711255",
+            "NOMBRES": "HÉCTOR CARRILLO CÁRDENAS",
+            "CREDITO": "5.417.678",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "202.029",
+            "E.A": "22.82%",
+            "RECOMPRA O DESEMBOLSO": "2.577.179",
+            "FIRMA ELLECTRONICA": "HÉCTOR CARRILLO CÁRDENAS - 1683711255"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1683711255",
+            "NOMBRES": "HÉCTOR CARRILLO CÁRDENAS",
+            "FIRMA ELLECTRONICA": "HÉCTOR CARRILLO CÁRDENAS - 1683711255"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1683711255",
+            "NOMBRES": "HÉCTOR CARRILLO CÁRDENAS",
+            "FIRMA ELLECTRONICA": "HÉCTOR CARRILLO CÁRDENAS - 1683711255",
+            "AL PIE DE LA FIRMA": "HÉCTOR CARRILLO CÁRDENAS - 1683711255"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HÉCTOR CARRILLO CÁRDENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1683711255",
+            "NOMBRES": "HÉCTOR CARRILLO CÁRDENAS",
+            "SALARIO": "1.758.765",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1683711255",
+            "NOMBRES": "HÉCTOR CARRILLO CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "2.577.179"
+        }
+    }
+]

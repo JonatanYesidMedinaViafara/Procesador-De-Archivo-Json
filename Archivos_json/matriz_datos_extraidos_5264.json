@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "266983036484",
+            "SOLICITUD": "5608176",
+            "CEDULA": "1705529411",
+            "NOMBRES": "JORGE ROA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.245.749",
+            "FIRMA ELLECTRONICA": "JORGE ROA RAMÍREZ - 1705529411"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "266983036484",
+            "NOMBRES": "JORGE ROA RAMÍREZ",
+            "CREDITO": "18.837.673",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "130.75",
+            "FIRMA ELLECTRONICA": "JORGE ROA RAMÍREZ - 1705529411",
+            "AL PIE DE LA FIRMA": "JORGE ROA RAMÍREZ - 1705529411"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1705529411",
+            "NOMBRES": "JORGE ROA RAMÍREZ",
+            "FECHA NACIMIENTO": "24/10/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.837.673",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JORGE ROA RAMÍREZ - 1705529411",
+            "AL PIE DE LA FIRMA": "JORGE ROA RAMÍREZ - 1705529411"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5608176",
+            "CEDULA": "1705529411",
+            "NOMBRES": "JORGE ROA RAMÍREZ",
+            "CREDITO": "18.837.673",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "130.75",
+            "E.A": "18.83%",
+            "RECOMPRA O DESEMBOLSO": "1.245.749",
+            "FIRMA ELLECTRONICA": "JORGE ROA RAMÍREZ - 1705529411"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1705529411",
+            "NOMBRES": "JORGE ROA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JORGE ROA RAMÍREZ - 1705529411"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1705529411",
+            "NOMBRES": "JORGE ROA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JORGE ROA RAMÍREZ - 1705529411",
+            "AL PIE DE LA FIRMA": "JORGE ROA RAMÍREZ - 1705529411"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE ROA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1705529411",
+            "NOMBRES": "JORGE ROA RAMÍREZ",
+            "SALARIO": "4.866.486",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1705529411",
+            "NOMBRES": "JORGE ROA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.245.749"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "253825785355",
+            "SOLICITUD": "9863719",
+            "CEDULA": "1467133459",
+            "NOMBRES": "RUBÉN ANTONIO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.438.412",
+            "FIRMA ELLECTRONICA": "RUBÉN ANTONIO CASTRO - 1467133459"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "253825785355",
+            "NOMBRES": "RUBÉN ANTONIO CASTRO",
+            "CREDITO": "8.525.675",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "299.446",
+            "FIRMA ELLECTRONICA": "RUBÉN ANTONIO CASTRO - 1467133459",
+            "AL PIE DE LA FIRMA": "RUBÉN ANTONIO CASTRO - 1467133459"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1467133459",
+            "NOMBRES": "RUBÉN ANTONIO CASTRO",
+            "FECHA NACIMIENTO": "29/04/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.525.675",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RUBÉN ANTONIO CASTRO - 1467133459",
+            "AL PIE DE LA FIRMA": "RUBÉN ANTONIO CASTRO - 1467133459"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9863719",
+            "CEDULA": "1467133459",
+            "NOMBRES": "RUBÉN ANTONIO CASTRO",
+            "CREDITO": "8.525.675",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "299.446",
+            "E.A": "23.18%",
+            "RECOMPRA O DESEMBOLSO": "4.438.412",
+            "FIRMA ELLECTRONICA": "RUBÉN ANTONIO CASTRO - 1467133459"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1467133459",
+            "NOMBRES": "RUBÉN ANTONIO CASTRO",
+            "FIRMA ELLECTRONICA": "RUBÉN ANTONIO CASTRO - 1467133459"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1467133459",
+            "NOMBRES": "RUBÉN ANTONIO CASTRO",
+            "FIRMA ELLECTRONICA": "RUBÉN ANTONIO CASTRO - 1467133459",
+            "AL PIE DE LA FIRMA": "RUBÉN ANTONIO CASTRO - 1467133459"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUBÉN ANTONIO CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1467133459",
+            "NOMBRES": "RUBÉN ANTONIO CASTRO",
+            "SALARIO": "2.222.352",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1467133459",
+            "NOMBRES": "RUBÉN ANTONIO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.438.412"
+        }
+    }
+]

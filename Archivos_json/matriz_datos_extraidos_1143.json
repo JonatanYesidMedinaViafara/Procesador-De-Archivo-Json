@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "594259294900",
+            "SOLICITUD": "5202964",
+            "CEDULA": "1493381778",
+            "NOMBRES": "ANDRÉS MARTÍNEZ MONROY",
+            "RECOMPRA O DESEMBOLSO": "1.763.627",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ MONROY - 1493381778"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "594259294900",
+            "NOMBRES": "ANDRÉS MARTÍNEZ MONROY",
+            "CREDITO": "15.953.097",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "327.239",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ MONROY - 1493381778",
+            "AL PIE DE LA FIRMA": "ANDRÉS MARTÍNEZ MONROY - 1493381778"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1493381778",
+            "NOMBRES": "ANDRÉS MARTÍNEZ MONROY",
+            "FECHA NACIMIENTO": "04/08/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.953.097",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ MONROY - 1493381778",
+            "AL PIE DE LA FIRMA": "ANDRÉS MARTÍNEZ MONROY - 1493381778"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5202964",
+            "CEDULA": "1493381778",
+            "NOMBRES": "ANDRÉS MARTÍNEZ MONROY",
+            "CREDITO": "15.953.097",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "327.239",
+            "E.A": "23.51%",
+            "RECOMPRA O DESEMBOLSO": "1.763.627",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ MONROY - 1493381778"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1493381778",
+            "NOMBRES": "ANDRÉS MARTÍNEZ MONROY",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ MONROY - 1493381778"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1493381778",
+            "NOMBRES": "ANDRÉS MARTÍNEZ MONROY",
+            "FIRMA ELLECTRONICA": "ANDRÉS MARTÍNEZ MONROY - 1493381778",
+            "AL PIE DE LA FIRMA": "ANDRÉS MARTÍNEZ MONROY - 1493381778"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS MARTÍNEZ MONROY"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1493381778",
+            "NOMBRES": "ANDRÉS MARTÍNEZ MONROY",
+            "SALARIO": "2.907.578",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1493381778",
+            "NOMBRES": "ANDRÉS MARTÍNEZ MONROY",
+            "RECOMPRA O DESEMBOLSO": "1.763.627"
+        }
+    }
+]

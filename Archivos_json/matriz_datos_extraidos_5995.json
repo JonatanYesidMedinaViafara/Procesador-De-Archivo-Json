@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "518243524383",
+            "SOLICITUD": "6734796",
+            "CEDULA": "1461148957",
+            "NOMBRES": "OMAR SERGIO FORERO",
+            "RECOMPRA O DESEMBOLSO": "4.053.336",
+            "FIRMA ELLECTRONICA": "OMAR SERGIO FORERO - 1461148957"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "518243524383",
+            "NOMBRES": "OMAR SERGIO FORERO",
+            "CREDITO": "13.727.233",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "330.357",
+            "FIRMA ELLECTRONICA": "OMAR SERGIO FORERO - 1461148957",
+            "AL PIE DE LA FIRMA": "OMAR SERGIO FORERO - 1461148957"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1461148957",
+            "NOMBRES": "OMAR SERGIO FORERO",
+            "FECHA NACIMIENTO": "04/02/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.727.233",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "OMAR SERGIO FORERO - 1461148957",
+            "AL PIE DE LA FIRMA": "OMAR SERGIO FORERO - 1461148957"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6734796",
+            "CEDULA": "1461148957",
+            "NOMBRES": "OMAR SERGIO FORERO",
+            "CREDITO": "13.727.233",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "330.357",
+            "E.A": "22.36%",
+            "RECOMPRA O DESEMBOLSO": "4.053.336",
+            "FIRMA ELLECTRONICA": "OMAR SERGIO FORERO - 1461148957"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1461148957",
+            "NOMBRES": "OMAR SERGIO FORERO",
+            "FIRMA ELLECTRONICA": "OMAR SERGIO FORERO - 1461148957"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1461148957",
+            "NOMBRES": "OMAR SERGIO FORERO",
+            "FIRMA ELLECTRONICA": "OMAR SERGIO FORERO - 1461148957",
+            "AL PIE DE LA FIRMA": "OMAR SERGIO FORERO - 1461148957"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR SERGIO FORERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1461148957",
+            "NOMBRES": "OMAR SERGIO FORERO",
+            "SALARIO": "2.254.487",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1461148957",
+            "NOMBRES": "OMAR SERGIO FORERO",
+            "RECOMPRA O DESEMBOLSO": "4.053.336"
+        }
+    }
+]

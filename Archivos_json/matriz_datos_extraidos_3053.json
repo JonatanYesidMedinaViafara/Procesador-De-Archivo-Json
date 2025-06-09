@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "524852254298",
+            "SOLICITUD": "4418555",
+            "CEDULA": "1430179454",
+            "NOMBRES": "LUIS RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.417.154",
+            "FIRMA ELLECTRONICA": "LUIS RÍOS - 1430179454"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "524852254298",
+            "NOMBRES": "LUIS RÍOS",
+            "CREDITO": "16.197.978",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "173.302",
+            "FIRMA ELLECTRONICA": "LUIS RÍOS - 1430179454",
+            "AL PIE DE LA FIRMA": "LUIS RÍOS - 1430179454"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1430179454",
+            "NOMBRES": "LUIS RÍOS",
+            "FECHA NACIMIENTO": "27/07/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.197.978",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUIS RÍOS - 1430179454",
+            "AL PIE DE LA FIRMA": "LUIS RÍOS - 1430179454"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4418555",
+            "CEDULA": "1430179454",
+            "NOMBRES": "LUIS RÍOS",
+            "CREDITO": "16.197.978",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "173.302",
+            "E.A": "19.67%",
+            "RECOMPRA O DESEMBOLSO": "3.417.154",
+            "FIRMA ELLECTRONICA": "LUIS RÍOS - 1430179454"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1430179454",
+            "NOMBRES": "LUIS RÍOS",
+            "FIRMA ELLECTRONICA": "LUIS RÍOS - 1430179454"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1430179454",
+            "NOMBRES": "LUIS RÍOS",
+            "FIRMA ELLECTRONICA": "LUIS RÍOS - 1430179454",
+            "AL PIE DE LA FIRMA": "LUIS RÍOS - 1430179454"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1430179454",
+            "NOMBRES": "LUIS RÍOS",
+            "SALARIO": "2.043.174",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1430179454",
+            "NOMBRES": "LUIS RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.417.154"
+        }
+    }
+]

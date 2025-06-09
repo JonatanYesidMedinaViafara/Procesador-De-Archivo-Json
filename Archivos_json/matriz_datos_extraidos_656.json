@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "192082795381",
+            "SOLICITUD": "6161340",
+            "CEDULA": "1252657495",
+            "NOMBRES": "MARÍA CARDONA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.998.852",
+            "FIRMA ELLECTRONICA": "MARÍA CARDONA HERNÁNDEZ - 1252657495"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "192082795381",
+            "NOMBRES": "MARÍA CARDONA HERNÁNDEZ",
+            "CREDITO": "13.485.465",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "343.578",
+            "FIRMA ELLECTRONICA": "MARÍA CARDONA HERNÁNDEZ - 1252657495",
+            "AL PIE DE LA FIRMA": "MARÍA CARDONA HERNÁNDEZ - 1252657495"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1252657495",
+            "NOMBRES": "MARÍA CARDONA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "14/10/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.485.465",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA CARDONA HERNÁNDEZ - 1252657495",
+            "AL PIE DE LA FIRMA": "MARÍA CARDONA HERNÁNDEZ - 1252657495"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6161340",
+            "CEDULA": "1252657495",
+            "NOMBRES": "MARÍA CARDONA HERNÁNDEZ",
+            "CREDITO": "13.485.465",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "343.578",
+            "E.A": "27.88%",
+            "RECOMPRA O DESEMBOLSO": "2.998.852",
+            "FIRMA ELLECTRONICA": "MARÍA CARDONA HERNÁNDEZ - 1252657495"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1252657495",
+            "NOMBRES": "MARÍA CARDONA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARÍA CARDONA HERNÁNDEZ - 1252657495"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1252657495",
+            "NOMBRES": "MARÍA CARDONA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARÍA CARDONA HERNÁNDEZ - 1252657495",
+            "AL PIE DE LA FIRMA": "MARÍA CARDONA HERNÁNDEZ - 1252657495"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CARDONA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1252657495",
+            "NOMBRES": "MARÍA CARDONA HERNÁNDEZ",
+            "SALARIO": "3.483.768",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1252657495",
+            "NOMBRES": "MARÍA CARDONA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.998.852"
+        }
+    }
+]

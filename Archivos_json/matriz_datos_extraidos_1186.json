@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "844402374932",
+            "SOLICITUD": "3542207",
+            "CEDULA": "1173185658",
+            "NOMBRES": "ANTONIO ALEXANDER PÉREZ CARDONA",
+            "RECOMPRA O DESEMBOLSO": "1.295.778",
+            "FIRMA ELLECTRONICA": "ANTONIO ALEXANDER PÉREZ CARDONA - 1173185658"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "844402374932",
+            "NOMBRES": "ANTONIO ALEXANDER PÉREZ CARDONA",
+            "CREDITO": "11.707.211",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "108.945",
+            "FIRMA ELLECTRONICA": "ANTONIO ALEXANDER PÉREZ CARDONA - 1173185658",
+            "AL PIE DE LA FIRMA": "ANTONIO ALEXANDER PÉREZ CARDONA - 1173185658"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1173185658",
+            "NOMBRES": "ANTONIO ALEXANDER PÉREZ CARDONA",
+            "FECHA NACIMIENTO": "22/12/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.707.211",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANTONIO ALEXANDER PÉREZ CARDONA - 1173185658",
+            "AL PIE DE LA FIRMA": "ANTONIO ALEXANDER PÉREZ CARDONA - 1173185658"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3542207",
+            "CEDULA": "1173185658",
+            "NOMBRES": "ANTONIO ALEXANDER PÉREZ CARDONA",
+            "CREDITO": "11.707.211",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "108.945",
+            "E.A": "19.66%",
+            "RECOMPRA O DESEMBOLSO": "1.295.778",
+            "FIRMA ELLECTRONICA": "ANTONIO ALEXANDER PÉREZ CARDONA - 1173185658"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1173185658",
+            "NOMBRES": "ANTONIO ALEXANDER PÉREZ CARDONA",
+            "FIRMA ELLECTRONICA": "ANTONIO ALEXANDER PÉREZ CARDONA - 1173185658"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1173185658",
+            "NOMBRES": "ANTONIO ALEXANDER PÉREZ CARDONA",
+            "FIRMA ELLECTRONICA": "ANTONIO ALEXANDER PÉREZ CARDONA - 1173185658",
+            "AL PIE DE LA FIRMA": "ANTONIO ALEXANDER PÉREZ CARDONA - 1173185658"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO ALEXANDER PÉREZ CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1173185658",
+            "NOMBRES": "ANTONIO ALEXANDER PÉREZ CARDONA",
+            "SALARIO": "3.421.459",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1173185658",
+            "NOMBRES": "ANTONIO ALEXANDER PÉREZ CARDONA",
+            "RECOMPRA O DESEMBOLSO": "1.295.778"
+        }
+    }
+]

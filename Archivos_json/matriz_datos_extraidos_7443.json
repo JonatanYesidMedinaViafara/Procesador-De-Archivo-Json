@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "789281625247",
+            "SOLICITUD": "9425514",
+            "CEDULA": "1417319154",
+            "NOMBRES": "STELLA MARÍA MUÑOZ YEPES",
+            "RECOMPRA O DESEMBOLSO": "3.999.490",
+            "FIRMA ELLECTRONICA": "STELLA MARÍA MUÑOZ YEPES - 1417319154"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "789281625247",
+            "NOMBRES": "STELLA MARÍA MUÑOZ YEPES",
+            "CREDITO": "5.391.329",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "129.598",
+            "FIRMA ELLECTRONICA": "STELLA MARÍA MUÑOZ YEPES - 1417319154",
+            "AL PIE DE LA FIRMA": "STELLA MARÍA MUÑOZ YEPES - 1417319154"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1417319154",
+            "NOMBRES": "STELLA MARÍA MUÑOZ YEPES",
+            "FECHA NACIMIENTO": "22/12/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.391.329",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "STELLA MARÍA MUÑOZ YEPES - 1417319154",
+            "AL PIE DE LA FIRMA": "STELLA MARÍA MUÑOZ YEPES - 1417319154"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9425514",
+            "CEDULA": "1417319154",
+            "NOMBRES": "STELLA MARÍA MUÑOZ YEPES",
+            "CREDITO": "5.391.329",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "129.598",
+            "E.A": "26.84%",
+            "RECOMPRA O DESEMBOLSO": "3.999.490",
+            "FIRMA ELLECTRONICA": "STELLA MARÍA MUÑOZ YEPES - 1417319154"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1417319154",
+            "NOMBRES": "STELLA MARÍA MUÑOZ YEPES",
+            "FIRMA ELLECTRONICA": "STELLA MARÍA MUÑOZ YEPES - 1417319154"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1417319154",
+            "NOMBRES": "STELLA MARÍA MUÑOZ YEPES",
+            "FIRMA ELLECTRONICA": "STELLA MARÍA MUÑOZ YEPES - 1417319154",
+            "AL PIE DE LA FIRMA": "STELLA MARÍA MUÑOZ YEPES - 1417319154"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "STELLA MARÍA MUÑOZ YEPES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1417319154",
+            "NOMBRES": "STELLA MARÍA MUÑOZ YEPES",
+            "SALARIO": "4.089.200",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1417319154",
+            "NOMBRES": "STELLA MARÍA MUÑOZ YEPES",
+            "RECOMPRA O DESEMBOLSO": "3.999.490"
+        }
+    }
+]

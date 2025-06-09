@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "854410417312",
+            "SOLICITUD": "7940405",
+            "CEDULA": "1151444670",
+            "NOMBRES": "JULIO MARÍN",
+            "RECOMPRA O DESEMBOLSO": "4.717.626",
+            "FIRMA ELLECTRONICA": "JULIO MARÍN - 1151444670"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "854410417312",
+            "NOMBRES": "JULIO MARÍN",
+            "CREDITO": "13.518.101",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "209.596",
+            "FIRMA ELLECTRONICA": "JULIO MARÍN - 1151444670",
+            "AL PIE DE LA FIRMA": "JULIO MARÍN - 1151444670"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1151444670",
+            "NOMBRES": "JULIO MARÍN",
+            "FECHA NACIMIENTO": "13/05/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.518.101",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JULIO MARÍN - 1151444670",
+            "AL PIE DE LA FIRMA": "JULIO MARÍN - 1151444670"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7940405",
+            "CEDULA": "1151444670",
+            "NOMBRES": "JULIO MARÍN",
+            "CREDITO": "13.518.101",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "209.596",
+            "E.A": "23.56%",
+            "RECOMPRA O DESEMBOLSO": "4.717.626",
+            "FIRMA ELLECTRONICA": "JULIO MARÍN - 1151444670"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1151444670",
+            "NOMBRES": "JULIO MARÍN",
+            "FIRMA ELLECTRONICA": "JULIO MARÍN - 1151444670"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1151444670",
+            "NOMBRES": "JULIO MARÍN",
+            "FIRMA ELLECTRONICA": "JULIO MARÍN - 1151444670",
+            "AL PIE DE LA FIRMA": "JULIO MARÍN - 1151444670"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1151444670",
+            "NOMBRES": "JULIO MARÍN",
+            "SALARIO": "1.041.479",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1151444670",
+            "NOMBRES": "JULIO MARÍN",
+            "RECOMPRA O DESEMBOLSO": "4.717.626"
+        }
+    }
+]

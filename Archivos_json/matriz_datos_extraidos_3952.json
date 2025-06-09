@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "351645507345",
+            "SOLICITUD": "3658610",
+            "CEDULA": "1676766967",
+            "NOMBRES": "ELENA RIVAS",
+            "RECOMPRA O DESEMBOLSO": "4.950.606",
+            "FIRMA ELLECTRONICA": "ELENA RIVAS - 1676766967"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "351645507345",
+            "NOMBRES": "ELENA RIVAS",
+            "CREDITO": "11.667.960",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "207.322",
+            "FIRMA ELLECTRONICA": "ELENA RIVAS - 1676766967",
+            "AL PIE DE LA FIRMA": "ELENA RIVAS - 1676766967"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1676766967",
+            "NOMBRES": "ELENA RIVAS",
+            "FECHA NACIMIENTO": "30/10/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.667.960",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ELENA RIVAS - 1676766967",
+            "AL PIE DE LA FIRMA": "ELENA RIVAS - 1676766967"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3658610",
+            "CEDULA": "1676766967",
+            "NOMBRES": "ELENA RIVAS",
+            "CREDITO": "11.667.960",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "207.322",
+            "E.A": "22.77%",
+            "RECOMPRA O DESEMBOLSO": "4.950.606",
+            "FIRMA ELLECTRONICA": "ELENA RIVAS - 1676766967"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1676766967",
+            "NOMBRES": "ELENA RIVAS",
+            "FIRMA ELLECTRONICA": "ELENA RIVAS - 1676766967"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1676766967",
+            "NOMBRES": "ELENA RIVAS",
+            "FIRMA ELLECTRONICA": "ELENA RIVAS - 1676766967",
+            "AL PIE DE LA FIRMA": "ELENA RIVAS - 1676766967"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA RIVAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1676766967",
+            "NOMBRES": "ELENA RIVAS",
+            "SALARIO": "3.573.030",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1676766967",
+            "NOMBRES": "ELENA RIVAS",
+            "RECOMPRA O DESEMBOLSO": "4.950.606"
+        }
+    }
+]

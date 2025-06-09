@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "262749949601",
+            "SOLICITUD": "5562126",
+            "CEDULA": "1329231734",
+            "NOMBRES": "ANDRÉS NÉSTOR GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.274.824",
+            "FIRMA ELLECTRONICA": "ANDRÉS NÉSTOR GÓMEZ - 1329231734"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "262749949601",
+            "NOMBRES": "ANDRÉS NÉSTOR GÓMEZ",
+            "CREDITO": "7.972.897",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "131.646",
+            "FIRMA ELLECTRONICA": "ANDRÉS NÉSTOR GÓMEZ - 1329231734",
+            "AL PIE DE LA FIRMA": "ANDRÉS NÉSTOR GÓMEZ - 1329231734"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1329231734",
+            "NOMBRES": "ANDRÉS NÉSTOR GÓMEZ",
+            "FECHA NACIMIENTO": "24/10/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.972.897",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS NÉSTOR GÓMEZ - 1329231734",
+            "AL PIE DE LA FIRMA": "ANDRÉS NÉSTOR GÓMEZ - 1329231734"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5562126",
+            "CEDULA": "1329231734",
+            "NOMBRES": "ANDRÉS NÉSTOR GÓMEZ",
+            "CREDITO": "7.972.897",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "131.646",
+            "E.A": "24.48%",
+            "RECOMPRA O DESEMBOLSO": "1.274.824",
+            "FIRMA ELLECTRONICA": "ANDRÉS NÉSTOR GÓMEZ - 1329231734"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1329231734",
+            "NOMBRES": "ANDRÉS NÉSTOR GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS NÉSTOR GÓMEZ - 1329231734"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1329231734",
+            "NOMBRES": "ANDRÉS NÉSTOR GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS NÉSTOR GÓMEZ - 1329231734",
+            "AL PIE DE LA FIRMA": "ANDRÉS NÉSTOR GÓMEZ - 1329231734"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS NÉSTOR GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1329231734",
+            "NOMBRES": "ANDRÉS NÉSTOR GÓMEZ",
+            "SALARIO": "3.291.436",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1329231734",
+            "NOMBRES": "ANDRÉS NÉSTOR GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "1.274.824"
+        }
+    }
+]

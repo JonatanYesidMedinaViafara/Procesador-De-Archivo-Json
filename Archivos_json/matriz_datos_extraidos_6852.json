@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "845615720274",
+            "SOLICITUD": "1238892",
+            "CEDULA": "1927329344",
+            "NOMBRES": "MARÍA SOFÍA FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.893.587",
+            "FIRMA ELLECTRONICA": "MARÍA SOFÍA FERNÁNDEZ - 1927329344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "845615720274",
+            "NOMBRES": "MARÍA SOFÍA FERNÁNDEZ",
+            "CREDITO": "11.776.932",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "304.224",
+            "FIRMA ELLECTRONICA": "MARÍA SOFÍA FERNÁNDEZ - 1927329344",
+            "AL PIE DE LA FIRMA": "MARÍA SOFÍA FERNÁNDEZ - 1927329344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1927329344",
+            "NOMBRES": "MARÍA SOFÍA FERNÁNDEZ",
+            "FECHA NACIMIENTO": "15/07/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.776.932",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA SOFÍA FERNÁNDEZ - 1927329344",
+            "AL PIE DE LA FIRMA": "MARÍA SOFÍA FERNÁNDEZ - 1927329344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1238892",
+            "CEDULA": "1927329344",
+            "NOMBRES": "MARÍA SOFÍA FERNÁNDEZ",
+            "CREDITO": "11.776.932",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "304.224",
+            "E.A": "28.74%",
+            "RECOMPRA O DESEMBOLSO": "4.893.587",
+            "FIRMA ELLECTRONICA": "MARÍA SOFÍA FERNÁNDEZ - 1927329344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1927329344",
+            "NOMBRES": "MARÍA SOFÍA FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARÍA SOFÍA FERNÁNDEZ - 1927329344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1927329344",
+            "NOMBRES": "MARÍA SOFÍA FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MARÍA SOFÍA FERNÁNDEZ - 1927329344",
+            "AL PIE DE LA FIRMA": "MARÍA SOFÍA FERNÁNDEZ - 1927329344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA SOFÍA FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1927329344",
+            "NOMBRES": "MARÍA SOFÍA FERNÁNDEZ",
+            "SALARIO": "2.775.514",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1927329344",
+            "NOMBRES": "MARÍA SOFÍA FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.893.587"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "616850956536",
+            "SOLICITUD": "9792891",
+            "CEDULA": "1123916984",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.343.638",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1123916984"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "616850956536",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "CREDITO": "11.199.274",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "242.995",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1123916984",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ - 1123916984"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1123916984",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "FECHA NACIMIENTO": "09/07/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.199.274",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1123916984",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ - 1123916984"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9792891",
+            "CEDULA": "1123916984",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "CREDITO": "11.199.274",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "242.995",
+            "E.A": "24.21%",
+            "RECOMPRA O DESEMBOLSO": "4.343.638",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1123916984"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1123916984",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1123916984"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1123916984",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1123916984",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ - 1123916984"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1123916984",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "SALARIO": "3.764.773",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1123916984",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.343.638"
+        }
+    }
+]

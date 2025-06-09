@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "911287325037",
+            "SOLICITUD": "5525684",
+            "CEDULA": "1353600072",
+            "NOMBRES": "NOHORA RÍOS",
+            "RECOMPRA O DESEMBOLSO": "2.912.808",
+            "FIRMA ELLECTRONICA": "NOHORA RÍOS - 1353600072"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "911287325037",
+            "NOMBRES": "NOHORA RÍOS",
+            "CREDITO": "8.378.468",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "181.665",
+            "FIRMA ELLECTRONICA": "NOHORA RÍOS - 1353600072",
+            "AL PIE DE LA FIRMA": "NOHORA RÍOS - 1353600072"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1353600072",
+            "NOMBRES": "NOHORA RÍOS",
+            "FECHA NACIMIENTO": "13/12/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.378.468",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "NOHORA RÍOS - 1353600072",
+            "AL PIE DE LA FIRMA": "NOHORA RÍOS - 1353600072"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5525684",
+            "CEDULA": "1353600072",
+            "NOMBRES": "NOHORA RÍOS",
+            "CREDITO": "8.378.468",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "181.665",
+            "E.A": "24.04%",
+            "RECOMPRA O DESEMBOLSO": "2.912.808",
+            "FIRMA ELLECTRONICA": "NOHORA RÍOS - 1353600072"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1353600072",
+            "NOMBRES": "NOHORA RÍOS",
+            "FIRMA ELLECTRONICA": "NOHORA RÍOS - 1353600072"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1353600072",
+            "NOMBRES": "NOHORA RÍOS",
+            "FIRMA ELLECTRONICA": "NOHORA RÍOS - 1353600072",
+            "AL PIE DE LA FIRMA": "NOHORA RÍOS - 1353600072"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NOHORA RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1353600072",
+            "NOMBRES": "NOHORA RÍOS",
+            "SALARIO": "1.479.241",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "08/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1353600072",
+            "NOMBRES": "NOHORA RÍOS",
+            "RECOMPRA O DESEMBOLSO": "2.912.808"
+        }
+    }
+]

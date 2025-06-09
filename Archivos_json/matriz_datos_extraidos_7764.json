@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "466854484818",
+            "SOLICITUD": "5023347",
+            "CEDULA": "1050909686",
+            "NOMBRES": "MARÍA RIASCOS CARO",
+            "RECOMPRA O DESEMBOLSO": "3.926.020",
+            "FIRMA ELLECTRONICA": "MARÍA RIASCOS CARO - 1050909686"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "466854484818",
+            "NOMBRES": "MARÍA RIASCOS CARO",
+            "CREDITO": "8.853.549",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "194.538",
+            "FIRMA ELLECTRONICA": "MARÍA RIASCOS CARO - 1050909686",
+            "AL PIE DE LA FIRMA": "MARÍA RIASCOS CARO - 1050909686"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1050909686",
+            "NOMBRES": "MARÍA RIASCOS CARO",
+            "FECHA NACIMIENTO": "08/10/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.853.549",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA RIASCOS CARO - 1050909686",
+            "AL PIE DE LA FIRMA": "MARÍA RIASCOS CARO - 1050909686"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5023347",
+            "CEDULA": "1050909686",
+            "NOMBRES": "MARÍA RIASCOS CARO",
+            "CREDITO": "8.853.549",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "194.538",
+            "E.A": "22.76%",
+            "RECOMPRA O DESEMBOLSO": "3.926.020",
+            "FIRMA ELLECTRONICA": "MARÍA RIASCOS CARO - 1050909686"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1050909686",
+            "NOMBRES": "MARÍA RIASCOS CARO",
+            "FIRMA ELLECTRONICA": "MARÍA RIASCOS CARO - 1050909686"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1050909686",
+            "NOMBRES": "MARÍA RIASCOS CARO",
+            "FIRMA ELLECTRONICA": "MARÍA RIASCOS CARO - 1050909686",
+            "AL PIE DE LA FIRMA": "MARÍA RIASCOS CARO - 1050909686"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA RIASCOS CARO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1050909686",
+            "NOMBRES": "MARÍA RIASCOS CARO",
+            "SALARIO": "1.305.155",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1050909686",
+            "NOMBRES": "MARÍA RIASCOS CARO",
+            "RECOMPRA O DESEMBOLSO": "3.926.020"
+        }
+    }
+]

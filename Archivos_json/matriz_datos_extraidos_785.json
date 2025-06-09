@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "899710132128",
+            "SOLICITUD": "3847053",
+            "CEDULA": "1964049737",
+            "NOMBRES": "EFRAIN AGUIRRE BARRERA",
+            "RECOMPRA O DESEMBOLSO": "2.749.675",
+            "FIRMA ELLECTRONICA": "EFRAIN AGUIRRE BARRERA - 1964049737"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "899710132128",
+            "NOMBRES": "EFRAIN AGUIRRE BARRERA",
+            "CREDITO": "16.928.142",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "310.687",
+            "FIRMA ELLECTRONICA": "EFRAIN AGUIRRE BARRERA - 1964049737",
+            "AL PIE DE LA FIRMA": "EFRAIN AGUIRRE BARRERA - 1964049737"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1964049737",
+            "NOMBRES": "EFRAIN AGUIRRE BARRERA",
+            "FECHA NACIMIENTO": "26/01/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.928.142",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "EFRAIN AGUIRRE BARRERA - 1964049737",
+            "AL PIE DE LA FIRMA": "EFRAIN AGUIRRE BARRERA - 1964049737"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3847053",
+            "CEDULA": "1964049737",
+            "NOMBRES": "EFRAIN AGUIRRE BARRERA",
+            "CREDITO": "16.928.142",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "310.687",
+            "E.A": "26.89%",
+            "RECOMPRA O DESEMBOLSO": "2.749.675",
+            "FIRMA ELLECTRONICA": "EFRAIN AGUIRRE BARRERA - 1964049737"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1964049737",
+            "NOMBRES": "EFRAIN AGUIRRE BARRERA",
+            "FIRMA ELLECTRONICA": "EFRAIN AGUIRRE BARRERA - 1964049737"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1964049737",
+            "NOMBRES": "EFRAIN AGUIRRE BARRERA",
+            "FIRMA ELLECTRONICA": "EFRAIN AGUIRRE BARRERA - 1964049737",
+            "AL PIE DE LA FIRMA": "EFRAIN AGUIRRE BARRERA - 1964049737"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EFRAIN AGUIRRE BARRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1964049737",
+            "NOMBRES": "EFRAIN AGUIRRE BARRERA",
+            "SALARIO": "1.093.728",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1964049737",
+            "NOMBRES": "EFRAIN AGUIRRE BARRERA",
+            "RECOMPRA O DESEMBOLSO": "2.749.675"
+        }
+    }
+]

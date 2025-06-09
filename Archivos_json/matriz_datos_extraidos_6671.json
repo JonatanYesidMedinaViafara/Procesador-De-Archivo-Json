@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "753211544223",
+            "SOLICITUD": "3835366",
+            "CEDULA": "1007975871",
+            "NOMBRES": "GRACIELA LOAIZA",
+            "RECOMPRA O DESEMBOLSO": "1.562.351",
+            "FIRMA ELLECTRONICA": "GRACIELA LOAIZA - 1007975871"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "753211544223",
+            "NOMBRES": "GRACIELA LOAIZA",
+            "CREDITO": "9.209.267",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "123.054",
+            "FIRMA ELLECTRONICA": "GRACIELA LOAIZA - 1007975871",
+            "AL PIE DE LA FIRMA": "GRACIELA LOAIZA - 1007975871"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1007975871",
+            "NOMBRES": "GRACIELA LOAIZA",
+            "FECHA NACIMIENTO": "24/06/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.209.267",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "GRACIELA LOAIZA - 1007975871",
+            "AL PIE DE LA FIRMA": "GRACIELA LOAIZA - 1007975871"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3835366",
+            "CEDULA": "1007975871",
+            "NOMBRES": "GRACIELA LOAIZA",
+            "CREDITO": "9.209.267",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "123.054",
+            "E.A": "29.0%",
+            "RECOMPRA O DESEMBOLSO": "1.562.351",
+            "FIRMA ELLECTRONICA": "GRACIELA LOAIZA - 1007975871"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1007975871",
+            "NOMBRES": "GRACIELA LOAIZA",
+            "FIRMA ELLECTRONICA": "GRACIELA LOAIZA - 1007975871"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1007975871",
+            "NOMBRES": "GRACIELA LOAIZA",
+            "FIRMA ELLECTRONICA": "GRACIELA LOAIZA - 1007975871",
+            "AL PIE DE LA FIRMA": "GRACIELA LOAIZA - 1007975871"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GRACIELA LOAIZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1007975871",
+            "NOMBRES": "GRACIELA LOAIZA",
+            "SALARIO": "2.782.669",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1007975871",
+            "NOMBRES": "GRACIELA LOAIZA",
+            "RECOMPRA O DESEMBOLSO": "1.562.351"
+        }
+    }
+]

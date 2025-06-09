@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "388172016631",
+            "SOLICITUD": "2259844",
+            "CEDULA": "1003954138",
+            "NOMBRES": "JOSÉ HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.701.168",
+            "FIRMA ELLECTRONICA": "JOSÉ HURTADO - 1003954138"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "388172016631",
+            "NOMBRES": "JOSÉ HURTADO",
+            "CREDITO": "15.531.318",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "362.162",
+            "FIRMA ELLECTRONICA": "JOSÉ HURTADO - 1003954138",
+            "AL PIE DE LA FIRMA": "JOSÉ HURTADO - 1003954138"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1003954138",
+            "NOMBRES": "JOSÉ HURTADO",
+            "FECHA NACIMIENTO": "27/07/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.531.318",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOSÉ HURTADO - 1003954138",
+            "AL PIE DE LA FIRMA": "JOSÉ HURTADO - 1003954138"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2259844",
+            "CEDULA": "1003954138",
+            "NOMBRES": "JOSÉ HURTADO",
+            "CREDITO": "15.531.318",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "362.162",
+            "E.A": "20.33%",
+            "RECOMPRA O DESEMBOLSO": "3.701.168",
+            "FIRMA ELLECTRONICA": "JOSÉ HURTADO - 1003954138"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1003954138",
+            "NOMBRES": "JOSÉ HURTADO",
+            "FIRMA ELLECTRONICA": "JOSÉ HURTADO - 1003954138"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1003954138",
+            "NOMBRES": "JOSÉ HURTADO",
+            "FIRMA ELLECTRONICA": "JOSÉ HURTADO - 1003954138",
+            "AL PIE DE LA FIRMA": "JOSÉ HURTADO - 1003954138"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ HURTADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1003954138",
+            "NOMBRES": "JOSÉ HURTADO",
+            "SALARIO": "2.182.471",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1003954138",
+            "NOMBRES": "JOSÉ HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.701.168"
+        }
+    }
+]

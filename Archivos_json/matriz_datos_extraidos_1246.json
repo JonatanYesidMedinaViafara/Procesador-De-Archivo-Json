@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "409930859894",
+            "SOLICITUD": "2418955",
+            "CEDULA": "1957839916",
+            "NOMBRES": "JHON HERNÁNDEZ BERMÚDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.910.714",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ BERMÚDEZ - 1957839916"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "409930859894",
+            "NOMBRES": "JHON HERNÁNDEZ BERMÚDEZ",
+            "CREDITO": "18.578.588",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "351.431",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ BERMÚDEZ - 1957839916",
+            "AL PIE DE LA FIRMA": "JHON HERNÁNDEZ BERMÚDEZ - 1957839916"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1957839916",
+            "NOMBRES": "JHON HERNÁNDEZ BERMÚDEZ",
+            "FECHA NACIMIENTO": "25/06/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.578.588",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ BERMÚDEZ - 1957839916",
+            "AL PIE DE LA FIRMA": "JHON HERNÁNDEZ BERMÚDEZ - 1957839916"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2418955",
+            "CEDULA": "1957839916",
+            "NOMBRES": "JHON HERNÁNDEZ BERMÚDEZ",
+            "CREDITO": "18.578.588",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "351.431",
+            "E.A": "24.38%",
+            "RECOMPRA O DESEMBOLSO": "2.910.714",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ BERMÚDEZ - 1957839916"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1957839916",
+            "NOMBRES": "JHON HERNÁNDEZ BERMÚDEZ",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ BERMÚDEZ - 1957839916"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1957839916",
+            "NOMBRES": "JHON HERNÁNDEZ BERMÚDEZ",
+            "FIRMA ELLECTRONICA": "JHON HERNÁNDEZ BERMÚDEZ - 1957839916",
+            "AL PIE DE LA FIRMA": "JHON HERNÁNDEZ BERMÚDEZ - 1957839916"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON HERNÁNDEZ BERMÚDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1957839916",
+            "NOMBRES": "JHON HERNÁNDEZ BERMÚDEZ",
+            "SALARIO": "1.236.473",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1957839916",
+            "NOMBRES": "JHON HERNÁNDEZ BERMÚDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.910.714"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "173160811948",
+            "SOLICITUD": "1932012",
+            "CEDULA": "1471737418",
+            "NOMBRES": "STELLA ANA PAZ",
+            "RECOMPRA O DESEMBOLSO": "3.122.602",
+            "FIRMA ELLECTRONICA": "STELLA ANA PAZ - 1471737418"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "173160811948",
+            "NOMBRES": "STELLA ANA PAZ",
+            "CREDITO": "11.598.491",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "161.609",
+            "FIRMA ELLECTRONICA": "STELLA ANA PAZ - 1471737418",
+            "AL PIE DE LA FIRMA": "STELLA ANA PAZ - 1471737418"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1471737418",
+            "NOMBRES": "STELLA ANA PAZ",
+            "FECHA NACIMIENTO": "18/05/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.598.491",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "STELLA ANA PAZ - 1471737418",
+            "AL PIE DE LA FIRMA": "STELLA ANA PAZ - 1471737418"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1932012",
+            "CEDULA": "1471737418",
+            "NOMBRES": "STELLA ANA PAZ",
+            "CREDITO": "11.598.491",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "161.609",
+            "E.A": "20.54%",
+            "RECOMPRA O DESEMBOLSO": "3.122.602",
+            "FIRMA ELLECTRONICA": "STELLA ANA PAZ - 1471737418"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1471737418",
+            "NOMBRES": "STELLA ANA PAZ",
+            "FIRMA ELLECTRONICA": "STELLA ANA PAZ - 1471737418"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1471737418",
+            "NOMBRES": "STELLA ANA PAZ",
+            "FIRMA ELLECTRONICA": "STELLA ANA PAZ - 1471737418",
+            "AL PIE DE LA FIRMA": "STELLA ANA PAZ - 1471737418"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "STELLA ANA PAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1471737418",
+            "NOMBRES": "STELLA ANA PAZ",
+            "SALARIO": "2.775.948",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1471737418",
+            "NOMBRES": "STELLA ANA PAZ",
+            "RECOMPRA O DESEMBOLSO": "3.122.602"
+        }
+    }
+]

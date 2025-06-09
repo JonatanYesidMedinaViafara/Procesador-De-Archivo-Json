@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "589692428292",
+            "SOLICITUD": "2139228",
+            "CEDULA": "1160361819",
+            "NOMBRES": "JOSÉ PEÑA",
+            "RECOMPRA O DESEMBOLSO": "4.029.624",
+            "FIRMA ELLECTRONICA": "JOSÉ PEÑA - 1160361819"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "589692428292",
+            "NOMBRES": "JOSÉ PEÑA",
+            "CREDITO": "12.392.315",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "166.348",
+            "FIRMA ELLECTRONICA": "JOSÉ PEÑA - 1160361819",
+            "AL PIE DE LA FIRMA": "JOSÉ PEÑA - 1160361819"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1160361819",
+            "NOMBRES": "JOSÉ PEÑA",
+            "FECHA NACIMIENTO": "17/11/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.392.315",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ PEÑA - 1160361819",
+            "AL PIE DE LA FIRMA": "JOSÉ PEÑA - 1160361819"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2139228",
+            "CEDULA": "1160361819",
+            "NOMBRES": "JOSÉ PEÑA",
+            "CREDITO": "12.392.315",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "166.348",
+            "E.A": "28.08%",
+            "RECOMPRA O DESEMBOLSO": "4.029.624",
+            "FIRMA ELLECTRONICA": "JOSÉ PEÑA - 1160361819"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1160361819",
+            "NOMBRES": "JOSÉ PEÑA",
+            "FIRMA ELLECTRONICA": "JOSÉ PEÑA - 1160361819"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1160361819",
+            "NOMBRES": "JOSÉ PEÑA",
+            "FIRMA ELLECTRONICA": "JOSÉ PEÑA - 1160361819",
+            "AL PIE DE LA FIRMA": "JOSÉ PEÑA - 1160361819"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1160361819",
+            "NOMBRES": "JOSÉ PEÑA",
+            "SALARIO": "1.832.106",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1160361819",
+            "NOMBRES": "JOSÉ PEÑA",
+            "RECOMPRA O DESEMBOLSO": "4.029.624"
+        }
+    }
+]

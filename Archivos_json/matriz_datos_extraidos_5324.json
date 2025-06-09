@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "577949897930",
+            "SOLICITUD": "3550813",
+            "CEDULA": "1638904213",
+            "NOMBRES": "ALEJANDRO ENRIQUE OBANDO",
+            "RECOMPRA O DESEMBOLSO": "4.444.088",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ENRIQUE OBANDO - 1638904213"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "577949897930",
+            "NOMBRES": "ALEJANDRO ENRIQUE OBANDO",
+            "CREDITO": "7.318.139",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "331.796",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ENRIQUE OBANDO - 1638904213",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ENRIQUE OBANDO - 1638904213"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1638904213",
+            "NOMBRES": "ALEJANDRO ENRIQUE OBANDO",
+            "FECHA NACIMIENTO": "01/03/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.318.139",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ENRIQUE OBANDO - 1638904213",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ENRIQUE OBANDO - 1638904213"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3550813",
+            "CEDULA": "1638904213",
+            "NOMBRES": "ALEJANDRO ENRIQUE OBANDO",
+            "CREDITO": "7.318.139",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "331.796",
+            "E.A": "28.71%",
+            "RECOMPRA O DESEMBOLSO": "4.444.088",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ENRIQUE OBANDO - 1638904213"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1638904213",
+            "NOMBRES": "ALEJANDRO ENRIQUE OBANDO",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ENRIQUE OBANDO - 1638904213"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1638904213",
+            "NOMBRES": "ALEJANDRO ENRIQUE OBANDO",
+            "FIRMA ELLECTRONICA": "ALEJANDRO ENRIQUE OBANDO - 1638904213",
+            "AL PIE DE LA FIRMA": "ALEJANDRO ENRIQUE OBANDO - 1638904213"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO ENRIQUE OBANDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1638904213",
+            "NOMBRES": "ALEJANDRO ENRIQUE OBANDO",
+            "SALARIO": "3.420.000",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1638904213",
+            "NOMBRES": "ALEJANDRO ENRIQUE OBANDO",
+            "RECOMPRA O DESEMBOLSO": "4.444.088"
+        }
+    }
+]

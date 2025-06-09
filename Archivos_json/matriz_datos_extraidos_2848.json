@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "238212049670",
+            "SOLICITUD": "5045258",
+            "CEDULA": "1025640077",
+            "NOMBRES": "DAVID GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.907.577",
+            "FIRMA ELLECTRONICA": "DAVID GONZÁLEZ - 1025640077"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "238212049670",
+            "NOMBRES": "DAVID GONZÁLEZ",
+            "CREDITO": "19.963.156",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "278.053",
+            "FIRMA ELLECTRONICA": "DAVID GONZÁLEZ - 1025640077",
+            "AL PIE DE LA FIRMA": "DAVID GONZÁLEZ - 1025640077"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1025640077",
+            "NOMBRES": "DAVID GONZÁLEZ",
+            "FECHA NACIMIENTO": "06/03/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.963.156",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DAVID GONZÁLEZ - 1025640077",
+            "AL PIE DE LA FIRMA": "DAVID GONZÁLEZ - 1025640077"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5045258",
+            "CEDULA": "1025640077",
+            "NOMBRES": "DAVID GONZÁLEZ",
+            "CREDITO": "19.963.156",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "278.053",
+            "E.A": "27.22%",
+            "RECOMPRA O DESEMBOLSO": "4.907.577",
+            "FIRMA ELLECTRONICA": "DAVID GONZÁLEZ - 1025640077"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1025640077",
+            "NOMBRES": "DAVID GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "DAVID GONZÁLEZ - 1025640077"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1025640077",
+            "NOMBRES": "DAVID GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "DAVID GONZÁLEZ - 1025640077",
+            "AL PIE DE LA FIRMA": "DAVID GONZÁLEZ - 1025640077"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1025640077",
+            "NOMBRES": "DAVID GONZÁLEZ",
+            "SALARIO": "3.989.334",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1025640077",
+            "NOMBRES": "DAVID GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.907.577"
+        }
+    }
+]

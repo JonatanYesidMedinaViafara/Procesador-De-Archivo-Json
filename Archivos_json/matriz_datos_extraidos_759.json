@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "978290767796",
+            "SOLICITUD": "9142987",
+            "CEDULA": "1227157906",
+            "NOMBRES": "ALBERTO GRANADOS",
+            "RECOMPRA O DESEMBOLSO": "4.235.965",
+            "FIRMA ELLECTRONICA": "ALBERTO GRANADOS - 1227157906"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "978290767796",
+            "NOMBRES": "ALBERTO GRANADOS",
+            "CREDITO": "16.258.382",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "221.771",
+            "FIRMA ELLECTRONICA": "ALBERTO GRANADOS - 1227157906",
+            "AL PIE DE LA FIRMA": "ALBERTO GRANADOS - 1227157906"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1227157906",
+            "NOMBRES": "ALBERTO GRANADOS",
+            "FECHA NACIMIENTO": "09/06/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.258.382",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALBERTO GRANADOS - 1227157906",
+            "AL PIE DE LA FIRMA": "ALBERTO GRANADOS - 1227157906"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9142987",
+            "CEDULA": "1227157906",
+            "NOMBRES": "ALBERTO GRANADOS",
+            "CREDITO": "16.258.382",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "221.771",
+            "E.A": "20.35%",
+            "RECOMPRA O DESEMBOLSO": "4.235.965",
+            "FIRMA ELLECTRONICA": "ALBERTO GRANADOS - 1227157906"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1227157906",
+            "NOMBRES": "ALBERTO GRANADOS",
+            "FIRMA ELLECTRONICA": "ALBERTO GRANADOS - 1227157906"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1227157906",
+            "NOMBRES": "ALBERTO GRANADOS",
+            "FIRMA ELLECTRONICA": "ALBERTO GRANADOS - 1227157906",
+            "AL PIE DE LA FIRMA": "ALBERTO GRANADOS - 1227157906"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO GRANADOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1227157906",
+            "NOMBRES": "ALBERTO GRANADOS",
+            "SALARIO": "3.393.946",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1227157906",
+            "NOMBRES": "ALBERTO GRANADOS",
+            "RECOMPRA O DESEMBOLSO": "4.235.965"
+        }
+    }
+]

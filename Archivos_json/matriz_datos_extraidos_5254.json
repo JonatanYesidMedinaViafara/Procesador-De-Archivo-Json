@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "174635745991",
+            "SOLICITUD": "9475447",
+            "CEDULA": "1785812427",
+            "NOMBRES": "TULIO YEISON GIL CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "1.525.546",
+            "FIRMA ELLECTRONICA": "TULIO YEISON GIL CÓRDOBA - 1785812427"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "174635745991",
+            "NOMBRES": "TULIO YEISON GIL CÓRDOBA",
+            "CREDITO": "6.148.052",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "140.845",
+            "FIRMA ELLECTRONICA": "TULIO YEISON GIL CÓRDOBA - 1785812427",
+            "AL PIE DE LA FIRMA": "TULIO YEISON GIL CÓRDOBA - 1785812427"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1785812427",
+            "NOMBRES": "TULIO YEISON GIL CÓRDOBA",
+            "FECHA NACIMIENTO": "20/03/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.148.052",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "TULIO YEISON GIL CÓRDOBA - 1785812427",
+            "AL PIE DE LA FIRMA": "TULIO YEISON GIL CÓRDOBA - 1785812427"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9475447",
+            "CEDULA": "1785812427",
+            "NOMBRES": "TULIO YEISON GIL CÓRDOBA",
+            "CREDITO": "6.148.052",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "140.845",
+            "E.A": "18.82%",
+            "RECOMPRA O DESEMBOLSO": "1.525.546",
+            "FIRMA ELLECTRONICA": "TULIO YEISON GIL CÓRDOBA - 1785812427"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1785812427",
+            "NOMBRES": "TULIO YEISON GIL CÓRDOBA",
+            "FIRMA ELLECTRONICA": "TULIO YEISON GIL CÓRDOBA - 1785812427"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1785812427",
+            "NOMBRES": "TULIO YEISON GIL CÓRDOBA",
+            "FIRMA ELLECTRONICA": "TULIO YEISON GIL CÓRDOBA - 1785812427",
+            "AL PIE DE LA FIRMA": "TULIO YEISON GIL CÓRDOBA - 1785812427"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TULIO YEISON GIL CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1785812427",
+            "NOMBRES": "TULIO YEISON GIL CÓRDOBA",
+            "SALARIO": "4.682.183",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1785812427",
+            "NOMBRES": "TULIO YEISON GIL CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "1.525.546"
+        }
+    }
+]

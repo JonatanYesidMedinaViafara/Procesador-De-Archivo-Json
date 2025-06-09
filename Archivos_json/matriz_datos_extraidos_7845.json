@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "564530138442",
+            "SOLICITUD": "8024393",
+            "CEDULA": "1412087094",
+            "NOMBRES": "MARÍA ALICIA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.231.744",
+            "FIRMA ELLECTRONICA": "MARÍA ALICIA RODRÍGUEZ - 1412087094"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "564530138442",
+            "NOMBRES": "MARÍA ALICIA RODRÍGUEZ",
+            "CREDITO": "7.241.194",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "213.113",
+            "FIRMA ELLECTRONICA": "MARÍA ALICIA RODRÍGUEZ - 1412087094",
+            "AL PIE DE LA FIRMA": "MARÍA ALICIA RODRÍGUEZ - 1412087094"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1412087094",
+            "NOMBRES": "MARÍA ALICIA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "30/06/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.241.194",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA ALICIA RODRÍGUEZ - 1412087094",
+            "AL PIE DE LA FIRMA": "MARÍA ALICIA RODRÍGUEZ - 1412087094"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8024393",
+            "CEDULA": "1412087094",
+            "NOMBRES": "MARÍA ALICIA RODRÍGUEZ",
+            "CREDITO": "7.241.194",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "213.113",
+            "E.A": "24.25%",
+            "RECOMPRA O DESEMBOLSO": "4.231.744",
+            "FIRMA ELLECTRONICA": "MARÍA ALICIA RODRÍGUEZ - 1412087094"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1412087094",
+            "NOMBRES": "MARÍA ALICIA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "MARÍA ALICIA RODRÍGUEZ - 1412087094"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1412087094",
+            "NOMBRES": "MARÍA ALICIA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "MARÍA ALICIA RODRÍGUEZ - 1412087094",
+            "AL PIE DE LA FIRMA": "MARÍA ALICIA RODRÍGUEZ - 1412087094"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ALICIA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1412087094",
+            "NOMBRES": "MARÍA ALICIA RODRÍGUEZ",
+            "SALARIO": "4.863.317",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "16/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1412087094",
+            "NOMBRES": "MARÍA ALICIA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.231.744"
+        }
+    }
+]

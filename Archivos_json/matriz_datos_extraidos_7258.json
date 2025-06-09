@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "793462402656",
+            "SOLICITUD": "7554896",
+            "CEDULA": "1870495177",
+            "NOMBRES": "LUCÍA ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.135.699",
+            "FIRMA ELLECTRONICA": "LUCÍA ARIAS - 1870495177"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "793462402656",
+            "NOMBRES": "LUCÍA ARIAS",
+            "CREDITO": "8.337.021",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "131.778",
+            "FIRMA ELLECTRONICA": "LUCÍA ARIAS - 1870495177",
+            "AL PIE DE LA FIRMA": "LUCÍA ARIAS - 1870495177"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1870495177",
+            "NOMBRES": "LUCÍA ARIAS",
+            "FECHA NACIMIENTO": "18/10/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.337.021",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUCÍA ARIAS - 1870495177",
+            "AL PIE DE LA FIRMA": "LUCÍA ARIAS - 1870495177"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7554896",
+            "CEDULA": "1870495177",
+            "NOMBRES": "LUCÍA ARIAS",
+            "CREDITO": "8.337.021",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "131.778",
+            "E.A": "20.69%",
+            "RECOMPRA O DESEMBOLSO": "2.135.699",
+            "FIRMA ELLECTRONICA": "LUCÍA ARIAS - 1870495177"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1870495177",
+            "NOMBRES": "LUCÍA ARIAS",
+            "FIRMA ELLECTRONICA": "LUCÍA ARIAS - 1870495177"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1870495177",
+            "NOMBRES": "LUCÍA ARIAS",
+            "FIRMA ELLECTRONICA": "LUCÍA ARIAS - 1870495177",
+            "AL PIE DE LA FIRMA": "LUCÍA ARIAS - 1870495177"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1870495177",
+            "NOMBRES": "LUCÍA ARIAS",
+            "SALARIO": "4.704.079",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1870495177",
+            "NOMBRES": "LUCÍA ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.135.699"
+        }
+    }
+]

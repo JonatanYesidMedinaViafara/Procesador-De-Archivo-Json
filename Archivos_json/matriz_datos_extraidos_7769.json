@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "405424194965",
+            "SOLICITUD": "5298198",
+            "CEDULA": "1819224275",
+            "NOMBRES": "MILENA ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.300.608",
+            "FIRMA ELLECTRONICA": "MILENA ROMERO - 1819224275"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "405424194965",
+            "NOMBRES": "MILENA ROMERO",
+            "CREDITO": "9.571.172",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "370.598",
+            "FIRMA ELLECTRONICA": "MILENA ROMERO - 1819224275",
+            "AL PIE DE LA FIRMA": "MILENA ROMERO - 1819224275"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1819224275",
+            "NOMBRES": "MILENA ROMERO",
+            "FECHA NACIMIENTO": "13/01/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.571.172",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MILENA ROMERO - 1819224275",
+            "AL PIE DE LA FIRMA": "MILENA ROMERO - 1819224275"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5298198",
+            "CEDULA": "1819224275",
+            "NOMBRES": "MILENA ROMERO",
+            "CREDITO": "9.571.172",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "370.598",
+            "E.A": "23.46%",
+            "RECOMPRA O DESEMBOLSO": "1.300.608",
+            "FIRMA ELLECTRONICA": "MILENA ROMERO - 1819224275"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1819224275",
+            "NOMBRES": "MILENA ROMERO",
+            "FIRMA ELLECTRONICA": "MILENA ROMERO - 1819224275"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1819224275",
+            "NOMBRES": "MILENA ROMERO",
+            "FIRMA ELLECTRONICA": "MILENA ROMERO - 1819224275",
+            "AL PIE DE LA FIRMA": "MILENA ROMERO - 1819224275"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1819224275",
+            "NOMBRES": "MILENA ROMERO",
+            "SALARIO": "1.712.073",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1819224275",
+            "NOMBRES": "MILENA ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.300.608"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "487287755688",
+            "SOLICITUD": "5046776",
+            "CEDULA": "1600137325",
+            "NOMBRES": "NÉSTOR OSWALDO OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.252.119",
+            "FIRMA ELLECTRONICA": "NÉSTOR OSWALDO OSORIO - 1600137325"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "487287755688",
+            "NOMBRES": "NÉSTOR OSWALDO OSORIO",
+            "CREDITO": "5.471.523",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "161.237",
+            "FIRMA ELLECTRONICA": "NÉSTOR OSWALDO OSORIO - 1600137325",
+            "AL PIE DE LA FIRMA": "NÉSTOR OSWALDO OSORIO - 1600137325"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1600137325",
+            "NOMBRES": "NÉSTOR OSWALDO OSORIO",
+            "FECHA NACIMIENTO": "27/03/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.471.523",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "NÉSTOR OSWALDO OSORIO - 1600137325",
+            "AL PIE DE LA FIRMA": "NÉSTOR OSWALDO OSORIO - 1600137325"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5046776",
+            "CEDULA": "1600137325",
+            "NOMBRES": "NÉSTOR OSWALDO OSORIO",
+            "CREDITO": "5.471.523",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "161.237",
+            "E.A": "23.16%",
+            "RECOMPRA O DESEMBOLSO": "2.252.119",
+            "FIRMA ELLECTRONICA": "NÉSTOR OSWALDO OSORIO - 1600137325"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1600137325",
+            "NOMBRES": "NÉSTOR OSWALDO OSORIO",
+            "FIRMA ELLECTRONICA": "NÉSTOR OSWALDO OSORIO - 1600137325"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1600137325",
+            "NOMBRES": "NÉSTOR OSWALDO OSORIO",
+            "FIRMA ELLECTRONICA": "NÉSTOR OSWALDO OSORIO - 1600137325",
+            "AL PIE DE LA FIRMA": "NÉSTOR OSWALDO OSORIO - 1600137325"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NÉSTOR OSWALDO OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1600137325",
+            "NOMBRES": "NÉSTOR OSWALDO OSORIO",
+            "SALARIO": "1.212.883",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1600137325",
+            "NOMBRES": "NÉSTOR OSWALDO OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.252.119"
+        }
+    }
+]

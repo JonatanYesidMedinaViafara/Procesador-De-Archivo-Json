@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "456355986800",
+            "SOLICITUD": "5583175",
+            "CEDULA": "1006714344",
+            "NOMBRES": "ALDAIR MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.822.780",
+            "FIRMA ELLECTRONICA": "ALDAIR MUÑOZ - 1006714344"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "456355986800",
+            "NOMBRES": "ALDAIR MUÑOZ",
+            "CREDITO": "16.613.864",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "256.326",
+            "FIRMA ELLECTRONICA": "ALDAIR MUÑOZ - 1006714344",
+            "AL PIE DE LA FIRMA": "ALDAIR MUÑOZ - 1006714344"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1006714344",
+            "NOMBRES": "ALDAIR MUÑOZ",
+            "FECHA NACIMIENTO": "22/11/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.613.864",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALDAIR MUÑOZ - 1006714344",
+            "AL PIE DE LA FIRMA": "ALDAIR MUÑOZ - 1006714344"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5583175",
+            "CEDULA": "1006714344",
+            "NOMBRES": "ALDAIR MUÑOZ",
+            "CREDITO": "16.613.864",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "256.326",
+            "E.A": "28.14%",
+            "RECOMPRA O DESEMBOLSO": "3.822.780",
+            "FIRMA ELLECTRONICA": "ALDAIR MUÑOZ - 1006714344"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1006714344",
+            "NOMBRES": "ALDAIR MUÑOZ",
+            "FIRMA ELLECTRONICA": "ALDAIR MUÑOZ - 1006714344"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1006714344",
+            "NOMBRES": "ALDAIR MUÑOZ",
+            "FIRMA ELLECTRONICA": "ALDAIR MUÑOZ - 1006714344",
+            "AL PIE DE LA FIRMA": "ALDAIR MUÑOZ - 1006714344"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALDAIR MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1006714344",
+            "NOMBRES": "ALDAIR MUÑOZ",
+            "SALARIO": "2.894.698",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1006714344",
+            "NOMBRES": "ALDAIR MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.822.780"
+        }
+    }
+]

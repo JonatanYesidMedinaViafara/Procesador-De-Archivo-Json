@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "794900735756",
+            "SOLICITUD": "8984630",
+            "CEDULA": "1768742958",
+            "NOMBRES": "EDUARDO GALVIS",
+            "RECOMPRA O DESEMBOLSO": "4.347.513",
+            "FIRMA ELLECTRONICA": "EDUARDO GALVIS - 1768742958"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "794900735756",
+            "NOMBRES": "EDUARDO GALVIS",
+            "CREDITO": "12.479.392",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "365.591",
+            "FIRMA ELLECTRONICA": "EDUARDO GALVIS - 1768742958",
+            "AL PIE DE LA FIRMA": "EDUARDO GALVIS - 1768742958"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1768742958",
+            "NOMBRES": "EDUARDO GALVIS",
+            "FECHA NACIMIENTO": "25/06/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.479.392",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EDUARDO GALVIS - 1768742958",
+            "AL PIE DE LA FIRMA": "EDUARDO GALVIS - 1768742958"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8984630",
+            "CEDULA": "1768742958",
+            "NOMBRES": "EDUARDO GALVIS",
+            "CREDITO": "12.479.392",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "365.591",
+            "E.A": "24.07%",
+            "RECOMPRA O DESEMBOLSO": "4.347.513",
+            "FIRMA ELLECTRONICA": "EDUARDO GALVIS - 1768742958"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1768742958",
+            "NOMBRES": "EDUARDO GALVIS",
+            "FIRMA ELLECTRONICA": "EDUARDO GALVIS - 1768742958"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1768742958",
+            "NOMBRES": "EDUARDO GALVIS",
+            "FIRMA ELLECTRONICA": "EDUARDO GALVIS - 1768742958",
+            "AL PIE DE LA FIRMA": "EDUARDO GALVIS - 1768742958"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO GALVIS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1768742958",
+            "NOMBRES": "EDUARDO GALVIS",
+            "SALARIO": "2.239.015",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1768742958",
+            "NOMBRES": "EDUARDO GALVIS",
+            "RECOMPRA O DESEMBOLSO": "4.347.513"
+        }
+    }
+]

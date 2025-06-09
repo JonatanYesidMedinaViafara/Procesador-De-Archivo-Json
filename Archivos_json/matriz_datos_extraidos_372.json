@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "159434856603",
+            "SOLICITUD": "1045925",
+            "CEDULA": "1422110463",
+            "NOMBRES": "OMAR JUAN OVIEDO SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "3.684.599",
+            "FIRMA ELLECTRONICA": "OMAR JUAN OVIEDO SARMIENTO - 1422110463"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "159434856603",
+            "NOMBRES": "OMAR JUAN OVIEDO SARMIENTO",
+            "CREDITO": "7.553.956",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "156.195",
+            "FIRMA ELLECTRONICA": "OMAR JUAN OVIEDO SARMIENTO - 1422110463",
+            "AL PIE DE LA FIRMA": "OMAR JUAN OVIEDO SARMIENTO - 1422110463"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1422110463",
+            "NOMBRES": "OMAR JUAN OVIEDO SARMIENTO",
+            "FECHA NACIMIENTO": "29/06/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.553.956",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "OMAR JUAN OVIEDO SARMIENTO - 1422110463",
+            "AL PIE DE LA FIRMA": "OMAR JUAN OVIEDO SARMIENTO - 1422110463"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1045925",
+            "CEDULA": "1422110463",
+            "NOMBRES": "OMAR JUAN OVIEDO SARMIENTO",
+            "CREDITO": "7.553.956",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "156.195",
+            "E.A": "20.11%",
+            "RECOMPRA O DESEMBOLSO": "3.684.599",
+            "FIRMA ELLECTRONICA": "OMAR JUAN OVIEDO SARMIENTO - 1422110463"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1422110463",
+            "NOMBRES": "OMAR JUAN OVIEDO SARMIENTO",
+            "FIRMA ELLECTRONICA": "OMAR JUAN OVIEDO SARMIENTO - 1422110463"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1422110463",
+            "NOMBRES": "OMAR JUAN OVIEDO SARMIENTO",
+            "FIRMA ELLECTRONICA": "OMAR JUAN OVIEDO SARMIENTO - 1422110463",
+            "AL PIE DE LA FIRMA": "OMAR JUAN OVIEDO SARMIENTO - 1422110463"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR JUAN OVIEDO SARMIENTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1422110463",
+            "NOMBRES": "OMAR JUAN OVIEDO SARMIENTO",
+            "SALARIO": "2.906.591",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1422110463",
+            "NOMBRES": "OMAR JUAN OVIEDO SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "3.684.599"
+        }
+    }
+]

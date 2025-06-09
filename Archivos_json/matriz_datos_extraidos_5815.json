@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "740738040011",
+            "SOLICITUD": "7295999",
+            "CEDULA": "1207410884",
+            "NOMBRES": "LUISA PILAR VARGAS GARCÉS",
+            "RECOMPRA O DESEMBOLSO": "4.056.312",
+            "FIRMA ELLECTRONICA": "LUISA PILAR VARGAS GARCÉS - 1207410884"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "740738040011",
+            "NOMBRES": "LUISA PILAR VARGAS GARCÉS",
+            "CREDITO": "16.564.302",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "135.024",
+            "FIRMA ELLECTRONICA": "LUISA PILAR VARGAS GARCÉS - 1207410884",
+            "AL PIE DE LA FIRMA": "LUISA PILAR VARGAS GARCÉS - 1207410884"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1207410884",
+            "NOMBRES": "LUISA PILAR VARGAS GARCÉS",
+            "FECHA NACIMIENTO": "19/01/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.564.302",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUISA PILAR VARGAS GARCÉS - 1207410884",
+            "AL PIE DE LA FIRMA": "LUISA PILAR VARGAS GARCÉS - 1207410884"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7295999",
+            "CEDULA": "1207410884",
+            "NOMBRES": "LUISA PILAR VARGAS GARCÉS",
+            "CREDITO": "16.564.302",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "135.024",
+            "E.A": "25.92%",
+            "RECOMPRA O DESEMBOLSO": "4.056.312",
+            "FIRMA ELLECTRONICA": "LUISA PILAR VARGAS GARCÉS - 1207410884"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1207410884",
+            "NOMBRES": "LUISA PILAR VARGAS GARCÉS",
+            "FIRMA ELLECTRONICA": "LUISA PILAR VARGAS GARCÉS - 1207410884"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1207410884",
+            "NOMBRES": "LUISA PILAR VARGAS GARCÉS",
+            "FIRMA ELLECTRONICA": "LUISA PILAR VARGAS GARCÉS - 1207410884",
+            "AL PIE DE LA FIRMA": "LUISA PILAR VARGAS GARCÉS - 1207410884"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUISA PILAR VARGAS GARCÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1207410884",
+            "NOMBRES": "LUISA PILAR VARGAS GARCÉS",
+            "SALARIO": "1.269.164",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1207410884",
+            "NOMBRES": "LUISA PILAR VARGAS GARCÉS",
+            "RECOMPRA O DESEMBOLSO": "4.056.312"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "404135991801",
+            "SOLICITUD": "1540457",
+            "CEDULA": "1354361666",
+            "NOMBRES": "ALFREDO JOSUÉ CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "4.728.957",
+            "FIRMA ELLECTRONICA": "ALFREDO JOSUÉ CASTAÑO - 1354361666"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "404135991801",
+            "NOMBRES": "ALFREDO JOSUÉ CASTAÑO",
+            "CREDITO": "12.992.604",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "264.868",
+            "FIRMA ELLECTRONICA": "ALFREDO JOSUÉ CASTAÑO - 1354361666",
+            "AL PIE DE LA FIRMA": "ALFREDO JOSUÉ CASTAÑO - 1354361666"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1354361666",
+            "NOMBRES": "ALFREDO JOSUÉ CASTAÑO",
+            "FECHA NACIMIENTO": "03/02/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.992.604",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALFREDO JOSUÉ CASTAÑO - 1354361666",
+            "AL PIE DE LA FIRMA": "ALFREDO JOSUÉ CASTAÑO - 1354361666"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1540457",
+            "CEDULA": "1354361666",
+            "NOMBRES": "ALFREDO JOSUÉ CASTAÑO",
+            "CREDITO": "12.992.604",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "264.868",
+            "E.A": "22.01%",
+            "RECOMPRA O DESEMBOLSO": "4.728.957",
+            "FIRMA ELLECTRONICA": "ALFREDO JOSUÉ CASTAÑO - 1354361666"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1354361666",
+            "NOMBRES": "ALFREDO JOSUÉ CASTAÑO",
+            "FIRMA ELLECTRONICA": "ALFREDO JOSUÉ CASTAÑO - 1354361666"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1354361666",
+            "NOMBRES": "ALFREDO JOSUÉ CASTAÑO",
+            "FIRMA ELLECTRONICA": "ALFREDO JOSUÉ CASTAÑO - 1354361666",
+            "AL PIE DE LA FIRMA": "ALFREDO JOSUÉ CASTAÑO - 1354361666"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFREDO JOSUÉ CASTAÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1354361666",
+            "NOMBRES": "ALFREDO JOSUÉ CASTAÑO",
+            "SALARIO": "2.121.781",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1354361666",
+            "NOMBRES": "ALFREDO JOSUÉ CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "4.728.957"
+        }
+    }
+]

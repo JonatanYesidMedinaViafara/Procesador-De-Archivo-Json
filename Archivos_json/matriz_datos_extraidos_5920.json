@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "118557762167",
+            "SOLICITUD": "3775918",
+            "CEDULA": "1134529489",
+            "NOMBRES": "CARLOS AYALA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.888.517",
+            "FIRMA ELLECTRONICA": "CARLOS AYALA GÓMEZ - 1134529489"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "118557762167",
+            "NOMBRES": "CARLOS AYALA GÓMEZ",
+            "CREDITO": "17.599.566",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "172.142",
+            "FIRMA ELLECTRONICA": "CARLOS AYALA GÓMEZ - 1134529489",
+            "AL PIE DE LA FIRMA": "CARLOS AYALA GÓMEZ - 1134529489"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1134529489",
+            "NOMBRES": "CARLOS AYALA GÓMEZ",
+            "FECHA NACIMIENTO": "26/08/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.599.566",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS AYALA GÓMEZ - 1134529489",
+            "AL PIE DE LA FIRMA": "CARLOS AYALA GÓMEZ - 1134529489"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3775918",
+            "CEDULA": "1134529489",
+            "NOMBRES": "CARLOS AYALA GÓMEZ",
+            "CREDITO": "17.599.566",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "172.142",
+            "E.A": "27.09%",
+            "RECOMPRA O DESEMBOLSO": "2.888.517",
+            "FIRMA ELLECTRONICA": "CARLOS AYALA GÓMEZ - 1134529489"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1134529489",
+            "NOMBRES": "CARLOS AYALA GÓMEZ",
+            "FIRMA ELLECTRONICA": "CARLOS AYALA GÓMEZ - 1134529489"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1134529489",
+            "NOMBRES": "CARLOS AYALA GÓMEZ",
+            "FIRMA ELLECTRONICA": "CARLOS AYALA GÓMEZ - 1134529489",
+            "AL PIE DE LA FIRMA": "CARLOS AYALA GÓMEZ - 1134529489"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS AYALA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1134529489",
+            "NOMBRES": "CARLOS AYALA GÓMEZ",
+            "SALARIO": "3.825.172",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1134529489",
+            "NOMBRES": "CARLOS AYALA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.888.517"
+        }
+    }
+]

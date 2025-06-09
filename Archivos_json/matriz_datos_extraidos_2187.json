@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "757903374402",
+            "SOLICITUD": "8570946",
+            "CEDULA": "1462981543",
+            "NOMBRES": "LUCÍA MORA BERNAL",
+            "RECOMPRA O DESEMBOLSO": "1.934.904",
+            "FIRMA ELLECTRONICA": "LUCÍA MORA BERNAL - 1462981543"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "757903374402",
+            "NOMBRES": "LUCÍA MORA BERNAL",
+            "CREDITO": "6.093.712",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "323.991",
+            "FIRMA ELLECTRONICA": "LUCÍA MORA BERNAL - 1462981543",
+            "AL PIE DE LA FIRMA": "LUCÍA MORA BERNAL - 1462981543"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1462981543",
+            "NOMBRES": "LUCÍA MORA BERNAL",
+            "FECHA NACIMIENTO": "24/12/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.093.712",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUCÍA MORA BERNAL - 1462981543",
+            "AL PIE DE LA FIRMA": "LUCÍA MORA BERNAL - 1462981543"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8570946",
+            "CEDULA": "1462981543",
+            "NOMBRES": "LUCÍA MORA BERNAL",
+            "CREDITO": "6.093.712",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "323.991",
+            "E.A": "20.33%",
+            "RECOMPRA O DESEMBOLSO": "1.934.904",
+            "FIRMA ELLECTRONICA": "LUCÍA MORA BERNAL - 1462981543"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1462981543",
+            "NOMBRES": "LUCÍA MORA BERNAL",
+            "FIRMA ELLECTRONICA": "LUCÍA MORA BERNAL - 1462981543"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1462981543",
+            "NOMBRES": "LUCÍA MORA BERNAL",
+            "FIRMA ELLECTRONICA": "LUCÍA MORA BERNAL - 1462981543",
+            "AL PIE DE LA FIRMA": "LUCÍA MORA BERNAL - 1462981543"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA MORA BERNAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1462981543",
+            "NOMBRES": "LUCÍA MORA BERNAL",
+            "SALARIO": "3.110.575",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1462981543",
+            "NOMBRES": "LUCÍA MORA BERNAL",
+            "RECOMPRA O DESEMBOLSO": "1.934.904"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "109610593204",
+            "SOLICITUD": "5237920",
+            "CEDULA": "1405174416",
+            "NOMBRES": "ÓSCAR PARRA CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.230.346",
+            "FIRMA ELLECTRONICA": "ÓSCAR PARRA CALDERÓN - 1405174416"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "109610593204",
+            "NOMBRES": "ÓSCAR PARRA CALDERÓN",
+            "CREDITO": "15.627.022",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "141.182",
+            "FIRMA ELLECTRONICA": "ÓSCAR PARRA CALDERÓN - 1405174416",
+            "AL PIE DE LA FIRMA": "ÓSCAR PARRA CALDERÓN - 1405174416"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1405174416",
+            "NOMBRES": "ÓSCAR PARRA CALDERÓN",
+            "FECHA NACIMIENTO": "05/01/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.627.022",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÓSCAR PARRA CALDERÓN - 1405174416",
+            "AL PIE DE LA FIRMA": "ÓSCAR PARRA CALDERÓN - 1405174416"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5237920",
+            "CEDULA": "1405174416",
+            "NOMBRES": "ÓSCAR PARRA CALDERÓN",
+            "CREDITO": "15.627.022",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "141.182",
+            "E.A": "23.24%",
+            "RECOMPRA O DESEMBOLSO": "4.230.346",
+            "FIRMA ELLECTRONICA": "ÓSCAR PARRA CALDERÓN - 1405174416"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1405174416",
+            "NOMBRES": "ÓSCAR PARRA CALDERÓN",
+            "FIRMA ELLECTRONICA": "ÓSCAR PARRA CALDERÓN - 1405174416"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1405174416",
+            "NOMBRES": "ÓSCAR PARRA CALDERÓN",
+            "FIRMA ELLECTRONICA": "ÓSCAR PARRA CALDERÓN - 1405174416",
+            "AL PIE DE LA FIRMA": "ÓSCAR PARRA CALDERÓN - 1405174416"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR PARRA CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1405174416",
+            "NOMBRES": "ÓSCAR PARRA CALDERÓN",
+            "SALARIO": "2.048.305",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1405174416",
+            "NOMBRES": "ÓSCAR PARRA CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.230.346"
+        }
+    }
+]

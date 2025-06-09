@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "713137392945",
+            "SOLICITUD": "3176619",
+            "CEDULA": "1732157944",
+            "NOMBRES": "MARÍA OSPINA OCAMPO",
+            "RECOMPRA O DESEMBOLSO": "3.637.523",
+            "FIRMA ELLECTRONICA": "MARÍA OSPINA OCAMPO - 1732157944"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "713137392945",
+            "NOMBRES": "MARÍA OSPINA OCAMPO",
+            "CREDITO": "9.325.493",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "116.178",
+            "FIRMA ELLECTRONICA": "MARÍA OSPINA OCAMPO - 1732157944",
+            "AL PIE DE LA FIRMA": "MARÍA OSPINA OCAMPO - 1732157944"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1732157944",
+            "NOMBRES": "MARÍA OSPINA OCAMPO",
+            "FECHA NACIMIENTO": "10/01/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.325.493",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA OSPINA OCAMPO - 1732157944",
+            "AL PIE DE LA FIRMA": "MARÍA OSPINA OCAMPO - 1732157944"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3176619",
+            "CEDULA": "1732157944",
+            "NOMBRES": "MARÍA OSPINA OCAMPO",
+            "CREDITO": "9.325.493",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "116.178",
+            "E.A": "23.72%",
+            "RECOMPRA O DESEMBOLSO": "3.637.523",
+            "FIRMA ELLECTRONICA": "MARÍA OSPINA OCAMPO - 1732157944"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1732157944",
+            "NOMBRES": "MARÍA OSPINA OCAMPO",
+            "FIRMA ELLECTRONICA": "MARÍA OSPINA OCAMPO - 1732157944"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1732157944",
+            "NOMBRES": "MARÍA OSPINA OCAMPO",
+            "FIRMA ELLECTRONICA": "MARÍA OSPINA OCAMPO - 1732157944",
+            "AL PIE DE LA FIRMA": "MARÍA OSPINA OCAMPO - 1732157944"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA OSPINA OCAMPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1732157944",
+            "NOMBRES": "MARÍA OSPINA OCAMPO",
+            "SALARIO": "4.979.384",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1732157944",
+            "NOMBRES": "MARÍA OSPINA OCAMPO",
+            "RECOMPRA O DESEMBOLSO": "3.637.523"
+        }
+    }
+]

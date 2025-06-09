@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "456097883619",
+            "SOLICITUD": "7400095",
+            "CEDULA": "1618068754",
+            "NOMBRES": "ÁNGEL OMAR CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "2.713.380",
+            "FIRMA ELLECTRONICA": "ÁNGEL OMAR CARRILLO - 1618068754"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "456097883619",
+            "NOMBRES": "ÁNGEL OMAR CARRILLO",
+            "CREDITO": "15.974.931",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "231.373",
+            "FIRMA ELLECTRONICA": "ÁNGEL OMAR CARRILLO - 1618068754",
+            "AL PIE DE LA FIRMA": "ÁNGEL OMAR CARRILLO - 1618068754"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1618068754",
+            "NOMBRES": "ÁNGEL OMAR CARRILLO",
+            "FECHA NACIMIENTO": "16/05/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.974.931",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ÁNGEL OMAR CARRILLO - 1618068754",
+            "AL PIE DE LA FIRMA": "ÁNGEL OMAR CARRILLO - 1618068754"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7400095",
+            "CEDULA": "1618068754",
+            "NOMBRES": "ÁNGEL OMAR CARRILLO",
+            "CREDITO": "15.974.931",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "231.373",
+            "E.A": "19.55%",
+            "RECOMPRA O DESEMBOLSO": "2.713.380",
+            "FIRMA ELLECTRONICA": "ÁNGEL OMAR CARRILLO - 1618068754"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1618068754",
+            "NOMBRES": "ÁNGEL OMAR CARRILLO",
+            "FIRMA ELLECTRONICA": "ÁNGEL OMAR CARRILLO - 1618068754"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1618068754",
+            "NOMBRES": "ÁNGEL OMAR CARRILLO",
+            "FIRMA ELLECTRONICA": "ÁNGEL OMAR CARRILLO - 1618068754",
+            "AL PIE DE LA FIRMA": "ÁNGEL OMAR CARRILLO - 1618068754"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL OMAR CARRILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1618068754",
+            "NOMBRES": "ÁNGEL OMAR CARRILLO",
+            "SALARIO": "3.905.983",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1618068754",
+            "NOMBRES": "ÁNGEL OMAR CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "2.713.380"
+        }
+    }
+]

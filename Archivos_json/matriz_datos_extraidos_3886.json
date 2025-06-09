@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "722535828994",
+            "SOLICITUD": "1005432",
+            "CEDULA": "1284875009",
+            "NOMBRES": "ROSA DUQUE JAIMES",
+            "RECOMPRA O DESEMBOLSO": "2.499.859",
+            "FIRMA ELLECTRONICA": "ROSA DUQUE JAIMES - 1284875009"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "722535828994",
+            "NOMBRES": "ROSA DUQUE JAIMES",
+            "CREDITO": "6.588.295",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "174.686",
+            "FIRMA ELLECTRONICA": "ROSA DUQUE JAIMES - 1284875009",
+            "AL PIE DE LA FIRMA": "ROSA DUQUE JAIMES - 1284875009"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1284875009",
+            "NOMBRES": "ROSA DUQUE JAIMES",
+            "FECHA NACIMIENTO": "18/07/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.588.295",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ROSA DUQUE JAIMES - 1284875009",
+            "AL PIE DE LA FIRMA": "ROSA DUQUE JAIMES - 1284875009"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1005432",
+            "CEDULA": "1284875009",
+            "NOMBRES": "ROSA DUQUE JAIMES",
+            "CREDITO": "6.588.295",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "174.686",
+            "E.A": "18.91%",
+            "RECOMPRA O DESEMBOLSO": "2.499.859",
+            "FIRMA ELLECTRONICA": "ROSA DUQUE JAIMES - 1284875009"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1284875009",
+            "NOMBRES": "ROSA DUQUE JAIMES",
+            "FIRMA ELLECTRONICA": "ROSA DUQUE JAIMES - 1284875009"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1284875009",
+            "NOMBRES": "ROSA DUQUE JAIMES",
+            "FIRMA ELLECTRONICA": "ROSA DUQUE JAIMES - 1284875009",
+            "AL PIE DE LA FIRMA": "ROSA DUQUE JAIMES - 1284875009"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSA DUQUE JAIMES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1284875009",
+            "NOMBRES": "ROSA DUQUE JAIMES",
+            "SALARIO": "1.430.647",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1284875009",
+            "NOMBRES": "ROSA DUQUE JAIMES",
+            "RECOMPRA O DESEMBOLSO": "2.499.859"
+        }
+    }
+]

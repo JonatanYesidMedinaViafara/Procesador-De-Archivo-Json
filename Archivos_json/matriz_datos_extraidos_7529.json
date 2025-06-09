@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "823920234757",
+            "SOLICITUD": "6919051",
+            "CEDULA": "1828035514",
+            "NOMBRES": "ENRIQUE JORGE ANAYA",
+            "RECOMPRA O DESEMBOLSO": "4.380.501",
+            "FIRMA ELLECTRONICA": "ENRIQUE JORGE ANAYA - 1828035514"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "823920234757",
+            "NOMBRES": "ENRIQUE JORGE ANAYA",
+            "CREDITO": "5.073.927",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "330.791",
+            "FIRMA ELLECTRONICA": "ENRIQUE JORGE ANAYA - 1828035514",
+            "AL PIE DE LA FIRMA": "ENRIQUE JORGE ANAYA - 1828035514"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1828035514",
+            "NOMBRES": "ENRIQUE JORGE ANAYA",
+            "FECHA NACIMIENTO": "18/04/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.073.927",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ENRIQUE JORGE ANAYA - 1828035514",
+            "AL PIE DE LA FIRMA": "ENRIQUE JORGE ANAYA - 1828035514"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6919051",
+            "CEDULA": "1828035514",
+            "NOMBRES": "ENRIQUE JORGE ANAYA",
+            "CREDITO": "5.073.927",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "330.791",
+            "E.A": "22.63%",
+            "RECOMPRA O DESEMBOLSO": "4.380.501",
+            "FIRMA ELLECTRONICA": "ENRIQUE JORGE ANAYA - 1828035514"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1828035514",
+            "NOMBRES": "ENRIQUE JORGE ANAYA",
+            "FIRMA ELLECTRONICA": "ENRIQUE JORGE ANAYA - 1828035514"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1828035514",
+            "NOMBRES": "ENRIQUE JORGE ANAYA",
+            "FIRMA ELLECTRONICA": "ENRIQUE JORGE ANAYA - 1828035514",
+            "AL PIE DE LA FIRMA": "ENRIQUE JORGE ANAYA - 1828035514"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE JORGE ANAYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1828035514",
+            "NOMBRES": "ENRIQUE JORGE ANAYA",
+            "SALARIO": "1.238.128",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1828035514",
+            "NOMBRES": "ENRIQUE JORGE ANAYA",
+            "RECOMPRA O DESEMBOLSO": "4.380.501"
+        }
+    }
+]

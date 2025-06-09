@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "784656196117",
+            "SOLICITUD": "5347341",
+            "CEDULA": "1699522025",
+            "NOMBRES": "MARÍA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.081.386",
+            "FIRMA ELLECTRONICA": "MARÍA GONZÁLEZ - 1699522025"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "784656196117",
+            "NOMBRES": "MARÍA GONZÁLEZ",
+            "CREDITO": "13.529.759",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "128.788",
+            "FIRMA ELLECTRONICA": "MARÍA GONZÁLEZ - 1699522025",
+            "AL PIE DE LA FIRMA": "MARÍA GONZÁLEZ - 1699522025"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1699522025",
+            "NOMBRES": "MARÍA GONZÁLEZ",
+            "FECHA NACIMIENTO": "13/08/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.529.759",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA GONZÁLEZ - 1699522025",
+            "AL PIE DE LA FIRMA": "MARÍA GONZÁLEZ - 1699522025"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5347341",
+            "CEDULA": "1699522025",
+            "NOMBRES": "MARÍA GONZÁLEZ",
+            "CREDITO": "13.529.759",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "128.788",
+            "E.A": "19.8%",
+            "RECOMPRA O DESEMBOLSO": "3.081.386",
+            "FIRMA ELLECTRONICA": "MARÍA GONZÁLEZ - 1699522025"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1699522025",
+            "NOMBRES": "MARÍA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARÍA GONZÁLEZ - 1699522025"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1699522025",
+            "NOMBRES": "MARÍA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARÍA GONZÁLEZ - 1699522025",
+            "AL PIE DE LA FIRMA": "MARÍA GONZÁLEZ - 1699522025"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1699522025",
+            "NOMBRES": "MARÍA GONZÁLEZ",
+            "SALARIO": "2.120.048",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1699522025",
+            "NOMBRES": "MARÍA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.081.386"
+        }
+    }
+]

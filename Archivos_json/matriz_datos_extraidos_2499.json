@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "879100469312",
+            "SOLICITUD": "3044989",
+            "CEDULA": "1179978876",
+            "NOMBRES": "SANDRA GRACIELA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "3.623.350",
+            "FIRMA ELLECTRONICA": "SANDRA GRACIELA ORTIZ - 1179978876"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "879100469312",
+            "NOMBRES": "SANDRA GRACIELA ORTIZ",
+            "CREDITO": "18.837.184",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "304.354",
+            "FIRMA ELLECTRONICA": "SANDRA GRACIELA ORTIZ - 1179978876",
+            "AL PIE DE LA FIRMA": "SANDRA GRACIELA ORTIZ - 1179978876"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1179978876",
+            "NOMBRES": "SANDRA GRACIELA ORTIZ",
+            "FECHA NACIMIENTO": "24/07/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.837.184",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SANDRA GRACIELA ORTIZ - 1179978876",
+            "AL PIE DE LA FIRMA": "SANDRA GRACIELA ORTIZ - 1179978876"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3044989",
+            "CEDULA": "1179978876",
+            "NOMBRES": "SANDRA GRACIELA ORTIZ",
+            "CREDITO": "18.837.184",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "304.354",
+            "E.A": "25.4%",
+            "RECOMPRA O DESEMBOLSO": "3.623.350",
+            "FIRMA ELLECTRONICA": "SANDRA GRACIELA ORTIZ - 1179978876"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1179978876",
+            "NOMBRES": "SANDRA GRACIELA ORTIZ",
+            "FIRMA ELLECTRONICA": "SANDRA GRACIELA ORTIZ - 1179978876"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1179978876",
+            "NOMBRES": "SANDRA GRACIELA ORTIZ",
+            "FIRMA ELLECTRONICA": "SANDRA GRACIELA ORTIZ - 1179978876",
+            "AL PIE DE LA FIRMA": "SANDRA GRACIELA ORTIZ - 1179978876"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA GRACIELA ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1179978876",
+            "NOMBRES": "SANDRA GRACIELA ORTIZ",
+            "SALARIO": "4.085.822",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1179978876",
+            "NOMBRES": "SANDRA GRACIELA ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "3.623.350"
+        }
+    }
+]

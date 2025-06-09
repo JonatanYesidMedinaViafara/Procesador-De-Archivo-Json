@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "123539345481",
+            "SOLICITUD": "6156186",
+            "CEDULA": "1389409587",
+            "NOMBRES": "LUZ FRANCO",
+            "RECOMPRA O DESEMBOLSO": "3.775.366",
+            "FIRMA ELLECTRONICA": "LUZ FRANCO - 1389409587"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "123539345481",
+            "NOMBRES": "LUZ FRANCO",
+            "CREDITO": "15.607.593",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "166.607",
+            "FIRMA ELLECTRONICA": "LUZ FRANCO - 1389409587",
+            "AL PIE DE LA FIRMA": "LUZ FRANCO - 1389409587"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1389409587",
+            "NOMBRES": "LUZ FRANCO",
+            "FECHA NACIMIENTO": "06/09/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.607.593",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUZ FRANCO - 1389409587",
+            "AL PIE DE LA FIRMA": "LUZ FRANCO - 1389409587"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6156186",
+            "CEDULA": "1389409587",
+            "NOMBRES": "LUZ FRANCO",
+            "CREDITO": "15.607.593",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "166.607",
+            "E.A": "23.35%",
+            "RECOMPRA O DESEMBOLSO": "3.775.366",
+            "FIRMA ELLECTRONICA": "LUZ FRANCO - 1389409587"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1389409587",
+            "NOMBRES": "LUZ FRANCO",
+            "FIRMA ELLECTRONICA": "LUZ FRANCO - 1389409587"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1389409587",
+            "NOMBRES": "LUZ FRANCO",
+            "FIRMA ELLECTRONICA": "LUZ FRANCO - 1389409587",
+            "AL PIE DE LA FIRMA": "LUZ FRANCO - 1389409587"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ FRANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1389409587",
+            "NOMBRES": "LUZ FRANCO",
+            "SALARIO": "1.866.730",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1389409587",
+            "NOMBRES": "LUZ FRANCO",
+            "RECOMPRA O DESEMBOLSO": "3.775.366"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "617608596612",
+            "SOLICITUD": "3894664",
+            "CEDULA": "1389602352",
+            "NOMBRES": "DANIELA MORENO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.951.861",
+            "FIRMA ELLECTRONICA": "DANIELA MORENO GÓMEZ - 1389602352"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "617608596612",
+            "NOMBRES": "DANIELA MORENO GÓMEZ",
+            "CREDITO": "18.758.396",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "208.26",
+            "FIRMA ELLECTRONICA": "DANIELA MORENO GÓMEZ - 1389602352",
+            "AL PIE DE LA FIRMA": "DANIELA MORENO GÓMEZ - 1389602352"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1389602352",
+            "NOMBRES": "DANIELA MORENO GÓMEZ",
+            "FECHA NACIMIENTO": "06/08/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.758.396",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DANIELA MORENO GÓMEZ - 1389602352",
+            "AL PIE DE LA FIRMA": "DANIELA MORENO GÓMEZ - 1389602352"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3894664",
+            "CEDULA": "1389602352",
+            "NOMBRES": "DANIELA MORENO GÓMEZ",
+            "CREDITO": "18.758.396",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "208.26",
+            "E.A": "25.49%",
+            "RECOMPRA O DESEMBOLSO": "2.951.861",
+            "FIRMA ELLECTRONICA": "DANIELA MORENO GÓMEZ - 1389602352"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1389602352",
+            "NOMBRES": "DANIELA MORENO GÓMEZ",
+            "FIRMA ELLECTRONICA": "DANIELA MORENO GÓMEZ - 1389602352"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1389602352",
+            "NOMBRES": "DANIELA MORENO GÓMEZ",
+            "FIRMA ELLECTRONICA": "DANIELA MORENO GÓMEZ - 1389602352",
+            "AL PIE DE LA FIRMA": "DANIELA MORENO GÓMEZ - 1389602352"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIELA MORENO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1389602352",
+            "NOMBRES": "DANIELA MORENO GÓMEZ",
+            "SALARIO": "4.207.315",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1389602352",
+            "NOMBRES": "DANIELA MORENO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.951.861"
+        }
+    }
+]

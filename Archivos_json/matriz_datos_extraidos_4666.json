@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "846737895914",
+            "SOLICITUD": "8522665",
+            "CEDULA": "1598243987",
+            "NOMBRES": "CRISTOBAL CARMONA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "4.174.999",
+            "FIRMA ELLECTRONICA": "CRISTOBAL CARMONA CÓRDOBA - 1598243987"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "846737895914",
+            "NOMBRES": "CRISTOBAL CARMONA CÓRDOBA",
+            "CREDITO": "5.933.250",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "228.839",
+            "FIRMA ELLECTRONICA": "CRISTOBAL CARMONA CÓRDOBA - 1598243987",
+            "AL PIE DE LA FIRMA": "CRISTOBAL CARMONA CÓRDOBA - 1598243987"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1598243987",
+            "NOMBRES": "CRISTOBAL CARMONA CÓRDOBA",
+            "FECHA NACIMIENTO": "01/08/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.933.250",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CRISTOBAL CARMONA CÓRDOBA - 1598243987",
+            "AL PIE DE LA FIRMA": "CRISTOBAL CARMONA CÓRDOBA - 1598243987"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8522665",
+            "CEDULA": "1598243987",
+            "NOMBRES": "CRISTOBAL CARMONA CÓRDOBA",
+            "CREDITO": "5.933.250",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "228.839",
+            "E.A": "19.73%",
+            "RECOMPRA O DESEMBOLSO": "4.174.999",
+            "FIRMA ELLECTRONICA": "CRISTOBAL CARMONA CÓRDOBA - 1598243987"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1598243987",
+            "NOMBRES": "CRISTOBAL CARMONA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "CRISTOBAL CARMONA CÓRDOBA - 1598243987"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1598243987",
+            "NOMBRES": "CRISTOBAL CARMONA CÓRDOBA",
+            "FIRMA ELLECTRONICA": "CRISTOBAL CARMONA CÓRDOBA - 1598243987",
+            "AL PIE DE LA FIRMA": "CRISTOBAL CARMONA CÓRDOBA - 1598243987"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTOBAL CARMONA CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1598243987",
+            "NOMBRES": "CRISTOBAL CARMONA CÓRDOBA",
+            "SALARIO": "3.026.953",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1598243987",
+            "NOMBRES": "CRISTOBAL CARMONA CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "4.174.999"
+        }
+    }
+]

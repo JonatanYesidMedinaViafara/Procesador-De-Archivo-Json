@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "522053353773",
+            "SOLICITUD": "4493499",
+            "CEDULA": "1448442515",
+            "NOMBRES": "JUAN EDGAR TORRES CABRERA",
+            "RECOMPRA O DESEMBOLSO": "3.815.482",
+            "FIRMA ELLECTRONICA": "JUAN EDGAR TORRES CABRERA - 1448442515"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "522053353773",
+            "NOMBRES": "JUAN EDGAR TORRES CABRERA",
+            "CREDITO": "5.480.959",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "110.325",
+            "FIRMA ELLECTRONICA": "JUAN EDGAR TORRES CABRERA - 1448442515",
+            "AL PIE DE LA FIRMA": "JUAN EDGAR TORRES CABRERA - 1448442515"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1448442515",
+            "NOMBRES": "JUAN EDGAR TORRES CABRERA",
+            "FECHA NACIMIENTO": "25/03/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.480.959",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN EDGAR TORRES CABRERA - 1448442515",
+            "AL PIE DE LA FIRMA": "JUAN EDGAR TORRES CABRERA - 1448442515"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4493499",
+            "CEDULA": "1448442515",
+            "NOMBRES": "JUAN EDGAR TORRES CABRERA",
+            "CREDITO": "5.480.959",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "110.325",
+            "E.A": "27.25%",
+            "RECOMPRA O DESEMBOLSO": "3.815.482",
+            "FIRMA ELLECTRONICA": "JUAN EDGAR TORRES CABRERA - 1448442515"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1448442515",
+            "NOMBRES": "JUAN EDGAR TORRES CABRERA",
+            "FIRMA ELLECTRONICA": "JUAN EDGAR TORRES CABRERA - 1448442515"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1448442515",
+            "NOMBRES": "JUAN EDGAR TORRES CABRERA",
+            "FIRMA ELLECTRONICA": "JUAN EDGAR TORRES CABRERA - 1448442515",
+            "AL PIE DE LA FIRMA": "JUAN EDGAR TORRES CABRERA - 1448442515"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN EDGAR TORRES CABRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1448442515",
+            "NOMBRES": "JUAN EDGAR TORRES CABRERA",
+            "SALARIO": "1.028.750",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1448442515",
+            "NOMBRES": "JUAN EDGAR TORRES CABRERA",
+            "RECOMPRA O DESEMBOLSO": "3.815.482"
+        }
+    }
+]

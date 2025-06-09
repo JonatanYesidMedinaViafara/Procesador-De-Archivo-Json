@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "668674111146",
+            "SOLICITUD": "1325962",
+            "CEDULA": "1437091944",
+            "NOMBRES": "CAMILO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.141.767",
+            "FIRMA ELLECTRONICA": "CAMILO GARCÍA - 1437091944"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "668674111146",
+            "NOMBRES": "CAMILO GARCÍA",
+            "CREDITO": "16.408.804",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "253.704",
+            "FIRMA ELLECTRONICA": "CAMILO GARCÍA - 1437091944",
+            "AL PIE DE LA FIRMA": "CAMILO GARCÍA - 1437091944"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1437091944",
+            "NOMBRES": "CAMILO GARCÍA",
+            "FECHA NACIMIENTO": "12/04/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.408.804",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAMILO GARCÍA - 1437091944",
+            "AL PIE DE LA FIRMA": "CAMILO GARCÍA - 1437091944"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1325962",
+            "CEDULA": "1437091944",
+            "NOMBRES": "CAMILO GARCÍA",
+            "CREDITO": "16.408.804",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "253.704",
+            "E.A": "19.5%",
+            "RECOMPRA O DESEMBOLSO": "3.141.767",
+            "FIRMA ELLECTRONICA": "CAMILO GARCÍA - 1437091944"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1437091944",
+            "NOMBRES": "CAMILO GARCÍA",
+            "FIRMA ELLECTRONICA": "CAMILO GARCÍA - 1437091944"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1437091944",
+            "NOMBRES": "CAMILO GARCÍA",
+            "FIRMA ELLECTRONICA": "CAMILO GARCÍA - 1437091944",
+            "AL PIE DE LA FIRMA": "CAMILO GARCÍA - 1437091944"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1437091944",
+            "NOMBRES": "CAMILO GARCÍA",
+            "SALARIO": "2.019.223",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1437091944",
+            "NOMBRES": "CAMILO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.141.767"
+        }
+    }
+]

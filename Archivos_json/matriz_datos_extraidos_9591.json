@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "507108926923",
+            "SOLICITUD": "7888108",
+            "CEDULA": "1877861503",
+            "NOMBRES": "CRISTIAN ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.075.005",
+            "FIRMA ELLECTRONICA": "CRISTIAN ROJAS - 1877861503"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "507108926923",
+            "NOMBRES": "CRISTIAN ROJAS",
+            "CREDITO": "13.849.130",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "206.68",
+            "FIRMA ELLECTRONICA": "CRISTIAN ROJAS - 1877861503",
+            "AL PIE DE LA FIRMA": "CRISTIAN ROJAS - 1877861503"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1877861503",
+            "NOMBRES": "CRISTIAN ROJAS",
+            "FECHA NACIMIENTO": "19/09/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.849.130",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CRISTIAN ROJAS - 1877861503",
+            "AL PIE DE LA FIRMA": "CRISTIAN ROJAS - 1877861503"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7888108",
+            "CEDULA": "1877861503",
+            "NOMBRES": "CRISTIAN ROJAS",
+            "CREDITO": "13.849.130",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "206.68",
+            "E.A": "20.87%",
+            "RECOMPRA O DESEMBOLSO": "3.075.005",
+            "FIRMA ELLECTRONICA": "CRISTIAN ROJAS - 1877861503"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1877861503",
+            "NOMBRES": "CRISTIAN ROJAS",
+            "FIRMA ELLECTRONICA": "CRISTIAN ROJAS - 1877861503"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1877861503",
+            "NOMBRES": "CRISTIAN ROJAS",
+            "FIRMA ELLECTRONICA": "CRISTIAN ROJAS - 1877861503",
+            "AL PIE DE LA FIRMA": "CRISTIAN ROJAS - 1877861503"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTIAN ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1877861503",
+            "NOMBRES": "CRISTIAN ROJAS",
+            "SALARIO": "1.608.183",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1877861503",
+            "NOMBRES": "CRISTIAN ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.075.005"
+        }
+    }
+]

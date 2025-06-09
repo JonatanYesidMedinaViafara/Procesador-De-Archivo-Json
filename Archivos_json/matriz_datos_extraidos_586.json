@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "256339642901",
+            "SOLICITUD": "6990067",
+            "CEDULA": "1767195098",
+            "NOMBRES": "MARCO OMAR MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.717.608",
+            "FIRMA ELLECTRONICA": "MARCO OMAR MARTÍNEZ - 1767195098"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "256339642901",
+            "NOMBRES": "MARCO OMAR MARTÍNEZ",
+            "CREDITO": "9.274.950",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "157.383",
+            "FIRMA ELLECTRONICA": "MARCO OMAR MARTÍNEZ - 1767195098",
+            "AL PIE DE LA FIRMA": "MARCO OMAR MARTÍNEZ - 1767195098"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1767195098",
+            "NOMBRES": "MARCO OMAR MARTÍNEZ",
+            "FECHA NACIMIENTO": "15/04/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.274.950",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARCO OMAR MARTÍNEZ - 1767195098",
+            "AL PIE DE LA FIRMA": "MARCO OMAR MARTÍNEZ - 1767195098"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6990067",
+            "CEDULA": "1767195098",
+            "NOMBRES": "MARCO OMAR MARTÍNEZ",
+            "CREDITO": "9.274.950",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "157.383",
+            "E.A": "28.01%",
+            "RECOMPRA O DESEMBOLSO": "2.717.608",
+            "FIRMA ELLECTRONICA": "MARCO OMAR MARTÍNEZ - 1767195098"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1767195098",
+            "NOMBRES": "MARCO OMAR MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "MARCO OMAR MARTÍNEZ - 1767195098"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1767195098",
+            "NOMBRES": "MARCO OMAR MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "MARCO OMAR MARTÍNEZ - 1767195098",
+            "AL PIE DE LA FIRMA": "MARCO OMAR MARTÍNEZ - 1767195098"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCO OMAR MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1767195098",
+            "NOMBRES": "MARCO OMAR MARTÍNEZ",
+            "SALARIO": "4.857.449",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1767195098",
+            "NOMBRES": "MARCO OMAR MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.717.608"
+        }
+    }
+]

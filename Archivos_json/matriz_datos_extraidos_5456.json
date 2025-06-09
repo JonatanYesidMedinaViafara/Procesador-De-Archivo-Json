@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "836055589815",
+            "SOLICITUD": "2577259",
+            "CEDULA": "1402451120",
+            "NOMBRES": "MARÍA MARINA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.995.740",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA VALENCIA - 1402451120"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "836055589815",
+            "NOMBRES": "MARÍA MARINA VALENCIA",
+            "CREDITO": "8.921.741",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "379.601",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA VALENCIA - 1402451120",
+            "AL PIE DE LA FIRMA": "MARÍA MARINA VALENCIA - 1402451120"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1402451120",
+            "NOMBRES": "MARÍA MARINA VALENCIA",
+            "FECHA NACIMIENTO": "06/11/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.921.741",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA VALENCIA - 1402451120",
+            "AL PIE DE LA FIRMA": "MARÍA MARINA VALENCIA - 1402451120"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2577259",
+            "CEDULA": "1402451120",
+            "NOMBRES": "MARÍA MARINA VALENCIA",
+            "CREDITO": "8.921.741",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "379.601",
+            "E.A": "25.17%",
+            "RECOMPRA O DESEMBOLSO": "2.995.740",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA VALENCIA - 1402451120"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1402451120",
+            "NOMBRES": "MARÍA MARINA VALENCIA",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA VALENCIA - 1402451120"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1402451120",
+            "NOMBRES": "MARÍA MARINA VALENCIA",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA VALENCIA - 1402451120",
+            "AL PIE DE LA FIRMA": "MARÍA MARINA VALENCIA - 1402451120"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MARINA VALENCIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1402451120",
+            "NOMBRES": "MARÍA MARINA VALENCIA",
+            "SALARIO": "3.346.098",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1402451120",
+            "NOMBRES": "MARÍA MARINA VALENCIA",
+            "RECOMPRA O DESEMBOLSO": "2.995.740"
+        }
+    }
+]

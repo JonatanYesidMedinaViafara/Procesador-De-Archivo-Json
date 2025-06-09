@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "177556895075",
+            "SOLICITUD": "2028209",
+            "CEDULA": "1909320366",
+            "NOMBRES": "EMIRO ZAPATA MONTES",
+            "RECOMPRA O DESEMBOLSO": "4.804.056",
+            "FIRMA ELLECTRONICA": "EMIRO ZAPATA MONTES - 1909320366"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "177556895075",
+            "NOMBRES": "EMIRO ZAPATA MONTES",
+            "CREDITO": "9.063.292",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "363.456",
+            "FIRMA ELLECTRONICA": "EMIRO ZAPATA MONTES - 1909320366",
+            "AL PIE DE LA FIRMA": "EMIRO ZAPATA MONTES - 1909320366"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1909320366",
+            "NOMBRES": "EMIRO ZAPATA MONTES",
+            "FECHA NACIMIENTO": "06/10/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.063.292",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EMIRO ZAPATA MONTES - 1909320366",
+            "AL PIE DE LA FIRMA": "EMIRO ZAPATA MONTES - 1909320366"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2028209",
+            "CEDULA": "1909320366",
+            "NOMBRES": "EMIRO ZAPATA MONTES",
+            "CREDITO": "9.063.292",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "363.456",
+            "E.A": "28.26%",
+            "RECOMPRA O DESEMBOLSO": "4.804.056",
+            "FIRMA ELLECTRONICA": "EMIRO ZAPATA MONTES - 1909320366"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1909320366",
+            "NOMBRES": "EMIRO ZAPATA MONTES",
+            "FIRMA ELLECTRONICA": "EMIRO ZAPATA MONTES - 1909320366"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1909320366",
+            "NOMBRES": "EMIRO ZAPATA MONTES",
+            "FIRMA ELLECTRONICA": "EMIRO ZAPATA MONTES - 1909320366",
+            "AL PIE DE LA FIRMA": "EMIRO ZAPATA MONTES - 1909320366"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EMIRO ZAPATA MONTES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1909320366",
+            "NOMBRES": "EMIRO ZAPATA MONTES",
+            "SALARIO": "1.496.809",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1909320366",
+            "NOMBRES": "EMIRO ZAPATA MONTES",
+            "RECOMPRA O DESEMBOLSO": "4.804.056"
+        }
+    }
+]

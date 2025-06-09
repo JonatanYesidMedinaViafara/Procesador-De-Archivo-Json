@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "215244848527",
+            "SOLICITUD": "8882204",
+            "CEDULA": "1659845161",
+            "NOMBRES": "ENRIQUE RIVERA MOLINA",
+            "RECOMPRA O DESEMBOLSO": "2.103.501",
+            "FIRMA ELLECTRONICA": "ENRIQUE RIVERA MOLINA - 1659845161"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "215244848527",
+            "NOMBRES": "ENRIQUE RIVERA MOLINA",
+            "CREDITO": "5.006.976",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "146.837",
+            "FIRMA ELLECTRONICA": "ENRIQUE RIVERA MOLINA - 1659845161",
+            "AL PIE DE LA FIRMA": "ENRIQUE RIVERA MOLINA - 1659845161"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1659845161",
+            "NOMBRES": "ENRIQUE RIVERA MOLINA",
+            "FECHA NACIMIENTO": "26/02/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.006.976",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ENRIQUE RIVERA MOLINA - 1659845161",
+            "AL PIE DE LA FIRMA": "ENRIQUE RIVERA MOLINA - 1659845161"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8882204",
+            "CEDULA": "1659845161",
+            "NOMBRES": "ENRIQUE RIVERA MOLINA",
+            "CREDITO": "5.006.976",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "146.837",
+            "E.A": "25.54%",
+            "RECOMPRA O DESEMBOLSO": "2.103.501",
+            "FIRMA ELLECTRONICA": "ENRIQUE RIVERA MOLINA - 1659845161"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1659845161",
+            "NOMBRES": "ENRIQUE RIVERA MOLINA",
+            "FIRMA ELLECTRONICA": "ENRIQUE RIVERA MOLINA - 1659845161"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1659845161",
+            "NOMBRES": "ENRIQUE RIVERA MOLINA",
+            "FIRMA ELLECTRONICA": "ENRIQUE RIVERA MOLINA - 1659845161",
+            "AL PIE DE LA FIRMA": "ENRIQUE RIVERA MOLINA - 1659845161"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE RIVERA MOLINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1659845161",
+            "NOMBRES": "ENRIQUE RIVERA MOLINA",
+            "SALARIO": "4.737.002",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1659845161",
+            "NOMBRES": "ENRIQUE RIVERA MOLINA",
+            "RECOMPRA O DESEMBOLSO": "2.103.501"
+        }
+    }
+]

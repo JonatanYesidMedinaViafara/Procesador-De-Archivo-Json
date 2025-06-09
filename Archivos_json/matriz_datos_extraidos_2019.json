@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "325354546002",
+            "SOLICITUD": "4152717",
+            "CEDULA": "1523484644",
+            "NOMBRES": "JOSÉ ORJUELA",
+            "RECOMPRA O DESEMBOLSO": "4.851.913",
+            "FIRMA ELLECTRONICA": "JOSÉ ORJUELA - 1523484644"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "325354546002",
+            "NOMBRES": "JOSÉ ORJUELA",
+            "CREDITO": "13.777.873",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "291.495",
+            "FIRMA ELLECTRONICA": "JOSÉ ORJUELA - 1523484644",
+            "AL PIE DE LA FIRMA": "JOSÉ ORJUELA - 1523484644"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1523484644",
+            "NOMBRES": "JOSÉ ORJUELA",
+            "FECHA NACIMIENTO": "31/01/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.777.873",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ ORJUELA - 1523484644",
+            "AL PIE DE LA FIRMA": "JOSÉ ORJUELA - 1523484644"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4152717",
+            "CEDULA": "1523484644",
+            "NOMBRES": "JOSÉ ORJUELA",
+            "CREDITO": "13.777.873",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "291.495",
+            "E.A": "18.07%",
+            "RECOMPRA O DESEMBOLSO": "4.851.913",
+            "FIRMA ELLECTRONICA": "JOSÉ ORJUELA - 1523484644"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1523484644",
+            "NOMBRES": "JOSÉ ORJUELA",
+            "FIRMA ELLECTRONICA": "JOSÉ ORJUELA - 1523484644"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1523484644",
+            "NOMBRES": "JOSÉ ORJUELA",
+            "FIRMA ELLECTRONICA": "JOSÉ ORJUELA - 1523484644",
+            "AL PIE DE LA FIRMA": "JOSÉ ORJUELA - 1523484644"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ORJUELA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1523484644",
+            "NOMBRES": "JOSÉ ORJUELA",
+            "SALARIO": "4.221.357",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1523484644",
+            "NOMBRES": "JOSÉ ORJUELA",
+            "RECOMPRA O DESEMBOLSO": "4.851.913"
+        }
+    }
+]

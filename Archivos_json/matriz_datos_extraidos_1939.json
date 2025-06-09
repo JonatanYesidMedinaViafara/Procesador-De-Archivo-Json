@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "274811823020",
+            "SOLICITUD": "9190032",
+            "CEDULA": "1839345971",
+            "NOMBRES": "ANA ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "3.871.440",
+            "FIRMA ELLECTRONICA": "ANA ÁVILA - 1839345971"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "274811823020",
+            "NOMBRES": "ANA ÁVILA",
+            "CREDITO": "6.407.554",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "153.694",
+            "FIRMA ELLECTRONICA": "ANA ÁVILA - 1839345971",
+            "AL PIE DE LA FIRMA": "ANA ÁVILA - 1839345971"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1839345971",
+            "NOMBRES": "ANA ÁVILA",
+            "FECHA NACIMIENTO": "16/01/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.407.554",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANA ÁVILA - 1839345971",
+            "AL PIE DE LA FIRMA": "ANA ÁVILA - 1839345971"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9190032",
+            "CEDULA": "1839345971",
+            "NOMBRES": "ANA ÁVILA",
+            "CREDITO": "6.407.554",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "153.694",
+            "E.A": "27.6%",
+            "RECOMPRA O DESEMBOLSO": "3.871.440",
+            "FIRMA ELLECTRONICA": "ANA ÁVILA - 1839345971"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1839345971",
+            "NOMBRES": "ANA ÁVILA",
+            "FIRMA ELLECTRONICA": "ANA ÁVILA - 1839345971"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1839345971",
+            "NOMBRES": "ANA ÁVILA",
+            "FIRMA ELLECTRONICA": "ANA ÁVILA - 1839345971",
+            "AL PIE DE LA FIRMA": "ANA ÁVILA - 1839345971"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA ÁVILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1839345971",
+            "NOMBRES": "ANA ÁVILA",
+            "SALARIO": "1.918.040",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1839345971",
+            "NOMBRES": "ANA ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "3.871.440"
+        }
+    }
+]

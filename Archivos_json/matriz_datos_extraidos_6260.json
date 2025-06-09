@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "575381525056",
+            "SOLICITUD": "3136921",
+            "CEDULA": "1865783095",
+            "NOMBRES": "ALONSO RAFAEL DÍAZ GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.011.923",
+            "FIRMA ELLECTRONICA": "ALONSO RAFAEL DÍAZ GIRALDO - 1865783095"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "575381525056",
+            "NOMBRES": "ALONSO RAFAEL DÍAZ GIRALDO",
+            "CREDITO": "12.718.540",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "320.76",
+            "FIRMA ELLECTRONICA": "ALONSO RAFAEL DÍAZ GIRALDO - 1865783095",
+            "AL PIE DE LA FIRMA": "ALONSO RAFAEL DÍAZ GIRALDO - 1865783095"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1865783095",
+            "NOMBRES": "ALONSO RAFAEL DÍAZ GIRALDO",
+            "FECHA NACIMIENTO": "24/09/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.718.540",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALONSO RAFAEL DÍAZ GIRALDO - 1865783095",
+            "AL PIE DE LA FIRMA": "ALONSO RAFAEL DÍAZ GIRALDO - 1865783095"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3136921",
+            "CEDULA": "1865783095",
+            "NOMBRES": "ALONSO RAFAEL DÍAZ GIRALDO",
+            "CREDITO": "12.718.540",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "320.76",
+            "E.A": "22.28%",
+            "RECOMPRA O DESEMBOLSO": "3.011.923",
+            "FIRMA ELLECTRONICA": "ALONSO RAFAEL DÍAZ GIRALDO - 1865783095"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1865783095",
+            "NOMBRES": "ALONSO RAFAEL DÍAZ GIRALDO",
+            "FIRMA ELLECTRONICA": "ALONSO RAFAEL DÍAZ GIRALDO - 1865783095"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1865783095",
+            "NOMBRES": "ALONSO RAFAEL DÍAZ GIRALDO",
+            "FIRMA ELLECTRONICA": "ALONSO RAFAEL DÍAZ GIRALDO - 1865783095",
+            "AL PIE DE LA FIRMA": "ALONSO RAFAEL DÍAZ GIRALDO - 1865783095"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALONSO RAFAEL DÍAZ GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1865783095",
+            "NOMBRES": "ALONSO RAFAEL DÍAZ GIRALDO",
+            "SALARIO": "1.060.926",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1865783095",
+            "NOMBRES": "ALONSO RAFAEL DÍAZ GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "3.011.923"
+        }
+    }
+]

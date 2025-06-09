@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "493299133486",
+            "SOLICITUD": "1455072",
+            "CEDULA": "1955382864",
+            "NOMBRES": "JORGE NICOLÁS FLÓREZ HERRERA",
+            "RECOMPRA O DESEMBOLSO": "3.278.005",
+            "FIRMA ELLECTRONICA": "JORGE NICOLÁS FLÓREZ HERRERA - 1955382864"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "493299133486",
+            "NOMBRES": "JORGE NICOLÁS FLÓREZ HERRERA",
+            "CREDITO": "15.546.795",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "136.505",
+            "FIRMA ELLECTRONICA": "JORGE NICOLÁS FLÓREZ HERRERA - 1955382864",
+            "AL PIE DE LA FIRMA": "JORGE NICOLÁS FLÓREZ HERRERA - 1955382864"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1955382864",
+            "NOMBRES": "JORGE NICOLÁS FLÓREZ HERRERA",
+            "FECHA NACIMIENTO": "20/08/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.546.795",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JORGE NICOLÁS FLÓREZ HERRERA - 1955382864",
+            "AL PIE DE LA FIRMA": "JORGE NICOLÁS FLÓREZ HERRERA - 1955382864"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1455072",
+            "CEDULA": "1955382864",
+            "NOMBRES": "JORGE NICOLÁS FLÓREZ HERRERA",
+            "CREDITO": "15.546.795",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "136.505",
+            "E.A": "20.34%",
+            "RECOMPRA O DESEMBOLSO": "3.278.005",
+            "FIRMA ELLECTRONICA": "JORGE NICOLÁS FLÓREZ HERRERA - 1955382864"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1955382864",
+            "NOMBRES": "JORGE NICOLÁS FLÓREZ HERRERA",
+            "FIRMA ELLECTRONICA": "JORGE NICOLÁS FLÓREZ HERRERA - 1955382864"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1955382864",
+            "NOMBRES": "JORGE NICOLÁS FLÓREZ HERRERA",
+            "FIRMA ELLECTRONICA": "JORGE NICOLÁS FLÓREZ HERRERA - 1955382864",
+            "AL PIE DE LA FIRMA": "JORGE NICOLÁS FLÓREZ HERRERA - 1955382864"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE NICOLÁS FLÓREZ HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1955382864",
+            "NOMBRES": "JORGE NICOLÁS FLÓREZ HERRERA",
+            "SALARIO": "4.396.533",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1955382864",
+            "NOMBRES": "JORGE NICOLÁS FLÓREZ HERRERA",
+            "RECOMPRA O DESEMBOLSO": "3.278.005"
+        }
+    }
+]

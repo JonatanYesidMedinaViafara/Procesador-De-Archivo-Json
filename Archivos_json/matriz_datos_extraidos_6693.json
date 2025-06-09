@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "654754771650",
+            "SOLICITUD": "1726002",
+            "CEDULA": "1874501636",
+            "NOMBRES": "CARLOS ROBINSON ARIAS GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.971.141",
+            "FIRMA ELLECTRONICA": "CARLOS ROBINSON ARIAS GONZÁLEZ - 1874501636"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "654754771650",
+            "NOMBRES": "CARLOS ROBINSON ARIAS GONZÁLEZ",
+            "CREDITO": "5.612.794",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "217.781",
+            "FIRMA ELLECTRONICA": "CARLOS ROBINSON ARIAS GONZÁLEZ - 1874501636",
+            "AL PIE DE LA FIRMA": "CARLOS ROBINSON ARIAS GONZÁLEZ - 1874501636"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1874501636",
+            "NOMBRES": "CARLOS ROBINSON ARIAS GONZÁLEZ",
+            "FECHA NACIMIENTO": "14/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.612.794",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS ROBINSON ARIAS GONZÁLEZ - 1874501636",
+            "AL PIE DE LA FIRMA": "CARLOS ROBINSON ARIAS GONZÁLEZ - 1874501636"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1726002",
+            "CEDULA": "1874501636",
+            "NOMBRES": "CARLOS ROBINSON ARIAS GONZÁLEZ",
+            "CREDITO": "5.612.794",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "217.781",
+            "E.A": "22.35%",
+            "RECOMPRA O DESEMBOLSO": "1.971.141",
+            "FIRMA ELLECTRONICA": "CARLOS ROBINSON ARIAS GONZÁLEZ - 1874501636"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1874501636",
+            "NOMBRES": "CARLOS ROBINSON ARIAS GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CARLOS ROBINSON ARIAS GONZÁLEZ - 1874501636"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1874501636",
+            "NOMBRES": "CARLOS ROBINSON ARIAS GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CARLOS ROBINSON ARIAS GONZÁLEZ - 1874501636",
+            "AL PIE DE LA FIRMA": "CARLOS ROBINSON ARIAS GONZÁLEZ - 1874501636"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS ROBINSON ARIAS GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1874501636",
+            "NOMBRES": "CARLOS ROBINSON ARIAS GONZÁLEZ",
+            "SALARIO": "4.236.516",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1874501636",
+            "NOMBRES": "CARLOS ROBINSON ARIAS GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.971.141"
+        }
+    }
+]

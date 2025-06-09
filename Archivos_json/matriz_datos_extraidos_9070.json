@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "107433125592",
+            "SOLICITUD": "4638400",
+            "CEDULA": "1126452071",
+            "NOMBRES": "JAVIER ACEVEDO SERNA",
+            "RECOMPRA O DESEMBOLSO": "1.593.871",
+            "FIRMA ELLECTRONICA": "JAVIER ACEVEDO SERNA - 1126452071"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "107433125592",
+            "NOMBRES": "JAVIER ACEVEDO SERNA",
+            "CREDITO": "11.595.910",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "146.215",
+            "FIRMA ELLECTRONICA": "JAVIER ACEVEDO SERNA - 1126452071",
+            "AL PIE DE LA FIRMA": "JAVIER ACEVEDO SERNA - 1126452071"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1126452071",
+            "NOMBRES": "JAVIER ACEVEDO SERNA",
+            "FECHA NACIMIENTO": "25/08/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.595.910",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAVIER ACEVEDO SERNA - 1126452071",
+            "AL PIE DE LA FIRMA": "JAVIER ACEVEDO SERNA - 1126452071"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4638400",
+            "CEDULA": "1126452071",
+            "NOMBRES": "JAVIER ACEVEDO SERNA",
+            "CREDITO": "11.595.910",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "146.215",
+            "E.A": "20.98%",
+            "RECOMPRA O DESEMBOLSO": "1.593.871",
+            "FIRMA ELLECTRONICA": "JAVIER ACEVEDO SERNA - 1126452071"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1126452071",
+            "NOMBRES": "JAVIER ACEVEDO SERNA",
+            "FIRMA ELLECTRONICA": "JAVIER ACEVEDO SERNA - 1126452071"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1126452071",
+            "NOMBRES": "JAVIER ACEVEDO SERNA",
+            "FIRMA ELLECTRONICA": "JAVIER ACEVEDO SERNA - 1126452071",
+            "AL PIE DE LA FIRMA": "JAVIER ACEVEDO SERNA - 1126452071"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER ACEVEDO SERNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1126452071",
+            "NOMBRES": "JAVIER ACEVEDO SERNA",
+            "SALARIO": "1.928.897",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1126452071",
+            "NOMBRES": "JAVIER ACEVEDO SERNA",
+            "RECOMPRA O DESEMBOLSO": "1.593.871"
+        }
+    }
+]

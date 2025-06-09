@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "915418530491",
+            "SOLICITUD": "7243162",
+            "CEDULA": "1254436650",
+            "NOMBRES": "SMITH HERNEY SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.481.878",
+            "FIRMA ELLECTRONICA": "SMITH HERNEY SOTO - 1254436650"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "915418530491",
+            "NOMBRES": "SMITH HERNEY SOTO",
+            "CREDITO": "11.176.551",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "309.524",
+            "FIRMA ELLECTRONICA": "SMITH HERNEY SOTO - 1254436650",
+            "AL PIE DE LA FIRMA": "SMITH HERNEY SOTO - 1254436650"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1254436650",
+            "NOMBRES": "SMITH HERNEY SOTO",
+            "FECHA NACIMIENTO": "06/09/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.176.551",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SMITH HERNEY SOTO - 1254436650",
+            "AL PIE DE LA FIRMA": "SMITH HERNEY SOTO - 1254436650"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7243162",
+            "CEDULA": "1254436650",
+            "NOMBRES": "SMITH HERNEY SOTO",
+            "CREDITO": "11.176.551",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "309.524",
+            "E.A": "18.99%",
+            "RECOMPRA O DESEMBOLSO": "3.481.878",
+            "FIRMA ELLECTRONICA": "SMITH HERNEY SOTO - 1254436650"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1254436650",
+            "NOMBRES": "SMITH HERNEY SOTO",
+            "FIRMA ELLECTRONICA": "SMITH HERNEY SOTO - 1254436650"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1254436650",
+            "NOMBRES": "SMITH HERNEY SOTO",
+            "FIRMA ELLECTRONICA": "SMITH HERNEY SOTO - 1254436650",
+            "AL PIE DE LA FIRMA": "SMITH HERNEY SOTO - 1254436650"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SMITH HERNEY SOTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1254436650",
+            "NOMBRES": "SMITH HERNEY SOTO",
+            "SALARIO": "4.597.778",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1254436650",
+            "NOMBRES": "SMITH HERNEY SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.481.878"
+        }
+    }
+]

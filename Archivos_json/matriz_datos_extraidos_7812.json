@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "838195565022",
+            "SOLICITUD": "7300663",
+            "CEDULA": "1058471310",
+            "NOMBRES": "SANDRA CARMEN JAIMES VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.378.515",
+            "FIRMA ELLECTRONICA": "SANDRA CARMEN JAIMES VARGAS - 1058471310"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "838195565022",
+            "NOMBRES": "SANDRA CARMEN JAIMES VARGAS",
+            "CREDITO": "14.583.796",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "340.961",
+            "FIRMA ELLECTRONICA": "SANDRA CARMEN JAIMES VARGAS - 1058471310",
+            "AL PIE DE LA FIRMA": "SANDRA CARMEN JAIMES VARGAS - 1058471310"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1058471310",
+            "NOMBRES": "SANDRA CARMEN JAIMES VARGAS",
+            "FECHA NACIMIENTO": "26/04/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.583.796",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SANDRA CARMEN JAIMES VARGAS - 1058471310",
+            "AL PIE DE LA FIRMA": "SANDRA CARMEN JAIMES VARGAS - 1058471310"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7300663",
+            "CEDULA": "1058471310",
+            "NOMBRES": "SANDRA CARMEN JAIMES VARGAS",
+            "CREDITO": "14.583.796",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "340.961",
+            "E.A": "23.72%",
+            "RECOMPRA O DESEMBOLSO": "4.378.515",
+            "FIRMA ELLECTRONICA": "SANDRA CARMEN JAIMES VARGAS - 1058471310"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1058471310",
+            "NOMBRES": "SANDRA CARMEN JAIMES VARGAS",
+            "FIRMA ELLECTRONICA": "SANDRA CARMEN JAIMES VARGAS - 1058471310"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1058471310",
+            "NOMBRES": "SANDRA CARMEN JAIMES VARGAS",
+            "FIRMA ELLECTRONICA": "SANDRA CARMEN JAIMES VARGAS - 1058471310",
+            "AL PIE DE LA FIRMA": "SANDRA CARMEN JAIMES VARGAS - 1058471310"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA CARMEN JAIMES VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1058471310",
+            "NOMBRES": "SANDRA CARMEN JAIMES VARGAS",
+            "SALARIO": "2.917.336",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1058471310",
+            "NOMBRES": "SANDRA CARMEN JAIMES VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.378.515"
+        }
+    }
+]

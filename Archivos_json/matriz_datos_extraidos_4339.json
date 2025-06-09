@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "427824235634",
+            "SOLICITUD": "3238878",
+            "CEDULA": "1661090497",
+            "NOMBRES": "JUAN DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.186.560",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ - 1661090497"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "427824235634",
+            "NOMBRES": "JUAN DÍAZ",
+            "CREDITO": "11.715.236",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "252.067",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ - 1661090497",
+            "AL PIE DE LA FIRMA": "JUAN DÍAZ - 1661090497"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1661090497",
+            "NOMBRES": "JUAN DÍAZ",
+            "FECHA NACIMIENTO": "06/01/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.715.236",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ - 1661090497",
+            "AL PIE DE LA FIRMA": "JUAN DÍAZ - 1661090497"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3238878",
+            "CEDULA": "1661090497",
+            "NOMBRES": "JUAN DÍAZ",
+            "CREDITO": "11.715.236",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "252.067",
+            "E.A": "21.7%",
+            "RECOMPRA O DESEMBOLSO": "2.186.560",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ - 1661090497"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1661090497",
+            "NOMBRES": "JUAN DÍAZ",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ - 1661090497"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1661090497",
+            "NOMBRES": "JUAN DÍAZ",
+            "FIRMA ELLECTRONICA": "JUAN DÍAZ - 1661090497",
+            "AL PIE DE LA FIRMA": "JUAN DÍAZ - 1661090497"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1661090497",
+            "NOMBRES": "JUAN DÍAZ",
+            "SALARIO": "3.677.920",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1661090497",
+            "NOMBRES": "JUAN DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.186.560"
+        }
+    }
+]

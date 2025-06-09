@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "684281876073",
+            "SOLICITUD": "1605557",
+            "CEDULA": "1653188937",
+            "NOMBRES": "IVONNE MELO",
+            "RECOMPRA O DESEMBOLSO": "2.777.762",
+            "FIRMA ELLECTRONICA": "IVONNE MELO - 1653188937"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "684281876073",
+            "NOMBRES": "IVONNE MELO",
+            "CREDITO": "15.002.820",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "115.685",
+            "FIRMA ELLECTRONICA": "IVONNE MELO - 1653188937",
+            "AL PIE DE LA FIRMA": "IVONNE MELO - 1653188937"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1653188937",
+            "NOMBRES": "IVONNE MELO",
+            "FECHA NACIMIENTO": "10/01/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.002.820",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "IVONNE MELO - 1653188937",
+            "AL PIE DE LA FIRMA": "IVONNE MELO - 1653188937"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1605557",
+            "CEDULA": "1653188937",
+            "NOMBRES": "IVONNE MELO",
+            "CREDITO": "15.002.820",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "115.685",
+            "E.A": "19.99%",
+            "RECOMPRA O DESEMBOLSO": "2.777.762",
+            "FIRMA ELLECTRONICA": "IVONNE MELO - 1653188937"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1653188937",
+            "NOMBRES": "IVONNE MELO",
+            "FIRMA ELLECTRONICA": "IVONNE MELO - 1653188937"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1653188937",
+            "NOMBRES": "IVONNE MELO",
+            "FIRMA ELLECTRONICA": "IVONNE MELO - 1653188937",
+            "AL PIE DE LA FIRMA": "IVONNE MELO - 1653188937"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IVONNE MELO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1653188937",
+            "NOMBRES": "IVONNE MELO",
+            "SALARIO": "1.311.753",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1653188937",
+            "NOMBRES": "IVONNE MELO",
+            "RECOMPRA O DESEMBOLSO": "2.777.762"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "787848941886",
+            "SOLICITUD": "7713272",
+            "CEDULA": "1107906185",
+            "NOMBRES": "ANDRÉS WILLIAM IBARRA",
+            "RECOMPRA O DESEMBOLSO": "3.893.297",
+            "FIRMA ELLECTRONICA": "ANDRÉS WILLIAM IBARRA - 1107906185"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "787848941886",
+            "NOMBRES": "ANDRÉS WILLIAM IBARRA",
+            "CREDITO": "9.184.345",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "146.574",
+            "FIRMA ELLECTRONICA": "ANDRÉS WILLIAM IBARRA - 1107906185",
+            "AL PIE DE LA FIRMA": "ANDRÉS WILLIAM IBARRA - 1107906185"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1107906185",
+            "NOMBRES": "ANDRÉS WILLIAM IBARRA",
+            "FECHA NACIMIENTO": "28/03/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.184.345",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS WILLIAM IBARRA - 1107906185",
+            "AL PIE DE LA FIRMA": "ANDRÉS WILLIAM IBARRA - 1107906185"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7713272",
+            "CEDULA": "1107906185",
+            "NOMBRES": "ANDRÉS WILLIAM IBARRA",
+            "CREDITO": "9.184.345",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "146.574",
+            "E.A": "26.01%",
+            "RECOMPRA O DESEMBOLSO": "3.893.297",
+            "FIRMA ELLECTRONICA": "ANDRÉS WILLIAM IBARRA - 1107906185"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1107906185",
+            "NOMBRES": "ANDRÉS WILLIAM IBARRA",
+            "FIRMA ELLECTRONICA": "ANDRÉS WILLIAM IBARRA - 1107906185"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1107906185",
+            "NOMBRES": "ANDRÉS WILLIAM IBARRA",
+            "FIRMA ELLECTRONICA": "ANDRÉS WILLIAM IBARRA - 1107906185",
+            "AL PIE DE LA FIRMA": "ANDRÉS WILLIAM IBARRA - 1107906185"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS WILLIAM IBARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1107906185",
+            "NOMBRES": "ANDRÉS WILLIAM IBARRA",
+            "SALARIO": "2.352.519",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1107906185",
+            "NOMBRES": "ANDRÉS WILLIAM IBARRA",
+            "RECOMPRA O DESEMBOLSO": "3.893.297"
+        }
+    }
+]

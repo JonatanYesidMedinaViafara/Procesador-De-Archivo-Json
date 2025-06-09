@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "148194191398",
+            "SOLICITUD": "9384494",
+            "CEDULA": "1540753228",
+            "NOMBRES": "JAVIER SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.037.111",
+            "FIRMA ELLECTRONICA": "JAVIER SUÁREZ - 1540753228"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "148194191398",
+            "NOMBRES": "JAVIER SUÁREZ",
+            "CREDITO": "5.638.715",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "142.262",
+            "FIRMA ELLECTRONICA": "JAVIER SUÁREZ - 1540753228",
+            "AL PIE DE LA FIRMA": "JAVIER SUÁREZ - 1540753228"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1540753228",
+            "NOMBRES": "JAVIER SUÁREZ",
+            "FECHA NACIMIENTO": "18/12/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.638.715",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JAVIER SUÁREZ - 1540753228",
+            "AL PIE DE LA FIRMA": "JAVIER SUÁREZ - 1540753228"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9384494",
+            "CEDULA": "1540753228",
+            "NOMBRES": "JAVIER SUÁREZ",
+            "CREDITO": "5.638.715",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "142.262",
+            "E.A": "27.42%",
+            "RECOMPRA O DESEMBOLSO": "2.037.111",
+            "FIRMA ELLECTRONICA": "JAVIER SUÁREZ - 1540753228"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1540753228",
+            "NOMBRES": "JAVIER SUÁREZ",
+            "FIRMA ELLECTRONICA": "JAVIER SUÁREZ - 1540753228"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1540753228",
+            "NOMBRES": "JAVIER SUÁREZ",
+            "FIRMA ELLECTRONICA": "JAVIER SUÁREZ - 1540753228",
+            "AL PIE DE LA FIRMA": "JAVIER SUÁREZ - 1540753228"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1540753228",
+            "NOMBRES": "JAVIER SUÁREZ",
+            "SALARIO": "3.097.514",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1540753228",
+            "NOMBRES": "JAVIER SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.037.111"
+        }
+    }
+]

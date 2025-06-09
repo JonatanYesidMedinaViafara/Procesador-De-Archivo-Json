@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "687983498832",
+            "SOLICITUD": "9769571",
+            "CEDULA": "1974043060",
+            "NOMBRES": "MARÍA MARINA RODRÍGUEZ GAITÁN",
+            "RECOMPRA O DESEMBOLSO": "3.344.230",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA RODRÍGUEZ GAITÁN - 1974043060"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "687983498832",
+            "NOMBRES": "MARÍA MARINA RODRÍGUEZ GAITÁN",
+            "CREDITO": "5.124.729",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "363.333",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA RODRÍGUEZ GAITÁN - 1974043060",
+            "AL PIE DE LA FIRMA": "MARÍA MARINA RODRÍGUEZ GAITÁN - 1974043060"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1974043060",
+            "NOMBRES": "MARÍA MARINA RODRÍGUEZ GAITÁN",
+            "FECHA NACIMIENTO": "09/05/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.124.729",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA RODRÍGUEZ GAITÁN - 1974043060",
+            "AL PIE DE LA FIRMA": "MARÍA MARINA RODRÍGUEZ GAITÁN - 1974043060"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9769571",
+            "CEDULA": "1974043060",
+            "NOMBRES": "MARÍA MARINA RODRÍGUEZ GAITÁN",
+            "CREDITO": "5.124.729",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "363.333",
+            "E.A": "21.93%",
+            "RECOMPRA O DESEMBOLSO": "3.344.230",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA RODRÍGUEZ GAITÁN - 1974043060"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1974043060",
+            "NOMBRES": "MARÍA MARINA RODRÍGUEZ GAITÁN",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA RODRÍGUEZ GAITÁN - 1974043060"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1974043060",
+            "NOMBRES": "MARÍA MARINA RODRÍGUEZ GAITÁN",
+            "FIRMA ELLECTRONICA": "MARÍA MARINA RODRÍGUEZ GAITÁN - 1974043060",
+            "AL PIE DE LA FIRMA": "MARÍA MARINA RODRÍGUEZ GAITÁN - 1974043060"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MARINA RODRÍGUEZ GAITÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1974043060",
+            "NOMBRES": "MARÍA MARINA RODRÍGUEZ GAITÁN",
+            "SALARIO": "2.436.719",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1974043060",
+            "NOMBRES": "MARÍA MARINA RODRÍGUEZ GAITÁN",
+            "RECOMPRA O DESEMBOLSO": "3.344.230"
+        }
+    }
+]

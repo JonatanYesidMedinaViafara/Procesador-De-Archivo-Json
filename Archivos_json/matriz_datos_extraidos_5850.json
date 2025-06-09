@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "571505930157",
+            "SOLICITUD": "9272012",
+            "CEDULA": "1674034593",
+            "NOMBRES": "MARÍA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.361.835",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ - 1674034593"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "571505930157",
+            "NOMBRES": "MARÍA LÓPEZ",
+            "CREDITO": "15.912.797",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "244.984",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ - 1674034593",
+            "AL PIE DE LA FIRMA": "MARÍA LÓPEZ - 1674034593"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1674034593",
+            "NOMBRES": "MARÍA LÓPEZ",
+            "FECHA NACIMIENTO": "22/08/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.912.797",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ - 1674034593",
+            "AL PIE DE LA FIRMA": "MARÍA LÓPEZ - 1674034593"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9272012",
+            "CEDULA": "1674034593",
+            "NOMBRES": "MARÍA LÓPEZ",
+            "CREDITO": "15.912.797",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "244.984",
+            "E.A": "23.8%",
+            "RECOMPRA O DESEMBOLSO": "1.361.835",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ - 1674034593"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1674034593",
+            "NOMBRES": "MARÍA LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ - 1674034593"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1674034593",
+            "NOMBRES": "MARÍA LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARÍA LÓPEZ - 1674034593",
+            "AL PIE DE LA FIRMA": "MARÍA LÓPEZ - 1674034593"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1674034593",
+            "NOMBRES": "MARÍA LÓPEZ",
+            "SALARIO": "1.508.033",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1674034593",
+            "NOMBRES": "MARÍA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.361.835"
+        }
+    }
+]

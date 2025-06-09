@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "551689463384",
+            "SOLICITUD": "5488835",
+            "CEDULA": "1811765499",
+            "NOMBRES": "CAROLINA MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.426.083",
+            "FIRMA ELLECTRONICA": "CAROLINA MORALES - 1811765499"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "551689463384",
+            "NOMBRES": "CAROLINA MORALES",
+            "CREDITO": "12.425.763",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "323.881",
+            "FIRMA ELLECTRONICA": "CAROLINA MORALES - 1811765499",
+            "AL PIE DE LA FIRMA": "CAROLINA MORALES - 1811765499"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1811765499",
+            "NOMBRES": "CAROLINA MORALES",
+            "FECHA NACIMIENTO": "08/01/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.425.763",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAROLINA MORALES - 1811765499",
+            "AL PIE DE LA FIRMA": "CAROLINA MORALES - 1811765499"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5488835",
+            "CEDULA": "1811765499",
+            "NOMBRES": "CAROLINA MORALES",
+            "CREDITO": "12.425.763",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "323.881",
+            "E.A": "18.7%",
+            "RECOMPRA O DESEMBOLSO": "2.426.083",
+            "FIRMA ELLECTRONICA": "CAROLINA MORALES - 1811765499"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1811765499",
+            "NOMBRES": "CAROLINA MORALES",
+            "FIRMA ELLECTRONICA": "CAROLINA MORALES - 1811765499"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1811765499",
+            "NOMBRES": "CAROLINA MORALES",
+            "FIRMA ELLECTRONICA": "CAROLINA MORALES - 1811765499",
+            "AL PIE DE LA FIRMA": "CAROLINA MORALES - 1811765499"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAROLINA MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1811765499",
+            "NOMBRES": "CAROLINA MORALES",
+            "SALARIO": "2.159.765",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1811765499",
+            "NOMBRES": "CAROLINA MORALES",
+            "RECOMPRA O DESEMBOLSO": "2.426.083"
+        }
+    }
+]

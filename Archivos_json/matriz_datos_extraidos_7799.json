@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "453202371337",
+            "SOLICITUD": "9057377",
+            "CEDULA": "1048758272",
+            "NOMBRES": "PAULINA IBARRA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.573.768",
+            "FIRMA ELLECTRONICA": "PAULINA IBARRA RAMÍREZ - 1048758272"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "453202371337",
+            "NOMBRES": "PAULINA IBARRA RAMÍREZ",
+            "CREDITO": "13.598.363",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "237.544",
+            "FIRMA ELLECTRONICA": "PAULINA IBARRA RAMÍREZ - 1048758272",
+            "AL PIE DE LA FIRMA": "PAULINA IBARRA RAMÍREZ - 1048758272"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1048758272",
+            "NOMBRES": "PAULINA IBARRA RAMÍREZ",
+            "FECHA NACIMIENTO": "30/09/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.598.363",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "PAULINA IBARRA RAMÍREZ - 1048758272",
+            "AL PIE DE LA FIRMA": "PAULINA IBARRA RAMÍREZ - 1048758272"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9057377",
+            "CEDULA": "1048758272",
+            "NOMBRES": "PAULINA IBARRA RAMÍREZ",
+            "CREDITO": "13.598.363",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "237.544",
+            "E.A": "24.77%",
+            "RECOMPRA O DESEMBOLSO": "3.573.768",
+            "FIRMA ELLECTRONICA": "PAULINA IBARRA RAMÍREZ - 1048758272"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1048758272",
+            "NOMBRES": "PAULINA IBARRA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "PAULINA IBARRA RAMÍREZ - 1048758272"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1048758272",
+            "NOMBRES": "PAULINA IBARRA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "PAULINA IBARRA RAMÍREZ - 1048758272",
+            "AL PIE DE LA FIRMA": "PAULINA IBARRA RAMÍREZ - 1048758272"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAULINA IBARRA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1048758272",
+            "NOMBRES": "PAULINA IBARRA RAMÍREZ",
+            "SALARIO": "4.754.892",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1048758272",
+            "NOMBRES": "PAULINA IBARRA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.573.768"
+        }
+    }
+]

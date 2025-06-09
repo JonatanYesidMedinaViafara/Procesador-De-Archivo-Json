@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "166494054327",
+            "SOLICITUD": "3648502",
+            "CEDULA": "1395668342",
+            "NOMBRES": "ANTONIO ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "3.943.300",
+            "FIRMA ELLECTRONICA": "ANTONIO ORTEGA - 1395668342"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "166494054327",
+            "NOMBRES": "ANTONIO ORTEGA",
+            "CREDITO": "16.986.587",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.927",
+            "FIRMA ELLECTRONICA": "ANTONIO ORTEGA - 1395668342",
+            "AL PIE DE LA FIRMA": "ANTONIO ORTEGA - 1395668342"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1395668342",
+            "NOMBRES": "ANTONIO ORTEGA",
+            "FECHA NACIMIENTO": "19/10/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.986.587",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANTONIO ORTEGA - 1395668342",
+            "AL PIE DE LA FIRMA": "ANTONIO ORTEGA - 1395668342"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3648502",
+            "CEDULA": "1395668342",
+            "NOMBRES": "ANTONIO ORTEGA",
+            "CREDITO": "16.986.587",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.927",
+            "E.A": "26.92%",
+            "RECOMPRA O DESEMBOLSO": "3.943.300",
+            "FIRMA ELLECTRONICA": "ANTONIO ORTEGA - 1395668342"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1395668342",
+            "NOMBRES": "ANTONIO ORTEGA",
+            "FIRMA ELLECTRONICA": "ANTONIO ORTEGA - 1395668342"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1395668342",
+            "NOMBRES": "ANTONIO ORTEGA",
+            "FIRMA ELLECTRONICA": "ANTONIO ORTEGA - 1395668342",
+            "AL PIE DE LA FIRMA": "ANTONIO ORTEGA - 1395668342"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO ORTEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1395668342",
+            "NOMBRES": "ANTONIO ORTEGA",
+            "SALARIO": "2.089.210",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1395668342",
+            "NOMBRES": "ANTONIO ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "3.943.300"
+        }
+    }
+]

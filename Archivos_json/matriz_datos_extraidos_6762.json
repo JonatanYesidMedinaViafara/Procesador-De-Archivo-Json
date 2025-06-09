@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "780095951231",
+            "SOLICITUD": "4441301",
+            "CEDULA": "1334711533",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.161.507",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1334711533"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "780095951231",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "CREDITO": "17.663.875",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "182.589",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1334711533",
+            "AL PIE DE LA FIRMA": "MANUEL HERNÁNDEZ - 1334711533"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1334711533",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "FECHA NACIMIENTO": "04/05/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.663.875",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1334711533",
+            "AL PIE DE LA FIRMA": "MANUEL HERNÁNDEZ - 1334711533"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4441301",
+            "CEDULA": "1334711533",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "CREDITO": "17.663.875",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "182.589",
+            "E.A": "27.67%",
+            "RECOMPRA O DESEMBOLSO": "4.161.507",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1334711533"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1334711533",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1334711533"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1334711533",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ - 1334711533",
+            "AL PIE DE LA FIRMA": "MANUEL HERNÁNDEZ - 1334711533"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1334711533",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "SALARIO": "2.071.983",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1334711533",
+            "NOMBRES": "MANUEL HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.161.507"
+        }
+    }
+]

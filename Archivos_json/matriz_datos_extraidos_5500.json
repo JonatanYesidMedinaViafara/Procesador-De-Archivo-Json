@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "584702379770",
+            "SOLICITUD": "7134180",
+            "CEDULA": "1337224385",
+            "NOMBRES": "DIANA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.278.108",
+            "FIRMA ELLECTRONICA": "DIANA MUÑOZ - 1337224385"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "584702379770",
+            "NOMBRES": "DIANA MUÑOZ",
+            "CREDITO": "15.077.928",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "377.034",
+            "FIRMA ELLECTRONICA": "DIANA MUÑOZ - 1337224385",
+            "AL PIE DE LA FIRMA": "DIANA MUÑOZ - 1337224385"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1337224385",
+            "NOMBRES": "DIANA MUÑOZ",
+            "FECHA NACIMIENTO": "17/11/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.077.928",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DIANA MUÑOZ - 1337224385",
+            "AL PIE DE LA FIRMA": "DIANA MUÑOZ - 1337224385"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7134180",
+            "CEDULA": "1337224385",
+            "NOMBRES": "DIANA MUÑOZ",
+            "CREDITO": "15.077.928",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "377.034",
+            "E.A": "28.72%",
+            "RECOMPRA O DESEMBOLSO": "1.278.108",
+            "FIRMA ELLECTRONICA": "DIANA MUÑOZ - 1337224385"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1337224385",
+            "NOMBRES": "DIANA MUÑOZ",
+            "FIRMA ELLECTRONICA": "DIANA MUÑOZ - 1337224385"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1337224385",
+            "NOMBRES": "DIANA MUÑOZ",
+            "FIRMA ELLECTRONICA": "DIANA MUÑOZ - 1337224385",
+            "AL PIE DE LA FIRMA": "DIANA MUÑOZ - 1337224385"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1337224385",
+            "NOMBRES": "DIANA MUÑOZ",
+            "SALARIO": "2.265.345",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1337224385",
+            "NOMBRES": "DIANA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.278.108"
+        }
+    }
+]

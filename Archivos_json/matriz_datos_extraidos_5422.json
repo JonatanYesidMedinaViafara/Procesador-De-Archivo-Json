@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "645345262860",
+            "SOLICITUD": "8422448",
+            "CEDULA": "1605586633",
+            "NOMBRES": "BLANCA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.067.198",
+            "FIRMA ELLECTRONICA": "BLANCA SÁNCHEZ - 1605586633"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "645345262860",
+            "NOMBRES": "BLANCA SÁNCHEZ",
+            "CREDITO": "18.951.666",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "394.651",
+            "FIRMA ELLECTRONICA": "BLANCA SÁNCHEZ - 1605586633",
+            "AL PIE DE LA FIRMA": "BLANCA SÁNCHEZ - 1605586633"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1605586633",
+            "NOMBRES": "BLANCA SÁNCHEZ",
+            "FECHA NACIMIENTO": "08/02/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.951.666",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "BLANCA SÁNCHEZ - 1605586633",
+            "AL PIE DE LA FIRMA": "BLANCA SÁNCHEZ - 1605586633"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8422448",
+            "CEDULA": "1605586633",
+            "NOMBRES": "BLANCA SÁNCHEZ",
+            "CREDITO": "18.951.666",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "394.651",
+            "E.A": "25.84%",
+            "RECOMPRA O DESEMBOLSO": "1.067.198",
+            "FIRMA ELLECTRONICA": "BLANCA SÁNCHEZ - 1605586633"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1605586633",
+            "NOMBRES": "BLANCA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "BLANCA SÁNCHEZ - 1605586633"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1605586633",
+            "NOMBRES": "BLANCA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "BLANCA SÁNCHEZ - 1605586633",
+            "AL PIE DE LA FIRMA": "BLANCA SÁNCHEZ - 1605586633"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BLANCA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1605586633",
+            "NOMBRES": "BLANCA SÁNCHEZ",
+            "SALARIO": "4.513.674",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1605586633",
+            "NOMBRES": "BLANCA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.067.198"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "511506957217",
+            "SOLICITUD": "3717796",
+            "CEDULA": "1880838726",
+            "NOMBRES": "JOSÉ BEDOYA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.932.811",
+            "FIRMA ELLECTRONICA": "JOSÉ BEDOYA PÉREZ - 1880838726"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "511506957217",
+            "NOMBRES": "JOSÉ BEDOYA PÉREZ",
+            "CREDITO": "19.216.379",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "393.792",
+            "FIRMA ELLECTRONICA": "JOSÉ BEDOYA PÉREZ - 1880838726",
+            "AL PIE DE LA FIRMA": "JOSÉ BEDOYA PÉREZ - 1880838726"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1880838726",
+            "NOMBRES": "JOSÉ BEDOYA PÉREZ",
+            "FECHA NACIMIENTO": "15/08/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.216.379",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ BEDOYA PÉREZ - 1880838726",
+            "AL PIE DE LA FIRMA": "JOSÉ BEDOYA PÉREZ - 1880838726"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3717796",
+            "CEDULA": "1880838726",
+            "NOMBRES": "JOSÉ BEDOYA PÉREZ",
+            "CREDITO": "19.216.379",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "393.792",
+            "E.A": "24.15%",
+            "RECOMPRA O DESEMBOLSO": "2.932.811",
+            "FIRMA ELLECTRONICA": "JOSÉ BEDOYA PÉREZ - 1880838726"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1880838726",
+            "NOMBRES": "JOSÉ BEDOYA PÉREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ BEDOYA PÉREZ - 1880838726"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1880838726",
+            "NOMBRES": "JOSÉ BEDOYA PÉREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ BEDOYA PÉREZ - 1880838726",
+            "AL PIE DE LA FIRMA": "JOSÉ BEDOYA PÉREZ - 1880838726"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ BEDOYA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1880838726",
+            "NOMBRES": "JOSÉ BEDOYA PÉREZ",
+            "SALARIO": "1.503.715",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1880838726",
+            "NOMBRES": "JOSÉ BEDOYA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.932.811"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "631696518078",
+            "SOLICITUD": "8234874",
+            "CEDULA": "1142306227",
+            "NOMBRES": "JOSÉ DIEGO ANGULO",
+            "RECOMPRA O DESEMBOLSO": "3.243.809",
+            "FIRMA ELLECTRONICA": "JOSÉ DIEGO ANGULO - 1142306227"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "631696518078",
+            "NOMBRES": "JOSÉ DIEGO ANGULO",
+            "CREDITO": "14.663.251",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "160.471",
+            "FIRMA ELLECTRONICA": "JOSÉ DIEGO ANGULO - 1142306227",
+            "AL PIE DE LA FIRMA": "JOSÉ DIEGO ANGULO - 1142306227"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1142306227",
+            "NOMBRES": "JOSÉ DIEGO ANGULO",
+            "FECHA NACIMIENTO": "26/10/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.663.251",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ DIEGO ANGULO - 1142306227",
+            "AL PIE DE LA FIRMA": "JOSÉ DIEGO ANGULO - 1142306227"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8234874",
+            "CEDULA": "1142306227",
+            "NOMBRES": "JOSÉ DIEGO ANGULO",
+            "CREDITO": "14.663.251",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "160.471",
+            "E.A": "28.36%",
+            "RECOMPRA O DESEMBOLSO": "3.243.809",
+            "FIRMA ELLECTRONICA": "JOSÉ DIEGO ANGULO - 1142306227"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1142306227",
+            "NOMBRES": "JOSÉ DIEGO ANGULO",
+            "FIRMA ELLECTRONICA": "JOSÉ DIEGO ANGULO - 1142306227"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1142306227",
+            "NOMBRES": "JOSÉ DIEGO ANGULO",
+            "FIRMA ELLECTRONICA": "JOSÉ DIEGO ANGULO - 1142306227",
+            "AL PIE DE LA FIRMA": "JOSÉ DIEGO ANGULO - 1142306227"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ DIEGO ANGULO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1142306227",
+            "NOMBRES": "JOSÉ DIEGO ANGULO",
+            "SALARIO": "3.670.696",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1142306227",
+            "NOMBRES": "JOSÉ DIEGO ANGULO",
+            "RECOMPRA O DESEMBOLSO": "3.243.809"
+        }
+    }
+]

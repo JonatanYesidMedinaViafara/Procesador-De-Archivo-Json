@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "641678553930",
+            "SOLICITUD": "6206577",
+            "CEDULA": "1103006207",
+            "NOMBRES": "MARÍA MARY MERCADO NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "2.069.828",
+            "FIRMA ELLECTRONICA": "MARÍA MARY MERCADO NAVARRO - 1103006207"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "641678553930",
+            "NOMBRES": "MARÍA MARY MERCADO NAVARRO",
+            "CREDITO": "11.016.608",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "254.875",
+            "FIRMA ELLECTRONICA": "MARÍA MARY MERCADO NAVARRO - 1103006207",
+            "AL PIE DE LA FIRMA": "MARÍA MARY MERCADO NAVARRO - 1103006207"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1103006207",
+            "NOMBRES": "MARÍA MARY MERCADO NAVARRO",
+            "FECHA NACIMIENTO": "26/05/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.016.608",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA MARY MERCADO NAVARRO - 1103006207",
+            "AL PIE DE LA FIRMA": "MARÍA MARY MERCADO NAVARRO - 1103006207"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6206577",
+            "CEDULA": "1103006207",
+            "NOMBRES": "MARÍA MARY MERCADO NAVARRO",
+            "CREDITO": "11.016.608",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "254.875",
+            "E.A": "26.77%",
+            "RECOMPRA O DESEMBOLSO": "2.069.828",
+            "FIRMA ELLECTRONICA": "MARÍA MARY MERCADO NAVARRO - 1103006207"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1103006207",
+            "NOMBRES": "MARÍA MARY MERCADO NAVARRO",
+            "FIRMA ELLECTRONICA": "MARÍA MARY MERCADO NAVARRO - 1103006207"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1103006207",
+            "NOMBRES": "MARÍA MARY MERCADO NAVARRO",
+            "FIRMA ELLECTRONICA": "MARÍA MARY MERCADO NAVARRO - 1103006207",
+            "AL PIE DE LA FIRMA": "MARÍA MARY MERCADO NAVARRO - 1103006207"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MARY MERCADO NAVARRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1103006207",
+            "NOMBRES": "MARÍA MARY MERCADO NAVARRO",
+            "SALARIO": "1.400.624",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1103006207",
+            "NOMBRES": "MARÍA MARY MERCADO NAVARRO",
+            "RECOMPRA O DESEMBOLSO": "2.069.828"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "829799411807",
+            "SOLICITUD": "8105529",
+            "CEDULA": "1049170036",
+            "NOMBRES": "MARÍA CRISTINA MONTOYA CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "1.626.007",
+            "FIRMA ELLECTRONICA": "MARÍA CRISTINA MONTOYA CÁRDENAS - 1049170036"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "829799411807",
+            "NOMBRES": "MARÍA CRISTINA MONTOYA CÁRDENAS",
+            "CREDITO": "15.854.664",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "149.798",
+            "FIRMA ELLECTRONICA": "MARÍA CRISTINA MONTOYA CÁRDENAS - 1049170036",
+            "AL PIE DE LA FIRMA": "MARÍA CRISTINA MONTOYA CÁRDENAS - 1049170036"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1049170036",
+            "NOMBRES": "MARÍA CRISTINA MONTOYA CÁRDENAS",
+            "FECHA NACIMIENTO": "24/03/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.854.664",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA CRISTINA MONTOYA CÁRDENAS - 1049170036",
+            "AL PIE DE LA FIRMA": "MARÍA CRISTINA MONTOYA CÁRDENAS - 1049170036"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8105529",
+            "CEDULA": "1049170036",
+            "NOMBRES": "MARÍA CRISTINA MONTOYA CÁRDENAS",
+            "CREDITO": "15.854.664",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "149.798",
+            "E.A": "24.73%",
+            "RECOMPRA O DESEMBOLSO": "1.626.007",
+            "FIRMA ELLECTRONICA": "MARÍA CRISTINA MONTOYA CÁRDENAS - 1049170036"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1049170036",
+            "NOMBRES": "MARÍA CRISTINA MONTOYA CÁRDENAS",
+            "FIRMA ELLECTRONICA": "MARÍA CRISTINA MONTOYA CÁRDENAS - 1049170036"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1049170036",
+            "NOMBRES": "MARÍA CRISTINA MONTOYA CÁRDENAS",
+            "FIRMA ELLECTRONICA": "MARÍA CRISTINA MONTOYA CÁRDENAS - 1049170036",
+            "AL PIE DE LA FIRMA": "MARÍA CRISTINA MONTOYA CÁRDENAS - 1049170036"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CRISTINA MONTOYA CÁRDENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1049170036",
+            "NOMBRES": "MARÍA CRISTINA MONTOYA CÁRDENAS",
+            "SALARIO": "2.330.933",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1049170036",
+            "NOMBRES": "MARÍA CRISTINA MONTOYA CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "1.626.007"
+        }
+    }
+]

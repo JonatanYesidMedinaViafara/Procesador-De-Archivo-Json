@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "230968765889",
+            "SOLICITUD": "9378022",
+            "CEDULA": "1947212376",
+            "NOMBRES": "SILVIA LÓPEZ GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "4.659.767",
+            "FIRMA ELLECTRONICA": "SILVIA LÓPEZ GUTIÉRREZ - 1947212376"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "230968765889",
+            "NOMBRES": "SILVIA LÓPEZ GUTIÉRREZ",
+            "CREDITO": "12.463.472",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "383.315",
+            "FIRMA ELLECTRONICA": "SILVIA LÓPEZ GUTIÉRREZ - 1947212376",
+            "AL PIE DE LA FIRMA": "SILVIA LÓPEZ GUTIÉRREZ - 1947212376"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1947212376",
+            "NOMBRES": "SILVIA LÓPEZ GUTIÉRREZ",
+            "FECHA NACIMIENTO": "22/10/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.463.472",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SILVIA LÓPEZ GUTIÉRREZ - 1947212376",
+            "AL PIE DE LA FIRMA": "SILVIA LÓPEZ GUTIÉRREZ - 1947212376"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9378022",
+            "CEDULA": "1947212376",
+            "NOMBRES": "SILVIA LÓPEZ GUTIÉRREZ",
+            "CREDITO": "12.463.472",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "383.315",
+            "E.A": "23.44%",
+            "RECOMPRA O DESEMBOLSO": "4.659.767",
+            "FIRMA ELLECTRONICA": "SILVIA LÓPEZ GUTIÉRREZ - 1947212376"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1947212376",
+            "NOMBRES": "SILVIA LÓPEZ GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "SILVIA LÓPEZ GUTIÉRREZ - 1947212376"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1947212376",
+            "NOMBRES": "SILVIA LÓPEZ GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "SILVIA LÓPEZ GUTIÉRREZ - 1947212376",
+            "AL PIE DE LA FIRMA": "SILVIA LÓPEZ GUTIÉRREZ - 1947212376"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SILVIA LÓPEZ GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1947212376",
+            "NOMBRES": "SILVIA LÓPEZ GUTIÉRREZ",
+            "SALARIO": "4.933.335",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1947212376",
+            "NOMBRES": "SILVIA LÓPEZ GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "4.659.767"
+        }
+    }
+]

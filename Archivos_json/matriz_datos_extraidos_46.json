@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "835366959598",
+            "SOLICITUD": "9068961",
+            "CEDULA": "1138439345",
+            "NOMBRES": "ENRIQUE DIEGO ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.968.338",
+            "FIRMA ELLECTRONICA": "ENRIQUE DIEGO ZAMBRANO - 1138439345"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "835366959598",
+            "NOMBRES": "ENRIQUE DIEGO ZAMBRANO",
+            "CREDITO": "7.151.969",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "202.519",
+            "FIRMA ELLECTRONICA": "ENRIQUE DIEGO ZAMBRANO - 1138439345",
+            "AL PIE DE LA FIRMA": "ENRIQUE DIEGO ZAMBRANO - 1138439345"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1138439345",
+            "NOMBRES": "ENRIQUE DIEGO ZAMBRANO",
+            "FECHA NACIMIENTO": "07/09/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.151.969",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ENRIQUE DIEGO ZAMBRANO - 1138439345",
+            "AL PIE DE LA FIRMA": "ENRIQUE DIEGO ZAMBRANO - 1138439345"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9068961",
+            "CEDULA": "1138439345",
+            "NOMBRES": "ENRIQUE DIEGO ZAMBRANO",
+            "CREDITO": "7.151.969",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "202.519",
+            "E.A": "19.51%",
+            "RECOMPRA O DESEMBOLSO": "4.968.338",
+            "FIRMA ELLECTRONICA": "ENRIQUE DIEGO ZAMBRANO - 1138439345"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1138439345",
+            "NOMBRES": "ENRIQUE DIEGO ZAMBRANO",
+            "FIRMA ELLECTRONICA": "ENRIQUE DIEGO ZAMBRANO - 1138439345"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1138439345",
+            "NOMBRES": "ENRIQUE DIEGO ZAMBRANO",
+            "FIRMA ELLECTRONICA": "ENRIQUE DIEGO ZAMBRANO - 1138439345",
+            "AL PIE DE LA FIRMA": "ENRIQUE DIEGO ZAMBRANO - 1138439345"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE DIEGO ZAMBRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1138439345",
+            "NOMBRES": "ENRIQUE DIEGO ZAMBRANO",
+            "SALARIO": "3.119.547",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1138439345",
+            "NOMBRES": "ENRIQUE DIEGO ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.968.338"
+        }
+    }
+]

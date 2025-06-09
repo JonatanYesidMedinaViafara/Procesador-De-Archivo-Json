@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "702281469089",
+            "SOLICITUD": "7220152",
+            "CEDULA": "1250009885",
+            "NOMBRES": "NELLY GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.500.450",
+            "FIRMA ELLECTRONICA": "NELLY GARCÍA - 1250009885"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "702281469089",
+            "NOMBRES": "NELLY GARCÍA",
+            "CREDITO": "8.408.774",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "250.305",
+            "FIRMA ELLECTRONICA": "NELLY GARCÍA - 1250009885",
+            "AL PIE DE LA FIRMA": "NELLY GARCÍA - 1250009885"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1250009885",
+            "NOMBRES": "NELLY GARCÍA",
+            "FECHA NACIMIENTO": "01/09/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.408.774",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "NELLY GARCÍA - 1250009885",
+            "AL PIE DE LA FIRMA": "NELLY GARCÍA - 1250009885"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7220152",
+            "CEDULA": "1250009885",
+            "NOMBRES": "NELLY GARCÍA",
+            "CREDITO": "8.408.774",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "250.305",
+            "E.A": "24.47%",
+            "RECOMPRA O DESEMBOLSO": "3.500.450",
+            "FIRMA ELLECTRONICA": "NELLY GARCÍA - 1250009885"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1250009885",
+            "NOMBRES": "NELLY GARCÍA",
+            "FIRMA ELLECTRONICA": "NELLY GARCÍA - 1250009885"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1250009885",
+            "NOMBRES": "NELLY GARCÍA",
+            "FIRMA ELLECTRONICA": "NELLY GARCÍA - 1250009885",
+            "AL PIE DE LA FIRMA": "NELLY GARCÍA - 1250009885"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NELLY GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1250009885",
+            "NOMBRES": "NELLY GARCÍA",
+            "SALARIO": "2.589.990",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1250009885",
+            "NOMBRES": "NELLY GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.500.450"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "461739993850",
+            "SOLICITUD": "4339795",
+            "CEDULA": "1141861636",
+            "NOMBRES": "JORGE PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.315.968",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1141861636"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "461739993850",
+            "NOMBRES": "JORGE PÉREZ",
+            "CREDITO": "11.118.594",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "227.409",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1141861636",
+            "AL PIE DE LA FIRMA": "JORGE PÉREZ - 1141861636"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1141861636",
+            "NOMBRES": "JORGE PÉREZ",
+            "FECHA NACIMIENTO": "14/11/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.118.594",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1141861636",
+            "AL PIE DE LA FIRMA": "JORGE PÉREZ - 1141861636"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4339795",
+            "CEDULA": "1141861636",
+            "NOMBRES": "JORGE PÉREZ",
+            "CREDITO": "11.118.594",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "227.409",
+            "E.A": "18.26%",
+            "RECOMPRA O DESEMBOLSO": "3.315.968",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1141861636"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1141861636",
+            "NOMBRES": "JORGE PÉREZ",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1141861636"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1141861636",
+            "NOMBRES": "JORGE PÉREZ",
+            "FIRMA ELLECTRONICA": "JORGE PÉREZ - 1141861636",
+            "AL PIE DE LA FIRMA": "JORGE PÉREZ - 1141861636"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1141861636",
+            "NOMBRES": "JORGE PÉREZ",
+            "SALARIO": "4.448.625",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1141861636",
+            "NOMBRES": "JORGE PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.315.968"
+        }
+    }
+]

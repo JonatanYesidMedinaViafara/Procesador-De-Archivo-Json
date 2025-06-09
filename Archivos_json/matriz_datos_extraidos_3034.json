@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "847219075584",
+            "SOLICITUD": "1814088",
+            "CEDULA": "1773456635",
+            "NOMBRES": "LAURA SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "1.743.392",
+            "FIRMA ELLECTRONICA": "LAURA SANDOVAL - 1773456635"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "847219075584",
+            "NOMBRES": "LAURA SANDOVAL",
+            "CREDITO": "8.438.588",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "257.102",
+            "FIRMA ELLECTRONICA": "LAURA SANDOVAL - 1773456635",
+            "AL PIE DE LA FIRMA": "LAURA SANDOVAL - 1773456635"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1773456635",
+            "NOMBRES": "LAURA SANDOVAL",
+            "FECHA NACIMIENTO": "05/01/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.438.588",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LAURA SANDOVAL - 1773456635",
+            "AL PIE DE LA FIRMA": "LAURA SANDOVAL - 1773456635"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1814088",
+            "CEDULA": "1773456635",
+            "NOMBRES": "LAURA SANDOVAL",
+            "CREDITO": "8.438.588",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "257.102",
+            "E.A": "24.96%",
+            "RECOMPRA O DESEMBOLSO": "1.743.392",
+            "FIRMA ELLECTRONICA": "LAURA SANDOVAL - 1773456635"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1773456635",
+            "NOMBRES": "LAURA SANDOVAL",
+            "FIRMA ELLECTRONICA": "LAURA SANDOVAL - 1773456635"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1773456635",
+            "NOMBRES": "LAURA SANDOVAL",
+            "FIRMA ELLECTRONICA": "LAURA SANDOVAL - 1773456635",
+            "AL PIE DE LA FIRMA": "LAURA SANDOVAL - 1773456635"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA SANDOVAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1773456635",
+            "NOMBRES": "LAURA SANDOVAL",
+            "SALARIO": "2.017.957",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1773456635",
+            "NOMBRES": "LAURA SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "1.743.392"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "792098768579",
+            "SOLICITUD": "5793441",
+            "CEDULA": "1984970495",
+            "NOMBRES": "FERNEY PULIDO",
+            "RECOMPRA O DESEMBOLSO": "2.464.989",
+            "FIRMA ELLECTRONICA": "FERNEY PULIDO - 1984970495"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "792098768579",
+            "NOMBRES": "FERNEY PULIDO",
+            "CREDITO": "9.156.597",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "278.972",
+            "FIRMA ELLECTRONICA": "FERNEY PULIDO - 1984970495",
+            "AL PIE DE LA FIRMA": "FERNEY PULIDO - 1984970495"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1984970495",
+            "NOMBRES": "FERNEY PULIDO",
+            "FECHA NACIMIENTO": "24/08/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.156.597",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNEY PULIDO - 1984970495",
+            "AL PIE DE LA FIRMA": "FERNEY PULIDO - 1984970495"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5793441",
+            "CEDULA": "1984970495",
+            "NOMBRES": "FERNEY PULIDO",
+            "CREDITO": "9.156.597",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "278.972",
+            "E.A": "19.25%",
+            "RECOMPRA O DESEMBOLSO": "2.464.989",
+            "FIRMA ELLECTRONICA": "FERNEY PULIDO - 1984970495"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1984970495",
+            "NOMBRES": "FERNEY PULIDO",
+            "FIRMA ELLECTRONICA": "FERNEY PULIDO - 1984970495"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1984970495",
+            "NOMBRES": "FERNEY PULIDO",
+            "FIRMA ELLECTRONICA": "FERNEY PULIDO - 1984970495",
+            "AL PIE DE LA FIRMA": "FERNEY PULIDO - 1984970495"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNEY PULIDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1984970495",
+            "NOMBRES": "FERNEY PULIDO",
+            "SALARIO": "2.025.321",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1984970495",
+            "NOMBRES": "FERNEY PULIDO",
+            "RECOMPRA O DESEMBOLSO": "2.464.989"
+        }
+    }
+]

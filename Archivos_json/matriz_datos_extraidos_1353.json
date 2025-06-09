@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "567638695021",
+            "SOLICITUD": "1268633",
+            "CEDULA": "1700444981",
+            "NOMBRES": "JOSÉ ROJAS CARDOZO",
+            "RECOMPRA O DESEMBOLSO": "4.457.286",
+            "FIRMA ELLECTRONICA": "JOSÉ ROJAS CARDOZO - 1700444981"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "567638695021",
+            "NOMBRES": "JOSÉ ROJAS CARDOZO",
+            "CREDITO": "17.111.765",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "308.293",
+            "FIRMA ELLECTRONICA": "JOSÉ ROJAS CARDOZO - 1700444981",
+            "AL PIE DE LA FIRMA": "JOSÉ ROJAS CARDOZO - 1700444981"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1700444981",
+            "NOMBRES": "JOSÉ ROJAS CARDOZO",
+            "FECHA NACIMIENTO": "22/01/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.111.765",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ ROJAS CARDOZO - 1700444981",
+            "AL PIE DE LA FIRMA": "JOSÉ ROJAS CARDOZO - 1700444981"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1268633",
+            "CEDULA": "1700444981",
+            "NOMBRES": "JOSÉ ROJAS CARDOZO",
+            "CREDITO": "17.111.765",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "308.293",
+            "E.A": "19.04%",
+            "RECOMPRA O DESEMBOLSO": "4.457.286",
+            "FIRMA ELLECTRONICA": "JOSÉ ROJAS CARDOZO - 1700444981"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1700444981",
+            "NOMBRES": "JOSÉ ROJAS CARDOZO",
+            "FIRMA ELLECTRONICA": "JOSÉ ROJAS CARDOZO - 1700444981"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1700444981",
+            "NOMBRES": "JOSÉ ROJAS CARDOZO",
+            "FIRMA ELLECTRONICA": "JOSÉ ROJAS CARDOZO - 1700444981",
+            "AL PIE DE LA FIRMA": "JOSÉ ROJAS CARDOZO - 1700444981"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ROJAS CARDOZO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1700444981",
+            "NOMBRES": "JOSÉ ROJAS CARDOZO",
+            "SALARIO": "4.878.516",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1700444981",
+            "NOMBRES": "JOSÉ ROJAS CARDOZO",
+            "RECOMPRA O DESEMBOLSO": "4.457.286"
+        }
+    }
+]

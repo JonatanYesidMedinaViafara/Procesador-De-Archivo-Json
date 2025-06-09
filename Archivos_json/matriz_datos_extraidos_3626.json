@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "403510888857",
+            "SOLICITUD": "6758181",
+            "CEDULA": "1006005498",
+            "NOMBRES": "JOHN CASTRO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.374.679",
+            "FIRMA ELLECTRONICA": "JOHN CASTRO SÁNCHEZ - 1006005498"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "403510888857",
+            "NOMBRES": "JOHN CASTRO SÁNCHEZ",
+            "CREDITO": "18.520.034",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "136.801",
+            "FIRMA ELLECTRONICA": "JOHN CASTRO SÁNCHEZ - 1006005498",
+            "AL PIE DE LA FIRMA": "JOHN CASTRO SÁNCHEZ - 1006005498"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1006005498",
+            "NOMBRES": "JOHN CASTRO SÁNCHEZ",
+            "FECHA NACIMIENTO": "13/08/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.520.034",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOHN CASTRO SÁNCHEZ - 1006005498",
+            "AL PIE DE LA FIRMA": "JOHN CASTRO SÁNCHEZ - 1006005498"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6758181",
+            "CEDULA": "1006005498",
+            "NOMBRES": "JOHN CASTRO SÁNCHEZ",
+            "CREDITO": "18.520.034",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "136.801",
+            "E.A": "24.61%",
+            "RECOMPRA O DESEMBOLSO": "3.374.679",
+            "FIRMA ELLECTRONICA": "JOHN CASTRO SÁNCHEZ - 1006005498"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1006005498",
+            "NOMBRES": "JOHN CASTRO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JOHN CASTRO SÁNCHEZ - 1006005498"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1006005498",
+            "NOMBRES": "JOHN CASTRO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JOHN CASTRO SÁNCHEZ - 1006005498",
+            "AL PIE DE LA FIRMA": "JOHN CASTRO SÁNCHEZ - 1006005498"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN CASTRO SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1006005498",
+            "NOMBRES": "JOHN CASTRO SÁNCHEZ",
+            "SALARIO": "3.892.881",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1006005498",
+            "NOMBRES": "JOHN CASTRO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.374.679"
+        }
+    }
+]

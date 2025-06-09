@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "656051411630",
+            "SOLICITUD": "7950591",
+            "CEDULA": "1632698966",
+            "NOMBRES": "AUGUSTO ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "2.588.504",
+            "FIRMA ELLECTRONICA": "AUGUSTO ACOSTA - 1632698966"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "656051411630",
+            "NOMBRES": "AUGUSTO ACOSTA",
+            "CREDITO": "10.506.247",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "223.479",
+            "FIRMA ELLECTRONICA": "AUGUSTO ACOSTA - 1632698966",
+            "AL PIE DE LA FIRMA": "AUGUSTO ACOSTA - 1632698966"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1632698966",
+            "NOMBRES": "AUGUSTO ACOSTA",
+            "FECHA NACIMIENTO": "11/04/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.506.247",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "AUGUSTO ACOSTA - 1632698966",
+            "AL PIE DE LA FIRMA": "AUGUSTO ACOSTA - 1632698966"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7950591",
+            "CEDULA": "1632698966",
+            "NOMBRES": "AUGUSTO ACOSTA",
+            "CREDITO": "10.506.247",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "223.479",
+            "E.A": "19.26%",
+            "RECOMPRA O DESEMBOLSO": "2.588.504",
+            "FIRMA ELLECTRONICA": "AUGUSTO ACOSTA - 1632698966"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1632698966",
+            "NOMBRES": "AUGUSTO ACOSTA",
+            "FIRMA ELLECTRONICA": "AUGUSTO ACOSTA - 1632698966"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1632698966",
+            "NOMBRES": "AUGUSTO ACOSTA",
+            "FIRMA ELLECTRONICA": "AUGUSTO ACOSTA - 1632698966",
+            "AL PIE DE LA FIRMA": "AUGUSTO ACOSTA - 1632698966"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AUGUSTO ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1632698966",
+            "NOMBRES": "AUGUSTO ACOSTA",
+            "SALARIO": "4.580.124",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1632698966",
+            "NOMBRES": "AUGUSTO ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "2.588.504"
+        }
+    }
+]

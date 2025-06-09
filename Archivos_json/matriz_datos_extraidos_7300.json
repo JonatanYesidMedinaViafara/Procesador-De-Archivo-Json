@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "293949030396",
+            "SOLICITUD": "3524207",
+            "CEDULA": "1990275345",
+            "NOMBRES": "HERNÁN GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.138.427",
+            "FIRMA ELLECTRONICA": "HERNÁN GONZÁLEZ - 1990275345"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "293949030396",
+            "NOMBRES": "HERNÁN GONZÁLEZ",
+            "CREDITO": "11.409.938",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "334.898",
+            "FIRMA ELLECTRONICA": "HERNÁN GONZÁLEZ - 1990275345",
+            "AL PIE DE LA FIRMA": "HERNÁN GONZÁLEZ - 1990275345"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1990275345",
+            "NOMBRES": "HERNÁN GONZÁLEZ",
+            "FECHA NACIMIENTO": "04/07/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.409.938",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "HERNÁN GONZÁLEZ - 1990275345",
+            "AL PIE DE LA FIRMA": "HERNÁN GONZÁLEZ - 1990275345"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3524207",
+            "CEDULA": "1990275345",
+            "NOMBRES": "HERNÁN GONZÁLEZ",
+            "CREDITO": "11.409.938",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "334.898",
+            "E.A": "28.26%",
+            "RECOMPRA O DESEMBOLSO": "4.138.427",
+            "FIRMA ELLECTRONICA": "HERNÁN GONZÁLEZ - 1990275345"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1990275345",
+            "NOMBRES": "HERNÁN GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "HERNÁN GONZÁLEZ - 1990275345"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1990275345",
+            "NOMBRES": "HERNÁN GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "HERNÁN GONZÁLEZ - 1990275345",
+            "AL PIE DE LA FIRMA": "HERNÁN GONZÁLEZ - 1990275345"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNÁN GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1990275345",
+            "NOMBRES": "HERNÁN GONZÁLEZ",
+            "SALARIO": "4.742.225",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1990275345",
+            "NOMBRES": "HERNÁN GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.138.427"
+        }
+    }
+]

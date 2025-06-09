@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "163713071475",
+            "SOLICITUD": "4922532",
+            "CEDULA": "1855642955",
+            "NOMBRES": "LICETH ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "2.922.999",
+            "FIRMA ELLECTRONICA": "LICETH ZAPATA - 1855642955"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "163713071475",
+            "NOMBRES": "LICETH ZAPATA",
+            "CREDITO": "12.279.636",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "235.716",
+            "FIRMA ELLECTRONICA": "LICETH ZAPATA - 1855642955",
+            "AL PIE DE LA FIRMA": "LICETH ZAPATA - 1855642955"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1855642955",
+            "NOMBRES": "LICETH ZAPATA",
+            "FECHA NACIMIENTO": "11/02/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.279.636",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LICETH ZAPATA - 1855642955",
+            "AL PIE DE LA FIRMA": "LICETH ZAPATA - 1855642955"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4922532",
+            "CEDULA": "1855642955",
+            "NOMBRES": "LICETH ZAPATA",
+            "CREDITO": "12.279.636",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "235.716",
+            "E.A": "28.25%",
+            "RECOMPRA O DESEMBOLSO": "2.922.999",
+            "FIRMA ELLECTRONICA": "LICETH ZAPATA - 1855642955"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1855642955",
+            "NOMBRES": "LICETH ZAPATA",
+            "FIRMA ELLECTRONICA": "LICETH ZAPATA - 1855642955"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1855642955",
+            "NOMBRES": "LICETH ZAPATA",
+            "FIRMA ELLECTRONICA": "LICETH ZAPATA - 1855642955",
+            "AL PIE DE LA FIRMA": "LICETH ZAPATA - 1855642955"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LICETH ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1855642955",
+            "NOMBRES": "LICETH ZAPATA",
+            "SALARIO": "3.466.138",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1855642955",
+            "NOMBRES": "LICETH ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "2.922.999"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "563238002189",
+            "SOLICITUD": "7020565",
+            "CEDULA": "1736796485",
+            "NOMBRES": "LAURA LILIANA MERCADO",
+            "RECOMPRA O DESEMBOLSO": "4.111.440",
+            "FIRMA ELLECTRONICA": "LAURA LILIANA MERCADO - 1736796485"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "563238002189",
+            "NOMBRES": "LAURA LILIANA MERCADO",
+            "CREDITO": "13.187.341",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "173.971",
+            "FIRMA ELLECTRONICA": "LAURA LILIANA MERCADO - 1736796485",
+            "AL PIE DE LA FIRMA": "LAURA LILIANA MERCADO - 1736796485"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1736796485",
+            "NOMBRES": "LAURA LILIANA MERCADO",
+            "FECHA NACIMIENTO": "26/05/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.187.341",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LAURA LILIANA MERCADO - 1736796485",
+            "AL PIE DE LA FIRMA": "LAURA LILIANA MERCADO - 1736796485"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7020565",
+            "CEDULA": "1736796485",
+            "NOMBRES": "LAURA LILIANA MERCADO",
+            "CREDITO": "13.187.341",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "173.971",
+            "E.A": "28.97%",
+            "RECOMPRA O DESEMBOLSO": "4.111.440",
+            "FIRMA ELLECTRONICA": "LAURA LILIANA MERCADO - 1736796485"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1736796485",
+            "NOMBRES": "LAURA LILIANA MERCADO",
+            "FIRMA ELLECTRONICA": "LAURA LILIANA MERCADO - 1736796485"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1736796485",
+            "NOMBRES": "LAURA LILIANA MERCADO",
+            "FIRMA ELLECTRONICA": "LAURA LILIANA MERCADO - 1736796485",
+            "AL PIE DE LA FIRMA": "LAURA LILIANA MERCADO - 1736796485"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA LILIANA MERCADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1736796485",
+            "NOMBRES": "LAURA LILIANA MERCADO",
+            "SALARIO": "4.210.481",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1736796485",
+            "NOMBRES": "LAURA LILIANA MERCADO",
+            "RECOMPRA O DESEMBOLSO": "4.111.440"
+        }
+    }
+]

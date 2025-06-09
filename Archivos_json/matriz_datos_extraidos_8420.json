@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "593445714895",
+            "SOLICITUD": "7393220",
+            "CEDULA": "1023519543",
+            "NOMBRES": "ANA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.997.418",
+            "FIRMA ELLECTRONICA": "ANA RUIZ - 1023519543"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "593445714895",
+            "NOMBRES": "ANA RUIZ",
+            "CREDITO": "19.725.481",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "367.134",
+            "FIRMA ELLECTRONICA": "ANA RUIZ - 1023519543",
+            "AL PIE DE LA FIRMA": "ANA RUIZ - 1023519543"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1023519543",
+            "NOMBRES": "ANA RUIZ",
+            "FECHA NACIMIENTO": "26/02/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.725.481",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANA RUIZ - 1023519543",
+            "AL PIE DE LA FIRMA": "ANA RUIZ - 1023519543"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7393220",
+            "CEDULA": "1023519543",
+            "NOMBRES": "ANA RUIZ",
+            "CREDITO": "19.725.481",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "367.134",
+            "E.A": "28.7%",
+            "RECOMPRA O DESEMBOLSO": "1.997.418",
+            "FIRMA ELLECTRONICA": "ANA RUIZ - 1023519543"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1023519543",
+            "NOMBRES": "ANA RUIZ",
+            "FIRMA ELLECTRONICA": "ANA RUIZ - 1023519543"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1023519543",
+            "NOMBRES": "ANA RUIZ",
+            "FIRMA ELLECTRONICA": "ANA RUIZ - 1023519543",
+            "AL PIE DE LA FIRMA": "ANA RUIZ - 1023519543"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1023519543",
+            "NOMBRES": "ANA RUIZ",
+            "SALARIO": "1.671.553",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1023519543",
+            "NOMBRES": "ANA RUIZ",
+            "RECOMPRA O DESEMBOLSO": "1.997.418"
+        }
+    }
+]

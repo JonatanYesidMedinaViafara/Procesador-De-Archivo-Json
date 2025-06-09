@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "455114662335",
+            "SOLICITUD": "3911729",
+            "CEDULA": "1218152241",
+            "NOMBRES": "LUIS JOEL PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.641.056",
+            "FIRMA ELLECTRONICA": "LUIS JOEL PÉREZ - 1218152241"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "455114662335",
+            "NOMBRES": "LUIS JOEL PÉREZ",
+            "CREDITO": "19.779.556",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "139.384",
+            "FIRMA ELLECTRONICA": "LUIS JOEL PÉREZ - 1218152241",
+            "AL PIE DE LA FIRMA": "LUIS JOEL PÉREZ - 1218152241"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1218152241",
+            "NOMBRES": "LUIS JOEL PÉREZ",
+            "FECHA NACIMIENTO": "12/07/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.779.556",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUIS JOEL PÉREZ - 1218152241",
+            "AL PIE DE LA FIRMA": "LUIS JOEL PÉREZ - 1218152241"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3911729",
+            "CEDULA": "1218152241",
+            "NOMBRES": "LUIS JOEL PÉREZ",
+            "CREDITO": "19.779.556",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "139.384",
+            "E.A": "28.73%",
+            "RECOMPRA O DESEMBOLSO": "1.641.056",
+            "FIRMA ELLECTRONICA": "LUIS JOEL PÉREZ - 1218152241"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1218152241",
+            "NOMBRES": "LUIS JOEL PÉREZ",
+            "FIRMA ELLECTRONICA": "LUIS JOEL PÉREZ - 1218152241"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1218152241",
+            "NOMBRES": "LUIS JOEL PÉREZ",
+            "FIRMA ELLECTRONICA": "LUIS JOEL PÉREZ - 1218152241",
+            "AL PIE DE LA FIRMA": "LUIS JOEL PÉREZ - 1218152241"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS JOEL PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1218152241",
+            "NOMBRES": "LUIS JOEL PÉREZ",
+            "SALARIO": "4.168.929",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1218152241",
+            "NOMBRES": "LUIS JOEL PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.641.056"
+        }
+    }
+]

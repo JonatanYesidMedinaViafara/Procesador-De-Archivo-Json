@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "955431570265",
+            "SOLICITUD": "2520287",
+            "CEDULA": "1043547778",
+            "NOMBRES": "ELENA MURILLO",
+            "RECOMPRA O DESEMBOLSO": "4.516.021",
+            "FIRMA ELLECTRONICA": "ELENA MURILLO - 1043547778"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "955431570265",
+            "NOMBRES": "ELENA MURILLO",
+            "CREDITO": "7.077.593",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "184.244",
+            "FIRMA ELLECTRONICA": "ELENA MURILLO - 1043547778",
+            "AL PIE DE LA FIRMA": "ELENA MURILLO - 1043547778"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1043547778",
+            "NOMBRES": "ELENA MURILLO",
+            "FECHA NACIMIENTO": "07/03/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.077.593",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ELENA MURILLO - 1043547778",
+            "AL PIE DE LA FIRMA": "ELENA MURILLO - 1043547778"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2520287",
+            "CEDULA": "1043547778",
+            "NOMBRES": "ELENA MURILLO",
+            "CREDITO": "7.077.593",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "184.244",
+            "E.A": "27.07%",
+            "RECOMPRA O DESEMBOLSO": "4.516.021",
+            "FIRMA ELLECTRONICA": "ELENA MURILLO - 1043547778"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1043547778",
+            "NOMBRES": "ELENA MURILLO",
+            "FIRMA ELLECTRONICA": "ELENA MURILLO - 1043547778"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1043547778",
+            "NOMBRES": "ELENA MURILLO",
+            "FIRMA ELLECTRONICA": "ELENA MURILLO - 1043547778",
+            "AL PIE DE LA FIRMA": "ELENA MURILLO - 1043547778"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA MURILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1043547778",
+            "NOMBRES": "ELENA MURILLO",
+            "SALARIO": "2.796.152",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1043547778",
+            "NOMBRES": "ELENA MURILLO",
+            "RECOMPRA O DESEMBOLSO": "4.516.021"
+        }
+    }
+]

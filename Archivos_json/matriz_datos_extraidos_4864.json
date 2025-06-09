@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "547523886938",
+            "SOLICITUD": "2180732",
+            "CEDULA": "1494053828",
+            "NOMBRES": "JOHN RICARDO PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.170.775",
+            "FIRMA ELLECTRONICA": "JOHN RICARDO PEÑA - 1494053828"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "547523886938",
+            "NOMBRES": "JOHN RICARDO PEÑA",
+            "CREDITO": "7.803.385",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "106.515",
+            "FIRMA ELLECTRONICA": "JOHN RICARDO PEÑA - 1494053828",
+            "AL PIE DE LA FIRMA": "JOHN RICARDO PEÑA - 1494053828"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1494053828",
+            "NOMBRES": "JOHN RICARDO PEÑA",
+            "FECHA NACIMIENTO": "16/08/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.803.385",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOHN RICARDO PEÑA - 1494053828",
+            "AL PIE DE LA FIRMA": "JOHN RICARDO PEÑA - 1494053828"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2180732",
+            "CEDULA": "1494053828",
+            "NOMBRES": "JOHN RICARDO PEÑA",
+            "CREDITO": "7.803.385",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "106.515",
+            "E.A": "26.86%",
+            "RECOMPRA O DESEMBOLSO": "1.170.775",
+            "FIRMA ELLECTRONICA": "JOHN RICARDO PEÑA - 1494053828"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1494053828",
+            "NOMBRES": "JOHN RICARDO PEÑA",
+            "FIRMA ELLECTRONICA": "JOHN RICARDO PEÑA - 1494053828"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1494053828",
+            "NOMBRES": "JOHN RICARDO PEÑA",
+            "FIRMA ELLECTRONICA": "JOHN RICARDO PEÑA - 1494053828",
+            "AL PIE DE LA FIRMA": "JOHN RICARDO PEÑA - 1494053828"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN RICARDO PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1494053828",
+            "NOMBRES": "JOHN RICARDO PEÑA",
+            "SALARIO": "3.722.263",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1494053828",
+            "NOMBRES": "JOHN RICARDO PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.170.775"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "440839875645",
+            "SOLICITUD": "6751529",
+            "CEDULA": "1888804475",
+            "NOMBRES": "ALBERTO ÓSCAR LEÓN",
+            "RECOMPRA O DESEMBOLSO": "1.552.308",
+            "FIRMA ELLECTRONICA": "ALBERTO ÓSCAR LEÓN - 1888804475"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "440839875645",
+            "NOMBRES": "ALBERTO ÓSCAR LEÓN",
+            "CREDITO": "10.762.482",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "271.472",
+            "FIRMA ELLECTRONICA": "ALBERTO ÓSCAR LEÓN - 1888804475",
+            "AL PIE DE LA FIRMA": "ALBERTO ÓSCAR LEÓN - 1888804475"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1888804475",
+            "NOMBRES": "ALBERTO ÓSCAR LEÓN",
+            "FECHA NACIMIENTO": "08/06/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.762.482",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALBERTO ÓSCAR LEÓN - 1888804475",
+            "AL PIE DE LA FIRMA": "ALBERTO ÓSCAR LEÓN - 1888804475"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6751529",
+            "CEDULA": "1888804475",
+            "NOMBRES": "ALBERTO ÓSCAR LEÓN",
+            "CREDITO": "10.762.482",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "271.472",
+            "E.A": "20.59%",
+            "RECOMPRA O DESEMBOLSO": "1.552.308",
+            "FIRMA ELLECTRONICA": "ALBERTO ÓSCAR LEÓN - 1888804475"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1888804475",
+            "NOMBRES": "ALBERTO ÓSCAR LEÓN",
+            "FIRMA ELLECTRONICA": "ALBERTO ÓSCAR LEÓN - 1888804475"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1888804475",
+            "NOMBRES": "ALBERTO ÓSCAR LEÓN",
+            "FIRMA ELLECTRONICA": "ALBERTO ÓSCAR LEÓN - 1888804475",
+            "AL PIE DE LA FIRMA": "ALBERTO ÓSCAR LEÓN - 1888804475"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO ÓSCAR LEÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1888804475",
+            "NOMBRES": "ALBERTO ÓSCAR LEÓN",
+            "SALARIO": "3.485.634",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1888804475",
+            "NOMBRES": "ALBERTO ÓSCAR LEÓN",
+            "RECOMPRA O DESEMBOLSO": "1.552.308"
+        }
+    }
+]

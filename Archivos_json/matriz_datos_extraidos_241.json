@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "447771712363",
+            "SOLICITUD": "8690047",
+            "CEDULA": "1834746769",
+            "NOMBRES": "EDGAR FABIÁN RODRÍGUEZ CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.192.795",
+            "FIRMA ELLECTRONICA": "EDGAR FABIÁN RODRÍGUEZ CASTILLO - 1834746769"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "447771712363",
+            "NOMBRES": "EDGAR FABIÁN RODRÍGUEZ CASTILLO",
+            "CREDITO": "15.508.999",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "113.694",
+            "FIRMA ELLECTRONICA": "EDGAR FABIÁN RODRÍGUEZ CASTILLO - 1834746769",
+            "AL PIE DE LA FIRMA": "EDGAR FABIÁN RODRÍGUEZ CASTILLO - 1834746769"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1834746769",
+            "NOMBRES": "EDGAR FABIÁN RODRÍGUEZ CASTILLO",
+            "FECHA NACIMIENTO": "13/07/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.508.999",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EDGAR FABIÁN RODRÍGUEZ CASTILLO - 1834746769",
+            "AL PIE DE LA FIRMA": "EDGAR FABIÁN RODRÍGUEZ CASTILLO - 1834746769"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8690047",
+            "CEDULA": "1834746769",
+            "NOMBRES": "EDGAR FABIÁN RODRÍGUEZ CASTILLO",
+            "CREDITO": "15.508.999",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "113.694",
+            "E.A": "25.63%",
+            "RECOMPRA O DESEMBOLSO": "4.192.795",
+            "FIRMA ELLECTRONICA": "EDGAR FABIÁN RODRÍGUEZ CASTILLO - 1834746769"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1834746769",
+            "NOMBRES": "EDGAR FABIÁN RODRÍGUEZ CASTILLO",
+            "FIRMA ELLECTRONICA": "EDGAR FABIÁN RODRÍGUEZ CASTILLO - 1834746769"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1834746769",
+            "NOMBRES": "EDGAR FABIÁN RODRÍGUEZ CASTILLO",
+            "FIRMA ELLECTRONICA": "EDGAR FABIÁN RODRÍGUEZ CASTILLO - 1834746769",
+            "AL PIE DE LA FIRMA": "EDGAR FABIÁN RODRÍGUEZ CASTILLO - 1834746769"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDGAR FABIÁN RODRÍGUEZ CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1834746769",
+            "NOMBRES": "EDGAR FABIÁN RODRÍGUEZ CASTILLO",
+            "SALARIO": "3.503.012",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1834746769",
+            "NOMBRES": "EDGAR FABIÁN RODRÍGUEZ CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "4.192.795"
+        }
+    }
+]

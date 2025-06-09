@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "665582173658",
+            "SOLICITUD": "2392086",
+            "CEDULA": "1052096646",
+            "NOMBRES": "ISABEL OMAIRA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.530.480",
+            "FIRMA ELLECTRONICA": "ISABEL OMAIRA DÍAZ - 1052096646"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "665582173658",
+            "NOMBRES": "ISABEL OMAIRA DÍAZ",
+            "CREDITO": "7.671.365",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "232.217",
+            "FIRMA ELLECTRONICA": "ISABEL OMAIRA DÍAZ - 1052096646",
+            "AL PIE DE LA FIRMA": "ISABEL OMAIRA DÍAZ - 1052096646"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1052096646",
+            "NOMBRES": "ISABEL OMAIRA DÍAZ",
+            "FECHA NACIMIENTO": "28/05/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.671.365",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ISABEL OMAIRA DÍAZ - 1052096646",
+            "AL PIE DE LA FIRMA": "ISABEL OMAIRA DÍAZ - 1052096646"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2392086",
+            "CEDULA": "1052096646",
+            "NOMBRES": "ISABEL OMAIRA DÍAZ",
+            "CREDITO": "7.671.365",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "232.217",
+            "E.A": "27.86%",
+            "RECOMPRA O DESEMBOLSO": "3.530.480",
+            "FIRMA ELLECTRONICA": "ISABEL OMAIRA DÍAZ - 1052096646"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1052096646",
+            "NOMBRES": "ISABEL OMAIRA DÍAZ",
+            "FIRMA ELLECTRONICA": "ISABEL OMAIRA DÍAZ - 1052096646"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1052096646",
+            "NOMBRES": "ISABEL OMAIRA DÍAZ",
+            "FIRMA ELLECTRONICA": "ISABEL OMAIRA DÍAZ - 1052096646",
+            "AL PIE DE LA FIRMA": "ISABEL OMAIRA DÍAZ - 1052096646"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL OMAIRA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1052096646",
+            "NOMBRES": "ISABEL OMAIRA DÍAZ",
+            "SALARIO": "2.460.063",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1052096646",
+            "NOMBRES": "ISABEL OMAIRA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.530.480"
+        }
+    }
+]

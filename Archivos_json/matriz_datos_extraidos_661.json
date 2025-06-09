@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "907035471336",
+            "SOLICITUD": "8033213",
+            "CEDULA": "1318453923",
+            "NOMBRES": "LEONEL ALBERTO FRANCO",
+            "RECOMPRA O DESEMBOLSO": "3.553.009",
+            "FIRMA ELLECTRONICA": "LEONEL ALBERTO FRANCO - 1318453923"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "907035471336",
+            "NOMBRES": "LEONEL ALBERTO FRANCO",
+            "CREDITO": "12.883.071",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "145.172",
+            "FIRMA ELLECTRONICA": "LEONEL ALBERTO FRANCO - 1318453923",
+            "AL PIE DE LA FIRMA": "LEONEL ALBERTO FRANCO - 1318453923"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1318453923",
+            "NOMBRES": "LEONEL ALBERTO FRANCO",
+            "FECHA NACIMIENTO": "12/05/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.883.071",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LEONEL ALBERTO FRANCO - 1318453923",
+            "AL PIE DE LA FIRMA": "LEONEL ALBERTO FRANCO - 1318453923"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8033213",
+            "CEDULA": "1318453923",
+            "NOMBRES": "LEONEL ALBERTO FRANCO",
+            "CREDITO": "12.883.071",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "145.172",
+            "E.A": "20.79%",
+            "RECOMPRA O DESEMBOLSO": "3.553.009",
+            "FIRMA ELLECTRONICA": "LEONEL ALBERTO FRANCO - 1318453923"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1318453923",
+            "NOMBRES": "LEONEL ALBERTO FRANCO",
+            "FIRMA ELLECTRONICA": "LEONEL ALBERTO FRANCO - 1318453923"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1318453923",
+            "NOMBRES": "LEONEL ALBERTO FRANCO",
+            "FIRMA ELLECTRONICA": "LEONEL ALBERTO FRANCO - 1318453923",
+            "AL PIE DE LA FIRMA": "LEONEL ALBERTO FRANCO - 1318453923"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEONEL ALBERTO FRANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1318453923",
+            "NOMBRES": "LEONEL ALBERTO FRANCO",
+            "SALARIO": "2.542.051",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1318453923",
+            "NOMBRES": "LEONEL ALBERTO FRANCO",
+            "RECOMPRA O DESEMBOLSO": "3.553.009"
+        }
+    }
+]

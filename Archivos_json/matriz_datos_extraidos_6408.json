@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "916702555608",
+            "SOLICITUD": "6781916",
+            "CEDULA": "1354868707",
+            "NOMBRES": "LUIS MORENO PAZ",
+            "RECOMPRA O DESEMBOLSO": "2.874.330",
+            "FIRMA ELLECTRONICA": "LUIS MORENO PAZ - 1354868707"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "916702555608",
+            "NOMBRES": "LUIS MORENO PAZ",
+            "CREDITO": "5.933.623",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "130.933",
+            "FIRMA ELLECTRONICA": "LUIS MORENO PAZ - 1354868707",
+            "AL PIE DE LA FIRMA": "LUIS MORENO PAZ - 1354868707"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1354868707",
+            "NOMBRES": "LUIS MORENO PAZ",
+            "FECHA NACIMIENTO": "14/06/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.933.623",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUIS MORENO PAZ - 1354868707",
+            "AL PIE DE LA FIRMA": "LUIS MORENO PAZ - 1354868707"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6781916",
+            "CEDULA": "1354868707",
+            "NOMBRES": "LUIS MORENO PAZ",
+            "CREDITO": "5.933.623",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "130.933",
+            "E.A": "26.92%",
+            "RECOMPRA O DESEMBOLSO": "2.874.330",
+            "FIRMA ELLECTRONICA": "LUIS MORENO PAZ - 1354868707"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1354868707",
+            "NOMBRES": "LUIS MORENO PAZ",
+            "FIRMA ELLECTRONICA": "LUIS MORENO PAZ - 1354868707"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1354868707",
+            "NOMBRES": "LUIS MORENO PAZ",
+            "FIRMA ELLECTRONICA": "LUIS MORENO PAZ - 1354868707",
+            "AL PIE DE LA FIRMA": "LUIS MORENO PAZ - 1354868707"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS MORENO PAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1354868707",
+            "NOMBRES": "LUIS MORENO PAZ",
+            "SALARIO": "1.171.422",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1354868707",
+            "NOMBRES": "LUIS MORENO PAZ",
+            "RECOMPRA O DESEMBOLSO": "2.874.330"
+        }
+    }
+]

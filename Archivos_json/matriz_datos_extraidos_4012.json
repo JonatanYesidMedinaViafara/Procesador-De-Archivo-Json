@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "376231297829",
+            "SOLICITUD": "1094181",
+            "CEDULA": "1079123420",
+            "NOMBRES": "LUIS ANDRÉS RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.352.860",
+            "FIRMA ELLECTRONICA": "LUIS ANDRÉS RODRÍGUEZ - 1079123420"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "376231297829",
+            "NOMBRES": "LUIS ANDRÉS RODRÍGUEZ",
+            "CREDITO": "6.543.723",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "173.011",
+            "FIRMA ELLECTRONICA": "LUIS ANDRÉS RODRÍGUEZ - 1079123420",
+            "AL PIE DE LA FIRMA": "LUIS ANDRÉS RODRÍGUEZ - 1079123420"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1079123420",
+            "NOMBRES": "LUIS ANDRÉS RODRÍGUEZ",
+            "FECHA NACIMIENTO": "30/08/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.543.723",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUIS ANDRÉS RODRÍGUEZ - 1079123420",
+            "AL PIE DE LA FIRMA": "LUIS ANDRÉS RODRÍGUEZ - 1079123420"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1094181",
+            "CEDULA": "1079123420",
+            "NOMBRES": "LUIS ANDRÉS RODRÍGUEZ",
+            "CREDITO": "6.543.723",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "173.011",
+            "E.A": "22.34%",
+            "RECOMPRA O DESEMBOLSO": "2.352.860",
+            "FIRMA ELLECTRONICA": "LUIS ANDRÉS RODRÍGUEZ - 1079123420"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1079123420",
+            "NOMBRES": "LUIS ANDRÉS RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LUIS ANDRÉS RODRÍGUEZ - 1079123420"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1079123420",
+            "NOMBRES": "LUIS ANDRÉS RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "LUIS ANDRÉS RODRÍGUEZ - 1079123420",
+            "AL PIE DE LA FIRMA": "LUIS ANDRÉS RODRÍGUEZ - 1079123420"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS ANDRÉS RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1079123420",
+            "NOMBRES": "LUIS ANDRÉS RODRÍGUEZ",
+            "SALARIO": "2.911.456",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1079123420",
+            "NOMBRES": "LUIS ANDRÉS RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.352.860"
+        }
+    }
+]

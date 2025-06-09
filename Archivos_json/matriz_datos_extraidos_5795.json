@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "111941397815",
+            "SOLICITUD": "3395441",
+            "CEDULA": "1844378242",
+            "NOMBRES": "ANDRÉS GÓMEZ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.606.640",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ MARTÍNEZ - 1844378242"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "111941397815",
+            "NOMBRES": "ANDRÉS GÓMEZ MARTÍNEZ",
+            "CREDITO": "19.564.167",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "376.2",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ MARTÍNEZ - 1844378242",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ MARTÍNEZ - 1844378242"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1844378242",
+            "NOMBRES": "ANDRÉS GÓMEZ MARTÍNEZ",
+            "FECHA NACIMIENTO": "29/01/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.564.167",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ MARTÍNEZ - 1844378242",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ MARTÍNEZ - 1844378242"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3395441",
+            "CEDULA": "1844378242",
+            "NOMBRES": "ANDRÉS GÓMEZ MARTÍNEZ",
+            "CREDITO": "19.564.167",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "376.2",
+            "E.A": "21.94%",
+            "RECOMPRA O DESEMBOLSO": "1.606.640",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ MARTÍNEZ - 1844378242"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1844378242",
+            "NOMBRES": "ANDRÉS GÓMEZ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ MARTÍNEZ - 1844378242"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1844378242",
+            "NOMBRES": "ANDRÉS GÓMEZ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ MARTÍNEZ - 1844378242",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ MARTÍNEZ - 1844378242"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS GÓMEZ MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1844378242",
+            "NOMBRES": "ANDRÉS GÓMEZ MARTÍNEZ",
+            "SALARIO": "3.017.405",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1844378242",
+            "NOMBRES": "ANDRÉS GÓMEZ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.606.640"
+        }
+    }
+]

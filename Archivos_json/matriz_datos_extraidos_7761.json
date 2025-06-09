@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "522541078708",
+            "SOLICITUD": "2642386",
+            "CEDULA": "1371402480",
+            "NOMBRES": "MARÍA VALENTINA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.353.754",
+            "FIRMA ELLECTRONICA": "MARÍA VALENTINA GARCÍA - 1371402480"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "522541078708",
+            "NOMBRES": "MARÍA VALENTINA GARCÍA",
+            "CREDITO": "11.843.485",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "311.73",
+            "FIRMA ELLECTRONICA": "MARÍA VALENTINA GARCÍA - 1371402480",
+            "AL PIE DE LA FIRMA": "MARÍA VALENTINA GARCÍA - 1371402480"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1371402480",
+            "NOMBRES": "MARÍA VALENTINA GARCÍA",
+            "FECHA NACIMIENTO": "21/07/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.843.485",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA VALENTINA GARCÍA - 1371402480",
+            "AL PIE DE LA FIRMA": "MARÍA VALENTINA GARCÍA - 1371402480"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2642386",
+            "CEDULA": "1371402480",
+            "NOMBRES": "MARÍA VALENTINA GARCÍA",
+            "CREDITO": "11.843.485",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "311.73",
+            "E.A": "23.65%",
+            "RECOMPRA O DESEMBOLSO": "3.353.754",
+            "FIRMA ELLECTRONICA": "MARÍA VALENTINA GARCÍA - 1371402480"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1371402480",
+            "NOMBRES": "MARÍA VALENTINA GARCÍA",
+            "FIRMA ELLECTRONICA": "MARÍA VALENTINA GARCÍA - 1371402480"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1371402480",
+            "NOMBRES": "MARÍA VALENTINA GARCÍA",
+            "FIRMA ELLECTRONICA": "MARÍA VALENTINA GARCÍA - 1371402480",
+            "AL PIE DE LA FIRMA": "MARÍA VALENTINA GARCÍA - 1371402480"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA VALENTINA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1371402480",
+            "NOMBRES": "MARÍA VALENTINA GARCÍA",
+            "SALARIO": "2.096.984",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1371402480",
+            "NOMBRES": "MARÍA VALENTINA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.353.754"
+        }
+    }
+]

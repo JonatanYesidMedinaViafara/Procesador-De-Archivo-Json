@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "922885343454",
+            "SOLICITUD": "3460649",
+            "CEDULA": "1204291322",
+            "NOMBRES": "MARY MENDOZA ARANGO",
+            "RECOMPRA O DESEMBOLSO": "1.391.511",
+            "FIRMA ELLECTRONICA": "MARY MENDOZA ARANGO - 1204291322"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "922885343454",
+            "NOMBRES": "MARY MENDOZA ARANGO",
+            "CREDITO": "17.497.048",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "104.689",
+            "FIRMA ELLECTRONICA": "MARY MENDOZA ARANGO - 1204291322",
+            "AL PIE DE LA FIRMA": "MARY MENDOZA ARANGO - 1204291322"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1204291322",
+            "NOMBRES": "MARY MENDOZA ARANGO",
+            "FECHA NACIMIENTO": "27/04/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.497.048",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARY MENDOZA ARANGO - 1204291322",
+            "AL PIE DE LA FIRMA": "MARY MENDOZA ARANGO - 1204291322"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3460649",
+            "CEDULA": "1204291322",
+            "NOMBRES": "MARY MENDOZA ARANGO",
+            "CREDITO": "17.497.048",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "104.689",
+            "E.A": "27.32%",
+            "RECOMPRA O DESEMBOLSO": "1.391.511",
+            "FIRMA ELLECTRONICA": "MARY MENDOZA ARANGO - 1204291322"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1204291322",
+            "NOMBRES": "MARY MENDOZA ARANGO",
+            "FIRMA ELLECTRONICA": "MARY MENDOZA ARANGO - 1204291322"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1204291322",
+            "NOMBRES": "MARY MENDOZA ARANGO",
+            "FIRMA ELLECTRONICA": "MARY MENDOZA ARANGO - 1204291322",
+            "AL PIE DE LA FIRMA": "MARY MENDOZA ARANGO - 1204291322"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARY MENDOZA ARANGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1204291322",
+            "NOMBRES": "MARY MENDOZA ARANGO",
+            "SALARIO": "1.148.355",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1204291322",
+            "NOMBRES": "MARY MENDOZA ARANGO",
+            "RECOMPRA O DESEMBOLSO": "1.391.511"
+        }
+    }
+]

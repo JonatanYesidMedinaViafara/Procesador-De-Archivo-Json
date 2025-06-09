@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "876611290560",
+            "SOLICITUD": "4684722",
+            "CEDULA": "1342553232",
+            "NOMBRES": "WILMER PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.127.384",
+            "FIRMA ELLECTRONICA": "WILMER PÉREZ - 1342553232"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "876611290560",
+            "NOMBRES": "WILMER PÉREZ",
+            "CREDITO": "16.074.131",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "295.599",
+            "FIRMA ELLECTRONICA": "WILMER PÉREZ - 1342553232",
+            "AL PIE DE LA FIRMA": "WILMER PÉREZ - 1342553232"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1342553232",
+            "NOMBRES": "WILMER PÉREZ",
+            "FECHA NACIMIENTO": "05/05/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.074.131",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "WILMER PÉREZ - 1342553232",
+            "AL PIE DE LA FIRMA": "WILMER PÉREZ - 1342553232"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4684722",
+            "CEDULA": "1342553232",
+            "NOMBRES": "WILMER PÉREZ",
+            "CREDITO": "16.074.131",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "295.599",
+            "E.A": "18.36%",
+            "RECOMPRA O DESEMBOLSO": "3.127.384",
+            "FIRMA ELLECTRONICA": "WILMER PÉREZ - 1342553232"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1342553232",
+            "NOMBRES": "WILMER PÉREZ",
+            "FIRMA ELLECTRONICA": "WILMER PÉREZ - 1342553232"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1342553232",
+            "NOMBRES": "WILMER PÉREZ",
+            "FIRMA ELLECTRONICA": "WILMER PÉREZ - 1342553232",
+            "AL PIE DE LA FIRMA": "WILMER PÉREZ - 1342553232"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WILMER PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1342553232",
+            "NOMBRES": "WILMER PÉREZ",
+            "SALARIO": "3.787.313",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1342553232",
+            "NOMBRES": "WILMER PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.127.384"
+        }
+    }
+]

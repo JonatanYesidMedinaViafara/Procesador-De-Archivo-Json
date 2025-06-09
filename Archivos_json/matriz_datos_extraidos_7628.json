@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "251239864977",
+            "SOLICITUD": "5349373",
+            "CEDULA": "1351491488",
+            "NOMBRES": "DIANA CRUZ PINTO",
+            "RECOMPRA O DESEMBOLSO": "2.048.314",
+            "FIRMA ELLECTRONICA": "DIANA CRUZ PINTO - 1351491488"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "251239864977",
+            "NOMBRES": "DIANA CRUZ PINTO",
+            "CREDITO": "6.804.063",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "157.179",
+            "FIRMA ELLECTRONICA": "DIANA CRUZ PINTO - 1351491488",
+            "AL PIE DE LA FIRMA": "DIANA CRUZ PINTO - 1351491488"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1351491488",
+            "NOMBRES": "DIANA CRUZ PINTO",
+            "FECHA NACIMIENTO": "04/04/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.804.063",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DIANA CRUZ PINTO - 1351491488",
+            "AL PIE DE LA FIRMA": "DIANA CRUZ PINTO - 1351491488"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5349373",
+            "CEDULA": "1351491488",
+            "NOMBRES": "DIANA CRUZ PINTO",
+            "CREDITO": "6.804.063",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "157.179",
+            "E.A": "22.81%",
+            "RECOMPRA O DESEMBOLSO": "2.048.314",
+            "FIRMA ELLECTRONICA": "DIANA CRUZ PINTO - 1351491488"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1351491488",
+            "NOMBRES": "DIANA CRUZ PINTO",
+            "FIRMA ELLECTRONICA": "DIANA CRUZ PINTO - 1351491488"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1351491488",
+            "NOMBRES": "DIANA CRUZ PINTO",
+            "FIRMA ELLECTRONICA": "DIANA CRUZ PINTO - 1351491488",
+            "AL PIE DE LA FIRMA": "DIANA CRUZ PINTO - 1351491488"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA CRUZ PINTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1351491488",
+            "NOMBRES": "DIANA CRUZ PINTO",
+            "SALARIO": "2.822.943",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1351491488",
+            "NOMBRES": "DIANA CRUZ PINTO",
+            "RECOMPRA O DESEMBOLSO": "2.048.314"
+        }
+    }
+]

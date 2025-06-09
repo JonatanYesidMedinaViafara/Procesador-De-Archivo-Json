@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "123292895825",
+            "SOLICITUD": "8160030",
+            "CEDULA": "1523365067",
+            "NOMBRES": "NANCY JUDITH GÓMEZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.232.128",
+            "FIRMA ELLECTRONICA": "NANCY JUDITH GÓMEZ MEDINA - 1523365067"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "123292895825",
+            "NOMBRES": "NANCY JUDITH GÓMEZ MEDINA",
+            "CREDITO": "19.972.488",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.787",
+            "FIRMA ELLECTRONICA": "NANCY JUDITH GÓMEZ MEDINA - 1523365067",
+            "AL PIE DE LA FIRMA": "NANCY JUDITH GÓMEZ MEDINA - 1523365067"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1523365067",
+            "NOMBRES": "NANCY JUDITH GÓMEZ MEDINA",
+            "FECHA NACIMIENTO": "20/07/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.972.488",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "NANCY JUDITH GÓMEZ MEDINA - 1523365067",
+            "AL PIE DE LA FIRMA": "NANCY JUDITH GÓMEZ MEDINA - 1523365067"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8160030",
+            "CEDULA": "1523365067",
+            "NOMBRES": "NANCY JUDITH GÓMEZ MEDINA",
+            "CREDITO": "19.972.488",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "370.787",
+            "E.A": "28.34%",
+            "RECOMPRA O DESEMBOLSO": "3.232.128",
+            "FIRMA ELLECTRONICA": "NANCY JUDITH GÓMEZ MEDINA - 1523365067"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1523365067",
+            "NOMBRES": "NANCY JUDITH GÓMEZ MEDINA",
+            "FIRMA ELLECTRONICA": "NANCY JUDITH GÓMEZ MEDINA - 1523365067"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1523365067",
+            "NOMBRES": "NANCY JUDITH GÓMEZ MEDINA",
+            "FIRMA ELLECTRONICA": "NANCY JUDITH GÓMEZ MEDINA - 1523365067",
+            "AL PIE DE LA FIRMA": "NANCY JUDITH GÓMEZ MEDINA - 1523365067"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NANCY JUDITH GÓMEZ MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1523365067",
+            "NOMBRES": "NANCY JUDITH GÓMEZ MEDINA",
+            "SALARIO": "4.923.578",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1523365067",
+            "NOMBRES": "NANCY JUDITH GÓMEZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.232.128"
+        }
+    }
+]

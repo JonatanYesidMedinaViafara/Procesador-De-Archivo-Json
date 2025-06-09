@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "835672798798",
+            "SOLICITUD": "1713801",
+            "CEDULA": "1896758225",
+            "NOMBRES": "JUAN JOSÉ ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "2.952.845",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ ZAMBRANO - 1896758225"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "835672798798",
+            "NOMBRES": "JUAN JOSÉ ZAMBRANO",
+            "CREDITO": "18.196.194",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "278.228",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ ZAMBRANO - 1896758225",
+            "AL PIE DE LA FIRMA": "JUAN JOSÉ ZAMBRANO - 1896758225"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1896758225",
+            "NOMBRES": "JUAN JOSÉ ZAMBRANO",
+            "FECHA NACIMIENTO": "12/09/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.196.194",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ ZAMBRANO - 1896758225",
+            "AL PIE DE LA FIRMA": "JUAN JOSÉ ZAMBRANO - 1896758225"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1713801",
+            "CEDULA": "1896758225",
+            "NOMBRES": "JUAN JOSÉ ZAMBRANO",
+            "CREDITO": "18.196.194",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "278.228",
+            "E.A": "20.01%",
+            "RECOMPRA O DESEMBOLSO": "2.952.845",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ ZAMBRANO - 1896758225"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1896758225",
+            "NOMBRES": "JUAN JOSÉ ZAMBRANO",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ ZAMBRANO - 1896758225"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1896758225",
+            "NOMBRES": "JUAN JOSÉ ZAMBRANO",
+            "FIRMA ELLECTRONICA": "JUAN JOSÉ ZAMBRANO - 1896758225",
+            "AL PIE DE LA FIRMA": "JUAN JOSÉ ZAMBRANO - 1896758225"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN JOSÉ ZAMBRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1896758225",
+            "NOMBRES": "JUAN JOSÉ ZAMBRANO",
+            "SALARIO": "2.504.835",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1896758225",
+            "NOMBRES": "JUAN JOSÉ ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "2.952.845"
+        }
+    }
+]

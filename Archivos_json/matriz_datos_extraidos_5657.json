@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "353897805510",
+            "SOLICITUD": "2235519",
+            "CEDULA": "1844918417",
+            "NOMBRES": "ÓSCAR RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.599.250",
+            "FIRMA ELLECTRONICA": "ÓSCAR RINCÓN - 1844918417"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "353897805510",
+            "NOMBRES": "ÓSCAR RINCÓN",
+            "CREDITO": "10.584.087",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "385.713",
+            "FIRMA ELLECTRONICA": "ÓSCAR RINCÓN - 1844918417",
+            "AL PIE DE LA FIRMA": "ÓSCAR RINCÓN - 1844918417"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1844918417",
+            "NOMBRES": "ÓSCAR RINCÓN",
+            "FECHA NACIMIENTO": "19/04/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.584.087",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ÓSCAR RINCÓN - 1844918417",
+            "AL PIE DE LA FIRMA": "ÓSCAR RINCÓN - 1844918417"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2235519",
+            "CEDULA": "1844918417",
+            "NOMBRES": "ÓSCAR RINCÓN",
+            "CREDITO": "10.584.087",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "385.713",
+            "E.A": "28.83%",
+            "RECOMPRA O DESEMBOLSO": "3.599.250",
+            "FIRMA ELLECTRONICA": "ÓSCAR RINCÓN - 1844918417"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1844918417",
+            "NOMBRES": "ÓSCAR RINCÓN",
+            "FIRMA ELLECTRONICA": "ÓSCAR RINCÓN - 1844918417"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1844918417",
+            "NOMBRES": "ÓSCAR RINCÓN",
+            "FIRMA ELLECTRONICA": "ÓSCAR RINCÓN - 1844918417",
+            "AL PIE DE LA FIRMA": "ÓSCAR RINCÓN - 1844918417"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1844918417",
+            "NOMBRES": "ÓSCAR RINCÓN",
+            "SALARIO": "3.702.573",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1844918417",
+            "NOMBRES": "ÓSCAR RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.599.250"
+        }
+    }
+]

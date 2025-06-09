@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "385678526666",
+            "SOLICITUD": "4975565",
+            "CEDULA": "1721151635",
+            "NOMBRES": "LEÓN TORRES",
+            "RECOMPRA O DESEMBOLSO": "3.662.788",
+            "FIRMA ELLECTRONICA": "LEÓN TORRES - 1721151635"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "385678526666",
+            "NOMBRES": "LEÓN TORRES",
+            "CREDITO": "18.745.585",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "366.147",
+            "FIRMA ELLECTRONICA": "LEÓN TORRES - 1721151635",
+            "AL PIE DE LA FIRMA": "LEÓN TORRES - 1721151635"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1721151635",
+            "NOMBRES": "LEÓN TORRES",
+            "FECHA NACIMIENTO": "13/04/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.745.585",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LEÓN TORRES - 1721151635",
+            "AL PIE DE LA FIRMA": "LEÓN TORRES - 1721151635"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4975565",
+            "CEDULA": "1721151635",
+            "NOMBRES": "LEÓN TORRES",
+            "CREDITO": "18.745.585",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "366.147",
+            "E.A": "26.28%",
+            "RECOMPRA O DESEMBOLSO": "3.662.788",
+            "FIRMA ELLECTRONICA": "LEÓN TORRES - 1721151635"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1721151635",
+            "NOMBRES": "LEÓN TORRES",
+            "FIRMA ELLECTRONICA": "LEÓN TORRES - 1721151635"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1721151635",
+            "NOMBRES": "LEÓN TORRES",
+            "FIRMA ELLECTRONICA": "LEÓN TORRES - 1721151635",
+            "AL PIE DE LA FIRMA": "LEÓN TORRES - 1721151635"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEÓN TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1721151635",
+            "NOMBRES": "LEÓN TORRES",
+            "SALARIO": "1.918.496",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1721151635",
+            "NOMBRES": "LEÓN TORRES",
+            "RECOMPRA O DESEMBOLSO": "3.662.788"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "654231259327",
+            "SOLICITUD": "1689631",
+            "CEDULA": "1885807202",
+            "NOMBRES": "ANDRÉS FERNANDO MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.336.602",
+            "FIRMA ELLECTRONICA": "ANDRÉS FERNANDO MÉNDEZ - 1885807202"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "654231259327",
+            "NOMBRES": "ANDRÉS FERNANDO MÉNDEZ",
+            "CREDITO": "8.292.772",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "152.789",
+            "FIRMA ELLECTRONICA": "ANDRÉS FERNANDO MÉNDEZ - 1885807202",
+            "AL PIE DE LA FIRMA": "ANDRÉS FERNANDO MÉNDEZ - 1885807202"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1885807202",
+            "NOMBRES": "ANDRÉS FERNANDO MÉNDEZ",
+            "FECHA NACIMIENTO": "22/10/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.292.772",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANDRÉS FERNANDO MÉNDEZ - 1885807202",
+            "AL PIE DE LA FIRMA": "ANDRÉS FERNANDO MÉNDEZ - 1885807202"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1689631",
+            "CEDULA": "1885807202",
+            "NOMBRES": "ANDRÉS FERNANDO MÉNDEZ",
+            "CREDITO": "8.292.772",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "152.789",
+            "E.A": "22.63%",
+            "RECOMPRA O DESEMBOLSO": "1.336.602",
+            "FIRMA ELLECTRONICA": "ANDRÉS FERNANDO MÉNDEZ - 1885807202"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1885807202",
+            "NOMBRES": "ANDRÉS FERNANDO MÉNDEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS FERNANDO MÉNDEZ - 1885807202"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1885807202",
+            "NOMBRES": "ANDRÉS FERNANDO MÉNDEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS FERNANDO MÉNDEZ - 1885807202",
+            "AL PIE DE LA FIRMA": "ANDRÉS FERNANDO MÉNDEZ - 1885807202"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS FERNANDO MÉNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1885807202",
+            "NOMBRES": "ANDRÉS FERNANDO MÉNDEZ",
+            "SALARIO": "4.882.685",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1885807202",
+            "NOMBRES": "ANDRÉS FERNANDO MÉNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.336.602"
+        }
+    }
+]

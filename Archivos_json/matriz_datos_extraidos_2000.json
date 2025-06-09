@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "414786784973",
+            "SOLICITUD": "9998303",
+            "CEDULA": "1909709223",
+            "NOMBRES": "JAVIER JOSÉ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.411.619",
+            "FIRMA ELLECTRONICA": "JAVIER JOSÉ PÉREZ - 1909709223"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "414786784973",
+            "NOMBRES": "JAVIER JOSÉ PÉREZ",
+            "CREDITO": "8.068.210",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "282.802",
+            "FIRMA ELLECTRONICA": "JAVIER JOSÉ PÉREZ - 1909709223",
+            "AL PIE DE LA FIRMA": "JAVIER JOSÉ PÉREZ - 1909709223"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1909709223",
+            "NOMBRES": "JAVIER JOSÉ PÉREZ",
+            "FECHA NACIMIENTO": "20/04/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.068.210",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAVIER JOSÉ PÉREZ - 1909709223",
+            "AL PIE DE LA FIRMA": "JAVIER JOSÉ PÉREZ - 1909709223"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9998303",
+            "CEDULA": "1909709223",
+            "NOMBRES": "JAVIER JOSÉ PÉREZ",
+            "CREDITO": "8.068.210",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "282.802",
+            "E.A": "26.15%",
+            "RECOMPRA O DESEMBOLSO": "2.411.619",
+            "FIRMA ELLECTRONICA": "JAVIER JOSÉ PÉREZ - 1909709223"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1909709223",
+            "NOMBRES": "JAVIER JOSÉ PÉREZ",
+            "FIRMA ELLECTRONICA": "JAVIER JOSÉ PÉREZ - 1909709223"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1909709223",
+            "NOMBRES": "JAVIER JOSÉ PÉREZ",
+            "FIRMA ELLECTRONICA": "JAVIER JOSÉ PÉREZ - 1909709223",
+            "AL PIE DE LA FIRMA": "JAVIER JOSÉ PÉREZ - 1909709223"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER JOSÉ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1909709223",
+            "NOMBRES": "JAVIER JOSÉ PÉREZ",
+            "SALARIO": "2.176.636",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1909709223",
+            "NOMBRES": "JAVIER JOSÉ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.411.619"
+        }
+    }
+]

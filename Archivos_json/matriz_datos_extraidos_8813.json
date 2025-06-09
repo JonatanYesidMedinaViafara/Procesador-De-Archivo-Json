@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "380142542131",
+            "SOLICITUD": "6570834",
+            "CEDULA": "1870379592",
+            "NOMBRES": "RAFAEL LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.949.717",
+            "FIRMA ELLECTRONICA": "RAFAEL LÓPEZ - 1870379592"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "380142542131",
+            "NOMBRES": "RAFAEL LÓPEZ",
+            "CREDITO": "19.506.973",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "108.507",
+            "FIRMA ELLECTRONICA": "RAFAEL LÓPEZ - 1870379592",
+            "AL PIE DE LA FIRMA": "RAFAEL LÓPEZ - 1870379592"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1870379592",
+            "NOMBRES": "RAFAEL LÓPEZ",
+            "FECHA NACIMIENTO": "18/01/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.506.973",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RAFAEL LÓPEZ - 1870379592",
+            "AL PIE DE LA FIRMA": "RAFAEL LÓPEZ - 1870379592"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6570834",
+            "CEDULA": "1870379592",
+            "NOMBRES": "RAFAEL LÓPEZ",
+            "CREDITO": "19.506.973",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "108.507",
+            "E.A": "26.64%",
+            "RECOMPRA O DESEMBOLSO": "2.949.717",
+            "FIRMA ELLECTRONICA": "RAFAEL LÓPEZ - 1870379592"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1870379592",
+            "NOMBRES": "RAFAEL LÓPEZ",
+            "FIRMA ELLECTRONICA": "RAFAEL LÓPEZ - 1870379592"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1870379592",
+            "NOMBRES": "RAFAEL LÓPEZ",
+            "FIRMA ELLECTRONICA": "RAFAEL LÓPEZ - 1870379592",
+            "AL PIE DE LA FIRMA": "RAFAEL LÓPEZ - 1870379592"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1870379592",
+            "NOMBRES": "RAFAEL LÓPEZ",
+            "SALARIO": "1.785.213",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1870379592",
+            "NOMBRES": "RAFAEL LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.949.717"
+        }
+    }
+]

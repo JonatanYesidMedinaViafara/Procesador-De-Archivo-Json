@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "731474412233",
+            "SOLICITUD": "3247680",
+            "CEDULA": "1010481681",
+            "NOMBRES": "DORA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.063.365",
+            "FIRMA ELLECTRONICA": "DORA VARGAS - 1010481681"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "731474412233",
+            "NOMBRES": "DORA VARGAS",
+            "CREDITO": "19.370.376",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "133.182",
+            "FIRMA ELLECTRONICA": "DORA VARGAS - 1010481681",
+            "AL PIE DE LA FIRMA": "DORA VARGAS - 1010481681"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1010481681",
+            "NOMBRES": "DORA VARGAS",
+            "FECHA NACIMIENTO": "15/01/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.370.376",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DORA VARGAS - 1010481681",
+            "AL PIE DE LA FIRMA": "DORA VARGAS - 1010481681"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3247680",
+            "CEDULA": "1010481681",
+            "NOMBRES": "DORA VARGAS",
+            "CREDITO": "19.370.376",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "133.182",
+            "E.A": "28.39%",
+            "RECOMPRA O DESEMBOLSO": "2.063.365",
+            "FIRMA ELLECTRONICA": "DORA VARGAS - 1010481681"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1010481681",
+            "NOMBRES": "DORA VARGAS",
+            "FIRMA ELLECTRONICA": "DORA VARGAS - 1010481681"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1010481681",
+            "NOMBRES": "DORA VARGAS",
+            "FIRMA ELLECTRONICA": "DORA VARGAS - 1010481681",
+            "AL PIE DE LA FIRMA": "DORA VARGAS - 1010481681"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DORA VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1010481681",
+            "NOMBRES": "DORA VARGAS",
+            "SALARIO": "4.887.116",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1010481681",
+            "NOMBRES": "DORA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "2.063.365"
+        }
+    }
+]

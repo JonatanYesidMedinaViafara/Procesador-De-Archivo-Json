@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "560472020673",
+            "SOLICITUD": "4753615",
+            "CEDULA": "1972586336",
+            "NOMBRES": "LUCÍA MARÍA BURGOS PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.085.627",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA BURGOS PÉREZ - 1972586336"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "560472020673",
+            "NOMBRES": "LUCÍA MARÍA BURGOS PÉREZ",
+            "CREDITO": "10.772.844",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "366.323",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA BURGOS PÉREZ - 1972586336",
+            "AL PIE DE LA FIRMA": "LUCÍA MARÍA BURGOS PÉREZ - 1972586336"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1972586336",
+            "NOMBRES": "LUCÍA MARÍA BURGOS PÉREZ",
+            "FECHA NACIMIENTO": "29/03/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.772.844",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA BURGOS PÉREZ - 1972586336",
+            "AL PIE DE LA FIRMA": "LUCÍA MARÍA BURGOS PÉREZ - 1972586336"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4753615",
+            "CEDULA": "1972586336",
+            "NOMBRES": "LUCÍA MARÍA BURGOS PÉREZ",
+            "CREDITO": "10.772.844",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "366.323",
+            "E.A": "18.27%",
+            "RECOMPRA O DESEMBOLSO": "4.085.627",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA BURGOS PÉREZ - 1972586336"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1972586336",
+            "NOMBRES": "LUCÍA MARÍA BURGOS PÉREZ",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA BURGOS PÉREZ - 1972586336"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1972586336",
+            "NOMBRES": "LUCÍA MARÍA BURGOS PÉREZ",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA BURGOS PÉREZ - 1972586336",
+            "AL PIE DE LA FIRMA": "LUCÍA MARÍA BURGOS PÉREZ - 1972586336"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA MARÍA BURGOS PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1972586336",
+            "NOMBRES": "LUCÍA MARÍA BURGOS PÉREZ",
+            "SALARIO": "1.367.471",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1972586336",
+            "NOMBRES": "LUCÍA MARÍA BURGOS PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "4.085.627"
+        }
+    }
+]

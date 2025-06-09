@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "489763415526",
+            "SOLICITUD": "5379072",
+            "CEDULA": "1487571430",
+            "NOMBRES": "JUAN CUESTA",
+            "RECOMPRA O DESEMBOLSO": "4.807.939",
+            "FIRMA ELLECTRONICA": "JUAN CUESTA - 1487571430"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "489763415526",
+            "NOMBRES": "JUAN CUESTA",
+            "CREDITO": "7.692.856",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "282.089",
+            "FIRMA ELLECTRONICA": "JUAN CUESTA - 1487571430",
+            "AL PIE DE LA FIRMA": "JUAN CUESTA - 1487571430"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1487571430",
+            "NOMBRES": "JUAN CUESTA",
+            "FECHA NACIMIENTO": "10/01/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.692.856",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN CUESTA - 1487571430",
+            "AL PIE DE LA FIRMA": "JUAN CUESTA - 1487571430"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5379072",
+            "CEDULA": "1487571430",
+            "NOMBRES": "JUAN CUESTA",
+            "CREDITO": "7.692.856",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "282.089",
+            "E.A": "21.93%",
+            "RECOMPRA O DESEMBOLSO": "4.807.939",
+            "FIRMA ELLECTRONICA": "JUAN CUESTA - 1487571430"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1487571430",
+            "NOMBRES": "JUAN CUESTA",
+            "FIRMA ELLECTRONICA": "JUAN CUESTA - 1487571430"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1487571430",
+            "NOMBRES": "JUAN CUESTA",
+            "FIRMA ELLECTRONICA": "JUAN CUESTA - 1487571430",
+            "AL PIE DE LA FIRMA": "JUAN CUESTA - 1487571430"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN CUESTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1487571430",
+            "NOMBRES": "JUAN CUESTA",
+            "SALARIO": "2.362.848",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1487571430",
+            "NOMBRES": "JUAN CUESTA",
+            "RECOMPRA O DESEMBOLSO": "4.807.939"
+        }
+    }
+]

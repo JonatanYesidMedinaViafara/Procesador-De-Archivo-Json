@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "886405678917",
+            "SOLICITUD": "1956553",
+            "CEDULA": "1651672005",
+            "NOMBRES": "DAHIANA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.123.167",
+            "FIRMA ELLECTRONICA": "DAHIANA MARTÍNEZ - 1651672005"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "886405678917",
+            "NOMBRES": "DAHIANA MARTÍNEZ",
+            "CREDITO": "12.317.773",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "255.643",
+            "FIRMA ELLECTRONICA": "DAHIANA MARTÍNEZ - 1651672005",
+            "AL PIE DE LA FIRMA": "DAHIANA MARTÍNEZ - 1651672005"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1651672005",
+            "NOMBRES": "DAHIANA MARTÍNEZ",
+            "FECHA NACIMIENTO": "23/06/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.317.773",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DAHIANA MARTÍNEZ - 1651672005",
+            "AL PIE DE LA FIRMA": "DAHIANA MARTÍNEZ - 1651672005"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1956553",
+            "CEDULA": "1651672005",
+            "NOMBRES": "DAHIANA MARTÍNEZ",
+            "CREDITO": "12.317.773",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "255.643",
+            "E.A": "28.2%",
+            "RECOMPRA O DESEMBOLSO": "3.123.167",
+            "FIRMA ELLECTRONICA": "DAHIANA MARTÍNEZ - 1651672005"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1651672005",
+            "NOMBRES": "DAHIANA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "DAHIANA MARTÍNEZ - 1651672005"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1651672005",
+            "NOMBRES": "DAHIANA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "DAHIANA MARTÍNEZ - 1651672005",
+            "AL PIE DE LA FIRMA": "DAHIANA MARTÍNEZ - 1651672005"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAHIANA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1651672005",
+            "NOMBRES": "DAHIANA MARTÍNEZ",
+            "SALARIO": "3.383.299",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1651672005",
+            "NOMBRES": "DAHIANA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.123.167"
+        }
+    }
+]

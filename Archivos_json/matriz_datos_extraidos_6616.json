@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "506891503950",
+            "SOLICITUD": "6724680",
+            "CEDULA": "1516857605",
+            "NOMBRES": "LUZ LUZ PEÑA BERNAL",
+            "RECOMPRA O DESEMBOLSO": "2.089.586",
+            "FIRMA ELLECTRONICA": "LUZ LUZ PEÑA BERNAL - 1516857605"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "506891503950",
+            "NOMBRES": "LUZ LUZ PEÑA BERNAL",
+            "CREDITO": "6.785.760",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "311.373",
+            "FIRMA ELLECTRONICA": "LUZ LUZ PEÑA BERNAL - 1516857605",
+            "AL PIE DE LA FIRMA": "LUZ LUZ PEÑA BERNAL - 1516857605"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1516857605",
+            "NOMBRES": "LUZ LUZ PEÑA BERNAL",
+            "FECHA NACIMIENTO": "03/03/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.785.760",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUZ LUZ PEÑA BERNAL - 1516857605",
+            "AL PIE DE LA FIRMA": "LUZ LUZ PEÑA BERNAL - 1516857605"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6724680",
+            "CEDULA": "1516857605",
+            "NOMBRES": "LUZ LUZ PEÑA BERNAL",
+            "CREDITO": "6.785.760",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "311.373",
+            "E.A": "20.12%",
+            "RECOMPRA O DESEMBOLSO": "2.089.586",
+            "FIRMA ELLECTRONICA": "LUZ LUZ PEÑA BERNAL - 1516857605"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1516857605",
+            "NOMBRES": "LUZ LUZ PEÑA BERNAL",
+            "FIRMA ELLECTRONICA": "LUZ LUZ PEÑA BERNAL - 1516857605"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1516857605",
+            "NOMBRES": "LUZ LUZ PEÑA BERNAL",
+            "FIRMA ELLECTRONICA": "LUZ LUZ PEÑA BERNAL - 1516857605",
+            "AL PIE DE LA FIRMA": "LUZ LUZ PEÑA BERNAL - 1516857605"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ LUZ PEÑA BERNAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1516857605",
+            "NOMBRES": "LUZ LUZ PEÑA BERNAL",
+            "SALARIO": "4.844.666",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1516857605",
+            "NOMBRES": "LUZ LUZ PEÑA BERNAL",
+            "RECOMPRA O DESEMBOLSO": "2.089.586"
+        }
+    }
+]

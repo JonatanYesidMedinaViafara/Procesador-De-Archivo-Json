@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "642816877642",
+            "SOLICITUD": "1793584",
+            "CEDULA": "1858830961",
+            "NOMBRES": "RAMÓN SEGUNDO HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.820.405",
+            "FIRMA ELLECTRONICA": "RAMÓN SEGUNDO HERRERA - 1858830961"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "642816877642",
+            "NOMBRES": "RAMÓN SEGUNDO HERRERA",
+            "CREDITO": "17.205.425",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "138.725",
+            "FIRMA ELLECTRONICA": "RAMÓN SEGUNDO HERRERA - 1858830961",
+            "AL PIE DE LA FIRMA": "RAMÓN SEGUNDO HERRERA - 1858830961"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1858830961",
+            "NOMBRES": "RAMÓN SEGUNDO HERRERA",
+            "FECHA NACIMIENTO": "29/09/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.205.425",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RAMÓN SEGUNDO HERRERA - 1858830961",
+            "AL PIE DE LA FIRMA": "RAMÓN SEGUNDO HERRERA - 1858830961"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1793584",
+            "CEDULA": "1858830961",
+            "NOMBRES": "RAMÓN SEGUNDO HERRERA",
+            "CREDITO": "17.205.425",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "138.725",
+            "E.A": "28.68%",
+            "RECOMPRA O DESEMBOLSO": "2.820.405",
+            "FIRMA ELLECTRONICA": "RAMÓN SEGUNDO HERRERA - 1858830961"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1858830961",
+            "NOMBRES": "RAMÓN SEGUNDO HERRERA",
+            "FIRMA ELLECTRONICA": "RAMÓN SEGUNDO HERRERA - 1858830961"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1858830961",
+            "NOMBRES": "RAMÓN SEGUNDO HERRERA",
+            "FIRMA ELLECTRONICA": "RAMÓN SEGUNDO HERRERA - 1858830961",
+            "AL PIE DE LA FIRMA": "RAMÓN SEGUNDO HERRERA - 1858830961"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAMÓN SEGUNDO HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1858830961",
+            "NOMBRES": "RAMÓN SEGUNDO HERRERA",
+            "SALARIO": "1.294.773",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1858830961",
+            "NOMBRES": "RAMÓN SEGUNDO HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.820.405"
+        }
+    }
+]

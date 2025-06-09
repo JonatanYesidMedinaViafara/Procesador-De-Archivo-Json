@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "590014658967",
+            "SOLICITUD": "8535862",
+            "CEDULA": "1074641111",
+            "NOMBRES": "LUIS GIL",
+            "RECOMPRA O DESEMBOLSO": "2.160.750",
+            "FIRMA ELLECTRONICA": "LUIS GIL - 1074641111"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "590014658967",
+            "NOMBRES": "LUIS GIL",
+            "CREDITO": "19.583.444",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "390.468",
+            "FIRMA ELLECTRONICA": "LUIS GIL - 1074641111",
+            "AL PIE DE LA FIRMA": "LUIS GIL - 1074641111"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1074641111",
+            "NOMBRES": "LUIS GIL",
+            "FECHA NACIMIENTO": "17/03/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.583.444",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS GIL - 1074641111",
+            "AL PIE DE LA FIRMA": "LUIS GIL - 1074641111"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8535862",
+            "CEDULA": "1074641111",
+            "NOMBRES": "LUIS GIL",
+            "CREDITO": "19.583.444",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "390.468",
+            "E.A": "28.33%",
+            "RECOMPRA O DESEMBOLSO": "2.160.750",
+            "FIRMA ELLECTRONICA": "LUIS GIL - 1074641111"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1074641111",
+            "NOMBRES": "LUIS GIL",
+            "FIRMA ELLECTRONICA": "LUIS GIL - 1074641111"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1074641111",
+            "NOMBRES": "LUIS GIL",
+            "FIRMA ELLECTRONICA": "LUIS GIL - 1074641111",
+            "AL PIE DE LA FIRMA": "LUIS GIL - 1074641111"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS GIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1074641111",
+            "NOMBRES": "LUIS GIL",
+            "SALARIO": "3.036.346",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1074641111",
+            "NOMBRES": "LUIS GIL",
+            "RECOMPRA O DESEMBOLSO": "2.160.750"
+        }
+    }
+]

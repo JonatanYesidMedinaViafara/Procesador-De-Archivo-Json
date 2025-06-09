@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "383782985688",
+            "SOLICITUD": "8961275",
+            "CEDULA": "1602148153",
+            "NOMBRES": "PAOLA ALEJANDRA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.772.732",
+            "FIRMA ELLECTRONICA": "PAOLA ALEJANDRA LÓPEZ - 1602148153"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "383782985688",
+            "NOMBRES": "PAOLA ALEJANDRA LÓPEZ",
+            "CREDITO": "10.376.647",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "300.312",
+            "FIRMA ELLECTRONICA": "PAOLA ALEJANDRA LÓPEZ - 1602148153",
+            "AL PIE DE LA FIRMA": "PAOLA ALEJANDRA LÓPEZ - 1602148153"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1602148153",
+            "NOMBRES": "PAOLA ALEJANDRA LÓPEZ",
+            "FECHA NACIMIENTO": "25/11/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.376.647",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PAOLA ALEJANDRA LÓPEZ - 1602148153",
+            "AL PIE DE LA FIRMA": "PAOLA ALEJANDRA LÓPEZ - 1602148153"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8961275",
+            "CEDULA": "1602148153",
+            "NOMBRES": "PAOLA ALEJANDRA LÓPEZ",
+            "CREDITO": "10.376.647",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "300.312",
+            "E.A": "20.26%",
+            "RECOMPRA O DESEMBOLSO": "2.772.732",
+            "FIRMA ELLECTRONICA": "PAOLA ALEJANDRA LÓPEZ - 1602148153"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1602148153",
+            "NOMBRES": "PAOLA ALEJANDRA LÓPEZ",
+            "FIRMA ELLECTRONICA": "PAOLA ALEJANDRA LÓPEZ - 1602148153"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1602148153",
+            "NOMBRES": "PAOLA ALEJANDRA LÓPEZ",
+            "FIRMA ELLECTRONICA": "PAOLA ALEJANDRA LÓPEZ - 1602148153",
+            "AL PIE DE LA FIRMA": "PAOLA ALEJANDRA LÓPEZ - 1602148153"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA ALEJANDRA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1602148153",
+            "NOMBRES": "PAOLA ALEJANDRA LÓPEZ",
+            "SALARIO": "3.471.024",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1602148153",
+            "NOMBRES": "PAOLA ALEJANDRA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.772.732"
+        }
+    }
+]

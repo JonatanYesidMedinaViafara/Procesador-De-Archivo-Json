@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "205579022280",
+            "SOLICITUD": "8022521",
+            "CEDULA": "1218010983",
+            "NOMBRES": "MARCELA ROCÍO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.262.249",
+            "FIRMA ELLECTRONICA": "MARCELA ROCÍO LÓPEZ - 1218010983"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "205579022280",
+            "NOMBRES": "MARCELA ROCÍO LÓPEZ",
+            "CREDITO": "13.768.638",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "100.433",
+            "FIRMA ELLECTRONICA": "MARCELA ROCÍO LÓPEZ - 1218010983",
+            "AL PIE DE LA FIRMA": "MARCELA ROCÍO LÓPEZ - 1218010983"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1218010983",
+            "NOMBRES": "MARCELA ROCÍO LÓPEZ",
+            "FECHA NACIMIENTO": "05/08/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.768.638",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARCELA ROCÍO LÓPEZ - 1218010983",
+            "AL PIE DE LA FIRMA": "MARCELA ROCÍO LÓPEZ - 1218010983"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8022521",
+            "CEDULA": "1218010983",
+            "NOMBRES": "MARCELA ROCÍO LÓPEZ",
+            "CREDITO": "13.768.638",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "100.433",
+            "E.A": "21.23%",
+            "RECOMPRA O DESEMBOLSO": "2.262.249",
+            "FIRMA ELLECTRONICA": "MARCELA ROCÍO LÓPEZ - 1218010983"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1218010983",
+            "NOMBRES": "MARCELA ROCÍO LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARCELA ROCÍO LÓPEZ - 1218010983"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1218010983",
+            "NOMBRES": "MARCELA ROCÍO LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARCELA ROCÍO LÓPEZ - 1218010983",
+            "AL PIE DE LA FIRMA": "MARCELA ROCÍO LÓPEZ - 1218010983"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCELA ROCÍO LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1218010983",
+            "NOMBRES": "MARCELA ROCÍO LÓPEZ",
+            "SALARIO": "4.973.866",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1218010983",
+            "NOMBRES": "MARCELA ROCÍO LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "2.262.249"
+        }
+    }
+]

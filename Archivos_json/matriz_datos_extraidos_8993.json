@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "839937991171",
+            "SOLICITUD": "5052835",
+            "CEDULA": "1915195353",
+            "NOMBRES": "GLADYS MÉNDEZ GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.029.490",
+            "FIRMA ELLECTRONICA": "GLADYS MÉNDEZ GONZÁLEZ - 1915195353"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "839937991171",
+            "NOMBRES": "GLADYS MÉNDEZ GONZÁLEZ",
+            "CREDITO": "10.502.679",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "205.34",
+            "FIRMA ELLECTRONICA": "GLADYS MÉNDEZ GONZÁLEZ - 1915195353",
+            "AL PIE DE LA FIRMA": "GLADYS MÉNDEZ GONZÁLEZ - 1915195353"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1915195353",
+            "NOMBRES": "GLADYS MÉNDEZ GONZÁLEZ",
+            "FECHA NACIMIENTO": "20/01/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.502.679",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "GLADYS MÉNDEZ GONZÁLEZ - 1915195353",
+            "AL PIE DE LA FIRMA": "GLADYS MÉNDEZ GONZÁLEZ - 1915195353"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5052835",
+            "CEDULA": "1915195353",
+            "NOMBRES": "GLADYS MÉNDEZ GONZÁLEZ",
+            "CREDITO": "10.502.679",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "205.34",
+            "E.A": "21.48%",
+            "RECOMPRA O DESEMBOLSO": "2.029.490",
+            "FIRMA ELLECTRONICA": "GLADYS MÉNDEZ GONZÁLEZ - 1915195353"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1915195353",
+            "NOMBRES": "GLADYS MÉNDEZ GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "GLADYS MÉNDEZ GONZÁLEZ - 1915195353"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1915195353",
+            "NOMBRES": "GLADYS MÉNDEZ GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "GLADYS MÉNDEZ GONZÁLEZ - 1915195353",
+            "AL PIE DE LA FIRMA": "GLADYS MÉNDEZ GONZÁLEZ - 1915195353"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GLADYS MÉNDEZ GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1915195353",
+            "NOMBRES": "GLADYS MÉNDEZ GONZÁLEZ",
+            "SALARIO": "1.665.538",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1915195353",
+            "NOMBRES": "GLADYS MÉNDEZ GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.029.490"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "264190300603",
+            "SOLICITUD": "8906416",
+            "CEDULA": "1741167286",
+            "NOMBRES": "CARMEN ISABEL CRUZ",
+            "RECOMPRA O DESEMBOLSO": "2.867.343",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CRUZ - 1741167286"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "264190300603",
+            "NOMBRES": "CARMEN ISABEL CRUZ",
+            "CREDITO": "6.132.418",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.616",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CRUZ - 1741167286",
+            "AL PIE DE LA FIRMA": "CARMEN ISABEL CRUZ - 1741167286"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1741167286",
+            "NOMBRES": "CARMEN ISABEL CRUZ",
+            "FECHA NACIMIENTO": "16/08/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.132.418",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CRUZ - 1741167286",
+            "AL PIE DE LA FIRMA": "CARMEN ISABEL CRUZ - 1741167286"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8906416",
+            "CEDULA": "1741167286",
+            "NOMBRES": "CARMEN ISABEL CRUZ",
+            "CREDITO": "6.132.418",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "359.616",
+            "E.A": "19.14%",
+            "RECOMPRA O DESEMBOLSO": "2.867.343",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CRUZ - 1741167286"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1741167286",
+            "NOMBRES": "CARMEN ISABEL CRUZ",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CRUZ - 1741167286"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1741167286",
+            "NOMBRES": "CARMEN ISABEL CRUZ",
+            "FIRMA ELLECTRONICA": "CARMEN ISABEL CRUZ - 1741167286",
+            "AL PIE DE LA FIRMA": "CARMEN ISABEL CRUZ - 1741167286"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN ISABEL CRUZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1741167286",
+            "NOMBRES": "CARMEN ISABEL CRUZ",
+            "SALARIO": "3.305.629",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1741167286",
+            "NOMBRES": "CARMEN ISABEL CRUZ",
+            "RECOMPRA O DESEMBOLSO": "2.867.343"
+        }
+    }
+]

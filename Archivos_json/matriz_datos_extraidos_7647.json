@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "940624561731",
+            "SOLICITUD": "3909731",
+            "CEDULA": "1975760122",
+            "NOMBRES": "MARIELA JULIA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.574.981",
+            "FIRMA ELLECTRONICA": "MARIELA JULIA GÓMEZ - 1975760122"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "940624561731",
+            "NOMBRES": "MARIELA JULIA GÓMEZ",
+            "CREDITO": "16.686.164",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "135.262",
+            "FIRMA ELLECTRONICA": "MARIELA JULIA GÓMEZ - 1975760122",
+            "AL PIE DE LA FIRMA": "MARIELA JULIA GÓMEZ - 1975760122"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1975760122",
+            "NOMBRES": "MARIELA JULIA GÓMEZ",
+            "FECHA NACIMIENTO": "27/02/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.686.164",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARIELA JULIA GÓMEZ - 1975760122",
+            "AL PIE DE LA FIRMA": "MARIELA JULIA GÓMEZ - 1975760122"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3909731",
+            "CEDULA": "1975760122",
+            "NOMBRES": "MARIELA JULIA GÓMEZ",
+            "CREDITO": "16.686.164",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "135.262",
+            "E.A": "25.64%",
+            "RECOMPRA O DESEMBOLSO": "2.574.981",
+            "FIRMA ELLECTRONICA": "MARIELA JULIA GÓMEZ - 1975760122"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1975760122",
+            "NOMBRES": "MARIELA JULIA GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARIELA JULIA GÓMEZ - 1975760122"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1975760122",
+            "NOMBRES": "MARIELA JULIA GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARIELA JULIA GÓMEZ - 1975760122",
+            "AL PIE DE LA FIRMA": "MARIELA JULIA GÓMEZ - 1975760122"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIELA JULIA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1975760122",
+            "NOMBRES": "MARIELA JULIA GÓMEZ",
+            "SALARIO": "3.000.762",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1975760122",
+            "NOMBRES": "MARIELA JULIA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.574.981"
+        }
+    }
+]

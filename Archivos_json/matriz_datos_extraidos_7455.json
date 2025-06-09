@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "920547039932",
+            "SOLICITUD": "4392313",
+            "CEDULA": "1920841432",
+            "NOMBRES": "ESTELA GUERRERO CANO",
+            "RECOMPRA O DESEMBOLSO": "2.957.365",
+            "FIRMA ELLECTRONICA": "ESTELA GUERRERO CANO - 1920841432"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "920547039932",
+            "NOMBRES": "ESTELA GUERRERO CANO",
+            "CREDITO": "14.567.266",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "266.854",
+            "FIRMA ELLECTRONICA": "ESTELA GUERRERO CANO - 1920841432",
+            "AL PIE DE LA FIRMA": "ESTELA GUERRERO CANO - 1920841432"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1920841432",
+            "NOMBRES": "ESTELA GUERRERO CANO",
+            "FECHA NACIMIENTO": "22/12/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.567.266",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ESTELA GUERRERO CANO - 1920841432",
+            "AL PIE DE LA FIRMA": "ESTELA GUERRERO CANO - 1920841432"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4392313",
+            "CEDULA": "1920841432",
+            "NOMBRES": "ESTELA GUERRERO CANO",
+            "CREDITO": "14.567.266",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "266.854",
+            "E.A": "18.75%",
+            "RECOMPRA O DESEMBOLSO": "2.957.365",
+            "FIRMA ELLECTRONICA": "ESTELA GUERRERO CANO - 1920841432"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1920841432",
+            "NOMBRES": "ESTELA GUERRERO CANO",
+            "FIRMA ELLECTRONICA": "ESTELA GUERRERO CANO - 1920841432"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1920841432",
+            "NOMBRES": "ESTELA GUERRERO CANO",
+            "FIRMA ELLECTRONICA": "ESTELA GUERRERO CANO - 1920841432",
+            "AL PIE DE LA FIRMA": "ESTELA GUERRERO CANO - 1920841432"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTELA GUERRERO CANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1920841432",
+            "NOMBRES": "ESTELA GUERRERO CANO",
+            "SALARIO": "4.437.028",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1920841432",
+            "NOMBRES": "ESTELA GUERRERO CANO",
+            "RECOMPRA O DESEMBOLSO": "2.957.365"
+        }
+    }
+]

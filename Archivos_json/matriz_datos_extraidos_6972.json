@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "476509344167",
+            "SOLICITUD": "9858415",
+            "CEDULA": "1948963412",
+            "NOMBRES": "ISABEL BRAVO MORALES",
+            "RECOMPRA O DESEMBOLSO": "4.479.532",
+            "FIRMA ELLECTRONICA": "ISABEL BRAVO MORALES - 1948963412"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "476509344167",
+            "NOMBRES": "ISABEL BRAVO MORALES",
+            "CREDITO": "7.721.438",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.277",
+            "FIRMA ELLECTRONICA": "ISABEL BRAVO MORALES - 1948963412",
+            "AL PIE DE LA FIRMA": "ISABEL BRAVO MORALES - 1948963412"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1948963412",
+            "NOMBRES": "ISABEL BRAVO MORALES",
+            "FECHA NACIMIENTO": "27/05/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.721.438",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ISABEL BRAVO MORALES - 1948963412",
+            "AL PIE DE LA FIRMA": "ISABEL BRAVO MORALES - 1948963412"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9858415",
+            "CEDULA": "1948963412",
+            "NOMBRES": "ISABEL BRAVO MORALES",
+            "CREDITO": "7.721.438",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "299.277",
+            "E.A": "28.17%",
+            "RECOMPRA O DESEMBOLSO": "4.479.532",
+            "FIRMA ELLECTRONICA": "ISABEL BRAVO MORALES - 1948963412"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1948963412",
+            "NOMBRES": "ISABEL BRAVO MORALES",
+            "FIRMA ELLECTRONICA": "ISABEL BRAVO MORALES - 1948963412"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1948963412",
+            "NOMBRES": "ISABEL BRAVO MORALES",
+            "FIRMA ELLECTRONICA": "ISABEL BRAVO MORALES - 1948963412",
+            "AL PIE DE LA FIRMA": "ISABEL BRAVO MORALES - 1948963412"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL BRAVO MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1948963412",
+            "NOMBRES": "ISABEL BRAVO MORALES",
+            "SALARIO": "3.485.659",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1948963412",
+            "NOMBRES": "ISABEL BRAVO MORALES",
+            "RECOMPRA O DESEMBOLSO": "4.479.532"
+        }
+    }
+]

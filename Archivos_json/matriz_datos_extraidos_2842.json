@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "351389510982",
+            "SOLICITUD": "9216396",
+            "CEDULA": "1125916735",
+            "NOMBRES": "JHON AGUILAR TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.927.555",
+            "FIRMA ELLECTRONICA": "JHON AGUILAR TORRES - 1125916735"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "351389510982",
+            "NOMBRES": "JHON AGUILAR TORRES",
+            "CREDITO": "14.557.961",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "351.825",
+            "FIRMA ELLECTRONICA": "JHON AGUILAR TORRES - 1125916735",
+            "AL PIE DE LA FIRMA": "JHON AGUILAR TORRES - 1125916735"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1125916735",
+            "NOMBRES": "JHON AGUILAR TORRES",
+            "FECHA NACIMIENTO": "06/10/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.557.961",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JHON AGUILAR TORRES - 1125916735",
+            "AL PIE DE LA FIRMA": "JHON AGUILAR TORRES - 1125916735"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9216396",
+            "CEDULA": "1125916735",
+            "NOMBRES": "JHON AGUILAR TORRES",
+            "CREDITO": "14.557.961",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "351.825",
+            "E.A": "27.45%",
+            "RECOMPRA O DESEMBOLSO": "2.927.555",
+            "FIRMA ELLECTRONICA": "JHON AGUILAR TORRES - 1125916735"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1125916735",
+            "NOMBRES": "JHON AGUILAR TORRES",
+            "FIRMA ELLECTRONICA": "JHON AGUILAR TORRES - 1125916735"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1125916735",
+            "NOMBRES": "JHON AGUILAR TORRES",
+            "FIRMA ELLECTRONICA": "JHON AGUILAR TORRES - 1125916735",
+            "AL PIE DE LA FIRMA": "JHON AGUILAR TORRES - 1125916735"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON AGUILAR TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1125916735",
+            "NOMBRES": "JHON AGUILAR TORRES",
+            "SALARIO": "3.951.742",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1125916735",
+            "NOMBRES": "JHON AGUILAR TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.927.555"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "642638245728",
+            "SOLICITUD": "2667889",
+            "CEDULA": "1754021901",
+            "NOMBRES": "ÁNGEL MARTÍNEZ PARRA",
+            "RECOMPRA O DESEMBOLSO": "3.080.106",
+            "FIRMA ELLECTRONICA": "ÁNGEL MARTÍNEZ PARRA - 1754021901"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "642638245728",
+            "NOMBRES": "ÁNGEL MARTÍNEZ PARRA",
+            "CREDITO": "9.886.666",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.938",
+            "FIRMA ELLECTRONICA": "ÁNGEL MARTÍNEZ PARRA - 1754021901",
+            "AL PIE DE LA FIRMA": "ÁNGEL MARTÍNEZ PARRA - 1754021901"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1754021901",
+            "NOMBRES": "ÁNGEL MARTÍNEZ PARRA",
+            "FECHA NACIMIENTO": "04/06/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.886.666",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ÁNGEL MARTÍNEZ PARRA - 1754021901",
+            "AL PIE DE LA FIRMA": "ÁNGEL MARTÍNEZ PARRA - 1754021901"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2667889",
+            "CEDULA": "1754021901",
+            "NOMBRES": "ÁNGEL MARTÍNEZ PARRA",
+            "CREDITO": "9.886.666",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.938",
+            "E.A": "23.11%",
+            "RECOMPRA O DESEMBOLSO": "3.080.106",
+            "FIRMA ELLECTRONICA": "ÁNGEL MARTÍNEZ PARRA - 1754021901"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1754021901",
+            "NOMBRES": "ÁNGEL MARTÍNEZ PARRA",
+            "FIRMA ELLECTRONICA": "ÁNGEL MARTÍNEZ PARRA - 1754021901"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1754021901",
+            "NOMBRES": "ÁNGEL MARTÍNEZ PARRA",
+            "FIRMA ELLECTRONICA": "ÁNGEL MARTÍNEZ PARRA - 1754021901",
+            "AL PIE DE LA FIRMA": "ÁNGEL MARTÍNEZ PARRA - 1754021901"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁNGEL MARTÍNEZ PARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1754021901",
+            "NOMBRES": "ÁNGEL MARTÍNEZ PARRA",
+            "SALARIO": "4.963.304",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1754021901",
+            "NOMBRES": "ÁNGEL MARTÍNEZ PARRA",
+            "RECOMPRA O DESEMBOLSO": "3.080.106"
+        }
+    }
+]

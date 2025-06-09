@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "557250838584",
+            "SOLICITUD": "9967194",
+            "CEDULA": "1394172819",
+            "NOMBRES": "LEONOR PRADA",
+            "RECOMPRA O DESEMBOLSO": "2.368.886",
+            "FIRMA ELLECTRONICA": "LEONOR PRADA - 1394172819"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "557250838584",
+            "NOMBRES": "LEONOR PRADA",
+            "CREDITO": "11.101.207",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "269.503",
+            "FIRMA ELLECTRONICA": "LEONOR PRADA - 1394172819",
+            "AL PIE DE LA FIRMA": "LEONOR PRADA - 1394172819"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1394172819",
+            "NOMBRES": "LEONOR PRADA",
+            "FECHA NACIMIENTO": "08/03/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.101.207",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LEONOR PRADA - 1394172819",
+            "AL PIE DE LA FIRMA": "LEONOR PRADA - 1394172819"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9967194",
+            "CEDULA": "1394172819",
+            "NOMBRES": "LEONOR PRADA",
+            "CREDITO": "11.101.207",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "269.503",
+            "E.A": "28.45%",
+            "RECOMPRA O DESEMBOLSO": "2.368.886",
+            "FIRMA ELLECTRONICA": "LEONOR PRADA - 1394172819"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1394172819",
+            "NOMBRES": "LEONOR PRADA",
+            "FIRMA ELLECTRONICA": "LEONOR PRADA - 1394172819"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1394172819",
+            "NOMBRES": "LEONOR PRADA",
+            "FIRMA ELLECTRONICA": "LEONOR PRADA - 1394172819",
+            "AL PIE DE LA FIRMA": "LEONOR PRADA - 1394172819"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEONOR PRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1394172819",
+            "NOMBRES": "LEONOR PRADA",
+            "SALARIO": "4.145.735",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1394172819",
+            "NOMBRES": "LEONOR PRADA",
+            "RECOMPRA O DESEMBOLSO": "2.368.886"
+        }
+    }
+]

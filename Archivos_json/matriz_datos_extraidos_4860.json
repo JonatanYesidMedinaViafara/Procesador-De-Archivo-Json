@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "677149723767",
+            "SOLICITUD": "8505162",
+            "CEDULA": "1917428206",
+            "NOMBRES": "JULIA ROMERO CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "4.995.776",
+            "FIRMA ELLECTRONICA": "JULIA ROMERO CARVAJAL - 1917428206"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "677149723767",
+            "NOMBRES": "JULIA ROMERO CARVAJAL",
+            "CREDITO": "17.349.397",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "242.393",
+            "FIRMA ELLECTRONICA": "JULIA ROMERO CARVAJAL - 1917428206",
+            "AL PIE DE LA FIRMA": "JULIA ROMERO CARVAJAL - 1917428206"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1917428206",
+            "NOMBRES": "JULIA ROMERO CARVAJAL",
+            "FECHA NACIMIENTO": "01/06/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.349.397",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JULIA ROMERO CARVAJAL - 1917428206",
+            "AL PIE DE LA FIRMA": "JULIA ROMERO CARVAJAL - 1917428206"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8505162",
+            "CEDULA": "1917428206",
+            "NOMBRES": "JULIA ROMERO CARVAJAL",
+            "CREDITO": "17.349.397",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "242.393",
+            "E.A": "23.61%",
+            "RECOMPRA O DESEMBOLSO": "4.995.776",
+            "FIRMA ELLECTRONICA": "JULIA ROMERO CARVAJAL - 1917428206"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1917428206",
+            "NOMBRES": "JULIA ROMERO CARVAJAL",
+            "FIRMA ELLECTRONICA": "JULIA ROMERO CARVAJAL - 1917428206"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1917428206",
+            "NOMBRES": "JULIA ROMERO CARVAJAL",
+            "FIRMA ELLECTRONICA": "JULIA ROMERO CARVAJAL - 1917428206",
+            "AL PIE DE LA FIRMA": "JULIA ROMERO CARVAJAL - 1917428206"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIA ROMERO CARVAJAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1917428206",
+            "NOMBRES": "JULIA ROMERO CARVAJAL",
+            "SALARIO": "1.254.427",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1917428206",
+            "NOMBRES": "JULIA ROMERO CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "4.995.776"
+        }
+    }
+]

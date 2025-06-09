@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "932384474659",
+            "SOLICITUD": "5471626",
+            "CEDULA": "1687452297",
+            "NOMBRES": "CECILIA RIVERA",
+            "RECOMPRA O DESEMBOLSO": "2.056.440",
+            "FIRMA ELLECTRONICA": "CECILIA RIVERA - 1687452297"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "932384474659",
+            "NOMBRES": "CECILIA RIVERA",
+            "CREDITO": "8.317.216",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "150.277",
+            "FIRMA ELLECTRONICA": "CECILIA RIVERA - 1687452297",
+            "AL PIE DE LA FIRMA": "CECILIA RIVERA - 1687452297"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1687452297",
+            "NOMBRES": "CECILIA RIVERA",
+            "FECHA NACIMIENTO": "10/09/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.317.216",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CECILIA RIVERA - 1687452297",
+            "AL PIE DE LA FIRMA": "CECILIA RIVERA - 1687452297"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5471626",
+            "CEDULA": "1687452297",
+            "NOMBRES": "CECILIA RIVERA",
+            "CREDITO": "8.317.216",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "150.277",
+            "E.A": "22.56%",
+            "RECOMPRA O DESEMBOLSO": "2.056.440",
+            "FIRMA ELLECTRONICA": "CECILIA RIVERA - 1687452297"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1687452297",
+            "NOMBRES": "CECILIA RIVERA",
+            "FIRMA ELLECTRONICA": "CECILIA RIVERA - 1687452297"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1687452297",
+            "NOMBRES": "CECILIA RIVERA",
+            "FIRMA ELLECTRONICA": "CECILIA RIVERA - 1687452297",
+            "AL PIE DE LA FIRMA": "CECILIA RIVERA - 1687452297"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA RIVERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1687452297",
+            "NOMBRES": "CECILIA RIVERA",
+            "SALARIO": "3.084.781",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1687452297",
+            "NOMBRES": "CECILIA RIVERA",
+            "RECOMPRA O DESEMBOLSO": "2.056.440"
+        }
+    }
+]

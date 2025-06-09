@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "947611307098",
+            "SOLICITUD": "3015637",
+            "CEDULA": "1420884465",
+            "NOMBRES": "GINA LUNA",
+            "RECOMPRA O DESEMBOLSO": "4.044.846",
+            "FIRMA ELLECTRONICA": "GINA LUNA - 1420884465"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "947611307098",
+            "NOMBRES": "GINA LUNA",
+            "CREDITO": "16.297.116",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.801",
+            "FIRMA ELLECTRONICA": "GINA LUNA - 1420884465",
+            "AL PIE DE LA FIRMA": "GINA LUNA - 1420884465"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1420884465",
+            "NOMBRES": "GINA LUNA",
+            "FECHA NACIMIENTO": "08/02/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.297.116",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GINA LUNA - 1420884465",
+            "AL PIE DE LA FIRMA": "GINA LUNA - 1420884465"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3015637",
+            "CEDULA": "1420884465",
+            "NOMBRES": "GINA LUNA",
+            "CREDITO": "16.297.116",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "207.801",
+            "E.A": "27.11%",
+            "RECOMPRA O DESEMBOLSO": "4.044.846",
+            "FIRMA ELLECTRONICA": "GINA LUNA - 1420884465"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1420884465",
+            "NOMBRES": "GINA LUNA",
+            "FIRMA ELLECTRONICA": "GINA LUNA - 1420884465"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1420884465",
+            "NOMBRES": "GINA LUNA",
+            "FIRMA ELLECTRONICA": "GINA LUNA - 1420884465",
+            "AL PIE DE LA FIRMA": "GINA LUNA - 1420884465"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GINA LUNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1420884465",
+            "NOMBRES": "GINA LUNA",
+            "SALARIO": "2.976.154",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1420884465",
+            "NOMBRES": "GINA LUNA",
+            "RECOMPRA O DESEMBOLSO": "4.044.846"
+        }
+    }
+]

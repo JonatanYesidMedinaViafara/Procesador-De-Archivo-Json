@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "597591390813",
+            "SOLICITUD": "8292356",
+            "CEDULA": "1485369007",
+            "NOMBRES": "ROSA ALBA ROMERO",
+            "RECOMPRA O DESEMBOLSO": "4.454.003",
+            "FIRMA ELLECTRONICA": "ROSA ALBA ROMERO - 1485369007"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "597591390813",
+            "NOMBRES": "ROSA ALBA ROMERO",
+            "CREDITO": "5.384.414",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.554",
+            "FIRMA ELLECTRONICA": "ROSA ALBA ROMERO - 1485369007",
+            "AL PIE DE LA FIRMA": "ROSA ALBA ROMERO - 1485369007"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1485369007",
+            "NOMBRES": "ROSA ALBA ROMERO",
+            "FECHA NACIMIENTO": "01/04/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.384.414",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ROSA ALBA ROMERO - 1485369007",
+            "AL PIE DE LA FIRMA": "ROSA ALBA ROMERO - 1485369007"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8292356",
+            "CEDULA": "1485369007",
+            "NOMBRES": "ROSA ALBA ROMERO",
+            "CREDITO": "5.384.414",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "232.554",
+            "E.A": "19.13%",
+            "RECOMPRA O DESEMBOLSO": "4.454.003",
+            "FIRMA ELLECTRONICA": "ROSA ALBA ROMERO - 1485369007"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1485369007",
+            "NOMBRES": "ROSA ALBA ROMERO",
+            "FIRMA ELLECTRONICA": "ROSA ALBA ROMERO - 1485369007"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1485369007",
+            "NOMBRES": "ROSA ALBA ROMERO",
+            "FIRMA ELLECTRONICA": "ROSA ALBA ROMERO - 1485369007",
+            "AL PIE DE LA FIRMA": "ROSA ALBA ROMERO - 1485369007"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSA ALBA ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1485369007",
+            "NOMBRES": "ROSA ALBA ROMERO",
+            "SALARIO": "3.743.973",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1485369007",
+            "NOMBRES": "ROSA ALBA ROMERO",
+            "RECOMPRA O DESEMBOLSO": "4.454.003"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "543054949995",
+            "SOLICITUD": "5045397",
+            "CEDULA": "1775471766",
+            "NOMBRES": "PAOLA ASTRID CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.365.057",
+            "FIRMA ELLECTRONICA": "PAOLA ASTRID CALDERÓN - 1775471766"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "543054949995",
+            "NOMBRES": "PAOLA ASTRID CALDERÓN",
+            "CREDITO": "12.356.055",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "349.39",
+            "FIRMA ELLECTRONICA": "PAOLA ASTRID CALDERÓN - 1775471766",
+            "AL PIE DE LA FIRMA": "PAOLA ASTRID CALDERÓN - 1775471766"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1775471766",
+            "NOMBRES": "PAOLA ASTRID CALDERÓN",
+            "FECHA NACIMIENTO": "30/10/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.356.055",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "PAOLA ASTRID CALDERÓN - 1775471766",
+            "AL PIE DE LA FIRMA": "PAOLA ASTRID CALDERÓN - 1775471766"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5045397",
+            "CEDULA": "1775471766",
+            "NOMBRES": "PAOLA ASTRID CALDERÓN",
+            "CREDITO": "12.356.055",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "349.39",
+            "E.A": "19.9%",
+            "RECOMPRA O DESEMBOLSO": "4.365.057",
+            "FIRMA ELLECTRONICA": "PAOLA ASTRID CALDERÓN - 1775471766"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1775471766",
+            "NOMBRES": "PAOLA ASTRID CALDERÓN",
+            "FIRMA ELLECTRONICA": "PAOLA ASTRID CALDERÓN - 1775471766"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1775471766",
+            "NOMBRES": "PAOLA ASTRID CALDERÓN",
+            "FIRMA ELLECTRONICA": "PAOLA ASTRID CALDERÓN - 1775471766",
+            "AL PIE DE LA FIRMA": "PAOLA ASTRID CALDERÓN - 1775471766"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA ASTRID CALDERÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1775471766",
+            "NOMBRES": "PAOLA ASTRID CALDERÓN",
+            "SALARIO": "2.108.440",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1775471766",
+            "NOMBRES": "PAOLA ASTRID CALDERÓN",
+            "RECOMPRA O DESEMBOLSO": "4.365.057"
+        }
+    }
+]

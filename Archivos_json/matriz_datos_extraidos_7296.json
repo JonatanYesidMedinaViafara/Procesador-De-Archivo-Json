@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "770745984290",
+            "SOLICITUD": "7209398",
+            "CEDULA": "1142993304",
+            "NOMBRES": "MIGUEL MEDINA SIERRA",
+            "RECOMPRA O DESEMBOLSO": "4.336.069",
+            "FIRMA ELLECTRONICA": "MIGUEL MEDINA SIERRA - 1142993304"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "770745984290",
+            "NOMBRES": "MIGUEL MEDINA SIERRA",
+            "CREDITO": "6.283.825",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "173.904",
+            "FIRMA ELLECTRONICA": "MIGUEL MEDINA SIERRA - 1142993304",
+            "AL PIE DE LA FIRMA": "MIGUEL MEDINA SIERRA - 1142993304"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1142993304",
+            "NOMBRES": "MIGUEL MEDINA SIERRA",
+            "FECHA NACIMIENTO": "10/03/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.283.825",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MIGUEL MEDINA SIERRA - 1142993304",
+            "AL PIE DE LA FIRMA": "MIGUEL MEDINA SIERRA - 1142993304"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7209398",
+            "CEDULA": "1142993304",
+            "NOMBRES": "MIGUEL MEDINA SIERRA",
+            "CREDITO": "6.283.825",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "173.904",
+            "E.A": "22.03%",
+            "RECOMPRA O DESEMBOLSO": "4.336.069",
+            "FIRMA ELLECTRONICA": "MIGUEL MEDINA SIERRA - 1142993304"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1142993304",
+            "NOMBRES": "MIGUEL MEDINA SIERRA",
+            "FIRMA ELLECTRONICA": "MIGUEL MEDINA SIERRA - 1142993304"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1142993304",
+            "NOMBRES": "MIGUEL MEDINA SIERRA",
+            "FIRMA ELLECTRONICA": "MIGUEL MEDINA SIERRA - 1142993304",
+            "AL PIE DE LA FIRMA": "MIGUEL MEDINA SIERRA - 1142993304"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL MEDINA SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1142993304",
+            "NOMBRES": "MIGUEL MEDINA SIERRA",
+            "SALARIO": "1.751.090",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1142993304",
+            "NOMBRES": "MIGUEL MEDINA SIERRA",
+            "RECOMPRA O DESEMBOLSO": "4.336.069"
+        }
+    }
+]

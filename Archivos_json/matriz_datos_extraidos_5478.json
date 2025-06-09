@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "639437780082",
+            "SOLICITUD": "5100578",
+            "CEDULA": "1198091436",
+            "NOMBRES": "CAMILO URIBE",
+            "RECOMPRA O DESEMBOLSO": "2.524.776",
+            "FIRMA ELLECTRONICA": "CAMILO URIBE - 1198091436"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "639437780082",
+            "NOMBRES": "CAMILO URIBE",
+            "CREDITO": "6.993.694",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "118.289",
+            "FIRMA ELLECTRONICA": "CAMILO URIBE - 1198091436",
+            "AL PIE DE LA FIRMA": "CAMILO URIBE - 1198091436"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1198091436",
+            "NOMBRES": "CAMILO URIBE",
+            "FECHA NACIMIENTO": "17/02/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.993.694",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CAMILO URIBE - 1198091436",
+            "AL PIE DE LA FIRMA": "CAMILO URIBE - 1198091436"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5100578",
+            "CEDULA": "1198091436",
+            "NOMBRES": "CAMILO URIBE",
+            "CREDITO": "6.993.694",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "118.289",
+            "E.A": "21.28%",
+            "RECOMPRA O DESEMBOLSO": "2.524.776",
+            "FIRMA ELLECTRONICA": "CAMILO URIBE - 1198091436"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1198091436",
+            "NOMBRES": "CAMILO URIBE",
+            "FIRMA ELLECTRONICA": "CAMILO URIBE - 1198091436"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1198091436",
+            "NOMBRES": "CAMILO URIBE",
+            "FIRMA ELLECTRONICA": "CAMILO URIBE - 1198091436",
+            "AL PIE DE LA FIRMA": "CAMILO URIBE - 1198091436"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO URIBE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1198091436",
+            "NOMBRES": "CAMILO URIBE",
+            "SALARIO": "2.145.118",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1198091436",
+            "NOMBRES": "CAMILO URIBE",
+            "RECOMPRA O DESEMBOLSO": "2.524.776"
+        }
+    }
+]

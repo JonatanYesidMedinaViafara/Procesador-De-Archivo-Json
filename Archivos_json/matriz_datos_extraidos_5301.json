@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "655665808366",
+            "SOLICITUD": "3376045",
+            "CEDULA": "1846137653",
+            "NOMBRES": "ANDREA MARÍA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.663.783",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA RODRÍGUEZ - 1846137653"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "655665808366",
+            "NOMBRES": "ANDREA MARÍA RODRÍGUEZ",
+            "CREDITO": "16.961.725",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "204.783",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA RODRÍGUEZ - 1846137653",
+            "AL PIE DE LA FIRMA": "ANDREA MARÍA RODRÍGUEZ - 1846137653"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1846137653",
+            "NOMBRES": "ANDREA MARÍA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "26/07/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.961.725",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA RODRÍGUEZ - 1846137653",
+            "AL PIE DE LA FIRMA": "ANDREA MARÍA RODRÍGUEZ - 1846137653"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3376045",
+            "CEDULA": "1846137653",
+            "NOMBRES": "ANDREA MARÍA RODRÍGUEZ",
+            "CREDITO": "16.961.725",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "204.783",
+            "E.A": "20.07%",
+            "RECOMPRA O DESEMBOLSO": "3.663.783",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA RODRÍGUEZ - 1846137653"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1846137653",
+            "NOMBRES": "ANDREA MARÍA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA RODRÍGUEZ - 1846137653"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1846137653",
+            "NOMBRES": "ANDREA MARÍA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ANDREA MARÍA RODRÍGUEZ - 1846137653",
+            "AL PIE DE LA FIRMA": "ANDREA MARÍA RODRÍGUEZ - 1846137653"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDREA MARÍA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1846137653",
+            "NOMBRES": "ANDREA MARÍA RODRÍGUEZ",
+            "SALARIO": "1.780.060",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1846137653",
+            "NOMBRES": "ANDREA MARÍA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.663.783"
+        }
+    }
+]

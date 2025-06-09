@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "849890919272",
+            "SOLICITUD": "1718785",
+            "CEDULA": "1308424867",
+            "NOMBRES": "DANIELA RINCÓN SAAVEDRA",
+            "RECOMPRA O DESEMBOLSO": "3.504.622",
+            "FIRMA ELLECTRONICA": "DANIELA RINCÓN SAAVEDRA - 1308424867"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "849890919272",
+            "NOMBRES": "DANIELA RINCÓN SAAVEDRA",
+            "CREDITO": "12.082.458",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "319.395",
+            "FIRMA ELLECTRONICA": "DANIELA RINCÓN SAAVEDRA - 1308424867",
+            "AL PIE DE LA FIRMA": "DANIELA RINCÓN SAAVEDRA - 1308424867"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1308424867",
+            "NOMBRES": "DANIELA RINCÓN SAAVEDRA",
+            "FECHA NACIMIENTO": "15/03/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.082.458",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DANIELA RINCÓN SAAVEDRA - 1308424867",
+            "AL PIE DE LA FIRMA": "DANIELA RINCÓN SAAVEDRA - 1308424867"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1718785",
+            "CEDULA": "1308424867",
+            "NOMBRES": "DANIELA RINCÓN SAAVEDRA",
+            "CREDITO": "12.082.458",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "319.395",
+            "E.A": "26.74%",
+            "RECOMPRA O DESEMBOLSO": "3.504.622",
+            "FIRMA ELLECTRONICA": "DANIELA RINCÓN SAAVEDRA - 1308424867"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1308424867",
+            "NOMBRES": "DANIELA RINCÓN SAAVEDRA",
+            "FIRMA ELLECTRONICA": "DANIELA RINCÓN SAAVEDRA - 1308424867"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1308424867",
+            "NOMBRES": "DANIELA RINCÓN SAAVEDRA",
+            "FIRMA ELLECTRONICA": "DANIELA RINCÓN SAAVEDRA - 1308424867",
+            "AL PIE DE LA FIRMA": "DANIELA RINCÓN SAAVEDRA - 1308424867"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIELA RINCÓN SAAVEDRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1308424867",
+            "NOMBRES": "DANIELA RINCÓN SAAVEDRA",
+            "SALARIO": "3.846.452",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1308424867",
+            "NOMBRES": "DANIELA RINCÓN SAAVEDRA",
+            "RECOMPRA O DESEMBOLSO": "3.504.622"
+        }
+    }
+]

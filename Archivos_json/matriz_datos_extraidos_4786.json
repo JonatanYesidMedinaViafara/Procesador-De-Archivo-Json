@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "111333015968",
+            "SOLICITUD": "4340531",
+            "CEDULA": "1533878785",
+            "NOMBRES": "PAOLA DURÁN",
+            "RECOMPRA O DESEMBOLSO": "2.910.092",
+            "FIRMA ELLECTRONICA": "PAOLA DURÁN - 1533878785"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "111333015968",
+            "NOMBRES": "PAOLA DURÁN",
+            "CREDITO": "17.237.593",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "365.243",
+            "FIRMA ELLECTRONICA": "PAOLA DURÁN - 1533878785",
+            "AL PIE DE LA FIRMA": "PAOLA DURÁN - 1533878785"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1533878785",
+            "NOMBRES": "PAOLA DURÁN",
+            "FECHA NACIMIENTO": "20/02/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.237.593",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PAOLA DURÁN - 1533878785",
+            "AL PIE DE LA FIRMA": "PAOLA DURÁN - 1533878785"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4340531",
+            "CEDULA": "1533878785",
+            "NOMBRES": "PAOLA DURÁN",
+            "CREDITO": "17.237.593",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "365.243",
+            "E.A": "21.71%",
+            "RECOMPRA O DESEMBOLSO": "2.910.092",
+            "FIRMA ELLECTRONICA": "PAOLA DURÁN - 1533878785"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1533878785",
+            "NOMBRES": "PAOLA DURÁN",
+            "FIRMA ELLECTRONICA": "PAOLA DURÁN - 1533878785"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1533878785",
+            "NOMBRES": "PAOLA DURÁN",
+            "FIRMA ELLECTRONICA": "PAOLA DURÁN - 1533878785",
+            "AL PIE DE LA FIRMA": "PAOLA DURÁN - 1533878785"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PAOLA DURÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1533878785",
+            "NOMBRES": "PAOLA DURÁN",
+            "SALARIO": "4.933.096",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1533878785",
+            "NOMBRES": "PAOLA DURÁN",
+            "RECOMPRA O DESEMBOLSO": "2.910.092"
+        }
+    }
+]

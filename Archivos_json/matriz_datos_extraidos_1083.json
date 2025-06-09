@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "248530831866",
+            "SOLICITUD": "5827906",
+            "CEDULA": "1559117445",
+            "NOMBRES": "ALFONSO RODRÍGUEZ BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "2.700.069",
+            "FIRMA ELLECTRONICA": "ALFONSO RODRÍGUEZ BEDOYA - 1559117445"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "248530831866",
+            "NOMBRES": "ALFONSO RODRÍGUEZ BEDOYA",
+            "CREDITO": "6.304.680",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "227.738",
+            "FIRMA ELLECTRONICA": "ALFONSO RODRÍGUEZ BEDOYA - 1559117445",
+            "AL PIE DE LA FIRMA": "ALFONSO RODRÍGUEZ BEDOYA - 1559117445"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1559117445",
+            "NOMBRES": "ALFONSO RODRÍGUEZ BEDOYA",
+            "FECHA NACIMIENTO": "23/07/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.304.680",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALFONSO RODRÍGUEZ BEDOYA - 1559117445",
+            "AL PIE DE LA FIRMA": "ALFONSO RODRÍGUEZ BEDOYA - 1559117445"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5827906",
+            "CEDULA": "1559117445",
+            "NOMBRES": "ALFONSO RODRÍGUEZ BEDOYA",
+            "CREDITO": "6.304.680",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "227.738",
+            "E.A": "27.74%",
+            "RECOMPRA O DESEMBOLSO": "2.700.069",
+            "FIRMA ELLECTRONICA": "ALFONSO RODRÍGUEZ BEDOYA - 1559117445"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1559117445",
+            "NOMBRES": "ALFONSO RODRÍGUEZ BEDOYA",
+            "FIRMA ELLECTRONICA": "ALFONSO RODRÍGUEZ BEDOYA - 1559117445"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1559117445",
+            "NOMBRES": "ALFONSO RODRÍGUEZ BEDOYA",
+            "FIRMA ELLECTRONICA": "ALFONSO RODRÍGUEZ BEDOYA - 1559117445",
+            "AL PIE DE LA FIRMA": "ALFONSO RODRÍGUEZ BEDOYA - 1559117445"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFONSO RODRÍGUEZ BEDOYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1559117445",
+            "NOMBRES": "ALFONSO RODRÍGUEZ BEDOYA",
+            "SALARIO": "1.017.325",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1559117445",
+            "NOMBRES": "ALFONSO RODRÍGUEZ BEDOYA",
+            "RECOMPRA O DESEMBOLSO": "2.700.069"
+        }
+    }
+]

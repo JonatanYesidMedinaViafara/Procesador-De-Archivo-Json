@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "479505342700",
+            "SOLICITUD": "7774083",
+            "CEDULA": "1147081057",
+            "NOMBRES": "JUAN CALDERÓN ARANGO",
+            "RECOMPRA O DESEMBOLSO": "1.910.529",
+            "FIRMA ELLECTRONICA": "JUAN CALDERÓN ARANGO - 1147081057"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "479505342700",
+            "NOMBRES": "JUAN CALDERÓN ARANGO",
+            "CREDITO": "11.351.312",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "275.441",
+            "FIRMA ELLECTRONICA": "JUAN CALDERÓN ARANGO - 1147081057",
+            "AL PIE DE LA FIRMA": "JUAN CALDERÓN ARANGO - 1147081057"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1147081057",
+            "NOMBRES": "JUAN CALDERÓN ARANGO",
+            "FECHA NACIMIENTO": "07/08/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.351.312",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JUAN CALDERÓN ARANGO - 1147081057",
+            "AL PIE DE LA FIRMA": "JUAN CALDERÓN ARANGO - 1147081057"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7774083",
+            "CEDULA": "1147081057",
+            "NOMBRES": "JUAN CALDERÓN ARANGO",
+            "CREDITO": "11.351.312",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "275.441",
+            "E.A": "19.59%",
+            "RECOMPRA O DESEMBOLSO": "1.910.529",
+            "FIRMA ELLECTRONICA": "JUAN CALDERÓN ARANGO - 1147081057"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1147081057",
+            "NOMBRES": "JUAN CALDERÓN ARANGO",
+            "FIRMA ELLECTRONICA": "JUAN CALDERÓN ARANGO - 1147081057"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1147081057",
+            "NOMBRES": "JUAN CALDERÓN ARANGO",
+            "FIRMA ELLECTRONICA": "JUAN CALDERÓN ARANGO - 1147081057",
+            "AL PIE DE LA FIRMA": "JUAN CALDERÓN ARANGO - 1147081057"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN CALDERÓN ARANGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1147081057",
+            "NOMBRES": "JUAN CALDERÓN ARANGO",
+            "SALARIO": "4.826.776",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1147081057",
+            "NOMBRES": "JUAN CALDERÓN ARANGO",
+            "RECOMPRA O DESEMBOLSO": "1.910.529"
+        }
+    }
+]

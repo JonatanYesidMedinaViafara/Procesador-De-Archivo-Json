@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "173145916861",
+            "SOLICITUD": "5361121",
+            "CEDULA": "1032925364",
+            "NOMBRES": "ROCÍO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.144.125",
+            "FIRMA ELLECTRONICA": "ROCÍO MARTÍNEZ - 1032925364"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "173145916861",
+            "NOMBRES": "ROCÍO MARTÍNEZ",
+            "CREDITO": "8.339.565",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "347.302",
+            "FIRMA ELLECTRONICA": "ROCÍO MARTÍNEZ - 1032925364",
+            "AL PIE DE LA FIRMA": "ROCÍO MARTÍNEZ - 1032925364"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1032925364",
+            "NOMBRES": "ROCÍO MARTÍNEZ",
+            "FECHA NACIMIENTO": "16/05/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.339.565",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ROCÍO MARTÍNEZ - 1032925364",
+            "AL PIE DE LA FIRMA": "ROCÍO MARTÍNEZ - 1032925364"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5361121",
+            "CEDULA": "1032925364",
+            "NOMBRES": "ROCÍO MARTÍNEZ",
+            "CREDITO": "8.339.565",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "347.302",
+            "E.A": "25.49%",
+            "RECOMPRA O DESEMBOLSO": "3.144.125",
+            "FIRMA ELLECTRONICA": "ROCÍO MARTÍNEZ - 1032925364"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1032925364",
+            "NOMBRES": "ROCÍO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ROCÍO MARTÍNEZ - 1032925364"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1032925364",
+            "NOMBRES": "ROCÍO MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ROCÍO MARTÍNEZ - 1032925364",
+            "AL PIE DE LA FIRMA": "ROCÍO MARTÍNEZ - 1032925364"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROCÍO MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1032925364",
+            "NOMBRES": "ROCÍO MARTÍNEZ",
+            "SALARIO": "1.220.170",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1032925364",
+            "NOMBRES": "ROCÍO MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.144.125"
+        }
+    }
+]

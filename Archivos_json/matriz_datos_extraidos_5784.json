@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "923753634481",
+            "SOLICITUD": "2796427",
+            "CEDULA": "1020116086",
+            "NOMBRES": "FERNANDO STIVEN RODRÍGUEZ PARDO",
+            "RECOMPRA O DESEMBOLSO": "3.980.927",
+            "FIRMA ELLECTRONICA": "FERNANDO STIVEN RODRÍGUEZ PARDO - 1020116086"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "923753634481",
+            "NOMBRES": "FERNANDO STIVEN RODRÍGUEZ PARDO",
+            "CREDITO": "10.249.024",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "390.148",
+            "FIRMA ELLECTRONICA": "FERNANDO STIVEN RODRÍGUEZ PARDO - 1020116086",
+            "AL PIE DE LA FIRMA": "FERNANDO STIVEN RODRÍGUEZ PARDO - 1020116086"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1020116086",
+            "NOMBRES": "FERNANDO STIVEN RODRÍGUEZ PARDO",
+            "FECHA NACIMIENTO": "19/03/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.249.024",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNANDO STIVEN RODRÍGUEZ PARDO - 1020116086",
+            "AL PIE DE LA FIRMA": "FERNANDO STIVEN RODRÍGUEZ PARDO - 1020116086"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2796427",
+            "CEDULA": "1020116086",
+            "NOMBRES": "FERNANDO STIVEN RODRÍGUEZ PARDO",
+            "CREDITO": "10.249.024",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "390.148",
+            "E.A": "18.38%",
+            "RECOMPRA O DESEMBOLSO": "3.980.927",
+            "FIRMA ELLECTRONICA": "FERNANDO STIVEN RODRÍGUEZ PARDO - 1020116086"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1020116086",
+            "NOMBRES": "FERNANDO STIVEN RODRÍGUEZ PARDO",
+            "FIRMA ELLECTRONICA": "FERNANDO STIVEN RODRÍGUEZ PARDO - 1020116086"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1020116086",
+            "NOMBRES": "FERNANDO STIVEN RODRÍGUEZ PARDO",
+            "FIRMA ELLECTRONICA": "FERNANDO STIVEN RODRÍGUEZ PARDO - 1020116086",
+            "AL PIE DE LA FIRMA": "FERNANDO STIVEN RODRÍGUEZ PARDO - 1020116086"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO STIVEN RODRÍGUEZ PARDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1020116086",
+            "NOMBRES": "FERNANDO STIVEN RODRÍGUEZ PARDO",
+            "SALARIO": "2.449.336",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1020116086",
+            "NOMBRES": "FERNANDO STIVEN RODRÍGUEZ PARDO",
+            "RECOMPRA O DESEMBOLSO": "3.980.927"
+        }
+    }
+]

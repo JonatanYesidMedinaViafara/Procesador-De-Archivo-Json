@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "441900093915",
+            "SOLICITUD": "2005685",
+            "CEDULA": "1163044975",
+            "NOMBRES": "DIEGO MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "2.342.261",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA - 1163044975"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "441900093915",
+            "NOMBRES": "DIEGO MOSQUERA",
+            "CREDITO": "7.592.743",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "201.631",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA - 1163044975",
+            "AL PIE DE LA FIRMA": "DIEGO MOSQUERA - 1163044975"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1163044975",
+            "NOMBRES": "DIEGO MOSQUERA",
+            "FECHA NACIMIENTO": "05/02/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.592.743",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA - 1163044975",
+            "AL PIE DE LA FIRMA": "DIEGO MOSQUERA - 1163044975"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2005685",
+            "CEDULA": "1163044975",
+            "NOMBRES": "DIEGO MOSQUERA",
+            "CREDITO": "7.592.743",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "201.631",
+            "E.A": "20.62%",
+            "RECOMPRA O DESEMBOLSO": "2.342.261",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA - 1163044975"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1163044975",
+            "NOMBRES": "DIEGO MOSQUERA",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA - 1163044975"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1163044975",
+            "NOMBRES": "DIEGO MOSQUERA",
+            "FIRMA ELLECTRONICA": "DIEGO MOSQUERA - 1163044975",
+            "AL PIE DE LA FIRMA": "DIEGO MOSQUERA - 1163044975"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIEGO MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1163044975",
+            "NOMBRES": "DIEGO MOSQUERA",
+            "SALARIO": "1.521.856",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1163044975",
+            "NOMBRES": "DIEGO MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "2.342.261"
+        }
+    }
+]

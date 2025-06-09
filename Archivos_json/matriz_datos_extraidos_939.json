@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "600233817904",
+            "SOLICITUD": "4290235",
+            "CEDULA": "1862495544",
+            "NOMBRES": "MARIO MONTES PULIDO",
+            "RECOMPRA O DESEMBOLSO": "2.578.902",
+            "FIRMA ELLECTRONICA": "MARIO MONTES PULIDO - 1862495544"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "600233817904",
+            "NOMBRES": "MARIO MONTES PULIDO",
+            "CREDITO": "14.215.652",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "197.986",
+            "FIRMA ELLECTRONICA": "MARIO MONTES PULIDO - 1862495544",
+            "AL PIE DE LA FIRMA": "MARIO MONTES PULIDO - 1862495544"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1862495544",
+            "NOMBRES": "MARIO MONTES PULIDO",
+            "FECHA NACIMIENTO": "05/10/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.215.652",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARIO MONTES PULIDO - 1862495544",
+            "AL PIE DE LA FIRMA": "MARIO MONTES PULIDO - 1862495544"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4290235",
+            "CEDULA": "1862495544",
+            "NOMBRES": "MARIO MONTES PULIDO",
+            "CREDITO": "14.215.652",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "197.986",
+            "E.A": "25.39%",
+            "RECOMPRA O DESEMBOLSO": "2.578.902",
+            "FIRMA ELLECTRONICA": "MARIO MONTES PULIDO - 1862495544"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1862495544",
+            "NOMBRES": "MARIO MONTES PULIDO",
+            "FIRMA ELLECTRONICA": "MARIO MONTES PULIDO - 1862495544"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1862495544",
+            "NOMBRES": "MARIO MONTES PULIDO",
+            "FIRMA ELLECTRONICA": "MARIO MONTES PULIDO - 1862495544",
+            "AL PIE DE LA FIRMA": "MARIO MONTES PULIDO - 1862495544"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARIO MONTES PULIDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1862495544",
+            "NOMBRES": "MARIO MONTES PULIDO",
+            "SALARIO": "1.083.650",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1862495544",
+            "NOMBRES": "MARIO MONTES PULIDO",
+            "RECOMPRA O DESEMBOLSO": "2.578.902"
+        }
+    }
+]

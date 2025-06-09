@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "214875053021",
+            "SOLICITUD": "8410826",
+            "CEDULA": "1424900744",
+            "NOMBRES": "JORGE JHAN CARVAJAL GARCÉS",
+            "RECOMPRA O DESEMBOLSO": "3.637.386",
+            "FIRMA ELLECTRONICA": "JORGE JHAN CARVAJAL GARCÉS - 1424900744"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "214875053021",
+            "NOMBRES": "JORGE JHAN CARVAJAL GARCÉS",
+            "CREDITO": "10.092.407",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "110.122",
+            "FIRMA ELLECTRONICA": "JORGE JHAN CARVAJAL GARCÉS - 1424900744",
+            "AL PIE DE LA FIRMA": "JORGE JHAN CARVAJAL GARCÉS - 1424900744"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1424900744",
+            "NOMBRES": "JORGE JHAN CARVAJAL GARCÉS",
+            "FECHA NACIMIENTO": "22/01/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.092.407",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JORGE JHAN CARVAJAL GARCÉS - 1424900744",
+            "AL PIE DE LA FIRMA": "JORGE JHAN CARVAJAL GARCÉS - 1424900744"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8410826",
+            "CEDULA": "1424900744",
+            "NOMBRES": "JORGE JHAN CARVAJAL GARCÉS",
+            "CREDITO": "10.092.407",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "110.122",
+            "E.A": "22.3%",
+            "RECOMPRA O DESEMBOLSO": "3.637.386",
+            "FIRMA ELLECTRONICA": "JORGE JHAN CARVAJAL GARCÉS - 1424900744"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1424900744",
+            "NOMBRES": "JORGE JHAN CARVAJAL GARCÉS",
+            "FIRMA ELLECTRONICA": "JORGE JHAN CARVAJAL GARCÉS - 1424900744"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1424900744",
+            "NOMBRES": "JORGE JHAN CARVAJAL GARCÉS",
+            "FIRMA ELLECTRONICA": "JORGE JHAN CARVAJAL GARCÉS - 1424900744",
+            "AL PIE DE LA FIRMA": "JORGE JHAN CARVAJAL GARCÉS - 1424900744"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE JHAN CARVAJAL GARCÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1424900744",
+            "NOMBRES": "JORGE JHAN CARVAJAL GARCÉS",
+            "SALARIO": "3.512.071",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1424900744",
+            "NOMBRES": "JORGE JHAN CARVAJAL GARCÉS",
+            "RECOMPRA O DESEMBOLSO": "3.637.386"
+        }
+    }
+]

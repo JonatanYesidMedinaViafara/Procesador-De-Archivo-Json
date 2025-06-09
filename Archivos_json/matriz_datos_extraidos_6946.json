@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "789421781569",
+            "SOLICITUD": "7246397",
+            "CEDULA": "1413279554",
+            "NOMBRES": "CARLOS HERNÁNDEZ QUIROGA",
+            "RECOMPRA O DESEMBOLSO": "2.878.467",
+            "FIRMA ELLECTRONICA": "CARLOS HERNÁNDEZ QUIROGA - 1413279554"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "789421781569",
+            "NOMBRES": "CARLOS HERNÁNDEZ QUIROGA",
+            "CREDITO": "19.204.469",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "337.944",
+            "FIRMA ELLECTRONICA": "CARLOS HERNÁNDEZ QUIROGA - 1413279554",
+            "AL PIE DE LA FIRMA": "CARLOS HERNÁNDEZ QUIROGA - 1413279554"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1413279554",
+            "NOMBRES": "CARLOS HERNÁNDEZ QUIROGA",
+            "FECHA NACIMIENTO": "26/09/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.204.469",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS HERNÁNDEZ QUIROGA - 1413279554",
+            "AL PIE DE LA FIRMA": "CARLOS HERNÁNDEZ QUIROGA - 1413279554"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7246397",
+            "CEDULA": "1413279554",
+            "NOMBRES": "CARLOS HERNÁNDEZ QUIROGA",
+            "CREDITO": "19.204.469",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "337.944",
+            "E.A": "19.16%",
+            "RECOMPRA O DESEMBOLSO": "2.878.467",
+            "FIRMA ELLECTRONICA": "CARLOS HERNÁNDEZ QUIROGA - 1413279554"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1413279554",
+            "NOMBRES": "CARLOS HERNÁNDEZ QUIROGA",
+            "FIRMA ELLECTRONICA": "CARLOS HERNÁNDEZ QUIROGA - 1413279554"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1413279554",
+            "NOMBRES": "CARLOS HERNÁNDEZ QUIROGA",
+            "FIRMA ELLECTRONICA": "CARLOS HERNÁNDEZ QUIROGA - 1413279554",
+            "AL PIE DE LA FIRMA": "CARLOS HERNÁNDEZ QUIROGA - 1413279554"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS HERNÁNDEZ QUIROGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1413279554",
+            "NOMBRES": "CARLOS HERNÁNDEZ QUIROGA",
+            "SALARIO": "4.326.044",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1413279554",
+            "NOMBRES": "CARLOS HERNÁNDEZ QUIROGA",
+            "RECOMPRA O DESEMBOLSO": "2.878.467"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "721038593049",
+            "SOLICITUD": "4197736",
+            "CEDULA": "1536334150",
+            "NOMBRES": "JULIA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.733.800",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1536334150"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "721038593049",
+            "NOMBRES": "JULIA DÍAZ",
+            "CREDITO": "11.106.675",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "166.035",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1536334150",
+            "AL PIE DE LA FIRMA": "JULIA DÍAZ - 1536334150"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1536334150",
+            "NOMBRES": "JULIA DÍAZ",
+            "FECHA NACIMIENTO": "23/12/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.106.675",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1536334150",
+            "AL PIE DE LA FIRMA": "JULIA DÍAZ - 1536334150"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4197736",
+            "CEDULA": "1536334150",
+            "NOMBRES": "JULIA DÍAZ",
+            "CREDITO": "11.106.675",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "166.035",
+            "E.A": "25.15%",
+            "RECOMPRA O DESEMBOLSO": "3.733.800",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1536334150"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1536334150",
+            "NOMBRES": "JULIA DÍAZ",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1536334150"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1536334150",
+            "NOMBRES": "JULIA DÍAZ",
+            "FIRMA ELLECTRONICA": "JULIA DÍAZ - 1536334150",
+            "AL PIE DE LA FIRMA": "JULIA DÍAZ - 1536334150"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1536334150",
+            "NOMBRES": "JULIA DÍAZ",
+            "SALARIO": "4.266.060",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1536334150",
+            "NOMBRES": "JULIA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.733.800"
+        }
+    }
+]

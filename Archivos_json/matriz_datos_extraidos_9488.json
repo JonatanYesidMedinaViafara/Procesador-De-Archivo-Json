@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "923047434010",
+            "SOLICITUD": "1415762",
+            "CEDULA": "1741251809",
+            "NOMBRES": "LUIS BELTRÁN MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.095.497",
+            "FIRMA ELLECTRONICA": "LUIS BELTRÁN MUÑOZ - 1741251809"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "923047434010",
+            "NOMBRES": "LUIS BELTRÁN MUÑOZ",
+            "CREDITO": "14.618.417",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "282.508",
+            "FIRMA ELLECTRONICA": "LUIS BELTRÁN MUÑOZ - 1741251809",
+            "AL PIE DE LA FIRMA": "LUIS BELTRÁN MUÑOZ - 1741251809"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1741251809",
+            "NOMBRES": "LUIS BELTRÁN MUÑOZ",
+            "FECHA NACIMIENTO": "05/04/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.618.417",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS BELTRÁN MUÑOZ - 1741251809",
+            "AL PIE DE LA FIRMA": "LUIS BELTRÁN MUÑOZ - 1741251809"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1415762",
+            "CEDULA": "1741251809",
+            "NOMBRES": "LUIS BELTRÁN MUÑOZ",
+            "CREDITO": "14.618.417",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "282.508",
+            "E.A": "19.42%",
+            "RECOMPRA O DESEMBOLSO": "3.095.497",
+            "FIRMA ELLECTRONICA": "LUIS BELTRÁN MUÑOZ - 1741251809"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1741251809",
+            "NOMBRES": "LUIS BELTRÁN MUÑOZ",
+            "FIRMA ELLECTRONICA": "LUIS BELTRÁN MUÑOZ - 1741251809"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1741251809",
+            "NOMBRES": "LUIS BELTRÁN MUÑOZ",
+            "FIRMA ELLECTRONICA": "LUIS BELTRÁN MUÑOZ - 1741251809",
+            "AL PIE DE LA FIRMA": "LUIS BELTRÁN MUÑOZ - 1741251809"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS BELTRÁN MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1741251809",
+            "NOMBRES": "LUIS BELTRÁN MUÑOZ",
+            "SALARIO": "3.455.175",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1741251809",
+            "NOMBRES": "LUIS BELTRÁN MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.095.497"
+        }
+    }
+]

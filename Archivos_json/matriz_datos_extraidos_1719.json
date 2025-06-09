@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "164485664058",
+            "SOLICITUD": "4161963",
+            "CEDULA": "1522333190",
+            "NOMBRES": "MARÍA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.257.635",
+            "FIRMA ELLECTRONICA": "MARÍA SÁNCHEZ - 1522333190"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "164485664058",
+            "NOMBRES": "MARÍA SÁNCHEZ",
+            "CREDITO": "6.797.374",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "288.188",
+            "FIRMA ELLECTRONICA": "MARÍA SÁNCHEZ - 1522333190",
+            "AL PIE DE LA FIRMA": "MARÍA SÁNCHEZ - 1522333190"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1522333190",
+            "NOMBRES": "MARÍA SÁNCHEZ",
+            "FECHA NACIMIENTO": "27/04/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.797.374",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA SÁNCHEZ - 1522333190",
+            "AL PIE DE LA FIRMA": "MARÍA SÁNCHEZ - 1522333190"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4161963",
+            "CEDULA": "1522333190",
+            "NOMBRES": "MARÍA SÁNCHEZ",
+            "CREDITO": "6.797.374",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "288.188",
+            "E.A": "24.92%",
+            "RECOMPRA O DESEMBOLSO": "1.257.635",
+            "FIRMA ELLECTRONICA": "MARÍA SÁNCHEZ - 1522333190"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1522333190",
+            "NOMBRES": "MARÍA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "MARÍA SÁNCHEZ - 1522333190"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1522333190",
+            "NOMBRES": "MARÍA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "MARÍA SÁNCHEZ - 1522333190",
+            "AL PIE DE LA FIRMA": "MARÍA SÁNCHEZ - 1522333190"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1522333190",
+            "NOMBRES": "MARÍA SÁNCHEZ",
+            "SALARIO": "2.805.456",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1522333190",
+            "NOMBRES": "MARÍA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.257.635"
+        }
+    }
+]

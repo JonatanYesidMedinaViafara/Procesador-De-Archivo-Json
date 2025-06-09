@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "358401768032",
+            "SOLICITUD": "6736723",
+            "CEDULA": "1883935997",
+            "NOMBRES": "JESÚS HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.769.202",
+            "FIRMA ELLECTRONICA": "JESÚS HERNÁNDEZ - 1883935997"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "358401768032",
+            "NOMBRES": "JESÚS HERNÁNDEZ",
+            "CREDITO": "9.068.261",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "234.811",
+            "FIRMA ELLECTRONICA": "JESÚS HERNÁNDEZ - 1883935997",
+            "AL PIE DE LA FIRMA": "JESÚS HERNÁNDEZ - 1883935997"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1883935997",
+            "NOMBRES": "JESÚS HERNÁNDEZ",
+            "FECHA NACIMIENTO": "14/08/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.068.261",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JESÚS HERNÁNDEZ - 1883935997",
+            "AL PIE DE LA FIRMA": "JESÚS HERNÁNDEZ - 1883935997"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6736723",
+            "CEDULA": "1883935997",
+            "NOMBRES": "JESÚS HERNÁNDEZ",
+            "CREDITO": "9.068.261",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "234.811",
+            "E.A": "24.71%",
+            "RECOMPRA O DESEMBOLSO": "1.769.202",
+            "FIRMA ELLECTRONICA": "JESÚS HERNÁNDEZ - 1883935997"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1883935997",
+            "NOMBRES": "JESÚS HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JESÚS HERNÁNDEZ - 1883935997"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1883935997",
+            "NOMBRES": "JESÚS HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JESÚS HERNÁNDEZ - 1883935997",
+            "AL PIE DE LA FIRMA": "JESÚS HERNÁNDEZ - 1883935997"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1883935997",
+            "NOMBRES": "JESÚS HERNÁNDEZ",
+            "SALARIO": "3.712.117",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "10/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1883935997",
+            "NOMBRES": "JESÚS HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.769.202"
+        }
+    }
+]

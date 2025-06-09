@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "769504341126",
+            "SOLICITUD": "1045338",
+            "CEDULA": "1976831525",
+            "NOMBRES": "CARLOS OCTAVIO GARCÍA ROMERO",
+            "RECOMPRA O DESEMBOLSO": "2.250.522",
+            "FIRMA ELLECTRONICA": "CARLOS OCTAVIO GARCÍA ROMERO - 1976831525"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "769504341126",
+            "NOMBRES": "CARLOS OCTAVIO GARCÍA ROMERO",
+            "CREDITO": "10.217.378",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "136.104",
+            "FIRMA ELLECTRONICA": "CARLOS OCTAVIO GARCÍA ROMERO - 1976831525",
+            "AL PIE DE LA FIRMA": "CARLOS OCTAVIO GARCÍA ROMERO - 1976831525"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1976831525",
+            "NOMBRES": "CARLOS OCTAVIO GARCÍA ROMERO",
+            "FECHA NACIMIENTO": "10/07/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.217.378",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS OCTAVIO GARCÍA ROMERO - 1976831525",
+            "AL PIE DE LA FIRMA": "CARLOS OCTAVIO GARCÍA ROMERO - 1976831525"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1045338",
+            "CEDULA": "1976831525",
+            "NOMBRES": "CARLOS OCTAVIO GARCÍA ROMERO",
+            "CREDITO": "10.217.378",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "136.104",
+            "E.A": "18.98%",
+            "RECOMPRA O DESEMBOLSO": "2.250.522",
+            "FIRMA ELLECTRONICA": "CARLOS OCTAVIO GARCÍA ROMERO - 1976831525"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1976831525",
+            "NOMBRES": "CARLOS OCTAVIO GARCÍA ROMERO",
+            "FIRMA ELLECTRONICA": "CARLOS OCTAVIO GARCÍA ROMERO - 1976831525"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1976831525",
+            "NOMBRES": "CARLOS OCTAVIO GARCÍA ROMERO",
+            "FIRMA ELLECTRONICA": "CARLOS OCTAVIO GARCÍA ROMERO - 1976831525",
+            "AL PIE DE LA FIRMA": "CARLOS OCTAVIO GARCÍA ROMERO - 1976831525"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS OCTAVIO GARCÍA ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1976831525",
+            "NOMBRES": "CARLOS OCTAVIO GARCÍA ROMERO",
+            "SALARIO": "2.555.640",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "11/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1976831525",
+            "NOMBRES": "CARLOS OCTAVIO GARCÍA ROMERO",
+            "RECOMPRA O DESEMBOLSO": "2.250.522"
+        }
+    }
+]

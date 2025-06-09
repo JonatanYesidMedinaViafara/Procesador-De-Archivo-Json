@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "183630958850",
+            "SOLICITUD": "9259232",
+            "CEDULA": "1945903323",
+            "NOMBRES": "EDUARDO ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "3.191.288",
+            "FIRMA ELLECTRONICA": "EDUARDO ORTIZ - 1945903323"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "183630958850",
+            "NOMBRES": "EDUARDO ORTIZ",
+            "CREDITO": "12.263.403",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "218.238",
+            "FIRMA ELLECTRONICA": "EDUARDO ORTIZ - 1945903323",
+            "AL PIE DE LA FIRMA": "EDUARDO ORTIZ - 1945903323"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1945903323",
+            "NOMBRES": "EDUARDO ORTIZ",
+            "FECHA NACIMIENTO": "22/04/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.263.403",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EDUARDO ORTIZ - 1945903323",
+            "AL PIE DE LA FIRMA": "EDUARDO ORTIZ - 1945903323"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9259232",
+            "CEDULA": "1945903323",
+            "NOMBRES": "EDUARDO ORTIZ",
+            "CREDITO": "12.263.403",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "218.238",
+            "E.A": "18.14%",
+            "RECOMPRA O DESEMBOLSO": "3.191.288",
+            "FIRMA ELLECTRONICA": "EDUARDO ORTIZ - 1945903323"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1945903323",
+            "NOMBRES": "EDUARDO ORTIZ",
+            "FIRMA ELLECTRONICA": "EDUARDO ORTIZ - 1945903323"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1945903323",
+            "NOMBRES": "EDUARDO ORTIZ",
+            "FIRMA ELLECTRONICA": "EDUARDO ORTIZ - 1945903323",
+            "AL PIE DE LA FIRMA": "EDUARDO ORTIZ - 1945903323"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1945903323",
+            "NOMBRES": "EDUARDO ORTIZ",
+            "SALARIO": "2.054.828",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1945903323",
+            "NOMBRES": "EDUARDO ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "3.191.288"
+        }
+    }
+]

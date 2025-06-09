@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "303834400081",
+            "SOLICITUD": "9476107",
+            "CEDULA": "1583039936",
+            "NOMBRES": "CLAUDIA LILIANA JAIMES",
+            "RECOMPRA O DESEMBOLSO": "3.483.480",
+            "FIRMA ELLECTRONICA": "CLAUDIA LILIANA JAIMES - 1583039936"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "303834400081",
+            "NOMBRES": "CLAUDIA LILIANA JAIMES",
+            "CREDITO": "11.518.086",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "161.837",
+            "FIRMA ELLECTRONICA": "CLAUDIA LILIANA JAIMES - 1583039936",
+            "AL PIE DE LA FIRMA": "CLAUDIA LILIANA JAIMES - 1583039936"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1583039936",
+            "NOMBRES": "CLAUDIA LILIANA JAIMES",
+            "FECHA NACIMIENTO": "01/09/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.518.086",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CLAUDIA LILIANA JAIMES - 1583039936",
+            "AL PIE DE LA FIRMA": "CLAUDIA LILIANA JAIMES - 1583039936"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9476107",
+            "CEDULA": "1583039936",
+            "NOMBRES": "CLAUDIA LILIANA JAIMES",
+            "CREDITO": "11.518.086",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "161.837",
+            "E.A": "28.4%",
+            "RECOMPRA O DESEMBOLSO": "3.483.480",
+            "FIRMA ELLECTRONICA": "CLAUDIA LILIANA JAIMES - 1583039936"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1583039936",
+            "NOMBRES": "CLAUDIA LILIANA JAIMES",
+            "FIRMA ELLECTRONICA": "CLAUDIA LILIANA JAIMES - 1583039936"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1583039936",
+            "NOMBRES": "CLAUDIA LILIANA JAIMES",
+            "FIRMA ELLECTRONICA": "CLAUDIA LILIANA JAIMES - 1583039936",
+            "AL PIE DE LA FIRMA": "CLAUDIA LILIANA JAIMES - 1583039936"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLAUDIA LILIANA JAIMES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1583039936",
+            "NOMBRES": "CLAUDIA LILIANA JAIMES",
+            "SALARIO": "4.729.892",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1583039936",
+            "NOMBRES": "CLAUDIA LILIANA JAIMES",
+            "RECOMPRA O DESEMBOLSO": "3.483.480"
+        }
+    }
+]

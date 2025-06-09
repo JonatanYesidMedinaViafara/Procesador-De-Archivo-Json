@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "984646255764",
+            "SOLICITUD": "3718960",
+            "CEDULA": "1181700903",
+            "NOMBRES": "DANIEL ROMERO NIETO",
+            "RECOMPRA O DESEMBOLSO": "4.034.329",
+            "FIRMA ELLECTRONICA": "DANIEL ROMERO NIETO - 1181700903"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "984646255764",
+            "NOMBRES": "DANIEL ROMERO NIETO",
+            "CREDITO": "19.758.886",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "107.839",
+            "FIRMA ELLECTRONICA": "DANIEL ROMERO NIETO - 1181700903",
+            "AL PIE DE LA FIRMA": "DANIEL ROMERO NIETO - 1181700903"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1181700903",
+            "NOMBRES": "DANIEL ROMERO NIETO",
+            "FECHA NACIMIENTO": "02/08/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.758.886",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DANIEL ROMERO NIETO - 1181700903",
+            "AL PIE DE LA FIRMA": "DANIEL ROMERO NIETO - 1181700903"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3718960",
+            "CEDULA": "1181700903",
+            "NOMBRES": "DANIEL ROMERO NIETO",
+            "CREDITO": "19.758.886",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "107.839",
+            "E.A": "18.87%",
+            "RECOMPRA O DESEMBOLSO": "4.034.329",
+            "FIRMA ELLECTRONICA": "DANIEL ROMERO NIETO - 1181700903"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1181700903",
+            "NOMBRES": "DANIEL ROMERO NIETO",
+            "FIRMA ELLECTRONICA": "DANIEL ROMERO NIETO - 1181700903"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1181700903",
+            "NOMBRES": "DANIEL ROMERO NIETO",
+            "FIRMA ELLECTRONICA": "DANIEL ROMERO NIETO - 1181700903",
+            "AL PIE DE LA FIRMA": "DANIEL ROMERO NIETO - 1181700903"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL ROMERO NIETO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1181700903",
+            "NOMBRES": "DANIEL ROMERO NIETO",
+            "SALARIO": "3.183.174",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1181700903",
+            "NOMBRES": "DANIEL ROMERO NIETO",
+            "RECOMPRA O DESEMBOLSO": "4.034.329"
+        }
+    }
+]

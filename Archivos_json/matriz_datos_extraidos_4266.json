@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "889772565968",
+            "SOLICITUD": "5779197",
+            "CEDULA": "1771337757",
+            "NOMBRES": "AURORA DOMÍNGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.461.509",
+            "FIRMA ELLECTRONICA": "AURORA DOMÍNGUEZ - 1771337757"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "889772565968",
+            "NOMBRES": "AURORA DOMÍNGUEZ",
+            "CREDITO": "8.228.133",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "337.273",
+            "FIRMA ELLECTRONICA": "AURORA DOMÍNGUEZ - 1771337757",
+            "AL PIE DE LA FIRMA": "AURORA DOMÍNGUEZ - 1771337757"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1771337757",
+            "NOMBRES": "AURORA DOMÍNGUEZ",
+            "FECHA NACIMIENTO": "17/04/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.228.133",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "AURORA DOMÍNGUEZ - 1771337757",
+            "AL PIE DE LA FIRMA": "AURORA DOMÍNGUEZ - 1771337757"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5779197",
+            "CEDULA": "1771337757",
+            "NOMBRES": "AURORA DOMÍNGUEZ",
+            "CREDITO": "8.228.133",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "337.273",
+            "E.A": "21.43%",
+            "RECOMPRA O DESEMBOLSO": "4.461.509",
+            "FIRMA ELLECTRONICA": "AURORA DOMÍNGUEZ - 1771337757"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1771337757",
+            "NOMBRES": "AURORA DOMÍNGUEZ",
+            "FIRMA ELLECTRONICA": "AURORA DOMÍNGUEZ - 1771337757"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1771337757",
+            "NOMBRES": "AURORA DOMÍNGUEZ",
+            "FIRMA ELLECTRONICA": "AURORA DOMÍNGUEZ - 1771337757",
+            "AL PIE DE LA FIRMA": "AURORA DOMÍNGUEZ - 1771337757"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AURORA DOMÍNGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1771337757",
+            "NOMBRES": "AURORA DOMÍNGUEZ",
+            "SALARIO": "4.654.896",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1771337757",
+            "NOMBRES": "AURORA DOMÍNGUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.461.509"
+        }
+    }
+]

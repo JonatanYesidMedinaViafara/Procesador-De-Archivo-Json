@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "834980828129",
+            "SOLICITUD": "8409017",
+            "CEDULA": "1163355572",
+            "NOMBRES": "JONATHAN GARCÍA ESPINOSA",
+            "RECOMPRA O DESEMBOLSO": "2.798.481",
+            "FIRMA ELLECTRONICA": "JONATHAN GARCÍA ESPINOSA - 1163355572"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "834980828129",
+            "NOMBRES": "JONATHAN GARCÍA ESPINOSA",
+            "CREDITO": "16.443.246",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.775",
+            "FIRMA ELLECTRONICA": "JONATHAN GARCÍA ESPINOSA - 1163355572",
+            "AL PIE DE LA FIRMA": "JONATHAN GARCÍA ESPINOSA - 1163355572"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1163355572",
+            "NOMBRES": "JONATHAN GARCÍA ESPINOSA",
+            "FECHA NACIMIENTO": "27/07/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.443.246",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JONATHAN GARCÍA ESPINOSA - 1163355572",
+            "AL PIE DE LA FIRMA": "JONATHAN GARCÍA ESPINOSA - 1163355572"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8409017",
+            "CEDULA": "1163355572",
+            "NOMBRES": "JONATHAN GARCÍA ESPINOSA",
+            "CREDITO": "16.443.246",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.775",
+            "E.A": "23.24%",
+            "RECOMPRA O DESEMBOLSO": "2.798.481",
+            "FIRMA ELLECTRONICA": "JONATHAN GARCÍA ESPINOSA - 1163355572"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1163355572",
+            "NOMBRES": "JONATHAN GARCÍA ESPINOSA",
+            "FIRMA ELLECTRONICA": "JONATHAN GARCÍA ESPINOSA - 1163355572"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1163355572",
+            "NOMBRES": "JONATHAN GARCÍA ESPINOSA",
+            "FIRMA ELLECTRONICA": "JONATHAN GARCÍA ESPINOSA - 1163355572",
+            "AL PIE DE LA FIRMA": "JONATHAN GARCÍA ESPINOSA - 1163355572"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JONATHAN GARCÍA ESPINOSA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1163355572",
+            "NOMBRES": "JONATHAN GARCÍA ESPINOSA",
+            "SALARIO": "1.797.453",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1163355572",
+            "NOMBRES": "JONATHAN GARCÍA ESPINOSA",
+            "RECOMPRA O DESEMBOLSO": "2.798.481"
+        }
+    }
+]

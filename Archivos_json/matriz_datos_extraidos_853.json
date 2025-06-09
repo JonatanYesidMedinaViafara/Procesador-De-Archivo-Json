@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "203895476446",
+            "SOLICITUD": "9721706",
+            "CEDULA": "1952059093",
+            "NOMBRES": "AMANDA RUIZ MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.298.379",
+            "FIRMA ELLECTRONICA": "AMANDA RUIZ MOSQUERA - 1952059093"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "203895476446",
+            "NOMBRES": "AMANDA RUIZ MOSQUERA",
+            "CREDITO": "15.646.472",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "155.276",
+            "FIRMA ELLECTRONICA": "AMANDA RUIZ MOSQUERA - 1952059093",
+            "AL PIE DE LA FIRMA": "AMANDA RUIZ MOSQUERA - 1952059093"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1952059093",
+            "NOMBRES": "AMANDA RUIZ MOSQUERA",
+            "FECHA NACIMIENTO": "19/02/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.646.472",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "AMANDA RUIZ MOSQUERA - 1952059093",
+            "AL PIE DE LA FIRMA": "AMANDA RUIZ MOSQUERA - 1952059093"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9721706",
+            "CEDULA": "1952059093",
+            "NOMBRES": "AMANDA RUIZ MOSQUERA",
+            "CREDITO": "15.646.472",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "155.276",
+            "E.A": "26.03%",
+            "RECOMPRA O DESEMBOLSO": "1.298.379",
+            "FIRMA ELLECTRONICA": "AMANDA RUIZ MOSQUERA - 1952059093"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1952059093",
+            "NOMBRES": "AMANDA RUIZ MOSQUERA",
+            "FIRMA ELLECTRONICA": "AMANDA RUIZ MOSQUERA - 1952059093"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1952059093",
+            "NOMBRES": "AMANDA RUIZ MOSQUERA",
+            "FIRMA ELLECTRONICA": "AMANDA RUIZ MOSQUERA - 1952059093",
+            "AL PIE DE LA FIRMA": "AMANDA RUIZ MOSQUERA - 1952059093"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AMANDA RUIZ MOSQUERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1952059093",
+            "NOMBRES": "AMANDA RUIZ MOSQUERA",
+            "SALARIO": "2.076.906",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1952059093",
+            "NOMBRES": "AMANDA RUIZ MOSQUERA",
+            "RECOMPRA O DESEMBOLSO": "1.298.379"
+        }
+    }
+]

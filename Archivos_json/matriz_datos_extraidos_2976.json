@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "546869749605",
+            "SOLICITUD": "4084166",
+            "CEDULA": "1766077063",
+            "NOMBRES": "LINA VALENCIA VILLA",
+            "RECOMPRA O DESEMBOLSO": "3.334.877",
+            "FIRMA ELLECTRONICA": "LINA VALENCIA VILLA - 1766077063"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "546869749605",
+            "NOMBRES": "LINA VALENCIA VILLA",
+            "CREDITO": "15.732.886",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "261.741",
+            "FIRMA ELLECTRONICA": "LINA VALENCIA VILLA - 1766077063",
+            "AL PIE DE LA FIRMA": "LINA VALENCIA VILLA - 1766077063"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1766077063",
+            "NOMBRES": "LINA VALENCIA VILLA",
+            "FECHA NACIMIENTO": "22/02/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.732.886",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LINA VALENCIA VILLA - 1766077063",
+            "AL PIE DE LA FIRMA": "LINA VALENCIA VILLA - 1766077063"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4084166",
+            "CEDULA": "1766077063",
+            "NOMBRES": "LINA VALENCIA VILLA",
+            "CREDITO": "15.732.886",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "261.741",
+            "E.A": "25.78%",
+            "RECOMPRA O DESEMBOLSO": "3.334.877",
+            "FIRMA ELLECTRONICA": "LINA VALENCIA VILLA - 1766077063"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1766077063",
+            "NOMBRES": "LINA VALENCIA VILLA",
+            "FIRMA ELLECTRONICA": "LINA VALENCIA VILLA - 1766077063"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1766077063",
+            "NOMBRES": "LINA VALENCIA VILLA",
+            "FIRMA ELLECTRONICA": "LINA VALENCIA VILLA - 1766077063",
+            "AL PIE DE LA FIRMA": "LINA VALENCIA VILLA - 1766077063"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LINA VALENCIA VILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1766077063",
+            "NOMBRES": "LINA VALENCIA VILLA",
+            "SALARIO": "2.792.368",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1766077063",
+            "NOMBRES": "LINA VALENCIA VILLA",
+            "RECOMPRA O DESEMBOLSO": "3.334.877"
+        }
+    }
+]

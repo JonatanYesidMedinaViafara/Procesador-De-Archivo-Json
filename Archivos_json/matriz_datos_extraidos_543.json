@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "112879277292",
+            "SOLICITUD": "4527661",
+            "CEDULA": "1076253623",
+            "NOMBRES": "MARÍA PAZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.786.996",
+            "FIRMA ELLECTRONICA": "MARÍA PAZ DÍAZ - 1076253623"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "112879277292",
+            "NOMBRES": "MARÍA PAZ DÍAZ",
+            "CREDITO": "5.715.300",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "359.365",
+            "FIRMA ELLECTRONICA": "MARÍA PAZ DÍAZ - 1076253623",
+            "AL PIE DE LA FIRMA": "MARÍA PAZ DÍAZ - 1076253623"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1076253623",
+            "NOMBRES": "MARÍA PAZ DÍAZ",
+            "FECHA NACIMIENTO": "05/03/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.715.300",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA PAZ DÍAZ - 1076253623",
+            "AL PIE DE LA FIRMA": "MARÍA PAZ DÍAZ - 1076253623"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4527661",
+            "CEDULA": "1076253623",
+            "NOMBRES": "MARÍA PAZ DÍAZ",
+            "CREDITO": "5.715.300",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "359.365",
+            "E.A": "22.77%",
+            "RECOMPRA O DESEMBOLSO": "2.786.996",
+            "FIRMA ELLECTRONICA": "MARÍA PAZ DÍAZ - 1076253623"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1076253623",
+            "NOMBRES": "MARÍA PAZ DÍAZ",
+            "FIRMA ELLECTRONICA": "MARÍA PAZ DÍAZ - 1076253623"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1076253623",
+            "NOMBRES": "MARÍA PAZ DÍAZ",
+            "FIRMA ELLECTRONICA": "MARÍA PAZ DÍAZ - 1076253623",
+            "AL PIE DE LA FIRMA": "MARÍA PAZ DÍAZ - 1076253623"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA PAZ DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1076253623",
+            "NOMBRES": "MARÍA PAZ DÍAZ",
+            "SALARIO": "4.648.645",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1076253623",
+            "NOMBRES": "MARÍA PAZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.786.996"
+        }
+    }
+]

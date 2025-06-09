@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "433446275779",
+            "SOLICITUD": "5434314",
+            "CEDULA": "1063240913",
+            "NOMBRES": "GUSTAVO GARCÍA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.762.672",
+            "FIRMA ELLECTRONICA": "GUSTAVO GARCÍA LÓPEZ - 1063240913"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "433446275779",
+            "NOMBRES": "GUSTAVO GARCÍA LÓPEZ",
+            "CREDITO": "7.900.117",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "145.103",
+            "FIRMA ELLECTRONICA": "GUSTAVO GARCÍA LÓPEZ - 1063240913",
+            "AL PIE DE LA FIRMA": "GUSTAVO GARCÍA LÓPEZ - 1063240913"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1063240913",
+            "NOMBRES": "GUSTAVO GARCÍA LÓPEZ",
+            "FECHA NACIMIENTO": "03/06/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.900.117",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "GUSTAVO GARCÍA LÓPEZ - 1063240913",
+            "AL PIE DE LA FIRMA": "GUSTAVO GARCÍA LÓPEZ - 1063240913"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5434314",
+            "CEDULA": "1063240913",
+            "NOMBRES": "GUSTAVO GARCÍA LÓPEZ",
+            "CREDITO": "7.900.117",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "145.103",
+            "E.A": "21.66%",
+            "RECOMPRA O DESEMBOLSO": "1.762.672",
+            "FIRMA ELLECTRONICA": "GUSTAVO GARCÍA LÓPEZ - 1063240913"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1063240913",
+            "NOMBRES": "GUSTAVO GARCÍA LÓPEZ",
+            "FIRMA ELLECTRONICA": "GUSTAVO GARCÍA LÓPEZ - 1063240913"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1063240913",
+            "NOMBRES": "GUSTAVO GARCÍA LÓPEZ",
+            "FIRMA ELLECTRONICA": "GUSTAVO GARCÍA LÓPEZ - 1063240913",
+            "AL PIE DE LA FIRMA": "GUSTAVO GARCÍA LÓPEZ - 1063240913"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GUSTAVO GARCÍA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1063240913",
+            "NOMBRES": "GUSTAVO GARCÍA LÓPEZ",
+            "SALARIO": "3.266.072",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1063240913",
+            "NOMBRES": "GUSTAVO GARCÍA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.762.672"
+        }
+    }
+]

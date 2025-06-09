@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "413892761762",
+            "SOLICITUD": "6983494",
+            "CEDULA": "1109638793",
+            "NOMBRES": "ANA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.097.147",
+            "FIRMA ELLECTRONICA": "ANA MUÑOZ - 1109638793"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "413892761762",
+            "NOMBRES": "ANA MUÑOZ",
+            "CREDITO": "5.848.501",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "369.306",
+            "FIRMA ELLECTRONICA": "ANA MUÑOZ - 1109638793",
+            "AL PIE DE LA FIRMA": "ANA MUÑOZ - 1109638793"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1109638793",
+            "NOMBRES": "ANA MUÑOZ",
+            "FECHA NACIMIENTO": "28/07/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.848.501",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANA MUÑOZ - 1109638793",
+            "AL PIE DE LA FIRMA": "ANA MUÑOZ - 1109638793"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6983494",
+            "CEDULA": "1109638793",
+            "NOMBRES": "ANA MUÑOZ",
+            "CREDITO": "5.848.501",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "369.306",
+            "E.A": "22.56%",
+            "RECOMPRA O DESEMBOLSO": "2.097.147",
+            "FIRMA ELLECTRONICA": "ANA MUÑOZ - 1109638793"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1109638793",
+            "NOMBRES": "ANA MUÑOZ",
+            "FIRMA ELLECTRONICA": "ANA MUÑOZ - 1109638793"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1109638793",
+            "NOMBRES": "ANA MUÑOZ",
+            "FIRMA ELLECTRONICA": "ANA MUÑOZ - 1109638793",
+            "AL PIE DE LA FIRMA": "ANA MUÑOZ - 1109638793"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1109638793",
+            "NOMBRES": "ANA MUÑOZ",
+            "SALARIO": "1.607.624",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1109638793",
+            "NOMBRES": "ANA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.097.147"
+        }
+    }
+]

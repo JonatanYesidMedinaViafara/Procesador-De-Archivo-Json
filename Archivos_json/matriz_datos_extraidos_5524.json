@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "467753822987",
+            "SOLICITUD": "8105885",
+            "CEDULA": "1236629675",
+            "NOMBRES": "LUZ VERGARA OCHOA",
+            "RECOMPRA O DESEMBOLSO": "2.460.755",
+            "FIRMA ELLECTRONICA": "LUZ VERGARA OCHOA - 1236629675"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "467753822987",
+            "NOMBRES": "LUZ VERGARA OCHOA",
+            "CREDITO": "14.504.352",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "170.839",
+            "FIRMA ELLECTRONICA": "LUZ VERGARA OCHOA - 1236629675",
+            "AL PIE DE LA FIRMA": "LUZ VERGARA OCHOA - 1236629675"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1236629675",
+            "NOMBRES": "LUZ VERGARA OCHOA",
+            "FECHA NACIMIENTO": "13/08/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.504.352",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUZ VERGARA OCHOA - 1236629675",
+            "AL PIE DE LA FIRMA": "LUZ VERGARA OCHOA - 1236629675"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8105885",
+            "CEDULA": "1236629675",
+            "NOMBRES": "LUZ VERGARA OCHOA",
+            "CREDITO": "14.504.352",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "170.839",
+            "E.A": "28.23%",
+            "RECOMPRA O DESEMBOLSO": "2.460.755",
+            "FIRMA ELLECTRONICA": "LUZ VERGARA OCHOA - 1236629675"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1236629675",
+            "NOMBRES": "LUZ VERGARA OCHOA",
+            "FIRMA ELLECTRONICA": "LUZ VERGARA OCHOA - 1236629675"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1236629675",
+            "NOMBRES": "LUZ VERGARA OCHOA",
+            "FIRMA ELLECTRONICA": "LUZ VERGARA OCHOA - 1236629675",
+            "AL PIE DE LA FIRMA": "LUZ VERGARA OCHOA - 1236629675"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ VERGARA OCHOA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1236629675",
+            "NOMBRES": "LUZ VERGARA OCHOA",
+            "SALARIO": "3.962.232",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1236629675",
+            "NOMBRES": "LUZ VERGARA OCHOA",
+            "RECOMPRA O DESEMBOLSO": "2.460.755"
+        }
+    }
+]

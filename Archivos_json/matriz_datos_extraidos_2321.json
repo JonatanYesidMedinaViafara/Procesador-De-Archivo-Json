@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "120239702836",
+            "SOLICITUD": "2370235",
+            "CEDULA": "1473276138",
+            "NOMBRES": "MARÍA REYES",
+            "RECOMPRA O DESEMBOLSO": "3.933.132",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1473276138"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "120239702836",
+            "NOMBRES": "MARÍA REYES",
+            "CREDITO": "14.696.163",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "123.547",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1473276138",
+            "AL PIE DE LA FIRMA": "MARÍA REYES - 1473276138"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1473276138",
+            "NOMBRES": "MARÍA REYES",
+            "FECHA NACIMIENTO": "28/02/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.696.163",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1473276138",
+            "AL PIE DE LA FIRMA": "MARÍA REYES - 1473276138"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2370235",
+            "CEDULA": "1473276138",
+            "NOMBRES": "MARÍA REYES",
+            "CREDITO": "14.696.163",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "123.547",
+            "E.A": "23.4%",
+            "RECOMPRA O DESEMBOLSO": "3.933.132",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1473276138"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1473276138",
+            "NOMBRES": "MARÍA REYES",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1473276138"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1473276138",
+            "NOMBRES": "MARÍA REYES",
+            "FIRMA ELLECTRONICA": "MARÍA REYES - 1473276138",
+            "AL PIE DE LA FIRMA": "MARÍA REYES - 1473276138"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1473276138",
+            "NOMBRES": "MARÍA REYES",
+            "SALARIO": "1.726.267",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1473276138",
+            "NOMBRES": "MARÍA REYES",
+            "RECOMPRA O DESEMBOLSO": "3.933.132"
+        }
+    }
+]

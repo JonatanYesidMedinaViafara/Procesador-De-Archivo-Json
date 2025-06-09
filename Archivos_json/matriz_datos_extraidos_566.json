@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "543621202309",
+            "SOLICITUD": "1236139",
+            "CEDULA": "1801311167",
+            "NOMBRES": "JOHN YAIR RUIZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.532.467",
+            "FIRMA ELLECTRONICA": "JOHN YAIR RUIZ GÓMEZ - 1801311167"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "543621202309",
+            "NOMBRES": "JOHN YAIR RUIZ GÓMEZ",
+            "CREDITO": "15.555.934",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "173.353",
+            "FIRMA ELLECTRONICA": "JOHN YAIR RUIZ GÓMEZ - 1801311167",
+            "AL PIE DE LA FIRMA": "JOHN YAIR RUIZ GÓMEZ - 1801311167"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1801311167",
+            "NOMBRES": "JOHN YAIR RUIZ GÓMEZ",
+            "FECHA NACIMIENTO": "15/07/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.555.934",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOHN YAIR RUIZ GÓMEZ - 1801311167",
+            "AL PIE DE LA FIRMA": "JOHN YAIR RUIZ GÓMEZ - 1801311167"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1236139",
+            "CEDULA": "1801311167",
+            "NOMBRES": "JOHN YAIR RUIZ GÓMEZ",
+            "CREDITO": "15.555.934",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "173.353",
+            "E.A": "19.83%",
+            "RECOMPRA O DESEMBOLSO": "3.532.467",
+            "FIRMA ELLECTRONICA": "JOHN YAIR RUIZ GÓMEZ - 1801311167"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1801311167",
+            "NOMBRES": "JOHN YAIR RUIZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "JOHN YAIR RUIZ GÓMEZ - 1801311167"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1801311167",
+            "NOMBRES": "JOHN YAIR RUIZ GÓMEZ",
+            "FIRMA ELLECTRONICA": "JOHN YAIR RUIZ GÓMEZ - 1801311167",
+            "AL PIE DE LA FIRMA": "JOHN YAIR RUIZ GÓMEZ - 1801311167"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN YAIR RUIZ GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1801311167",
+            "NOMBRES": "JOHN YAIR RUIZ GÓMEZ",
+            "SALARIO": "2.269.767",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1801311167",
+            "NOMBRES": "JOHN YAIR RUIZ GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.532.467"
+        }
+    }
+]

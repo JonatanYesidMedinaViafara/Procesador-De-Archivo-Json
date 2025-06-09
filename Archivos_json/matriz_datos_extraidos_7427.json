@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "605895752116",
+            "SOLICITUD": "8513208",
+            "CEDULA": "1631869124",
+            "NOMBRES": "MARTÍN IVÁN GALEANO FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "3.973.389",
+            "FIRMA ELLECTRONICA": "MARTÍN IVÁN GALEANO FLÓREZ - 1631869124"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "605895752116",
+            "NOMBRES": "MARTÍN IVÁN GALEANO FLÓREZ",
+            "CREDITO": "18.290.066",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "360.53",
+            "FIRMA ELLECTRONICA": "MARTÍN IVÁN GALEANO FLÓREZ - 1631869124",
+            "AL PIE DE LA FIRMA": "MARTÍN IVÁN GALEANO FLÓREZ - 1631869124"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1631869124",
+            "NOMBRES": "MARTÍN IVÁN GALEANO FLÓREZ",
+            "FECHA NACIMIENTO": "07/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.290.066",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARTÍN IVÁN GALEANO FLÓREZ - 1631869124",
+            "AL PIE DE LA FIRMA": "MARTÍN IVÁN GALEANO FLÓREZ - 1631869124"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8513208",
+            "CEDULA": "1631869124",
+            "NOMBRES": "MARTÍN IVÁN GALEANO FLÓREZ",
+            "CREDITO": "18.290.066",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "360.53",
+            "E.A": "20.3%",
+            "RECOMPRA O DESEMBOLSO": "3.973.389",
+            "FIRMA ELLECTRONICA": "MARTÍN IVÁN GALEANO FLÓREZ - 1631869124"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1631869124",
+            "NOMBRES": "MARTÍN IVÁN GALEANO FLÓREZ",
+            "FIRMA ELLECTRONICA": "MARTÍN IVÁN GALEANO FLÓREZ - 1631869124"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1631869124",
+            "NOMBRES": "MARTÍN IVÁN GALEANO FLÓREZ",
+            "FIRMA ELLECTRONICA": "MARTÍN IVÁN GALEANO FLÓREZ - 1631869124",
+            "AL PIE DE LA FIRMA": "MARTÍN IVÁN GALEANO FLÓREZ - 1631869124"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTÍN IVÁN GALEANO FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1631869124",
+            "NOMBRES": "MARTÍN IVÁN GALEANO FLÓREZ",
+            "SALARIO": "4.870.167",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1631869124",
+            "NOMBRES": "MARTÍN IVÁN GALEANO FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "3.973.389"
+        }
+    }
+]

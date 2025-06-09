@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "506972027859",
+            "SOLICITUD": "7764002",
+            "CEDULA": "1230449182",
+            "NOMBRES": "ENRIQUE GAVIRIA",
+            "RECOMPRA O DESEMBOLSO": "4.657.504",
+            "FIRMA ELLECTRONICA": "ENRIQUE GAVIRIA - 1230449182"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "506972027859",
+            "NOMBRES": "ENRIQUE GAVIRIA",
+            "CREDITO": "12.113.388",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "136.451",
+            "FIRMA ELLECTRONICA": "ENRIQUE GAVIRIA - 1230449182",
+            "AL PIE DE LA FIRMA": "ENRIQUE GAVIRIA - 1230449182"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1230449182",
+            "NOMBRES": "ENRIQUE GAVIRIA",
+            "FECHA NACIMIENTO": "21/11/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.113.388",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE GAVIRIA - 1230449182",
+            "AL PIE DE LA FIRMA": "ENRIQUE GAVIRIA - 1230449182"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7764002",
+            "CEDULA": "1230449182",
+            "NOMBRES": "ENRIQUE GAVIRIA",
+            "CREDITO": "12.113.388",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "136.451",
+            "E.A": "25.99%",
+            "RECOMPRA O DESEMBOLSO": "4.657.504",
+            "FIRMA ELLECTRONICA": "ENRIQUE GAVIRIA - 1230449182"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1230449182",
+            "NOMBRES": "ENRIQUE GAVIRIA",
+            "FIRMA ELLECTRONICA": "ENRIQUE GAVIRIA - 1230449182"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1230449182",
+            "NOMBRES": "ENRIQUE GAVIRIA",
+            "FIRMA ELLECTRONICA": "ENRIQUE GAVIRIA - 1230449182",
+            "AL PIE DE LA FIRMA": "ENRIQUE GAVIRIA - 1230449182"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE GAVIRIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1230449182",
+            "NOMBRES": "ENRIQUE GAVIRIA",
+            "SALARIO": "4.607.411",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1230449182",
+            "NOMBRES": "ENRIQUE GAVIRIA",
+            "RECOMPRA O DESEMBOLSO": "4.657.504"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "262370280040",
+            "SOLICITUD": "4442276",
+            "CEDULA": "1809895711",
+            "NOMBRES": "SIMÓN SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.269.518",
+            "FIRMA ELLECTRONICA": "SIMÓN SÁNCHEZ - 1809895711"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "262370280040",
+            "NOMBRES": "SIMÓN SÁNCHEZ",
+            "CREDITO": "9.027.499",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "290.233",
+            "FIRMA ELLECTRONICA": "SIMÓN SÁNCHEZ - 1809895711",
+            "AL PIE DE LA FIRMA": "SIMÓN SÁNCHEZ - 1809895711"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1809895711",
+            "NOMBRES": "SIMÓN SÁNCHEZ",
+            "FECHA NACIMIENTO": "13/07/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.027.499",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SIMÓN SÁNCHEZ - 1809895711",
+            "AL PIE DE LA FIRMA": "SIMÓN SÁNCHEZ - 1809895711"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4442276",
+            "CEDULA": "1809895711",
+            "NOMBRES": "SIMÓN SÁNCHEZ",
+            "CREDITO": "9.027.499",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "290.233",
+            "E.A": "26.49%",
+            "RECOMPRA O DESEMBOLSO": "1.269.518",
+            "FIRMA ELLECTRONICA": "SIMÓN SÁNCHEZ - 1809895711"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1809895711",
+            "NOMBRES": "SIMÓN SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "SIMÓN SÁNCHEZ - 1809895711"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1809895711",
+            "NOMBRES": "SIMÓN SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "SIMÓN SÁNCHEZ - 1809895711",
+            "AL PIE DE LA FIRMA": "SIMÓN SÁNCHEZ - 1809895711"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SIMÓN SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1809895711",
+            "NOMBRES": "SIMÓN SÁNCHEZ",
+            "SALARIO": "3.974.629",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1809895711",
+            "NOMBRES": "SIMÓN SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.269.518"
+        }
+    }
+]

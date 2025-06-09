@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "138955960796",
+            "SOLICITUD": "4090773",
+            "CEDULA": "1135982266",
+            "NOMBRES": "CARLOS MELO",
+            "RECOMPRA O DESEMBOLSO": "2.604.468",
+            "FIRMA ELLECTRONICA": "CARLOS MELO - 1135982266"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "138955960796",
+            "NOMBRES": "CARLOS MELO",
+            "CREDITO": "18.445.899",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "281.706",
+            "FIRMA ELLECTRONICA": "CARLOS MELO - 1135982266",
+            "AL PIE DE LA FIRMA": "CARLOS MELO - 1135982266"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1135982266",
+            "NOMBRES": "CARLOS MELO",
+            "FECHA NACIMIENTO": "06/07/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.445.899",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS MELO - 1135982266",
+            "AL PIE DE LA FIRMA": "CARLOS MELO - 1135982266"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4090773",
+            "CEDULA": "1135982266",
+            "NOMBRES": "CARLOS MELO",
+            "CREDITO": "18.445.899",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "281.706",
+            "E.A": "25.28%",
+            "RECOMPRA O DESEMBOLSO": "2.604.468",
+            "FIRMA ELLECTRONICA": "CARLOS MELO - 1135982266"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1135982266",
+            "NOMBRES": "CARLOS MELO",
+            "FIRMA ELLECTRONICA": "CARLOS MELO - 1135982266"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1135982266",
+            "NOMBRES": "CARLOS MELO",
+            "FIRMA ELLECTRONICA": "CARLOS MELO - 1135982266",
+            "AL PIE DE LA FIRMA": "CARLOS MELO - 1135982266"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS MELO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1135982266",
+            "NOMBRES": "CARLOS MELO",
+            "SALARIO": "3.868.722",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1135982266",
+            "NOMBRES": "CARLOS MELO",
+            "RECOMPRA O DESEMBOLSO": "2.604.468"
+        }
+    }
+]

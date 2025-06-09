@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "130361505016",
+            "SOLICITUD": "1606056",
+            "CEDULA": "1419004115",
+            "NOMBRES": "EDUARDO GARCÉS GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.370.750",
+            "FIRMA ELLECTRONICA": "EDUARDO GARCÉS GUERRERO - 1419004115"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "130361505016",
+            "NOMBRES": "EDUARDO GARCÉS GUERRERO",
+            "CREDITO": "18.342.354",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "152.444",
+            "FIRMA ELLECTRONICA": "EDUARDO GARCÉS GUERRERO - 1419004115",
+            "AL PIE DE LA FIRMA": "EDUARDO GARCÉS GUERRERO - 1419004115"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1419004115",
+            "NOMBRES": "EDUARDO GARCÉS GUERRERO",
+            "FECHA NACIMIENTO": "16/08/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.342.354",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "EDUARDO GARCÉS GUERRERO - 1419004115",
+            "AL PIE DE LA FIRMA": "EDUARDO GARCÉS GUERRERO - 1419004115"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1606056",
+            "CEDULA": "1419004115",
+            "NOMBRES": "EDUARDO GARCÉS GUERRERO",
+            "CREDITO": "18.342.354",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "152.444",
+            "E.A": "23.49%",
+            "RECOMPRA O DESEMBOLSO": "4.370.750",
+            "FIRMA ELLECTRONICA": "EDUARDO GARCÉS GUERRERO - 1419004115"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1419004115",
+            "NOMBRES": "EDUARDO GARCÉS GUERRERO",
+            "FIRMA ELLECTRONICA": "EDUARDO GARCÉS GUERRERO - 1419004115"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1419004115",
+            "NOMBRES": "EDUARDO GARCÉS GUERRERO",
+            "FIRMA ELLECTRONICA": "EDUARDO GARCÉS GUERRERO - 1419004115",
+            "AL PIE DE LA FIRMA": "EDUARDO GARCÉS GUERRERO - 1419004115"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO GARCÉS GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1419004115",
+            "NOMBRES": "EDUARDO GARCÉS GUERRERO",
+            "SALARIO": "2.346.698",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1419004115",
+            "NOMBRES": "EDUARDO GARCÉS GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.370.750"
+        }
+    }
+]

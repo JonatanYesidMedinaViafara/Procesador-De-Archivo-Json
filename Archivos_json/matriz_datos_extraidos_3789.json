@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "478456104034",
+            "SOLICITUD": "8674213",
+            "CEDULA": "1466383523",
+            "NOMBRES": "BLANCA PERDOMO",
+            "RECOMPRA O DESEMBOLSO": "4.030.680",
+            "FIRMA ELLECTRONICA": "BLANCA PERDOMO - 1466383523"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "478456104034",
+            "NOMBRES": "BLANCA PERDOMO",
+            "CREDITO": "11.919.541",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "325.333",
+            "FIRMA ELLECTRONICA": "BLANCA PERDOMO - 1466383523",
+            "AL PIE DE LA FIRMA": "BLANCA PERDOMO - 1466383523"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1466383523",
+            "NOMBRES": "BLANCA PERDOMO",
+            "FECHA NACIMIENTO": "14/11/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.919.541",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "BLANCA PERDOMO - 1466383523",
+            "AL PIE DE LA FIRMA": "BLANCA PERDOMO - 1466383523"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8674213",
+            "CEDULA": "1466383523",
+            "NOMBRES": "BLANCA PERDOMO",
+            "CREDITO": "11.919.541",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "325.333",
+            "E.A": "20.63%",
+            "RECOMPRA O DESEMBOLSO": "4.030.680",
+            "FIRMA ELLECTRONICA": "BLANCA PERDOMO - 1466383523"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1466383523",
+            "NOMBRES": "BLANCA PERDOMO",
+            "FIRMA ELLECTRONICA": "BLANCA PERDOMO - 1466383523"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1466383523",
+            "NOMBRES": "BLANCA PERDOMO",
+            "FIRMA ELLECTRONICA": "BLANCA PERDOMO - 1466383523",
+            "AL PIE DE LA FIRMA": "BLANCA PERDOMO - 1466383523"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BLANCA PERDOMO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1466383523",
+            "NOMBRES": "BLANCA PERDOMO",
+            "SALARIO": "4.555.351",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1466383523",
+            "NOMBRES": "BLANCA PERDOMO",
+            "RECOMPRA O DESEMBOLSO": "4.030.680"
+        }
+    }
+]

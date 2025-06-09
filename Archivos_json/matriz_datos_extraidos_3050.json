@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "782118954526",
+            "SOLICITUD": "6041401",
+            "CEDULA": "1694955756",
+            "NOMBRES": "ALFREDO LEONARDO PACHECO",
+            "RECOMPRA O DESEMBOLSO": "2.298.250",
+            "FIRMA ELLECTRONICA": "ALFREDO LEONARDO PACHECO - 1694955756"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "782118954526",
+            "NOMBRES": "ALFREDO LEONARDO PACHECO",
+            "CREDITO": "6.541.138",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "120.007",
+            "FIRMA ELLECTRONICA": "ALFREDO LEONARDO PACHECO - 1694955756",
+            "AL PIE DE LA FIRMA": "ALFREDO LEONARDO PACHECO - 1694955756"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1694955756",
+            "NOMBRES": "ALFREDO LEONARDO PACHECO",
+            "FECHA NACIMIENTO": "15/09/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.541.138",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALFREDO LEONARDO PACHECO - 1694955756",
+            "AL PIE DE LA FIRMA": "ALFREDO LEONARDO PACHECO - 1694955756"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6041401",
+            "CEDULA": "1694955756",
+            "NOMBRES": "ALFREDO LEONARDO PACHECO",
+            "CREDITO": "6.541.138",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "120.007",
+            "E.A": "20.9%",
+            "RECOMPRA O DESEMBOLSO": "2.298.250",
+            "FIRMA ELLECTRONICA": "ALFREDO LEONARDO PACHECO - 1694955756"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1694955756",
+            "NOMBRES": "ALFREDO LEONARDO PACHECO",
+            "FIRMA ELLECTRONICA": "ALFREDO LEONARDO PACHECO - 1694955756"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1694955756",
+            "NOMBRES": "ALFREDO LEONARDO PACHECO",
+            "FIRMA ELLECTRONICA": "ALFREDO LEONARDO PACHECO - 1694955756",
+            "AL PIE DE LA FIRMA": "ALFREDO LEONARDO PACHECO - 1694955756"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFREDO LEONARDO PACHECO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1694955756",
+            "NOMBRES": "ALFREDO LEONARDO PACHECO",
+            "SALARIO": "2.092.430",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1694955756",
+            "NOMBRES": "ALFREDO LEONARDO PACHECO",
+            "RECOMPRA O DESEMBOLSO": "2.298.250"
+        }
+    }
+]

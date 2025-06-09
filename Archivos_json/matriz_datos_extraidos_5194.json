@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "232114533934",
+            "SOLICITUD": "3239292",
+            "CEDULA": "1858610793",
+            "NOMBRES": "JOSÉ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.346.848",
+            "FIRMA ELLECTRONICA": "JOSÉ ROMERO - 1858610793"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "232114533934",
+            "NOMBRES": "JOSÉ ROMERO",
+            "CREDITO": "10.917.573",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "210.945",
+            "FIRMA ELLECTRONICA": "JOSÉ ROMERO - 1858610793",
+            "AL PIE DE LA FIRMA": "JOSÉ ROMERO - 1858610793"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1858610793",
+            "NOMBRES": "JOSÉ ROMERO",
+            "FECHA NACIMIENTO": "31/05/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.917.573",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOSÉ ROMERO - 1858610793",
+            "AL PIE DE LA FIRMA": "JOSÉ ROMERO - 1858610793"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3239292",
+            "CEDULA": "1858610793",
+            "NOMBRES": "JOSÉ ROMERO",
+            "CREDITO": "10.917.573",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "210.945",
+            "E.A": "21.84%",
+            "RECOMPRA O DESEMBOLSO": "1.346.848",
+            "FIRMA ELLECTRONICA": "JOSÉ ROMERO - 1858610793"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1858610793",
+            "NOMBRES": "JOSÉ ROMERO",
+            "FIRMA ELLECTRONICA": "JOSÉ ROMERO - 1858610793"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1858610793",
+            "NOMBRES": "JOSÉ ROMERO",
+            "FIRMA ELLECTRONICA": "JOSÉ ROMERO - 1858610793",
+            "AL PIE DE LA FIRMA": "JOSÉ ROMERO - 1858610793"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1858610793",
+            "NOMBRES": "JOSÉ ROMERO",
+            "SALARIO": "2.584.409",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1858610793",
+            "NOMBRES": "JOSÉ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "1.346.848"
+        }
+    }
+]

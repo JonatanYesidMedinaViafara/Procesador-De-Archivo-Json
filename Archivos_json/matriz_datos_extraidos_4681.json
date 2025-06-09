@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "420554981824",
+            "SOLICITUD": "6837307",
+            "CEDULA": "1493083599",
+            "NOMBRES": "ELÍAS QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.670.301",
+            "FIRMA ELLECTRONICA": "ELÍAS QUINTERO - 1493083599"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "420554981824",
+            "NOMBRES": "ELÍAS QUINTERO",
+            "CREDITO": "13.281.707",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "168.122",
+            "FIRMA ELLECTRONICA": "ELÍAS QUINTERO - 1493083599",
+            "AL PIE DE LA FIRMA": "ELÍAS QUINTERO - 1493083599"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1493083599",
+            "NOMBRES": "ELÍAS QUINTERO",
+            "FECHA NACIMIENTO": "02/09/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.281.707",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ELÍAS QUINTERO - 1493083599",
+            "AL PIE DE LA FIRMA": "ELÍAS QUINTERO - 1493083599"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6837307",
+            "CEDULA": "1493083599",
+            "NOMBRES": "ELÍAS QUINTERO",
+            "CREDITO": "13.281.707",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "168.122",
+            "E.A": "22.78%",
+            "RECOMPRA O DESEMBOLSO": "2.670.301",
+            "FIRMA ELLECTRONICA": "ELÍAS QUINTERO - 1493083599"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1493083599",
+            "NOMBRES": "ELÍAS QUINTERO",
+            "FIRMA ELLECTRONICA": "ELÍAS QUINTERO - 1493083599"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1493083599",
+            "NOMBRES": "ELÍAS QUINTERO",
+            "FIRMA ELLECTRONICA": "ELÍAS QUINTERO - 1493083599",
+            "AL PIE DE LA FIRMA": "ELÍAS QUINTERO - 1493083599"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELÍAS QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1493083599",
+            "NOMBRES": "ELÍAS QUINTERO",
+            "SALARIO": "1.592.628",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1493083599",
+            "NOMBRES": "ELÍAS QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.670.301"
+        }
+    }
+]

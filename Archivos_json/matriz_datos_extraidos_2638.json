@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "575443594020",
+            "SOLICITUD": "7322386",
+            "CEDULA": "1237171298",
+            "NOMBRES": "NATALIA JOHANA MORA",
+            "RECOMPRA O DESEMBOLSO": "3.797.626",
+            "FIRMA ELLECTRONICA": "NATALIA JOHANA MORA - 1237171298"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "575443594020",
+            "NOMBRES": "NATALIA JOHANA MORA",
+            "CREDITO": "9.208.172",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "370.04",
+            "FIRMA ELLECTRONICA": "NATALIA JOHANA MORA - 1237171298",
+            "AL PIE DE LA FIRMA": "NATALIA JOHANA MORA - 1237171298"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1237171298",
+            "NOMBRES": "NATALIA JOHANA MORA",
+            "FECHA NACIMIENTO": "04/08/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.208.172",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "NATALIA JOHANA MORA - 1237171298",
+            "AL PIE DE LA FIRMA": "NATALIA JOHANA MORA - 1237171298"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7322386",
+            "CEDULA": "1237171298",
+            "NOMBRES": "NATALIA JOHANA MORA",
+            "CREDITO": "9.208.172",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "370.04",
+            "E.A": "25.3%",
+            "RECOMPRA O DESEMBOLSO": "3.797.626",
+            "FIRMA ELLECTRONICA": "NATALIA JOHANA MORA - 1237171298"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1237171298",
+            "NOMBRES": "NATALIA JOHANA MORA",
+            "FIRMA ELLECTRONICA": "NATALIA JOHANA MORA - 1237171298"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1237171298",
+            "NOMBRES": "NATALIA JOHANA MORA",
+            "FIRMA ELLECTRONICA": "NATALIA JOHANA MORA - 1237171298",
+            "AL PIE DE LA FIRMA": "NATALIA JOHANA MORA - 1237171298"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NATALIA JOHANA MORA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1237171298",
+            "NOMBRES": "NATALIA JOHANA MORA",
+            "SALARIO": "4.415.982",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1237171298",
+            "NOMBRES": "NATALIA JOHANA MORA",
+            "RECOMPRA O DESEMBOLSO": "3.797.626"
+        }
+    }
+]

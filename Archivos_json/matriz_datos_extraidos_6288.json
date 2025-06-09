@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "288699944588",
+            "SOLICITUD": "7693983",
+            "CEDULA": "1846430306",
+            "NOMBRES": "JUAN ANTONIO RODRÍGUEZ MOLINA",
+            "RECOMPRA O DESEMBOLSO": "3.802.573",
+            "FIRMA ELLECTRONICA": "JUAN ANTONIO RODRÍGUEZ MOLINA - 1846430306"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "288699944588",
+            "NOMBRES": "JUAN ANTONIO RODRÍGUEZ MOLINA",
+            "CREDITO": "7.099.607",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "164.824",
+            "FIRMA ELLECTRONICA": "JUAN ANTONIO RODRÍGUEZ MOLINA - 1846430306",
+            "AL PIE DE LA FIRMA": "JUAN ANTONIO RODRÍGUEZ MOLINA - 1846430306"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1846430306",
+            "NOMBRES": "JUAN ANTONIO RODRÍGUEZ MOLINA",
+            "FECHA NACIMIENTO": "14/02/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.099.607",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JUAN ANTONIO RODRÍGUEZ MOLINA - 1846430306",
+            "AL PIE DE LA FIRMA": "JUAN ANTONIO RODRÍGUEZ MOLINA - 1846430306"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7693983",
+            "CEDULA": "1846430306",
+            "NOMBRES": "JUAN ANTONIO RODRÍGUEZ MOLINA",
+            "CREDITO": "7.099.607",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "164.824",
+            "E.A": "23.74%",
+            "RECOMPRA O DESEMBOLSO": "3.802.573",
+            "FIRMA ELLECTRONICA": "JUAN ANTONIO RODRÍGUEZ MOLINA - 1846430306"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1846430306",
+            "NOMBRES": "JUAN ANTONIO RODRÍGUEZ MOLINA",
+            "FIRMA ELLECTRONICA": "JUAN ANTONIO RODRÍGUEZ MOLINA - 1846430306"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1846430306",
+            "NOMBRES": "JUAN ANTONIO RODRÍGUEZ MOLINA",
+            "FIRMA ELLECTRONICA": "JUAN ANTONIO RODRÍGUEZ MOLINA - 1846430306",
+            "AL PIE DE LA FIRMA": "JUAN ANTONIO RODRÍGUEZ MOLINA - 1846430306"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ANTONIO RODRÍGUEZ MOLINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1846430306",
+            "NOMBRES": "JUAN ANTONIO RODRÍGUEZ MOLINA",
+            "SALARIO": "2.358.807",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1846430306",
+            "NOMBRES": "JUAN ANTONIO RODRÍGUEZ MOLINA",
+            "RECOMPRA O DESEMBOLSO": "3.802.573"
+        }
+    }
+]

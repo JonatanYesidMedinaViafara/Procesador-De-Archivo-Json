@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "847284337982",
+            "SOLICITUD": "7436476",
+            "CEDULA": "1041973336",
+            "NOMBRES": "DIDIER DAVID FLÓREZ BERNAL",
+            "RECOMPRA O DESEMBOLSO": "1.439.604",
+            "FIRMA ELLECTRONICA": "DIDIER DAVID FLÓREZ BERNAL - 1041973336"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "847284337982",
+            "NOMBRES": "DIDIER DAVID FLÓREZ BERNAL",
+            "CREDITO": "17.522.017",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "314.607",
+            "FIRMA ELLECTRONICA": "DIDIER DAVID FLÓREZ BERNAL - 1041973336",
+            "AL PIE DE LA FIRMA": "DIDIER DAVID FLÓREZ BERNAL - 1041973336"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1041973336",
+            "NOMBRES": "DIDIER DAVID FLÓREZ BERNAL",
+            "FECHA NACIMIENTO": "20/10/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.522.017",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DIDIER DAVID FLÓREZ BERNAL - 1041973336",
+            "AL PIE DE LA FIRMA": "DIDIER DAVID FLÓREZ BERNAL - 1041973336"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7436476",
+            "CEDULA": "1041973336",
+            "NOMBRES": "DIDIER DAVID FLÓREZ BERNAL",
+            "CREDITO": "17.522.017",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "314.607",
+            "E.A": "22.41%",
+            "RECOMPRA O DESEMBOLSO": "1.439.604",
+            "FIRMA ELLECTRONICA": "DIDIER DAVID FLÓREZ BERNAL - 1041973336"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1041973336",
+            "NOMBRES": "DIDIER DAVID FLÓREZ BERNAL",
+            "FIRMA ELLECTRONICA": "DIDIER DAVID FLÓREZ BERNAL - 1041973336"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1041973336",
+            "NOMBRES": "DIDIER DAVID FLÓREZ BERNAL",
+            "FIRMA ELLECTRONICA": "DIDIER DAVID FLÓREZ BERNAL - 1041973336",
+            "AL PIE DE LA FIRMA": "DIDIER DAVID FLÓREZ BERNAL - 1041973336"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIDIER DAVID FLÓREZ BERNAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1041973336",
+            "NOMBRES": "DIDIER DAVID FLÓREZ BERNAL",
+            "SALARIO": "4.864.958",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1041973336",
+            "NOMBRES": "DIDIER DAVID FLÓREZ BERNAL",
+            "RECOMPRA O DESEMBOLSO": "1.439.604"
+        }
+    }
+]

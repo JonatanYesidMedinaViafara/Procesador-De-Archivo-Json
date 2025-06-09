@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "176470517817",
+            "SOLICITUD": "3596090",
+            "CEDULA": "1685825003",
+            "NOMBRES": "ALBERTO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.684.602",
+            "FIRMA ELLECTRONICA": "ALBERTO PÉREZ - 1685825003"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "176470517817",
+            "NOMBRES": "ALBERTO PÉREZ",
+            "CREDITO": "15.112.292",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "173.932",
+            "FIRMA ELLECTRONICA": "ALBERTO PÉREZ - 1685825003",
+            "AL PIE DE LA FIRMA": "ALBERTO PÉREZ - 1685825003"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1685825003",
+            "NOMBRES": "ALBERTO PÉREZ",
+            "FECHA NACIMIENTO": "09/07/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.112.292",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALBERTO PÉREZ - 1685825003",
+            "AL PIE DE LA FIRMA": "ALBERTO PÉREZ - 1685825003"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3596090",
+            "CEDULA": "1685825003",
+            "NOMBRES": "ALBERTO PÉREZ",
+            "CREDITO": "15.112.292",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "173.932",
+            "E.A": "26.76%",
+            "RECOMPRA O DESEMBOLSO": "3.684.602",
+            "FIRMA ELLECTRONICA": "ALBERTO PÉREZ - 1685825003"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1685825003",
+            "NOMBRES": "ALBERTO PÉREZ",
+            "FIRMA ELLECTRONICA": "ALBERTO PÉREZ - 1685825003"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1685825003",
+            "NOMBRES": "ALBERTO PÉREZ",
+            "FIRMA ELLECTRONICA": "ALBERTO PÉREZ - 1685825003",
+            "AL PIE DE LA FIRMA": "ALBERTO PÉREZ - 1685825003"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1685825003",
+            "NOMBRES": "ALBERTO PÉREZ",
+            "SALARIO": "4.256.654",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1685825003",
+            "NOMBRES": "ALBERTO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.684.602"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "568980682840",
+            "SOLICITUD": "8473199",
+            "CEDULA": "1042430881",
+            "NOMBRES": "CECILIA PEREA PERDOMO",
+            "RECOMPRA O DESEMBOLSO": "2.998.318",
+            "FIRMA ELLECTRONICA": "CECILIA PEREA PERDOMO - 1042430881"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "568980682840",
+            "NOMBRES": "CECILIA PEREA PERDOMO",
+            "CREDITO": "15.967.208",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "346.694",
+            "FIRMA ELLECTRONICA": "CECILIA PEREA PERDOMO - 1042430881",
+            "AL PIE DE LA FIRMA": "CECILIA PEREA PERDOMO - 1042430881"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1042430881",
+            "NOMBRES": "CECILIA PEREA PERDOMO",
+            "FECHA NACIMIENTO": "22/08/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.967.208",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CECILIA PEREA PERDOMO - 1042430881",
+            "AL PIE DE LA FIRMA": "CECILIA PEREA PERDOMO - 1042430881"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8473199",
+            "CEDULA": "1042430881",
+            "NOMBRES": "CECILIA PEREA PERDOMO",
+            "CREDITO": "15.967.208",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "346.694",
+            "E.A": "20.64%",
+            "RECOMPRA O DESEMBOLSO": "2.998.318",
+            "FIRMA ELLECTRONICA": "CECILIA PEREA PERDOMO - 1042430881"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1042430881",
+            "NOMBRES": "CECILIA PEREA PERDOMO",
+            "FIRMA ELLECTRONICA": "CECILIA PEREA PERDOMO - 1042430881"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1042430881",
+            "NOMBRES": "CECILIA PEREA PERDOMO",
+            "FIRMA ELLECTRONICA": "CECILIA PEREA PERDOMO - 1042430881",
+            "AL PIE DE LA FIRMA": "CECILIA PEREA PERDOMO - 1042430881"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA PEREA PERDOMO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1042430881",
+            "NOMBRES": "CECILIA PEREA PERDOMO",
+            "SALARIO": "2.539.692",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1042430881",
+            "NOMBRES": "CECILIA PEREA PERDOMO",
+            "RECOMPRA O DESEMBOLSO": "2.998.318"
+        }
+    }
+]

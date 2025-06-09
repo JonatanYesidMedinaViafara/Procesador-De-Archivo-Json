@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "767486894788",
+            "SOLICITUD": "5661124",
+            "CEDULA": "1109532103",
+            "NOMBRES": "JOSÉ SÁNCHEZ RENTERÍA",
+            "RECOMPRA O DESEMBOLSO": "3.600.376",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RENTERÍA - 1109532103"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "767486894788",
+            "NOMBRES": "JOSÉ SÁNCHEZ RENTERÍA",
+            "CREDITO": "7.788.868",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "252.333",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RENTERÍA - 1109532103",
+            "AL PIE DE LA FIRMA": "JOSÉ SÁNCHEZ RENTERÍA - 1109532103"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1109532103",
+            "NOMBRES": "JOSÉ SÁNCHEZ RENTERÍA",
+            "FECHA NACIMIENTO": "10/10/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.788.868",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RENTERÍA - 1109532103",
+            "AL PIE DE LA FIRMA": "JOSÉ SÁNCHEZ RENTERÍA - 1109532103"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5661124",
+            "CEDULA": "1109532103",
+            "NOMBRES": "JOSÉ SÁNCHEZ RENTERÍA",
+            "CREDITO": "7.788.868",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "252.333",
+            "E.A": "28.91%",
+            "RECOMPRA O DESEMBOLSO": "3.600.376",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RENTERÍA - 1109532103"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1109532103",
+            "NOMBRES": "JOSÉ SÁNCHEZ RENTERÍA",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RENTERÍA - 1109532103"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1109532103",
+            "NOMBRES": "JOSÉ SÁNCHEZ RENTERÍA",
+            "FIRMA ELLECTRONICA": "JOSÉ SÁNCHEZ RENTERÍA - 1109532103",
+            "AL PIE DE LA FIRMA": "JOSÉ SÁNCHEZ RENTERÍA - 1109532103"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ SÁNCHEZ RENTERÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1109532103",
+            "NOMBRES": "JOSÉ SÁNCHEZ RENTERÍA",
+            "SALARIO": "3.886.770",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1109532103",
+            "NOMBRES": "JOSÉ SÁNCHEZ RENTERÍA",
+            "RECOMPRA O DESEMBOLSO": "3.600.376"
+        }
+    }
+]

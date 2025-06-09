@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "527028250233",
+            "SOLICITUD": "4871861",
+            "CEDULA": "1130495860",
+            "NOMBRES": "HERNANDO JORGE RÍOS PÁEZ",
+            "RECOMPRA O DESEMBOLSO": "1.709.388",
+            "FIRMA ELLECTRONICA": "HERNANDO JORGE RÍOS PÁEZ - 1130495860"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "527028250233",
+            "NOMBRES": "HERNANDO JORGE RÍOS PÁEZ",
+            "CREDITO": "15.430.549",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "265.563",
+            "FIRMA ELLECTRONICA": "HERNANDO JORGE RÍOS PÁEZ - 1130495860",
+            "AL PIE DE LA FIRMA": "HERNANDO JORGE RÍOS PÁEZ - 1130495860"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1130495860",
+            "NOMBRES": "HERNANDO JORGE RÍOS PÁEZ",
+            "FECHA NACIMIENTO": "18/06/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.430.549",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "HERNANDO JORGE RÍOS PÁEZ - 1130495860",
+            "AL PIE DE LA FIRMA": "HERNANDO JORGE RÍOS PÁEZ - 1130495860"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4871861",
+            "CEDULA": "1130495860",
+            "NOMBRES": "HERNANDO JORGE RÍOS PÁEZ",
+            "CREDITO": "15.430.549",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "265.563",
+            "E.A": "21.99%",
+            "RECOMPRA O DESEMBOLSO": "1.709.388",
+            "FIRMA ELLECTRONICA": "HERNANDO JORGE RÍOS PÁEZ - 1130495860"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1130495860",
+            "NOMBRES": "HERNANDO JORGE RÍOS PÁEZ",
+            "FIRMA ELLECTRONICA": "HERNANDO JORGE RÍOS PÁEZ - 1130495860"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1130495860",
+            "NOMBRES": "HERNANDO JORGE RÍOS PÁEZ",
+            "FIRMA ELLECTRONICA": "HERNANDO JORGE RÍOS PÁEZ - 1130495860",
+            "AL PIE DE LA FIRMA": "HERNANDO JORGE RÍOS PÁEZ - 1130495860"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNANDO JORGE RÍOS PÁEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1130495860",
+            "NOMBRES": "HERNANDO JORGE RÍOS PÁEZ",
+            "SALARIO": "1.886.056",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1130495860",
+            "NOMBRES": "HERNANDO JORGE RÍOS PÁEZ",
+            "RECOMPRA O DESEMBOLSO": "1.709.388"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "970164728912",
+            "SOLICITUD": "9572831",
+            "CEDULA": "1161085121",
+            "NOMBRES": "EDUARDO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.331.562",
+            "FIRMA ELLECTRONICA": "EDUARDO PÉREZ - 1161085121"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "970164728912",
+            "NOMBRES": "EDUARDO PÉREZ",
+            "CREDITO": "12.277.414",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.476",
+            "FIRMA ELLECTRONICA": "EDUARDO PÉREZ - 1161085121",
+            "AL PIE DE LA FIRMA": "EDUARDO PÉREZ - 1161085121"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1161085121",
+            "NOMBRES": "EDUARDO PÉREZ",
+            "FECHA NACIMIENTO": "16/08/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.277.414",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EDUARDO PÉREZ - 1161085121",
+            "AL PIE DE LA FIRMA": "EDUARDO PÉREZ - 1161085121"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9572831",
+            "CEDULA": "1161085121",
+            "NOMBRES": "EDUARDO PÉREZ",
+            "CREDITO": "12.277.414",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "378.476",
+            "E.A": "25.68%",
+            "RECOMPRA O DESEMBOLSO": "2.331.562",
+            "FIRMA ELLECTRONICA": "EDUARDO PÉREZ - 1161085121"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1161085121",
+            "NOMBRES": "EDUARDO PÉREZ",
+            "FIRMA ELLECTRONICA": "EDUARDO PÉREZ - 1161085121"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1161085121",
+            "NOMBRES": "EDUARDO PÉREZ",
+            "FIRMA ELLECTRONICA": "EDUARDO PÉREZ - 1161085121",
+            "AL PIE DE LA FIRMA": "EDUARDO PÉREZ - 1161085121"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1161085121",
+            "NOMBRES": "EDUARDO PÉREZ",
+            "SALARIO": "4.692.488",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1161085121",
+            "NOMBRES": "EDUARDO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "2.331.562"
+        }
+    }
+]

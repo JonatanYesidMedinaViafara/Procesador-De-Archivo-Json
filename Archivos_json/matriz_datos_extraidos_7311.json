@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "578214221526",
+            "SOLICITUD": "6301282",
+            "CEDULA": "1065048925",
+            "NOMBRES": "CECILIA GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "3.299.556",
+            "FIRMA ELLECTRONICA": "CECILIA GUZMÁN - 1065048925"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "578214221526",
+            "NOMBRES": "CECILIA GUZMÁN",
+            "CREDITO": "6.242.684",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "184.676",
+            "FIRMA ELLECTRONICA": "CECILIA GUZMÁN - 1065048925",
+            "AL PIE DE LA FIRMA": "CECILIA GUZMÁN - 1065048925"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1065048925",
+            "NOMBRES": "CECILIA GUZMÁN",
+            "FECHA NACIMIENTO": "30/07/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.242.684",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CECILIA GUZMÁN - 1065048925",
+            "AL PIE DE LA FIRMA": "CECILIA GUZMÁN - 1065048925"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6301282",
+            "CEDULA": "1065048925",
+            "NOMBRES": "CECILIA GUZMÁN",
+            "CREDITO": "6.242.684",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "184.676",
+            "E.A": "22.63%",
+            "RECOMPRA O DESEMBOLSO": "3.299.556",
+            "FIRMA ELLECTRONICA": "CECILIA GUZMÁN - 1065048925"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1065048925",
+            "NOMBRES": "CECILIA GUZMÁN",
+            "FIRMA ELLECTRONICA": "CECILIA GUZMÁN - 1065048925"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1065048925",
+            "NOMBRES": "CECILIA GUZMÁN",
+            "FIRMA ELLECTRONICA": "CECILIA GUZMÁN - 1065048925",
+            "AL PIE DE LA FIRMA": "CECILIA GUZMÁN - 1065048925"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA GUZMÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1065048925",
+            "NOMBRES": "CECILIA GUZMÁN",
+            "SALARIO": "1.884.717",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1065048925",
+            "NOMBRES": "CECILIA GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "3.299.556"
+        }
+    }
+]

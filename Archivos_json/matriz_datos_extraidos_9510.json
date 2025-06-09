@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "172949534335",
+            "SOLICITUD": "1459140",
+            "CEDULA": "1967009461",
+            "NOMBRES": "MARCO GIL",
+            "RECOMPRA O DESEMBOLSO": "1.715.296",
+            "FIRMA ELLECTRONICA": "MARCO GIL - 1967009461"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "172949534335",
+            "NOMBRES": "MARCO GIL",
+            "CREDITO": "18.372.895",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "247.513",
+            "FIRMA ELLECTRONICA": "MARCO GIL - 1967009461",
+            "AL PIE DE LA FIRMA": "MARCO GIL - 1967009461"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1967009461",
+            "NOMBRES": "MARCO GIL",
+            "FECHA NACIMIENTO": "31/07/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.372.895",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARCO GIL - 1967009461",
+            "AL PIE DE LA FIRMA": "MARCO GIL - 1967009461"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1459140",
+            "CEDULA": "1967009461",
+            "NOMBRES": "MARCO GIL",
+            "CREDITO": "18.372.895",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "247.513",
+            "E.A": "24.48%",
+            "RECOMPRA O DESEMBOLSO": "1.715.296",
+            "FIRMA ELLECTRONICA": "MARCO GIL - 1967009461"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1967009461",
+            "NOMBRES": "MARCO GIL",
+            "FIRMA ELLECTRONICA": "MARCO GIL - 1967009461"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1967009461",
+            "NOMBRES": "MARCO GIL",
+            "FIRMA ELLECTRONICA": "MARCO GIL - 1967009461",
+            "AL PIE DE LA FIRMA": "MARCO GIL - 1967009461"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCO GIL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1967009461",
+            "NOMBRES": "MARCO GIL",
+            "SALARIO": "2.615.991",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1967009461",
+            "NOMBRES": "MARCO GIL",
+            "RECOMPRA O DESEMBOLSO": "1.715.296"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "974922017048",
+            "SOLICITUD": "6764231",
+            "CEDULA": "1098118578",
+            "NOMBRES": "ADOLFO BRAVO",
+            "RECOMPRA O DESEMBOLSO": "3.594.487",
+            "FIRMA ELLECTRONICA": "ADOLFO BRAVO - 1098118578"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "974922017048",
+            "NOMBRES": "ADOLFO BRAVO",
+            "CREDITO": "10.575.301",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.584",
+            "FIRMA ELLECTRONICA": "ADOLFO BRAVO - 1098118578",
+            "AL PIE DE LA FIRMA": "ADOLFO BRAVO - 1098118578"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1098118578",
+            "NOMBRES": "ADOLFO BRAVO",
+            "FECHA NACIMIENTO": "24/08/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.575.301",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ADOLFO BRAVO - 1098118578",
+            "AL PIE DE LA FIRMA": "ADOLFO BRAVO - 1098118578"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6764231",
+            "CEDULA": "1098118578",
+            "NOMBRES": "ADOLFO BRAVO",
+            "CREDITO": "10.575.301",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "336.584",
+            "E.A": "23.19%",
+            "RECOMPRA O DESEMBOLSO": "3.594.487",
+            "FIRMA ELLECTRONICA": "ADOLFO BRAVO - 1098118578"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1098118578",
+            "NOMBRES": "ADOLFO BRAVO",
+            "FIRMA ELLECTRONICA": "ADOLFO BRAVO - 1098118578"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1098118578",
+            "NOMBRES": "ADOLFO BRAVO",
+            "FIRMA ELLECTRONICA": "ADOLFO BRAVO - 1098118578",
+            "AL PIE DE LA FIRMA": "ADOLFO BRAVO - 1098118578"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ADOLFO BRAVO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1098118578",
+            "NOMBRES": "ADOLFO BRAVO",
+            "SALARIO": "4.040.112",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1098118578",
+            "NOMBRES": "ADOLFO BRAVO",
+            "RECOMPRA O DESEMBOLSO": "3.594.487"
+        }
+    }
+]

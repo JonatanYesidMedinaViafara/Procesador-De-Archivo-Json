@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "953298985450",
+            "SOLICITUD": "9752286",
+            "CEDULA": "1197063123",
+            "NOMBRES": "VICTORIA CRISTINA PÉREZ RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.861.541",
+            "FIRMA ELLECTRONICA": "VICTORIA CRISTINA PÉREZ RINCÓN - 1197063123"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "953298985450",
+            "NOMBRES": "VICTORIA CRISTINA PÉREZ RINCÓN",
+            "CREDITO": "5.254.730",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "296.854",
+            "FIRMA ELLECTRONICA": "VICTORIA CRISTINA PÉREZ RINCÓN - 1197063123",
+            "AL PIE DE LA FIRMA": "VICTORIA CRISTINA PÉREZ RINCÓN - 1197063123"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1197063123",
+            "NOMBRES": "VICTORIA CRISTINA PÉREZ RINCÓN",
+            "FECHA NACIMIENTO": "01/05/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.254.730",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "VICTORIA CRISTINA PÉREZ RINCÓN - 1197063123",
+            "AL PIE DE LA FIRMA": "VICTORIA CRISTINA PÉREZ RINCÓN - 1197063123"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9752286",
+            "CEDULA": "1197063123",
+            "NOMBRES": "VICTORIA CRISTINA PÉREZ RINCÓN",
+            "CREDITO": "5.254.730",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "296.854",
+            "E.A": "19.66%",
+            "RECOMPRA O DESEMBOLSO": "2.861.541",
+            "FIRMA ELLECTRONICA": "VICTORIA CRISTINA PÉREZ RINCÓN - 1197063123"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1197063123",
+            "NOMBRES": "VICTORIA CRISTINA PÉREZ RINCÓN",
+            "FIRMA ELLECTRONICA": "VICTORIA CRISTINA PÉREZ RINCÓN - 1197063123"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1197063123",
+            "NOMBRES": "VICTORIA CRISTINA PÉREZ RINCÓN",
+            "FIRMA ELLECTRONICA": "VICTORIA CRISTINA PÉREZ RINCÓN - 1197063123",
+            "AL PIE DE LA FIRMA": "VICTORIA CRISTINA PÉREZ RINCÓN - 1197063123"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VICTORIA CRISTINA PÉREZ RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1197063123",
+            "NOMBRES": "VICTORIA CRISTINA PÉREZ RINCÓN",
+            "SALARIO": "1.221.080",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1197063123",
+            "NOMBRES": "VICTORIA CRISTINA PÉREZ RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.861.541"
+        }
+    }
+]

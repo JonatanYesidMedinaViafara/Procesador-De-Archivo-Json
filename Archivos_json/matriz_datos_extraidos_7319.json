@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "866740486980",
+            "SOLICITUD": "8386953",
+            "CEDULA": "1004180118",
+            "NOMBRES": "MARÍA CATHERINE PINEDA",
+            "RECOMPRA O DESEMBOLSO": "2.826.713",
+            "FIRMA ELLECTRONICA": "MARÍA CATHERINE PINEDA - 1004180118"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "866740486980",
+            "NOMBRES": "MARÍA CATHERINE PINEDA",
+            "CREDITO": "18.778.167",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "210.21",
+            "FIRMA ELLECTRONICA": "MARÍA CATHERINE PINEDA - 1004180118",
+            "AL PIE DE LA FIRMA": "MARÍA CATHERINE PINEDA - 1004180118"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1004180118",
+            "NOMBRES": "MARÍA CATHERINE PINEDA",
+            "FECHA NACIMIENTO": "20/08/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.778.167",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA CATHERINE PINEDA - 1004180118",
+            "AL PIE DE LA FIRMA": "MARÍA CATHERINE PINEDA - 1004180118"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8386953",
+            "CEDULA": "1004180118",
+            "NOMBRES": "MARÍA CATHERINE PINEDA",
+            "CREDITO": "18.778.167",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "210.21",
+            "E.A": "22.34%",
+            "RECOMPRA O DESEMBOLSO": "2.826.713",
+            "FIRMA ELLECTRONICA": "MARÍA CATHERINE PINEDA - 1004180118"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1004180118",
+            "NOMBRES": "MARÍA CATHERINE PINEDA",
+            "FIRMA ELLECTRONICA": "MARÍA CATHERINE PINEDA - 1004180118"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1004180118",
+            "NOMBRES": "MARÍA CATHERINE PINEDA",
+            "FIRMA ELLECTRONICA": "MARÍA CATHERINE PINEDA - 1004180118",
+            "AL PIE DE LA FIRMA": "MARÍA CATHERINE PINEDA - 1004180118"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CATHERINE PINEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1004180118",
+            "NOMBRES": "MARÍA CATHERINE PINEDA",
+            "SALARIO": "3.396.617",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1004180118",
+            "NOMBRES": "MARÍA CATHERINE PINEDA",
+            "RECOMPRA O DESEMBOLSO": "2.826.713"
+        }
+    }
+]

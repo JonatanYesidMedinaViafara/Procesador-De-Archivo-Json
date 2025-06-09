@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "413039373058",
+            "SOLICITUD": "9031347",
+            "CEDULA": "1902676942",
+            "NOMBRES": "ANDRÉS ALBERTO MERCADO",
+            "RECOMPRA O DESEMBOLSO": "1.577.793",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO MERCADO - 1902676942"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "413039373058",
+            "NOMBRES": "ANDRÉS ALBERTO MERCADO",
+            "CREDITO": "11.441.542",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "123.367",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO MERCADO - 1902676942",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALBERTO MERCADO - 1902676942"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1902676942",
+            "NOMBRES": "ANDRÉS ALBERTO MERCADO",
+            "FECHA NACIMIENTO": "12/01/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.441.542",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO MERCADO - 1902676942",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALBERTO MERCADO - 1902676942"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9031347",
+            "CEDULA": "1902676942",
+            "NOMBRES": "ANDRÉS ALBERTO MERCADO",
+            "CREDITO": "11.441.542",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "123.367",
+            "E.A": "22.33%",
+            "RECOMPRA O DESEMBOLSO": "1.577.793",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO MERCADO - 1902676942"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1902676942",
+            "NOMBRES": "ANDRÉS ALBERTO MERCADO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO MERCADO - 1902676942"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1902676942",
+            "NOMBRES": "ANDRÉS ALBERTO MERCADO",
+            "FIRMA ELLECTRONICA": "ANDRÉS ALBERTO MERCADO - 1902676942",
+            "AL PIE DE LA FIRMA": "ANDRÉS ALBERTO MERCADO - 1902676942"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS ALBERTO MERCADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1902676942",
+            "NOMBRES": "ANDRÉS ALBERTO MERCADO",
+            "SALARIO": "4.130.186",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1902676942",
+            "NOMBRES": "ANDRÉS ALBERTO MERCADO",
+            "RECOMPRA O DESEMBOLSO": "1.577.793"
+        }
+    }
+]

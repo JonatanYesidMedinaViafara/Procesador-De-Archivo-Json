@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "480230627793",
+            "SOLICITUD": "9541456",
+            "CEDULA": "1333986289",
+            "NOMBRES": "FERNANDO ANDRÉS REYES RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.307.815",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS REYES RINCÓN - 1333986289"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "480230627793",
+            "NOMBRES": "FERNANDO ANDRÉS REYES RINCÓN",
+            "CREDITO": "15.959.772",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "274.663",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS REYES RINCÓN - 1333986289",
+            "AL PIE DE LA FIRMA": "FERNANDO ANDRÉS REYES RINCÓN - 1333986289"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1333986289",
+            "NOMBRES": "FERNANDO ANDRÉS REYES RINCÓN",
+            "FECHA NACIMIENTO": "08/10/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.959.772",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS REYES RINCÓN - 1333986289",
+            "AL PIE DE LA FIRMA": "FERNANDO ANDRÉS REYES RINCÓN - 1333986289"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9541456",
+            "CEDULA": "1333986289",
+            "NOMBRES": "FERNANDO ANDRÉS REYES RINCÓN",
+            "CREDITO": "15.959.772",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "274.663",
+            "E.A": "28.55%",
+            "RECOMPRA O DESEMBOLSO": "2.307.815",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS REYES RINCÓN - 1333986289"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1333986289",
+            "NOMBRES": "FERNANDO ANDRÉS REYES RINCÓN",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS REYES RINCÓN - 1333986289"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1333986289",
+            "NOMBRES": "FERNANDO ANDRÉS REYES RINCÓN",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS REYES RINCÓN - 1333986289",
+            "AL PIE DE LA FIRMA": "FERNANDO ANDRÉS REYES RINCÓN - 1333986289"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO ANDRÉS REYES RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1333986289",
+            "NOMBRES": "FERNANDO ANDRÉS REYES RINCÓN",
+            "SALARIO": "3.878.299",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1333986289",
+            "NOMBRES": "FERNANDO ANDRÉS REYES RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.307.815"
+        }
+    }
+]

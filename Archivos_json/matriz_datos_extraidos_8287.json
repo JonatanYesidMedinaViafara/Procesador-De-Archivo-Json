@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "855486144069",
+            "SOLICITUD": "5001000",
+            "CEDULA": "1307737060",
+            "NOMBRES": "BEATRIZ BENÍTEZ",
+            "RECOMPRA O DESEMBOLSO": "3.971.247",
+            "FIRMA ELLECTRONICA": "BEATRIZ BENÍTEZ - 1307737060"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "855486144069",
+            "NOMBRES": "BEATRIZ BENÍTEZ",
+            "CREDITO": "19.838.027",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "300.954",
+            "FIRMA ELLECTRONICA": "BEATRIZ BENÍTEZ - 1307737060",
+            "AL PIE DE LA FIRMA": "BEATRIZ BENÍTEZ - 1307737060"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1307737060",
+            "NOMBRES": "BEATRIZ BENÍTEZ",
+            "FECHA NACIMIENTO": "28/04/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.838.027",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "BEATRIZ BENÍTEZ - 1307737060",
+            "AL PIE DE LA FIRMA": "BEATRIZ BENÍTEZ - 1307737060"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5001000",
+            "CEDULA": "1307737060",
+            "NOMBRES": "BEATRIZ BENÍTEZ",
+            "CREDITO": "19.838.027",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "300.954",
+            "E.A": "18.56%",
+            "RECOMPRA O DESEMBOLSO": "3.971.247",
+            "FIRMA ELLECTRONICA": "BEATRIZ BENÍTEZ - 1307737060"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1307737060",
+            "NOMBRES": "BEATRIZ BENÍTEZ",
+            "FIRMA ELLECTRONICA": "BEATRIZ BENÍTEZ - 1307737060"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1307737060",
+            "NOMBRES": "BEATRIZ BENÍTEZ",
+            "FIRMA ELLECTRONICA": "BEATRIZ BENÍTEZ - 1307737060",
+            "AL PIE DE LA FIRMA": "BEATRIZ BENÍTEZ - 1307737060"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BEATRIZ BENÍTEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1307737060",
+            "NOMBRES": "BEATRIZ BENÍTEZ",
+            "SALARIO": "4.179.893",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1307737060",
+            "NOMBRES": "BEATRIZ BENÍTEZ",
+            "RECOMPRA O DESEMBOLSO": "3.971.247"
+        }
+    }
+]

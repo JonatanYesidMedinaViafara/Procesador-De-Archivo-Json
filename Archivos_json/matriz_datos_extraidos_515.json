@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "797278033933",
+            "SOLICITUD": "8333297",
+            "CEDULA": "1096746176",
+            "NOMBRES": "VICTORIA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "4.987.911",
+            "FIRMA ELLECTRONICA": "VICTORIA QUINTERO - 1096746176"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "797278033933",
+            "NOMBRES": "VICTORIA QUINTERO",
+            "CREDITO": "16.987.355",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "298.199",
+            "FIRMA ELLECTRONICA": "VICTORIA QUINTERO - 1096746176",
+            "AL PIE DE LA FIRMA": "VICTORIA QUINTERO - 1096746176"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1096746176",
+            "NOMBRES": "VICTORIA QUINTERO",
+            "FECHA NACIMIENTO": "30/09/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.987.355",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "VICTORIA QUINTERO - 1096746176",
+            "AL PIE DE LA FIRMA": "VICTORIA QUINTERO - 1096746176"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8333297",
+            "CEDULA": "1096746176",
+            "NOMBRES": "VICTORIA QUINTERO",
+            "CREDITO": "16.987.355",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "298.199",
+            "E.A": "19.08%",
+            "RECOMPRA O DESEMBOLSO": "4.987.911",
+            "FIRMA ELLECTRONICA": "VICTORIA QUINTERO - 1096746176"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1096746176",
+            "NOMBRES": "VICTORIA QUINTERO",
+            "FIRMA ELLECTRONICA": "VICTORIA QUINTERO - 1096746176"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1096746176",
+            "NOMBRES": "VICTORIA QUINTERO",
+            "FIRMA ELLECTRONICA": "VICTORIA QUINTERO - 1096746176",
+            "AL PIE DE LA FIRMA": "VICTORIA QUINTERO - 1096746176"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VICTORIA QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1096746176",
+            "NOMBRES": "VICTORIA QUINTERO",
+            "SALARIO": "4.969.829",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1096746176",
+            "NOMBRES": "VICTORIA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "4.987.911"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "829667713120",
+            "SOLICITUD": "5058457",
+            "CEDULA": "1154524550",
+            "NOMBRES": "ISABEL CASTRO GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.452.889",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO GONZÁLEZ - 1154524550"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "829667713120",
+            "NOMBRES": "ISABEL CASTRO GONZÁLEZ",
+            "CREDITO": "14.735.441",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "101.196",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO GONZÁLEZ - 1154524550",
+            "AL PIE DE LA FIRMA": "ISABEL CASTRO GONZÁLEZ - 1154524550"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1154524550",
+            "NOMBRES": "ISABEL CASTRO GONZÁLEZ",
+            "FECHA NACIMIENTO": "07/02/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.735.441",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO GONZÁLEZ - 1154524550",
+            "AL PIE DE LA FIRMA": "ISABEL CASTRO GONZÁLEZ - 1154524550"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5058457",
+            "CEDULA": "1154524550",
+            "NOMBRES": "ISABEL CASTRO GONZÁLEZ",
+            "CREDITO": "14.735.441",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "101.196",
+            "E.A": "28.41%",
+            "RECOMPRA O DESEMBOLSO": "4.452.889",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO GONZÁLEZ - 1154524550"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1154524550",
+            "NOMBRES": "ISABEL CASTRO GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO GONZÁLEZ - 1154524550"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1154524550",
+            "NOMBRES": "ISABEL CASTRO GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "ISABEL CASTRO GONZÁLEZ - 1154524550",
+            "AL PIE DE LA FIRMA": "ISABEL CASTRO GONZÁLEZ - 1154524550"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL CASTRO GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1154524550",
+            "NOMBRES": "ISABEL CASTRO GONZÁLEZ",
+            "SALARIO": "2.589.044",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1154524550",
+            "NOMBRES": "ISABEL CASTRO GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.452.889"
+        }
+    }
+]

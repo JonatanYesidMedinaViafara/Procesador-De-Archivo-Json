@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "367351230493",
+            "SOLICITUD": "4528398",
+            "CEDULA": "1124530950",
+            "NOMBRES": "IVÁN FAJARDO",
+            "RECOMPRA O DESEMBOLSO": "3.635.216",
+            "FIRMA ELLECTRONICA": "IVÁN FAJARDO - 1124530950"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "367351230493",
+            "NOMBRES": "IVÁN FAJARDO",
+            "CREDITO": "15.826.701",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "267.058",
+            "FIRMA ELLECTRONICA": "IVÁN FAJARDO - 1124530950",
+            "AL PIE DE LA FIRMA": "IVÁN FAJARDO - 1124530950"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1124530950",
+            "NOMBRES": "IVÁN FAJARDO",
+            "FECHA NACIMIENTO": "09/05/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.826.701",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "IVÁN FAJARDO - 1124530950",
+            "AL PIE DE LA FIRMA": "IVÁN FAJARDO - 1124530950"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4528398",
+            "CEDULA": "1124530950",
+            "NOMBRES": "IVÁN FAJARDO",
+            "CREDITO": "15.826.701",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "267.058",
+            "E.A": "19.54%",
+            "RECOMPRA O DESEMBOLSO": "3.635.216",
+            "FIRMA ELLECTRONICA": "IVÁN FAJARDO - 1124530950"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1124530950",
+            "NOMBRES": "IVÁN FAJARDO",
+            "FIRMA ELLECTRONICA": "IVÁN FAJARDO - 1124530950"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1124530950",
+            "NOMBRES": "IVÁN FAJARDO",
+            "FIRMA ELLECTRONICA": "IVÁN FAJARDO - 1124530950",
+            "AL PIE DE LA FIRMA": "IVÁN FAJARDO - 1124530950"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IVÁN FAJARDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1124530950",
+            "NOMBRES": "IVÁN FAJARDO",
+            "SALARIO": "2.368.171",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1124530950",
+            "NOMBRES": "IVÁN FAJARDO",
+            "RECOMPRA O DESEMBOLSO": "3.635.216"
+        }
+    }
+]

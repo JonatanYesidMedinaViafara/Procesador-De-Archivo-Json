@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "867613689759",
+            "SOLICITUD": "1231786",
+            "CEDULA": "1902163260",
+            "NOMBRES": "JHON FLÓREZ GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.837.580",
+            "FIRMA ELLECTRONICA": "JHON FLÓREZ GONZÁLEZ - 1902163260"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "867613689759",
+            "NOMBRES": "JHON FLÓREZ GONZÁLEZ",
+            "CREDITO": "14.461.259",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "365.68",
+            "FIRMA ELLECTRONICA": "JHON FLÓREZ GONZÁLEZ - 1902163260",
+            "AL PIE DE LA FIRMA": "JHON FLÓREZ GONZÁLEZ - 1902163260"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1902163260",
+            "NOMBRES": "JHON FLÓREZ GONZÁLEZ",
+            "FECHA NACIMIENTO": "27/04/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.461.259",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JHON FLÓREZ GONZÁLEZ - 1902163260",
+            "AL PIE DE LA FIRMA": "JHON FLÓREZ GONZÁLEZ - 1902163260"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1231786",
+            "CEDULA": "1902163260",
+            "NOMBRES": "JHON FLÓREZ GONZÁLEZ",
+            "CREDITO": "14.461.259",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "365.68",
+            "E.A": "24.63%",
+            "RECOMPRA O DESEMBOLSO": "4.837.580",
+            "FIRMA ELLECTRONICA": "JHON FLÓREZ GONZÁLEZ - 1902163260"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1902163260",
+            "NOMBRES": "JHON FLÓREZ GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "JHON FLÓREZ GONZÁLEZ - 1902163260"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1902163260",
+            "NOMBRES": "JHON FLÓREZ GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "JHON FLÓREZ GONZÁLEZ - 1902163260",
+            "AL PIE DE LA FIRMA": "JHON FLÓREZ GONZÁLEZ - 1902163260"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON FLÓREZ GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1902163260",
+            "NOMBRES": "JHON FLÓREZ GONZÁLEZ",
+            "SALARIO": "4.355.018",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1902163260",
+            "NOMBRES": "JHON FLÓREZ GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.837.580"
+        }
+    }
+]

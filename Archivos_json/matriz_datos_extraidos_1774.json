@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "517180178550",
+            "SOLICITUD": "2139391",
+            "CEDULA": "1884810947",
+            "NOMBRES": "DANIEL GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.055.704",
+            "FIRMA ELLECTRONICA": "DANIEL GONZÁLEZ - 1884810947"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "517180178550",
+            "NOMBRES": "DANIEL GONZÁLEZ",
+            "CREDITO": "16.293.730",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "107.781",
+            "FIRMA ELLECTRONICA": "DANIEL GONZÁLEZ - 1884810947",
+            "AL PIE DE LA FIRMA": "DANIEL GONZÁLEZ - 1884810947"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1884810947",
+            "NOMBRES": "DANIEL GONZÁLEZ",
+            "FECHA NACIMIENTO": "20/02/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.293.730",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DANIEL GONZÁLEZ - 1884810947",
+            "AL PIE DE LA FIRMA": "DANIEL GONZÁLEZ - 1884810947"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2139391",
+            "CEDULA": "1884810947",
+            "NOMBRES": "DANIEL GONZÁLEZ",
+            "CREDITO": "16.293.730",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "107.781",
+            "E.A": "22.15%",
+            "RECOMPRA O DESEMBOLSO": "1.055.704",
+            "FIRMA ELLECTRONICA": "DANIEL GONZÁLEZ - 1884810947"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1884810947",
+            "NOMBRES": "DANIEL GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "DANIEL GONZÁLEZ - 1884810947"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1884810947",
+            "NOMBRES": "DANIEL GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "DANIEL GONZÁLEZ - 1884810947",
+            "AL PIE DE LA FIRMA": "DANIEL GONZÁLEZ - 1884810947"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIEL GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1884810947",
+            "NOMBRES": "DANIEL GONZÁLEZ",
+            "SALARIO": "3.785.715",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "08/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1884810947",
+            "NOMBRES": "DANIEL GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.055.704"
+        }
+    }
+]

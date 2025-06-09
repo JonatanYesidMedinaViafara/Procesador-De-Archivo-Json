@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "151414695488",
+            "SOLICITUD": "7535004",
+            "CEDULA": "1091505789",
+            "NOMBRES": "HERNANDO ANDRÉS SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "3.994.664",
+            "FIRMA ELLECTRONICA": "HERNANDO ANDRÉS SARMIENTO - 1091505789"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "151414695488",
+            "NOMBRES": "HERNANDO ANDRÉS SARMIENTO",
+            "CREDITO": "15.649.346",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "115.317",
+            "FIRMA ELLECTRONICA": "HERNANDO ANDRÉS SARMIENTO - 1091505789",
+            "AL PIE DE LA FIRMA": "HERNANDO ANDRÉS SARMIENTO - 1091505789"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1091505789",
+            "NOMBRES": "HERNANDO ANDRÉS SARMIENTO",
+            "FECHA NACIMIENTO": "05/05/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.649.346",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "HERNANDO ANDRÉS SARMIENTO - 1091505789",
+            "AL PIE DE LA FIRMA": "HERNANDO ANDRÉS SARMIENTO - 1091505789"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7535004",
+            "CEDULA": "1091505789",
+            "NOMBRES": "HERNANDO ANDRÉS SARMIENTO",
+            "CREDITO": "15.649.346",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "115.317",
+            "E.A": "24.42%",
+            "RECOMPRA O DESEMBOLSO": "3.994.664",
+            "FIRMA ELLECTRONICA": "HERNANDO ANDRÉS SARMIENTO - 1091505789"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1091505789",
+            "NOMBRES": "HERNANDO ANDRÉS SARMIENTO",
+            "FIRMA ELLECTRONICA": "HERNANDO ANDRÉS SARMIENTO - 1091505789"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1091505789",
+            "NOMBRES": "HERNANDO ANDRÉS SARMIENTO",
+            "FIRMA ELLECTRONICA": "HERNANDO ANDRÉS SARMIENTO - 1091505789",
+            "AL PIE DE LA FIRMA": "HERNANDO ANDRÉS SARMIENTO - 1091505789"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNANDO ANDRÉS SARMIENTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1091505789",
+            "NOMBRES": "HERNANDO ANDRÉS SARMIENTO",
+            "SALARIO": "4.868.790",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1091505789",
+            "NOMBRES": "HERNANDO ANDRÉS SARMIENTO",
+            "RECOMPRA O DESEMBOLSO": "3.994.664"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "651156662931",
+            "SOLICITUD": "9735379",
+            "CEDULA": "1217503808",
+            "NOMBRES": "DARIO ALEJANDRO REYES",
+            "RECOMPRA O DESEMBOLSO": "1.325.426",
+            "FIRMA ELLECTRONICA": "DARIO ALEJANDRO REYES - 1217503808"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "651156662931",
+            "NOMBRES": "DARIO ALEJANDRO REYES",
+            "CREDITO": "10.158.228",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "323.999",
+            "FIRMA ELLECTRONICA": "DARIO ALEJANDRO REYES - 1217503808",
+            "AL PIE DE LA FIRMA": "DARIO ALEJANDRO REYES - 1217503808"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1217503808",
+            "NOMBRES": "DARIO ALEJANDRO REYES",
+            "FECHA NACIMIENTO": "19/11/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.158.228",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DARIO ALEJANDRO REYES - 1217503808",
+            "AL PIE DE LA FIRMA": "DARIO ALEJANDRO REYES - 1217503808"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9735379",
+            "CEDULA": "1217503808",
+            "NOMBRES": "DARIO ALEJANDRO REYES",
+            "CREDITO": "10.158.228",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "323.999",
+            "E.A": "19.9%",
+            "RECOMPRA O DESEMBOLSO": "1.325.426",
+            "FIRMA ELLECTRONICA": "DARIO ALEJANDRO REYES - 1217503808"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1217503808",
+            "NOMBRES": "DARIO ALEJANDRO REYES",
+            "FIRMA ELLECTRONICA": "DARIO ALEJANDRO REYES - 1217503808"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1217503808",
+            "NOMBRES": "DARIO ALEJANDRO REYES",
+            "FIRMA ELLECTRONICA": "DARIO ALEJANDRO REYES - 1217503808",
+            "AL PIE DE LA FIRMA": "DARIO ALEJANDRO REYES - 1217503808"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO ALEJANDRO REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1217503808",
+            "NOMBRES": "DARIO ALEJANDRO REYES",
+            "SALARIO": "2.305.156",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1217503808",
+            "NOMBRES": "DARIO ALEJANDRO REYES",
+            "RECOMPRA O DESEMBOLSO": "1.325.426"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "992706733858",
+            "SOLICITUD": "9832120",
+            "CEDULA": "1897588181",
+            "NOMBRES": "LUCÍA MARÍA DÍAZ LEAL",
+            "RECOMPRA O DESEMBOLSO": "2.814.102",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA DÍAZ LEAL - 1897588181"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "992706733858",
+            "NOMBRES": "LUCÍA MARÍA DÍAZ LEAL",
+            "CREDITO": "16.172.124",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "327.273",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA DÍAZ LEAL - 1897588181",
+            "AL PIE DE LA FIRMA": "LUCÍA MARÍA DÍAZ LEAL - 1897588181"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1897588181",
+            "NOMBRES": "LUCÍA MARÍA DÍAZ LEAL",
+            "FECHA NACIMIENTO": "07/12/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.172.124",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA DÍAZ LEAL - 1897588181",
+            "AL PIE DE LA FIRMA": "LUCÍA MARÍA DÍAZ LEAL - 1897588181"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9832120",
+            "CEDULA": "1897588181",
+            "NOMBRES": "LUCÍA MARÍA DÍAZ LEAL",
+            "CREDITO": "16.172.124",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "327.273",
+            "E.A": "25.39%",
+            "RECOMPRA O DESEMBOLSO": "2.814.102",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA DÍAZ LEAL - 1897588181"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1897588181",
+            "NOMBRES": "LUCÍA MARÍA DÍAZ LEAL",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA DÍAZ LEAL - 1897588181"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1897588181",
+            "NOMBRES": "LUCÍA MARÍA DÍAZ LEAL",
+            "FIRMA ELLECTRONICA": "LUCÍA MARÍA DÍAZ LEAL - 1897588181",
+            "AL PIE DE LA FIRMA": "LUCÍA MARÍA DÍAZ LEAL - 1897588181"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA MARÍA DÍAZ LEAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1897588181",
+            "NOMBRES": "LUCÍA MARÍA DÍAZ LEAL",
+            "SALARIO": "3.273.740",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1897588181",
+            "NOMBRES": "LUCÍA MARÍA DÍAZ LEAL",
+            "RECOMPRA O DESEMBOLSO": "2.814.102"
+        }
+    }
+]

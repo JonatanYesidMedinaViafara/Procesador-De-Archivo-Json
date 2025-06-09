@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "618009823115",
+            "SOLICITUD": "7836567",
+            "CEDULA": "1495172993",
+            "NOMBRES": "BEATRIZ FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.454.355",
+            "FIRMA ELLECTRONICA": "BEATRIZ FLÓREZ - 1495172993"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "618009823115",
+            "NOMBRES": "BEATRIZ FLÓREZ",
+            "CREDITO": "15.305.160",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "233.734",
+            "FIRMA ELLECTRONICA": "BEATRIZ FLÓREZ - 1495172993",
+            "AL PIE DE LA FIRMA": "BEATRIZ FLÓREZ - 1495172993"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1495172993",
+            "NOMBRES": "BEATRIZ FLÓREZ",
+            "FECHA NACIMIENTO": "24/12/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.305.160",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "BEATRIZ FLÓREZ - 1495172993",
+            "AL PIE DE LA FIRMA": "BEATRIZ FLÓREZ - 1495172993"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7836567",
+            "CEDULA": "1495172993",
+            "NOMBRES": "BEATRIZ FLÓREZ",
+            "CREDITO": "15.305.160",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "233.734",
+            "E.A": "24.3%",
+            "RECOMPRA O DESEMBOLSO": "1.454.355",
+            "FIRMA ELLECTRONICA": "BEATRIZ FLÓREZ - 1495172993"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1495172993",
+            "NOMBRES": "BEATRIZ FLÓREZ",
+            "FIRMA ELLECTRONICA": "BEATRIZ FLÓREZ - 1495172993"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1495172993",
+            "NOMBRES": "BEATRIZ FLÓREZ",
+            "FIRMA ELLECTRONICA": "BEATRIZ FLÓREZ - 1495172993",
+            "AL PIE DE LA FIRMA": "BEATRIZ FLÓREZ - 1495172993"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BEATRIZ FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1495172993",
+            "NOMBRES": "BEATRIZ FLÓREZ",
+            "SALARIO": "3.331.872",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1495172993",
+            "NOMBRES": "BEATRIZ FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.454.355"
+        }
+    }
+]

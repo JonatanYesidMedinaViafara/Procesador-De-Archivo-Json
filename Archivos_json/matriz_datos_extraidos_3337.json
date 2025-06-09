@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "900623340575",
+            "SOLICITUD": "8166145",
+            "CEDULA": "1013467852",
+            "NOMBRES": "ANA MEDINA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "1.855.214",
+            "FIRMA ELLECTRONICA": "ANA MEDINA ROJAS - 1013467852"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "900623340575",
+            "NOMBRES": "ANA MEDINA ROJAS",
+            "CREDITO": "10.707.910",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "305.843",
+            "FIRMA ELLECTRONICA": "ANA MEDINA ROJAS - 1013467852",
+            "AL PIE DE LA FIRMA": "ANA MEDINA ROJAS - 1013467852"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1013467852",
+            "NOMBRES": "ANA MEDINA ROJAS",
+            "FECHA NACIMIENTO": "22/06/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.707.910",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANA MEDINA ROJAS - 1013467852",
+            "AL PIE DE LA FIRMA": "ANA MEDINA ROJAS - 1013467852"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8166145",
+            "CEDULA": "1013467852",
+            "NOMBRES": "ANA MEDINA ROJAS",
+            "CREDITO": "10.707.910",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "305.843",
+            "E.A": "26.24%",
+            "RECOMPRA O DESEMBOLSO": "1.855.214",
+            "FIRMA ELLECTRONICA": "ANA MEDINA ROJAS - 1013467852"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1013467852",
+            "NOMBRES": "ANA MEDINA ROJAS",
+            "FIRMA ELLECTRONICA": "ANA MEDINA ROJAS - 1013467852"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1013467852",
+            "NOMBRES": "ANA MEDINA ROJAS",
+            "FIRMA ELLECTRONICA": "ANA MEDINA ROJAS - 1013467852",
+            "AL PIE DE LA FIRMA": "ANA MEDINA ROJAS - 1013467852"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA MEDINA ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1013467852",
+            "NOMBRES": "ANA MEDINA ROJAS",
+            "SALARIO": "3.356.507",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1013467852",
+            "NOMBRES": "ANA MEDINA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "1.855.214"
+        }
+    }
+]

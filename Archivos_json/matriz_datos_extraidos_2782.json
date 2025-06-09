@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "610727369666",
+            "SOLICITUD": "8464535",
+            "CEDULA": "1919949983",
+            "NOMBRES": "JOSÉ AUGUSTO SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.888.617",
+            "FIRMA ELLECTRONICA": "JOSÉ AUGUSTO SALAZAR - 1919949983"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "610727369666",
+            "NOMBRES": "JOSÉ AUGUSTO SALAZAR",
+            "CREDITO": "9.233.940",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "267.726",
+            "FIRMA ELLECTRONICA": "JOSÉ AUGUSTO SALAZAR - 1919949983",
+            "AL PIE DE LA FIRMA": "JOSÉ AUGUSTO SALAZAR - 1919949983"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1919949983",
+            "NOMBRES": "JOSÉ AUGUSTO SALAZAR",
+            "FECHA NACIMIENTO": "22/03/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.233.940",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ AUGUSTO SALAZAR - 1919949983",
+            "AL PIE DE LA FIRMA": "JOSÉ AUGUSTO SALAZAR - 1919949983"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8464535",
+            "CEDULA": "1919949983",
+            "NOMBRES": "JOSÉ AUGUSTO SALAZAR",
+            "CREDITO": "9.233.940",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "267.726",
+            "E.A": "19.35%",
+            "RECOMPRA O DESEMBOLSO": "1.888.617",
+            "FIRMA ELLECTRONICA": "JOSÉ AUGUSTO SALAZAR - 1919949983"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1919949983",
+            "NOMBRES": "JOSÉ AUGUSTO SALAZAR",
+            "FIRMA ELLECTRONICA": "JOSÉ AUGUSTO SALAZAR - 1919949983"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1919949983",
+            "NOMBRES": "JOSÉ AUGUSTO SALAZAR",
+            "FIRMA ELLECTRONICA": "JOSÉ AUGUSTO SALAZAR - 1919949983",
+            "AL PIE DE LA FIRMA": "JOSÉ AUGUSTO SALAZAR - 1919949983"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ AUGUSTO SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1919949983",
+            "NOMBRES": "JOSÉ AUGUSTO SALAZAR",
+            "SALARIO": "3.084.700",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1919949983",
+            "NOMBRES": "JOSÉ AUGUSTO SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.888.617"
+        }
+    }
+]

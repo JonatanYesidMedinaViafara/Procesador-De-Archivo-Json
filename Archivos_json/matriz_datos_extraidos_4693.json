@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "167341832244",
+            "SOLICITUD": "3827699",
+            "CEDULA": "1061592846",
+            "NOMBRES": "RAFAEL GÓMEZ ARDILA",
+            "RECOMPRA O DESEMBOLSO": "3.812.744",
+            "FIRMA ELLECTRONICA": "RAFAEL GÓMEZ ARDILA - 1061592846"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "167341832244",
+            "NOMBRES": "RAFAEL GÓMEZ ARDILA",
+            "CREDITO": "15.425.051",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "328.475",
+            "FIRMA ELLECTRONICA": "RAFAEL GÓMEZ ARDILA - 1061592846",
+            "AL PIE DE LA FIRMA": "RAFAEL GÓMEZ ARDILA - 1061592846"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1061592846",
+            "NOMBRES": "RAFAEL GÓMEZ ARDILA",
+            "FECHA NACIMIENTO": "21/06/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.425.051",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RAFAEL GÓMEZ ARDILA - 1061592846",
+            "AL PIE DE LA FIRMA": "RAFAEL GÓMEZ ARDILA - 1061592846"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3827699",
+            "CEDULA": "1061592846",
+            "NOMBRES": "RAFAEL GÓMEZ ARDILA",
+            "CREDITO": "15.425.051",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "328.475",
+            "E.A": "28.54%",
+            "RECOMPRA O DESEMBOLSO": "3.812.744",
+            "FIRMA ELLECTRONICA": "RAFAEL GÓMEZ ARDILA - 1061592846"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1061592846",
+            "NOMBRES": "RAFAEL GÓMEZ ARDILA",
+            "FIRMA ELLECTRONICA": "RAFAEL GÓMEZ ARDILA - 1061592846"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1061592846",
+            "NOMBRES": "RAFAEL GÓMEZ ARDILA",
+            "FIRMA ELLECTRONICA": "RAFAEL GÓMEZ ARDILA - 1061592846",
+            "AL PIE DE LA FIRMA": "RAFAEL GÓMEZ ARDILA - 1061592846"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL GÓMEZ ARDILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1061592846",
+            "NOMBRES": "RAFAEL GÓMEZ ARDILA",
+            "SALARIO": "1.415.550",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1061592846",
+            "NOMBRES": "RAFAEL GÓMEZ ARDILA",
+            "RECOMPRA O DESEMBOLSO": "3.812.744"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "327911044393",
+            "SOLICITUD": "7706169",
+            "CEDULA": "1081807965",
+            "NOMBRES": "ANA ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "3.229.502",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1081807965"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "327911044393",
+            "NOMBRES": "ANA ACEVEDO",
+            "CREDITO": "6.199.410",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "114.18",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1081807965",
+            "AL PIE DE LA FIRMA": "ANA ACEVEDO - 1081807965"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1081807965",
+            "NOMBRES": "ANA ACEVEDO",
+            "FECHA NACIMIENTO": "06/11/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.199.410",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1081807965",
+            "AL PIE DE LA FIRMA": "ANA ACEVEDO - 1081807965"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7706169",
+            "CEDULA": "1081807965",
+            "NOMBRES": "ANA ACEVEDO",
+            "CREDITO": "6.199.410",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "114.18",
+            "E.A": "27.25%",
+            "RECOMPRA O DESEMBOLSO": "3.229.502",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1081807965"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1081807965",
+            "NOMBRES": "ANA ACEVEDO",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1081807965"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1081807965",
+            "NOMBRES": "ANA ACEVEDO",
+            "FIRMA ELLECTRONICA": "ANA ACEVEDO - 1081807965",
+            "AL PIE DE LA FIRMA": "ANA ACEVEDO - 1081807965"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA ACEVEDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1081807965",
+            "NOMBRES": "ANA ACEVEDO",
+            "SALARIO": "3.417.115",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1081807965",
+            "NOMBRES": "ANA ACEVEDO",
+            "RECOMPRA O DESEMBOLSO": "3.229.502"
+        }
+    }
+]

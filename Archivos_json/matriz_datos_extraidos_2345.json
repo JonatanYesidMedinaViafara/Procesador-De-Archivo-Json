@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "770606425788",
+            "SOLICITUD": "7053464",
+            "CEDULA": "1088029091",
+            "NOMBRES": "JHON ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "4.154.727",
+            "FIRMA ELLECTRONICA": "JHON ZAPATA - 1088029091"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "770606425788",
+            "NOMBRES": "JHON ZAPATA",
+            "CREDITO": "18.369.974",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "155.002",
+            "FIRMA ELLECTRONICA": "JHON ZAPATA - 1088029091",
+            "AL PIE DE LA FIRMA": "JHON ZAPATA - 1088029091"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1088029091",
+            "NOMBRES": "JHON ZAPATA",
+            "FECHA NACIMIENTO": "25/04/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.369.974",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JHON ZAPATA - 1088029091",
+            "AL PIE DE LA FIRMA": "JHON ZAPATA - 1088029091"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7053464",
+            "CEDULA": "1088029091",
+            "NOMBRES": "JHON ZAPATA",
+            "CREDITO": "18.369.974",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "155.002",
+            "E.A": "20.74%",
+            "RECOMPRA O DESEMBOLSO": "4.154.727",
+            "FIRMA ELLECTRONICA": "JHON ZAPATA - 1088029091"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1088029091",
+            "NOMBRES": "JHON ZAPATA",
+            "FIRMA ELLECTRONICA": "JHON ZAPATA - 1088029091"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1088029091",
+            "NOMBRES": "JHON ZAPATA",
+            "FIRMA ELLECTRONICA": "JHON ZAPATA - 1088029091",
+            "AL PIE DE LA FIRMA": "JHON ZAPATA - 1088029091"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1088029091",
+            "NOMBRES": "JHON ZAPATA",
+            "SALARIO": "1.025.248",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1088029091",
+            "NOMBRES": "JHON ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "4.154.727"
+        }
+    }
+]

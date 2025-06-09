@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "701272412593",
+            "SOLICITUD": "5541638",
+            "CEDULA": "1869640424",
+            "NOMBRES": "MARTÍN GUILLERMO HOYOS GUERRA",
+            "RECOMPRA O DESEMBOLSO": "2.473.680",
+            "FIRMA ELLECTRONICA": "MARTÍN GUILLERMO HOYOS GUERRA - 1869640424"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "701272412593",
+            "NOMBRES": "MARTÍN GUILLERMO HOYOS GUERRA",
+            "CREDITO": "9.499.493",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "337.205",
+            "FIRMA ELLECTRONICA": "MARTÍN GUILLERMO HOYOS GUERRA - 1869640424",
+            "AL PIE DE LA FIRMA": "MARTÍN GUILLERMO HOYOS GUERRA - 1869640424"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1869640424",
+            "NOMBRES": "MARTÍN GUILLERMO HOYOS GUERRA",
+            "FECHA NACIMIENTO": "12/07/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.499.493",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARTÍN GUILLERMO HOYOS GUERRA - 1869640424",
+            "AL PIE DE LA FIRMA": "MARTÍN GUILLERMO HOYOS GUERRA - 1869640424"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5541638",
+            "CEDULA": "1869640424",
+            "NOMBRES": "MARTÍN GUILLERMO HOYOS GUERRA",
+            "CREDITO": "9.499.493",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "337.205",
+            "E.A": "27.73%",
+            "RECOMPRA O DESEMBOLSO": "2.473.680",
+            "FIRMA ELLECTRONICA": "MARTÍN GUILLERMO HOYOS GUERRA - 1869640424"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1869640424",
+            "NOMBRES": "MARTÍN GUILLERMO HOYOS GUERRA",
+            "FIRMA ELLECTRONICA": "MARTÍN GUILLERMO HOYOS GUERRA - 1869640424"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1869640424",
+            "NOMBRES": "MARTÍN GUILLERMO HOYOS GUERRA",
+            "FIRMA ELLECTRONICA": "MARTÍN GUILLERMO HOYOS GUERRA - 1869640424",
+            "AL PIE DE LA FIRMA": "MARTÍN GUILLERMO HOYOS GUERRA - 1869640424"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTÍN GUILLERMO HOYOS GUERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1869640424",
+            "NOMBRES": "MARTÍN GUILLERMO HOYOS GUERRA",
+            "SALARIO": "4.177.113",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1869640424",
+            "NOMBRES": "MARTÍN GUILLERMO HOYOS GUERRA",
+            "RECOMPRA O DESEMBOLSO": "2.473.680"
+        }
+    }
+]

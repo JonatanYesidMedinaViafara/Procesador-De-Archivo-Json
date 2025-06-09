@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "550816669458",
+            "SOLICITUD": "9938561",
+            "CEDULA": "1381454910",
+            "NOMBRES": "LEONARDO SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "4.968.157",
+            "FIRMA ELLECTRONICA": "LEONARDO SANDOVAL - 1381454910"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "550816669458",
+            "NOMBRES": "LEONARDO SANDOVAL",
+            "CREDITO": "17.716.547",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "169.946",
+            "FIRMA ELLECTRONICA": "LEONARDO SANDOVAL - 1381454910",
+            "AL PIE DE LA FIRMA": "LEONARDO SANDOVAL - 1381454910"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1381454910",
+            "NOMBRES": "LEONARDO SANDOVAL",
+            "FECHA NACIMIENTO": "21/10/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.716.547",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LEONARDO SANDOVAL - 1381454910",
+            "AL PIE DE LA FIRMA": "LEONARDO SANDOVAL - 1381454910"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9938561",
+            "CEDULA": "1381454910",
+            "NOMBRES": "LEONARDO SANDOVAL",
+            "CREDITO": "17.716.547",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "169.946",
+            "E.A": "26.7%",
+            "RECOMPRA O DESEMBOLSO": "4.968.157",
+            "FIRMA ELLECTRONICA": "LEONARDO SANDOVAL - 1381454910"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1381454910",
+            "NOMBRES": "LEONARDO SANDOVAL",
+            "FIRMA ELLECTRONICA": "LEONARDO SANDOVAL - 1381454910"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1381454910",
+            "NOMBRES": "LEONARDO SANDOVAL",
+            "FIRMA ELLECTRONICA": "LEONARDO SANDOVAL - 1381454910",
+            "AL PIE DE LA FIRMA": "LEONARDO SANDOVAL - 1381454910"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEONARDO SANDOVAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1381454910",
+            "NOMBRES": "LEONARDO SANDOVAL",
+            "SALARIO": "3.518.382",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1381454910",
+            "NOMBRES": "LEONARDO SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "4.968.157"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "874808957189",
+            "SOLICITUD": "7631103",
+            "CEDULA": "1515104234",
+            "NOMBRES": "SAMIR GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.155.223",
+            "FIRMA ELLECTRONICA": "SAMIR GARCÍA - 1515104234"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "874808957189",
+            "NOMBRES": "SAMIR GARCÍA",
+            "CREDITO": "5.971.592",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "157.522",
+            "FIRMA ELLECTRONICA": "SAMIR GARCÍA - 1515104234",
+            "AL PIE DE LA FIRMA": "SAMIR GARCÍA - 1515104234"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1515104234",
+            "NOMBRES": "SAMIR GARCÍA",
+            "FECHA NACIMIENTO": "03/01/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.971.592",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "SAMIR GARCÍA - 1515104234",
+            "AL PIE DE LA FIRMA": "SAMIR GARCÍA - 1515104234"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7631103",
+            "CEDULA": "1515104234",
+            "NOMBRES": "SAMIR GARCÍA",
+            "CREDITO": "5.971.592",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "157.522",
+            "E.A": "18.61%",
+            "RECOMPRA O DESEMBOLSO": "3.155.223",
+            "FIRMA ELLECTRONICA": "SAMIR GARCÍA - 1515104234"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1515104234",
+            "NOMBRES": "SAMIR GARCÍA",
+            "FIRMA ELLECTRONICA": "SAMIR GARCÍA - 1515104234"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1515104234",
+            "NOMBRES": "SAMIR GARCÍA",
+            "FIRMA ELLECTRONICA": "SAMIR GARCÍA - 1515104234",
+            "AL PIE DE LA FIRMA": "SAMIR GARCÍA - 1515104234"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SAMIR GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1515104234",
+            "NOMBRES": "SAMIR GARCÍA",
+            "SALARIO": "2.655.737",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1515104234",
+            "NOMBRES": "SAMIR GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.155.223"
+        }
+    }
+]

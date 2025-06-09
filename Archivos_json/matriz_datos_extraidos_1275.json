@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "211678549751",
+            "SOLICITUD": "7421364",
+            "CEDULA": "1464900025",
+            "NOMBRES": "YANETH SIERRA",
+            "RECOMPRA O DESEMBOLSO": "1.340.102",
+            "FIRMA ELLECTRONICA": "YANETH SIERRA - 1464900025"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "211678549751",
+            "NOMBRES": "YANETH SIERRA",
+            "CREDITO": "17.595.051",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "110.419",
+            "FIRMA ELLECTRONICA": "YANETH SIERRA - 1464900025",
+            "AL PIE DE LA FIRMA": "YANETH SIERRA - 1464900025"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1464900025",
+            "NOMBRES": "YANETH SIERRA",
+            "FECHA NACIMIENTO": "27/03/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.595.051",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "YANETH SIERRA - 1464900025",
+            "AL PIE DE LA FIRMA": "YANETH SIERRA - 1464900025"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7421364",
+            "CEDULA": "1464900025",
+            "NOMBRES": "YANETH SIERRA",
+            "CREDITO": "17.595.051",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "110.419",
+            "E.A": "28.81%",
+            "RECOMPRA O DESEMBOLSO": "1.340.102",
+            "FIRMA ELLECTRONICA": "YANETH SIERRA - 1464900025"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1464900025",
+            "NOMBRES": "YANETH SIERRA",
+            "FIRMA ELLECTRONICA": "YANETH SIERRA - 1464900025"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1464900025",
+            "NOMBRES": "YANETH SIERRA",
+            "FIRMA ELLECTRONICA": "YANETH SIERRA - 1464900025",
+            "AL PIE DE LA FIRMA": "YANETH SIERRA - 1464900025"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YANETH SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1464900025",
+            "NOMBRES": "YANETH SIERRA",
+            "SALARIO": "1.861.294",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1464900025",
+            "NOMBRES": "YANETH SIERRA",
+            "RECOMPRA O DESEMBOLSO": "1.340.102"
+        }
+    }
+]

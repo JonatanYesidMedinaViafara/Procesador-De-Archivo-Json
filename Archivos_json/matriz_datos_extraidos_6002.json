@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "229836749481",
+            "SOLICITUD": "5351243",
+            "CEDULA": "1100712807",
+            "NOMBRES": "ROSA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.967.323",
+            "FIRMA ELLECTRONICA": "ROSA MARTÍNEZ - 1100712807"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "229836749481",
+            "NOMBRES": "ROSA MARTÍNEZ",
+            "CREDITO": "19.862.408",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "371.191",
+            "FIRMA ELLECTRONICA": "ROSA MARTÍNEZ - 1100712807",
+            "AL PIE DE LA FIRMA": "ROSA MARTÍNEZ - 1100712807"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1100712807",
+            "NOMBRES": "ROSA MARTÍNEZ",
+            "FECHA NACIMIENTO": "02/07/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.862.408",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ROSA MARTÍNEZ - 1100712807",
+            "AL PIE DE LA FIRMA": "ROSA MARTÍNEZ - 1100712807"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5351243",
+            "CEDULA": "1100712807",
+            "NOMBRES": "ROSA MARTÍNEZ",
+            "CREDITO": "19.862.408",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "371.191",
+            "E.A": "27.71%",
+            "RECOMPRA O DESEMBOLSO": "2.967.323",
+            "FIRMA ELLECTRONICA": "ROSA MARTÍNEZ - 1100712807"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1100712807",
+            "NOMBRES": "ROSA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ROSA MARTÍNEZ - 1100712807"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1100712807",
+            "NOMBRES": "ROSA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ROSA MARTÍNEZ - 1100712807",
+            "AL PIE DE LA FIRMA": "ROSA MARTÍNEZ - 1100712807"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1100712807",
+            "NOMBRES": "ROSA MARTÍNEZ",
+            "SALARIO": "2.969.591",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1100712807",
+            "NOMBRES": "ROSA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.967.323"
+        }
+    }
+]

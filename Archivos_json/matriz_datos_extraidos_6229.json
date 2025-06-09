@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "890051628983",
+            "SOLICITUD": "1879603",
+            "CEDULA": "1191059935",
+            "NOMBRES": "JESÚS RAMÍREZ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.299.426",
+            "FIRMA ELLECTRONICA": "JESÚS RAMÍREZ MARTÍNEZ - 1191059935"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "890051628983",
+            "NOMBRES": "JESÚS RAMÍREZ MARTÍNEZ",
+            "CREDITO": "11.838.324",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "123.534",
+            "FIRMA ELLECTRONICA": "JESÚS RAMÍREZ MARTÍNEZ - 1191059935",
+            "AL PIE DE LA FIRMA": "JESÚS RAMÍREZ MARTÍNEZ - 1191059935"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1191059935",
+            "NOMBRES": "JESÚS RAMÍREZ MARTÍNEZ",
+            "FECHA NACIMIENTO": "12/11/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.838.324",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JESÚS RAMÍREZ MARTÍNEZ - 1191059935",
+            "AL PIE DE LA FIRMA": "JESÚS RAMÍREZ MARTÍNEZ - 1191059935"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1879603",
+            "CEDULA": "1191059935",
+            "NOMBRES": "JESÚS RAMÍREZ MARTÍNEZ",
+            "CREDITO": "11.838.324",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "123.534",
+            "E.A": "18.16%",
+            "RECOMPRA O DESEMBOLSO": "3.299.426",
+            "FIRMA ELLECTRONICA": "JESÚS RAMÍREZ MARTÍNEZ - 1191059935"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1191059935",
+            "NOMBRES": "JESÚS RAMÍREZ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "JESÚS RAMÍREZ MARTÍNEZ - 1191059935"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1191059935",
+            "NOMBRES": "JESÚS RAMÍREZ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "JESÚS RAMÍREZ MARTÍNEZ - 1191059935",
+            "AL PIE DE LA FIRMA": "JESÚS RAMÍREZ MARTÍNEZ - 1191059935"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS RAMÍREZ MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1191059935",
+            "NOMBRES": "JESÚS RAMÍREZ MARTÍNEZ",
+            "SALARIO": "2.710.580",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1191059935",
+            "NOMBRES": "JESÚS RAMÍREZ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.299.426"
+        }
+    }
+]

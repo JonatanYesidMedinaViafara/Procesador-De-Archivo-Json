@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "547156881553",
+            "SOLICITUD": "5010343",
+            "CEDULA": "1142039039",
+            "NOMBRES": "PABLO LUIS GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "4.585.490",
+            "FIRMA ELLECTRONICA": "PABLO LUIS GUZMÁN - 1142039039"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "547156881553",
+            "NOMBRES": "PABLO LUIS GUZMÁN",
+            "CREDITO": "18.910.447",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "209.4",
+            "FIRMA ELLECTRONICA": "PABLO LUIS GUZMÁN - 1142039039",
+            "AL PIE DE LA FIRMA": "PABLO LUIS GUZMÁN - 1142039039"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1142039039",
+            "NOMBRES": "PABLO LUIS GUZMÁN",
+            "FECHA NACIMIENTO": "01/01/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.910.447",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PABLO LUIS GUZMÁN - 1142039039",
+            "AL PIE DE LA FIRMA": "PABLO LUIS GUZMÁN - 1142039039"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5010343",
+            "CEDULA": "1142039039",
+            "NOMBRES": "PABLO LUIS GUZMÁN",
+            "CREDITO": "18.910.447",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "209.4",
+            "E.A": "19.38%",
+            "RECOMPRA O DESEMBOLSO": "4.585.490",
+            "FIRMA ELLECTRONICA": "PABLO LUIS GUZMÁN - 1142039039"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1142039039",
+            "NOMBRES": "PABLO LUIS GUZMÁN",
+            "FIRMA ELLECTRONICA": "PABLO LUIS GUZMÁN - 1142039039"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1142039039",
+            "NOMBRES": "PABLO LUIS GUZMÁN",
+            "FIRMA ELLECTRONICA": "PABLO LUIS GUZMÁN - 1142039039",
+            "AL PIE DE LA FIRMA": "PABLO LUIS GUZMÁN - 1142039039"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO LUIS GUZMÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1142039039",
+            "NOMBRES": "PABLO LUIS GUZMÁN",
+            "SALARIO": "4.906.552",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1142039039",
+            "NOMBRES": "PABLO LUIS GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "4.585.490"
+        }
+    }
+]

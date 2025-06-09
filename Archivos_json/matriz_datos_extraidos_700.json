@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "550055470258",
+            "SOLICITUD": "4823874",
+            "CEDULA": "1875886580",
+            "NOMBRES": "CARLOS MONSALVE",
+            "RECOMPRA O DESEMBOLSO": "3.205.939",
+            "FIRMA ELLECTRONICA": "CARLOS MONSALVE - 1875886580"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "550055470258",
+            "NOMBRES": "CARLOS MONSALVE",
+            "CREDITO": "13.671.239",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "181.727",
+            "FIRMA ELLECTRONICA": "CARLOS MONSALVE - 1875886580",
+            "AL PIE DE LA FIRMA": "CARLOS MONSALVE - 1875886580"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1875886580",
+            "NOMBRES": "CARLOS MONSALVE",
+            "FECHA NACIMIENTO": "14/07/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.671.239",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARLOS MONSALVE - 1875886580",
+            "AL PIE DE LA FIRMA": "CARLOS MONSALVE - 1875886580"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4823874",
+            "CEDULA": "1875886580",
+            "NOMBRES": "CARLOS MONSALVE",
+            "CREDITO": "13.671.239",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "181.727",
+            "E.A": "26.02%",
+            "RECOMPRA O DESEMBOLSO": "3.205.939",
+            "FIRMA ELLECTRONICA": "CARLOS MONSALVE - 1875886580"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1875886580",
+            "NOMBRES": "CARLOS MONSALVE",
+            "FIRMA ELLECTRONICA": "CARLOS MONSALVE - 1875886580"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1875886580",
+            "NOMBRES": "CARLOS MONSALVE",
+            "FIRMA ELLECTRONICA": "CARLOS MONSALVE - 1875886580",
+            "AL PIE DE LA FIRMA": "CARLOS MONSALVE - 1875886580"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS MONSALVE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1875886580",
+            "NOMBRES": "CARLOS MONSALVE",
+            "SALARIO": "4.015.183",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1875886580",
+            "NOMBRES": "CARLOS MONSALVE",
+            "RECOMPRA O DESEMBOLSO": "3.205.939"
+        }
+    }
+]

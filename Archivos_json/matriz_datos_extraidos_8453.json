@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "393160644781",
+            "SOLICITUD": "3736340",
+            "CEDULA": "1483921353",
+            "NOMBRES": "ÁLVARO GONZÁLEZ PADILLA",
+            "RECOMPRA O DESEMBOLSO": "4.908.345",
+            "FIRMA ELLECTRONICA": "ÁLVARO GONZÁLEZ PADILLA - 1483921353"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "393160644781",
+            "NOMBRES": "ÁLVARO GONZÁLEZ PADILLA",
+            "CREDITO": "16.455.591",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "174.011",
+            "FIRMA ELLECTRONICA": "ÁLVARO GONZÁLEZ PADILLA - 1483921353",
+            "AL PIE DE LA FIRMA": "ÁLVARO GONZÁLEZ PADILLA - 1483921353"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1483921353",
+            "NOMBRES": "ÁLVARO GONZÁLEZ PADILLA",
+            "FECHA NACIMIENTO": "10/01/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.455.591",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ÁLVARO GONZÁLEZ PADILLA - 1483921353",
+            "AL PIE DE LA FIRMA": "ÁLVARO GONZÁLEZ PADILLA - 1483921353"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3736340",
+            "CEDULA": "1483921353",
+            "NOMBRES": "ÁLVARO GONZÁLEZ PADILLA",
+            "CREDITO": "16.455.591",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "174.011",
+            "E.A": "21.45%",
+            "RECOMPRA O DESEMBOLSO": "4.908.345",
+            "FIRMA ELLECTRONICA": "ÁLVARO GONZÁLEZ PADILLA - 1483921353"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1483921353",
+            "NOMBRES": "ÁLVARO GONZÁLEZ PADILLA",
+            "FIRMA ELLECTRONICA": "ÁLVARO GONZÁLEZ PADILLA - 1483921353"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1483921353",
+            "NOMBRES": "ÁLVARO GONZÁLEZ PADILLA",
+            "FIRMA ELLECTRONICA": "ÁLVARO GONZÁLEZ PADILLA - 1483921353",
+            "AL PIE DE LA FIRMA": "ÁLVARO GONZÁLEZ PADILLA - 1483921353"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO GONZÁLEZ PADILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1483921353",
+            "NOMBRES": "ÁLVARO GONZÁLEZ PADILLA",
+            "SALARIO": "1.371.016",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1483921353",
+            "NOMBRES": "ÁLVARO GONZÁLEZ PADILLA",
+            "RECOMPRA O DESEMBOLSO": "4.908.345"
+        }
+    }
+]

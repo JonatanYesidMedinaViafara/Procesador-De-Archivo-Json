@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "153365419763",
+            "SOLICITUD": "9631640",
+            "CEDULA": "1083171053",
+            "NOMBRES": "LUIS BRAVO",
+            "RECOMPRA O DESEMBOLSO": "1.631.324",
+            "FIRMA ELLECTRONICA": "LUIS BRAVO - 1083171053"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "153365419763",
+            "NOMBRES": "LUIS BRAVO",
+            "CREDITO": "8.076.824",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "260.483",
+            "FIRMA ELLECTRONICA": "LUIS BRAVO - 1083171053",
+            "AL PIE DE LA FIRMA": "LUIS BRAVO - 1083171053"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1083171053",
+            "NOMBRES": "LUIS BRAVO",
+            "FECHA NACIMIENTO": "28/09/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.076.824",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS BRAVO - 1083171053",
+            "AL PIE DE LA FIRMA": "LUIS BRAVO - 1083171053"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9631640",
+            "CEDULA": "1083171053",
+            "NOMBRES": "LUIS BRAVO",
+            "CREDITO": "8.076.824",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "260.483",
+            "E.A": "20.32%",
+            "RECOMPRA O DESEMBOLSO": "1.631.324",
+            "FIRMA ELLECTRONICA": "LUIS BRAVO - 1083171053"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1083171053",
+            "NOMBRES": "LUIS BRAVO",
+            "FIRMA ELLECTRONICA": "LUIS BRAVO - 1083171053"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1083171053",
+            "NOMBRES": "LUIS BRAVO",
+            "FIRMA ELLECTRONICA": "LUIS BRAVO - 1083171053",
+            "AL PIE DE LA FIRMA": "LUIS BRAVO - 1083171053"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS BRAVO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1083171053",
+            "NOMBRES": "LUIS BRAVO",
+            "SALARIO": "2.415.005",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1083171053",
+            "NOMBRES": "LUIS BRAVO",
+            "RECOMPRA O DESEMBOLSO": "1.631.324"
+        }
+    }
+]

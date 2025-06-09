@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "900122355604",
+            "SOLICITUD": "4010513",
+            "CEDULA": "1040133342",
+            "NOMBRES": "CECILIA MARÍA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.789.295",
+            "FIRMA ELLECTRONICA": "CECILIA MARÍA HERNÁNDEZ - 1040133342"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "900122355604",
+            "NOMBRES": "CECILIA MARÍA HERNÁNDEZ",
+            "CREDITO": "8.104.443",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "229.573",
+            "FIRMA ELLECTRONICA": "CECILIA MARÍA HERNÁNDEZ - 1040133342",
+            "AL PIE DE LA FIRMA": "CECILIA MARÍA HERNÁNDEZ - 1040133342"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1040133342",
+            "NOMBRES": "CECILIA MARÍA HERNÁNDEZ",
+            "FECHA NACIMIENTO": "27/06/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.104.443",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CECILIA MARÍA HERNÁNDEZ - 1040133342",
+            "AL PIE DE LA FIRMA": "CECILIA MARÍA HERNÁNDEZ - 1040133342"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4010513",
+            "CEDULA": "1040133342",
+            "NOMBRES": "CECILIA MARÍA HERNÁNDEZ",
+            "CREDITO": "8.104.443",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "229.573",
+            "E.A": "22.2%",
+            "RECOMPRA O DESEMBOLSO": "2.789.295",
+            "FIRMA ELLECTRONICA": "CECILIA MARÍA HERNÁNDEZ - 1040133342"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1040133342",
+            "NOMBRES": "CECILIA MARÍA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "CECILIA MARÍA HERNÁNDEZ - 1040133342"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1040133342",
+            "NOMBRES": "CECILIA MARÍA HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "CECILIA MARÍA HERNÁNDEZ - 1040133342",
+            "AL PIE DE LA FIRMA": "CECILIA MARÍA HERNÁNDEZ - 1040133342"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CECILIA MARÍA HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1040133342",
+            "NOMBRES": "CECILIA MARÍA HERNÁNDEZ",
+            "SALARIO": "4.243.833",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1040133342",
+            "NOMBRES": "CECILIA MARÍA HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.789.295"
+        }
+    }
+]

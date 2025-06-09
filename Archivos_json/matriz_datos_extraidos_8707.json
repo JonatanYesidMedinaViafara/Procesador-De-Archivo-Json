@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "414359510810",
+            "SOLICITUD": "1029178",
+            "CEDULA": "1714861976",
+            "NOMBRES": "MARÍA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.660.678",
+            "FIRMA ELLECTRONICA": "MARÍA RAMÍREZ - 1714861976"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "414359510810",
+            "NOMBRES": "MARÍA RAMÍREZ",
+            "CREDITO": "12.839.648",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "252.345",
+            "FIRMA ELLECTRONICA": "MARÍA RAMÍREZ - 1714861976",
+            "AL PIE DE LA FIRMA": "MARÍA RAMÍREZ - 1714861976"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1714861976",
+            "NOMBRES": "MARÍA RAMÍREZ",
+            "FECHA NACIMIENTO": "13/02/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.839.648",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA RAMÍREZ - 1714861976",
+            "AL PIE DE LA FIRMA": "MARÍA RAMÍREZ - 1714861976"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1029178",
+            "CEDULA": "1714861976",
+            "NOMBRES": "MARÍA RAMÍREZ",
+            "CREDITO": "12.839.648",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "252.345",
+            "E.A": "18.22%",
+            "RECOMPRA O DESEMBOLSO": "2.660.678",
+            "FIRMA ELLECTRONICA": "MARÍA RAMÍREZ - 1714861976"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1714861976",
+            "NOMBRES": "MARÍA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "MARÍA RAMÍREZ - 1714861976"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1714861976",
+            "NOMBRES": "MARÍA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "MARÍA RAMÍREZ - 1714861976",
+            "AL PIE DE LA FIRMA": "MARÍA RAMÍREZ - 1714861976"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1714861976",
+            "NOMBRES": "MARÍA RAMÍREZ",
+            "SALARIO": "2.352.658",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1714861976",
+            "NOMBRES": "MARÍA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.660.678"
+        }
+    }
+]

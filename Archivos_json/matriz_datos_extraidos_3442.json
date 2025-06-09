@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "903795583651",
+            "SOLICITUD": "9052958",
+            "CEDULA": "1036313799",
+            "NOMBRES": "ISABEL SERRANO AYALA",
+            "RECOMPRA O DESEMBOLSO": "4.368.673",
+            "FIRMA ELLECTRONICA": "ISABEL SERRANO AYALA - 1036313799"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "903795583651",
+            "NOMBRES": "ISABEL SERRANO AYALA",
+            "CREDITO": "16.222.737",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "209.143",
+            "FIRMA ELLECTRONICA": "ISABEL SERRANO AYALA - 1036313799",
+            "AL PIE DE LA FIRMA": "ISABEL SERRANO AYALA - 1036313799"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1036313799",
+            "NOMBRES": "ISABEL SERRANO AYALA",
+            "FECHA NACIMIENTO": "13/07/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.222.737",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ISABEL SERRANO AYALA - 1036313799",
+            "AL PIE DE LA FIRMA": "ISABEL SERRANO AYALA - 1036313799"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9052958",
+            "CEDULA": "1036313799",
+            "NOMBRES": "ISABEL SERRANO AYALA",
+            "CREDITO": "16.222.737",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "209.143",
+            "E.A": "24.73%",
+            "RECOMPRA O DESEMBOLSO": "4.368.673",
+            "FIRMA ELLECTRONICA": "ISABEL SERRANO AYALA - 1036313799"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1036313799",
+            "NOMBRES": "ISABEL SERRANO AYALA",
+            "FIRMA ELLECTRONICA": "ISABEL SERRANO AYALA - 1036313799"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1036313799",
+            "NOMBRES": "ISABEL SERRANO AYALA",
+            "FIRMA ELLECTRONICA": "ISABEL SERRANO AYALA - 1036313799",
+            "AL PIE DE LA FIRMA": "ISABEL SERRANO AYALA - 1036313799"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ISABEL SERRANO AYALA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1036313799",
+            "NOMBRES": "ISABEL SERRANO AYALA",
+            "SALARIO": "1.231.597",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1036313799",
+            "NOMBRES": "ISABEL SERRANO AYALA",
+            "RECOMPRA O DESEMBOLSO": "4.368.673"
+        }
+    }
+]

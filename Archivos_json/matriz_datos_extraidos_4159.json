@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "233020726474",
+            "SOLICITUD": "2235589",
+            "CEDULA": "1483743015",
+            "NOMBRES": "CAMILO MONTOYA RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "4.500.533",
+            "FIRMA ELLECTRONICA": "CAMILO MONTOYA RINCÓN - 1483743015"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "233020726474",
+            "NOMBRES": "CAMILO MONTOYA RINCÓN",
+            "CREDITO": "7.093.719",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "394.706",
+            "FIRMA ELLECTRONICA": "CAMILO MONTOYA RINCÓN - 1483743015",
+            "AL PIE DE LA FIRMA": "CAMILO MONTOYA RINCÓN - 1483743015"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1483743015",
+            "NOMBRES": "CAMILO MONTOYA RINCÓN",
+            "FECHA NACIMIENTO": "26/03/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.093.719",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CAMILO MONTOYA RINCÓN - 1483743015",
+            "AL PIE DE LA FIRMA": "CAMILO MONTOYA RINCÓN - 1483743015"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2235589",
+            "CEDULA": "1483743015",
+            "NOMBRES": "CAMILO MONTOYA RINCÓN",
+            "CREDITO": "7.093.719",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "394.706",
+            "E.A": "20.92%",
+            "RECOMPRA O DESEMBOLSO": "4.500.533",
+            "FIRMA ELLECTRONICA": "CAMILO MONTOYA RINCÓN - 1483743015"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1483743015",
+            "NOMBRES": "CAMILO MONTOYA RINCÓN",
+            "FIRMA ELLECTRONICA": "CAMILO MONTOYA RINCÓN - 1483743015"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1483743015",
+            "NOMBRES": "CAMILO MONTOYA RINCÓN",
+            "FIRMA ELLECTRONICA": "CAMILO MONTOYA RINCÓN - 1483743015",
+            "AL PIE DE LA FIRMA": "CAMILO MONTOYA RINCÓN - 1483743015"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO MONTOYA RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1483743015",
+            "NOMBRES": "CAMILO MONTOYA RINCÓN",
+            "SALARIO": "1.336.442",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1483743015",
+            "NOMBRES": "CAMILO MONTOYA RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "4.500.533"
+        }
+    }
+]

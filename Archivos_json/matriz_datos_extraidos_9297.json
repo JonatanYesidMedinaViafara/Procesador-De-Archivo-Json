@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "496659334059",
+            "SOLICITUD": "3141835",
+            "CEDULA": "1960397571",
+            "NOMBRES": "ARMANDO HERNÁNDEZ JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.445.049",
+            "FIRMA ELLECTRONICA": "ARMANDO HERNÁNDEZ JIMÉNEZ - 1960397571"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "496659334059",
+            "NOMBRES": "ARMANDO HERNÁNDEZ JIMÉNEZ",
+            "CREDITO": "15.414.444",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "322.167",
+            "FIRMA ELLECTRONICA": "ARMANDO HERNÁNDEZ JIMÉNEZ - 1960397571",
+            "AL PIE DE LA FIRMA": "ARMANDO HERNÁNDEZ JIMÉNEZ - 1960397571"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1960397571",
+            "NOMBRES": "ARMANDO HERNÁNDEZ JIMÉNEZ",
+            "FECHA NACIMIENTO": "30/03/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.414.444",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ARMANDO HERNÁNDEZ JIMÉNEZ - 1960397571",
+            "AL PIE DE LA FIRMA": "ARMANDO HERNÁNDEZ JIMÉNEZ - 1960397571"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3141835",
+            "CEDULA": "1960397571",
+            "NOMBRES": "ARMANDO HERNÁNDEZ JIMÉNEZ",
+            "CREDITO": "15.414.444",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "322.167",
+            "E.A": "26.26%",
+            "RECOMPRA O DESEMBOLSO": "2.445.049",
+            "FIRMA ELLECTRONICA": "ARMANDO HERNÁNDEZ JIMÉNEZ - 1960397571"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1960397571",
+            "NOMBRES": "ARMANDO HERNÁNDEZ JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "ARMANDO HERNÁNDEZ JIMÉNEZ - 1960397571"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1960397571",
+            "NOMBRES": "ARMANDO HERNÁNDEZ JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "ARMANDO HERNÁNDEZ JIMÉNEZ - 1960397571",
+            "AL PIE DE LA FIRMA": "ARMANDO HERNÁNDEZ JIMÉNEZ - 1960397571"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ARMANDO HERNÁNDEZ JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1960397571",
+            "NOMBRES": "ARMANDO HERNÁNDEZ JIMÉNEZ",
+            "SALARIO": "3.774.791",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1960397571",
+            "NOMBRES": "ARMANDO HERNÁNDEZ JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.445.049"
+        }
+    }
+]

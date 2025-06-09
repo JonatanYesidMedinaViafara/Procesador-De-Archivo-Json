@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "972390789494",
+            "SOLICITUD": "2868662",
+            "CEDULA": "1575877551",
+            "NOMBRES": "FREDY MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.713.409",
+            "FIRMA ELLECTRONICA": "FREDY MARTÍNEZ - 1575877551"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "972390789494",
+            "NOMBRES": "FREDY MARTÍNEZ",
+            "CREDITO": "18.153.131",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "357.422",
+            "FIRMA ELLECTRONICA": "FREDY MARTÍNEZ - 1575877551",
+            "AL PIE DE LA FIRMA": "FREDY MARTÍNEZ - 1575877551"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1575877551",
+            "NOMBRES": "FREDY MARTÍNEZ",
+            "FECHA NACIMIENTO": "06/05/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.153.131",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FREDY MARTÍNEZ - 1575877551",
+            "AL PIE DE LA FIRMA": "FREDY MARTÍNEZ - 1575877551"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2868662",
+            "CEDULA": "1575877551",
+            "NOMBRES": "FREDY MARTÍNEZ",
+            "CREDITO": "18.153.131",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "357.422",
+            "E.A": "22.8%",
+            "RECOMPRA O DESEMBOLSO": "2.713.409",
+            "FIRMA ELLECTRONICA": "FREDY MARTÍNEZ - 1575877551"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1575877551",
+            "NOMBRES": "FREDY MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "FREDY MARTÍNEZ - 1575877551"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1575877551",
+            "NOMBRES": "FREDY MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "FREDY MARTÍNEZ - 1575877551",
+            "AL PIE DE LA FIRMA": "FREDY MARTÍNEZ - 1575877551"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FREDY MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1575877551",
+            "NOMBRES": "FREDY MARTÍNEZ",
+            "SALARIO": "2.358.985",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1575877551",
+            "NOMBRES": "FREDY MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "2.713.409"
+        }
+    }
+]

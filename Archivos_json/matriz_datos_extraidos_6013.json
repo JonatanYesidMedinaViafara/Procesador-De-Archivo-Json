@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "139913213245",
+            "SOLICITUD": "7699928",
+            "CEDULA": "1695373103",
+            "NOMBRES": "JOSÉ QUINTERO CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.101.578",
+            "FIRMA ELLECTRONICA": "JOSÉ QUINTERO CASTILLO - 1695373103"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "139913213245",
+            "NOMBRES": "JOSÉ QUINTERO CASTILLO",
+            "CREDITO": "6.390.733",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "173.796",
+            "FIRMA ELLECTRONICA": "JOSÉ QUINTERO CASTILLO - 1695373103",
+            "AL PIE DE LA FIRMA": "JOSÉ QUINTERO CASTILLO - 1695373103"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1695373103",
+            "NOMBRES": "JOSÉ QUINTERO CASTILLO",
+            "FECHA NACIMIENTO": "15/12/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.390.733",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ QUINTERO CASTILLO - 1695373103",
+            "AL PIE DE LA FIRMA": "JOSÉ QUINTERO CASTILLO - 1695373103"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7699928",
+            "CEDULA": "1695373103",
+            "NOMBRES": "JOSÉ QUINTERO CASTILLO",
+            "CREDITO": "6.390.733",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "173.796",
+            "E.A": "18.47%",
+            "RECOMPRA O DESEMBOLSO": "2.101.578",
+            "FIRMA ELLECTRONICA": "JOSÉ QUINTERO CASTILLO - 1695373103"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1695373103",
+            "NOMBRES": "JOSÉ QUINTERO CASTILLO",
+            "FIRMA ELLECTRONICA": "JOSÉ QUINTERO CASTILLO - 1695373103"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1695373103",
+            "NOMBRES": "JOSÉ QUINTERO CASTILLO",
+            "FIRMA ELLECTRONICA": "JOSÉ QUINTERO CASTILLO - 1695373103",
+            "AL PIE DE LA FIRMA": "JOSÉ QUINTERO CASTILLO - 1695373103"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ QUINTERO CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1695373103",
+            "NOMBRES": "JOSÉ QUINTERO CASTILLO",
+            "SALARIO": "4.813.207",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1695373103",
+            "NOMBRES": "JOSÉ QUINTERO CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "2.101.578"
+        }
+    }
+]

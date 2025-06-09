@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "163100297599",
+            "SOLICITUD": "7000719",
+            "CEDULA": "1526992845",
+            "NOMBRES": "VÍCTOR MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.708.316",
+            "FIRMA ELLECTRONICA": "VÍCTOR MARTÍNEZ - 1526992845"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "163100297599",
+            "NOMBRES": "VÍCTOR MARTÍNEZ",
+            "CREDITO": "19.583.140",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "221.19",
+            "FIRMA ELLECTRONICA": "VÍCTOR MARTÍNEZ - 1526992845",
+            "AL PIE DE LA FIRMA": "VÍCTOR MARTÍNEZ - 1526992845"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1526992845",
+            "NOMBRES": "VÍCTOR MARTÍNEZ",
+            "FECHA NACIMIENTO": "03/04/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.583.140",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "VÍCTOR MARTÍNEZ - 1526992845",
+            "AL PIE DE LA FIRMA": "VÍCTOR MARTÍNEZ - 1526992845"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7000719",
+            "CEDULA": "1526992845",
+            "NOMBRES": "VÍCTOR MARTÍNEZ",
+            "CREDITO": "19.583.140",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "221.19",
+            "E.A": "19.17%",
+            "RECOMPRA O DESEMBOLSO": "3.708.316",
+            "FIRMA ELLECTRONICA": "VÍCTOR MARTÍNEZ - 1526992845"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1526992845",
+            "NOMBRES": "VÍCTOR MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "VÍCTOR MARTÍNEZ - 1526992845"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1526992845",
+            "NOMBRES": "VÍCTOR MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "VÍCTOR MARTÍNEZ - 1526992845",
+            "AL PIE DE LA FIRMA": "VÍCTOR MARTÍNEZ - 1526992845"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VÍCTOR MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1526992845",
+            "NOMBRES": "VÍCTOR MARTÍNEZ",
+            "SALARIO": "2.445.679",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1526992845",
+            "NOMBRES": "VÍCTOR MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.708.316"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "170673510680",
+            "SOLICITUD": "3537560",
+            "CEDULA": "1589314600",
+            "NOMBRES": "CARMEN TORO",
+            "RECOMPRA O DESEMBOLSO": "4.100.149",
+            "FIRMA ELLECTRONICA": "CARMEN TORO - 1589314600"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "170673510680",
+            "NOMBRES": "CARMEN TORO",
+            "CREDITO": "10.766.789",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "131.763",
+            "FIRMA ELLECTRONICA": "CARMEN TORO - 1589314600",
+            "AL PIE DE LA FIRMA": "CARMEN TORO - 1589314600"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1589314600",
+            "NOMBRES": "CARMEN TORO",
+            "FECHA NACIMIENTO": "01/02/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.766.789",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARMEN TORO - 1589314600",
+            "AL PIE DE LA FIRMA": "CARMEN TORO - 1589314600"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3537560",
+            "CEDULA": "1589314600",
+            "NOMBRES": "CARMEN TORO",
+            "CREDITO": "10.766.789",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "131.763",
+            "E.A": "27.25%",
+            "RECOMPRA O DESEMBOLSO": "4.100.149",
+            "FIRMA ELLECTRONICA": "CARMEN TORO - 1589314600"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1589314600",
+            "NOMBRES": "CARMEN TORO",
+            "FIRMA ELLECTRONICA": "CARMEN TORO - 1589314600"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1589314600",
+            "NOMBRES": "CARMEN TORO",
+            "FIRMA ELLECTRONICA": "CARMEN TORO - 1589314600",
+            "AL PIE DE LA FIRMA": "CARMEN TORO - 1589314600"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN TORO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1589314600",
+            "NOMBRES": "CARMEN TORO",
+            "SALARIO": "1.443.523",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1589314600",
+            "NOMBRES": "CARMEN TORO",
+            "RECOMPRA O DESEMBOLSO": "4.100.149"
+        }
+    }
+]

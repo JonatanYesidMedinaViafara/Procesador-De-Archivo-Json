@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "332928737310",
+            "SOLICITUD": "2974134",
+            "CEDULA": "1682661459",
+            "NOMBRES": "ENRIQUE RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.830.180",
+            "FIRMA ELLECTRONICA": "ENRIQUE RODRÍGUEZ - 1682661459"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "332928737310",
+            "NOMBRES": "ENRIQUE RODRÍGUEZ",
+            "CREDITO": "6.192.077",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "397.097",
+            "FIRMA ELLECTRONICA": "ENRIQUE RODRÍGUEZ - 1682661459",
+            "AL PIE DE LA FIRMA": "ENRIQUE RODRÍGUEZ - 1682661459"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1682661459",
+            "NOMBRES": "ENRIQUE RODRÍGUEZ",
+            "FECHA NACIMIENTO": "02/09/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.192.077",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE RODRÍGUEZ - 1682661459",
+            "AL PIE DE LA FIRMA": "ENRIQUE RODRÍGUEZ - 1682661459"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2974134",
+            "CEDULA": "1682661459",
+            "NOMBRES": "ENRIQUE RODRÍGUEZ",
+            "CREDITO": "6.192.077",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "397.097",
+            "E.A": "28.14%",
+            "RECOMPRA O DESEMBOLSO": "3.830.180",
+            "FIRMA ELLECTRONICA": "ENRIQUE RODRÍGUEZ - 1682661459"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1682661459",
+            "NOMBRES": "ENRIQUE RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE RODRÍGUEZ - 1682661459"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1682661459",
+            "NOMBRES": "ENRIQUE RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE RODRÍGUEZ - 1682661459",
+            "AL PIE DE LA FIRMA": "ENRIQUE RODRÍGUEZ - 1682661459"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1682661459",
+            "NOMBRES": "ENRIQUE RODRÍGUEZ",
+            "SALARIO": "3.083.068",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1682661459",
+            "NOMBRES": "ENRIQUE RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.830.180"
+        }
+    }
+]

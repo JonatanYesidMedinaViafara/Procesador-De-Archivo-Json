@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "976271019720",
+            "SOLICITUD": "7063421",
+            "CEDULA": "1406749903",
+            "NOMBRES": "GERARDO CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "3.493.153",
+            "FIRMA ELLECTRONICA": "GERARDO CARVAJAL - 1406749903"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "976271019720",
+            "NOMBRES": "GERARDO CARVAJAL",
+            "CREDITO": "7.419.672",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "398.773",
+            "FIRMA ELLECTRONICA": "GERARDO CARVAJAL - 1406749903",
+            "AL PIE DE LA FIRMA": "GERARDO CARVAJAL - 1406749903"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1406749903",
+            "NOMBRES": "GERARDO CARVAJAL",
+            "FECHA NACIMIENTO": "04/04/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.419.672",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "GERARDO CARVAJAL - 1406749903",
+            "AL PIE DE LA FIRMA": "GERARDO CARVAJAL - 1406749903"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7063421",
+            "CEDULA": "1406749903",
+            "NOMBRES": "GERARDO CARVAJAL",
+            "CREDITO": "7.419.672",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "398.773",
+            "E.A": "18.56%",
+            "RECOMPRA O DESEMBOLSO": "3.493.153",
+            "FIRMA ELLECTRONICA": "GERARDO CARVAJAL - 1406749903"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1406749903",
+            "NOMBRES": "GERARDO CARVAJAL",
+            "FIRMA ELLECTRONICA": "GERARDO CARVAJAL - 1406749903"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1406749903",
+            "NOMBRES": "GERARDO CARVAJAL",
+            "FIRMA ELLECTRONICA": "GERARDO CARVAJAL - 1406749903",
+            "AL PIE DE LA FIRMA": "GERARDO CARVAJAL - 1406749903"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GERARDO CARVAJAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1406749903",
+            "NOMBRES": "GERARDO CARVAJAL",
+            "SALARIO": "2.481.329",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1406749903",
+            "NOMBRES": "GERARDO CARVAJAL",
+            "RECOMPRA O DESEMBOLSO": "3.493.153"
+        }
+    }
+]

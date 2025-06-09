@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "714483998513",
+            "SOLICITUD": "2204539",
+            "CEDULA": "1339701381",
+            "NOMBRES": "JUAN ALBERTO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.038.394",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO DÍAZ - 1339701381"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "714483998513",
+            "NOMBRES": "JUAN ALBERTO DÍAZ",
+            "CREDITO": "7.910.615",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "312.203",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO DÍAZ - 1339701381",
+            "AL PIE DE LA FIRMA": "JUAN ALBERTO DÍAZ - 1339701381"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1339701381",
+            "NOMBRES": "JUAN ALBERTO DÍAZ",
+            "FECHA NACIMIENTO": "12/06/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.910.615",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO DÍAZ - 1339701381",
+            "AL PIE DE LA FIRMA": "JUAN ALBERTO DÍAZ - 1339701381"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2204539",
+            "CEDULA": "1339701381",
+            "NOMBRES": "JUAN ALBERTO DÍAZ",
+            "CREDITO": "7.910.615",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "312.203",
+            "E.A": "27.82%",
+            "RECOMPRA O DESEMBOLSO": "4.038.394",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO DÍAZ - 1339701381"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1339701381",
+            "NOMBRES": "JUAN ALBERTO DÍAZ",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO DÍAZ - 1339701381"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1339701381",
+            "NOMBRES": "JUAN ALBERTO DÍAZ",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO DÍAZ - 1339701381",
+            "AL PIE DE LA FIRMA": "JUAN ALBERTO DÍAZ - 1339701381"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ALBERTO DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1339701381",
+            "NOMBRES": "JUAN ALBERTO DÍAZ",
+            "SALARIO": "2.767.341",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1339701381",
+            "NOMBRES": "JUAN ALBERTO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.038.394"
+        }
+    }
+]

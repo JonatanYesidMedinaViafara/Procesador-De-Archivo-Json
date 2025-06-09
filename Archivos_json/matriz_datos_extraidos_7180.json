@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "138161328363",
+            "SOLICITUD": "2562582",
+            "CEDULA": "1413073900",
+            "NOMBRES": "CARMEN MARÍA RICO",
+            "RECOMPRA O DESEMBOLSO": "2.205.650",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA RICO - 1413073900"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "138161328363",
+            "NOMBRES": "CARMEN MARÍA RICO",
+            "CREDITO": "7.871.795",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "175.225",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA RICO - 1413073900",
+            "AL PIE DE LA FIRMA": "CARMEN MARÍA RICO - 1413073900"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1413073900",
+            "NOMBRES": "CARMEN MARÍA RICO",
+            "FECHA NACIMIENTO": "13/09/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.871.795",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA RICO - 1413073900",
+            "AL PIE DE LA FIRMA": "CARMEN MARÍA RICO - 1413073900"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2562582",
+            "CEDULA": "1413073900",
+            "NOMBRES": "CARMEN MARÍA RICO",
+            "CREDITO": "7.871.795",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "175.225",
+            "E.A": "18.63%",
+            "RECOMPRA O DESEMBOLSO": "2.205.650",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA RICO - 1413073900"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1413073900",
+            "NOMBRES": "CARMEN MARÍA RICO",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA RICO - 1413073900"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1413073900",
+            "NOMBRES": "CARMEN MARÍA RICO",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA RICO - 1413073900",
+            "AL PIE DE LA FIRMA": "CARMEN MARÍA RICO - 1413073900"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN MARÍA RICO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1413073900",
+            "NOMBRES": "CARMEN MARÍA RICO",
+            "SALARIO": "4.371.206",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1413073900",
+            "NOMBRES": "CARMEN MARÍA RICO",
+            "RECOMPRA O DESEMBOLSO": "2.205.650"
+        }
+    }
+]

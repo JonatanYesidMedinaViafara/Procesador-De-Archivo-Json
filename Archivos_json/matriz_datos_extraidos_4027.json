@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "918337158604",
+            "SOLICITUD": "7966702",
+            "CEDULA": "1303858782",
+            "NOMBRES": "ESTEBAN CASTELLANOS PINZÓN",
+            "RECOMPRA O DESEMBOLSO": "2.385.207",
+            "FIRMA ELLECTRONICA": "ESTEBAN CASTELLANOS PINZÓN - 1303858782"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "918337158604",
+            "NOMBRES": "ESTEBAN CASTELLANOS PINZÓN",
+            "CREDITO": "12.735.792",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "159.415",
+            "FIRMA ELLECTRONICA": "ESTEBAN CASTELLANOS PINZÓN - 1303858782",
+            "AL PIE DE LA FIRMA": "ESTEBAN CASTELLANOS PINZÓN - 1303858782"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1303858782",
+            "NOMBRES": "ESTEBAN CASTELLANOS PINZÓN",
+            "FECHA NACIMIENTO": "02/02/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.735.792",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ESTEBAN CASTELLANOS PINZÓN - 1303858782",
+            "AL PIE DE LA FIRMA": "ESTEBAN CASTELLANOS PINZÓN - 1303858782"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7966702",
+            "CEDULA": "1303858782",
+            "NOMBRES": "ESTEBAN CASTELLANOS PINZÓN",
+            "CREDITO": "12.735.792",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "159.415",
+            "E.A": "28.27%",
+            "RECOMPRA O DESEMBOLSO": "2.385.207",
+            "FIRMA ELLECTRONICA": "ESTEBAN CASTELLANOS PINZÓN - 1303858782"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1303858782",
+            "NOMBRES": "ESTEBAN CASTELLANOS PINZÓN",
+            "FIRMA ELLECTRONICA": "ESTEBAN CASTELLANOS PINZÓN - 1303858782"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1303858782",
+            "NOMBRES": "ESTEBAN CASTELLANOS PINZÓN",
+            "FIRMA ELLECTRONICA": "ESTEBAN CASTELLANOS PINZÓN - 1303858782",
+            "AL PIE DE LA FIRMA": "ESTEBAN CASTELLANOS PINZÓN - 1303858782"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTEBAN CASTELLANOS PINZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1303858782",
+            "NOMBRES": "ESTEBAN CASTELLANOS PINZÓN",
+            "SALARIO": "4.089.263",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1303858782",
+            "NOMBRES": "ESTEBAN CASTELLANOS PINZÓN",
+            "RECOMPRA O DESEMBOLSO": "2.385.207"
+        }
+    }
+]

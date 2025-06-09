@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "373282333888",
+            "SOLICITUD": "4981878",
+            "CEDULA": "1419636077",
+            "NOMBRES": "RAÚL ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "3.792.714",
+            "FIRMA ELLECTRONICA": "RAÚL ACOSTA - 1419636077"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "373282333888",
+            "NOMBRES": "RAÚL ACOSTA",
+            "CREDITO": "9.642.542",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "233.821",
+            "FIRMA ELLECTRONICA": "RAÚL ACOSTA - 1419636077",
+            "AL PIE DE LA FIRMA": "RAÚL ACOSTA - 1419636077"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1419636077",
+            "NOMBRES": "RAÚL ACOSTA",
+            "FECHA NACIMIENTO": "26/03/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.642.542",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RAÚL ACOSTA - 1419636077",
+            "AL PIE DE LA FIRMA": "RAÚL ACOSTA - 1419636077"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4981878",
+            "CEDULA": "1419636077",
+            "NOMBRES": "RAÚL ACOSTA",
+            "CREDITO": "9.642.542",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "233.821",
+            "E.A": "19.87%",
+            "RECOMPRA O DESEMBOLSO": "3.792.714",
+            "FIRMA ELLECTRONICA": "RAÚL ACOSTA - 1419636077"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1419636077",
+            "NOMBRES": "RAÚL ACOSTA",
+            "FIRMA ELLECTRONICA": "RAÚL ACOSTA - 1419636077"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1419636077",
+            "NOMBRES": "RAÚL ACOSTA",
+            "FIRMA ELLECTRONICA": "RAÚL ACOSTA - 1419636077",
+            "AL PIE DE LA FIRMA": "RAÚL ACOSTA - 1419636077"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAÚL ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1419636077",
+            "NOMBRES": "RAÚL ACOSTA",
+            "SALARIO": "1.690.953",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1419636077",
+            "NOMBRES": "RAÚL ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "3.792.714"
+        }
+    }
+]

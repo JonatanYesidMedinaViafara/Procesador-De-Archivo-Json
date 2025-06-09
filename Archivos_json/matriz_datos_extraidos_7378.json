@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "810482347529",
+            "SOLICITUD": "7792264",
+            "CEDULA": "1679024701",
+            "NOMBRES": "ÓSCAR MANUEL HERRERA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.260.322",
+            "FIRMA ELLECTRONICA": "ÓSCAR MANUEL HERRERA GÓMEZ - 1679024701"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "810482347529",
+            "NOMBRES": "ÓSCAR MANUEL HERRERA GÓMEZ",
+            "CREDITO": "13.529.489",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "317.677",
+            "FIRMA ELLECTRONICA": "ÓSCAR MANUEL HERRERA GÓMEZ - 1679024701",
+            "AL PIE DE LA FIRMA": "ÓSCAR MANUEL HERRERA GÓMEZ - 1679024701"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1679024701",
+            "NOMBRES": "ÓSCAR MANUEL HERRERA GÓMEZ",
+            "FECHA NACIMIENTO": "07/06/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.529.489",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ÓSCAR MANUEL HERRERA GÓMEZ - 1679024701",
+            "AL PIE DE LA FIRMA": "ÓSCAR MANUEL HERRERA GÓMEZ - 1679024701"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7792264",
+            "CEDULA": "1679024701",
+            "NOMBRES": "ÓSCAR MANUEL HERRERA GÓMEZ",
+            "CREDITO": "13.529.489",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "317.677",
+            "E.A": "24.41%",
+            "RECOMPRA O DESEMBOLSO": "3.260.322",
+            "FIRMA ELLECTRONICA": "ÓSCAR MANUEL HERRERA GÓMEZ - 1679024701"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1679024701",
+            "NOMBRES": "ÓSCAR MANUEL HERRERA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR MANUEL HERRERA GÓMEZ - 1679024701"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1679024701",
+            "NOMBRES": "ÓSCAR MANUEL HERRERA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ÓSCAR MANUEL HERRERA GÓMEZ - 1679024701",
+            "AL PIE DE LA FIRMA": "ÓSCAR MANUEL HERRERA GÓMEZ - 1679024701"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR MANUEL HERRERA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1679024701",
+            "NOMBRES": "ÓSCAR MANUEL HERRERA GÓMEZ",
+            "SALARIO": "3.314.044",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1679024701",
+            "NOMBRES": "ÓSCAR MANUEL HERRERA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.260.322"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "492466933048",
+            "SOLICITUD": "2136028",
+            "CEDULA": "1408720745",
+            "NOMBRES": "LEONEL JAIRO BARRERA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.979.305",
+            "FIRMA ELLECTRONICA": "LEONEL JAIRO BARRERA PÉREZ - 1408720745"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "492466933048",
+            "NOMBRES": "LEONEL JAIRO BARRERA PÉREZ",
+            "CREDITO": "13.969.706",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "181.318",
+            "FIRMA ELLECTRONICA": "LEONEL JAIRO BARRERA PÉREZ - 1408720745",
+            "AL PIE DE LA FIRMA": "LEONEL JAIRO BARRERA PÉREZ - 1408720745"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1408720745",
+            "NOMBRES": "LEONEL JAIRO BARRERA PÉREZ",
+            "FECHA NACIMIENTO": "29/09/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.969.706",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LEONEL JAIRO BARRERA PÉREZ - 1408720745",
+            "AL PIE DE LA FIRMA": "LEONEL JAIRO BARRERA PÉREZ - 1408720745"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2136028",
+            "CEDULA": "1408720745",
+            "NOMBRES": "LEONEL JAIRO BARRERA PÉREZ",
+            "CREDITO": "13.969.706",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "181.318",
+            "E.A": "18.89%",
+            "RECOMPRA O DESEMBOLSO": "1.979.305",
+            "FIRMA ELLECTRONICA": "LEONEL JAIRO BARRERA PÉREZ - 1408720745"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1408720745",
+            "NOMBRES": "LEONEL JAIRO BARRERA PÉREZ",
+            "FIRMA ELLECTRONICA": "LEONEL JAIRO BARRERA PÉREZ - 1408720745"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1408720745",
+            "NOMBRES": "LEONEL JAIRO BARRERA PÉREZ",
+            "FIRMA ELLECTRONICA": "LEONEL JAIRO BARRERA PÉREZ - 1408720745",
+            "AL PIE DE LA FIRMA": "LEONEL JAIRO BARRERA PÉREZ - 1408720745"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEONEL JAIRO BARRERA PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1408720745",
+            "NOMBRES": "LEONEL JAIRO BARRERA PÉREZ",
+            "SALARIO": "3.871.150",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1408720745",
+            "NOMBRES": "LEONEL JAIRO BARRERA PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.979.305"
+        }
+    }
+]

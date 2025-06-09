@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "960759477438",
+            "SOLICITUD": "1019598",
+            "CEDULA": "1588673343",
+            "NOMBRES": "JAIR CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.530.676",
+            "FIRMA ELLECTRONICA": "JAIR CARRILLO - 1588673343"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "960759477438",
+            "NOMBRES": "JAIR CARRILLO",
+            "CREDITO": "12.041.104",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "202.671",
+            "FIRMA ELLECTRONICA": "JAIR CARRILLO - 1588673343",
+            "AL PIE DE LA FIRMA": "JAIR CARRILLO - 1588673343"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1588673343",
+            "NOMBRES": "JAIR CARRILLO",
+            "FECHA NACIMIENTO": "21/07/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.041.104",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAIR CARRILLO - 1588673343",
+            "AL PIE DE LA FIRMA": "JAIR CARRILLO - 1588673343"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1019598",
+            "CEDULA": "1588673343",
+            "NOMBRES": "JAIR CARRILLO",
+            "CREDITO": "12.041.104",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "202.671",
+            "E.A": "21.31%",
+            "RECOMPRA O DESEMBOLSO": "3.530.676",
+            "FIRMA ELLECTRONICA": "JAIR CARRILLO - 1588673343"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1588673343",
+            "NOMBRES": "JAIR CARRILLO",
+            "FIRMA ELLECTRONICA": "JAIR CARRILLO - 1588673343"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1588673343",
+            "NOMBRES": "JAIR CARRILLO",
+            "FIRMA ELLECTRONICA": "JAIR CARRILLO - 1588673343",
+            "AL PIE DE LA FIRMA": "JAIR CARRILLO - 1588673343"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIR CARRILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1588673343",
+            "NOMBRES": "JAIR CARRILLO",
+            "SALARIO": "2.381.535",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1588673343",
+            "NOMBRES": "JAIR CARRILLO",
+            "RECOMPRA O DESEMBOLSO": "3.530.676"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "558312474704",
+            "SOLICITUD": "8573531",
+            "CEDULA": "1011584313",
+            "NOMBRES": "CARLOS BENÍTEZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.351.137",
+            "FIRMA ELLECTRONICA": "CARLOS BENÍTEZ DÍAZ - 1011584313"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "558312474704",
+            "NOMBRES": "CARLOS BENÍTEZ DÍAZ",
+            "CREDITO": "8.945.320",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "244.48",
+            "FIRMA ELLECTRONICA": "CARLOS BENÍTEZ DÍAZ - 1011584313",
+            "AL PIE DE LA FIRMA": "CARLOS BENÍTEZ DÍAZ - 1011584313"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1011584313",
+            "NOMBRES": "CARLOS BENÍTEZ DÍAZ",
+            "FECHA NACIMIENTO": "08/11/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.945.320",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS BENÍTEZ DÍAZ - 1011584313",
+            "AL PIE DE LA FIRMA": "CARLOS BENÍTEZ DÍAZ - 1011584313"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8573531",
+            "CEDULA": "1011584313",
+            "NOMBRES": "CARLOS BENÍTEZ DÍAZ",
+            "CREDITO": "8.945.320",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "244.48",
+            "E.A": "19.93%",
+            "RECOMPRA O DESEMBOLSO": "2.351.137",
+            "FIRMA ELLECTRONICA": "CARLOS BENÍTEZ DÍAZ - 1011584313"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1011584313",
+            "NOMBRES": "CARLOS BENÍTEZ DÍAZ",
+            "FIRMA ELLECTRONICA": "CARLOS BENÍTEZ DÍAZ - 1011584313"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1011584313",
+            "NOMBRES": "CARLOS BENÍTEZ DÍAZ",
+            "FIRMA ELLECTRONICA": "CARLOS BENÍTEZ DÍAZ - 1011584313",
+            "AL PIE DE LA FIRMA": "CARLOS BENÍTEZ DÍAZ - 1011584313"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS BENÍTEZ DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1011584313",
+            "NOMBRES": "CARLOS BENÍTEZ DÍAZ",
+            "SALARIO": "1.226.865",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "17/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1011584313",
+            "NOMBRES": "CARLOS BENÍTEZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.351.137"
+        }
+    }
+]

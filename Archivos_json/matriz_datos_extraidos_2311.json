@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "600162958883",
+            "SOLICITUD": "6670605",
+            "CEDULA": "1138212079",
+            "NOMBRES": "ANDRÉS PORTILLA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.360.382",
+            "FIRMA ELLECTRONICA": "ANDRÉS PORTILLA DÍAZ - 1138212079"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "600162958883",
+            "NOMBRES": "ANDRÉS PORTILLA DÍAZ",
+            "CREDITO": "13.975.433",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "161.482",
+            "FIRMA ELLECTRONICA": "ANDRÉS PORTILLA DÍAZ - 1138212079",
+            "AL PIE DE LA FIRMA": "ANDRÉS PORTILLA DÍAZ - 1138212079"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1138212079",
+            "NOMBRES": "ANDRÉS PORTILLA DÍAZ",
+            "FECHA NACIMIENTO": "20/05/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.975.433",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS PORTILLA DÍAZ - 1138212079",
+            "AL PIE DE LA FIRMA": "ANDRÉS PORTILLA DÍAZ - 1138212079"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6670605",
+            "CEDULA": "1138212079",
+            "NOMBRES": "ANDRÉS PORTILLA DÍAZ",
+            "CREDITO": "13.975.433",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "161.482",
+            "E.A": "26.32%",
+            "RECOMPRA O DESEMBOLSO": "2.360.382",
+            "FIRMA ELLECTRONICA": "ANDRÉS PORTILLA DÍAZ - 1138212079"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1138212079",
+            "NOMBRES": "ANDRÉS PORTILLA DÍAZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS PORTILLA DÍAZ - 1138212079"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1138212079",
+            "NOMBRES": "ANDRÉS PORTILLA DÍAZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS PORTILLA DÍAZ - 1138212079",
+            "AL PIE DE LA FIRMA": "ANDRÉS PORTILLA DÍAZ - 1138212079"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS PORTILLA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1138212079",
+            "NOMBRES": "ANDRÉS PORTILLA DÍAZ",
+            "SALARIO": "2.759.437",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1138212079",
+            "NOMBRES": "ANDRÉS PORTILLA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.360.382"
+        }
+    }
+]

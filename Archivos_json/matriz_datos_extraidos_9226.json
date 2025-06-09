@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "789619652230",
+            "SOLICITUD": "2490847",
+            "CEDULA": "1257522643",
+            "NOMBRES": "ADRIANA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.947.536",
+            "FIRMA ELLECTRONICA": "ADRIANA RODRÍGUEZ - 1257522643"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "789619652230",
+            "NOMBRES": "ADRIANA RODRÍGUEZ",
+            "CREDITO": "11.604.513",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "153.275",
+            "FIRMA ELLECTRONICA": "ADRIANA RODRÍGUEZ - 1257522643",
+            "AL PIE DE LA FIRMA": "ADRIANA RODRÍGUEZ - 1257522643"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1257522643",
+            "NOMBRES": "ADRIANA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "31/05/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.604.513",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ADRIANA RODRÍGUEZ - 1257522643",
+            "AL PIE DE LA FIRMA": "ADRIANA RODRÍGUEZ - 1257522643"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2490847",
+            "CEDULA": "1257522643",
+            "NOMBRES": "ADRIANA RODRÍGUEZ",
+            "CREDITO": "11.604.513",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "153.275",
+            "E.A": "25.3%",
+            "RECOMPRA O DESEMBOLSO": "2.947.536",
+            "FIRMA ELLECTRONICA": "ADRIANA RODRÍGUEZ - 1257522643"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1257522643",
+            "NOMBRES": "ADRIANA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ADRIANA RODRÍGUEZ - 1257522643"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1257522643",
+            "NOMBRES": "ADRIANA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ADRIANA RODRÍGUEZ - 1257522643",
+            "AL PIE DE LA FIRMA": "ADRIANA RODRÍGUEZ - 1257522643"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ADRIANA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1257522643",
+            "NOMBRES": "ADRIANA RODRÍGUEZ",
+            "SALARIO": "3.109.313",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1257522643",
+            "NOMBRES": "ADRIANA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.947.536"
+        }
+    }
+]

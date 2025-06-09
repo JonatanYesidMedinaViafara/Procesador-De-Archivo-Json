@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "430092508125",
+            "SOLICITUD": "2681540",
+            "CEDULA": "1319715716",
+            "NOMBRES": "MARÍA ROJAS MORALES",
+            "RECOMPRA O DESEMBOLSO": "1.269.808",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS MORALES - 1319715716"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "430092508125",
+            "NOMBRES": "MARÍA ROJAS MORALES",
+            "CREDITO": "13.731.556",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "326.32",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS MORALES - 1319715716",
+            "AL PIE DE LA FIRMA": "MARÍA ROJAS MORALES - 1319715716"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1319715716",
+            "NOMBRES": "MARÍA ROJAS MORALES",
+            "FECHA NACIMIENTO": "08/07/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.731.556",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS MORALES - 1319715716",
+            "AL PIE DE LA FIRMA": "MARÍA ROJAS MORALES - 1319715716"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2681540",
+            "CEDULA": "1319715716",
+            "NOMBRES": "MARÍA ROJAS MORALES",
+            "CREDITO": "13.731.556",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "326.32",
+            "E.A": "23.12%",
+            "RECOMPRA O DESEMBOLSO": "1.269.808",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS MORALES - 1319715716"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1319715716",
+            "NOMBRES": "MARÍA ROJAS MORALES",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS MORALES - 1319715716"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1319715716",
+            "NOMBRES": "MARÍA ROJAS MORALES",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS MORALES - 1319715716",
+            "AL PIE DE LA FIRMA": "MARÍA ROJAS MORALES - 1319715716"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ROJAS MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1319715716",
+            "NOMBRES": "MARÍA ROJAS MORALES",
+            "SALARIO": "1.559.628",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1319715716",
+            "NOMBRES": "MARÍA ROJAS MORALES",
+            "RECOMPRA O DESEMBOLSO": "1.269.808"
+        }
+    }
+]

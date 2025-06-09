@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "577667289374",
+            "SOLICITUD": "3127472",
+            "CEDULA": "1250585122",
+            "NOMBRES": "LUIS ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "2.306.531",
+            "FIRMA ELLECTRONICA": "LUIS ORTIZ - 1250585122"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "577667289374",
+            "NOMBRES": "LUIS ORTIZ",
+            "CREDITO": "16.896.646",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "179.329",
+            "FIRMA ELLECTRONICA": "LUIS ORTIZ - 1250585122",
+            "AL PIE DE LA FIRMA": "LUIS ORTIZ - 1250585122"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1250585122",
+            "NOMBRES": "LUIS ORTIZ",
+            "FECHA NACIMIENTO": "15/10/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.896.646",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUIS ORTIZ - 1250585122",
+            "AL PIE DE LA FIRMA": "LUIS ORTIZ - 1250585122"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3127472",
+            "CEDULA": "1250585122",
+            "NOMBRES": "LUIS ORTIZ",
+            "CREDITO": "16.896.646",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "179.329",
+            "E.A": "26.54%",
+            "RECOMPRA O DESEMBOLSO": "2.306.531",
+            "FIRMA ELLECTRONICA": "LUIS ORTIZ - 1250585122"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1250585122",
+            "NOMBRES": "LUIS ORTIZ",
+            "FIRMA ELLECTRONICA": "LUIS ORTIZ - 1250585122"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1250585122",
+            "NOMBRES": "LUIS ORTIZ",
+            "FIRMA ELLECTRONICA": "LUIS ORTIZ - 1250585122",
+            "AL PIE DE LA FIRMA": "LUIS ORTIZ - 1250585122"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1250585122",
+            "NOMBRES": "LUIS ORTIZ",
+            "SALARIO": "3.666.681",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1250585122",
+            "NOMBRES": "LUIS ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "2.306.531"
+        }
+    }
+]

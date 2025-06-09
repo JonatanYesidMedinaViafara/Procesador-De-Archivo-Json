@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "479363268536",
+            "SOLICITUD": "7239270",
+            "CEDULA": "1447547158",
+            "NOMBRES": "IVÁN FERNANDO SIERRA CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "3.386.564",
+            "FIRMA ELLECTRONICA": "IVÁN FERNANDO SIERRA CASTELLANOS - 1447547158"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "479363268536",
+            "NOMBRES": "IVÁN FERNANDO SIERRA CASTELLANOS",
+            "CREDITO": "7.094.142",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "385.671",
+            "FIRMA ELLECTRONICA": "IVÁN FERNANDO SIERRA CASTELLANOS - 1447547158",
+            "AL PIE DE LA FIRMA": "IVÁN FERNANDO SIERRA CASTELLANOS - 1447547158"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1447547158",
+            "NOMBRES": "IVÁN FERNANDO SIERRA CASTELLANOS",
+            "FECHA NACIMIENTO": "09/10/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.094.142",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "IVÁN FERNANDO SIERRA CASTELLANOS - 1447547158",
+            "AL PIE DE LA FIRMA": "IVÁN FERNANDO SIERRA CASTELLANOS - 1447547158"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7239270",
+            "CEDULA": "1447547158",
+            "NOMBRES": "IVÁN FERNANDO SIERRA CASTELLANOS",
+            "CREDITO": "7.094.142",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "385.671",
+            "E.A": "26.55%",
+            "RECOMPRA O DESEMBOLSO": "3.386.564",
+            "FIRMA ELLECTRONICA": "IVÁN FERNANDO SIERRA CASTELLANOS - 1447547158"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1447547158",
+            "NOMBRES": "IVÁN FERNANDO SIERRA CASTELLANOS",
+            "FIRMA ELLECTRONICA": "IVÁN FERNANDO SIERRA CASTELLANOS - 1447547158"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1447547158",
+            "NOMBRES": "IVÁN FERNANDO SIERRA CASTELLANOS",
+            "FIRMA ELLECTRONICA": "IVÁN FERNANDO SIERRA CASTELLANOS - 1447547158",
+            "AL PIE DE LA FIRMA": "IVÁN FERNANDO SIERRA CASTELLANOS - 1447547158"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IVÁN FERNANDO SIERRA CASTELLANOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1447547158",
+            "NOMBRES": "IVÁN FERNANDO SIERRA CASTELLANOS",
+            "SALARIO": "3.971.018",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1447547158",
+            "NOMBRES": "IVÁN FERNANDO SIERRA CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "3.386.564"
+        }
+    }
+]

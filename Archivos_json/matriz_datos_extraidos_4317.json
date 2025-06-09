@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "993839848283",
+            "SOLICITUD": "8855303",
+            "CEDULA": "1662706142",
+            "NOMBRES": "DIANA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "4.136.593",
+            "FIRMA ELLECTRONICA": "DIANA RAMÍREZ - 1662706142"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "993839848283",
+            "NOMBRES": "DIANA RAMÍREZ",
+            "CREDITO": "6.937.089",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "314.939",
+            "FIRMA ELLECTRONICA": "DIANA RAMÍREZ - 1662706142",
+            "AL PIE DE LA FIRMA": "DIANA RAMÍREZ - 1662706142"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1662706142",
+            "NOMBRES": "DIANA RAMÍREZ",
+            "FECHA NACIMIENTO": "12/02/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.937.089",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DIANA RAMÍREZ - 1662706142",
+            "AL PIE DE LA FIRMA": "DIANA RAMÍREZ - 1662706142"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8855303",
+            "CEDULA": "1662706142",
+            "NOMBRES": "DIANA RAMÍREZ",
+            "CREDITO": "6.937.089",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "314.939",
+            "E.A": "24.88%",
+            "RECOMPRA O DESEMBOLSO": "4.136.593",
+            "FIRMA ELLECTRONICA": "DIANA RAMÍREZ - 1662706142"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1662706142",
+            "NOMBRES": "DIANA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "DIANA RAMÍREZ - 1662706142"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1662706142",
+            "NOMBRES": "DIANA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "DIANA RAMÍREZ - 1662706142",
+            "AL PIE DE LA FIRMA": "DIANA RAMÍREZ - 1662706142"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1662706142",
+            "NOMBRES": "DIANA RAMÍREZ",
+            "SALARIO": "3.936.317",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1662706142",
+            "NOMBRES": "DIANA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "4.136.593"
+        }
+    }
+]

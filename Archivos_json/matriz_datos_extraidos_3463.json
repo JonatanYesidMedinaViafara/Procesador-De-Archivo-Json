@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "769080053806",
+            "SOLICITUD": "8158641",
+            "CEDULA": "1137429436",
+            "NOMBRES": "MARY FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.573.701",
+            "FIRMA ELLECTRONICA": "MARY FLÓREZ - 1137429436"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "769080053806",
+            "NOMBRES": "MARY FLÓREZ",
+            "CREDITO": "15.016.562",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "390.271",
+            "FIRMA ELLECTRONICA": "MARY FLÓREZ - 1137429436",
+            "AL PIE DE LA FIRMA": "MARY FLÓREZ - 1137429436"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1137429436",
+            "NOMBRES": "MARY FLÓREZ",
+            "FECHA NACIMIENTO": "20/04/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.016.562",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARY FLÓREZ - 1137429436",
+            "AL PIE DE LA FIRMA": "MARY FLÓREZ - 1137429436"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8158641",
+            "CEDULA": "1137429436",
+            "NOMBRES": "MARY FLÓREZ",
+            "CREDITO": "15.016.562",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "390.271",
+            "E.A": "22.01%",
+            "RECOMPRA O DESEMBOLSO": "1.573.701",
+            "FIRMA ELLECTRONICA": "MARY FLÓREZ - 1137429436"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1137429436",
+            "NOMBRES": "MARY FLÓREZ",
+            "FIRMA ELLECTRONICA": "MARY FLÓREZ - 1137429436"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1137429436",
+            "NOMBRES": "MARY FLÓREZ",
+            "FIRMA ELLECTRONICA": "MARY FLÓREZ - 1137429436",
+            "AL PIE DE LA FIRMA": "MARY FLÓREZ - 1137429436"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARY FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1137429436",
+            "NOMBRES": "MARY FLÓREZ",
+            "SALARIO": "1.927.340",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1137429436",
+            "NOMBRES": "MARY FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "1.573.701"
+        }
+    }
+]

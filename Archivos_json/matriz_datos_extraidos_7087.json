@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "395261840559",
+            "SOLICITUD": "1161069",
+            "CEDULA": "1844148786",
+            "NOMBRES": "ALBERTO ÁLVAREZ YEPES",
+            "RECOMPRA O DESEMBOLSO": "3.153.293",
+            "FIRMA ELLECTRONICA": "ALBERTO ÁLVAREZ YEPES - 1844148786"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "395261840559",
+            "NOMBRES": "ALBERTO ÁLVAREZ YEPES",
+            "CREDITO": "11.831.762",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "114.907",
+            "FIRMA ELLECTRONICA": "ALBERTO ÁLVAREZ YEPES - 1844148786",
+            "AL PIE DE LA FIRMA": "ALBERTO ÁLVAREZ YEPES - 1844148786"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1844148786",
+            "NOMBRES": "ALBERTO ÁLVAREZ YEPES",
+            "FECHA NACIMIENTO": "12/09/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.831.762",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALBERTO ÁLVAREZ YEPES - 1844148786",
+            "AL PIE DE LA FIRMA": "ALBERTO ÁLVAREZ YEPES - 1844148786"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1161069",
+            "CEDULA": "1844148786",
+            "NOMBRES": "ALBERTO ÁLVAREZ YEPES",
+            "CREDITO": "11.831.762",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "114.907",
+            "E.A": "19.6%",
+            "RECOMPRA O DESEMBOLSO": "3.153.293",
+            "FIRMA ELLECTRONICA": "ALBERTO ÁLVAREZ YEPES - 1844148786"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1844148786",
+            "NOMBRES": "ALBERTO ÁLVAREZ YEPES",
+            "FIRMA ELLECTRONICA": "ALBERTO ÁLVAREZ YEPES - 1844148786"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1844148786",
+            "NOMBRES": "ALBERTO ÁLVAREZ YEPES",
+            "FIRMA ELLECTRONICA": "ALBERTO ÁLVAREZ YEPES - 1844148786",
+            "AL PIE DE LA FIRMA": "ALBERTO ÁLVAREZ YEPES - 1844148786"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO ÁLVAREZ YEPES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1844148786",
+            "NOMBRES": "ALBERTO ÁLVAREZ YEPES",
+            "SALARIO": "4.733.958",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1844148786",
+            "NOMBRES": "ALBERTO ÁLVAREZ YEPES",
+            "RECOMPRA O DESEMBOLSO": "3.153.293"
+        }
+    }
+]

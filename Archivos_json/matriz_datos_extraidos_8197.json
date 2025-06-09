@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "171116199897",
+            "SOLICITUD": "7506617",
+            "CEDULA": "1958344817",
+            "NOMBRES": "LINDA MERCEDES SÁNCHEZ VARGAS",
+            "RECOMPRA O DESEMBOLSO": "1.969.043",
+            "FIRMA ELLECTRONICA": "LINDA MERCEDES SÁNCHEZ VARGAS - 1958344817"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "171116199897",
+            "NOMBRES": "LINDA MERCEDES SÁNCHEZ VARGAS",
+            "CREDITO": "12.511.247",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "204.178",
+            "FIRMA ELLECTRONICA": "LINDA MERCEDES SÁNCHEZ VARGAS - 1958344817",
+            "AL PIE DE LA FIRMA": "LINDA MERCEDES SÁNCHEZ VARGAS - 1958344817"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1958344817",
+            "NOMBRES": "LINDA MERCEDES SÁNCHEZ VARGAS",
+            "FECHA NACIMIENTO": "15/05/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.511.247",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LINDA MERCEDES SÁNCHEZ VARGAS - 1958344817",
+            "AL PIE DE LA FIRMA": "LINDA MERCEDES SÁNCHEZ VARGAS - 1958344817"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7506617",
+            "CEDULA": "1958344817",
+            "NOMBRES": "LINDA MERCEDES SÁNCHEZ VARGAS",
+            "CREDITO": "12.511.247",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "204.178",
+            "E.A": "20.08%",
+            "RECOMPRA O DESEMBOLSO": "1.969.043",
+            "FIRMA ELLECTRONICA": "LINDA MERCEDES SÁNCHEZ VARGAS - 1958344817"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1958344817",
+            "NOMBRES": "LINDA MERCEDES SÁNCHEZ VARGAS",
+            "FIRMA ELLECTRONICA": "LINDA MERCEDES SÁNCHEZ VARGAS - 1958344817"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1958344817",
+            "NOMBRES": "LINDA MERCEDES SÁNCHEZ VARGAS",
+            "FIRMA ELLECTRONICA": "LINDA MERCEDES SÁNCHEZ VARGAS - 1958344817",
+            "AL PIE DE LA FIRMA": "LINDA MERCEDES SÁNCHEZ VARGAS - 1958344817"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LINDA MERCEDES SÁNCHEZ VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1958344817",
+            "NOMBRES": "LINDA MERCEDES SÁNCHEZ VARGAS",
+            "SALARIO": "2.739.648",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1958344817",
+            "NOMBRES": "LINDA MERCEDES SÁNCHEZ VARGAS",
+            "RECOMPRA O DESEMBOLSO": "1.969.043"
+        }
+    }
+]

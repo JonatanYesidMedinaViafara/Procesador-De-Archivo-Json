@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "507465654411",
+            "SOLICITUD": "2859233",
+            "CEDULA": "1879899784",
+            "NOMBRES": "ANTONIO RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.190.781",
+            "FIRMA ELLECTRONICA": "ANTONIO RÍOS - 1879899784"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "507465654411",
+            "NOMBRES": "ANTONIO RÍOS",
+            "CREDITO": "8.852.131",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "322.542",
+            "FIRMA ELLECTRONICA": "ANTONIO RÍOS - 1879899784",
+            "AL PIE DE LA FIRMA": "ANTONIO RÍOS - 1879899784"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1879899784",
+            "NOMBRES": "ANTONIO RÍOS",
+            "FECHA NACIMIENTO": "27/11/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.852.131",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANTONIO RÍOS - 1879899784",
+            "AL PIE DE LA FIRMA": "ANTONIO RÍOS - 1879899784"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2859233",
+            "CEDULA": "1879899784",
+            "NOMBRES": "ANTONIO RÍOS",
+            "CREDITO": "8.852.131",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "322.542",
+            "E.A": "24.25%",
+            "RECOMPRA O DESEMBOLSO": "3.190.781",
+            "FIRMA ELLECTRONICA": "ANTONIO RÍOS - 1879899784"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1879899784",
+            "NOMBRES": "ANTONIO RÍOS",
+            "FIRMA ELLECTRONICA": "ANTONIO RÍOS - 1879899784"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1879899784",
+            "NOMBRES": "ANTONIO RÍOS",
+            "FIRMA ELLECTRONICA": "ANTONIO RÍOS - 1879899784",
+            "AL PIE DE LA FIRMA": "ANTONIO RÍOS - 1879899784"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1879899784",
+            "NOMBRES": "ANTONIO RÍOS",
+            "SALARIO": "4.079.975",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1879899784",
+            "NOMBRES": "ANTONIO RÍOS",
+            "RECOMPRA O DESEMBOLSO": "3.190.781"
+        }
+    }
+]

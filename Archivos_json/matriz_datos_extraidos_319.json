@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "922183999898",
+            "SOLICITUD": "2093260",
+            "CEDULA": "1403690539",
+            "NOMBRES": "JESÚS MARCOS REYES",
+            "RECOMPRA O DESEMBOLSO": "3.681.092",
+            "FIRMA ELLECTRONICA": "JESÚS MARCOS REYES - 1403690539"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "922183999898",
+            "NOMBRES": "JESÚS MARCOS REYES",
+            "CREDITO": "8.249.324",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "123.779",
+            "FIRMA ELLECTRONICA": "JESÚS MARCOS REYES - 1403690539",
+            "AL PIE DE LA FIRMA": "JESÚS MARCOS REYES - 1403690539"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1403690539",
+            "NOMBRES": "JESÚS MARCOS REYES",
+            "FECHA NACIMIENTO": "13/08/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.249.324",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JESÚS MARCOS REYES - 1403690539",
+            "AL PIE DE LA FIRMA": "JESÚS MARCOS REYES - 1403690539"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2093260",
+            "CEDULA": "1403690539",
+            "NOMBRES": "JESÚS MARCOS REYES",
+            "CREDITO": "8.249.324",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "123.779",
+            "E.A": "21.82%",
+            "RECOMPRA O DESEMBOLSO": "3.681.092",
+            "FIRMA ELLECTRONICA": "JESÚS MARCOS REYES - 1403690539"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1403690539",
+            "NOMBRES": "JESÚS MARCOS REYES",
+            "FIRMA ELLECTRONICA": "JESÚS MARCOS REYES - 1403690539"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1403690539",
+            "NOMBRES": "JESÚS MARCOS REYES",
+            "FIRMA ELLECTRONICA": "JESÚS MARCOS REYES - 1403690539",
+            "AL PIE DE LA FIRMA": "JESÚS MARCOS REYES - 1403690539"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS MARCOS REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1403690539",
+            "NOMBRES": "JESÚS MARCOS REYES",
+            "SALARIO": "4.982.980",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1403690539",
+            "NOMBRES": "JESÚS MARCOS REYES",
+            "RECOMPRA O DESEMBOLSO": "3.681.092"
+        }
+    }
+]

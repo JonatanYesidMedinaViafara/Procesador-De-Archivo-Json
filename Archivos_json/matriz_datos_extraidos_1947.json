@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "869852445299",
+            "SOLICITUD": "9617949",
+            "CEDULA": "1235676242",
+            "NOMBRES": "MILENA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "3.324.972",
+            "FIRMA ELLECTRONICA": "MILENA HERRERA - 1235676242"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "869852445299",
+            "NOMBRES": "MILENA HERRERA",
+            "CREDITO": "11.800.101",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "387.225",
+            "FIRMA ELLECTRONICA": "MILENA HERRERA - 1235676242",
+            "AL PIE DE LA FIRMA": "MILENA HERRERA - 1235676242"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1235676242",
+            "NOMBRES": "MILENA HERRERA",
+            "FECHA NACIMIENTO": "12/02/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.800.101",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MILENA HERRERA - 1235676242",
+            "AL PIE DE LA FIRMA": "MILENA HERRERA - 1235676242"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9617949",
+            "CEDULA": "1235676242",
+            "NOMBRES": "MILENA HERRERA",
+            "CREDITO": "11.800.101",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "387.225",
+            "E.A": "28.51%",
+            "RECOMPRA O DESEMBOLSO": "3.324.972",
+            "FIRMA ELLECTRONICA": "MILENA HERRERA - 1235676242"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1235676242",
+            "NOMBRES": "MILENA HERRERA",
+            "FIRMA ELLECTRONICA": "MILENA HERRERA - 1235676242"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1235676242",
+            "NOMBRES": "MILENA HERRERA",
+            "FIRMA ELLECTRONICA": "MILENA HERRERA - 1235676242",
+            "AL PIE DE LA FIRMA": "MILENA HERRERA - 1235676242"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MILENA HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1235676242",
+            "NOMBRES": "MILENA HERRERA",
+            "SALARIO": "3.381.908",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1235676242",
+            "NOMBRES": "MILENA HERRERA",
+            "RECOMPRA O DESEMBOLSO": "3.324.972"
+        }
+    }
+]

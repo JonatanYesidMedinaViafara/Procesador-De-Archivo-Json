@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "536616852273",
+            "SOLICITUD": "9390508",
+            "CEDULA": "1571853695",
+            "NOMBRES": "ANTONIO VALLEJO",
+            "RECOMPRA O DESEMBOLSO": "4.503.254",
+            "FIRMA ELLECTRONICA": "ANTONIO VALLEJO - 1571853695"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "536616852273",
+            "NOMBRES": "ANTONIO VALLEJO",
+            "CREDITO": "7.185.176",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "147.748",
+            "FIRMA ELLECTRONICA": "ANTONIO VALLEJO - 1571853695",
+            "AL PIE DE LA FIRMA": "ANTONIO VALLEJO - 1571853695"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1571853695",
+            "NOMBRES": "ANTONIO VALLEJO",
+            "FECHA NACIMIENTO": "04/07/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.185.176",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANTONIO VALLEJO - 1571853695",
+            "AL PIE DE LA FIRMA": "ANTONIO VALLEJO - 1571853695"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9390508",
+            "CEDULA": "1571853695",
+            "NOMBRES": "ANTONIO VALLEJO",
+            "CREDITO": "7.185.176",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "147.748",
+            "E.A": "22.0%",
+            "RECOMPRA O DESEMBOLSO": "4.503.254",
+            "FIRMA ELLECTRONICA": "ANTONIO VALLEJO - 1571853695"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1571853695",
+            "NOMBRES": "ANTONIO VALLEJO",
+            "FIRMA ELLECTRONICA": "ANTONIO VALLEJO - 1571853695"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1571853695",
+            "NOMBRES": "ANTONIO VALLEJO",
+            "FIRMA ELLECTRONICA": "ANTONIO VALLEJO - 1571853695",
+            "AL PIE DE LA FIRMA": "ANTONIO VALLEJO - 1571853695"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO VALLEJO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1571853695",
+            "NOMBRES": "ANTONIO VALLEJO",
+            "SALARIO": "1.477.274",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1571853695",
+            "NOMBRES": "ANTONIO VALLEJO",
+            "RECOMPRA O DESEMBOLSO": "4.503.254"
+        }
+    }
+]

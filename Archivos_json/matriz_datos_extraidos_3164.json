@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "809684113134",
+            "SOLICITUD": "9761403",
+            "CEDULA": "1843385205",
+            "NOMBRES": "CARMEN FERNÁNDEZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "1.234.275",
+            "FIRMA ELLECTRONICA": "CARMEN FERNÁNDEZ MEDINA - 1843385205"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "809684113134",
+            "NOMBRES": "CARMEN FERNÁNDEZ MEDINA",
+            "CREDITO": "19.892.569",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "386.346",
+            "FIRMA ELLECTRONICA": "CARMEN FERNÁNDEZ MEDINA - 1843385205",
+            "AL PIE DE LA FIRMA": "CARMEN FERNÁNDEZ MEDINA - 1843385205"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1843385205",
+            "NOMBRES": "CARMEN FERNÁNDEZ MEDINA",
+            "FECHA NACIMIENTO": "12/12/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.892.569",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARMEN FERNÁNDEZ MEDINA - 1843385205",
+            "AL PIE DE LA FIRMA": "CARMEN FERNÁNDEZ MEDINA - 1843385205"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9761403",
+            "CEDULA": "1843385205",
+            "NOMBRES": "CARMEN FERNÁNDEZ MEDINA",
+            "CREDITO": "19.892.569",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "386.346",
+            "E.A": "23.96%",
+            "RECOMPRA O DESEMBOLSO": "1.234.275",
+            "FIRMA ELLECTRONICA": "CARMEN FERNÁNDEZ MEDINA - 1843385205"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1843385205",
+            "NOMBRES": "CARMEN FERNÁNDEZ MEDINA",
+            "FIRMA ELLECTRONICA": "CARMEN FERNÁNDEZ MEDINA - 1843385205"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1843385205",
+            "NOMBRES": "CARMEN FERNÁNDEZ MEDINA",
+            "FIRMA ELLECTRONICA": "CARMEN FERNÁNDEZ MEDINA - 1843385205",
+            "AL PIE DE LA FIRMA": "CARMEN FERNÁNDEZ MEDINA - 1843385205"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN FERNÁNDEZ MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1843385205",
+            "NOMBRES": "CARMEN FERNÁNDEZ MEDINA",
+            "SALARIO": "2.114.049",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1843385205",
+            "NOMBRES": "CARMEN FERNÁNDEZ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "1.234.275"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "851783929926",
+            "SOLICITUD": "8309750",
+            "CEDULA": "1560602100",
+            "NOMBRES": "ASTRID DURÁN FRANCO",
+            "RECOMPRA O DESEMBOLSO": "4.959.499",
+            "FIRMA ELLECTRONICA": "ASTRID DURÁN FRANCO - 1560602100"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "851783929926",
+            "NOMBRES": "ASTRID DURÁN FRANCO",
+            "CREDITO": "11.463.559",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "267.632",
+            "FIRMA ELLECTRONICA": "ASTRID DURÁN FRANCO - 1560602100",
+            "AL PIE DE LA FIRMA": "ASTRID DURÁN FRANCO - 1560602100"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1560602100",
+            "NOMBRES": "ASTRID DURÁN FRANCO",
+            "FECHA NACIMIENTO": "28/03/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.463.559",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ASTRID DURÁN FRANCO - 1560602100",
+            "AL PIE DE LA FIRMA": "ASTRID DURÁN FRANCO - 1560602100"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8309750",
+            "CEDULA": "1560602100",
+            "NOMBRES": "ASTRID DURÁN FRANCO",
+            "CREDITO": "11.463.559",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "267.632",
+            "E.A": "20.66%",
+            "RECOMPRA O DESEMBOLSO": "4.959.499",
+            "FIRMA ELLECTRONICA": "ASTRID DURÁN FRANCO - 1560602100"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1560602100",
+            "NOMBRES": "ASTRID DURÁN FRANCO",
+            "FIRMA ELLECTRONICA": "ASTRID DURÁN FRANCO - 1560602100"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1560602100",
+            "NOMBRES": "ASTRID DURÁN FRANCO",
+            "FIRMA ELLECTRONICA": "ASTRID DURÁN FRANCO - 1560602100",
+            "AL PIE DE LA FIRMA": "ASTRID DURÁN FRANCO - 1560602100"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ASTRID DURÁN FRANCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1560602100",
+            "NOMBRES": "ASTRID DURÁN FRANCO",
+            "SALARIO": "4.925.835",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1560602100",
+            "NOMBRES": "ASTRID DURÁN FRANCO",
+            "RECOMPRA O DESEMBOLSO": "4.959.499"
+        }
+    }
+]

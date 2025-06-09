@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "736251852078",
+            "SOLICITUD": "3509012",
+            "CEDULA": "1341474993",
+            "NOMBRES": "MARÍA MONSALVE",
+            "RECOMPRA O DESEMBOLSO": "4.038.520",
+            "FIRMA ELLECTRONICA": "MARÍA MONSALVE - 1341474993"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "736251852078",
+            "NOMBRES": "MARÍA MONSALVE",
+            "CREDITO": "8.416.522",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "236.999",
+            "FIRMA ELLECTRONICA": "MARÍA MONSALVE - 1341474993",
+            "AL PIE DE LA FIRMA": "MARÍA MONSALVE - 1341474993"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1341474993",
+            "NOMBRES": "MARÍA MONSALVE",
+            "FECHA NACIMIENTO": "22/11/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.416.522",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA MONSALVE - 1341474993",
+            "AL PIE DE LA FIRMA": "MARÍA MONSALVE - 1341474993"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3509012",
+            "CEDULA": "1341474993",
+            "NOMBRES": "MARÍA MONSALVE",
+            "CREDITO": "8.416.522",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "236.999",
+            "E.A": "18.24%",
+            "RECOMPRA O DESEMBOLSO": "4.038.520",
+            "FIRMA ELLECTRONICA": "MARÍA MONSALVE - 1341474993"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1341474993",
+            "NOMBRES": "MARÍA MONSALVE",
+            "FIRMA ELLECTRONICA": "MARÍA MONSALVE - 1341474993"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1341474993",
+            "NOMBRES": "MARÍA MONSALVE",
+            "FIRMA ELLECTRONICA": "MARÍA MONSALVE - 1341474993",
+            "AL PIE DE LA FIRMA": "MARÍA MONSALVE - 1341474993"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MONSALVE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1341474993",
+            "NOMBRES": "MARÍA MONSALVE",
+            "SALARIO": "4.706.580",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1341474993",
+            "NOMBRES": "MARÍA MONSALVE",
+            "RECOMPRA O DESEMBOLSO": "4.038.520"
+        }
+    }
+]

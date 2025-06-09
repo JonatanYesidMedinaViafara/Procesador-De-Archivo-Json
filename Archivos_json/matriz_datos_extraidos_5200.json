@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "248986860168",
+            "SOLICITUD": "2095000",
+            "CEDULA": "1379864297",
+            "NOMBRES": "JOSÉ JOSÉ RUIZ RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.065.903",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ RUIZ RAMÍREZ - 1379864297"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "248986860168",
+            "NOMBRES": "JOSÉ JOSÉ RUIZ RAMÍREZ",
+            "CREDITO": "15.486.671",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "285.038",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ RUIZ RAMÍREZ - 1379864297",
+            "AL PIE DE LA FIRMA": "JOSÉ JOSÉ RUIZ RAMÍREZ - 1379864297"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1379864297",
+            "NOMBRES": "JOSÉ JOSÉ RUIZ RAMÍREZ",
+            "FECHA NACIMIENTO": "12/05/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.486.671",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ RUIZ RAMÍREZ - 1379864297",
+            "AL PIE DE LA FIRMA": "JOSÉ JOSÉ RUIZ RAMÍREZ - 1379864297"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2095000",
+            "CEDULA": "1379864297",
+            "NOMBRES": "JOSÉ JOSÉ RUIZ RAMÍREZ",
+            "CREDITO": "15.486.671",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "285.038",
+            "E.A": "19.99%",
+            "RECOMPRA O DESEMBOLSO": "1.065.903",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ RUIZ RAMÍREZ - 1379864297"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1379864297",
+            "NOMBRES": "JOSÉ JOSÉ RUIZ RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ RUIZ RAMÍREZ - 1379864297"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1379864297",
+            "NOMBRES": "JOSÉ JOSÉ RUIZ RAMÍREZ",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ RUIZ RAMÍREZ - 1379864297",
+            "AL PIE DE LA FIRMA": "JOSÉ JOSÉ RUIZ RAMÍREZ - 1379864297"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ JOSÉ RUIZ RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1379864297",
+            "NOMBRES": "JOSÉ JOSÉ RUIZ RAMÍREZ",
+            "SALARIO": "4.271.128",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "14/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1379864297",
+            "NOMBRES": "JOSÉ JOSÉ RUIZ RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "1.065.903"
+        }
+    }
+]

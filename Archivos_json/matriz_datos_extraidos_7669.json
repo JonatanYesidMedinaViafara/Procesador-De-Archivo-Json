@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "783371945245",
+            "SOLICITUD": "4397595",
+            "CEDULA": "1758064555",
+            "NOMBRES": "FERNANDA VERA",
+            "RECOMPRA O DESEMBOLSO": "2.084.148",
+            "FIRMA ELLECTRONICA": "FERNANDA VERA - 1758064555"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "783371945245",
+            "NOMBRES": "FERNANDA VERA",
+            "CREDITO": "9.522.770",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "134.404",
+            "FIRMA ELLECTRONICA": "FERNANDA VERA - 1758064555",
+            "AL PIE DE LA FIRMA": "FERNANDA VERA - 1758064555"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1758064555",
+            "NOMBRES": "FERNANDA VERA",
+            "FECHA NACIMIENTO": "03/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.522.770",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FERNANDA VERA - 1758064555",
+            "AL PIE DE LA FIRMA": "FERNANDA VERA - 1758064555"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4397595",
+            "CEDULA": "1758064555",
+            "NOMBRES": "FERNANDA VERA",
+            "CREDITO": "9.522.770",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "134.404",
+            "E.A": "24.02%",
+            "RECOMPRA O DESEMBOLSO": "2.084.148",
+            "FIRMA ELLECTRONICA": "FERNANDA VERA - 1758064555"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1758064555",
+            "NOMBRES": "FERNANDA VERA",
+            "FIRMA ELLECTRONICA": "FERNANDA VERA - 1758064555"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1758064555",
+            "NOMBRES": "FERNANDA VERA",
+            "FIRMA ELLECTRONICA": "FERNANDA VERA - 1758064555",
+            "AL PIE DE LA FIRMA": "FERNANDA VERA - 1758064555"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDA VERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1758064555",
+            "NOMBRES": "FERNANDA VERA",
+            "SALARIO": "1.435.971",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1758064555",
+            "NOMBRES": "FERNANDA VERA",
+            "RECOMPRA O DESEMBOLSO": "2.084.148"
+        }
+    }
+]

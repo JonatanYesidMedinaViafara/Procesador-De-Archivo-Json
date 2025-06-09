@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "838986318608",
+            "SOLICITUD": "7182356",
+            "CEDULA": "1214563192",
+            "NOMBRES": "ESTELLA ELENA SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.533.233",
+            "FIRMA ELLECTRONICA": "ESTELLA ELENA SOTO - 1214563192"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "838986318608",
+            "NOMBRES": "ESTELLA ELENA SOTO",
+            "CREDITO": "6.807.356",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "365.738",
+            "FIRMA ELLECTRONICA": "ESTELLA ELENA SOTO - 1214563192",
+            "AL PIE DE LA FIRMA": "ESTELLA ELENA SOTO - 1214563192"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1214563192",
+            "NOMBRES": "ESTELLA ELENA SOTO",
+            "FECHA NACIMIENTO": "23/07/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.807.356",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ESTELLA ELENA SOTO - 1214563192",
+            "AL PIE DE LA FIRMA": "ESTELLA ELENA SOTO - 1214563192"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7182356",
+            "CEDULA": "1214563192",
+            "NOMBRES": "ESTELLA ELENA SOTO",
+            "CREDITO": "6.807.356",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "365.738",
+            "E.A": "27.4%",
+            "RECOMPRA O DESEMBOLSO": "3.533.233",
+            "FIRMA ELLECTRONICA": "ESTELLA ELENA SOTO - 1214563192"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1214563192",
+            "NOMBRES": "ESTELLA ELENA SOTO",
+            "FIRMA ELLECTRONICA": "ESTELLA ELENA SOTO - 1214563192"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1214563192",
+            "NOMBRES": "ESTELLA ELENA SOTO",
+            "FIRMA ELLECTRONICA": "ESTELLA ELENA SOTO - 1214563192",
+            "AL PIE DE LA FIRMA": "ESTELLA ELENA SOTO - 1214563192"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTELLA ELENA SOTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1214563192",
+            "NOMBRES": "ESTELLA ELENA SOTO",
+            "SALARIO": "2.178.201",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1214563192",
+            "NOMBRES": "ESTELLA ELENA SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.533.233"
+        }
+    }
+]

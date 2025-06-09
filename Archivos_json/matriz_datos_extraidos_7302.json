@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "538935432978",
+            "SOLICITUD": "8131661",
+            "CEDULA": "1628501717",
+            "NOMBRES": "JORGE LOAIZA",
+            "RECOMPRA O DESEMBOLSO": "2.501.543",
+            "FIRMA ELLECTRONICA": "JORGE LOAIZA - 1628501717"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "538935432978",
+            "NOMBRES": "JORGE LOAIZA",
+            "CREDITO": "10.637.423",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.887",
+            "FIRMA ELLECTRONICA": "JORGE LOAIZA - 1628501717",
+            "AL PIE DE LA FIRMA": "JORGE LOAIZA - 1628501717"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1628501717",
+            "NOMBRES": "JORGE LOAIZA",
+            "FECHA NACIMIENTO": "29/06/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.637.423",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JORGE LOAIZA - 1628501717",
+            "AL PIE DE LA FIRMA": "JORGE LOAIZA - 1628501717"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8131661",
+            "CEDULA": "1628501717",
+            "NOMBRES": "JORGE LOAIZA",
+            "CREDITO": "10.637.423",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.887",
+            "E.A": "19.93%",
+            "RECOMPRA O DESEMBOLSO": "2.501.543",
+            "FIRMA ELLECTRONICA": "JORGE LOAIZA - 1628501717"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1628501717",
+            "NOMBRES": "JORGE LOAIZA",
+            "FIRMA ELLECTRONICA": "JORGE LOAIZA - 1628501717"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1628501717",
+            "NOMBRES": "JORGE LOAIZA",
+            "FIRMA ELLECTRONICA": "JORGE LOAIZA - 1628501717",
+            "AL PIE DE LA FIRMA": "JORGE LOAIZA - 1628501717"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE LOAIZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1628501717",
+            "NOMBRES": "JORGE LOAIZA",
+            "SALARIO": "3.746.394",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1628501717",
+            "NOMBRES": "JORGE LOAIZA",
+            "RECOMPRA O DESEMBOLSO": "2.501.543"
+        }
+    }
+]

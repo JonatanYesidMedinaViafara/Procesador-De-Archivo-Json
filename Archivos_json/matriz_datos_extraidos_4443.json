@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "674952882181",
+            "SOLICITUD": "8897782",
+            "CEDULA": "1100989270",
+            "NOMBRES": "CLAUDIA LIDIA RUEDA",
+            "RECOMPRA O DESEMBOLSO": "3.043.155",
+            "FIRMA ELLECTRONICA": "CLAUDIA LIDIA RUEDA - 1100989270"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "674952882181",
+            "NOMBRES": "CLAUDIA LIDIA RUEDA",
+            "CREDITO": "14.712.334",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "160.185",
+            "FIRMA ELLECTRONICA": "CLAUDIA LIDIA RUEDA - 1100989270",
+            "AL PIE DE LA FIRMA": "CLAUDIA LIDIA RUEDA - 1100989270"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1100989270",
+            "NOMBRES": "CLAUDIA LIDIA RUEDA",
+            "FECHA NACIMIENTO": "27/02/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.712.334",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CLAUDIA LIDIA RUEDA - 1100989270",
+            "AL PIE DE LA FIRMA": "CLAUDIA LIDIA RUEDA - 1100989270"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8897782",
+            "CEDULA": "1100989270",
+            "NOMBRES": "CLAUDIA LIDIA RUEDA",
+            "CREDITO": "14.712.334",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "160.185",
+            "E.A": "22.35%",
+            "RECOMPRA O DESEMBOLSO": "3.043.155",
+            "FIRMA ELLECTRONICA": "CLAUDIA LIDIA RUEDA - 1100989270"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1100989270",
+            "NOMBRES": "CLAUDIA LIDIA RUEDA",
+            "FIRMA ELLECTRONICA": "CLAUDIA LIDIA RUEDA - 1100989270"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1100989270",
+            "NOMBRES": "CLAUDIA LIDIA RUEDA",
+            "FIRMA ELLECTRONICA": "CLAUDIA LIDIA RUEDA - 1100989270",
+            "AL PIE DE LA FIRMA": "CLAUDIA LIDIA RUEDA - 1100989270"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLAUDIA LIDIA RUEDA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1100989270",
+            "NOMBRES": "CLAUDIA LIDIA RUEDA",
+            "SALARIO": "1.760.961",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1100989270",
+            "NOMBRES": "CLAUDIA LIDIA RUEDA",
+            "RECOMPRA O DESEMBOLSO": "3.043.155"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "106303591483",
+            "SOLICITUD": "3590202",
+            "CEDULA": "1837211020",
+            "NOMBRES": "DEISY GAVIRIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.532.018",
+            "FIRMA ELLECTRONICA": "DEISY GAVIRIA GARCÍA - 1837211020"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "106303591483",
+            "NOMBRES": "DEISY GAVIRIA GARCÍA",
+            "CREDITO": "9.344.952",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "355.069",
+            "FIRMA ELLECTRONICA": "DEISY GAVIRIA GARCÍA - 1837211020",
+            "AL PIE DE LA FIRMA": "DEISY GAVIRIA GARCÍA - 1837211020"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1837211020",
+            "NOMBRES": "DEISY GAVIRIA GARCÍA",
+            "FECHA NACIMIENTO": "14/05/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.344.952",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DEISY GAVIRIA GARCÍA - 1837211020",
+            "AL PIE DE LA FIRMA": "DEISY GAVIRIA GARCÍA - 1837211020"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3590202",
+            "CEDULA": "1837211020",
+            "NOMBRES": "DEISY GAVIRIA GARCÍA",
+            "CREDITO": "9.344.952",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "355.069",
+            "E.A": "22.32%",
+            "RECOMPRA O DESEMBOLSO": "3.532.018",
+            "FIRMA ELLECTRONICA": "DEISY GAVIRIA GARCÍA - 1837211020"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1837211020",
+            "NOMBRES": "DEISY GAVIRIA GARCÍA",
+            "FIRMA ELLECTRONICA": "DEISY GAVIRIA GARCÍA - 1837211020"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1837211020",
+            "NOMBRES": "DEISY GAVIRIA GARCÍA",
+            "FIRMA ELLECTRONICA": "DEISY GAVIRIA GARCÍA - 1837211020",
+            "AL PIE DE LA FIRMA": "DEISY GAVIRIA GARCÍA - 1837211020"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DEISY GAVIRIA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1837211020",
+            "NOMBRES": "DEISY GAVIRIA GARCÍA",
+            "SALARIO": "1.313.666",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "11/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1837211020",
+            "NOMBRES": "DEISY GAVIRIA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "3.532.018"
+        }
+    }
+]

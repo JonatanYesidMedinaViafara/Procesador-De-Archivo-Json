@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "531877277550",
+            "SOLICITUD": "4375596",
+            "CEDULA": "1299431949",
+            "NOMBRES": "LUZ BALLESTEROS",
+            "RECOMPRA O DESEMBOLSO": "4.702.924",
+            "FIRMA ELLECTRONICA": "LUZ BALLESTEROS - 1299431949"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "531877277550",
+            "NOMBRES": "LUZ BALLESTEROS",
+            "CREDITO": "16.697.464",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "101.709",
+            "FIRMA ELLECTRONICA": "LUZ BALLESTEROS - 1299431949",
+            "AL PIE DE LA FIRMA": "LUZ BALLESTEROS - 1299431949"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1299431949",
+            "NOMBRES": "LUZ BALLESTEROS",
+            "FECHA NACIMIENTO": "29/11/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.697.464",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUZ BALLESTEROS - 1299431949",
+            "AL PIE DE LA FIRMA": "LUZ BALLESTEROS - 1299431949"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4375596",
+            "CEDULA": "1299431949",
+            "NOMBRES": "LUZ BALLESTEROS",
+            "CREDITO": "16.697.464",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "101.709",
+            "E.A": "25.53%",
+            "RECOMPRA O DESEMBOLSO": "4.702.924",
+            "FIRMA ELLECTRONICA": "LUZ BALLESTEROS - 1299431949"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1299431949",
+            "NOMBRES": "LUZ BALLESTEROS",
+            "FIRMA ELLECTRONICA": "LUZ BALLESTEROS - 1299431949"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1299431949",
+            "NOMBRES": "LUZ BALLESTEROS",
+            "FIRMA ELLECTRONICA": "LUZ BALLESTEROS - 1299431949",
+            "AL PIE DE LA FIRMA": "LUZ BALLESTEROS - 1299431949"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ BALLESTEROS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1299431949",
+            "NOMBRES": "LUZ BALLESTEROS",
+            "SALARIO": "1.245.381",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "29/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1299431949",
+            "NOMBRES": "LUZ BALLESTEROS",
+            "RECOMPRA O DESEMBOLSO": "4.702.924"
+        }
+    }
+]

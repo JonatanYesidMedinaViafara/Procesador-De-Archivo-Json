@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "171332476712",
+            "SOLICITUD": "4829712",
+            "CEDULA": "1107085126",
+            "NOMBRES": "MARÍA VARGAS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.806.849",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS GARCÍA - 1107085126"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "171332476712",
+            "NOMBRES": "MARÍA VARGAS GARCÍA",
+            "CREDITO": "13.096.900",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "107.533",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS GARCÍA - 1107085126",
+            "AL PIE DE LA FIRMA": "MARÍA VARGAS GARCÍA - 1107085126"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1107085126",
+            "NOMBRES": "MARÍA VARGAS GARCÍA",
+            "FECHA NACIMIENTO": "28/12/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.096.900",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS GARCÍA - 1107085126",
+            "AL PIE DE LA FIRMA": "MARÍA VARGAS GARCÍA - 1107085126"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4829712",
+            "CEDULA": "1107085126",
+            "NOMBRES": "MARÍA VARGAS GARCÍA",
+            "CREDITO": "13.096.900",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "107.533",
+            "E.A": "24.44%",
+            "RECOMPRA O DESEMBOLSO": "2.806.849",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS GARCÍA - 1107085126"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1107085126",
+            "NOMBRES": "MARÍA VARGAS GARCÍA",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS GARCÍA - 1107085126"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1107085126",
+            "NOMBRES": "MARÍA VARGAS GARCÍA",
+            "FIRMA ELLECTRONICA": "MARÍA VARGAS GARCÍA - 1107085126",
+            "AL PIE DE LA FIRMA": "MARÍA VARGAS GARCÍA - 1107085126"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA VARGAS GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1107085126",
+            "NOMBRES": "MARÍA VARGAS GARCÍA",
+            "SALARIO": "3.816.043",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1107085126",
+            "NOMBRES": "MARÍA VARGAS GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.806.849"
+        }
+    }
+]

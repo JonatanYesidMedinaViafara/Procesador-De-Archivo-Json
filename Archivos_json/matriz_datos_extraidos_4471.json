@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "753478896341",
+            "SOLICITUD": "1859379",
+            "CEDULA": "1232228549",
+            "NOMBRES": "MARÍA CARMEN BENAVIDES",
+            "RECOMPRA O DESEMBOLSO": "4.254.852",
+            "FIRMA ELLECTRONICA": "MARÍA CARMEN BENAVIDES - 1232228549"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "753478896341",
+            "NOMBRES": "MARÍA CARMEN BENAVIDES",
+            "CREDITO": "16.757.481",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.083",
+            "FIRMA ELLECTRONICA": "MARÍA CARMEN BENAVIDES - 1232228549",
+            "AL PIE DE LA FIRMA": "MARÍA CARMEN BENAVIDES - 1232228549"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1232228549",
+            "NOMBRES": "MARÍA CARMEN BENAVIDES",
+            "FECHA NACIMIENTO": "23/09/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.757.481",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA CARMEN BENAVIDES - 1232228549",
+            "AL PIE DE LA FIRMA": "MARÍA CARMEN BENAVIDES - 1232228549"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1859379",
+            "CEDULA": "1232228549",
+            "NOMBRES": "MARÍA CARMEN BENAVIDES",
+            "CREDITO": "16.757.481",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "212.083",
+            "E.A": "21.05%",
+            "RECOMPRA O DESEMBOLSO": "4.254.852",
+            "FIRMA ELLECTRONICA": "MARÍA CARMEN BENAVIDES - 1232228549"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1232228549",
+            "NOMBRES": "MARÍA CARMEN BENAVIDES",
+            "FIRMA ELLECTRONICA": "MARÍA CARMEN BENAVIDES - 1232228549"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1232228549",
+            "NOMBRES": "MARÍA CARMEN BENAVIDES",
+            "FIRMA ELLECTRONICA": "MARÍA CARMEN BENAVIDES - 1232228549",
+            "AL PIE DE LA FIRMA": "MARÍA CARMEN BENAVIDES - 1232228549"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CARMEN BENAVIDES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1232228549",
+            "NOMBRES": "MARÍA CARMEN BENAVIDES",
+            "SALARIO": "4.206.047",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1232228549",
+            "NOMBRES": "MARÍA CARMEN BENAVIDES",
+            "RECOMPRA O DESEMBOLSO": "4.254.852"
+        }
+    }
+]

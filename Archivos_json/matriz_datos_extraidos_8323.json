@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "505242910251",
+            "SOLICITUD": "3767283",
+            "CEDULA": "1457927290",
+            "NOMBRES": "MARÍA PINEDA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.580.167",
+            "FIRMA ELLECTRONICA": "MARÍA PINEDA VARGAS - 1457927290"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "505242910251",
+            "NOMBRES": "MARÍA PINEDA VARGAS",
+            "CREDITO": "18.089.336",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "112.161",
+            "FIRMA ELLECTRONICA": "MARÍA PINEDA VARGAS - 1457927290",
+            "AL PIE DE LA FIRMA": "MARÍA PINEDA VARGAS - 1457927290"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1457927290",
+            "NOMBRES": "MARÍA PINEDA VARGAS",
+            "FECHA NACIMIENTO": "15/01/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.089.336",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA PINEDA VARGAS - 1457927290",
+            "AL PIE DE LA FIRMA": "MARÍA PINEDA VARGAS - 1457927290"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3767283",
+            "CEDULA": "1457927290",
+            "NOMBRES": "MARÍA PINEDA VARGAS",
+            "CREDITO": "18.089.336",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "112.161",
+            "E.A": "26.64%",
+            "RECOMPRA O DESEMBOLSO": "3.580.167",
+            "FIRMA ELLECTRONICA": "MARÍA PINEDA VARGAS - 1457927290"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1457927290",
+            "NOMBRES": "MARÍA PINEDA VARGAS",
+            "FIRMA ELLECTRONICA": "MARÍA PINEDA VARGAS - 1457927290"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1457927290",
+            "NOMBRES": "MARÍA PINEDA VARGAS",
+            "FIRMA ELLECTRONICA": "MARÍA PINEDA VARGAS - 1457927290",
+            "AL PIE DE LA FIRMA": "MARÍA PINEDA VARGAS - 1457927290"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA PINEDA VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1457927290",
+            "NOMBRES": "MARÍA PINEDA VARGAS",
+            "SALARIO": "3.275.643",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1457927290",
+            "NOMBRES": "MARÍA PINEDA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.580.167"
+        }
+    }
+]

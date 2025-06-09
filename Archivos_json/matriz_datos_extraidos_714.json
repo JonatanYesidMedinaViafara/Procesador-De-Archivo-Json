@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "386899974864",
+            "SOLICITUD": "2511070",
+            "CEDULA": "1110641935",
+            "NOMBRES": "ALEJANDRA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "2.690.572",
+            "FIRMA ELLECTRONICA": "ALEJANDRA GUTIÉRREZ - 1110641935"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "386899974864",
+            "NOMBRES": "ALEJANDRA GUTIÉRREZ",
+            "CREDITO": "17.296.451",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "165.447",
+            "FIRMA ELLECTRONICA": "ALEJANDRA GUTIÉRREZ - 1110641935",
+            "AL PIE DE LA FIRMA": "ALEJANDRA GUTIÉRREZ - 1110641935"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1110641935",
+            "NOMBRES": "ALEJANDRA GUTIÉRREZ",
+            "FECHA NACIMIENTO": "17/03/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.296.451",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALEJANDRA GUTIÉRREZ - 1110641935",
+            "AL PIE DE LA FIRMA": "ALEJANDRA GUTIÉRREZ - 1110641935"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2511070",
+            "CEDULA": "1110641935",
+            "NOMBRES": "ALEJANDRA GUTIÉRREZ",
+            "CREDITO": "17.296.451",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "165.447",
+            "E.A": "24.89%",
+            "RECOMPRA O DESEMBOLSO": "2.690.572",
+            "FIRMA ELLECTRONICA": "ALEJANDRA GUTIÉRREZ - 1110641935"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1110641935",
+            "NOMBRES": "ALEJANDRA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRA GUTIÉRREZ - 1110641935"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1110641935",
+            "NOMBRES": "ALEJANDRA GUTIÉRREZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRA GUTIÉRREZ - 1110641935",
+            "AL PIE DE LA FIRMA": "ALEJANDRA GUTIÉRREZ - 1110641935"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRA GUTIÉRREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1110641935",
+            "NOMBRES": "ALEJANDRA GUTIÉRREZ",
+            "SALARIO": "1.235.866",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1110641935",
+            "NOMBRES": "ALEJANDRA GUTIÉRREZ",
+            "RECOMPRA O DESEMBOLSO": "2.690.572"
+        }
+    }
+]

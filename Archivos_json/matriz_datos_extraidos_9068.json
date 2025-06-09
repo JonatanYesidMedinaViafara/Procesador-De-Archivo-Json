@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "287950493742",
+            "SOLICITUD": "2443137",
+            "CEDULA": "1972305145",
+            "NOMBRES": "CAMILA HERNÁNDEZ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.390.364",
+            "FIRMA ELLECTRONICA": "CAMILA HERNÁNDEZ MARTÍNEZ - 1972305145"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "287950493742",
+            "NOMBRES": "CAMILA HERNÁNDEZ MARTÍNEZ",
+            "CREDITO": "12.818.412",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "149.005",
+            "FIRMA ELLECTRONICA": "CAMILA HERNÁNDEZ MARTÍNEZ - 1972305145",
+            "AL PIE DE LA FIRMA": "CAMILA HERNÁNDEZ MARTÍNEZ - 1972305145"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1972305145",
+            "NOMBRES": "CAMILA HERNÁNDEZ MARTÍNEZ",
+            "FECHA NACIMIENTO": "23/10/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.818.412",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CAMILA HERNÁNDEZ MARTÍNEZ - 1972305145",
+            "AL PIE DE LA FIRMA": "CAMILA HERNÁNDEZ MARTÍNEZ - 1972305145"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2443137",
+            "CEDULA": "1972305145",
+            "NOMBRES": "CAMILA HERNÁNDEZ MARTÍNEZ",
+            "CREDITO": "12.818.412",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "149.005",
+            "E.A": "27.65%",
+            "RECOMPRA O DESEMBOLSO": "1.390.364",
+            "FIRMA ELLECTRONICA": "CAMILA HERNÁNDEZ MARTÍNEZ - 1972305145"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1972305145",
+            "NOMBRES": "CAMILA HERNÁNDEZ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "CAMILA HERNÁNDEZ MARTÍNEZ - 1972305145"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1972305145",
+            "NOMBRES": "CAMILA HERNÁNDEZ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "CAMILA HERNÁNDEZ MARTÍNEZ - 1972305145",
+            "AL PIE DE LA FIRMA": "CAMILA HERNÁNDEZ MARTÍNEZ - 1972305145"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILA HERNÁNDEZ MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1972305145",
+            "NOMBRES": "CAMILA HERNÁNDEZ MARTÍNEZ",
+            "SALARIO": "2.990.625",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1972305145",
+            "NOMBRES": "CAMILA HERNÁNDEZ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.390.364"
+        }
+    }
+]

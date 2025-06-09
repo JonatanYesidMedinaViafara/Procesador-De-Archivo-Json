@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "230427562205",
+            "SOLICITUD": "5842186",
+            "CEDULA": "1727164563",
+            "NOMBRES": "STIVEN ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "3.368.654",
+            "FIRMA ELLECTRONICA": "STIVEN ÁLVAREZ - 1727164563"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "230427562205",
+            "NOMBRES": "STIVEN ÁLVAREZ",
+            "CREDITO": "19.972.333",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "266.172",
+            "FIRMA ELLECTRONICA": "STIVEN ÁLVAREZ - 1727164563",
+            "AL PIE DE LA FIRMA": "STIVEN ÁLVAREZ - 1727164563"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1727164563",
+            "NOMBRES": "STIVEN ÁLVAREZ",
+            "FECHA NACIMIENTO": "27/07/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.972.333",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "STIVEN ÁLVAREZ - 1727164563",
+            "AL PIE DE LA FIRMA": "STIVEN ÁLVAREZ - 1727164563"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5842186",
+            "CEDULA": "1727164563",
+            "NOMBRES": "STIVEN ÁLVAREZ",
+            "CREDITO": "19.972.333",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "266.172",
+            "E.A": "22.91%",
+            "RECOMPRA O DESEMBOLSO": "3.368.654",
+            "FIRMA ELLECTRONICA": "STIVEN ÁLVAREZ - 1727164563"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1727164563",
+            "NOMBRES": "STIVEN ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "STIVEN ÁLVAREZ - 1727164563"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1727164563",
+            "NOMBRES": "STIVEN ÁLVAREZ",
+            "FIRMA ELLECTRONICA": "STIVEN ÁLVAREZ - 1727164563",
+            "AL PIE DE LA FIRMA": "STIVEN ÁLVAREZ - 1727164563"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "STIVEN ÁLVAREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1727164563",
+            "NOMBRES": "STIVEN ÁLVAREZ",
+            "SALARIO": "1.847.940",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1727164563",
+            "NOMBRES": "STIVEN ÁLVAREZ",
+            "RECOMPRA O DESEMBOLSO": "3.368.654"
+        }
+    }
+]

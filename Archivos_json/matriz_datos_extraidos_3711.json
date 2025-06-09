@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "139329883674",
+            "SOLICITUD": "8051422",
+            "CEDULA": "1260620877",
+            "NOMBRES": "MARÍA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "3.382.120",
+            "FIRMA ELLECTRONICA": "MARÍA PEÑA - 1260620877"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "139329883674",
+            "NOMBRES": "MARÍA PEÑA",
+            "CREDITO": "13.597.820",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "293.905",
+            "FIRMA ELLECTRONICA": "MARÍA PEÑA - 1260620877",
+            "AL PIE DE LA FIRMA": "MARÍA PEÑA - 1260620877"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1260620877",
+            "NOMBRES": "MARÍA PEÑA",
+            "FECHA NACIMIENTO": "02/05/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.597.820",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA PEÑA - 1260620877",
+            "AL PIE DE LA FIRMA": "MARÍA PEÑA - 1260620877"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8051422",
+            "CEDULA": "1260620877",
+            "NOMBRES": "MARÍA PEÑA",
+            "CREDITO": "13.597.820",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "293.905",
+            "E.A": "25.62%",
+            "RECOMPRA O DESEMBOLSO": "3.382.120",
+            "FIRMA ELLECTRONICA": "MARÍA PEÑA - 1260620877"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1260620877",
+            "NOMBRES": "MARÍA PEÑA",
+            "FIRMA ELLECTRONICA": "MARÍA PEÑA - 1260620877"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1260620877",
+            "NOMBRES": "MARÍA PEÑA",
+            "FIRMA ELLECTRONICA": "MARÍA PEÑA - 1260620877",
+            "AL PIE DE LA FIRMA": "MARÍA PEÑA - 1260620877"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1260620877",
+            "NOMBRES": "MARÍA PEÑA",
+            "SALARIO": "2.084.622",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1260620877",
+            "NOMBRES": "MARÍA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "3.382.120"
+        }
+    }
+]

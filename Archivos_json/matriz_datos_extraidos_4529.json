@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "216736327158",
+            "SOLICITUD": "4634351",
+            "CEDULA": "1215267301",
+            "NOMBRES": "EDWIN BUSTAMANTE TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "3.122.420",
+            "FIRMA ELLECTRONICA": "EDWIN BUSTAMANTE TRUJILLO - 1215267301"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "216736327158",
+            "NOMBRES": "EDWIN BUSTAMANTE TRUJILLO",
+            "CREDITO": "13.723.510",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "331.756",
+            "FIRMA ELLECTRONICA": "EDWIN BUSTAMANTE TRUJILLO - 1215267301",
+            "AL PIE DE LA FIRMA": "EDWIN BUSTAMANTE TRUJILLO - 1215267301"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1215267301",
+            "NOMBRES": "EDWIN BUSTAMANTE TRUJILLO",
+            "FECHA NACIMIENTO": "25/12/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.723.510",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "EDWIN BUSTAMANTE TRUJILLO - 1215267301",
+            "AL PIE DE LA FIRMA": "EDWIN BUSTAMANTE TRUJILLO - 1215267301"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4634351",
+            "CEDULA": "1215267301",
+            "NOMBRES": "EDWIN BUSTAMANTE TRUJILLO",
+            "CREDITO": "13.723.510",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "331.756",
+            "E.A": "19.44%",
+            "RECOMPRA O DESEMBOLSO": "3.122.420",
+            "FIRMA ELLECTRONICA": "EDWIN BUSTAMANTE TRUJILLO - 1215267301"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1215267301",
+            "NOMBRES": "EDWIN BUSTAMANTE TRUJILLO",
+            "FIRMA ELLECTRONICA": "EDWIN BUSTAMANTE TRUJILLO - 1215267301"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1215267301",
+            "NOMBRES": "EDWIN BUSTAMANTE TRUJILLO",
+            "FIRMA ELLECTRONICA": "EDWIN BUSTAMANTE TRUJILLO - 1215267301",
+            "AL PIE DE LA FIRMA": "EDWIN BUSTAMANTE TRUJILLO - 1215267301"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDWIN BUSTAMANTE TRUJILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1215267301",
+            "NOMBRES": "EDWIN BUSTAMANTE TRUJILLO",
+            "SALARIO": "4.363.059",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1215267301",
+            "NOMBRES": "EDWIN BUSTAMANTE TRUJILLO",
+            "RECOMPRA O DESEMBOLSO": "3.122.420"
+        }
+    }
+]

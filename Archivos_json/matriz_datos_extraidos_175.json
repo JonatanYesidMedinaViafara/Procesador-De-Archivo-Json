@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "874666155055",
+            "SOLICITUD": "4137279",
+            "CEDULA": "1064693545",
+            "NOMBRES": "SMITH GÓMEZ ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "4.187.791",
+            "FIRMA ELLECTRONICA": "SMITH GÓMEZ ANDRADE - 1064693545"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "874666155055",
+            "NOMBRES": "SMITH GÓMEZ ANDRADE",
+            "CREDITO": "9.192.853",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "335.684",
+            "FIRMA ELLECTRONICA": "SMITH GÓMEZ ANDRADE - 1064693545",
+            "AL PIE DE LA FIRMA": "SMITH GÓMEZ ANDRADE - 1064693545"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1064693545",
+            "NOMBRES": "SMITH GÓMEZ ANDRADE",
+            "FECHA NACIMIENTO": "17/04/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.192.853",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SMITH GÓMEZ ANDRADE - 1064693545",
+            "AL PIE DE LA FIRMA": "SMITH GÓMEZ ANDRADE - 1064693545"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4137279",
+            "CEDULA": "1064693545",
+            "NOMBRES": "SMITH GÓMEZ ANDRADE",
+            "CREDITO": "9.192.853",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "335.684",
+            "E.A": "24.02%",
+            "RECOMPRA O DESEMBOLSO": "4.187.791",
+            "FIRMA ELLECTRONICA": "SMITH GÓMEZ ANDRADE - 1064693545"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1064693545",
+            "NOMBRES": "SMITH GÓMEZ ANDRADE",
+            "FIRMA ELLECTRONICA": "SMITH GÓMEZ ANDRADE - 1064693545"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1064693545",
+            "NOMBRES": "SMITH GÓMEZ ANDRADE",
+            "FIRMA ELLECTRONICA": "SMITH GÓMEZ ANDRADE - 1064693545",
+            "AL PIE DE LA FIRMA": "SMITH GÓMEZ ANDRADE - 1064693545"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SMITH GÓMEZ ANDRADE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1064693545",
+            "NOMBRES": "SMITH GÓMEZ ANDRADE",
+            "SALARIO": "2.427.714",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1064693545",
+            "NOMBRES": "SMITH GÓMEZ ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "4.187.791"
+        }
+    }
+]

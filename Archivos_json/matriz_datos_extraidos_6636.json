@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "657583857902",
+            "SOLICITUD": "8307880",
+            "CEDULA": "1979885350",
+            "NOMBRES": "PABLO CASTILLO PATIÑO",
+            "RECOMPRA O DESEMBOLSO": "1.192.090",
+            "FIRMA ELLECTRONICA": "PABLO CASTILLO PATIÑO - 1979885350"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "657583857902",
+            "NOMBRES": "PABLO CASTILLO PATIÑO",
+            "CREDITO": "16.510.253",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "191.225",
+            "FIRMA ELLECTRONICA": "PABLO CASTILLO PATIÑO - 1979885350",
+            "AL PIE DE LA FIRMA": "PABLO CASTILLO PATIÑO - 1979885350"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1979885350",
+            "NOMBRES": "PABLO CASTILLO PATIÑO",
+            "FECHA NACIMIENTO": "12/11/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.510.253",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "PABLO CASTILLO PATIÑO - 1979885350",
+            "AL PIE DE LA FIRMA": "PABLO CASTILLO PATIÑO - 1979885350"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8307880",
+            "CEDULA": "1979885350",
+            "NOMBRES": "PABLO CASTILLO PATIÑO",
+            "CREDITO": "16.510.253",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "191.225",
+            "E.A": "27.46%",
+            "RECOMPRA O DESEMBOLSO": "1.192.090",
+            "FIRMA ELLECTRONICA": "PABLO CASTILLO PATIÑO - 1979885350"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1979885350",
+            "NOMBRES": "PABLO CASTILLO PATIÑO",
+            "FIRMA ELLECTRONICA": "PABLO CASTILLO PATIÑO - 1979885350"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1979885350",
+            "NOMBRES": "PABLO CASTILLO PATIÑO",
+            "FIRMA ELLECTRONICA": "PABLO CASTILLO PATIÑO - 1979885350",
+            "AL PIE DE LA FIRMA": "PABLO CASTILLO PATIÑO - 1979885350"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO CASTILLO PATIÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1979885350",
+            "NOMBRES": "PABLO CASTILLO PATIÑO",
+            "SALARIO": "4.764.023",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "13/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1979885350",
+            "NOMBRES": "PABLO CASTILLO PATIÑO",
+            "RECOMPRA O DESEMBOLSO": "1.192.090"
+        }
+    }
+]

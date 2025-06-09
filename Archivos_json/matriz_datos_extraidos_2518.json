@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "115908998046",
+            "SOLICITUD": "7246885",
+            "CEDULA": "1169962228",
+            "NOMBRES": "EDGAR CABRERA",
+            "RECOMPRA O DESEMBOLSO": "3.022.715",
+            "FIRMA ELLECTRONICA": "EDGAR CABRERA - 1169962228"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "115908998046",
+            "NOMBRES": "EDGAR CABRERA",
+            "CREDITO": "5.852.197",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "238.684",
+            "FIRMA ELLECTRONICA": "EDGAR CABRERA - 1169962228",
+            "AL PIE DE LA FIRMA": "EDGAR CABRERA - 1169962228"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1169962228",
+            "NOMBRES": "EDGAR CABRERA",
+            "FECHA NACIMIENTO": "16/06/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.852.197",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "EDGAR CABRERA - 1169962228",
+            "AL PIE DE LA FIRMA": "EDGAR CABRERA - 1169962228"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7246885",
+            "CEDULA": "1169962228",
+            "NOMBRES": "EDGAR CABRERA",
+            "CREDITO": "5.852.197",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "238.684",
+            "E.A": "20.11%",
+            "RECOMPRA O DESEMBOLSO": "3.022.715",
+            "FIRMA ELLECTRONICA": "EDGAR CABRERA - 1169962228"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1169962228",
+            "NOMBRES": "EDGAR CABRERA",
+            "FIRMA ELLECTRONICA": "EDGAR CABRERA - 1169962228"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1169962228",
+            "NOMBRES": "EDGAR CABRERA",
+            "FIRMA ELLECTRONICA": "EDGAR CABRERA - 1169962228",
+            "AL PIE DE LA FIRMA": "EDGAR CABRERA - 1169962228"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDGAR CABRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1169962228",
+            "NOMBRES": "EDGAR CABRERA",
+            "SALARIO": "4.926.397",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1169962228",
+            "NOMBRES": "EDGAR CABRERA",
+            "RECOMPRA O DESEMBOLSO": "3.022.715"
+        }
+    }
+]

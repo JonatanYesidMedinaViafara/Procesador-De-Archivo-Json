@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "750138470017",
+            "SOLICITUD": "6444124",
+            "CEDULA": "1344547759",
+            "NOMBRES": "PATRICIA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.002.474",
+            "FIRMA ELLECTRONICA": "PATRICIA GÓMEZ - 1344547759"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "750138470017",
+            "NOMBRES": "PATRICIA GÓMEZ",
+            "CREDITO": "8.850.190",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "394.571",
+            "FIRMA ELLECTRONICA": "PATRICIA GÓMEZ - 1344547759",
+            "AL PIE DE LA FIRMA": "PATRICIA GÓMEZ - 1344547759"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1344547759",
+            "NOMBRES": "PATRICIA GÓMEZ",
+            "FECHA NACIMIENTO": "22/12/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.850.190",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "PATRICIA GÓMEZ - 1344547759",
+            "AL PIE DE LA FIRMA": "PATRICIA GÓMEZ - 1344547759"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6444124",
+            "CEDULA": "1344547759",
+            "NOMBRES": "PATRICIA GÓMEZ",
+            "CREDITO": "8.850.190",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "394.571",
+            "E.A": "22.26%",
+            "RECOMPRA O DESEMBOLSO": "2.002.474",
+            "FIRMA ELLECTRONICA": "PATRICIA GÓMEZ - 1344547759"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1344547759",
+            "NOMBRES": "PATRICIA GÓMEZ",
+            "FIRMA ELLECTRONICA": "PATRICIA GÓMEZ - 1344547759"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1344547759",
+            "NOMBRES": "PATRICIA GÓMEZ",
+            "FIRMA ELLECTRONICA": "PATRICIA GÓMEZ - 1344547759",
+            "AL PIE DE LA FIRMA": "PATRICIA GÓMEZ - 1344547759"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1344547759",
+            "NOMBRES": "PATRICIA GÓMEZ",
+            "SALARIO": "4.994.965",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1344547759",
+            "NOMBRES": "PATRICIA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.002.474"
+        }
+    }
+]

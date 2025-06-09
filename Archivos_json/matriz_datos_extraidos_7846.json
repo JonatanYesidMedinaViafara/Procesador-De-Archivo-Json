@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "173784054371",
+            "SOLICITUD": "6482149",
+            "CEDULA": "1382511668",
+            "NOMBRES": "ÓSCAR ROMERO",
+            "RECOMPRA O DESEMBOLSO": "2.069.913",
+            "FIRMA ELLECTRONICA": "ÓSCAR ROMERO - 1382511668"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "173784054371",
+            "NOMBRES": "ÓSCAR ROMERO",
+            "CREDITO": "13.078.167",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "358.312",
+            "FIRMA ELLECTRONICA": "ÓSCAR ROMERO - 1382511668",
+            "AL PIE DE LA FIRMA": "ÓSCAR ROMERO - 1382511668"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1382511668",
+            "NOMBRES": "ÓSCAR ROMERO",
+            "FECHA NACIMIENTO": "02/01/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.078.167",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ÓSCAR ROMERO - 1382511668",
+            "AL PIE DE LA FIRMA": "ÓSCAR ROMERO - 1382511668"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6482149",
+            "CEDULA": "1382511668",
+            "NOMBRES": "ÓSCAR ROMERO",
+            "CREDITO": "13.078.167",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "358.312",
+            "E.A": "28.91%",
+            "RECOMPRA O DESEMBOLSO": "2.069.913",
+            "FIRMA ELLECTRONICA": "ÓSCAR ROMERO - 1382511668"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1382511668",
+            "NOMBRES": "ÓSCAR ROMERO",
+            "FIRMA ELLECTRONICA": "ÓSCAR ROMERO - 1382511668"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1382511668",
+            "NOMBRES": "ÓSCAR ROMERO",
+            "FIRMA ELLECTRONICA": "ÓSCAR ROMERO - 1382511668",
+            "AL PIE DE LA FIRMA": "ÓSCAR ROMERO - 1382511668"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1382511668",
+            "NOMBRES": "ÓSCAR ROMERO",
+            "SALARIO": "3.934.112",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1382511668",
+            "NOMBRES": "ÓSCAR ROMERO",
+            "RECOMPRA O DESEMBOLSO": "2.069.913"
+        }
+    }
+]

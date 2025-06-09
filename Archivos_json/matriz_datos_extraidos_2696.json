@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "629417714732",
+            "SOLICITUD": "8181530",
+            "CEDULA": "1420792169",
+            "NOMBRES": "LAURA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.700.286",
+            "FIRMA ELLECTRONICA": "LAURA MARTÍNEZ - 1420792169"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "629417714732",
+            "NOMBRES": "LAURA MARTÍNEZ",
+            "CREDITO": "6.545.136",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "338.946",
+            "FIRMA ELLECTRONICA": "LAURA MARTÍNEZ - 1420792169",
+            "AL PIE DE LA FIRMA": "LAURA MARTÍNEZ - 1420792169"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1420792169",
+            "NOMBRES": "LAURA MARTÍNEZ",
+            "FECHA NACIMIENTO": "06/11/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.545.136",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LAURA MARTÍNEZ - 1420792169",
+            "AL PIE DE LA FIRMA": "LAURA MARTÍNEZ - 1420792169"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8181530",
+            "CEDULA": "1420792169",
+            "NOMBRES": "LAURA MARTÍNEZ",
+            "CREDITO": "6.545.136",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "338.946",
+            "E.A": "21.1%",
+            "RECOMPRA O DESEMBOLSO": "3.700.286",
+            "FIRMA ELLECTRONICA": "LAURA MARTÍNEZ - 1420792169"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1420792169",
+            "NOMBRES": "LAURA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "LAURA MARTÍNEZ - 1420792169"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1420792169",
+            "NOMBRES": "LAURA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "LAURA MARTÍNEZ - 1420792169",
+            "AL PIE DE LA FIRMA": "LAURA MARTÍNEZ - 1420792169"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1420792169",
+            "NOMBRES": "LAURA MARTÍNEZ",
+            "SALARIO": "3.339.505",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1420792169",
+            "NOMBRES": "LAURA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.700.286"
+        }
+    }
+]

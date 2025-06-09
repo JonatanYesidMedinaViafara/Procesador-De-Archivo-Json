@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "492392001911",
+            "SOLICITUD": "6175013",
+            "CEDULA": "1323007206",
+            "NOMBRES": "SEBASTIÁN SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "4.958.420",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SALAZAR - 1323007206"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "492392001911",
+            "NOMBRES": "SEBASTIÁN SALAZAR",
+            "CREDITO": "18.337.186",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "115.097",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SALAZAR - 1323007206",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN SALAZAR - 1323007206"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1323007206",
+            "NOMBRES": "SEBASTIÁN SALAZAR",
+            "FECHA NACIMIENTO": "11/12/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.337.186",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SALAZAR - 1323007206",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN SALAZAR - 1323007206"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6175013",
+            "CEDULA": "1323007206",
+            "NOMBRES": "SEBASTIÁN SALAZAR",
+            "CREDITO": "18.337.186",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "115.097",
+            "E.A": "26.22%",
+            "RECOMPRA O DESEMBOLSO": "4.958.420",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SALAZAR - 1323007206"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1323007206",
+            "NOMBRES": "SEBASTIÁN SALAZAR",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SALAZAR - 1323007206"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1323007206",
+            "NOMBRES": "SEBASTIÁN SALAZAR",
+            "FIRMA ELLECTRONICA": "SEBASTIÁN SALAZAR - 1323007206",
+            "AL PIE DE LA FIRMA": "SEBASTIÁN SALAZAR - 1323007206"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SEBASTIÁN SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1323007206",
+            "NOMBRES": "SEBASTIÁN SALAZAR",
+            "SALARIO": "2.481.402",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1323007206",
+            "NOMBRES": "SEBASTIÁN SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "4.958.420"
+        }
+    }
+]

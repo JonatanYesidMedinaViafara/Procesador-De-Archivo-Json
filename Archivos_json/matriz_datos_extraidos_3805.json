@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "114878091049",
+            "SOLICITUD": "6463068",
+            "CEDULA": "1005219177",
+            "NOMBRES": "DIANA ROCÍO LOZANO",
+            "RECOMPRA O DESEMBOLSO": "2.463.600",
+            "FIRMA ELLECTRONICA": "DIANA ROCÍO LOZANO - 1005219177"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "114878091049",
+            "NOMBRES": "DIANA ROCÍO LOZANO",
+            "CREDITO": "7.596.241",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "219.501",
+            "FIRMA ELLECTRONICA": "DIANA ROCÍO LOZANO - 1005219177",
+            "AL PIE DE LA FIRMA": "DIANA ROCÍO LOZANO - 1005219177"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1005219177",
+            "NOMBRES": "DIANA ROCÍO LOZANO",
+            "FECHA NACIMIENTO": "27/03/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.596.241",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DIANA ROCÍO LOZANO - 1005219177",
+            "AL PIE DE LA FIRMA": "DIANA ROCÍO LOZANO - 1005219177"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6463068",
+            "CEDULA": "1005219177",
+            "NOMBRES": "DIANA ROCÍO LOZANO",
+            "CREDITO": "7.596.241",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "219.501",
+            "E.A": "21.75%",
+            "RECOMPRA O DESEMBOLSO": "2.463.600",
+            "FIRMA ELLECTRONICA": "DIANA ROCÍO LOZANO - 1005219177"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1005219177",
+            "NOMBRES": "DIANA ROCÍO LOZANO",
+            "FIRMA ELLECTRONICA": "DIANA ROCÍO LOZANO - 1005219177"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1005219177",
+            "NOMBRES": "DIANA ROCÍO LOZANO",
+            "FIRMA ELLECTRONICA": "DIANA ROCÍO LOZANO - 1005219177",
+            "AL PIE DE LA FIRMA": "DIANA ROCÍO LOZANO - 1005219177"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA ROCÍO LOZANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1005219177",
+            "NOMBRES": "DIANA ROCÍO LOZANO",
+            "SALARIO": "3.664.422",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1005219177",
+            "NOMBRES": "DIANA ROCÍO LOZANO",
+            "RECOMPRA O DESEMBOLSO": "2.463.600"
+        }
+    }
+]

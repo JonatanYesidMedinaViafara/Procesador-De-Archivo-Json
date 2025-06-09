@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "306020419155",
+            "SOLICITUD": "3011865",
+            "CEDULA": "1240983956",
+            "NOMBRES": "ANA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.574.365",
+            "FIRMA ELLECTRONICA": "ANA MARTÍNEZ - 1240983956"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "306020419155",
+            "NOMBRES": "ANA MARTÍNEZ",
+            "CREDITO": "14.227.964",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "373.461",
+            "FIRMA ELLECTRONICA": "ANA MARTÍNEZ - 1240983956",
+            "AL PIE DE LA FIRMA": "ANA MARTÍNEZ - 1240983956"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1240983956",
+            "NOMBRES": "ANA MARTÍNEZ",
+            "FECHA NACIMIENTO": "03/03/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.227.964",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANA MARTÍNEZ - 1240983956",
+            "AL PIE DE LA FIRMA": "ANA MARTÍNEZ - 1240983956"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3011865",
+            "CEDULA": "1240983956",
+            "NOMBRES": "ANA MARTÍNEZ",
+            "CREDITO": "14.227.964",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "373.461",
+            "E.A": "21.72%",
+            "RECOMPRA O DESEMBOLSO": "3.574.365",
+            "FIRMA ELLECTRONICA": "ANA MARTÍNEZ - 1240983956"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1240983956",
+            "NOMBRES": "ANA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ANA MARTÍNEZ - 1240983956"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1240983956",
+            "NOMBRES": "ANA MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ANA MARTÍNEZ - 1240983956",
+            "AL PIE DE LA FIRMA": "ANA MARTÍNEZ - 1240983956"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1240983956",
+            "NOMBRES": "ANA MARTÍNEZ",
+            "SALARIO": "2.274.912",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1240983956",
+            "NOMBRES": "ANA MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.574.365"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "583006651471",
+            "SOLICITUD": "6439532",
+            "CEDULA": "1257060228",
+            "NOMBRES": "CIELO CAMACHO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.857.838",
+            "FIRMA ELLECTRONICA": "CIELO CAMACHO GARCÍA - 1257060228"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "583006651471",
+            "NOMBRES": "CIELO CAMACHO GARCÍA",
+            "CREDITO": "17.509.205",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "221.596",
+            "FIRMA ELLECTRONICA": "CIELO CAMACHO GARCÍA - 1257060228",
+            "AL PIE DE LA FIRMA": "CIELO CAMACHO GARCÍA - 1257060228"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1257060228",
+            "NOMBRES": "CIELO CAMACHO GARCÍA",
+            "FECHA NACIMIENTO": "14/10/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.509.205",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CIELO CAMACHO GARCÍA - 1257060228",
+            "AL PIE DE LA FIRMA": "CIELO CAMACHO GARCÍA - 1257060228"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6439532",
+            "CEDULA": "1257060228",
+            "NOMBRES": "CIELO CAMACHO GARCÍA",
+            "CREDITO": "17.509.205",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "221.596",
+            "E.A": "26.14%",
+            "RECOMPRA O DESEMBOLSO": "1.857.838",
+            "FIRMA ELLECTRONICA": "CIELO CAMACHO GARCÍA - 1257060228"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1257060228",
+            "NOMBRES": "CIELO CAMACHO GARCÍA",
+            "FIRMA ELLECTRONICA": "CIELO CAMACHO GARCÍA - 1257060228"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1257060228",
+            "NOMBRES": "CIELO CAMACHO GARCÍA",
+            "FIRMA ELLECTRONICA": "CIELO CAMACHO GARCÍA - 1257060228",
+            "AL PIE DE LA FIRMA": "CIELO CAMACHO GARCÍA - 1257060228"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CIELO CAMACHO GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1257060228",
+            "NOMBRES": "CIELO CAMACHO GARCÍA",
+            "SALARIO": "1.064.322",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1257060228",
+            "NOMBRES": "CIELO CAMACHO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.857.838"
+        }
+    }
+]

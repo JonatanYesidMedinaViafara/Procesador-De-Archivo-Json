@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "840102138404",
+            "SOLICITUD": "2445276",
+            "CEDULA": "1399523114",
+            "NOMBRES": "DARIO FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.783.925",
+            "FIRMA ELLECTRONICA": "DARIO FLÓREZ - 1399523114"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "840102138404",
+            "NOMBRES": "DARIO FLÓREZ",
+            "CREDITO": "13.724.935",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "220.099",
+            "FIRMA ELLECTRONICA": "DARIO FLÓREZ - 1399523114",
+            "AL PIE DE LA FIRMA": "DARIO FLÓREZ - 1399523114"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1399523114",
+            "NOMBRES": "DARIO FLÓREZ",
+            "FECHA NACIMIENTO": "03/05/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.724.935",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DARIO FLÓREZ - 1399523114",
+            "AL PIE DE LA FIRMA": "DARIO FLÓREZ - 1399523114"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2445276",
+            "CEDULA": "1399523114",
+            "NOMBRES": "DARIO FLÓREZ",
+            "CREDITO": "13.724.935",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "220.099",
+            "E.A": "22.86%",
+            "RECOMPRA O DESEMBOLSO": "4.783.925",
+            "FIRMA ELLECTRONICA": "DARIO FLÓREZ - 1399523114"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1399523114",
+            "NOMBRES": "DARIO FLÓREZ",
+            "FIRMA ELLECTRONICA": "DARIO FLÓREZ - 1399523114"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1399523114",
+            "NOMBRES": "DARIO FLÓREZ",
+            "FIRMA ELLECTRONICA": "DARIO FLÓREZ - 1399523114",
+            "AL PIE DE LA FIRMA": "DARIO FLÓREZ - 1399523114"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1399523114",
+            "NOMBRES": "DARIO FLÓREZ",
+            "SALARIO": "2.642.796",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1399523114",
+            "NOMBRES": "DARIO FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "4.783.925"
+        }
+    }
+]

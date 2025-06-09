@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "283589315194",
+            "SOLICITUD": "2734333",
+            "CEDULA": "1033519940",
+            "NOMBRES": "ANA TAMAYO",
+            "RECOMPRA O DESEMBOLSO": "1.938.177",
+            "FIRMA ELLECTRONICA": "ANA TAMAYO - 1033519940"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "283589315194",
+            "NOMBRES": "ANA TAMAYO",
+            "CREDITO": "6.805.017",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "125.684",
+            "FIRMA ELLECTRONICA": "ANA TAMAYO - 1033519940",
+            "AL PIE DE LA FIRMA": "ANA TAMAYO - 1033519940"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1033519940",
+            "NOMBRES": "ANA TAMAYO",
+            "FECHA NACIMIENTO": "02/11/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.805.017",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANA TAMAYO - 1033519940",
+            "AL PIE DE LA FIRMA": "ANA TAMAYO - 1033519940"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2734333",
+            "CEDULA": "1033519940",
+            "NOMBRES": "ANA TAMAYO",
+            "CREDITO": "6.805.017",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "125.684",
+            "E.A": "19.88%",
+            "RECOMPRA O DESEMBOLSO": "1.938.177",
+            "FIRMA ELLECTRONICA": "ANA TAMAYO - 1033519940"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1033519940",
+            "NOMBRES": "ANA TAMAYO",
+            "FIRMA ELLECTRONICA": "ANA TAMAYO - 1033519940"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1033519940",
+            "NOMBRES": "ANA TAMAYO",
+            "FIRMA ELLECTRONICA": "ANA TAMAYO - 1033519940",
+            "AL PIE DE LA FIRMA": "ANA TAMAYO - 1033519940"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA TAMAYO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1033519940",
+            "NOMBRES": "ANA TAMAYO",
+            "SALARIO": "4.189.278",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1033519940",
+            "NOMBRES": "ANA TAMAYO",
+            "RECOMPRA O DESEMBOLSO": "1.938.177"
+        }
+    }
+]

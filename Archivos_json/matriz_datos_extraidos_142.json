@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "503789331153",
+            "SOLICITUD": "4148729",
+            "CEDULA": "1069262292",
+            "NOMBRES": "MARÍA JOHANNA ESCOBAR ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.292.469",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANNA ESCOBAR ZAMBRANO - 1069262292"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "503789331153",
+            "NOMBRES": "MARÍA JOHANNA ESCOBAR ZAMBRANO",
+            "CREDITO": "10.170.094",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "213.101",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANNA ESCOBAR ZAMBRANO - 1069262292",
+            "AL PIE DE LA FIRMA": "MARÍA JOHANNA ESCOBAR ZAMBRANO - 1069262292"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1069262292",
+            "NOMBRES": "MARÍA JOHANNA ESCOBAR ZAMBRANO",
+            "FECHA NACIMIENTO": "09/10/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.170.094",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANNA ESCOBAR ZAMBRANO - 1069262292",
+            "AL PIE DE LA FIRMA": "MARÍA JOHANNA ESCOBAR ZAMBRANO - 1069262292"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4148729",
+            "CEDULA": "1069262292",
+            "NOMBRES": "MARÍA JOHANNA ESCOBAR ZAMBRANO",
+            "CREDITO": "10.170.094",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "213.101",
+            "E.A": "23.65%",
+            "RECOMPRA O DESEMBOLSO": "4.292.469",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANNA ESCOBAR ZAMBRANO - 1069262292"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1069262292",
+            "NOMBRES": "MARÍA JOHANNA ESCOBAR ZAMBRANO",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANNA ESCOBAR ZAMBRANO - 1069262292"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1069262292",
+            "NOMBRES": "MARÍA JOHANNA ESCOBAR ZAMBRANO",
+            "FIRMA ELLECTRONICA": "MARÍA JOHANNA ESCOBAR ZAMBRANO - 1069262292",
+            "AL PIE DE LA FIRMA": "MARÍA JOHANNA ESCOBAR ZAMBRANO - 1069262292"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA JOHANNA ESCOBAR ZAMBRANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1069262292",
+            "NOMBRES": "MARÍA JOHANNA ESCOBAR ZAMBRANO",
+            "SALARIO": "4.489.460",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1069262292",
+            "NOMBRES": "MARÍA JOHANNA ESCOBAR ZAMBRANO",
+            "RECOMPRA O DESEMBOLSO": "4.292.469"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "786470004868",
+            "SOLICITUD": "8009697",
+            "CEDULA": "1161742534",
+            "NOMBRES": "LUIS FELIPE VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.296.836",
+            "FIRMA ELLECTRONICA": "LUIS FELIPE VARGAS - 1161742534"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "786470004868",
+            "NOMBRES": "LUIS FELIPE VARGAS",
+            "CREDITO": "10.363.859",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "140.131",
+            "FIRMA ELLECTRONICA": "LUIS FELIPE VARGAS - 1161742534",
+            "AL PIE DE LA FIRMA": "LUIS FELIPE VARGAS - 1161742534"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1161742534",
+            "NOMBRES": "LUIS FELIPE VARGAS",
+            "FECHA NACIMIENTO": "12/09/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.363.859",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUIS FELIPE VARGAS - 1161742534",
+            "AL PIE DE LA FIRMA": "LUIS FELIPE VARGAS - 1161742534"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8009697",
+            "CEDULA": "1161742534",
+            "NOMBRES": "LUIS FELIPE VARGAS",
+            "CREDITO": "10.363.859",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "140.131",
+            "E.A": "20.67%",
+            "RECOMPRA O DESEMBOLSO": "4.296.836",
+            "FIRMA ELLECTRONICA": "LUIS FELIPE VARGAS - 1161742534"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1161742534",
+            "NOMBRES": "LUIS FELIPE VARGAS",
+            "FIRMA ELLECTRONICA": "LUIS FELIPE VARGAS - 1161742534"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1161742534",
+            "NOMBRES": "LUIS FELIPE VARGAS",
+            "FIRMA ELLECTRONICA": "LUIS FELIPE VARGAS - 1161742534",
+            "AL PIE DE LA FIRMA": "LUIS FELIPE VARGAS - 1161742534"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS FELIPE VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1161742534",
+            "NOMBRES": "LUIS FELIPE VARGAS",
+            "SALARIO": "1.524.897",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1161742534",
+            "NOMBRES": "LUIS FELIPE VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.296.836"
+        }
+    }
+]

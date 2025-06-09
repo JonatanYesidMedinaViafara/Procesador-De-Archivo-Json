@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "266814205914",
+            "SOLICITUD": "6159130",
+            "CEDULA": "1976342652",
+            "NOMBRES": "SOFÍA MARÍA PÉREZ SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "2.338.539",
+            "FIRMA ELLECTRONICA": "SOFÍA MARÍA PÉREZ SALAZAR - 1976342652"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "266814205914",
+            "NOMBRES": "SOFÍA MARÍA PÉREZ SALAZAR",
+            "CREDITO": "7.669.938",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "141.955",
+            "FIRMA ELLECTRONICA": "SOFÍA MARÍA PÉREZ SALAZAR - 1976342652",
+            "AL PIE DE LA FIRMA": "SOFÍA MARÍA PÉREZ SALAZAR - 1976342652"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1976342652",
+            "NOMBRES": "SOFÍA MARÍA PÉREZ SALAZAR",
+            "FECHA NACIMIENTO": "06/05/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.669.938",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SOFÍA MARÍA PÉREZ SALAZAR - 1976342652",
+            "AL PIE DE LA FIRMA": "SOFÍA MARÍA PÉREZ SALAZAR - 1976342652"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6159130",
+            "CEDULA": "1976342652",
+            "NOMBRES": "SOFÍA MARÍA PÉREZ SALAZAR",
+            "CREDITO": "7.669.938",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "141.955",
+            "E.A": "24.37%",
+            "RECOMPRA O DESEMBOLSO": "2.338.539",
+            "FIRMA ELLECTRONICA": "SOFÍA MARÍA PÉREZ SALAZAR - 1976342652"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1976342652",
+            "NOMBRES": "SOFÍA MARÍA PÉREZ SALAZAR",
+            "FIRMA ELLECTRONICA": "SOFÍA MARÍA PÉREZ SALAZAR - 1976342652"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1976342652",
+            "NOMBRES": "SOFÍA MARÍA PÉREZ SALAZAR",
+            "FIRMA ELLECTRONICA": "SOFÍA MARÍA PÉREZ SALAZAR - 1976342652",
+            "AL PIE DE LA FIRMA": "SOFÍA MARÍA PÉREZ SALAZAR - 1976342652"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SOFÍA MARÍA PÉREZ SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1976342652",
+            "NOMBRES": "SOFÍA MARÍA PÉREZ SALAZAR",
+            "SALARIO": "2.472.208",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1976342652",
+            "NOMBRES": "SOFÍA MARÍA PÉREZ SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "2.338.539"
+        }
+    }
+]

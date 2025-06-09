@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "263563595590",
+            "SOLICITUD": "5624860",
+            "CEDULA": "1909118441",
+            "NOMBRES": "NÉSTOR CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "2.176.118",
+            "FIRMA ELLECTRONICA": "NÉSTOR CONTRERAS - 1909118441"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "263563595590",
+            "NOMBRES": "NÉSTOR CONTRERAS",
+            "CREDITO": "5.371.616",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "186.54",
+            "FIRMA ELLECTRONICA": "NÉSTOR CONTRERAS - 1909118441",
+            "AL PIE DE LA FIRMA": "NÉSTOR CONTRERAS - 1909118441"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1909118441",
+            "NOMBRES": "NÉSTOR CONTRERAS",
+            "FECHA NACIMIENTO": "22/04/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.371.616",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "NÉSTOR CONTRERAS - 1909118441",
+            "AL PIE DE LA FIRMA": "NÉSTOR CONTRERAS - 1909118441"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5624860",
+            "CEDULA": "1909118441",
+            "NOMBRES": "NÉSTOR CONTRERAS",
+            "CREDITO": "5.371.616",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "96",
+            "VL.CUOTA": "186.54",
+            "E.A": "25.47%",
+            "RECOMPRA O DESEMBOLSO": "2.176.118",
+            "FIRMA ELLECTRONICA": "NÉSTOR CONTRERAS - 1909118441"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1909118441",
+            "NOMBRES": "NÉSTOR CONTRERAS",
+            "FIRMA ELLECTRONICA": "NÉSTOR CONTRERAS - 1909118441"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1909118441",
+            "NOMBRES": "NÉSTOR CONTRERAS",
+            "FIRMA ELLECTRONICA": "NÉSTOR CONTRERAS - 1909118441",
+            "AL PIE DE LA FIRMA": "NÉSTOR CONTRERAS - 1909118441"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "NÉSTOR CONTRERAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1909118441",
+            "NOMBRES": "NÉSTOR CONTRERAS",
+            "SALARIO": "3.751.826",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1909118441",
+            "NOMBRES": "NÉSTOR CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "2.176.118"
+        }
+    }
+]

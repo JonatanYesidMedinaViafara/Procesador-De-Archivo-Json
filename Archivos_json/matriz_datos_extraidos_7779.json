@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "774987975060",
+            "SOLICITUD": "3723673",
+            "CEDULA": "1337921597",
+            "NOMBRES": "ELIECER DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.105.278",
+            "FIRMA ELLECTRONICA": "ELIECER DÍAZ - 1337921597"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "774987975060",
+            "NOMBRES": "ELIECER DÍAZ",
+            "CREDITO": "19.776.618",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "129.04",
+            "FIRMA ELLECTRONICA": "ELIECER DÍAZ - 1337921597",
+            "AL PIE DE LA FIRMA": "ELIECER DÍAZ - 1337921597"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1337921597",
+            "NOMBRES": "ELIECER DÍAZ",
+            "FECHA NACIMIENTO": "14/04/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.776.618",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ELIECER DÍAZ - 1337921597",
+            "AL PIE DE LA FIRMA": "ELIECER DÍAZ - 1337921597"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3723673",
+            "CEDULA": "1337921597",
+            "NOMBRES": "ELIECER DÍAZ",
+            "CREDITO": "19.776.618",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "129.04",
+            "E.A": "25.61%",
+            "RECOMPRA O DESEMBOLSO": "3.105.278",
+            "FIRMA ELLECTRONICA": "ELIECER DÍAZ - 1337921597"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1337921597",
+            "NOMBRES": "ELIECER DÍAZ",
+            "FIRMA ELLECTRONICA": "ELIECER DÍAZ - 1337921597"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1337921597",
+            "NOMBRES": "ELIECER DÍAZ",
+            "FIRMA ELLECTRONICA": "ELIECER DÍAZ - 1337921597",
+            "AL PIE DE LA FIRMA": "ELIECER DÍAZ - 1337921597"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELIECER DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1337921597",
+            "NOMBRES": "ELIECER DÍAZ",
+            "SALARIO": "2.318.519",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1337921597",
+            "NOMBRES": "ELIECER DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.105.278"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "650256410829",
+            "SOLICITUD": "8793352",
+            "CEDULA": "1444512415",
+            "NOMBRES": "JUAN ALEJANDRO RAMOS",
+            "RECOMPRA O DESEMBOLSO": "3.760.295",
+            "FIRMA ELLECTRONICA": "JUAN ALEJANDRO RAMOS - 1444512415"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "650256410829",
+            "NOMBRES": "JUAN ALEJANDRO RAMOS",
+            "CREDITO": "5.991.725",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "331.554",
+            "FIRMA ELLECTRONICA": "JUAN ALEJANDRO RAMOS - 1444512415",
+            "AL PIE DE LA FIRMA": "JUAN ALEJANDRO RAMOS - 1444512415"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1444512415",
+            "NOMBRES": "JUAN ALEJANDRO RAMOS",
+            "FECHA NACIMIENTO": "23/11/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.991.725",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JUAN ALEJANDRO RAMOS - 1444512415",
+            "AL PIE DE LA FIRMA": "JUAN ALEJANDRO RAMOS - 1444512415"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8793352",
+            "CEDULA": "1444512415",
+            "NOMBRES": "JUAN ALEJANDRO RAMOS",
+            "CREDITO": "5.991.725",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "331.554",
+            "E.A": "23.07%",
+            "RECOMPRA O DESEMBOLSO": "3.760.295",
+            "FIRMA ELLECTRONICA": "JUAN ALEJANDRO RAMOS - 1444512415"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1444512415",
+            "NOMBRES": "JUAN ALEJANDRO RAMOS",
+            "FIRMA ELLECTRONICA": "JUAN ALEJANDRO RAMOS - 1444512415"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1444512415",
+            "NOMBRES": "JUAN ALEJANDRO RAMOS",
+            "FIRMA ELLECTRONICA": "JUAN ALEJANDRO RAMOS - 1444512415",
+            "AL PIE DE LA FIRMA": "JUAN ALEJANDRO RAMOS - 1444512415"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ALEJANDRO RAMOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1444512415",
+            "NOMBRES": "JUAN ALEJANDRO RAMOS",
+            "SALARIO": "3.200.364",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1444512415",
+            "NOMBRES": "JUAN ALEJANDRO RAMOS",
+            "RECOMPRA O DESEMBOLSO": "3.760.295"
+        }
+    }
+]

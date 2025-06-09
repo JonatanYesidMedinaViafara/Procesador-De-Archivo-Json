@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "419101057990",
+            "SOLICITUD": "5692296",
+            "CEDULA": "1792882557",
+            "NOMBRES": "MARÍA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.784.932",
+            "FIRMA ELLECTRONICA": "MARÍA RODRÍGUEZ - 1792882557"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "419101057990",
+            "NOMBRES": "MARÍA RODRÍGUEZ",
+            "CREDITO": "13.387.668",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "136.312",
+            "FIRMA ELLECTRONICA": "MARÍA RODRÍGUEZ - 1792882557",
+            "AL PIE DE LA FIRMA": "MARÍA RODRÍGUEZ - 1792882557"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1792882557",
+            "NOMBRES": "MARÍA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "17/12/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.387.668",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA RODRÍGUEZ - 1792882557",
+            "AL PIE DE LA FIRMA": "MARÍA RODRÍGUEZ - 1792882557"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5692296",
+            "CEDULA": "1792882557",
+            "NOMBRES": "MARÍA RODRÍGUEZ",
+            "CREDITO": "13.387.668",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "136.312",
+            "E.A": "23.89%",
+            "RECOMPRA O DESEMBOLSO": "3.784.932",
+            "FIRMA ELLECTRONICA": "MARÍA RODRÍGUEZ - 1792882557"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1792882557",
+            "NOMBRES": "MARÍA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "MARÍA RODRÍGUEZ - 1792882557"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1792882557",
+            "NOMBRES": "MARÍA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "MARÍA RODRÍGUEZ - 1792882557",
+            "AL PIE DE LA FIRMA": "MARÍA RODRÍGUEZ - 1792882557"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1792882557",
+            "NOMBRES": "MARÍA RODRÍGUEZ",
+            "SALARIO": "4.108.809",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1792882557",
+            "NOMBRES": "MARÍA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.784.932"
+        }
+    }
+]

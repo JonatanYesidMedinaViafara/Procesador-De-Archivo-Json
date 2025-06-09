@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "849078999006",
+            "SOLICITUD": "7605725",
+            "CEDULA": "1672797185",
+            "NOMBRES": "ORLANDO POSADA MÁRQUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.746.367",
+            "FIRMA ELLECTRONICA": "ORLANDO POSADA MÁRQUEZ - 1672797185"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "849078999006",
+            "NOMBRES": "ORLANDO POSADA MÁRQUEZ",
+            "CREDITO": "10.106.465",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "343.421",
+            "FIRMA ELLECTRONICA": "ORLANDO POSADA MÁRQUEZ - 1672797185",
+            "AL PIE DE LA FIRMA": "ORLANDO POSADA MÁRQUEZ - 1672797185"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1672797185",
+            "NOMBRES": "ORLANDO POSADA MÁRQUEZ",
+            "FECHA NACIMIENTO": "23/08/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.106.465",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ORLANDO POSADA MÁRQUEZ - 1672797185",
+            "AL PIE DE LA FIRMA": "ORLANDO POSADA MÁRQUEZ - 1672797185"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7605725",
+            "CEDULA": "1672797185",
+            "NOMBRES": "ORLANDO POSADA MÁRQUEZ",
+            "CREDITO": "10.106.465",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "343.421",
+            "E.A": "25.97%",
+            "RECOMPRA O DESEMBOLSO": "3.746.367",
+            "FIRMA ELLECTRONICA": "ORLANDO POSADA MÁRQUEZ - 1672797185"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1672797185",
+            "NOMBRES": "ORLANDO POSADA MÁRQUEZ",
+            "FIRMA ELLECTRONICA": "ORLANDO POSADA MÁRQUEZ - 1672797185"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1672797185",
+            "NOMBRES": "ORLANDO POSADA MÁRQUEZ",
+            "FIRMA ELLECTRONICA": "ORLANDO POSADA MÁRQUEZ - 1672797185",
+            "AL PIE DE LA FIRMA": "ORLANDO POSADA MÁRQUEZ - 1672797185"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ORLANDO POSADA MÁRQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1672797185",
+            "NOMBRES": "ORLANDO POSADA MÁRQUEZ",
+            "SALARIO": "1.882.676",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "11/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1672797185",
+            "NOMBRES": "ORLANDO POSADA MÁRQUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.746.367"
+        }
+    }
+]

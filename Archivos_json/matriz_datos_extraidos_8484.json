@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "484294870845",
+            "SOLICITUD": "2387133",
+            "CEDULA": "1354486039",
+            "NOMBRES": "WILMER WILMER QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.986.523",
+            "FIRMA ELLECTRONICA": "WILMER WILMER QUINTERO - 1354486039"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "484294870845",
+            "NOMBRES": "WILMER WILMER QUINTERO",
+            "CREDITO": "15.362.258",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "277.876",
+            "FIRMA ELLECTRONICA": "WILMER WILMER QUINTERO - 1354486039",
+            "AL PIE DE LA FIRMA": "WILMER WILMER QUINTERO - 1354486039"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1354486039",
+            "NOMBRES": "WILMER WILMER QUINTERO",
+            "FECHA NACIMIENTO": "15/01/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.362.258",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "WILMER WILMER QUINTERO - 1354486039",
+            "AL PIE DE LA FIRMA": "WILMER WILMER QUINTERO - 1354486039"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2387133",
+            "CEDULA": "1354486039",
+            "NOMBRES": "WILMER WILMER QUINTERO",
+            "CREDITO": "15.362.258",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "277.876",
+            "E.A": "22.76%",
+            "RECOMPRA O DESEMBOLSO": "2.986.523",
+            "FIRMA ELLECTRONICA": "WILMER WILMER QUINTERO - 1354486039"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1354486039",
+            "NOMBRES": "WILMER WILMER QUINTERO",
+            "FIRMA ELLECTRONICA": "WILMER WILMER QUINTERO - 1354486039"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1354486039",
+            "NOMBRES": "WILMER WILMER QUINTERO",
+            "FIRMA ELLECTRONICA": "WILMER WILMER QUINTERO - 1354486039",
+            "AL PIE DE LA FIRMA": "WILMER WILMER QUINTERO - 1354486039"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WILMER WILMER QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1354486039",
+            "NOMBRES": "WILMER WILMER QUINTERO",
+            "SALARIO": "4.468.624",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "09/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1354486039",
+            "NOMBRES": "WILMER WILMER QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "2.986.523"
+        }
+    }
+]

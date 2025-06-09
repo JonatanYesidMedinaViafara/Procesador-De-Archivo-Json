@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "230275833518",
+            "SOLICITUD": "3887578",
+            "CEDULA": "1683337848",
+            "NOMBRES": "CAMILO SALAS ANAYA",
+            "RECOMPRA O DESEMBOLSO": "2.604.736",
+            "FIRMA ELLECTRONICA": "CAMILO SALAS ANAYA - 1683337848"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "230275833518",
+            "NOMBRES": "CAMILO SALAS ANAYA",
+            "CREDITO": "9.917.884",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "120.649",
+            "FIRMA ELLECTRONICA": "CAMILO SALAS ANAYA - 1683337848",
+            "AL PIE DE LA FIRMA": "CAMILO SALAS ANAYA - 1683337848"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1683337848",
+            "NOMBRES": "CAMILO SALAS ANAYA",
+            "FECHA NACIMIENTO": "25/10/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.917.884",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAMILO SALAS ANAYA - 1683337848",
+            "AL PIE DE LA FIRMA": "CAMILO SALAS ANAYA - 1683337848"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3887578",
+            "CEDULA": "1683337848",
+            "NOMBRES": "CAMILO SALAS ANAYA",
+            "CREDITO": "9.917.884",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "120.649",
+            "E.A": "22.01%",
+            "RECOMPRA O DESEMBOLSO": "2.604.736",
+            "FIRMA ELLECTRONICA": "CAMILO SALAS ANAYA - 1683337848"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1683337848",
+            "NOMBRES": "CAMILO SALAS ANAYA",
+            "FIRMA ELLECTRONICA": "CAMILO SALAS ANAYA - 1683337848"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1683337848",
+            "NOMBRES": "CAMILO SALAS ANAYA",
+            "FIRMA ELLECTRONICA": "CAMILO SALAS ANAYA - 1683337848",
+            "AL PIE DE LA FIRMA": "CAMILO SALAS ANAYA - 1683337848"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO SALAS ANAYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1683337848",
+            "NOMBRES": "CAMILO SALAS ANAYA",
+            "SALARIO": "4.122.172",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1683337848",
+            "NOMBRES": "CAMILO SALAS ANAYA",
+            "RECOMPRA O DESEMBOLSO": "2.604.736"
+        }
+    }
+]

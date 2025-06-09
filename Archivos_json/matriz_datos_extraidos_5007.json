@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "542757475961",
+            "SOLICITUD": "2495701",
+            "CEDULA": "1616829078",
+            "NOMBRES": "PABLO HORACIO TORRES",
+            "RECOMPRA O DESEMBOLSO": "3.432.970",
+            "FIRMA ELLECTRONICA": "PABLO HORACIO TORRES - 1616829078"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "542757475961",
+            "NOMBRES": "PABLO HORACIO TORRES",
+            "CREDITO": "8.132.057",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "297.999",
+            "FIRMA ELLECTRONICA": "PABLO HORACIO TORRES - 1616829078",
+            "AL PIE DE LA FIRMA": "PABLO HORACIO TORRES - 1616829078"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1616829078",
+            "NOMBRES": "PABLO HORACIO TORRES",
+            "FECHA NACIMIENTO": "17/02/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.132.057",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "PABLO HORACIO TORRES - 1616829078",
+            "AL PIE DE LA FIRMA": "PABLO HORACIO TORRES - 1616829078"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2495701",
+            "CEDULA": "1616829078",
+            "NOMBRES": "PABLO HORACIO TORRES",
+            "CREDITO": "8.132.057",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "297.999",
+            "E.A": "19.71%",
+            "RECOMPRA O DESEMBOLSO": "3.432.970",
+            "FIRMA ELLECTRONICA": "PABLO HORACIO TORRES - 1616829078"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1616829078",
+            "NOMBRES": "PABLO HORACIO TORRES",
+            "FIRMA ELLECTRONICA": "PABLO HORACIO TORRES - 1616829078"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1616829078",
+            "NOMBRES": "PABLO HORACIO TORRES",
+            "FIRMA ELLECTRONICA": "PABLO HORACIO TORRES - 1616829078",
+            "AL PIE DE LA FIRMA": "PABLO HORACIO TORRES - 1616829078"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO HORACIO TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1616829078",
+            "NOMBRES": "PABLO HORACIO TORRES",
+            "SALARIO": "3.486.140",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1616829078",
+            "NOMBRES": "PABLO HORACIO TORRES",
+            "RECOMPRA O DESEMBOLSO": "3.432.970"
+        }
+    }
+]

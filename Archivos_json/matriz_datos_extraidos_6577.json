@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "105925201977",
+            "SOLICITUD": "8754537",
+            "CEDULA": "1696453513",
+            "NOMBRES": "JHOANA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.378.528",
+            "FIRMA ELLECTRONICA": "JHOANA LÓPEZ - 1696453513"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "105925201977",
+            "NOMBRES": "JHOANA LÓPEZ",
+            "CREDITO": "15.820.848",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "226.27",
+            "FIRMA ELLECTRONICA": "JHOANA LÓPEZ - 1696453513",
+            "AL PIE DE LA FIRMA": "JHOANA LÓPEZ - 1696453513"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1696453513",
+            "NOMBRES": "JHOANA LÓPEZ",
+            "FECHA NACIMIENTO": "21/08/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.820.848",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JHOANA LÓPEZ - 1696453513",
+            "AL PIE DE LA FIRMA": "JHOANA LÓPEZ - 1696453513"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8754537",
+            "CEDULA": "1696453513",
+            "NOMBRES": "JHOANA LÓPEZ",
+            "CREDITO": "15.820.848",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "226.27",
+            "E.A": "18.76%",
+            "RECOMPRA O DESEMBOLSO": "3.378.528",
+            "FIRMA ELLECTRONICA": "JHOANA LÓPEZ - 1696453513"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1696453513",
+            "NOMBRES": "JHOANA LÓPEZ",
+            "FIRMA ELLECTRONICA": "JHOANA LÓPEZ - 1696453513"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1696453513",
+            "NOMBRES": "JHOANA LÓPEZ",
+            "FIRMA ELLECTRONICA": "JHOANA LÓPEZ - 1696453513",
+            "AL PIE DE LA FIRMA": "JHOANA LÓPEZ - 1696453513"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHOANA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1696453513",
+            "NOMBRES": "JHOANA LÓPEZ",
+            "SALARIO": "2.324.938",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1696453513",
+            "NOMBRES": "JHOANA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "3.378.528"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "612171807030",
+            "SOLICITUD": "1207498",
+            "CEDULA": "1538469906",
+            "NOMBRES": "ENRIQUE ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.676.785",
+            "FIRMA ELLECTRONICA": "ENRIQUE ROJAS - 1538469906"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "612171807030",
+            "NOMBRES": "ENRIQUE ROJAS",
+            "CREDITO": "17.345.359",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "361.314",
+            "FIRMA ELLECTRONICA": "ENRIQUE ROJAS - 1538469906",
+            "AL PIE DE LA FIRMA": "ENRIQUE ROJAS - 1538469906"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1538469906",
+            "NOMBRES": "ENRIQUE ROJAS",
+            "FECHA NACIMIENTO": "15/06/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.345.359",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ENRIQUE ROJAS - 1538469906",
+            "AL PIE DE LA FIRMA": "ENRIQUE ROJAS - 1538469906"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1207498",
+            "CEDULA": "1538469906",
+            "NOMBRES": "ENRIQUE ROJAS",
+            "CREDITO": "17.345.359",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "361.314",
+            "E.A": "27.1%",
+            "RECOMPRA O DESEMBOLSO": "3.676.785",
+            "FIRMA ELLECTRONICA": "ENRIQUE ROJAS - 1538469906"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1538469906",
+            "NOMBRES": "ENRIQUE ROJAS",
+            "FIRMA ELLECTRONICA": "ENRIQUE ROJAS - 1538469906"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1538469906",
+            "NOMBRES": "ENRIQUE ROJAS",
+            "FIRMA ELLECTRONICA": "ENRIQUE ROJAS - 1538469906",
+            "AL PIE DE LA FIRMA": "ENRIQUE ROJAS - 1538469906"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1538469906",
+            "NOMBRES": "ENRIQUE ROJAS",
+            "SALARIO": "2.752.188",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1538469906",
+            "NOMBRES": "ENRIQUE ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.676.785"
+        }
+    }
+]

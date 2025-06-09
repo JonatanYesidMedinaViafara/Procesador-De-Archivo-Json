@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "358962724135",
+            "SOLICITUD": "6448804",
+            "CEDULA": "1975691029",
+            "NOMBRES": "JOSÉ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.977.703",
+            "FIRMA ELLECTRONICA": "JOSÉ MEDINA - 1975691029"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "358962724135",
+            "NOMBRES": "JOSÉ MEDINA",
+            "CREDITO": "13.184.848",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "349.747",
+            "FIRMA ELLECTRONICA": "JOSÉ MEDINA - 1975691029",
+            "AL PIE DE LA FIRMA": "JOSÉ MEDINA - 1975691029"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1975691029",
+            "NOMBRES": "JOSÉ MEDINA",
+            "FECHA NACIMIENTO": "22/01/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.184.848",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ MEDINA - 1975691029",
+            "AL PIE DE LA FIRMA": "JOSÉ MEDINA - 1975691029"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6448804",
+            "CEDULA": "1975691029",
+            "NOMBRES": "JOSÉ MEDINA",
+            "CREDITO": "13.184.848",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "349.747",
+            "E.A": "24.74%",
+            "RECOMPRA O DESEMBOLSO": "3.977.703",
+            "FIRMA ELLECTRONICA": "JOSÉ MEDINA - 1975691029"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1975691029",
+            "NOMBRES": "JOSÉ MEDINA",
+            "FIRMA ELLECTRONICA": "JOSÉ MEDINA - 1975691029"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1975691029",
+            "NOMBRES": "JOSÉ MEDINA",
+            "FIRMA ELLECTRONICA": "JOSÉ MEDINA - 1975691029",
+            "AL PIE DE LA FIRMA": "JOSÉ MEDINA - 1975691029"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1975691029",
+            "NOMBRES": "JOSÉ MEDINA",
+            "SALARIO": "2.865.325",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1975691029",
+            "NOMBRES": "JOSÉ MEDINA",
+            "RECOMPRA O DESEMBOLSO": "3.977.703"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "325689902663",
+            "SOLICITUD": "1793939",
+            "CEDULA": "1647797971",
+            "NOMBRES": "MARGOTH LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.278.812",
+            "FIRMA ELLECTRONICA": "MARGOTH LÓPEZ - 1647797971"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "325689902663",
+            "NOMBRES": "MARGOTH LÓPEZ",
+            "CREDITO": "6.565.457",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "116.447",
+            "FIRMA ELLECTRONICA": "MARGOTH LÓPEZ - 1647797971",
+            "AL PIE DE LA FIRMA": "MARGOTH LÓPEZ - 1647797971"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1647797971",
+            "NOMBRES": "MARGOTH LÓPEZ",
+            "FECHA NACIMIENTO": "20/05/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.565.457",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARGOTH LÓPEZ - 1647797971",
+            "AL PIE DE LA FIRMA": "MARGOTH LÓPEZ - 1647797971"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1793939",
+            "CEDULA": "1647797971",
+            "NOMBRES": "MARGOTH LÓPEZ",
+            "CREDITO": "6.565.457",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "116.447",
+            "E.A": "19.24%",
+            "RECOMPRA O DESEMBOLSO": "1.278.812",
+            "FIRMA ELLECTRONICA": "MARGOTH LÓPEZ - 1647797971"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1647797971",
+            "NOMBRES": "MARGOTH LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARGOTH LÓPEZ - 1647797971"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1647797971",
+            "NOMBRES": "MARGOTH LÓPEZ",
+            "FIRMA ELLECTRONICA": "MARGOTH LÓPEZ - 1647797971",
+            "AL PIE DE LA FIRMA": "MARGOTH LÓPEZ - 1647797971"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARGOTH LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1647797971",
+            "NOMBRES": "MARGOTH LÓPEZ",
+            "SALARIO": "4.450.494",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "28/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1647797971",
+            "NOMBRES": "MARGOTH LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.278.812"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "653698340727",
+            "SOLICITUD": "3060354",
+            "CEDULA": "1843438040",
+            "NOMBRES": "MARÍA ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "3.313.192",
+            "FIRMA ELLECTRONICA": "MARÍA ESCOBAR - 1843438040"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "653698340727",
+            "NOMBRES": "MARÍA ESCOBAR",
+            "CREDITO": "6.440.404",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "330.838",
+            "FIRMA ELLECTRONICA": "MARÍA ESCOBAR - 1843438040",
+            "AL PIE DE LA FIRMA": "MARÍA ESCOBAR - 1843438040"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1843438040",
+            "NOMBRES": "MARÍA ESCOBAR",
+            "FECHA NACIMIENTO": "21/07/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.440.404",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA ESCOBAR - 1843438040",
+            "AL PIE DE LA FIRMA": "MARÍA ESCOBAR - 1843438040"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3060354",
+            "CEDULA": "1843438040",
+            "NOMBRES": "MARÍA ESCOBAR",
+            "CREDITO": "6.440.404",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "330.838",
+            "E.A": "20.67%",
+            "RECOMPRA O DESEMBOLSO": "3.313.192",
+            "FIRMA ELLECTRONICA": "MARÍA ESCOBAR - 1843438040"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1843438040",
+            "NOMBRES": "MARÍA ESCOBAR",
+            "FIRMA ELLECTRONICA": "MARÍA ESCOBAR - 1843438040"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1843438040",
+            "NOMBRES": "MARÍA ESCOBAR",
+            "FIRMA ELLECTRONICA": "MARÍA ESCOBAR - 1843438040",
+            "AL PIE DE LA FIRMA": "MARÍA ESCOBAR - 1843438040"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ESCOBAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1843438040",
+            "NOMBRES": "MARÍA ESCOBAR",
+            "SALARIO": "2.441.592",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1843438040",
+            "NOMBRES": "MARÍA ESCOBAR",
+            "RECOMPRA O DESEMBOLSO": "3.313.192"
+        }
+    }
+]

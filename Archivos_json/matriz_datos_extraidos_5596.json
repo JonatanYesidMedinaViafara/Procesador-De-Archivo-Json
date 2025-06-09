@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "230468057882",
+            "SOLICITUD": "4121606",
+            "CEDULA": "1400225579",
+            "NOMBRES": "LUIS DIEGO GONZÁLEZ SANABRIA",
+            "RECOMPRA O DESEMBOLSO": "4.013.264",
+            "FIRMA ELLECTRONICA": "LUIS DIEGO GONZÁLEZ SANABRIA - 1400225579"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "230468057882",
+            "NOMBRES": "LUIS DIEGO GONZÁLEZ SANABRIA",
+            "CREDITO": "12.996.867",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "338.006",
+            "FIRMA ELLECTRONICA": "LUIS DIEGO GONZÁLEZ SANABRIA - 1400225579",
+            "AL PIE DE LA FIRMA": "LUIS DIEGO GONZÁLEZ SANABRIA - 1400225579"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1400225579",
+            "NOMBRES": "LUIS DIEGO GONZÁLEZ SANABRIA",
+            "FECHA NACIMIENTO": "15/06/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.996.867",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUIS DIEGO GONZÁLEZ SANABRIA - 1400225579",
+            "AL PIE DE LA FIRMA": "LUIS DIEGO GONZÁLEZ SANABRIA - 1400225579"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4121606",
+            "CEDULA": "1400225579",
+            "NOMBRES": "LUIS DIEGO GONZÁLEZ SANABRIA",
+            "CREDITO": "12.996.867",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "338.006",
+            "E.A": "19.98%",
+            "RECOMPRA O DESEMBOLSO": "4.013.264",
+            "FIRMA ELLECTRONICA": "LUIS DIEGO GONZÁLEZ SANABRIA - 1400225579"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1400225579",
+            "NOMBRES": "LUIS DIEGO GONZÁLEZ SANABRIA",
+            "FIRMA ELLECTRONICA": "LUIS DIEGO GONZÁLEZ SANABRIA - 1400225579"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1400225579",
+            "NOMBRES": "LUIS DIEGO GONZÁLEZ SANABRIA",
+            "FIRMA ELLECTRONICA": "LUIS DIEGO GONZÁLEZ SANABRIA - 1400225579",
+            "AL PIE DE LA FIRMA": "LUIS DIEGO GONZÁLEZ SANABRIA - 1400225579"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS DIEGO GONZÁLEZ SANABRIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1400225579",
+            "NOMBRES": "LUIS DIEGO GONZÁLEZ SANABRIA",
+            "SALARIO": "2.317.780",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "10/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1400225579",
+            "NOMBRES": "LUIS DIEGO GONZÁLEZ SANABRIA",
+            "RECOMPRA O DESEMBOLSO": "4.013.264"
+        }
+    }
+]

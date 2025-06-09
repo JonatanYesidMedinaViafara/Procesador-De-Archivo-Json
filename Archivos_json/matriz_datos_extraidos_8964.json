@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "944106462633",
+            "SOLICITUD": "8663203",
+            "CEDULA": "1366068219",
+            "NOMBRES": "OMAR ANDRÉS MERCADO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "1.788.511",
+            "FIRMA ELLECTRONICA": "OMAR ANDRÉS MERCADO VARGAS - 1366068219"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "944106462633",
+            "NOMBRES": "OMAR ANDRÉS MERCADO VARGAS",
+            "CREDITO": "10.312.127",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "257.765",
+            "FIRMA ELLECTRONICA": "OMAR ANDRÉS MERCADO VARGAS - 1366068219",
+            "AL PIE DE LA FIRMA": "OMAR ANDRÉS MERCADO VARGAS - 1366068219"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1366068219",
+            "NOMBRES": "OMAR ANDRÉS MERCADO VARGAS",
+            "FECHA NACIMIENTO": "08/07/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.312.127",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "OMAR ANDRÉS MERCADO VARGAS - 1366068219",
+            "AL PIE DE LA FIRMA": "OMAR ANDRÉS MERCADO VARGAS - 1366068219"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8663203",
+            "CEDULA": "1366068219",
+            "NOMBRES": "OMAR ANDRÉS MERCADO VARGAS",
+            "CREDITO": "10.312.127",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "257.765",
+            "E.A": "19.46%",
+            "RECOMPRA O DESEMBOLSO": "1.788.511",
+            "FIRMA ELLECTRONICA": "OMAR ANDRÉS MERCADO VARGAS - 1366068219"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1366068219",
+            "NOMBRES": "OMAR ANDRÉS MERCADO VARGAS",
+            "FIRMA ELLECTRONICA": "OMAR ANDRÉS MERCADO VARGAS - 1366068219"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1366068219",
+            "NOMBRES": "OMAR ANDRÉS MERCADO VARGAS",
+            "FIRMA ELLECTRONICA": "OMAR ANDRÉS MERCADO VARGAS - 1366068219",
+            "AL PIE DE LA FIRMA": "OMAR ANDRÉS MERCADO VARGAS - 1366068219"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR ANDRÉS MERCADO VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1366068219",
+            "NOMBRES": "OMAR ANDRÉS MERCADO VARGAS",
+            "SALARIO": "1.401.805",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1366068219",
+            "NOMBRES": "OMAR ANDRÉS MERCADO VARGAS",
+            "RECOMPRA O DESEMBOLSO": "1.788.511"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "940925582015",
+            "SOLICITUD": "7295209",
+            "CEDULA": "1264189098",
+            "NOMBRES": "LAURA ANDREA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.433.717",
+            "FIRMA ELLECTRONICA": "LAURA ANDREA GÓMEZ - 1264189098"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "940925582015",
+            "NOMBRES": "LAURA ANDREA GÓMEZ",
+            "CREDITO": "9.492.857",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "277.969",
+            "FIRMA ELLECTRONICA": "LAURA ANDREA GÓMEZ - 1264189098",
+            "AL PIE DE LA FIRMA": "LAURA ANDREA GÓMEZ - 1264189098"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1264189098",
+            "NOMBRES": "LAURA ANDREA GÓMEZ",
+            "FECHA NACIMIENTO": "19/08/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.492.857",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LAURA ANDREA GÓMEZ - 1264189098",
+            "AL PIE DE LA FIRMA": "LAURA ANDREA GÓMEZ - 1264189098"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7295209",
+            "CEDULA": "1264189098",
+            "NOMBRES": "LAURA ANDREA GÓMEZ",
+            "CREDITO": "9.492.857",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "277.969",
+            "E.A": "22.49%",
+            "RECOMPRA O DESEMBOLSO": "4.433.717",
+            "FIRMA ELLECTRONICA": "LAURA ANDREA GÓMEZ - 1264189098"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1264189098",
+            "NOMBRES": "LAURA ANDREA GÓMEZ",
+            "FIRMA ELLECTRONICA": "LAURA ANDREA GÓMEZ - 1264189098"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1264189098",
+            "NOMBRES": "LAURA ANDREA GÓMEZ",
+            "FIRMA ELLECTRONICA": "LAURA ANDREA GÓMEZ - 1264189098",
+            "AL PIE DE LA FIRMA": "LAURA ANDREA GÓMEZ - 1264189098"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA ANDREA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1264189098",
+            "NOMBRES": "LAURA ANDREA GÓMEZ",
+            "SALARIO": "3.641.078",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1264189098",
+            "NOMBRES": "LAURA ANDREA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.433.717"
+        }
+    }
+]

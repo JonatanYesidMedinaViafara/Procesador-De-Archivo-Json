@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "735318510105",
+            "SOLICITUD": "3708335",
+            "CEDULA": "1548943963",
+            "NOMBRES": "ALBA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.430.977",
+            "FIRMA ELLECTRONICA": "ALBA GÓMEZ - 1548943963"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "735318510105",
+            "NOMBRES": "ALBA GÓMEZ",
+            "CREDITO": "18.163.039",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "177.295",
+            "FIRMA ELLECTRONICA": "ALBA GÓMEZ - 1548943963",
+            "AL PIE DE LA FIRMA": "ALBA GÓMEZ - 1548943963"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1548943963",
+            "NOMBRES": "ALBA GÓMEZ",
+            "FECHA NACIMIENTO": "09/02/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.163.039",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALBA GÓMEZ - 1548943963",
+            "AL PIE DE LA FIRMA": "ALBA GÓMEZ - 1548943963"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3708335",
+            "CEDULA": "1548943963",
+            "NOMBRES": "ALBA GÓMEZ",
+            "CREDITO": "18.163.039",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "177.295",
+            "E.A": "25.12%",
+            "RECOMPRA O DESEMBOLSO": "3.430.977",
+            "FIRMA ELLECTRONICA": "ALBA GÓMEZ - 1548943963"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1548943963",
+            "NOMBRES": "ALBA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ALBA GÓMEZ - 1548943963"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1548943963",
+            "NOMBRES": "ALBA GÓMEZ",
+            "FIRMA ELLECTRONICA": "ALBA GÓMEZ - 1548943963",
+            "AL PIE DE LA FIRMA": "ALBA GÓMEZ - 1548943963"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1548943963",
+            "NOMBRES": "ALBA GÓMEZ",
+            "SALARIO": "2.836.350",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "31/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1548943963",
+            "NOMBRES": "ALBA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.430.977"
+        }
+    }
+]

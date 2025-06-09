@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "921071248399",
+            "SOLICITUD": "5983047",
+            "CEDULA": "1886595299",
+            "NOMBRES": "ANDRÉS DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "1.003.088",
+            "FIRMA ELLECTRONICA": "ANDRÉS DÍAZ - 1886595299"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "921071248399",
+            "NOMBRES": "ANDRÉS DÍAZ",
+            "CREDITO": "19.218.058",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "344.567",
+            "FIRMA ELLECTRONICA": "ANDRÉS DÍAZ - 1886595299",
+            "AL PIE DE LA FIRMA": "ANDRÉS DÍAZ - 1886595299"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1886595299",
+            "NOMBRES": "ANDRÉS DÍAZ",
+            "FECHA NACIMIENTO": "29/02/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.218.058",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ANDRÉS DÍAZ - 1886595299",
+            "AL PIE DE LA FIRMA": "ANDRÉS DÍAZ - 1886595299"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5983047",
+            "CEDULA": "1886595299",
+            "NOMBRES": "ANDRÉS DÍAZ",
+            "CREDITO": "19.218.058",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "344.567",
+            "E.A": "24.94%",
+            "RECOMPRA O DESEMBOLSO": "1.003.088",
+            "FIRMA ELLECTRONICA": "ANDRÉS DÍAZ - 1886595299"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1886595299",
+            "NOMBRES": "ANDRÉS DÍAZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS DÍAZ - 1886595299"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1886595299",
+            "NOMBRES": "ANDRÉS DÍAZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS DÍAZ - 1886595299",
+            "AL PIE DE LA FIRMA": "ANDRÉS DÍAZ - 1886595299"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1886595299",
+            "NOMBRES": "ANDRÉS DÍAZ",
+            "SALARIO": "4.997.140",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "11/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1886595299",
+            "NOMBRES": "ANDRÉS DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "1.003.088"
+        }
+    }
+]

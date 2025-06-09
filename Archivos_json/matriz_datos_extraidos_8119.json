@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "752500923632",
+            "SOLICITUD": "6308887",
+            "CEDULA": "1617630950",
+            "NOMBRES": "ALEXANDER MEDINA RIVERA",
+            "RECOMPRA O DESEMBOLSO": "2.772.904",
+            "FIRMA ELLECTRONICA": "ALEXANDER MEDINA RIVERA - 1617630950"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "752500923632",
+            "NOMBRES": "ALEXANDER MEDINA RIVERA",
+            "CREDITO": "19.768.047",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "332.178",
+            "FIRMA ELLECTRONICA": "ALEXANDER MEDINA RIVERA - 1617630950",
+            "AL PIE DE LA FIRMA": "ALEXANDER MEDINA RIVERA - 1617630950"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1617630950",
+            "NOMBRES": "ALEXANDER MEDINA RIVERA",
+            "FECHA NACIMIENTO": "06/07/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.768.047",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALEXANDER MEDINA RIVERA - 1617630950",
+            "AL PIE DE LA FIRMA": "ALEXANDER MEDINA RIVERA - 1617630950"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6308887",
+            "CEDULA": "1617630950",
+            "NOMBRES": "ALEXANDER MEDINA RIVERA",
+            "CREDITO": "19.768.047",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "332.178",
+            "E.A": "18.72%",
+            "RECOMPRA O DESEMBOLSO": "2.772.904",
+            "FIRMA ELLECTRONICA": "ALEXANDER MEDINA RIVERA - 1617630950"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1617630950",
+            "NOMBRES": "ALEXANDER MEDINA RIVERA",
+            "FIRMA ELLECTRONICA": "ALEXANDER MEDINA RIVERA - 1617630950"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1617630950",
+            "NOMBRES": "ALEXANDER MEDINA RIVERA",
+            "FIRMA ELLECTRONICA": "ALEXANDER MEDINA RIVERA - 1617630950",
+            "AL PIE DE LA FIRMA": "ALEXANDER MEDINA RIVERA - 1617630950"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER MEDINA RIVERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1617630950",
+            "NOMBRES": "ALEXANDER MEDINA RIVERA",
+            "SALARIO": "3.987.784",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1617630950",
+            "NOMBRES": "ALEXANDER MEDINA RIVERA",
+            "RECOMPRA O DESEMBOLSO": "2.772.904"
+        }
+    }
+]

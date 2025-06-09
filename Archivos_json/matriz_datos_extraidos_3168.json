@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "171517964601",
+            "SOLICITUD": "9819004",
+            "CEDULA": "1859159179",
+            "NOMBRES": "JUAN TAMAYO TORRES",
+            "RECOMPRA O DESEMBOLSO": "1.698.398",
+            "FIRMA ELLECTRONICA": "JUAN TAMAYO TORRES - 1859159179"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "171517964601",
+            "NOMBRES": "JUAN TAMAYO TORRES",
+            "CREDITO": "7.989.949",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "190.486",
+            "FIRMA ELLECTRONICA": "JUAN TAMAYO TORRES - 1859159179",
+            "AL PIE DE LA FIRMA": "JUAN TAMAYO TORRES - 1859159179"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1859159179",
+            "NOMBRES": "JUAN TAMAYO TORRES",
+            "FECHA NACIMIENTO": "15/03/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.989.949",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JUAN TAMAYO TORRES - 1859159179",
+            "AL PIE DE LA FIRMA": "JUAN TAMAYO TORRES - 1859159179"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9819004",
+            "CEDULA": "1859159179",
+            "NOMBRES": "JUAN TAMAYO TORRES",
+            "CREDITO": "7.989.949",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "190.486",
+            "E.A": "25.91%",
+            "RECOMPRA O DESEMBOLSO": "1.698.398",
+            "FIRMA ELLECTRONICA": "JUAN TAMAYO TORRES - 1859159179"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1859159179",
+            "NOMBRES": "JUAN TAMAYO TORRES",
+            "FIRMA ELLECTRONICA": "JUAN TAMAYO TORRES - 1859159179"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1859159179",
+            "NOMBRES": "JUAN TAMAYO TORRES",
+            "FIRMA ELLECTRONICA": "JUAN TAMAYO TORRES - 1859159179",
+            "AL PIE DE LA FIRMA": "JUAN TAMAYO TORRES - 1859159179"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN TAMAYO TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1859159179",
+            "NOMBRES": "JUAN TAMAYO TORRES",
+            "SALARIO": "2.078.541",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "30/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1859159179",
+            "NOMBRES": "JUAN TAMAYO TORRES",
+            "RECOMPRA O DESEMBOLSO": "1.698.398"
+        }
+    }
+]

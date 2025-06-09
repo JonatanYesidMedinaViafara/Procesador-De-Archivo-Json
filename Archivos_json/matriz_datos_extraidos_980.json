@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "745134143005",
+            "SOLICITUD": "2899613",
+            "CEDULA": "1380215622",
+            "NOMBRES": "MARITZA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.036.028",
+            "FIRMA ELLECTRONICA": "MARITZA ROJAS - 1380215622"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "745134143005",
+            "NOMBRES": "MARITZA ROJAS",
+            "CREDITO": "9.742.200",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "203.579",
+            "FIRMA ELLECTRONICA": "MARITZA ROJAS - 1380215622",
+            "AL PIE DE LA FIRMA": "MARITZA ROJAS - 1380215622"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1380215622",
+            "NOMBRES": "MARITZA ROJAS",
+            "FECHA NACIMIENTO": "03/03/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.742.200",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARITZA ROJAS - 1380215622",
+            "AL PIE DE LA FIRMA": "MARITZA ROJAS - 1380215622"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2899613",
+            "CEDULA": "1380215622",
+            "NOMBRES": "MARITZA ROJAS",
+            "CREDITO": "9.742.200",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "203.579",
+            "E.A": "25.93%",
+            "RECOMPRA O DESEMBOLSO": "3.036.028",
+            "FIRMA ELLECTRONICA": "MARITZA ROJAS - 1380215622"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1380215622",
+            "NOMBRES": "MARITZA ROJAS",
+            "FIRMA ELLECTRONICA": "MARITZA ROJAS - 1380215622"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1380215622",
+            "NOMBRES": "MARITZA ROJAS",
+            "FIRMA ELLECTRONICA": "MARITZA ROJAS - 1380215622",
+            "AL PIE DE LA FIRMA": "MARITZA ROJAS - 1380215622"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARITZA ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1380215622",
+            "NOMBRES": "MARITZA ROJAS",
+            "SALARIO": "2.251.111",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1380215622",
+            "NOMBRES": "MARITZA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.036.028"
+        }
+    }
+]

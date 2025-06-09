@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "831391674261",
+            "SOLICITUD": "3418354",
+            "CEDULA": "1089036709",
+            "NOMBRES": "BERNARDO ALEJANDRO GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "1.936.533",
+            "FIRMA ELLECTRONICA": "BERNARDO ALEJANDRO GUERRERO - 1089036709"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "831391674261",
+            "NOMBRES": "BERNARDO ALEJANDRO GUERRERO",
+            "CREDITO": "8.727.143",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "178.006",
+            "FIRMA ELLECTRONICA": "BERNARDO ALEJANDRO GUERRERO - 1089036709",
+            "AL PIE DE LA FIRMA": "BERNARDO ALEJANDRO GUERRERO - 1089036709"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1089036709",
+            "NOMBRES": "BERNARDO ALEJANDRO GUERRERO",
+            "FECHA NACIMIENTO": "05/09/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.727.143",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "BERNARDO ALEJANDRO GUERRERO - 1089036709",
+            "AL PIE DE LA FIRMA": "BERNARDO ALEJANDRO GUERRERO - 1089036709"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3418354",
+            "CEDULA": "1089036709",
+            "NOMBRES": "BERNARDO ALEJANDRO GUERRERO",
+            "CREDITO": "8.727.143",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "178.006",
+            "E.A": "26.07%",
+            "RECOMPRA O DESEMBOLSO": "1.936.533",
+            "FIRMA ELLECTRONICA": "BERNARDO ALEJANDRO GUERRERO - 1089036709"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1089036709",
+            "NOMBRES": "BERNARDO ALEJANDRO GUERRERO",
+            "FIRMA ELLECTRONICA": "BERNARDO ALEJANDRO GUERRERO - 1089036709"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1089036709",
+            "NOMBRES": "BERNARDO ALEJANDRO GUERRERO",
+            "FIRMA ELLECTRONICA": "BERNARDO ALEJANDRO GUERRERO - 1089036709",
+            "AL PIE DE LA FIRMA": "BERNARDO ALEJANDRO GUERRERO - 1089036709"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BERNARDO ALEJANDRO GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1089036709",
+            "NOMBRES": "BERNARDO ALEJANDRO GUERRERO",
+            "SALARIO": "4.750.936",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1089036709",
+            "NOMBRES": "BERNARDO ALEJANDRO GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "1.936.533"
+        }
+    }
+]

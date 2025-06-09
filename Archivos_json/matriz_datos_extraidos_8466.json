@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "634256687800",
+            "SOLICITUD": "3915739",
+            "CEDULA": "1132942137",
+            "NOMBRES": "LUZ CASTAÑO URIBE",
+            "RECOMPRA O DESEMBOLSO": "3.483.720",
+            "FIRMA ELLECTRONICA": "LUZ CASTAÑO URIBE - 1132942137"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "634256687800",
+            "NOMBRES": "LUZ CASTAÑO URIBE",
+            "CREDITO": "15.845.540",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "374.716",
+            "FIRMA ELLECTRONICA": "LUZ CASTAÑO URIBE - 1132942137",
+            "AL PIE DE LA FIRMA": "LUZ CASTAÑO URIBE - 1132942137"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1132942137",
+            "NOMBRES": "LUZ CASTAÑO URIBE",
+            "FECHA NACIMIENTO": "15/05/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.845.540",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUZ CASTAÑO URIBE - 1132942137",
+            "AL PIE DE LA FIRMA": "LUZ CASTAÑO URIBE - 1132942137"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3915739",
+            "CEDULA": "1132942137",
+            "NOMBRES": "LUZ CASTAÑO URIBE",
+            "CREDITO": "15.845.540",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "374.716",
+            "E.A": "23.5%",
+            "RECOMPRA O DESEMBOLSO": "3.483.720",
+            "FIRMA ELLECTRONICA": "LUZ CASTAÑO URIBE - 1132942137"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1132942137",
+            "NOMBRES": "LUZ CASTAÑO URIBE",
+            "FIRMA ELLECTRONICA": "LUZ CASTAÑO URIBE - 1132942137"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1132942137",
+            "NOMBRES": "LUZ CASTAÑO URIBE",
+            "FIRMA ELLECTRONICA": "LUZ CASTAÑO URIBE - 1132942137",
+            "AL PIE DE LA FIRMA": "LUZ CASTAÑO URIBE - 1132942137"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUZ CASTAÑO URIBE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1132942137",
+            "NOMBRES": "LUZ CASTAÑO URIBE",
+            "SALARIO": "2.397.210",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1132942137",
+            "NOMBRES": "LUZ CASTAÑO URIBE",
+            "RECOMPRA O DESEMBOLSO": "3.483.720"
+        }
+    }
+]

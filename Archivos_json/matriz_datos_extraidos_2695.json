@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "153805207610",
+            "SOLICITUD": "6457890",
+            "CEDULA": "1865554143",
+            "NOMBRES": "LUISA GARCÍA MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.207.995",
+            "FIRMA ELLECTRONICA": "LUISA GARCÍA MORENO - 1865554143"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "153805207610",
+            "NOMBRES": "LUISA GARCÍA MORENO",
+            "CREDITO": "12.246.919",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "220.005",
+            "FIRMA ELLECTRONICA": "LUISA GARCÍA MORENO - 1865554143",
+            "AL PIE DE LA FIRMA": "LUISA GARCÍA MORENO - 1865554143"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1865554143",
+            "NOMBRES": "LUISA GARCÍA MORENO",
+            "FECHA NACIMIENTO": "26/02/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.246.919",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUISA GARCÍA MORENO - 1865554143",
+            "AL PIE DE LA FIRMA": "LUISA GARCÍA MORENO - 1865554143"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6457890",
+            "CEDULA": "1865554143",
+            "NOMBRES": "LUISA GARCÍA MORENO",
+            "CREDITO": "12.246.919",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "220.005",
+            "E.A": "23.67%",
+            "RECOMPRA O DESEMBOLSO": "3.207.995",
+            "FIRMA ELLECTRONICA": "LUISA GARCÍA MORENO - 1865554143"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1865554143",
+            "NOMBRES": "LUISA GARCÍA MORENO",
+            "FIRMA ELLECTRONICA": "LUISA GARCÍA MORENO - 1865554143"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1865554143",
+            "NOMBRES": "LUISA GARCÍA MORENO",
+            "FIRMA ELLECTRONICA": "LUISA GARCÍA MORENO - 1865554143",
+            "AL PIE DE LA FIRMA": "LUISA GARCÍA MORENO - 1865554143"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUISA GARCÍA MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1865554143",
+            "NOMBRES": "LUISA GARCÍA MORENO",
+            "SALARIO": "4.793.092",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1865554143",
+            "NOMBRES": "LUISA GARCÍA MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.207.995"
+        }
+    }
+]

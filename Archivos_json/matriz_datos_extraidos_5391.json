@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "134179558769",
+            "SOLICITUD": "2701717",
+            "CEDULA": "1588523779",
+            "NOMBRES": "FIDEL HERNÁNDEZ CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "1.324.120",
+            "FIRMA ELLECTRONICA": "FIDEL HERNÁNDEZ CÁRDENAS - 1588523779"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "134179558769",
+            "NOMBRES": "FIDEL HERNÁNDEZ CÁRDENAS",
+            "CREDITO": "5.500.074",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "143.624",
+            "FIRMA ELLECTRONICA": "FIDEL HERNÁNDEZ CÁRDENAS - 1588523779",
+            "AL PIE DE LA FIRMA": "FIDEL HERNÁNDEZ CÁRDENAS - 1588523779"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1588523779",
+            "NOMBRES": "FIDEL HERNÁNDEZ CÁRDENAS",
+            "FECHA NACIMIENTO": "14/06/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.500.074",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FIDEL HERNÁNDEZ CÁRDENAS - 1588523779",
+            "AL PIE DE LA FIRMA": "FIDEL HERNÁNDEZ CÁRDENAS - 1588523779"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2701717",
+            "CEDULA": "1588523779",
+            "NOMBRES": "FIDEL HERNÁNDEZ CÁRDENAS",
+            "CREDITO": "5.500.074",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "143.624",
+            "E.A": "23.92%",
+            "RECOMPRA O DESEMBOLSO": "1.324.120",
+            "FIRMA ELLECTRONICA": "FIDEL HERNÁNDEZ CÁRDENAS - 1588523779"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1588523779",
+            "NOMBRES": "FIDEL HERNÁNDEZ CÁRDENAS",
+            "FIRMA ELLECTRONICA": "FIDEL HERNÁNDEZ CÁRDENAS - 1588523779"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1588523779",
+            "NOMBRES": "FIDEL HERNÁNDEZ CÁRDENAS",
+            "FIRMA ELLECTRONICA": "FIDEL HERNÁNDEZ CÁRDENAS - 1588523779",
+            "AL PIE DE LA FIRMA": "FIDEL HERNÁNDEZ CÁRDENAS - 1588523779"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FIDEL HERNÁNDEZ CÁRDENAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1588523779",
+            "NOMBRES": "FIDEL HERNÁNDEZ CÁRDENAS",
+            "SALARIO": "2.740.070",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1588523779",
+            "NOMBRES": "FIDEL HERNÁNDEZ CÁRDENAS",
+            "RECOMPRA O DESEMBOLSO": "1.324.120"
+        }
+    }
+]

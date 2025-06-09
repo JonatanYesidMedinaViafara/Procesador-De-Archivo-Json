@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "995152887050",
+            "SOLICITUD": "1121235",
+            "CEDULA": "1242520196",
+            "NOMBRES": "SANDRA LIGIA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.201.350",
+            "FIRMA ELLECTRONICA": "SANDRA LIGIA MUÑOZ - 1242520196"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "995152887050",
+            "NOMBRES": "SANDRA LIGIA MUÑOZ",
+            "CREDITO": "13.323.939",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "237.646",
+            "FIRMA ELLECTRONICA": "SANDRA LIGIA MUÑOZ - 1242520196",
+            "AL PIE DE LA FIRMA": "SANDRA LIGIA MUÑOZ - 1242520196"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1242520196",
+            "NOMBRES": "SANDRA LIGIA MUÑOZ",
+            "FECHA NACIMIENTO": "24/03/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.323.939",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SANDRA LIGIA MUÑOZ - 1242520196",
+            "AL PIE DE LA FIRMA": "SANDRA LIGIA MUÑOZ - 1242520196"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1121235",
+            "CEDULA": "1242520196",
+            "NOMBRES": "SANDRA LIGIA MUÑOZ",
+            "CREDITO": "13.323.939",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "237.646",
+            "E.A": "25.04%",
+            "RECOMPRA O DESEMBOLSO": "2.201.350",
+            "FIRMA ELLECTRONICA": "SANDRA LIGIA MUÑOZ - 1242520196"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1242520196",
+            "NOMBRES": "SANDRA LIGIA MUÑOZ",
+            "FIRMA ELLECTRONICA": "SANDRA LIGIA MUÑOZ - 1242520196"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1242520196",
+            "NOMBRES": "SANDRA LIGIA MUÑOZ",
+            "FIRMA ELLECTRONICA": "SANDRA LIGIA MUÑOZ - 1242520196",
+            "AL PIE DE LA FIRMA": "SANDRA LIGIA MUÑOZ - 1242520196"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA LIGIA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1242520196",
+            "NOMBRES": "SANDRA LIGIA MUÑOZ",
+            "SALARIO": "1.812.733",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1242520196",
+            "NOMBRES": "SANDRA LIGIA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.201.350"
+        }
+    }
+]

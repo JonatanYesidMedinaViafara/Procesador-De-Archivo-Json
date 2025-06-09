@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "288633192339",
+            "SOLICITUD": "9623215",
+            "CEDULA": "1925168299",
+            "NOMBRES": "IGNACIO ANDRÉS DÍAZ MONROY",
+            "RECOMPRA O DESEMBOLSO": "1.008.104",
+            "FIRMA ELLECTRONICA": "IGNACIO ANDRÉS DÍAZ MONROY - 1925168299"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "288633192339",
+            "NOMBRES": "IGNACIO ANDRÉS DÍAZ MONROY",
+            "CREDITO": "18.222.460",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "258.563",
+            "FIRMA ELLECTRONICA": "IGNACIO ANDRÉS DÍAZ MONROY - 1925168299",
+            "AL PIE DE LA FIRMA": "IGNACIO ANDRÉS DÍAZ MONROY - 1925168299"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1925168299",
+            "NOMBRES": "IGNACIO ANDRÉS DÍAZ MONROY",
+            "FECHA NACIMIENTO": "13/12/1961"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.222.460",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "IGNACIO ANDRÉS DÍAZ MONROY - 1925168299",
+            "AL PIE DE LA FIRMA": "IGNACIO ANDRÉS DÍAZ MONROY - 1925168299"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9623215",
+            "CEDULA": "1925168299",
+            "NOMBRES": "IGNACIO ANDRÉS DÍAZ MONROY",
+            "CREDITO": "18.222.460",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "258.563",
+            "E.A": "20.24%",
+            "RECOMPRA O DESEMBOLSO": "1.008.104",
+            "FIRMA ELLECTRONICA": "IGNACIO ANDRÉS DÍAZ MONROY - 1925168299"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1925168299",
+            "NOMBRES": "IGNACIO ANDRÉS DÍAZ MONROY",
+            "FIRMA ELLECTRONICA": "IGNACIO ANDRÉS DÍAZ MONROY - 1925168299"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1925168299",
+            "NOMBRES": "IGNACIO ANDRÉS DÍAZ MONROY",
+            "FIRMA ELLECTRONICA": "IGNACIO ANDRÉS DÍAZ MONROY - 1925168299",
+            "AL PIE DE LA FIRMA": "IGNACIO ANDRÉS DÍAZ MONROY - 1925168299"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IGNACIO ANDRÉS DÍAZ MONROY"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1925168299",
+            "NOMBRES": "IGNACIO ANDRÉS DÍAZ MONROY",
+            "SALARIO": "4.840.041",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1925168299",
+            "NOMBRES": "IGNACIO ANDRÉS DÍAZ MONROY",
+            "RECOMPRA O DESEMBOLSO": "1.008.104"
+        }
+    }
+]

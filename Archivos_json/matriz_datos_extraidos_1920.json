@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "727028601940",
+            "SOLICITUD": "2969964",
+            "CEDULA": "1062710998",
+            "NOMBRES": "ALEJANDRO JOSÉ SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.721.678",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JOSÉ SALAZAR - 1062710998"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "727028601940",
+            "NOMBRES": "ALEJANDRO JOSÉ SALAZAR",
+            "CREDITO": "15.864.346",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "301.342",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JOSÉ SALAZAR - 1062710998",
+            "AL PIE DE LA FIRMA": "ALEJANDRO JOSÉ SALAZAR - 1062710998"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1062710998",
+            "NOMBRES": "ALEJANDRO JOSÉ SALAZAR",
+            "FECHA NACIMIENTO": "27/02/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.864.346",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JOSÉ SALAZAR - 1062710998",
+            "AL PIE DE LA FIRMA": "ALEJANDRO JOSÉ SALAZAR - 1062710998"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2969964",
+            "CEDULA": "1062710998",
+            "NOMBRES": "ALEJANDRO JOSÉ SALAZAR",
+            "CREDITO": "15.864.346",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "301.342",
+            "E.A": "23.38%",
+            "RECOMPRA O DESEMBOLSO": "1.721.678",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JOSÉ SALAZAR - 1062710998"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1062710998",
+            "NOMBRES": "ALEJANDRO JOSÉ SALAZAR",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JOSÉ SALAZAR - 1062710998"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1062710998",
+            "NOMBRES": "ALEJANDRO JOSÉ SALAZAR",
+            "FIRMA ELLECTRONICA": "ALEJANDRO JOSÉ SALAZAR - 1062710998",
+            "AL PIE DE LA FIRMA": "ALEJANDRO JOSÉ SALAZAR - 1062710998"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO JOSÉ SALAZAR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1062710998",
+            "NOMBRES": "ALEJANDRO JOSÉ SALAZAR",
+            "SALARIO": "3.103.005",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1062710998",
+            "NOMBRES": "ALEJANDRO JOSÉ SALAZAR",
+            "RECOMPRA O DESEMBOLSO": "1.721.678"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "534233817140",
+            "SOLICITUD": "9885159",
+            "CEDULA": "1562754986",
+            "NOMBRES": "ÓSCAR NELSON AGUIRRE CAMARGO",
+            "RECOMPRA O DESEMBOLSO": "4.095.500",
+            "FIRMA ELLECTRONICA": "ÓSCAR NELSON AGUIRRE CAMARGO - 1562754986"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "534233817140",
+            "NOMBRES": "ÓSCAR NELSON AGUIRRE CAMARGO",
+            "CREDITO": "7.192.321",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "120.178",
+            "FIRMA ELLECTRONICA": "ÓSCAR NELSON AGUIRRE CAMARGO - 1562754986",
+            "AL PIE DE LA FIRMA": "ÓSCAR NELSON AGUIRRE CAMARGO - 1562754986"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1562754986",
+            "NOMBRES": "ÓSCAR NELSON AGUIRRE CAMARGO",
+            "FECHA NACIMIENTO": "27/02/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.192.321",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ÓSCAR NELSON AGUIRRE CAMARGO - 1562754986",
+            "AL PIE DE LA FIRMA": "ÓSCAR NELSON AGUIRRE CAMARGO - 1562754986"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9885159",
+            "CEDULA": "1562754986",
+            "NOMBRES": "ÓSCAR NELSON AGUIRRE CAMARGO",
+            "CREDITO": "7.192.321",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "120.178",
+            "E.A": "21.76%",
+            "RECOMPRA O DESEMBOLSO": "4.095.500",
+            "FIRMA ELLECTRONICA": "ÓSCAR NELSON AGUIRRE CAMARGO - 1562754986"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1562754986",
+            "NOMBRES": "ÓSCAR NELSON AGUIRRE CAMARGO",
+            "FIRMA ELLECTRONICA": "ÓSCAR NELSON AGUIRRE CAMARGO - 1562754986"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1562754986",
+            "NOMBRES": "ÓSCAR NELSON AGUIRRE CAMARGO",
+            "FIRMA ELLECTRONICA": "ÓSCAR NELSON AGUIRRE CAMARGO - 1562754986",
+            "AL PIE DE LA FIRMA": "ÓSCAR NELSON AGUIRRE CAMARGO - 1562754986"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR NELSON AGUIRRE CAMARGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1562754986",
+            "NOMBRES": "ÓSCAR NELSON AGUIRRE CAMARGO",
+            "SALARIO": "4.944.954",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1562754986",
+            "NOMBRES": "ÓSCAR NELSON AGUIRRE CAMARGO",
+            "RECOMPRA O DESEMBOLSO": "4.095.500"
+        }
+    }
+]

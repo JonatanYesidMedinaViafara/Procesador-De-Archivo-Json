@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "222151898289",
+            "SOLICITUD": "5271191",
+            "CEDULA": "1560795639",
+            "NOMBRES": "VÍCTOR ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.585.224",
+            "FIRMA ELLECTRONICA": "VÍCTOR ROJAS - 1560795639"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "222151898289",
+            "NOMBRES": "VÍCTOR ROJAS",
+            "CREDITO": "7.018.736",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "353.013",
+            "FIRMA ELLECTRONICA": "VÍCTOR ROJAS - 1560795639",
+            "AL PIE DE LA FIRMA": "VÍCTOR ROJAS - 1560795639"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1560795639",
+            "NOMBRES": "VÍCTOR ROJAS",
+            "FECHA NACIMIENTO": "14/07/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.018.736",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "VÍCTOR ROJAS - 1560795639",
+            "AL PIE DE LA FIRMA": "VÍCTOR ROJAS - 1560795639"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5271191",
+            "CEDULA": "1560795639",
+            "NOMBRES": "VÍCTOR ROJAS",
+            "CREDITO": "7.018.736",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "353.013",
+            "E.A": "28.25%",
+            "RECOMPRA O DESEMBOLSO": "3.585.224",
+            "FIRMA ELLECTRONICA": "VÍCTOR ROJAS - 1560795639"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1560795639",
+            "NOMBRES": "VÍCTOR ROJAS",
+            "FIRMA ELLECTRONICA": "VÍCTOR ROJAS - 1560795639"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1560795639",
+            "NOMBRES": "VÍCTOR ROJAS",
+            "FIRMA ELLECTRONICA": "VÍCTOR ROJAS - 1560795639",
+            "AL PIE DE LA FIRMA": "VÍCTOR ROJAS - 1560795639"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VÍCTOR ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1560795639",
+            "NOMBRES": "VÍCTOR ROJAS",
+            "SALARIO": "3.706.327",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1560795639",
+            "NOMBRES": "VÍCTOR ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.585.224"
+        }
+    }
+]

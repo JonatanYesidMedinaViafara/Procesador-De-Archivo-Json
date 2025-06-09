@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "698664474325",
+            "SOLICITUD": "7523868",
+            "CEDULA": "1544579776",
+            "NOMBRES": "MERCEDES CANO",
+            "RECOMPRA O DESEMBOLSO": "2.506.004",
+            "FIRMA ELLECTRONICA": "MERCEDES CANO - 1544579776"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "698664474325",
+            "NOMBRES": "MERCEDES CANO",
+            "CREDITO": "5.745.063",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "133.406",
+            "FIRMA ELLECTRONICA": "MERCEDES CANO - 1544579776",
+            "AL PIE DE LA FIRMA": "MERCEDES CANO - 1544579776"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1544579776",
+            "NOMBRES": "MERCEDES CANO",
+            "FECHA NACIMIENTO": "28/04/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.745.063",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MERCEDES CANO - 1544579776",
+            "AL PIE DE LA FIRMA": "MERCEDES CANO - 1544579776"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7523868",
+            "CEDULA": "1544579776",
+            "NOMBRES": "MERCEDES CANO",
+            "CREDITO": "5.745.063",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "133.406",
+            "E.A": "19.01%",
+            "RECOMPRA O DESEMBOLSO": "2.506.004",
+            "FIRMA ELLECTRONICA": "MERCEDES CANO - 1544579776"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1544579776",
+            "NOMBRES": "MERCEDES CANO",
+            "FIRMA ELLECTRONICA": "MERCEDES CANO - 1544579776"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1544579776",
+            "NOMBRES": "MERCEDES CANO",
+            "FIRMA ELLECTRONICA": "MERCEDES CANO - 1544579776",
+            "AL PIE DE LA FIRMA": "MERCEDES CANO - 1544579776"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MERCEDES CANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1544579776",
+            "NOMBRES": "MERCEDES CANO",
+            "SALARIO": "4.400.354",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1544579776",
+            "NOMBRES": "MERCEDES CANO",
+            "RECOMPRA O DESEMBOLSO": "2.506.004"
+        }
+    }
+]

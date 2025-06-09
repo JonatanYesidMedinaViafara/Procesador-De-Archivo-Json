@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "416430413961",
+            "SOLICITUD": "4633074",
+            "CEDULA": "1984217122",
+            "NOMBRES": "MARÍA MORA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.599.396",
+            "FIRMA ELLECTRONICA": "MARÍA MORA VARGAS - 1984217122"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "416430413961",
+            "NOMBRES": "MARÍA MORA VARGAS",
+            "CREDITO": "9.020.481",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "385.398",
+            "FIRMA ELLECTRONICA": "MARÍA MORA VARGAS - 1984217122",
+            "AL PIE DE LA FIRMA": "MARÍA MORA VARGAS - 1984217122"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1984217122",
+            "NOMBRES": "MARÍA MORA VARGAS",
+            "FECHA NACIMIENTO": "24/07/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.020.481",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA MORA VARGAS - 1984217122",
+            "AL PIE DE LA FIRMA": "MARÍA MORA VARGAS - 1984217122"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4633074",
+            "CEDULA": "1984217122",
+            "NOMBRES": "MARÍA MORA VARGAS",
+            "CREDITO": "9.020.481",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "385.398",
+            "E.A": "18.54%",
+            "RECOMPRA O DESEMBOLSO": "3.599.396",
+            "FIRMA ELLECTRONICA": "MARÍA MORA VARGAS - 1984217122"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1984217122",
+            "NOMBRES": "MARÍA MORA VARGAS",
+            "FIRMA ELLECTRONICA": "MARÍA MORA VARGAS - 1984217122"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1984217122",
+            "NOMBRES": "MARÍA MORA VARGAS",
+            "FIRMA ELLECTRONICA": "MARÍA MORA VARGAS - 1984217122",
+            "AL PIE DE LA FIRMA": "MARÍA MORA VARGAS - 1984217122"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MORA VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1984217122",
+            "NOMBRES": "MARÍA MORA VARGAS",
+            "SALARIO": "1.176.201",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1984217122",
+            "NOMBRES": "MARÍA MORA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "3.599.396"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "735522037959",
+            "SOLICITUD": "4902315",
+            "CEDULA": "1152102511",
+            "NOMBRES": "MARÍA JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.230.238",
+            "FIRMA ELLECTRONICA": "MARÍA JIMÉNEZ - 1152102511"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "735522037959",
+            "NOMBRES": "MARÍA JIMÉNEZ",
+            "CREDITO": "11.889.869",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "395.181",
+            "FIRMA ELLECTRONICA": "MARÍA JIMÉNEZ - 1152102511",
+            "AL PIE DE LA FIRMA": "MARÍA JIMÉNEZ - 1152102511"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1152102511",
+            "NOMBRES": "MARÍA JIMÉNEZ",
+            "FECHA NACIMIENTO": "12/08/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.889.869",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA JIMÉNEZ - 1152102511",
+            "AL PIE DE LA FIRMA": "MARÍA JIMÉNEZ - 1152102511"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4902315",
+            "CEDULA": "1152102511",
+            "NOMBRES": "MARÍA JIMÉNEZ",
+            "CREDITO": "11.889.869",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "395.181",
+            "E.A": "24.64%",
+            "RECOMPRA O DESEMBOLSO": "3.230.238",
+            "FIRMA ELLECTRONICA": "MARÍA JIMÉNEZ - 1152102511"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1152102511",
+            "NOMBRES": "MARÍA JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "MARÍA JIMÉNEZ - 1152102511"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1152102511",
+            "NOMBRES": "MARÍA JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "MARÍA JIMÉNEZ - 1152102511",
+            "AL PIE DE LA FIRMA": "MARÍA JIMÉNEZ - 1152102511"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1152102511",
+            "NOMBRES": "MARÍA JIMÉNEZ",
+            "SALARIO": "4.431.848",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "20/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1152102511",
+            "NOMBRES": "MARÍA JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "3.230.238"
+        }
+    }
+]

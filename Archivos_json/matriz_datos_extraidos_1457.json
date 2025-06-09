@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "831440152004",
+            "SOLICITUD": "6070401",
+            "CEDULA": "1941382298",
+            "NOMBRES": "ALFONSO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.871.678",
+            "FIRMA ELLECTRONICA": "ALFONSO PÉREZ - 1941382298"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "831440152004",
+            "NOMBRES": "ALFONSO PÉREZ",
+            "CREDITO": "5.614.729",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "200.074",
+            "FIRMA ELLECTRONICA": "ALFONSO PÉREZ - 1941382298",
+            "AL PIE DE LA FIRMA": "ALFONSO PÉREZ - 1941382298"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1941382298",
+            "NOMBRES": "ALFONSO PÉREZ",
+            "FECHA NACIMIENTO": "24/01/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.614.729",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALFONSO PÉREZ - 1941382298",
+            "AL PIE DE LA FIRMA": "ALFONSO PÉREZ - 1941382298"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6070401",
+            "CEDULA": "1941382298",
+            "NOMBRES": "ALFONSO PÉREZ",
+            "CREDITO": "5.614.729",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "200.074",
+            "E.A": "22.41%",
+            "RECOMPRA O DESEMBOLSO": "1.871.678",
+            "FIRMA ELLECTRONICA": "ALFONSO PÉREZ - 1941382298"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1941382298",
+            "NOMBRES": "ALFONSO PÉREZ",
+            "FIRMA ELLECTRONICA": "ALFONSO PÉREZ - 1941382298"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1941382298",
+            "NOMBRES": "ALFONSO PÉREZ",
+            "FIRMA ELLECTRONICA": "ALFONSO PÉREZ - 1941382298",
+            "AL PIE DE LA FIRMA": "ALFONSO PÉREZ - 1941382298"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALFONSO PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1941382298",
+            "NOMBRES": "ALFONSO PÉREZ",
+            "SALARIO": "1.768.496",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1941382298",
+            "NOMBRES": "ALFONSO PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "1.871.678"
+        }
+    }
+]

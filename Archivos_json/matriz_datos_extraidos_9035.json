@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "133684569257",
+            "SOLICITUD": "2184098",
+            "CEDULA": "1131889448",
+            "NOMBRES": "JOSÉ ALEXANDER SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.333.948",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEXANDER SÁNCHEZ - 1131889448"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "133684569257",
+            "NOMBRES": "JOSÉ ALEXANDER SÁNCHEZ",
+            "CREDITO": "5.816.669",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "171.088",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEXANDER SÁNCHEZ - 1131889448",
+            "AL PIE DE LA FIRMA": "JOSÉ ALEXANDER SÁNCHEZ - 1131889448"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1131889448",
+            "NOMBRES": "JOSÉ ALEXANDER SÁNCHEZ",
+            "FECHA NACIMIENTO": "22/10/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.816.669",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEXANDER SÁNCHEZ - 1131889448",
+            "AL PIE DE LA FIRMA": "JOSÉ ALEXANDER SÁNCHEZ - 1131889448"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2184098",
+            "CEDULA": "1131889448",
+            "NOMBRES": "JOSÉ ALEXANDER SÁNCHEZ",
+            "CREDITO": "5.816.669",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "171.088",
+            "E.A": "26.76%",
+            "RECOMPRA O DESEMBOLSO": "4.333.948",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEXANDER SÁNCHEZ - 1131889448"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1131889448",
+            "NOMBRES": "JOSÉ ALEXANDER SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEXANDER SÁNCHEZ - 1131889448"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1131889448",
+            "NOMBRES": "JOSÉ ALEXANDER SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ ALEXANDER SÁNCHEZ - 1131889448",
+            "AL PIE DE LA FIRMA": "JOSÉ ALEXANDER SÁNCHEZ - 1131889448"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ ALEXANDER SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1131889448",
+            "NOMBRES": "JOSÉ ALEXANDER SÁNCHEZ",
+            "SALARIO": "1.026.978",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1131889448",
+            "NOMBRES": "JOSÉ ALEXANDER SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "4.333.948"
+        }
+    }
+]

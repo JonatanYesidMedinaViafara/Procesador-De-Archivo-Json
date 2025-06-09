@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "654669004045",
+            "SOLICITUD": "7851615",
+            "CEDULA": "1923790536",
+            "NOMBRES": "ALEJANDRO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.142.499",
+            "FIRMA ELLECTRONICA": "ALEJANDRO FERNÁNDEZ - 1923790536"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "654669004045",
+            "NOMBRES": "ALEJANDRO FERNÁNDEZ",
+            "CREDITO": "11.060.051",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "223.253",
+            "FIRMA ELLECTRONICA": "ALEJANDRO FERNÁNDEZ - 1923790536",
+            "AL PIE DE LA FIRMA": "ALEJANDRO FERNÁNDEZ - 1923790536"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1923790536",
+            "NOMBRES": "ALEJANDRO FERNÁNDEZ",
+            "FECHA NACIMIENTO": "30/10/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.060.051",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ALEJANDRO FERNÁNDEZ - 1923790536",
+            "AL PIE DE LA FIRMA": "ALEJANDRO FERNÁNDEZ - 1923790536"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7851615",
+            "CEDULA": "1923790536",
+            "NOMBRES": "ALEJANDRO FERNÁNDEZ",
+            "CREDITO": "11.060.051",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "223.253",
+            "E.A": "26.18%",
+            "RECOMPRA O DESEMBOLSO": "1.142.499",
+            "FIRMA ELLECTRONICA": "ALEJANDRO FERNÁNDEZ - 1923790536"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1923790536",
+            "NOMBRES": "ALEJANDRO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRO FERNÁNDEZ - 1923790536"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1923790536",
+            "NOMBRES": "ALEJANDRO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRO FERNÁNDEZ - 1923790536",
+            "AL PIE DE LA FIRMA": "ALEJANDRO FERNÁNDEZ - 1923790536"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1923790536",
+            "NOMBRES": "ALEJANDRO FERNÁNDEZ",
+            "SALARIO": "4.205.120",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "02/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1923790536",
+            "NOMBRES": "ALEJANDRO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.142.499"
+        }
+    }
+]

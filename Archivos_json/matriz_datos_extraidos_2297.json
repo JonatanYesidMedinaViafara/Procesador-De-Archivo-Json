@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "282881210077",
+            "SOLICITUD": "2211450",
+            "CEDULA": "1938271388",
+            "NOMBRES": "MATILDE MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.930.051",
+            "FIRMA ELLECTRONICA": "MATILDE MORENO - 1938271388"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "282881210077",
+            "NOMBRES": "MATILDE MORENO",
+            "CREDITO": "19.688.110",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "311.491",
+            "FIRMA ELLECTRONICA": "MATILDE MORENO - 1938271388",
+            "AL PIE DE LA FIRMA": "MATILDE MORENO - 1938271388"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1938271388",
+            "NOMBRES": "MATILDE MORENO",
+            "FECHA NACIMIENTO": "04/04/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.688.110",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MATILDE MORENO - 1938271388",
+            "AL PIE DE LA FIRMA": "MATILDE MORENO - 1938271388"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2211450",
+            "CEDULA": "1938271388",
+            "NOMBRES": "MATILDE MORENO",
+            "CREDITO": "19.688.110",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "311.491",
+            "E.A": "18.22%",
+            "RECOMPRA O DESEMBOLSO": "3.930.051",
+            "FIRMA ELLECTRONICA": "MATILDE MORENO - 1938271388"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1938271388",
+            "NOMBRES": "MATILDE MORENO",
+            "FIRMA ELLECTRONICA": "MATILDE MORENO - 1938271388"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1938271388",
+            "NOMBRES": "MATILDE MORENO",
+            "FIRMA ELLECTRONICA": "MATILDE MORENO - 1938271388",
+            "AL PIE DE LA FIRMA": "MATILDE MORENO - 1938271388"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MATILDE MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1938271388",
+            "NOMBRES": "MATILDE MORENO",
+            "SALARIO": "2.811.269",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1938271388",
+            "NOMBRES": "MATILDE MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.930.051"
+        }
+    }
+]

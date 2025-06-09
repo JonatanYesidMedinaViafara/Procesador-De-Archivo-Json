@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "706926628807",
+            "SOLICITUD": "8852206",
+            "CEDULA": "1060001465",
+            "NOMBRES": "JUAN RENTERÍA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.334.584",
+            "FIRMA ELLECTRONICA": "JUAN RENTERÍA MUÑOZ - 1060001465"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "706926628807",
+            "NOMBRES": "JUAN RENTERÍA MUÑOZ",
+            "CREDITO": "9.066.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "112.579",
+            "FIRMA ELLECTRONICA": "JUAN RENTERÍA MUÑOZ - 1060001465",
+            "AL PIE DE LA FIRMA": "JUAN RENTERÍA MUÑOZ - 1060001465"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1060001465",
+            "NOMBRES": "JUAN RENTERÍA MUÑOZ",
+            "FECHA NACIMIENTO": "20/10/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.066.775",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JUAN RENTERÍA MUÑOZ - 1060001465",
+            "AL PIE DE LA FIRMA": "JUAN RENTERÍA MUÑOZ - 1060001465"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8852206",
+            "CEDULA": "1060001465",
+            "NOMBRES": "JUAN RENTERÍA MUÑOZ",
+            "CREDITO": "9.066.775",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "112.579",
+            "E.A": "18.02%",
+            "RECOMPRA O DESEMBOLSO": "1.334.584",
+            "FIRMA ELLECTRONICA": "JUAN RENTERÍA MUÑOZ - 1060001465"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1060001465",
+            "NOMBRES": "JUAN RENTERÍA MUÑOZ",
+            "FIRMA ELLECTRONICA": "JUAN RENTERÍA MUÑOZ - 1060001465"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1060001465",
+            "NOMBRES": "JUAN RENTERÍA MUÑOZ",
+            "FIRMA ELLECTRONICA": "JUAN RENTERÍA MUÑOZ - 1060001465",
+            "AL PIE DE LA FIRMA": "JUAN RENTERÍA MUÑOZ - 1060001465"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN RENTERÍA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1060001465",
+            "NOMBRES": "JUAN RENTERÍA MUÑOZ",
+            "SALARIO": "2.300.198",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1060001465",
+            "NOMBRES": "JUAN RENTERÍA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.334.584"
+        }
+    }
+]

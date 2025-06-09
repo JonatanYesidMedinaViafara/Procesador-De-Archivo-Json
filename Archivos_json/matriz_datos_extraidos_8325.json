@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "145304130751",
+            "SOLICITUD": "2061638",
+            "CEDULA": "1980522333",
+            "NOMBRES": "DAVID HERNÁN DÍAZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.401.390",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁN DÍAZ MUÑOZ - 1980522333"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "145304130751",
+            "NOMBRES": "DAVID HERNÁN DÍAZ MUÑOZ",
+            "CREDITO": "12.024.010",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "152.261",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁN DÍAZ MUÑOZ - 1980522333",
+            "AL PIE DE LA FIRMA": "DAVID HERNÁN DÍAZ MUÑOZ - 1980522333"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1980522333",
+            "NOMBRES": "DAVID HERNÁN DÍAZ MUÑOZ",
+            "FECHA NACIMIENTO": "29/05/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.024.010",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁN DÍAZ MUÑOZ - 1980522333",
+            "AL PIE DE LA FIRMA": "DAVID HERNÁN DÍAZ MUÑOZ - 1980522333"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2061638",
+            "CEDULA": "1980522333",
+            "NOMBRES": "DAVID HERNÁN DÍAZ MUÑOZ",
+            "CREDITO": "12.024.010",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "152.261",
+            "E.A": "25.84%",
+            "RECOMPRA O DESEMBOLSO": "2.401.390",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁN DÍAZ MUÑOZ - 1980522333"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1980522333",
+            "NOMBRES": "DAVID HERNÁN DÍAZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁN DÍAZ MUÑOZ - 1980522333"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1980522333",
+            "NOMBRES": "DAVID HERNÁN DÍAZ MUÑOZ",
+            "FIRMA ELLECTRONICA": "DAVID HERNÁN DÍAZ MUÑOZ - 1980522333",
+            "AL PIE DE LA FIRMA": "DAVID HERNÁN DÍAZ MUÑOZ - 1980522333"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID HERNÁN DÍAZ MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1980522333",
+            "NOMBRES": "DAVID HERNÁN DÍAZ MUÑOZ",
+            "SALARIO": "1.829.775",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1980522333",
+            "NOMBRES": "DAVID HERNÁN DÍAZ MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.401.390"
+        }
+    }
+]

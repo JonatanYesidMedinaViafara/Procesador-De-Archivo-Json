@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "348324754660",
+            "SOLICITUD": "5566810",
+            "CEDULA": "1845785987",
+            "NOMBRES": "MARÍA MARÍA LÓPEZ CABALLERO",
+            "RECOMPRA O DESEMBOLSO": "2.400.254",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA LÓPEZ CABALLERO - 1845785987"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "348324754660",
+            "NOMBRES": "MARÍA MARÍA LÓPEZ CABALLERO",
+            "CREDITO": "16.181.417",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "395.192",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA LÓPEZ CABALLERO - 1845785987",
+            "AL PIE DE LA FIRMA": "MARÍA MARÍA LÓPEZ CABALLERO - 1845785987"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1845785987",
+            "NOMBRES": "MARÍA MARÍA LÓPEZ CABALLERO",
+            "FECHA NACIMIENTO": "17/07/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.181.417",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA LÓPEZ CABALLERO - 1845785987",
+            "AL PIE DE LA FIRMA": "MARÍA MARÍA LÓPEZ CABALLERO - 1845785987"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5566810",
+            "CEDULA": "1845785987",
+            "NOMBRES": "MARÍA MARÍA LÓPEZ CABALLERO",
+            "CREDITO": "16.181.417",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "395.192",
+            "E.A": "21.12%",
+            "RECOMPRA O DESEMBOLSO": "2.400.254",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA LÓPEZ CABALLERO - 1845785987"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1845785987",
+            "NOMBRES": "MARÍA MARÍA LÓPEZ CABALLERO",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA LÓPEZ CABALLERO - 1845785987"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1845785987",
+            "NOMBRES": "MARÍA MARÍA LÓPEZ CABALLERO",
+            "FIRMA ELLECTRONICA": "MARÍA MARÍA LÓPEZ CABALLERO - 1845785987",
+            "AL PIE DE LA FIRMA": "MARÍA MARÍA LÓPEZ CABALLERO - 1845785987"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA MARÍA LÓPEZ CABALLERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1845785987",
+            "NOMBRES": "MARÍA MARÍA LÓPEZ CABALLERO",
+            "SALARIO": "2.009.990",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1845785987",
+            "NOMBRES": "MARÍA MARÍA LÓPEZ CABALLERO",
+            "RECOMPRA O DESEMBOLSO": "2.400.254"
+        }
+    }
+]

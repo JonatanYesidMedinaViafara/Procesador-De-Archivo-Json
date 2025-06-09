@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "315579892548",
+            "SOLICITUD": "8119455",
+            "CEDULA": "1184013809",
+            "NOMBRES": "OMAR PEDRO LÓPEZ RUIZ",
+            "RECOMPRA O DESEMBOLSO": "4.180.271",
+            "FIRMA ELLECTRONICA": "OMAR PEDRO LÓPEZ RUIZ - 1184013809"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "315579892548",
+            "NOMBRES": "OMAR PEDRO LÓPEZ RUIZ",
+            "CREDITO": "12.065.287",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "117.623",
+            "FIRMA ELLECTRONICA": "OMAR PEDRO LÓPEZ RUIZ - 1184013809",
+            "AL PIE DE LA FIRMA": "OMAR PEDRO LÓPEZ RUIZ - 1184013809"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1184013809",
+            "NOMBRES": "OMAR PEDRO LÓPEZ RUIZ",
+            "FECHA NACIMIENTO": "15/10/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.065.287",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "OMAR PEDRO LÓPEZ RUIZ - 1184013809",
+            "AL PIE DE LA FIRMA": "OMAR PEDRO LÓPEZ RUIZ - 1184013809"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8119455",
+            "CEDULA": "1184013809",
+            "NOMBRES": "OMAR PEDRO LÓPEZ RUIZ",
+            "CREDITO": "12.065.287",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "117.623",
+            "E.A": "23.17%",
+            "RECOMPRA O DESEMBOLSO": "4.180.271",
+            "FIRMA ELLECTRONICA": "OMAR PEDRO LÓPEZ RUIZ - 1184013809"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1184013809",
+            "NOMBRES": "OMAR PEDRO LÓPEZ RUIZ",
+            "FIRMA ELLECTRONICA": "OMAR PEDRO LÓPEZ RUIZ - 1184013809"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1184013809",
+            "NOMBRES": "OMAR PEDRO LÓPEZ RUIZ",
+            "FIRMA ELLECTRONICA": "OMAR PEDRO LÓPEZ RUIZ - 1184013809",
+            "AL PIE DE LA FIRMA": "OMAR PEDRO LÓPEZ RUIZ - 1184013809"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "OMAR PEDRO LÓPEZ RUIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1184013809",
+            "NOMBRES": "OMAR PEDRO LÓPEZ RUIZ",
+            "SALARIO": "1.956.709",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1184013809",
+            "NOMBRES": "OMAR PEDRO LÓPEZ RUIZ",
+            "RECOMPRA O DESEMBOLSO": "4.180.271"
+        }
+    }
+]

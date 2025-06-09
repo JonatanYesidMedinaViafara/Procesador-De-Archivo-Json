@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "459208965877",
+            "SOLICITUD": "3487882",
+            "CEDULA": "1090317756",
+            "NOMBRES": "DAVID OLAYA OSPINO",
+            "RECOMPRA O DESEMBOLSO": "2.642.620",
+            "FIRMA ELLECTRONICA": "DAVID OLAYA OSPINO - 1090317756"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "459208965877",
+            "NOMBRES": "DAVID OLAYA OSPINO",
+            "CREDITO": "17.630.622",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "322.175",
+            "FIRMA ELLECTRONICA": "DAVID OLAYA OSPINO - 1090317756",
+            "AL PIE DE LA FIRMA": "DAVID OLAYA OSPINO - 1090317756"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1090317756",
+            "NOMBRES": "DAVID OLAYA OSPINO",
+            "FECHA NACIMIENTO": "12/09/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.630.622",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DAVID OLAYA OSPINO - 1090317756",
+            "AL PIE DE LA FIRMA": "DAVID OLAYA OSPINO - 1090317756"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3487882",
+            "CEDULA": "1090317756",
+            "NOMBRES": "DAVID OLAYA OSPINO",
+            "CREDITO": "17.630.622",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "322.175",
+            "E.A": "24.13%",
+            "RECOMPRA O DESEMBOLSO": "2.642.620",
+            "FIRMA ELLECTRONICA": "DAVID OLAYA OSPINO - 1090317756"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1090317756",
+            "NOMBRES": "DAVID OLAYA OSPINO",
+            "FIRMA ELLECTRONICA": "DAVID OLAYA OSPINO - 1090317756"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1090317756",
+            "NOMBRES": "DAVID OLAYA OSPINO",
+            "FIRMA ELLECTRONICA": "DAVID OLAYA OSPINO - 1090317756",
+            "AL PIE DE LA FIRMA": "DAVID OLAYA OSPINO - 1090317756"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID OLAYA OSPINO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1090317756",
+            "NOMBRES": "DAVID OLAYA OSPINO",
+            "SALARIO": "4.192.635",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "01/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1090317756",
+            "NOMBRES": "DAVID OLAYA OSPINO",
+            "RECOMPRA O DESEMBOLSO": "2.642.620"
+        }
+    }
+]

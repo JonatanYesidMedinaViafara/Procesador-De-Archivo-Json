@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "290120011421",
+            "SOLICITUD": "9574420",
+            "CEDULA": "1566739062",
+            "NOMBRES": "ESTEBAN RÍOS ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.212.881",
+            "FIRMA ELLECTRONICA": "ESTEBAN RÍOS ROJAS - 1566739062"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "290120011421",
+            "NOMBRES": "ESTEBAN RÍOS ROJAS",
+            "CREDITO": "17.548.610",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "344.965",
+            "FIRMA ELLECTRONICA": "ESTEBAN RÍOS ROJAS - 1566739062",
+            "AL PIE DE LA FIRMA": "ESTEBAN RÍOS ROJAS - 1566739062"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1566739062",
+            "NOMBRES": "ESTEBAN RÍOS ROJAS",
+            "FECHA NACIMIENTO": "08/07/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.548.610",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ESTEBAN RÍOS ROJAS - 1566739062",
+            "AL PIE DE LA FIRMA": "ESTEBAN RÍOS ROJAS - 1566739062"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9574420",
+            "CEDULA": "1566739062",
+            "NOMBRES": "ESTEBAN RÍOS ROJAS",
+            "CREDITO": "17.548.610",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "344.965",
+            "E.A": "24.61%",
+            "RECOMPRA O DESEMBOLSO": "3.212.881",
+            "FIRMA ELLECTRONICA": "ESTEBAN RÍOS ROJAS - 1566739062"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1566739062",
+            "NOMBRES": "ESTEBAN RÍOS ROJAS",
+            "FIRMA ELLECTRONICA": "ESTEBAN RÍOS ROJAS - 1566739062"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1566739062",
+            "NOMBRES": "ESTEBAN RÍOS ROJAS",
+            "FIRMA ELLECTRONICA": "ESTEBAN RÍOS ROJAS - 1566739062",
+            "AL PIE DE LA FIRMA": "ESTEBAN RÍOS ROJAS - 1566739062"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTEBAN RÍOS ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1566739062",
+            "NOMBRES": "ESTEBAN RÍOS ROJAS",
+            "SALARIO": "1.592.733",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1566739062",
+            "NOMBRES": "ESTEBAN RÍOS ROJAS",
+            "RECOMPRA O DESEMBOLSO": "3.212.881"
+        }
+    }
+]

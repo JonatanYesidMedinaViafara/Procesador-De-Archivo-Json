@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "165977392063",
+            "SOLICITUD": "1106376",
+            "CEDULA": "1205202134",
+            "NOMBRES": "BERTHA MARÍA GIRALDO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.487.914",
+            "FIRMA ELLECTRONICA": "BERTHA MARÍA GIRALDO FERNÁNDEZ - 1205202134"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "165977392063",
+            "NOMBRES": "BERTHA MARÍA GIRALDO FERNÁNDEZ",
+            "CREDITO": "8.042.868",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "358.467",
+            "FIRMA ELLECTRONICA": "BERTHA MARÍA GIRALDO FERNÁNDEZ - 1205202134",
+            "AL PIE DE LA FIRMA": "BERTHA MARÍA GIRALDO FERNÁNDEZ - 1205202134"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1205202134",
+            "NOMBRES": "BERTHA MARÍA GIRALDO FERNÁNDEZ",
+            "FECHA NACIMIENTO": "15/05/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.042.868",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "BERTHA MARÍA GIRALDO FERNÁNDEZ - 1205202134",
+            "AL PIE DE LA FIRMA": "BERTHA MARÍA GIRALDO FERNÁNDEZ - 1205202134"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1106376",
+            "CEDULA": "1205202134",
+            "NOMBRES": "BERTHA MARÍA GIRALDO FERNÁNDEZ",
+            "CREDITO": "8.042.868",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "358.467",
+            "E.A": "22.95%",
+            "RECOMPRA O DESEMBOLSO": "1.487.914",
+            "FIRMA ELLECTRONICA": "BERTHA MARÍA GIRALDO FERNÁNDEZ - 1205202134"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1205202134",
+            "NOMBRES": "BERTHA MARÍA GIRALDO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "BERTHA MARÍA GIRALDO FERNÁNDEZ - 1205202134"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1205202134",
+            "NOMBRES": "BERTHA MARÍA GIRALDO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "BERTHA MARÍA GIRALDO FERNÁNDEZ - 1205202134",
+            "AL PIE DE LA FIRMA": "BERTHA MARÍA GIRALDO FERNÁNDEZ - 1205202134"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BERTHA MARÍA GIRALDO FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1205202134",
+            "NOMBRES": "BERTHA MARÍA GIRALDO FERNÁNDEZ",
+            "SALARIO": "2.586.952",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1205202134",
+            "NOMBRES": "BERTHA MARÍA GIRALDO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "1.487.914"
+        }
+    }
+]

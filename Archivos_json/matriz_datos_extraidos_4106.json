@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "958368063057",
+            "SOLICITUD": "5122589",
+            "CEDULA": "1558989132",
+            "NOMBRES": "ALEJANDRO LÓPEZ AMAYA",
+            "RECOMPRA O DESEMBOLSO": "3.496.866",
+            "FIRMA ELLECTRONICA": "ALEJANDRO LÓPEZ AMAYA - 1558989132"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "958368063057",
+            "NOMBRES": "ALEJANDRO LÓPEZ AMAYA",
+            "CREDITO": "19.501.840",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "139.771",
+            "FIRMA ELLECTRONICA": "ALEJANDRO LÓPEZ AMAYA - 1558989132",
+            "AL PIE DE LA FIRMA": "ALEJANDRO LÓPEZ AMAYA - 1558989132"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1558989132",
+            "NOMBRES": "ALEJANDRO LÓPEZ AMAYA",
+            "FECHA NACIMIENTO": "22/05/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.501.840",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALEJANDRO LÓPEZ AMAYA - 1558989132",
+            "AL PIE DE LA FIRMA": "ALEJANDRO LÓPEZ AMAYA - 1558989132"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5122589",
+            "CEDULA": "1558989132",
+            "NOMBRES": "ALEJANDRO LÓPEZ AMAYA",
+            "CREDITO": "19.501.840",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "139.771",
+            "E.A": "21.6%",
+            "RECOMPRA O DESEMBOLSO": "3.496.866",
+            "FIRMA ELLECTRONICA": "ALEJANDRO LÓPEZ AMAYA - 1558989132"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1558989132",
+            "NOMBRES": "ALEJANDRO LÓPEZ AMAYA",
+            "FIRMA ELLECTRONICA": "ALEJANDRO LÓPEZ AMAYA - 1558989132"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1558989132",
+            "NOMBRES": "ALEJANDRO LÓPEZ AMAYA",
+            "FIRMA ELLECTRONICA": "ALEJANDRO LÓPEZ AMAYA - 1558989132",
+            "AL PIE DE LA FIRMA": "ALEJANDRO LÓPEZ AMAYA - 1558989132"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRO LÓPEZ AMAYA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1558989132",
+            "NOMBRES": "ALEJANDRO LÓPEZ AMAYA",
+            "SALARIO": "1.864.212",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1558989132",
+            "NOMBRES": "ALEJANDRO LÓPEZ AMAYA",
+            "RECOMPRA O DESEMBOLSO": "3.496.866"
+        }
+    }
+]

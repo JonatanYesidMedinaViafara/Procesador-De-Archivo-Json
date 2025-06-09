@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "632239775099",
+            "SOLICITUD": "3132289",
+            "CEDULA": "1524828964",
+            "NOMBRES": "CRISTIAN GARCÍA GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "1.154.936",
+            "FIRMA ELLECTRONICA": "CRISTIAN GARCÍA GALLEGO - 1524828964"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "632239775099",
+            "NOMBRES": "CRISTIAN GARCÍA GALLEGO",
+            "CREDITO": "12.030.781",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "102.981",
+            "FIRMA ELLECTRONICA": "CRISTIAN GARCÍA GALLEGO - 1524828964",
+            "AL PIE DE LA FIRMA": "CRISTIAN GARCÍA GALLEGO - 1524828964"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1524828964",
+            "NOMBRES": "CRISTIAN GARCÍA GALLEGO",
+            "FECHA NACIMIENTO": "20/09/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.030.781",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CRISTIAN GARCÍA GALLEGO - 1524828964",
+            "AL PIE DE LA FIRMA": "CRISTIAN GARCÍA GALLEGO - 1524828964"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3132289",
+            "CEDULA": "1524828964",
+            "NOMBRES": "CRISTIAN GARCÍA GALLEGO",
+            "CREDITO": "12.030.781",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "102.981",
+            "E.A": "23.63%",
+            "RECOMPRA O DESEMBOLSO": "1.154.936",
+            "FIRMA ELLECTRONICA": "CRISTIAN GARCÍA GALLEGO - 1524828964"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1524828964",
+            "NOMBRES": "CRISTIAN GARCÍA GALLEGO",
+            "FIRMA ELLECTRONICA": "CRISTIAN GARCÍA GALLEGO - 1524828964"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1524828964",
+            "NOMBRES": "CRISTIAN GARCÍA GALLEGO",
+            "FIRMA ELLECTRONICA": "CRISTIAN GARCÍA GALLEGO - 1524828964",
+            "AL PIE DE LA FIRMA": "CRISTIAN GARCÍA GALLEGO - 1524828964"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CRISTIAN GARCÍA GALLEGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1524828964",
+            "NOMBRES": "CRISTIAN GARCÍA GALLEGO",
+            "SALARIO": "4.695.406",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1524828964",
+            "NOMBRES": "CRISTIAN GARCÍA GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "1.154.936"
+        }
+    }
+]

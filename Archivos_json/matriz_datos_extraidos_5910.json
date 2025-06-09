@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "154545677480",
+            "SOLICITUD": "7439267",
+            "CEDULA": "1456157575",
+            "NOMBRES": "WALTER ARROYO",
+            "RECOMPRA O DESEMBOLSO": "4.989.360",
+            "FIRMA ELLECTRONICA": "WALTER ARROYO - 1456157575"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "154545677480",
+            "NOMBRES": "WALTER ARROYO",
+            "CREDITO": "13.670.937",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "224.474",
+            "FIRMA ELLECTRONICA": "WALTER ARROYO - 1456157575",
+            "AL PIE DE LA FIRMA": "WALTER ARROYO - 1456157575"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1456157575",
+            "NOMBRES": "WALTER ARROYO",
+            "FECHA NACIMIENTO": "05/12/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.670.937",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "WALTER ARROYO - 1456157575",
+            "AL PIE DE LA FIRMA": "WALTER ARROYO - 1456157575"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7439267",
+            "CEDULA": "1456157575",
+            "NOMBRES": "WALTER ARROYO",
+            "CREDITO": "13.670.937",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "224.474",
+            "E.A": "20.42%",
+            "RECOMPRA O DESEMBOLSO": "4.989.360",
+            "FIRMA ELLECTRONICA": "WALTER ARROYO - 1456157575"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1456157575",
+            "NOMBRES": "WALTER ARROYO",
+            "FIRMA ELLECTRONICA": "WALTER ARROYO - 1456157575"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1456157575",
+            "NOMBRES": "WALTER ARROYO",
+            "FIRMA ELLECTRONICA": "WALTER ARROYO - 1456157575",
+            "AL PIE DE LA FIRMA": "WALTER ARROYO - 1456157575"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WALTER ARROYO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1456157575",
+            "NOMBRES": "WALTER ARROYO",
+            "SALARIO": "2.634.334",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1456157575",
+            "NOMBRES": "WALTER ARROYO",
+            "RECOMPRA O DESEMBOLSO": "4.989.360"
+        }
+    }
+]

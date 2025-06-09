@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "880238805197",
+            "SOLICITUD": "1835427",
+            "CEDULA": "1982870366",
+            "NOMBRES": "ÓSCAR GÓMEZ PRADA",
+            "RECOMPRA O DESEMBOLSO": "3.592.249",
+            "FIRMA ELLECTRONICA": "ÓSCAR GÓMEZ PRADA - 1982870366"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "880238805197",
+            "NOMBRES": "ÓSCAR GÓMEZ PRADA",
+            "CREDITO": "7.988.412",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "311.107",
+            "FIRMA ELLECTRONICA": "ÓSCAR GÓMEZ PRADA - 1982870366",
+            "AL PIE DE LA FIRMA": "ÓSCAR GÓMEZ PRADA - 1982870366"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1982870366",
+            "NOMBRES": "ÓSCAR GÓMEZ PRADA",
+            "FECHA NACIMIENTO": "17/02/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.988.412",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ÓSCAR GÓMEZ PRADA - 1982870366",
+            "AL PIE DE LA FIRMA": "ÓSCAR GÓMEZ PRADA - 1982870366"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1835427",
+            "CEDULA": "1982870366",
+            "NOMBRES": "ÓSCAR GÓMEZ PRADA",
+            "CREDITO": "7.988.412",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "311.107",
+            "E.A": "23.4%",
+            "RECOMPRA O DESEMBOLSO": "3.592.249",
+            "FIRMA ELLECTRONICA": "ÓSCAR GÓMEZ PRADA - 1982870366"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1982870366",
+            "NOMBRES": "ÓSCAR GÓMEZ PRADA",
+            "FIRMA ELLECTRONICA": "ÓSCAR GÓMEZ PRADA - 1982870366"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1982870366",
+            "NOMBRES": "ÓSCAR GÓMEZ PRADA",
+            "FIRMA ELLECTRONICA": "ÓSCAR GÓMEZ PRADA - 1982870366",
+            "AL PIE DE LA FIRMA": "ÓSCAR GÓMEZ PRADA - 1982870366"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÓSCAR GÓMEZ PRADA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1982870366",
+            "NOMBRES": "ÓSCAR GÓMEZ PRADA",
+            "SALARIO": "1.034.242",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "01/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1982870366",
+            "NOMBRES": "ÓSCAR GÓMEZ PRADA",
+            "RECOMPRA O DESEMBOLSO": "3.592.249"
+        }
+    }
+]

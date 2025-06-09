@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "109037095800",
+            "SOLICITUD": "6831095",
+            "CEDULA": "1425261507",
+            "NOMBRES": "JORGE WILLIAM GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "1.155.613",
+            "FIRMA ELLECTRONICA": "JORGE WILLIAM GIRALDO - 1425261507"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "109037095800",
+            "NOMBRES": "JORGE WILLIAM GIRALDO",
+            "CREDITO": "11.305.232",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "179.895",
+            "FIRMA ELLECTRONICA": "JORGE WILLIAM GIRALDO - 1425261507",
+            "AL PIE DE LA FIRMA": "JORGE WILLIAM GIRALDO - 1425261507"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1425261507",
+            "NOMBRES": "JORGE WILLIAM GIRALDO",
+            "FECHA NACIMIENTO": "04/01/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.305.232",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JORGE WILLIAM GIRALDO - 1425261507",
+            "AL PIE DE LA FIRMA": "JORGE WILLIAM GIRALDO - 1425261507"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6831095",
+            "CEDULA": "1425261507",
+            "NOMBRES": "JORGE WILLIAM GIRALDO",
+            "CREDITO": "11.305.232",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "179.895",
+            "E.A": "27.94%",
+            "RECOMPRA O DESEMBOLSO": "1.155.613",
+            "FIRMA ELLECTRONICA": "JORGE WILLIAM GIRALDO - 1425261507"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1425261507",
+            "NOMBRES": "JORGE WILLIAM GIRALDO",
+            "FIRMA ELLECTRONICA": "JORGE WILLIAM GIRALDO - 1425261507"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1425261507",
+            "NOMBRES": "JORGE WILLIAM GIRALDO",
+            "FIRMA ELLECTRONICA": "JORGE WILLIAM GIRALDO - 1425261507",
+            "AL PIE DE LA FIRMA": "JORGE WILLIAM GIRALDO - 1425261507"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE WILLIAM GIRALDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1425261507",
+            "NOMBRES": "JORGE WILLIAM GIRALDO",
+            "SALARIO": "3.251.407",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1425261507",
+            "NOMBRES": "JORGE WILLIAM GIRALDO",
+            "RECOMPRA O DESEMBOLSO": "1.155.613"
+        }
+    }
+]

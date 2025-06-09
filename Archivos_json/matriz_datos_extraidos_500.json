@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "563224553249",
+            "SOLICITUD": "3858053",
+            "CEDULA": "1390935405",
+            "NOMBRES": "JESÚS JORGE FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.324.890",
+            "FIRMA ELLECTRONICA": "JESÚS JORGE FERNÁNDEZ - 1390935405"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "563224553249",
+            "NOMBRES": "JESÚS JORGE FERNÁNDEZ",
+            "CREDITO": "8.185.068",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "338.584",
+            "FIRMA ELLECTRONICA": "JESÚS JORGE FERNÁNDEZ - 1390935405",
+            "AL PIE DE LA FIRMA": "JESÚS JORGE FERNÁNDEZ - 1390935405"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1390935405",
+            "NOMBRES": "JESÚS JORGE FERNÁNDEZ",
+            "FECHA NACIMIENTO": "11/05/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.185.068",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JESÚS JORGE FERNÁNDEZ - 1390935405",
+            "AL PIE DE LA FIRMA": "JESÚS JORGE FERNÁNDEZ - 1390935405"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3858053",
+            "CEDULA": "1390935405",
+            "NOMBRES": "JESÚS JORGE FERNÁNDEZ",
+            "CREDITO": "8.185.068",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "338.584",
+            "E.A": "20.37%",
+            "RECOMPRA O DESEMBOLSO": "4.324.890",
+            "FIRMA ELLECTRONICA": "JESÚS JORGE FERNÁNDEZ - 1390935405"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1390935405",
+            "NOMBRES": "JESÚS JORGE FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JESÚS JORGE FERNÁNDEZ - 1390935405"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1390935405",
+            "NOMBRES": "JESÚS JORGE FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "JESÚS JORGE FERNÁNDEZ - 1390935405",
+            "AL PIE DE LA FIRMA": "JESÚS JORGE FERNÁNDEZ - 1390935405"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS JORGE FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1390935405",
+            "NOMBRES": "JESÚS JORGE FERNÁNDEZ",
+            "SALARIO": "2.605.746",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "21/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1390935405",
+            "NOMBRES": "JESÚS JORGE FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.324.890"
+        }
+    }
+]

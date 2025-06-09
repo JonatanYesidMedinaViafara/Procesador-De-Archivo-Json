@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "287998632630",
+            "SOLICITUD": "4652866",
+            "CEDULA": "1189580461",
+            "NOMBRES": "LAURA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.051.785",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ - 1189580461"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "287998632630",
+            "NOMBRES": "LAURA SÁNCHEZ",
+            "CREDITO": "13.402.992",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "352.218",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ - 1189580461",
+            "AL PIE DE LA FIRMA": "LAURA SÁNCHEZ - 1189580461"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1189580461",
+            "NOMBRES": "LAURA SÁNCHEZ",
+            "FECHA NACIMIENTO": "03/01/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.402.992",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ - 1189580461",
+            "AL PIE DE LA FIRMA": "LAURA SÁNCHEZ - 1189580461"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4652866",
+            "CEDULA": "1189580461",
+            "NOMBRES": "LAURA SÁNCHEZ",
+            "CREDITO": "13.402.992",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "352.218",
+            "E.A": "24.41%",
+            "RECOMPRA O DESEMBOLSO": "1.051.785",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ - 1189580461"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1189580461",
+            "NOMBRES": "LAURA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ - 1189580461"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1189580461",
+            "NOMBRES": "LAURA SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "LAURA SÁNCHEZ - 1189580461",
+            "AL PIE DE LA FIRMA": "LAURA SÁNCHEZ - 1189580461"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1189580461",
+            "NOMBRES": "LAURA SÁNCHEZ",
+            "SALARIO": "1.883.524",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1189580461",
+            "NOMBRES": "LAURA SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.051.785"
+        }
+    }
+]

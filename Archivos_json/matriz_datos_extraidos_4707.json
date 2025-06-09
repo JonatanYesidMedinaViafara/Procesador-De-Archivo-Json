@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "391758262903",
+            "SOLICITUD": "9148704",
+            "CEDULA": "1450322593",
+            "NOMBRES": "ENRIQUE MANRIQUE",
+            "RECOMPRA O DESEMBOLSO": "2.052.545",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANRIQUE - 1450322593"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "391758262903",
+            "NOMBRES": "ENRIQUE MANRIQUE",
+            "CREDITO": "6.624.544",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "357.049",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANRIQUE - 1450322593",
+            "AL PIE DE LA FIRMA": "ENRIQUE MANRIQUE - 1450322593"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1450322593",
+            "NOMBRES": "ENRIQUE MANRIQUE",
+            "FECHA NACIMIENTO": "02/08/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.624.544",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANRIQUE - 1450322593",
+            "AL PIE DE LA FIRMA": "ENRIQUE MANRIQUE - 1450322593"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9148704",
+            "CEDULA": "1450322593",
+            "NOMBRES": "ENRIQUE MANRIQUE",
+            "CREDITO": "6.624.544",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "357.049",
+            "E.A": "24.15%",
+            "RECOMPRA O DESEMBOLSO": "2.052.545",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANRIQUE - 1450322593"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1450322593",
+            "NOMBRES": "ENRIQUE MANRIQUE",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANRIQUE - 1450322593"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1450322593",
+            "NOMBRES": "ENRIQUE MANRIQUE",
+            "FIRMA ELLECTRONICA": "ENRIQUE MANRIQUE - 1450322593",
+            "AL PIE DE LA FIRMA": "ENRIQUE MANRIQUE - 1450322593"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE MANRIQUE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1450322593",
+            "NOMBRES": "ENRIQUE MANRIQUE",
+            "SALARIO": "2.680.287",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "17/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1450322593",
+            "NOMBRES": "ENRIQUE MANRIQUE",
+            "RECOMPRA O DESEMBOLSO": "2.052.545"
+        }
+    }
+]

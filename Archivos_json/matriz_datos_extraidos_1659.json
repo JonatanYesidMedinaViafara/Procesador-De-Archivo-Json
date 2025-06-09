@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "325806889256",
+            "SOLICITUD": "7656449",
+            "CEDULA": "1612869232",
+            "NOMBRES": "CARLOS WALTER HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.657.988",
+            "FIRMA ELLECTRONICA": "CARLOS WALTER HERNÁNDEZ - 1612869232"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "325806889256",
+            "NOMBRES": "CARLOS WALTER HERNÁNDEZ",
+            "CREDITO": "12.449.032",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "115.263",
+            "FIRMA ELLECTRONICA": "CARLOS WALTER HERNÁNDEZ - 1612869232",
+            "AL PIE DE LA FIRMA": "CARLOS WALTER HERNÁNDEZ - 1612869232"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1612869232",
+            "NOMBRES": "CARLOS WALTER HERNÁNDEZ",
+            "FECHA NACIMIENTO": "19/12/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.449.032",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARLOS WALTER HERNÁNDEZ - 1612869232",
+            "AL PIE DE LA FIRMA": "CARLOS WALTER HERNÁNDEZ - 1612869232"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7656449",
+            "CEDULA": "1612869232",
+            "NOMBRES": "CARLOS WALTER HERNÁNDEZ",
+            "CREDITO": "12.449.032",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "115.263",
+            "E.A": "18.09%",
+            "RECOMPRA O DESEMBOLSO": "4.657.988",
+            "FIRMA ELLECTRONICA": "CARLOS WALTER HERNÁNDEZ - 1612869232"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1612869232",
+            "NOMBRES": "CARLOS WALTER HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "CARLOS WALTER HERNÁNDEZ - 1612869232"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1612869232",
+            "NOMBRES": "CARLOS WALTER HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "CARLOS WALTER HERNÁNDEZ - 1612869232",
+            "AL PIE DE LA FIRMA": "CARLOS WALTER HERNÁNDEZ - 1612869232"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS WALTER HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1612869232",
+            "NOMBRES": "CARLOS WALTER HERNÁNDEZ",
+            "SALARIO": "4.557.816",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "17/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1612869232",
+            "NOMBRES": "CARLOS WALTER HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.657.988"
+        }
+    }
+]

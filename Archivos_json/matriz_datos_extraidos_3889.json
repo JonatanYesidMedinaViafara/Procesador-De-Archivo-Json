@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "275601169974",
+            "SOLICITUD": "9059283",
+            "CEDULA": "1913362275",
+            "NOMBRES": "JAIRO GALVIS",
+            "RECOMPRA O DESEMBOLSO": "1.414.760",
+            "FIRMA ELLECTRONICA": "JAIRO GALVIS - 1913362275"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "275601169974",
+            "NOMBRES": "JAIRO GALVIS",
+            "CREDITO": "10.708.538",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "291.695",
+            "FIRMA ELLECTRONICA": "JAIRO GALVIS - 1913362275",
+            "AL PIE DE LA FIRMA": "JAIRO GALVIS - 1913362275"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1913362275",
+            "NOMBRES": "JAIRO GALVIS",
+            "FECHA NACIMIENTO": "03/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.708.538",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JAIRO GALVIS - 1913362275",
+            "AL PIE DE LA FIRMA": "JAIRO GALVIS - 1913362275"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9059283",
+            "CEDULA": "1913362275",
+            "NOMBRES": "JAIRO GALVIS",
+            "CREDITO": "10.708.538",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "291.695",
+            "E.A": "25.53%",
+            "RECOMPRA O DESEMBOLSO": "1.414.760",
+            "FIRMA ELLECTRONICA": "JAIRO GALVIS - 1913362275"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1913362275",
+            "NOMBRES": "JAIRO GALVIS",
+            "FIRMA ELLECTRONICA": "JAIRO GALVIS - 1913362275"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1913362275",
+            "NOMBRES": "JAIRO GALVIS",
+            "FIRMA ELLECTRONICA": "JAIRO GALVIS - 1913362275",
+            "AL PIE DE LA FIRMA": "JAIRO GALVIS - 1913362275"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIRO GALVIS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1913362275",
+            "NOMBRES": "JAIRO GALVIS",
+            "SALARIO": "3.689.301",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1913362275",
+            "NOMBRES": "JAIRO GALVIS",
+            "RECOMPRA O DESEMBOLSO": "1.414.760"
+        }
+    }
+]

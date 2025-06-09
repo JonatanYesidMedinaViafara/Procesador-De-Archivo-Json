@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "511359277513",
+            "SOLICITUD": "3534905",
+            "CEDULA": "1350142333",
+            "NOMBRES": "VICENTE DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.807.182",
+            "FIRMA ELLECTRONICA": "VICENTE DÍAZ - 1350142333"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "511359277513",
+            "NOMBRES": "VICENTE DÍAZ",
+            "CREDITO": "18.686.317",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "369.333",
+            "FIRMA ELLECTRONICA": "VICENTE DÍAZ - 1350142333",
+            "AL PIE DE LA FIRMA": "VICENTE DÍAZ - 1350142333"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1350142333",
+            "NOMBRES": "VICENTE DÍAZ",
+            "FECHA NACIMIENTO": "09/12/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.686.317",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "VICENTE DÍAZ - 1350142333",
+            "AL PIE DE LA FIRMA": "VICENTE DÍAZ - 1350142333"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3534905",
+            "CEDULA": "1350142333",
+            "NOMBRES": "VICENTE DÍAZ",
+            "CREDITO": "18.686.317",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "369.333",
+            "E.A": "19.19%",
+            "RECOMPRA O DESEMBOLSO": "3.807.182",
+            "FIRMA ELLECTRONICA": "VICENTE DÍAZ - 1350142333"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1350142333",
+            "NOMBRES": "VICENTE DÍAZ",
+            "FIRMA ELLECTRONICA": "VICENTE DÍAZ - 1350142333"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1350142333",
+            "NOMBRES": "VICENTE DÍAZ",
+            "FIRMA ELLECTRONICA": "VICENTE DÍAZ - 1350142333",
+            "AL PIE DE LA FIRMA": "VICENTE DÍAZ - 1350142333"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VICENTE DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1350142333",
+            "NOMBRES": "VICENTE DÍAZ",
+            "SALARIO": "3.675.222",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1350142333",
+            "NOMBRES": "VICENTE DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "3.807.182"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "837649599980",
+            "SOLICITUD": "5687915",
+            "CEDULA": "1764414477",
+            "NOMBRES": "MIGUEL SANTOS",
+            "RECOMPRA O DESEMBOLSO": "1.576.941",
+            "FIRMA ELLECTRONICA": "MIGUEL SANTOS - 1764414477"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "837649599980",
+            "NOMBRES": "MIGUEL SANTOS",
+            "CREDITO": "8.241.365",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "121.447",
+            "FIRMA ELLECTRONICA": "MIGUEL SANTOS - 1764414477",
+            "AL PIE DE LA FIRMA": "MIGUEL SANTOS - 1764414477"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1764414477",
+            "NOMBRES": "MIGUEL SANTOS",
+            "FECHA NACIMIENTO": "04/04/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.241.365",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MIGUEL SANTOS - 1764414477",
+            "AL PIE DE LA FIRMA": "MIGUEL SANTOS - 1764414477"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5687915",
+            "CEDULA": "1764414477",
+            "NOMBRES": "MIGUEL SANTOS",
+            "CREDITO": "8.241.365",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "121.447",
+            "E.A": "28.93%",
+            "RECOMPRA O DESEMBOLSO": "1.576.941",
+            "FIRMA ELLECTRONICA": "MIGUEL SANTOS - 1764414477"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1764414477",
+            "NOMBRES": "MIGUEL SANTOS",
+            "FIRMA ELLECTRONICA": "MIGUEL SANTOS - 1764414477"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1764414477",
+            "NOMBRES": "MIGUEL SANTOS",
+            "FIRMA ELLECTRONICA": "MIGUEL SANTOS - 1764414477",
+            "AL PIE DE LA FIRMA": "MIGUEL SANTOS - 1764414477"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL SANTOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1764414477",
+            "NOMBRES": "MIGUEL SANTOS",
+            "SALARIO": "1.883.970",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1764414477",
+            "NOMBRES": "MIGUEL SANTOS",
+            "RECOMPRA O DESEMBOLSO": "1.576.941"
+        }
+    }
+]

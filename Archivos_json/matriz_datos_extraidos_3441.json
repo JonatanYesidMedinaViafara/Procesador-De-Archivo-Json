@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "637067346064",
+            "SOLICITUD": "7156222",
+            "CEDULA": "1779080226",
+            "NOMBRES": "LILIANA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.798.897",
+            "FIRMA ELLECTRONICA": "LILIANA GONZÁLEZ - 1779080226"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "637067346064",
+            "NOMBRES": "LILIANA GONZÁLEZ",
+            "CREDITO": "6.584.736",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "135.072",
+            "FIRMA ELLECTRONICA": "LILIANA GONZÁLEZ - 1779080226",
+            "AL PIE DE LA FIRMA": "LILIANA GONZÁLEZ - 1779080226"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1779080226",
+            "NOMBRES": "LILIANA GONZÁLEZ",
+            "FECHA NACIMIENTO": "18/05/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.584.736",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LILIANA GONZÁLEZ - 1779080226",
+            "AL PIE DE LA FIRMA": "LILIANA GONZÁLEZ - 1779080226"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7156222",
+            "CEDULA": "1779080226",
+            "NOMBRES": "LILIANA GONZÁLEZ",
+            "CREDITO": "6.584.736",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "135.072",
+            "E.A": "25.6%",
+            "RECOMPRA O DESEMBOLSO": "3.798.897",
+            "FIRMA ELLECTRONICA": "LILIANA GONZÁLEZ - 1779080226"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1779080226",
+            "NOMBRES": "LILIANA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "LILIANA GONZÁLEZ - 1779080226"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1779080226",
+            "NOMBRES": "LILIANA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "LILIANA GONZÁLEZ - 1779080226",
+            "AL PIE DE LA FIRMA": "LILIANA GONZÁLEZ - 1779080226"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LILIANA GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1779080226",
+            "NOMBRES": "LILIANA GONZÁLEZ",
+            "SALARIO": "2.797.969",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1779080226",
+            "NOMBRES": "LILIANA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.798.897"
+        }
+    }
+]

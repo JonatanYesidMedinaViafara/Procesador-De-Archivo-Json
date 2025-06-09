@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "959422643090",
+            "SOLICITUD": "9366793",
+            "CEDULA": "1109004092",
+            "NOMBRES": "MANUEL SUÁREZ MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.107.207",
+            "FIRMA ELLECTRONICA": "MANUEL SUÁREZ MORENO - 1109004092"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "959422643090",
+            "NOMBRES": "MANUEL SUÁREZ MORENO",
+            "CREDITO": "12.734.857",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "275.164",
+            "FIRMA ELLECTRONICA": "MANUEL SUÁREZ MORENO - 1109004092",
+            "AL PIE DE LA FIRMA": "MANUEL SUÁREZ MORENO - 1109004092"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1109004092",
+            "NOMBRES": "MANUEL SUÁREZ MORENO",
+            "FECHA NACIMIENTO": "11/06/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.734.857",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MANUEL SUÁREZ MORENO - 1109004092",
+            "AL PIE DE LA FIRMA": "MANUEL SUÁREZ MORENO - 1109004092"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9366793",
+            "CEDULA": "1109004092",
+            "NOMBRES": "MANUEL SUÁREZ MORENO",
+            "CREDITO": "12.734.857",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "275.164",
+            "E.A": "24.25%",
+            "RECOMPRA O DESEMBOLSO": "3.107.207",
+            "FIRMA ELLECTRONICA": "MANUEL SUÁREZ MORENO - 1109004092"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1109004092",
+            "NOMBRES": "MANUEL SUÁREZ MORENO",
+            "FIRMA ELLECTRONICA": "MANUEL SUÁREZ MORENO - 1109004092"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1109004092",
+            "NOMBRES": "MANUEL SUÁREZ MORENO",
+            "FIRMA ELLECTRONICA": "MANUEL SUÁREZ MORENO - 1109004092",
+            "AL PIE DE LA FIRMA": "MANUEL SUÁREZ MORENO - 1109004092"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL SUÁREZ MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1109004092",
+            "NOMBRES": "MANUEL SUÁREZ MORENO",
+            "SALARIO": "3.745.905",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "26/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1109004092",
+            "NOMBRES": "MANUEL SUÁREZ MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.107.207"
+        }
+    }
+]

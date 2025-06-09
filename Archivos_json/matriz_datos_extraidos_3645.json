@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "740478890101",
+            "SOLICITUD": "8321643",
+            "CEDULA": "1510542378",
+            "NOMBRES": "PEDRO SEGUNDO MOLINA",
+            "RECOMPRA O DESEMBOLSO": "1.375.466",
+            "FIRMA ELLECTRONICA": "PEDRO SEGUNDO MOLINA - 1510542378"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "740478890101",
+            "NOMBRES": "PEDRO SEGUNDO MOLINA",
+            "CREDITO": "9.319.216",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "201.006",
+            "FIRMA ELLECTRONICA": "PEDRO SEGUNDO MOLINA - 1510542378",
+            "AL PIE DE LA FIRMA": "PEDRO SEGUNDO MOLINA - 1510542378"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1510542378",
+            "NOMBRES": "PEDRO SEGUNDO MOLINA",
+            "FECHA NACIMIENTO": "18/09/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.319.216",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PEDRO SEGUNDO MOLINA - 1510542378",
+            "AL PIE DE LA FIRMA": "PEDRO SEGUNDO MOLINA - 1510542378"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8321643",
+            "CEDULA": "1510542378",
+            "NOMBRES": "PEDRO SEGUNDO MOLINA",
+            "CREDITO": "9.319.216",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "201.006",
+            "E.A": "27.07%",
+            "RECOMPRA O DESEMBOLSO": "1.375.466",
+            "FIRMA ELLECTRONICA": "PEDRO SEGUNDO MOLINA - 1510542378"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1510542378",
+            "NOMBRES": "PEDRO SEGUNDO MOLINA",
+            "FIRMA ELLECTRONICA": "PEDRO SEGUNDO MOLINA - 1510542378"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1510542378",
+            "NOMBRES": "PEDRO SEGUNDO MOLINA",
+            "FIRMA ELLECTRONICA": "PEDRO SEGUNDO MOLINA - 1510542378",
+            "AL PIE DE LA FIRMA": "PEDRO SEGUNDO MOLINA - 1510542378"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PEDRO SEGUNDO MOLINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1510542378",
+            "NOMBRES": "PEDRO SEGUNDO MOLINA",
+            "SALARIO": "4.015.763",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1510542378",
+            "NOMBRES": "PEDRO SEGUNDO MOLINA",
+            "RECOMPRA O DESEMBOLSO": "1.375.466"
+        }
+    }
+]

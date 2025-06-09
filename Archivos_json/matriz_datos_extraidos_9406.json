@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "827292031090",
+            "SOLICITUD": "7762777",
+            "CEDULA": "1141873651",
+            "NOMBRES": "CARMEN ESCOBAR ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "3.997.379",
+            "FIRMA ELLECTRONICA": "CARMEN ESCOBAR ZAPATA - 1141873651"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "827292031090",
+            "NOMBRES": "CARMEN ESCOBAR ZAPATA",
+            "CREDITO": "14.007.598",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "298.482",
+            "FIRMA ELLECTRONICA": "CARMEN ESCOBAR ZAPATA - 1141873651",
+            "AL PIE DE LA FIRMA": "CARMEN ESCOBAR ZAPATA - 1141873651"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1141873651",
+            "NOMBRES": "CARMEN ESCOBAR ZAPATA",
+            "FECHA NACIMIENTO": "22/07/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.007.598",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARMEN ESCOBAR ZAPATA - 1141873651",
+            "AL PIE DE LA FIRMA": "CARMEN ESCOBAR ZAPATA - 1141873651"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7762777",
+            "CEDULA": "1141873651",
+            "NOMBRES": "CARMEN ESCOBAR ZAPATA",
+            "CREDITO": "14.007.598",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "298.482",
+            "E.A": "18.12%",
+            "RECOMPRA O DESEMBOLSO": "3.997.379",
+            "FIRMA ELLECTRONICA": "CARMEN ESCOBAR ZAPATA - 1141873651"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1141873651",
+            "NOMBRES": "CARMEN ESCOBAR ZAPATA",
+            "FIRMA ELLECTRONICA": "CARMEN ESCOBAR ZAPATA - 1141873651"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1141873651",
+            "NOMBRES": "CARMEN ESCOBAR ZAPATA",
+            "FIRMA ELLECTRONICA": "CARMEN ESCOBAR ZAPATA - 1141873651",
+            "AL PIE DE LA FIRMA": "CARMEN ESCOBAR ZAPATA - 1141873651"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN ESCOBAR ZAPATA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1141873651",
+            "NOMBRES": "CARMEN ESCOBAR ZAPATA",
+            "SALARIO": "3.454.142",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "12/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1141873651",
+            "NOMBRES": "CARMEN ESCOBAR ZAPATA",
+            "RECOMPRA O DESEMBOLSO": "3.997.379"
+        }
+    }
+]

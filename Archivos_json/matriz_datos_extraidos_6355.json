@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "227424834248",
+            "SOLICITUD": "4737055",
+            "CEDULA": "1354050499",
+            "NOMBRES": "MANUEL HERNÁNDEZ TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.985.939",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ TORRES - 1354050499"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "227424834248",
+            "NOMBRES": "MANUEL HERNÁNDEZ TORRES",
+            "CREDITO": "13.680.472",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "325.776",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ TORRES - 1354050499",
+            "AL PIE DE LA FIRMA": "MANUEL HERNÁNDEZ TORRES - 1354050499"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1354050499",
+            "NOMBRES": "MANUEL HERNÁNDEZ TORRES",
+            "FECHA NACIMIENTO": "22/04/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.680.472",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ TORRES - 1354050499",
+            "AL PIE DE LA FIRMA": "MANUEL HERNÁNDEZ TORRES - 1354050499"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4737055",
+            "CEDULA": "1354050499",
+            "NOMBRES": "MANUEL HERNÁNDEZ TORRES",
+            "CREDITO": "13.680.472",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "325.776",
+            "E.A": "23.13%",
+            "RECOMPRA O DESEMBOLSO": "2.985.939",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ TORRES - 1354050499"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1354050499",
+            "NOMBRES": "MANUEL HERNÁNDEZ TORRES",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ TORRES - 1354050499"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1354050499",
+            "NOMBRES": "MANUEL HERNÁNDEZ TORRES",
+            "FIRMA ELLECTRONICA": "MANUEL HERNÁNDEZ TORRES - 1354050499",
+            "AL PIE DE LA FIRMA": "MANUEL HERNÁNDEZ TORRES - 1354050499"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL HERNÁNDEZ TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1354050499",
+            "NOMBRES": "MANUEL HERNÁNDEZ TORRES",
+            "SALARIO": "4.862.869",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1354050499",
+            "NOMBRES": "MANUEL HERNÁNDEZ TORRES",
+            "RECOMPRA O DESEMBOLSO": "2.985.939"
+        }
+    }
+]

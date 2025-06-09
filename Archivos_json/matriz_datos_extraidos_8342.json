@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "978367359153",
+            "SOLICITUD": "6614347",
+            "CEDULA": "1623875477",
+            "NOMBRES": "JHON GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "2.767.988",
+            "FIRMA ELLECTRONICA": "JHON GALLEGO - 1623875477"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "978367359153",
+            "NOMBRES": "JHON GALLEGO",
+            "CREDITO": "11.890.465",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "325.231",
+            "FIRMA ELLECTRONICA": "JHON GALLEGO - 1623875477",
+            "AL PIE DE LA FIRMA": "JHON GALLEGO - 1623875477"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1623875477",
+            "NOMBRES": "JHON GALLEGO",
+            "FECHA NACIMIENTO": "16/02/1995"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.890.465",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JHON GALLEGO - 1623875477",
+            "AL PIE DE LA FIRMA": "JHON GALLEGO - 1623875477"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6614347",
+            "CEDULA": "1623875477",
+            "NOMBRES": "JHON GALLEGO",
+            "CREDITO": "11.890.465",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "120",
+            "VL.CUOTA": "325.231",
+            "E.A": "28.74%",
+            "RECOMPRA O DESEMBOLSO": "2.767.988",
+            "FIRMA ELLECTRONICA": "JHON GALLEGO - 1623875477"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1623875477",
+            "NOMBRES": "JHON GALLEGO",
+            "FIRMA ELLECTRONICA": "JHON GALLEGO - 1623875477"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1623875477",
+            "NOMBRES": "JHON GALLEGO",
+            "FIRMA ELLECTRONICA": "JHON GALLEGO - 1623875477",
+            "AL PIE DE LA FIRMA": "JHON GALLEGO - 1623875477"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JHON GALLEGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1623875477",
+            "NOMBRES": "JHON GALLEGO",
+            "SALARIO": "1.577.973",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1623875477",
+            "NOMBRES": "JHON GALLEGO",
+            "RECOMPRA O DESEMBOLSO": "2.767.988"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "133133803012",
+            "SOLICITUD": "7359359",
+            "CEDULA": "1685741469",
+            "NOMBRES": "LUIS JAVIER RIVERA",
+            "RECOMPRA O DESEMBOLSO": "3.224.999",
+            "FIRMA ELLECTRONICA": "LUIS JAVIER RIVERA - 1685741469"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "133133803012",
+            "NOMBRES": "LUIS JAVIER RIVERA",
+            "CREDITO": "13.292.809",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "172.527",
+            "FIRMA ELLECTRONICA": "LUIS JAVIER RIVERA - 1685741469",
+            "AL PIE DE LA FIRMA": "LUIS JAVIER RIVERA - 1685741469"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1685741469",
+            "NOMBRES": "LUIS JAVIER RIVERA",
+            "FECHA NACIMIENTO": "14/12/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.292.809",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LUIS JAVIER RIVERA - 1685741469",
+            "AL PIE DE LA FIRMA": "LUIS JAVIER RIVERA - 1685741469"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7359359",
+            "CEDULA": "1685741469",
+            "NOMBRES": "LUIS JAVIER RIVERA",
+            "CREDITO": "13.292.809",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "172.527",
+            "E.A": "28.57%",
+            "RECOMPRA O DESEMBOLSO": "3.224.999",
+            "FIRMA ELLECTRONICA": "LUIS JAVIER RIVERA - 1685741469"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1685741469",
+            "NOMBRES": "LUIS JAVIER RIVERA",
+            "FIRMA ELLECTRONICA": "LUIS JAVIER RIVERA - 1685741469"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1685741469",
+            "NOMBRES": "LUIS JAVIER RIVERA",
+            "FIRMA ELLECTRONICA": "LUIS JAVIER RIVERA - 1685741469",
+            "AL PIE DE LA FIRMA": "LUIS JAVIER RIVERA - 1685741469"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS JAVIER RIVERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1685741469",
+            "NOMBRES": "LUIS JAVIER RIVERA",
+            "SALARIO": "1.615.102",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1685741469",
+            "NOMBRES": "LUIS JAVIER RIVERA",
+            "RECOMPRA O DESEMBOLSO": "3.224.999"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "969061626456",
+            "SOLICITUD": "8250301",
+            "CEDULA": "1495198494",
+            "NOMBRES": "ANTONIO JULIO POLO",
+            "RECOMPRA O DESEMBOLSO": "3.214.564",
+            "FIRMA ELLECTRONICA": "ANTONIO JULIO POLO - 1495198494"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "969061626456",
+            "NOMBRES": "ANTONIO JULIO POLO",
+            "CREDITO": "13.374.952",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "271.12",
+            "FIRMA ELLECTRONICA": "ANTONIO JULIO POLO - 1495198494",
+            "AL PIE DE LA FIRMA": "ANTONIO JULIO POLO - 1495198494"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1495198494",
+            "NOMBRES": "ANTONIO JULIO POLO",
+            "FECHA NACIMIENTO": "21/06/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.374.952",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANTONIO JULIO POLO - 1495198494",
+            "AL PIE DE LA FIRMA": "ANTONIO JULIO POLO - 1495198494"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8250301",
+            "CEDULA": "1495198494",
+            "NOMBRES": "ANTONIO JULIO POLO",
+            "CREDITO": "13.374.952",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "271.12",
+            "E.A": "18.96%",
+            "RECOMPRA O DESEMBOLSO": "3.214.564",
+            "FIRMA ELLECTRONICA": "ANTONIO JULIO POLO - 1495198494"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1495198494",
+            "NOMBRES": "ANTONIO JULIO POLO",
+            "FIRMA ELLECTRONICA": "ANTONIO JULIO POLO - 1495198494"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1495198494",
+            "NOMBRES": "ANTONIO JULIO POLO",
+            "FIRMA ELLECTRONICA": "ANTONIO JULIO POLO - 1495198494",
+            "AL PIE DE LA FIRMA": "ANTONIO JULIO POLO - 1495198494"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO JULIO POLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1495198494",
+            "NOMBRES": "ANTONIO JULIO POLO",
+            "SALARIO": "4.923.651",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1495198494",
+            "NOMBRES": "ANTONIO JULIO POLO",
+            "RECOMPRA O DESEMBOLSO": "3.214.564"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "151710210911",
+            "SOLICITUD": "1351726",
+            "CEDULA": "1366666638",
+            "NOMBRES": "MARCELA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.972.176",
+            "FIRMA ELLECTRONICA": "MARCELA GONZÁLEZ - 1366666638"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "151710210911",
+            "NOMBRES": "MARCELA GONZÁLEZ",
+            "CREDITO": "15.229.349",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "363.836",
+            "FIRMA ELLECTRONICA": "MARCELA GONZÁLEZ - 1366666638",
+            "AL PIE DE LA FIRMA": "MARCELA GONZÁLEZ - 1366666638"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1366666638",
+            "NOMBRES": "MARCELA GONZÁLEZ",
+            "FECHA NACIMIENTO": "29/05/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.229.349",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARCELA GONZÁLEZ - 1366666638",
+            "AL PIE DE LA FIRMA": "MARCELA GONZÁLEZ - 1366666638"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1351726",
+            "CEDULA": "1366666638",
+            "NOMBRES": "MARCELA GONZÁLEZ",
+            "CREDITO": "15.229.349",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "363.836",
+            "E.A": "22.5%",
+            "RECOMPRA O DESEMBOLSO": "1.972.176",
+            "FIRMA ELLECTRONICA": "MARCELA GONZÁLEZ - 1366666638"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1366666638",
+            "NOMBRES": "MARCELA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARCELA GONZÁLEZ - 1366666638"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1366666638",
+            "NOMBRES": "MARCELA GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "MARCELA GONZÁLEZ - 1366666638",
+            "AL PIE DE LA FIRMA": "MARCELA GONZÁLEZ - 1366666638"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCELA GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1366666638",
+            "NOMBRES": "MARCELA GONZÁLEZ",
+            "SALARIO": "1.061.983",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1366666638",
+            "NOMBRES": "MARCELA GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "1.972.176"
+        }
+    }
+]

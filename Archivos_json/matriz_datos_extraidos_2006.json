@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "102710044803",
+            "SOLICITUD": "1709544",
+            "CEDULA": "1435088957",
+            "NOMBRES": "JOSÉ NARVÁEZ VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.850.250",
+            "FIRMA ELLECTRONICA": "JOSÉ NARVÁEZ VÁSQUEZ - 1435088957"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "102710044803",
+            "NOMBRES": "JOSÉ NARVÁEZ VÁSQUEZ",
+            "CREDITO": "8.646.182",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "241.546",
+            "FIRMA ELLECTRONICA": "JOSÉ NARVÁEZ VÁSQUEZ - 1435088957",
+            "AL PIE DE LA FIRMA": "JOSÉ NARVÁEZ VÁSQUEZ - 1435088957"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1435088957",
+            "NOMBRES": "JOSÉ NARVÁEZ VÁSQUEZ",
+            "FECHA NACIMIENTO": "18/12/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.646.182",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ NARVÁEZ VÁSQUEZ - 1435088957",
+            "AL PIE DE LA FIRMA": "JOSÉ NARVÁEZ VÁSQUEZ - 1435088957"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1709544",
+            "CEDULA": "1435088957",
+            "NOMBRES": "JOSÉ NARVÁEZ VÁSQUEZ",
+            "CREDITO": "8.646.182",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "241.546",
+            "E.A": "26.9%",
+            "RECOMPRA O DESEMBOLSO": "4.850.250",
+            "FIRMA ELLECTRONICA": "JOSÉ NARVÁEZ VÁSQUEZ - 1435088957"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1435088957",
+            "NOMBRES": "JOSÉ NARVÁEZ VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ NARVÁEZ VÁSQUEZ - 1435088957"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1435088957",
+            "NOMBRES": "JOSÉ NARVÁEZ VÁSQUEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ NARVÁEZ VÁSQUEZ - 1435088957",
+            "AL PIE DE LA FIRMA": "JOSÉ NARVÁEZ VÁSQUEZ - 1435088957"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ NARVÁEZ VÁSQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1435088957",
+            "NOMBRES": "JOSÉ NARVÁEZ VÁSQUEZ",
+            "SALARIO": "3.512.319",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "10/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1435088957",
+            "NOMBRES": "JOSÉ NARVÁEZ VÁSQUEZ",
+            "RECOMPRA O DESEMBOLSO": "4.850.250"
+        }
+    }
+]

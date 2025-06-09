@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "819308111368",
+            "SOLICITUD": "8950836",
+            "CEDULA": "1945318500",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.375.415",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1945318500"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "819308111368",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "CREDITO": "16.616.966",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "186.827",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1945318500",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ - 1945318500"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1945318500",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "FECHA NACIMIENTO": "26/01/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.616.966",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1945318500",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ - 1945318500"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8950836",
+            "CEDULA": "1945318500",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "CREDITO": "16.616.966",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "186.827",
+            "E.A": "20.94%",
+            "RECOMPRA O DESEMBOLSO": "4.375.415",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1945318500"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1945318500",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1945318500"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1945318500",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "FIRMA ELLECTRONICA": "ANDRÉS GÓMEZ - 1945318500",
+            "AL PIE DE LA FIRMA": "ANDRÉS GÓMEZ - 1945318500"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1945318500",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "SALARIO": "1.605.040",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1945318500",
+            "NOMBRES": "ANDRÉS GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "4.375.415"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "880022458419",
+            "SOLICITUD": "1465242",
+            "CEDULA": "1773686313",
+            "NOMBRES": "JOSÉ CAMILO PRADA ALVARADO",
+            "RECOMPRA O DESEMBOLSO": "1.333.275",
+            "FIRMA ELLECTRONICA": "JOSÉ CAMILO PRADA ALVARADO - 1773686313"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "880022458419",
+            "NOMBRES": "JOSÉ CAMILO PRADA ALVARADO",
+            "CREDITO": "17.635.148",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "294.298",
+            "FIRMA ELLECTRONICA": "JOSÉ CAMILO PRADA ALVARADO - 1773686313",
+            "AL PIE DE LA FIRMA": "JOSÉ CAMILO PRADA ALVARADO - 1773686313"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1773686313",
+            "NOMBRES": "JOSÉ CAMILO PRADA ALVARADO",
+            "FECHA NACIMIENTO": "25/07/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.635.148",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JOSÉ CAMILO PRADA ALVARADO - 1773686313",
+            "AL PIE DE LA FIRMA": "JOSÉ CAMILO PRADA ALVARADO - 1773686313"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1465242",
+            "CEDULA": "1773686313",
+            "NOMBRES": "JOSÉ CAMILO PRADA ALVARADO",
+            "CREDITO": "17.635.148",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "294.298",
+            "E.A": "25.63%",
+            "RECOMPRA O DESEMBOLSO": "1.333.275",
+            "FIRMA ELLECTRONICA": "JOSÉ CAMILO PRADA ALVARADO - 1773686313"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1773686313",
+            "NOMBRES": "JOSÉ CAMILO PRADA ALVARADO",
+            "FIRMA ELLECTRONICA": "JOSÉ CAMILO PRADA ALVARADO - 1773686313"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1773686313",
+            "NOMBRES": "JOSÉ CAMILO PRADA ALVARADO",
+            "FIRMA ELLECTRONICA": "JOSÉ CAMILO PRADA ALVARADO - 1773686313",
+            "AL PIE DE LA FIRMA": "JOSÉ CAMILO PRADA ALVARADO - 1773686313"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ CAMILO PRADA ALVARADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1773686313",
+            "NOMBRES": "JOSÉ CAMILO PRADA ALVARADO",
+            "SALARIO": "3.047.387",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "18/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1773686313",
+            "NOMBRES": "JOSÉ CAMILO PRADA ALVARADO",
+            "RECOMPRA O DESEMBOLSO": "1.333.275"
+        }
+    }
+]

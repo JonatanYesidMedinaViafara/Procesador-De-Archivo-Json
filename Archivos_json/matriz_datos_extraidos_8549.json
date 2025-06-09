@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "154200050447",
+            "SOLICITUD": "1774976",
+            "CEDULA": "1912545102",
+            "NOMBRES": "MARÍA LEIDY OCHOA",
+            "RECOMPRA O DESEMBOLSO": "2.305.214",
+            "FIRMA ELLECTRONICA": "MARÍA LEIDY OCHOA - 1912545102"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "154200050447",
+            "NOMBRES": "MARÍA LEIDY OCHOA",
+            "CREDITO": "12.887.294",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "179.546",
+            "FIRMA ELLECTRONICA": "MARÍA LEIDY OCHOA - 1912545102",
+            "AL PIE DE LA FIRMA": "MARÍA LEIDY OCHOA - 1912545102"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1912545102",
+            "NOMBRES": "MARÍA LEIDY OCHOA",
+            "FECHA NACIMIENTO": "14/06/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.887.294",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA LEIDY OCHOA - 1912545102",
+            "AL PIE DE LA FIRMA": "MARÍA LEIDY OCHOA - 1912545102"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1774976",
+            "CEDULA": "1912545102",
+            "NOMBRES": "MARÍA LEIDY OCHOA",
+            "CREDITO": "12.887.294",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "179.546",
+            "E.A": "28.77%",
+            "RECOMPRA O DESEMBOLSO": "2.305.214",
+            "FIRMA ELLECTRONICA": "MARÍA LEIDY OCHOA - 1912545102"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1912545102",
+            "NOMBRES": "MARÍA LEIDY OCHOA",
+            "FIRMA ELLECTRONICA": "MARÍA LEIDY OCHOA - 1912545102"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1912545102",
+            "NOMBRES": "MARÍA LEIDY OCHOA",
+            "FIRMA ELLECTRONICA": "MARÍA LEIDY OCHOA - 1912545102",
+            "AL PIE DE LA FIRMA": "MARÍA LEIDY OCHOA - 1912545102"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LEIDY OCHOA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1912545102",
+            "NOMBRES": "MARÍA LEIDY OCHOA",
+            "SALARIO": "3.335.416",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1912545102",
+            "NOMBRES": "MARÍA LEIDY OCHOA",
+            "RECOMPRA O DESEMBOLSO": "2.305.214"
+        }
+    }
+]

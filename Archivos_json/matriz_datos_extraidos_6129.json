@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "933414845017",
+            "SOLICITUD": "8026882",
+            "CEDULA": "1910378851",
+            "NOMBRES": "CLAUDIA HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.216.065",
+            "FIRMA ELLECTRONICA": "CLAUDIA HURTADO - 1910378851"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "933414845017",
+            "NOMBRES": "CLAUDIA HURTADO",
+            "CREDITO": "8.393.952",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "380.523",
+            "FIRMA ELLECTRONICA": "CLAUDIA HURTADO - 1910378851",
+            "AL PIE DE LA FIRMA": "CLAUDIA HURTADO - 1910378851"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1910378851",
+            "NOMBRES": "CLAUDIA HURTADO",
+            "FECHA NACIMIENTO": "01/10/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.393.952",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CLAUDIA HURTADO - 1910378851",
+            "AL PIE DE LA FIRMA": "CLAUDIA HURTADO - 1910378851"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8026882",
+            "CEDULA": "1910378851",
+            "NOMBRES": "CLAUDIA HURTADO",
+            "CREDITO": "8.393.952",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "380.523",
+            "E.A": "19.55%",
+            "RECOMPRA O DESEMBOLSO": "3.216.065",
+            "FIRMA ELLECTRONICA": "CLAUDIA HURTADO - 1910378851"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1910378851",
+            "NOMBRES": "CLAUDIA HURTADO",
+            "FIRMA ELLECTRONICA": "CLAUDIA HURTADO - 1910378851"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1910378851",
+            "NOMBRES": "CLAUDIA HURTADO",
+            "FIRMA ELLECTRONICA": "CLAUDIA HURTADO - 1910378851",
+            "AL PIE DE LA FIRMA": "CLAUDIA HURTADO - 1910378851"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLAUDIA HURTADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1910378851",
+            "NOMBRES": "CLAUDIA HURTADO",
+            "SALARIO": "2.739.733",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "30/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1910378851",
+            "NOMBRES": "CLAUDIA HURTADO",
+            "RECOMPRA O DESEMBOLSO": "3.216.065"
+        }
+    }
+]

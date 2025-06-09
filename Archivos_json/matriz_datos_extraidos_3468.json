@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "686362060798",
+            "SOLICITUD": "2159215",
+            "CEDULA": "1475482322",
+            "NOMBRES": "ELENA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.625.709",
+            "FIRMA ELLECTRONICA": "ELENA VARGAS - 1475482322"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "686362060798",
+            "NOMBRES": "ELENA VARGAS",
+            "CREDITO": "18.900.463",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "206.343",
+            "FIRMA ELLECTRONICA": "ELENA VARGAS - 1475482322",
+            "AL PIE DE LA FIRMA": "ELENA VARGAS - 1475482322"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1475482322",
+            "NOMBRES": "ELENA VARGAS",
+            "FECHA NACIMIENTO": "24/06/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.900.463",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ELENA VARGAS - 1475482322",
+            "AL PIE DE LA FIRMA": "ELENA VARGAS - 1475482322"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2159215",
+            "CEDULA": "1475482322",
+            "NOMBRES": "ELENA VARGAS",
+            "CREDITO": "18.900.463",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "206.343",
+            "E.A": "19.04%",
+            "RECOMPRA O DESEMBOLSO": "4.625.709",
+            "FIRMA ELLECTRONICA": "ELENA VARGAS - 1475482322"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1475482322",
+            "NOMBRES": "ELENA VARGAS",
+            "FIRMA ELLECTRONICA": "ELENA VARGAS - 1475482322"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1475482322",
+            "NOMBRES": "ELENA VARGAS",
+            "FIRMA ELLECTRONICA": "ELENA VARGAS - 1475482322",
+            "AL PIE DE LA FIRMA": "ELENA VARGAS - 1475482322"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELENA VARGAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1475482322",
+            "NOMBRES": "ELENA VARGAS",
+            "SALARIO": "3.132.051",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "04/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1475482322",
+            "NOMBRES": "ELENA VARGAS",
+            "RECOMPRA O DESEMBOLSO": "4.625.709"
+        }
+    }
+]

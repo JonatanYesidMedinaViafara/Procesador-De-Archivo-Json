@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "176793468705",
+            "SOLICITUD": "6818366",
+            "CEDULA": "1933703433",
+            "NOMBRES": "SANDRA GUTIÉRREZ VELASCO",
+            "RECOMPRA O DESEMBOLSO": "2.483.108",
+            "FIRMA ELLECTRONICA": "SANDRA GUTIÉRREZ VELASCO - 1933703433"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "176793468705",
+            "NOMBRES": "SANDRA GUTIÉRREZ VELASCO",
+            "CREDITO": "10.162.966",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "176.336",
+            "FIRMA ELLECTRONICA": "SANDRA GUTIÉRREZ VELASCO - 1933703433",
+            "AL PIE DE LA FIRMA": "SANDRA GUTIÉRREZ VELASCO - 1933703433"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1933703433",
+            "NOMBRES": "SANDRA GUTIÉRREZ VELASCO",
+            "FECHA NACIMIENTO": "04/01/1976"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.162.966",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SANDRA GUTIÉRREZ VELASCO - 1933703433",
+            "AL PIE DE LA FIRMA": "SANDRA GUTIÉRREZ VELASCO - 1933703433"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6818366",
+            "CEDULA": "1933703433",
+            "NOMBRES": "SANDRA GUTIÉRREZ VELASCO",
+            "CREDITO": "10.162.966",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "176.336",
+            "E.A": "28.08%",
+            "RECOMPRA O DESEMBOLSO": "2.483.108",
+            "FIRMA ELLECTRONICA": "SANDRA GUTIÉRREZ VELASCO - 1933703433"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1933703433",
+            "NOMBRES": "SANDRA GUTIÉRREZ VELASCO",
+            "FIRMA ELLECTRONICA": "SANDRA GUTIÉRREZ VELASCO - 1933703433"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1933703433",
+            "NOMBRES": "SANDRA GUTIÉRREZ VELASCO",
+            "FIRMA ELLECTRONICA": "SANDRA GUTIÉRREZ VELASCO - 1933703433",
+            "AL PIE DE LA FIRMA": "SANDRA GUTIÉRREZ VELASCO - 1933703433"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANDRA GUTIÉRREZ VELASCO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1933703433",
+            "NOMBRES": "SANDRA GUTIÉRREZ VELASCO",
+            "SALARIO": "2.043.724",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "31/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1933703433",
+            "NOMBRES": "SANDRA GUTIÉRREZ VELASCO",
+            "RECOMPRA O DESEMBOLSO": "2.483.108"
+        }
+    }
+]

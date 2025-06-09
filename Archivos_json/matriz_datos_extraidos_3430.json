@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "163002652577",
+            "SOLICITUD": "4082650",
+            "CEDULA": "1290313285",
+            "NOMBRES": "LUIS CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.411.148",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO - 1290313285"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "163002652577",
+            "NOMBRES": "LUIS CASTRO",
+            "CREDITO": "10.218.984",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "260.879",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO - 1290313285",
+            "AL PIE DE LA FIRMA": "LUIS CASTRO - 1290313285"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1290313285",
+            "NOMBRES": "LUIS CASTRO",
+            "FECHA NACIMIENTO": "26/06/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.218.984",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO - 1290313285",
+            "AL PIE DE LA FIRMA": "LUIS CASTRO - 1290313285"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4082650",
+            "CEDULA": "1290313285",
+            "NOMBRES": "LUIS CASTRO",
+            "CREDITO": "10.218.984",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "260.879",
+            "E.A": "22.78%",
+            "RECOMPRA O DESEMBOLSO": "4.411.148",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO - 1290313285"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1290313285",
+            "NOMBRES": "LUIS CASTRO",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO - 1290313285"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1290313285",
+            "NOMBRES": "LUIS CASTRO",
+            "FIRMA ELLECTRONICA": "LUIS CASTRO - 1290313285",
+            "AL PIE DE LA FIRMA": "LUIS CASTRO - 1290313285"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1290313285",
+            "NOMBRES": "LUIS CASTRO",
+            "SALARIO": "1.822.168",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1290313285",
+            "NOMBRES": "LUIS CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.411.148"
+        }
+    }
+]

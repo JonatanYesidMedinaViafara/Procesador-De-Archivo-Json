@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "394631040748",
+            "SOLICITUD": "7522763",
+            "CEDULA": "1475007930",
+            "NOMBRES": "ALBERTO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.806.518",
+            "FIRMA ELLECTRONICA": "ALBERTO GARCÍA - 1475007930"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "394631040748",
+            "NOMBRES": "ALBERTO GARCÍA",
+            "CREDITO": "11.541.455",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "136.953",
+            "FIRMA ELLECTRONICA": "ALBERTO GARCÍA - 1475007930",
+            "AL PIE DE LA FIRMA": "ALBERTO GARCÍA - 1475007930"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1475007930",
+            "NOMBRES": "ALBERTO GARCÍA",
+            "FECHA NACIMIENTO": "29/11/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.541.455",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALBERTO GARCÍA - 1475007930",
+            "AL PIE DE LA FIRMA": "ALBERTO GARCÍA - 1475007930"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7522763",
+            "CEDULA": "1475007930",
+            "NOMBRES": "ALBERTO GARCÍA",
+            "CREDITO": "11.541.455",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "136.953",
+            "E.A": "28.79%",
+            "RECOMPRA O DESEMBOLSO": "1.806.518",
+            "FIRMA ELLECTRONICA": "ALBERTO GARCÍA - 1475007930"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1475007930",
+            "NOMBRES": "ALBERTO GARCÍA",
+            "FIRMA ELLECTRONICA": "ALBERTO GARCÍA - 1475007930"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1475007930",
+            "NOMBRES": "ALBERTO GARCÍA",
+            "FIRMA ELLECTRONICA": "ALBERTO GARCÍA - 1475007930",
+            "AL PIE DE LA FIRMA": "ALBERTO GARCÍA - 1475007930"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1475007930",
+            "NOMBRES": "ALBERTO GARCÍA",
+            "SALARIO": "1.312.162",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "10/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1475007930",
+            "NOMBRES": "ALBERTO GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "1.806.518"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "582453160386",
+            "SOLICITUD": "5969262",
+            "CEDULA": "1997972931",
+            "NOMBRES": "SANTIAGO MORALES",
+            "RECOMPRA O DESEMBOLSO": "4.538.728",
+            "FIRMA ELLECTRONICA": "SANTIAGO MORALES - 1997972931"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "582453160386",
+            "NOMBRES": "SANTIAGO MORALES",
+            "CREDITO": "12.501.027",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "102.134",
+            "FIRMA ELLECTRONICA": "SANTIAGO MORALES - 1997972931",
+            "AL PIE DE LA FIRMA": "SANTIAGO MORALES - 1997972931"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1997972931",
+            "NOMBRES": "SANTIAGO MORALES",
+            "FECHA NACIMIENTO": "27/07/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.501.027",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "SANTIAGO MORALES - 1997972931",
+            "AL PIE DE LA FIRMA": "SANTIAGO MORALES - 1997972931"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5969262",
+            "CEDULA": "1997972931",
+            "NOMBRES": "SANTIAGO MORALES",
+            "CREDITO": "12.501.027",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "102.134",
+            "E.A": "21.73%",
+            "RECOMPRA O DESEMBOLSO": "4.538.728",
+            "FIRMA ELLECTRONICA": "SANTIAGO MORALES - 1997972931"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1997972931",
+            "NOMBRES": "SANTIAGO MORALES",
+            "FIRMA ELLECTRONICA": "SANTIAGO MORALES - 1997972931"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1997972931",
+            "NOMBRES": "SANTIAGO MORALES",
+            "FIRMA ELLECTRONICA": "SANTIAGO MORALES - 1997972931",
+            "AL PIE DE LA FIRMA": "SANTIAGO MORALES - 1997972931"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SANTIAGO MORALES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1997972931",
+            "NOMBRES": "SANTIAGO MORALES",
+            "SALARIO": "2.263.952",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1997972931",
+            "NOMBRES": "SANTIAGO MORALES",
+            "RECOMPRA O DESEMBOLSO": "4.538.728"
+        }
+    }
+]

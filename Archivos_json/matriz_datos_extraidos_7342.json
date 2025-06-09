@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "103491417724",
+            "SOLICITUD": "1449880",
+            "CEDULA": "1846477568",
+            "NOMBRES": "ANDRÉS JULIO CARDONA ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "1.223.548",
+            "FIRMA ELLECTRONICA": "ANDRÉS JULIO CARDONA ORTEGA - 1846477568"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "103491417724",
+            "NOMBRES": "ANDRÉS JULIO CARDONA ORTEGA",
+            "CREDITO": "10.997.968",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "355.717",
+            "FIRMA ELLECTRONICA": "ANDRÉS JULIO CARDONA ORTEGA - 1846477568",
+            "AL PIE DE LA FIRMA": "ANDRÉS JULIO CARDONA ORTEGA - 1846477568"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1846477568",
+            "NOMBRES": "ANDRÉS JULIO CARDONA ORTEGA",
+            "FECHA NACIMIENTO": "30/07/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.997.968",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANDRÉS JULIO CARDONA ORTEGA - 1846477568",
+            "AL PIE DE LA FIRMA": "ANDRÉS JULIO CARDONA ORTEGA - 1846477568"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1449880",
+            "CEDULA": "1846477568",
+            "NOMBRES": "ANDRÉS JULIO CARDONA ORTEGA",
+            "CREDITO": "10.997.968",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "355.717",
+            "E.A": "25.87%",
+            "RECOMPRA O DESEMBOLSO": "1.223.548",
+            "FIRMA ELLECTRONICA": "ANDRÉS JULIO CARDONA ORTEGA - 1846477568"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1846477568",
+            "NOMBRES": "ANDRÉS JULIO CARDONA ORTEGA",
+            "FIRMA ELLECTRONICA": "ANDRÉS JULIO CARDONA ORTEGA - 1846477568"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1846477568",
+            "NOMBRES": "ANDRÉS JULIO CARDONA ORTEGA",
+            "FIRMA ELLECTRONICA": "ANDRÉS JULIO CARDONA ORTEGA - 1846477568",
+            "AL PIE DE LA FIRMA": "ANDRÉS JULIO CARDONA ORTEGA - 1846477568"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS JULIO CARDONA ORTEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1846477568",
+            "NOMBRES": "ANDRÉS JULIO CARDONA ORTEGA",
+            "SALARIO": "4.290.658",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1846477568",
+            "NOMBRES": "ANDRÉS JULIO CARDONA ORTEGA",
+            "RECOMPRA O DESEMBOLSO": "1.223.548"
+        }
+    }
+]

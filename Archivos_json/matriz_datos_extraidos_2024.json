@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "335521889001",
+            "SOLICITUD": "4002106",
+            "CEDULA": "1972651099",
+            "NOMBRES": "DAVID ADRIÁN BONILLA",
+            "RECOMPRA O DESEMBOLSO": "4.734.476",
+            "FIRMA ELLECTRONICA": "DAVID ADRIÁN BONILLA - 1972651099"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "335521889001",
+            "NOMBRES": "DAVID ADRIÁN BONILLA",
+            "CREDITO": "14.030.187",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "299.47",
+            "FIRMA ELLECTRONICA": "DAVID ADRIÁN BONILLA - 1972651099",
+            "AL PIE DE LA FIRMA": "DAVID ADRIÁN BONILLA - 1972651099"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1972651099",
+            "NOMBRES": "DAVID ADRIÁN BONILLA",
+            "FECHA NACIMIENTO": "18/07/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.030.187",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "DAVID ADRIÁN BONILLA - 1972651099",
+            "AL PIE DE LA FIRMA": "DAVID ADRIÁN BONILLA - 1972651099"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4002106",
+            "CEDULA": "1972651099",
+            "NOMBRES": "DAVID ADRIÁN BONILLA",
+            "CREDITO": "14.030.187",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "299.47",
+            "E.A": "27.83%",
+            "RECOMPRA O DESEMBOLSO": "4.734.476",
+            "FIRMA ELLECTRONICA": "DAVID ADRIÁN BONILLA - 1972651099"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1972651099",
+            "NOMBRES": "DAVID ADRIÁN BONILLA",
+            "FIRMA ELLECTRONICA": "DAVID ADRIÁN BONILLA - 1972651099"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1972651099",
+            "NOMBRES": "DAVID ADRIÁN BONILLA",
+            "FIRMA ELLECTRONICA": "DAVID ADRIÁN BONILLA - 1972651099",
+            "AL PIE DE LA FIRMA": "DAVID ADRIÁN BONILLA - 1972651099"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID ADRIÁN BONILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1972651099",
+            "NOMBRES": "DAVID ADRIÁN BONILLA",
+            "SALARIO": "4.073.385",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "29/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1972651099",
+            "NOMBRES": "DAVID ADRIÁN BONILLA",
+            "RECOMPRA O DESEMBOLSO": "4.734.476"
+        }
+    }
+]

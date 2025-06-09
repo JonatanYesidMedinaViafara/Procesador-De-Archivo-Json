@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "319216527608",
+            "SOLICITUD": "9800365",
+            "CEDULA": "1234779401",
+            "NOMBRES": "MARÍA OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.987.281",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO - 1234779401"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "319216527608",
+            "NOMBRES": "MARÍA OSORIO",
+            "CREDITO": "9.596.168",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "319.943",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO - 1234779401",
+            "AL PIE DE LA FIRMA": "MARÍA OSORIO - 1234779401"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1234779401",
+            "NOMBRES": "MARÍA OSORIO",
+            "FECHA NACIMIENTO": "30/12/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.596.168",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO - 1234779401",
+            "AL PIE DE LA FIRMA": "MARÍA OSORIO - 1234779401"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9800365",
+            "CEDULA": "1234779401",
+            "NOMBRES": "MARÍA OSORIO",
+            "CREDITO": "9.596.168",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "144",
+            "VL.CUOTA": "319.943",
+            "E.A": "20.03%",
+            "RECOMPRA O DESEMBOLSO": "2.987.281",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO - 1234779401"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1234779401",
+            "NOMBRES": "MARÍA OSORIO",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO - 1234779401"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1234779401",
+            "NOMBRES": "MARÍA OSORIO",
+            "FIRMA ELLECTRONICA": "MARÍA OSORIO - 1234779401",
+            "AL PIE DE LA FIRMA": "MARÍA OSORIO - 1234779401"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1234779401",
+            "NOMBRES": "MARÍA OSORIO",
+            "SALARIO": "1.585.548",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "26/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1234779401",
+            "NOMBRES": "MARÍA OSORIO",
+            "RECOMPRA O DESEMBOLSO": "2.987.281"
+        }
+    }
+]

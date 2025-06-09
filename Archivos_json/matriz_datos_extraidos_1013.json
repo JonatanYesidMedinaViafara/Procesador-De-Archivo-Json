@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "234511597721",
+            "SOLICITUD": "9799960",
+            "CEDULA": "1672931010",
+            "NOMBRES": "CAROLINA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "1.795.188",
+            "FIRMA ELLECTRONICA": "CAROLINA ROJAS - 1672931010"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "234511597721",
+            "NOMBRES": "CAROLINA ROJAS",
+            "CREDITO": "7.296.671",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "132.261",
+            "FIRMA ELLECTRONICA": "CAROLINA ROJAS - 1672931010",
+            "AL PIE DE LA FIRMA": "CAROLINA ROJAS - 1672931010"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1672931010",
+            "NOMBRES": "CAROLINA ROJAS",
+            "FECHA NACIMIENTO": "26/11/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.296.671",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CAROLINA ROJAS - 1672931010",
+            "AL PIE DE LA FIRMA": "CAROLINA ROJAS - 1672931010"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9799960",
+            "CEDULA": "1672931010",
+            "NOMBRES": "CAROLINA ROJAS",
+            "CREDITO": "7.296.671",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "132.261",
+            "E.A": "24.67%",
+            "RECOMPRA O DESEMBOLSO": "1.795.188",
+            "FIRMA ELLECTRONICA": "CAROLINA ROJAS - 1672931010"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1672931010",
+            "NOMBRES": "CAROLINA ROJAS",
+            "FIRMA ELLECTRONICA": "CAROLINA ROJAS - 1672931010"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1672931010",
+            "NOMBRES": "CAROLINA ROJAS",
+            "FIRMA ELLECTRONICA": "CAROLINA ROJAS - 1672931010",
+            "AL PIE DE LA FIRMA": "CAROLINA ROJAS - 1672931010"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAROLINA ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1672931010",
+            "NOMBRES": "CAROLINA ROJAS",
+            "SALARIO": "4.778.990",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1672931010",
+            "NOMBRES": "CAROLINA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "1.795.188"
+        }
+    }
+]

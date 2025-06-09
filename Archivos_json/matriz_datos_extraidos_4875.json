@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "240634336226",
+            "SOLICITUD": "6620918",
+            "CEDULA": "1010340327",
+            "NOMBRES": "ANTONIO MORENO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.129.625",
+            "FIRMA ELLECTRONICA": "ANTONIO MORENO DÍAZ - 1010340327"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "240634336226",
+            "NOMBRES": "ANTONIO MORENO DÍAZ",
+            "CREDITO": "18.059.913",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "262.028",
+            "FIRMA ELLECTRONICA": "ANTONIO MORENO DÍAZ - 1010340327",
+            "AL PIE DE LA FIRMA": "ANTONIO MORENO DÍAZ - 1010340327"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1010340327",
+            "NOMBRES": "ANTONIO MORENO DÍAZ",
+            "FECHA NACIMIENTO": "09/06/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.059.913",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANTONIO MORENO DÍAZ - 1010340327",
+            "AL PIE DE LA FIRMA": "ANTONIO MORENO DÍAZ - 1010340327"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6620918",
+            "CEDULA": "1010340327",
+            "NOMBRES": "ANTONIO MORENO DÍAZ",
+            "CREDITO": "18.059.913",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "262.028",
+            "E.A": "27.96%",
+            "RECOMPRA O DESEMBOLSO": "4.129.625",
+            "FIRMA ELLECTRONICA": "ANTONIO MORENO DÍAZ - 1010340327"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1010340327",
+            "NOMBRES": "ANTONIO MORENO DÍAZ",
+            "FIRMA ELLECTRONICA": "ANTONIO MORENO DÍAZ - 1010340327"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1010340327",
+            "NOMBRES": "ANTONIO MORENO DÍAZ",
+            "FIRMA ELLECTRONICA": "ANTONIO MORENO DÍAZ - 1010340327",
+            "AL PIE DE LA FIRMA": "ANTONIO MORENO DÍAZ - 1010340327"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO MORENO DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1010340327",
+            "NOMBRES": "ANTONIO MORENO DÍAZ",
+            "SALARIO": "3.733.199",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1010340327",
+            "NOMBRES": "ANTONIO MORENO DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "4.129.625"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "590232829706",
+            "SOLICITUD": "3034410",
+            "CEDULA": "1992950421",
+            "NOMBRES": "CAMILO TOMÁS CARO ROSERO",
+            "RECOMPRA O DESEMBOLSO": "3.848.057",
+            "FIRMA ELLECTRONICA": "CAMILO TOMÁS CARO ROSERO - 1992950421"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "590232829706",
+            "NOMBRES": "CAMILO TOMÁS CARO ROSERO",
+            "CREDITO": "8.804.032",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.751",
+            "FIRMA ELLECTRONICA": "CAMILO TOMÁS CARO ROSERO - 1992950421",
+            "AL PIE DE LA FIRMA": "CAMILO TOMÁS CARO ROSERO - 1992950421"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1992950421",
+            "NOMBRES": "CAMILO TOMÁS CARO ROSERO",
+            "FECHA NACIMIENTO": "22/06/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.804.032",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CAMILO TOMÁS CARO ROSERO - 1992950421",
+            "AL PIE DE LA FIRMA": "CAMILO TOMÁS CARO ROSERO - 1992950421"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3034410",
+            "CEDULA": "1992950421",
+            "NOMBRES": "CAMILO TOMÁS CARO ROSERO",
+            "CREDITO": "8.804.032",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "109.751",
+            "E.A": "18.81%",
+            "RECOMPRA O DESEMBOLSO": "3.848.057",
+            "FIRMA ELLECTRONICA": "CAMILO TOMÁS CARO ROSERO - 1992950421"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1992950421",
+            "NOMBRES": "CAMILO TOMÁS CARO ROSERO",
+            "FIRMA ELLECTRONICA": "CAMILO TOMÁS CARO ROSERO - 1992950421"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1992950421",
+            "NOMBRES": "CAMILO TOMÁS CARO ROSERO",
+            "FIRMA ELLECTRONICA": "CAMILO TOMÁS CARO ROSERO - 1992950421",
+            "AL PIE DE LA FIRMA": "CAMILO TOMÁS CARO ROSERO - 1992950421"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CAMILO TOMÁS CARO ROSERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1992950421",
+            "NOMBRES": "CAMILO TOMÁS CARO ROSERO",
+            "SALARIO": "4.919.536",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "01/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1992950421",
+            "NOMBRES": "CAMILO TOMÁS CARO ROSERO",
+            "RECOMPRA O DESEMBOLSO": "3.848.057"
+        }
+    }
+]

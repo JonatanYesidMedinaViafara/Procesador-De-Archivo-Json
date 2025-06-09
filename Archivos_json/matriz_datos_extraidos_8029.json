@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "526813855293",
+            "SOLICITUD": "4201484",
+            "CEDULA": "1451243389",
+            "NOMBRES": "ESPERANZA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.568.201",
+            "FIRMA ELLECTRONICA": "ESPERANZA LÓPEZ - 1451243389"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "526813855293",
+            "NOMBRES": "ESPERANZA LÓPEZ",
+            "CREDITO": "13.552.390",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "176.652",
+            "FIRMA ELLECTRONICA": "ESPERANZA LÓPEZ - 1451243389",
+            "AL PIE DE LA FIRMA": "ESPERANZA LÓPEZ - 1451243389"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1451243389",
+            "NOMBRES": "ESPERANZA LÓPEZ",
+            "FECHA NACIMIENTO": "20/05/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.552.390",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ESPERANZA LÓPEZ - 1451243389",
+            "AL PIE DE LA FIRMA": "ESPERANZA LÓPEZ - 1451243389"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4201484",
+            "CEDULA": "1451243389",
+            "NOMBRES": "ESPERANZA LÓPEZ",
+            "CREDITO": "13.552.390",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "176.652",
+            "E.A": "22.73%",
+            "RECOMPRA O DESEMBOLSO": "1.568.201",
+            "FIRMA ELLECTRONICA": "ESPERANZA LÓPEZ - 1451243389"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1451243389",
+            "NOMBRES": "ESPERANZA LÓPEZ",
+            "FIRMA ELLECTRONICA": "ESPERANZA LÓPEZ - 1451243389"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1451243389",
+            "NOMBRES": "ESPERANZA LÓPEZ",
+            "FIRMA ELLECTRONICA": "ESPERANZA LÓPEZ - 1451243389",
+            "AL PIE DE LA FIRMA": "ESPERANZA LÓPEZ - 1451243389"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESPERANZA LÓPEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1451243389",
+            "NOMBRES": "ESPERANZA LÓPEZ",
+            "SALARIO": "1.452.830",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1451243389",
+            "NOMBRES": "ESPERANZA LÓPEZ",
+            "RECOMPRA O DESEMBOLSO": "1.568.201"
+        }
+    }
+]

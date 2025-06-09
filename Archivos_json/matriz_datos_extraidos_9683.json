@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "574778345155",
+            "SOLICITUD": "3563403",
+            "CEDULA": "1527640012",
+            "NOMBRES": "LAURA CÓRDOBA GAMBOA",
+            "RECOMPRA O DESEMBOLSO": "2.608.849",
+            "FIRMA ELLECTRONICA": "LAURA CÓRDOBA GAMBOA - 1527640012"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "574778345155",
+            "NOMBRES": "LAURA CÓRDOBA GAMBOA",
+            "CREDITO": "14.830.007",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "344.001",
+            "FIRMA ELLECTRONICA": "LAURA CÓRDOBA GAMBOA - 1527640012",
+            "AL PIE DE LA FIRMA": "LAURA CÓRDOBA GAMBOA - 1527640012"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1527640012",
+            "NOMBRES": "LAURA CÓRDOBA GAMBOA",
+            "FECHA NACIMIENTO": "30/12/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.830.007",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LAURA CÓRDOBA GAMBOA - 1527640012",
+            "AL PIE DE LA FIRMA": "LAURA CÓRDOBA GAMBOA - 1527640012"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3563403",
+            "CEDULA": "1527640012",
+            "NOMBRES": "LAURA CÓRDOBA GAMBOA",
+            "CREDITO": "14.830.007",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "344.001",
+            "E.A": "25.23%",
+            "RECOMPRA O DESEMBOLSO": "2.608.849",
+            "FIRMA ELLECTRONICA": "LAURA CÓRDOBA GAMBOA - 1527640012"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1527640012",
+            "NOMBRES": "LAURA CÓRDOBA GAMBOA",
+            "FIRMA ELLECTRONICA": "LAURA CÓRDOBA GAMBOA - 1527640012"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1527640012",
+            "NOMBRES": "LAURA CÓRDOBA GAMBOA",
+            "FIRMA ELLECTRONICA": "LAURA CÓRDOBA GAMBOA - 1527640012",
+            "AL PIE DE LA FIRMA": "LAURA CÓRDOBA GAMBOA - 1527640012"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LAURA CÓRDOBA GAMBOA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1527640012",
+            "NOMBRES": "LAURA CÓRDOBA GAMBOA",
+            "SALARIO": "1.462.977",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1527640012",
+            "NOMBRES": "LAURA CÓRDOBA GAMBOA",
+            "RECOMPRA O DESEMBOLSO": "2.608.849"
+        }
+    }
+]

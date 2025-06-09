@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "779564853730",
+            "SOLICITUD": "1862504",
+            "CEDULA": "1246409374",
+            "NOMBRES": "CATALINA PALACIOS",
+            "RECOMPRA O DESEMBOLSO": "2.178.499",
+            "FIRMA ELLECTRONICA": "CATALINA PALACIOS - 1246409374"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "779564853730",
+            "NOMBRES": "CATALINA PALACIOS",
+            "CREDITO": "13.239.162",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "270.474",
+            "FIRMA ELLECTRONICA": "CATALINA PALACIOS - 1246409374",
+            "AL PIE DE LA FIRMA": "CATALINA PALACIOS - 1246409374"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1246409374",
+            "NOMBRES": "CATALINA PALACIOS",
+            "FECHA NACIMIENTO": "12/03/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.239.162",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CATALINA PALACIOS - 1246409374",
+            "AL PIE DE LA FIRMA": "CATALINA PALACIOS - 1246409374"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1862504",
+            "CEDULA": "1246409374",
+            "NOMBRES": "CATALINA PALACIOS",
+            "CREDITO": "13.239.162",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "270.474",
+            "E.A": "25.04%",
+            "RECOMPRA O DESEMBOLSO": "2.178.499",
+            "FIRMA ELLECTRONICA": "CATALINA PALACIOS - 1246409374"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1246409374",
+            "NOMBRES": "CATALINA PALACIOS",
+            "FIRMA ELLECTRONICA": "CATALINA PALACIOS - 1246409374"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1246409374",
+            "NOMBRES": "CATALINA PALACIOS",
+            "FIRMA ELLECTRONICA": "CATALINA PALACIOS - 1246409374",
+            "AL PIE DE LA FIRMA": "CATALINA PALACIOS - 1246409374"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CATALINA PALACIOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1246409374",
+            "NOMBRES": "CATALINA PALACIOS",
+            "SALARIO": "4.660.373",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "18/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1246409374",
+            "NOMBRES": "CATALINA PALACIOS",
+            "RECOMPRA O DESEMBOLSO": "2.178.499"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "526882499626",
+            "SOLICITUD": "7501017",
+            "CEDULA": "1764231961",
+            "NOMBRES": "JAIR SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.737.530",
+            "FIRMA ELLECTRONICA": "JAIR SÁNCHEZ - 1764231961"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "526882499626",
+            "NOMBRES": "JAIR SÁNCHEZ",
+            "CREDITO": "16.342.286",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "170.848",
+            "FIRMA ELLECTRONICA": "JAIR SÁNCHEZ - 1764231961",
+            "AL PIE DE LA FIRMA": "JAIR SÁNCHEZ - 1764231961"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1764231961",
+            "NOMBRES": "JAIR SÁNCHEZ",
+            "FECHA NACIMIENTO": "19/05/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.342.286",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAIR SÁNCHEZ - 1764231961",
+            "AL PIE DE LA FIRMA": "JAIR SÁNCHEZ - 1764231961"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7501017",
+            "CEDULA": "1764231961",
+            "NOMBRES": "JAIR SÁNCHEZ",
+            "CREDITO": "16.342.286",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "170.848",
+            "E.A": "18.02%",
+            "RECOMPRA O DESEMBOLSO": "1.737.530",
+            "FIRMA ELLECTRONICA": "JAIR SÁNCHEZ - 1764231961"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1764231961",
+            "NOMBRES": "JAIR SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JAIR SÁNCHEZ - 1764231961"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1764231961",
+            "NOMBRES": "JAIR SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "JAIR SÁNCHEZ - 1764231961",
+            "AL PIE DE LA FIRMA": "JAIR SÁNCHEZ - 1764231961"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIR SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1764231961",
+            "NOMBRES": "JAIR SÁNCHEZ",
+            "SALARIO": "2.285.099",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1764231961",
+            "NOMBRES": "JAIR SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "1.737.530"
+        }
+    }
+]

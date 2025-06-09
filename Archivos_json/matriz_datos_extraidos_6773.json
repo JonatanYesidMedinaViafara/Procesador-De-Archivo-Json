@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "581782511361",
+            "SOLICITUD": "5233420",
+            "CEDULA": "1684664498",
+            "NOMBRES": "MARÍA ELENA CORREA",
+            "RECOMPRA O DESEMBOLSO": "2.898.548",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA CORREA - 1684664498"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "581782511361",
+            "NOMBRES": "MARÍA ELENA CORREA",
+            "CREDITO": "7.819.065",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "206.615",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA CORREA - 1684664498",
+            "AL PIE DE LA FIRMA": "MARÍA ELENA CORREA - 1684664498"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1684664498",
+            "NOMBRES": "MARÍA ELENA CORREA",
+            "FECHA NACIMIENTO": "01/02/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.819.065",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA CORREA - 1684664498",
+            "AL PIE DE LA FIRMA": "MARÍA ELENA CORREA - 1684664498"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5233420",
+            "CEDULA": "1684664498",
+            "NOMBRES": "MARÍA ELENA CORREA",
+            "CREDITO": "7.819.065",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "206.615",
+            "E.A": "25.88%",
+            "RECOMPRA O DESEMBOLSO": "2.898.548",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA CORREA - 1684664498"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1684664498",
+            "NOMBRES": "MARÍA ELENA CORREA",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA CORREA - 1684664498"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1684664498",
+            "NOMBRES": "MARÍA ELENA CORREA",
+            "FIRMA ELLECTRONICA": "MARÍA ELENA CORREA - 1684664498",
+            "AL PIE DE LA FIRMA": "MARÍA ELENA CORREA - 1684664498"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ELENA CORREA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1684664498",
+            "NOMBRES": "MARÍA ELENA CORREA",
+            "SALARIO": "4.869.832",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1684664498",
+            "NOMBRES": "MARÍA ELENA CORREA",
+            "RECOMPRA O DESEMBOLSO": "2.898.548"
+        }
+    }
+]

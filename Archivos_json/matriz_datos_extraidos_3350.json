@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "158516906597",
+            "SOLICITUD": "4578564",
+            "CEDULA": "1253270546",
+            "NOMBRES": "JULIO RIVERA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.494.099",
+            "FIRMA ELLECTRONICA": "JULIO RIVERA GÓMEZ - 1253270546"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "158516906597",
+            "NOMBRES": "JULIO RIVERA GÓMEZ",
+            "CREDITO": "18.527.539",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "135.696",
+            "FIRMA ELLECTRONICA": "JULIO RIVERA GÓMEZ - 1253270546",
+            "AL PIE DE LA FIRMA": "JULIO RIVERA GÓMEZ - 1253270546"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1253270546",
+            "NOMBRES": "JULIO RIVERA GÓMEZ",
+            "FECHA NACIMIENTO": "05/11/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.527.539",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JULIO RIVERA GÓMEZ - 1253270546",
+            "AL PIE DE LA FIRMA": "JULIO RIVERA GÓMEZ - 1253270546"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4578564",
+            "CEDULA": "1253270546",
+            "NOMBRES": "JULIO RIVERA GÓMEZ",
+            "CREDITO": "18.527.539",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "135.696",
+            "E.A": "18.39%",
+            "RECOMPRA O DESEMBOLSO": "3.494.099",
+            "FIRMA ELLECTRONICA": "JULIO RIVERA GÓMEZ - 1253270546"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1253270546",
+            "NOMBRES": "JULIO RIVERA GÓMEZ",
+            "FIRMA ELLECTRONICA": "JULIO RIVERA GÓMEZ - 1253270546"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1253270546",
+            "NOMBRES": "JULIO RIVERA GÓMEZ",
+            "FIRMA ELLECTRONICA": "JULIO RIVERA GÓMEZ - 1253270546",
+            "AL PIE DE LA FIRMA": "JULIO RIVERA GÓMEZ - 1253270546"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JULIO RIVERA GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1253270546",
+            "NOMBRES": "JULIO RIVERA GÓMEZ",
+            "SALARIO": "1.440.002",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1253270546",
+            "NOMBRES": "JULIO RIVERA GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.494.099"
+        }
+    }
+]

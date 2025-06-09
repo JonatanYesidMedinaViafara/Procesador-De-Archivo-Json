@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "761592585602",
+            "SOLICITUD": "7928049",
+            "CEDULA": "1515270551",
+            "NOMBRES": "CARLOS CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "3.465.959",
+            "FIRMA ELLECTRONICA": "CARLOS CEBALLOS - 1515270551"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "761592585602",
+            "NOMBRES": "CARLOS CEBALLOS",
+            "CREDITO": "10.791.894",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "398.973",
+            "FIRMA ELLECTRONICA": "CARLOS CEBALLOS - 1515270551",
+            "AL PIE DE LA FIRMA": "CARLOS CEBALLOS - 1515270551"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1515270551",
+            "NOMBRES": "CARLOS CEBALLOS",
+            "FECHA NACIMIENTO": "27/08/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.791.894",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "CARLOS CEBALLOS - 1515270551",
+            "AL PIE DE LA FIRMA": "CARLOS CEBALLOS - 1515270551"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7928049",
+            "CEDULA": "1515270551",
+            "NOMBRES": "CARLOS CEBALLOS",
+            "CREDITO": "10.791.894",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "398.973",
+            "E.A": "25.6%",
+            "RECOMPRA O DESEMBOLSO": "3.465.959",
+            "FIRMA ELLECTRONICA": "CARLOS CEBALLOS - 1515270551"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1515270551",
+            "NOMBRES": "CARLOS CEBALLOS",
+            "FIRMA ELLECTRONICA": "CARLOS CEBALLOS - 1515270551"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1515270551",
+            "NOMBRES": "CARLOS CEBALLOS",
+            "FIRMA ELLECTRONICA": "CARLOS CEBALLOS - 1515270551",
+            "AL PIE DE LA FIRMA": "CARLOS CEBALLOS - 1515270551"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS CEBALLOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1515270551",
+            "NOMBRES": "CARLOS CEBALLOS",
+            "SALARIO": "2.414.363",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1515270551",
+            "NOMBRES": "CARLOS CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "3.465.959"
+        }
+    }
+]

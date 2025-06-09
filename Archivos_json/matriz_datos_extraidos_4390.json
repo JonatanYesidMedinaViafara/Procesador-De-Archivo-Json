@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "416657699410",
+            "SOLICITUD": "2960871",
+            "CEDULA": "1245452692",
+            "NOMBRES": "ROBERTO SERNA",
+            "RECOMPRA O DESEMBOLSO": "2.214.486",
+            "FIRMA ELLECTRONICA": "ROBERTO SERNA - 1245452692"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "416657699410",
+            "NOMBRES": "ROBERTO SERNA",
+            "CREDITO": "13.075.151",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "142.047",
+            "FIRMA ELLECTRONICA": "ROBERTO SERNA - 1245452692",
+            "AL PIE DE LA FIRMA": "ROBERTO SERNA - 1245452692"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1245452692",
+            "NOMBRES": "ROBERTO SERNA",
+            "FECHA NACIMIENTO": "16/03/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.075.151",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ROBERTO SERNA - 1245452692",
+            "AL PIE DE LA FIRMA": "ROBERTO SERNA - 1245452692"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2960871",
+            "CEDULA": "1245452692",
+            "NOMBRES": "ROBERTO SERNA",
+            "CREDITO": "13.075.151",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "142.047",
+            "E.A": "24.99%",
+            "RECOMPRA O DESEMBOLSO": "2.214.486",
+            "FIRMA ELLECTRONICA": "ROBERTO SERNA - 1245452692"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1245452692",
+            "NOMBRES": "ROBERTO SERNA",
+            "FIRMA ELLECTRONICA": "ROBERTO SERNA - 1245452692"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1245452692",
+            "NOMBRES": "ROBERTO SERNA",
+            "FIRMA ELLECTRONICA": "ROBERTO SERNA - 1245452692",
+            "AL PIE DE LA FIRMA": "ROBERTO SERNA - 1245452692"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROBERTO SERNA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1245452692",
+            "NOMBRES": "ROBERTO SERNA",
+            "SALARIO": "2.482.400",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1245452692",
+            "NOMBRES": "ROBERTO SERNA",
+            "RECOMPRA O DESEMBOLSO": "2.214.486"
+        }
+    }
+]

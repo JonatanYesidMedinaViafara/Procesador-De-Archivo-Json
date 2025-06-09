@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "875017473935",
+            "SOLICITUD": "2565069",
+            "CEDULA": "1161138450",
+            "NOMBRES": "ENRIQUE MARTÍNEZ MARÍN",
+            "RECOMPRA O DESEMBOLSO": "3.521.923",
+            "FIRMA ELLECTRONICA": "ENRIQUE MARTÍNEZ MARÍN - 1161138450"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "875017473935",
+            "NOMBRES": "ENRIQUE MARTÍNEZ MARÍN",
+            "CREDITO": "12.192.312",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "294.866",
+            "FIRMA ELLECTRONICA": "ENRIQUE MARTÍNEZ MARÍN - 1161138450",
+            "AL PIE DE LA FIRMA": "ENRIQUE MARTÍNEZ MARÍN - 1161138450"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1161138450",
+            "NOMBRES": "ENRIQUE MARTÍNEZ MARÍN",
+            "FECHA NACIMIENTO": "30/09/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.192.312",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ENRIQUE MARTÍNEZ MARÍN - 1161138450",
+            "AL PIE DE LA FIRMA": "ENRIQUE MARTÍNEZ MARÍN - 1161138450"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2565069",
+            "CEDULA": "1161138450",
+            "NOMBRES": "ENRIQUE MARTÍNEZ MARÍN",
+            "CREDITO": "12.192.312",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "294.866",
+            "E.A": "22.01%",
+            "RECOMPRA O DESEMBOLSO": "3.521.923",
+            "FIRMA ELLECTRONICA": "ENRIQUE MARTÍNEZ MARÍN - 1161138450"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1161138450",
+            "NOMBRES": "ENRIQUE MARTÍNEZ MARÍN",
+            "FIRMA ELLECTRONICA": "ENRIQUE MARTÍNEZ MARÍN - 1161138450"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1161138450",
+            "NOMBRES": "ENRIQUE MARTÍNEZ MARÍN",
+            "FIRMA ELLECTRONICA": "ENRIQUE MARTÍNEZ MARÍN - 1161138450",
+            "AL PIE DE LA FIRMA": "ENRIQUE MARTÍNEZ MARÍN - 1161138450"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE MARTÍNEZ MARÍN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1161138450",
+            "NOMBRES": "ENRIQUE MARTÍNEZ MARÍN",
+            "SALARIO": "4.652.220",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1161138450",
+            "NOMBRES": "ENRIQUE MARTÍNEZ MARÍN",
+            "RECOMPRA O DESEMBOLSO": "3.521.923"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "164548488625",
+            "SOLICITUD": "5055847",
+            "CEDULA": "1019439456",
+            "NOMBRES": "VERÓNICA PATRICIA CARDONA",
+            "RECOMPRA O DESEMBOLSO": "3.389.580",
+            "FIRMA ELLECTRONICA": "VERÓNICA PATRICIA CARDONA - 1019439456"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "164548488625",
+            "NOMBRES": "VERÓNICA PATRICIA CARDONA",
+            "CREDITO": "18.483.899",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "128.947",
+            "FIRMA ELLECTRONICA": "VERÓNICA PATRICIA CARDONA - 1019439456",
+            "AL PIE DE LA FIRMA": "VERÓNICA PATRICIA CARDONA - 1019439456"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1019439456",
+            "NOMBRES": "VERÓNICA PATRICIA CARDONA",
+            "FECHA NACIMIENTO": "08/11/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.483.899",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "VERÓNICA PATRICIA CARDONA - 1019439456",
+            "AL PIE DE LA FIRMA": "VERÓNICA PATRICIA CARDONA - 1019439456"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5055847",
+            "CEDULA": "1019439456",
+            "NOMBRES": "VERÓNICA PATRICIA CARDONA",
+            "CREDITO": "18.483.899",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "128.947",
+            "E.A": "21.08%",
+            "RECOMPRA O DESEMBOLSO": "3.389.580",
+            "FIRMA ELLECTRONICA": "VERÓNICA PATRICIA CARDONA - 1019439456"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1019439456",
+            "NOMBRES": "VERÓNICA PATRICIA CARDONA",
+            "FIRMA ELLECTRONICA": "VERÓNICA PATRICIA CARDONA - 1019439456"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1019439456",
+            "NOMBRES": "VERÓNICA PATRICIA CARDONA",
+            "FIRMA ELLECTRONICA": "VERÓNICA PATRICIA CARDONA - 1019439456",
+            "AL PIE DE LA FIRMA": "VERÓNICA PATRICIA CARDONA - 1019439456"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VERÓNICA PATRICIA CARDONA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1019439456",
+            "NOMBRES": "VERÓNICA PATRICIA CARDONA",
+            "SALARIO": "2.020.846",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1019439456",
+            "NOMBRES": "VERÓNICA PATRICIA CARDONA",
+            "RECOMPRA O DESEMBOLSO": "3.389.580"
+        }
+    }
+]

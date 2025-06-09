@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "431978582226",
+            "SOLICITUD": "7276440",
+            "CEDULA": "1753181151",
+            "NOMBRES": "MARÍA LUZ GARZÓN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.456.276",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ GARZÓN GÓMEZ - 1753181151"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "431978582226",
+            "NOMBRES": "MARÍA LUZ GARZÓN GÓMEZ",
+            "CREDITO": "8.073.879",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "217.333",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ GARZÓN GÓMEZ - 1753181151",
+            "AL PIE DE LA FIRMA": "MARÍA LUZ GARZÓN GÓMEZ - 1753181151"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1753181151",
+            "NOMBRES": "MARÍA LUZ GARZÓN GÓMEZ",
+            "FECHA NACIMIENTO": "31/01/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.073.879",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ GARZÓN GÓMEZ - 1753181151",
+            "AL PIE DE LA FIRMA": "MARÍA LUZ GARZÓN GÓMEZ - 1753181151"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7276440",
+            "CEDULA": "1753181151",
+            "NOMBRES": "MARÍA LUZ GARZÓN GÓMEZ",
+            "CREDITO": "8.073.879",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "217.333",
+            "E.A": "23.55%",
+            "RECOMPRA O DESEMBOLSO": "3.456.276",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ GARZÓN GÓMEZ - 1753181151"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1753181151",
+            "NOMBRES": "MARÍA LUZ GARZÓN GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ GARZÓN GÓMEZ - 1753181151"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1753181151",
+            "NOMBRES": "MARÍA LUZ GARZÓN GÓMEZ",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ GARZÓN GÓMEZ - 1753181151",
+            "AL PIE DE LA FIRMA": "MARÍA LUZ GARZÓN GÓMEZ - 1753181151"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LUZ GARZÓN GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1753181151",
+            "NOMBRES": "MARÍA LUZ GARZÓN GÓMEZ",
+            "SALARIO": "3.979.781",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1753181151",
+            "NOMBRES": "MARÍA LUZ GARZÓN GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.456.276"
+        }
+    }
+]

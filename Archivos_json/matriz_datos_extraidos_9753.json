@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "846941351322",
+            "SOLICITUD": "1266126",
+            "CEDULA": "1940299726",
+            "NOMBRES": "FRANCISCO ALBERTO GÓMEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.375.303",
+            "FIRMA ELLECTRONICA": "FRANCISCO ALBERTO GÓMEZ PÉREZ - 1940299726"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "846941351322",
+            "NOMBRES": "FRANCISCO ALBERTO GÓMEZ PÉREZ",
+            "CREDITO": "15.949.787",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "137.142",
+            "FIRMA ELLECTRONICA": "FRANCISCO ALBERTO GÓMEZ PÉREZ - 1940299726",
+            "AL PIE DE LA FIRMA": "FRANCISCO ALBERTO GÓMEZ PÉREZ - 1940299726"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1940299726",
+            "NOMBRES": "FRANCISCO ALBERTO GÓMEZ PÉREZ",
+            "FECHA NACIMIENTO": "01/11/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.949.787",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FRANCISCO ALBERTO GÓMEZ PÉREZ - 1940299726",
+            "AL PIE DE LA FIRMA": "FRANCISCO ALBERTO GÓMEZ PÉREZ - 1940299726"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1266126",
+            "CEDULA": "1940299726",
+            "NOMBRES": "FRANCISCO ALBERTO GÓMEZ PÉREZ",
+            "CREDITO": "15.949.787",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "137.142",
+            "E.A": "23.97%",
+            "RECOMPRA O DESEMBOLSO": "3.375.303",
+            "FIRMA ELLECTRONICA": "FRANCISCO ALBERTO GÓMEZ PÉREZ - 1940299726"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1940299726",
+            "NOMBRES": "FRANCISCO ALBERTO GÓMEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "FRANCISCO ALBERTO GÓMEZ PÉREZ - 1940299726"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1940299726",
+            "NOMBRES": "FRANCISCO ALBERTO GÓMEZ PÉREZ",
+            "FIRMA ELLECTRONICA": "FRANCISCO ALBERTO GÓMEZ PÉREZ - 1940299726",
+            "AL PIE DE LA FIRMA": "FRANCISCO ALBERTO GÓMEZ PÉREZ - 1940299726"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FRANCISCO ALBERTO GÓMEZ PÉREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1940299726",
+            "NOMBRES": "FRANCISCO ALBERTO GÓMEZ PÉREZ",
+            "SALARIO": "2.159.098",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1940299726",
+            "NOMBRES": "FRANCISCO ALBERTO GÓMEZ PÉREZ",
+            "RECOMPRA O DESEMBOLSO": "3.375.303"
+        }
+    }
+]

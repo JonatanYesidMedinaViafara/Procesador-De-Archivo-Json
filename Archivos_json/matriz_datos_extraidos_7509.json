@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "569966812844",
+            "SOLICITUD": "2673647",
+            "CEDULA": "1250503861",
+            "NOMBRES": "ANTONIO GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.741.558",
+            "FIRMA ELLECTRONICA": "ANTONIO GONZÁLEZ - 1250503861"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "569966812844",
+            "NOMBRES": "ANTONIO GONZÁLEZ",
+            "CREDITO": "8.982.259",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "141.213",
+            "FIRMA ELLECTRONICA": "ANTONIO GONZÁLEZ - 1250503861",
+            "AL PIE DE LA FIRMA": "ANTONIO GONZÁLEZ - 1250503861"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1250503861",
+            "NOMBRES": "ANTONIO GONZÁLEZ",
+            "FECHA NACIMIENTO": "24/11/1963"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.982.259",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANTONIO GONZÁLEZ - 1250503861",
+            "AL PIE DE LA FIRMA": "ANTONIO GONZÁLEZ - 1250503861"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2673647",
+            "CEDULA": "1250503861",
+            "NOMBRES": "ANTONIO GONZÁLEZ",
+            "CREDITO": "8.982.259",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "141.213",
+            "E.A": "22.32%",
+            "RECOMPRA O DESEMBOLSO": "2.741.558",
+            "FIRMA ELLECTRONICA": "ANTONIO GONZÁLEZ - 1250503861"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1250503861",
+            "NOMBRES": "ANTONIO GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "ANTONIO GONZÁLEZ - 1250503861"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1250503861",
+            "NOMBRES": "ANTONIO GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "ANTONIO GONZÁLEZ - 1250503861",
+            "AL PIE DE LA FIRMA": "ANTONIO GONZÁLEZ - 1250503861"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANTONIO GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1250503861",
+            "NOMBRES": "ANTONIO GONZÁLEZ",
+            "SALARIO": "2.199.316",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "31/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1250503861",
+            "NOMBRES": "ANTONIO GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "2.741.558"
+        }
+    }
+]

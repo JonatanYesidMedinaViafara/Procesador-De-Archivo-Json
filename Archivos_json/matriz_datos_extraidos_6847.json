@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "300396193477",
+            "SOLICITUD": "3896331",
+            "CEDULA": "1945253300",
+            "NOMBRES": "CARLOS JOSÉ ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "4.615.484",
+            "FIRMA ELLECTRONICA": "CARLOS JOSÉ ORTIZ - 1945253300"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "300396193477",
+            "NOMBRES": "CARLOS JOSÉ ORTIZ",
+            "CREDITO": "10.354.001",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "240.225",
+            "FIRMA ELLECTRONICA": "CARLOS JOSÉ ORTIZ - 1945253300",
+            "AL PIE DE LA FIRMA": "CARLOS JOSÉ ORTIZ - 1945253300"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1945253300",
+            "NOMBRES": "CARLOS JOSÉ ORTIZ",
+            "FECHA NACIMIENTO": "28/02/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.354.001",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARLOS JOSÉ ORTIZ - 1945253300",
+            "AL PIE DE LA FIRMA": "CARLOS JOSÉ ORTIZ - 1945253300"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3896331",
+            "CEDULA": "1945253300",
+            "NOMBRES": "CARLOS JOSÉ ORTIZ",
+            "CREDITO": "10.354.001",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "240.225",
+            "E.A": "23.77%",
+            "RECOMPRA O DESEMBOLSO": "4.615.484",
+            "FIRMA ELLECTRONICA": "CARLOS JOSÉ ORTIZ - 1945253300"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1945253300",
+            "NOMBRES": "CARLOS JOSÉ ORTIZ",
+            "FIRMA ELLECTRONICA": "CARLOS JOSÉ ORTIZ - 1945253300"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1945253300",
+            "NOMBRES": "CARLOS JOSÉ ORTIZ",
+            "FIRMA ELLECTRONICA": "CARLOS JOSÉ ORTIZ - 1945253300",
+            "AL PIE DE LA FIRMA": "CARLOS JOSÉ ORTIZ - 1945253300"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS JOSÉ ORTIZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1945253300",
+            "NOMBRES": "CARLOS JOSÉ ORTIZ",
+            "SALARIO": "3.133.940",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1945253300",
+            "NOMBRES": "CARLOS JOSÉ ORTIZ",
+            "RECOMPRA O DESEMBOLSO": "4.615.484"
+        }
+    }
+]

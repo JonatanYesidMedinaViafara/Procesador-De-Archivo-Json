@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "977166914761",
+            "SOLICITUD": "4964108",
+            "CEDULA": "1729179966",
+            "NOMBRES": "JOSÉ IVÁN PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.819.502",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PEÑA - 1729179966"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "977166914761",
+            "NOMBRES": "JOSÉ IVÁN PEÑA",
+            "CREDITO": "14.050.162",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "192.45",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PEÑA - 1729179966",
+            "AL PIE DE LA FIRMA": "JOSÉ IVÁN PEÑA - 1729179966"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1729179966",
+            "NOMBRES": "JOSÉ IVÁN PEÑA",
+            "FECHA NACIMIENTO": "22/10/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.050.162",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PEÑA - 1729179966",
+            "AL PIE DE LA FIRMA": "JOSÉ IVÁN PEÑA - 1729179966"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4964108",
+            "CEDULA": "1729179966",
+            "NOMBRES": "JOSÉ IVÁN PEÑA",
+            "CREDITO": "14.050.162",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "192.45",
+            "E.A": "18.87%",
+            "RECOMPRA O DESEMBOLSO": "1.819.502",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PEÑA - 1729179966"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1729179966",
+            "NOMBRES": "JOSÉ IVÁN PEÑA",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PEÑA - 1729179966"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1729179966",
+            "NOMBRES": "JOSÉ IVÁN PEÑA",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PEÑA - 1729179966",
+            "AL PIE DE LA FIRMA": "JOSÉ IVÁN PEÑA - 1729179966"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ IVÁN PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1729179966",
+            "NOMBRES": "JOSÉ IVÁN PEÑA",
+            "SALARIO": "1.903.465",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "19/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1729179966",
+            "NOMBRES": "JOSÉ IVÁN PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.819.502"
+        }
+    }
+]

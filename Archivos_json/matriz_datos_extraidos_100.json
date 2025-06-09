@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "845408158863",
+            "SOLICITUD": "9952001",
+            "CEDULA": "1749978146",
+            "NOMBRES": "HUGO GARCÍA PACHECO",
+            "RECOMPRA O DESEMBOLSO": "2.499.236",
+            "FIRMA ELLECTRONICA": "HUGO GARCÍA PACHECO - 1749978146"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "845408158863",
+            "NOMBRES": "HUGO GARCÍA PACHECO",
+            "CREDITO": "18.473.514",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "332.45",
+            "FIRMA ELLECTRONICA": "HUGO GARCÍA PACHECO - 1749978146",
+            "AL PIE DE LA FIRMA": "HUGO GARCÍA PACHECO - 1749978146"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1749978146",
+            "NOMBRES": "HUGO GARCÍA PACHECO",
+            "FECHA NACIMIENTO": "14/09/1954"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.473.514",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "HUGO GARCÍA PACHECO - 1749978146",
+            "AL PIE DE LA FIRMA": "HUGO GARCÍA PACHECO - 1749978146"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9952001",
+            "CEDULA": "1749978146",
+            "NOMBRES": "HUGO GARCÍA PACHECO",
+            "CREDITO": "18.473.514",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "332.45",
+            "E.A": "26.77%",
+            "RECOMPRA O DESEMBOLSO": "2.499.236",
+            "FIRMA ELLECTRONICA": "HUGO GARCÍA PACHECO - 1749978146"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1749978146",
+            "NOMBRES": "HUGO GARCÍA PACHECO",
+            "FIRMA ELLECTRONICA": "HUGO GARCÍA PACHECO - 1749978146"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1749978146",
+            "NOMBRES": "HUGO GARCÍA PACHECO",
+            "FIRMA ELLECTRONICA": "HUGO GARCÍA PACHECO - 1749978146",
+            "AL PIE DE LA FIRMA": "HUGO GARCÍA PACHECO - 1749978146"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HUGO GARCÍA PACHECO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1749978146",
+            "NOMBRES": "HUGO GARCÍA PACHECO",
+            "SALARIO": "1.740.842",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1749978146",
+            "NOMBRES": "HUGO GARCÍA PACHECO",
+            "RECOMPRA O DESEMBOLSO": "2.499.236"
+        }
+    }
+]

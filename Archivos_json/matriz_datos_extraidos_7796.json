@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "217498322376",
+            "SOLICITUD": "5855481",
+            "CEDULA": "1735762434",
+            "NOMBRES": "ALEX ÁNGEL",
+            "RECOMPRA O DESEMBOLSO": "3.469.200",
+            "FIRMA ELLECTRONICA": "ALEX ÁNGEL - 1735762434"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "217498322376",
+            "NOMBRES": "ALEX ÁNGEL",
+            "CREDITO": "5.879.754",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "137.842",
+            "FIRMA ELLECTRONICA": "ALEX ÁNGEL - 1735762434",
+            "AL PIE DE LA FIRMA": "ALEX ÁNGEL - 1735762434"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1735762434",
+            "NOMBRES": "ALEX ÁNGEL",
+            "FECHA NACIMIENTO": "15/09/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.879.754",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALEX ÁNGEL - 1735762434",
+            "AL PIE DE LA FIRMA": "ALEX ÁNGEL - 1735762434"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5855481",
+            "CEDULA": "1735762434",
+            "NOMBRES": "ALEX ÁNGEL",
+            "CREDITO": "5.879.754",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "60",
+            "VL.CUOTA": "137.842",
+            "E.A": "27.22%",
+            "RECOMPRA O DESEMBOLSO": "3.469.200",
+            "FIRMA ELLECTRONICA": "ALEX ÁNGEL - 1735762434"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1735762434",
+            "NOMBRES": "ALEX ÁNGEL",
+            "FIRMA ELLECTRONICA": "ALEX ÁNGEL - 1735762434"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1735762434",
+            "NOMBRES": "ALEX ÁNGEL",
+            "FIRMA ELLECTRONICA": "ALEX ÁNGEL - 1735762434",
+            "AL PIE DE LA FIRMA": "ALEX ÁNGEL - 1735762434"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEX ÁNGEL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1735762434",
+            "NOMBRES": "ALEX ÁNGEL",
+            "SALARIO": "3.648.412",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "04/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1735762434",
+            "NOMBRES": "ALEX ÁNGEL",
+            "RECOMPRA O DESEMBOLSO": "3.469.200"
+        }
+    }
+]

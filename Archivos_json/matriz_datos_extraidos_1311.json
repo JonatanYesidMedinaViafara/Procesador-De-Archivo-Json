@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "726531816362",
+            "SOLICITUD": "8388329",
+            "CEDULA": "1061996446",
+            "NOMBRES": "PEDRO GUERRERO ARIAS",
+            "RECOMPRA O DESEMBOLSO": "4.159.066",
+            "FIRMA ELLECTRONICA": "PEDRO GUERRERO ARIAS - 1061996446"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "726531816362",
+            "NOMBRES": "PEDRO GUERRERO ARIAS",
+            "CREDITO": "5.126.534",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "347.142",
+            "FIRMA ELLECTRONICA": "PEDRO GUERRERO ARIAS - 1061996446",
+            "AL PIE DE LA FIRMA": "PEDRO GUERRERO ARIAS - 1061996446"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1061996446",
+            "NOMBRES": "PEDRO GUERRERO ARIAS",
+            "FECHA NACIMIENTO": "30/11/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.126.534",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "PEDRO GUERRERO ARIAS - 1061996446",
+            "AL PIE DE LA FIRMA": "PEDRO GUERRERO ARIAS - 1061996446"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8388329",
+            "CEDULA": "1061996446",
+            "NOMBRES": "PEDRO GUERRERO ARIAS",
+            "CREDITO": "5.126.534",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "347.142",
+            "E.A": "18.95%",
+            "RECOMPRA O DESEMBOLSO": "4.159.066",
+            "FIRMA ELLECTRONICA": "PEDRO GUERRERO ARIAS - 1061996446"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1061996446",
+            "NOMBRES": "PEDRO GUERRERO ARIAS",
+            "FIRMA ELLECTRONICA": "PEDRO GUERRERO ARIAS - 1061996446"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1061996446",
+            "NOMBRES": "PEDRO GUERRERO ARIAS",
+            "FIRMA ELLECTRONICA": "PEDRO GUERRERO ARIAS - 1061996446",
+            "AL PIE DE LA FIRMA": "PEDRO GUERRERO ARIAS - 1061996446"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PEDRO GUERRERO ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1061996446",
+            "NOMBRES": "PEDRO GUERRERO ARIAS",
+            "SALARIO": "4.662.795",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1061996446",
+            "NOMBRES": "PEDRO GUERRERO ARIAS",
+            "RECOMPRA O DESEMBOLSO": "4.159.066"
+        }
+    }
+]

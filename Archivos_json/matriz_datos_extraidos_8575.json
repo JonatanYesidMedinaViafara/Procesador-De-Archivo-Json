@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "924089797950",
+            "SOLICITUD": "8235669",
+            "CEDULA": "1206947906",
+            "NOMBRES": "CARLOS GARCÍA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.389.256",
+            "FIRMA ELLECTRONICA": "CARLOS GARCÍA PEÑA - 1206947906"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "924089797950",
+            "NOMBRES": "CARLOS GARCÍA PEÑA",
+            "CREDITO": "17.327.403",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "100.074",
+            "FIRMA ELLECTRONICA": "CARLOS GARCÍA PEÑA - 1206947906",
+            "AL PIE DE LA FIRMA": "CARLOS GARCÍA PEÑA - 1206947906"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1206947906",
+            "NOMBRES": "CARLOS GARCÍA PEÑA",
+            "FECHA NACIMIENTO": "11/10/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.327.403",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "CARLOS GARCÍA PEÑA - 1206947906",
+            "AL PIE DE LA FIRMA": "CARLOS GARCÍA PEÑA - 1206947906"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8235669",
+            "CEDULA": "1206947906",
+            "NOMBRES": "CARLOS GARCÍA PEÑA",
+            "CREDITO": "17.327.403",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "100.074",
+            "E.A": "19.86%",
+            "RECOMPRA O DESEMBOLSO": "1.389.256",
+            "FIRMA ELLECTRONICA": "CARLOS GARCÍA PEÑA - 1206947906"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1206947906",
+            "NOMBRES": "CARLOS GARCÍA PEÑA",
+            "FIRMA ELLECTRONICA": "CARLOS GARCÍA PEÑA - 1206947906"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1206947906",
+            "NOMBRES": "CARLOS GARCÍA PEÑA",
+            "FIRMA ELLECTRONICA": "CARLOS GARCÍA PEÑA - 1206947906",
+            "AL PIE DE LA FIRMA": "CARLOS GARCÍA PEÑA - 1206947906"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS GARCÍA PEÑA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1206947906",
+            "NOMBRES": "CARLOS GARCÍA PEÑA",
+            "SALARIO": "4.812.477",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "08/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1206947906",
+            "NOMBRES": "CARLOS GARCÍA PEÑA",
+            "RECOMPRA O DESEMBOLSO": "1.389.256"
+        }
+    }
+]

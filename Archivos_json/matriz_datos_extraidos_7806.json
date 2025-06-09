@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "637184937895",
+            "SOLICITUD": "4519646",
+            "CEDULA": "1223048433",
+            "NOMBRES": "ALICIA OCAMPO",
+            "RECOMPRA O DESEMBOLSO": "1.180.022",
+            "FIRMA ELLECTRONICA": "ALICIA OCAMPO - 1223048433"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "637184937895",
+            "NOMBRES": "ALICIA OCAMPO",
+            "CREDITO": "10.684.066",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "173.684",
+            "FIRMA ELLECTRONICA": "ALICIA OCAMPO - 1223048433",
+            "AL PIE DE LA FIRMA": "ALICIA OCAMPO - 1223048433"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1223048433",
+            "NOMBRES": "ALICIA OCAMPO",
+            "FECHA NACIMIENTO": "24/06/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.684.066",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ALICIA OCAMPO - 1223048433",
+            "AL PIE DE LA FIRMA": "ALICIA OCAMPO - 1223048433"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4519646",
+            "CEDULA": "1223048433",
+            "NOMBRES": "ALICIA OCAMPO",
+            "CREDITO": "10.684.066",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "173.684",
+            "E.A": "24.23%",
+            "RECOMPRA O DESEMBOLSO": "1.180.022",
+            "FIRMA ELLECTRONICA": "ALICIA OCAMPO - 1223048433"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1223048433",
+            "NOMBRES": "ALICIA OCAMPO",
+            "FIRMA ELLECTRONICA": "ALICIA OCAMPO - 1223048433"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1223048433",
+            "NOMBRES": "ALICIA OCAMPO",
+            "FIRMA ELLECTRONICA": "ALICIA OCAMPO - 1223048433",
+            "AL PIE DE LA FIRMA": "ALICIA OCAMPO - 1223048433"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALICIA OCAMPO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1223048433",
+            "NOMBRES": "ALICIA OCAMPO",
+            "SALARIO": "2.326.726",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1223048433",
+            "NOMBRES": "ALICIA OCAMPO",
+            "RECOMPRA O DESEMBOLSO": "1.180.022"
+        }
+    }
+]

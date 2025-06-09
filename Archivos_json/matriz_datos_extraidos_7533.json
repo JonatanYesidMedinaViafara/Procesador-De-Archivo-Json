@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "845994260672",
+            "SOLICITUD": "7251508",
+            "CEDULA": "1608662160",
+            "NOMBRES": "DAVID MURILLO YEPES",
+            "RECOMPRA O DESEMBOLSO": "2.546.152",
+            "FIRMA ELLECTRONICA": "DAVID MURILLO YEPES - 1608662160"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "845994260672",
+            "NOMBRES": "DAVID MURILLO YEPES",
+            "CREDITO": "19.125.918",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "377.917",
+            "FIRMA ELLECTRONICA": "DAVID MURILLO YEPES - 1608662160",
+            "AL PIE DE LA FIRMA": "DAVID MURILLO YEPES - 1608662160"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1608662160",
+            "NOMBRES": "DAVID MURILLO YEPES",
+            "FECHA NACIMIENTO": "19/05/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.125.918",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "DAVID MURILLO YEPES - 1608662160",
+            "AL PIE DE LA FIRMA": "DAVID MURILLO YEPES - 1608662160"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7251508",
+            "CEDULA": "1608662160",
+            "NOMBRES": "DAVID MURILLO YEPES",
+            "CREDITO": "19.125.918",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "377.917",
+            "E.A": "25.7%",
+            "RECOMPRA O DESEMBOLSO": "2.546.152",
+            "FIRMA ELLECTRONICA": "DAVID MURILLO YEPES - 1608662160"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1608662160",
+            "NOMBRES": "DAVID MURILLO YEPES",
+            "FIRMA ELLECTRONICA": "DAVID MURILLO YEPES - 1608662160"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1608662160",
+            "NOMBRES": "DAVID MURILLO YEPES",
+            "FIRMA ELLECTRONICA": "DAVID MURILLO YEPES - 1608662160",
+            "AL PIE DE LA FIRMA": "DAVID MURILLO YEPES - 1608662160"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DAVID MURILLO YEPES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1608662160",
+            "NOMBRES": "DAVID MURILLO YEPES",
+            "SALARIO": "1.410.522",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1608662160",
+            "NOMBRES": "DAVID MURILLO YEPES",
+            "RECOMPRA O DESEMBOLSO": "2.546.152"
+        }
+    }
+]

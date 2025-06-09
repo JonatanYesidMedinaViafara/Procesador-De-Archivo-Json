@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "281949416476",
+            "SOLICITUD": "4634788",
+            "CEDULA": "1294731061",
+            "NOMBRES": "MERCEDES PEÑA FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "3.879.719",
+            "FIRMA ELLECTRONICA": "MERCEDES PEÑA FLÓREZ - 1294731061"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "281949416476",
+            "NOMBRES": "MERCEDES PEÑA FLÓREZ",
+            "CREDITO": "11.765.767",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "342.843",
+            "FIRMA ELLECTRONICA": "MERCEDES PEÑA FLÓREZ - 1294731061",
+            "AL PIE DE LA FIRMA": "MERCEDES PEÑA FLÓREZ - 1294731061"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1294731061",
+            "NOMBRES": "MERCEDES PEÑA FLÓREZ",
+            "FECHA NACIMIENTO": "26/02/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.765.767",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MERCEDES PEÑA FLÓREZ - 1294731061",
+            "AL PIE DE LA FIRMA": "MERCEDES PEÑA FLÓREZ - 1294731061"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4634788",
+            "CEDULA": "1294731061",
+            "NOMBRES": "MERCEDES PEÑA FLÓREZ",
+            "CREDITO": "11.765.767",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "342.843",
+            "E.A": "24.74%",
+            "RECOMPRA O DESEMBOLSO": "3.879.719",
+            "FIRMA ELLECTRONICA": "MERCEDES PEÑA FLÓREZ - 1294731061"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1294731061",
+            "NOMBRES": "MERCEDES PEÑA FLÓREZ",
+            "FIRMA ELLECTRONICA": "MERCEDES PEÑA FLÓREZ - 1294731061"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1294731061",
+            "NOMBRES": "MERCEDES PEÑA FLÓREZ",
+            "FIRMA ELLECTRONICA": "MERCEDES PEÑA FLÓREZ - 1294731061",
+            "AL PIE DE LA FIRMA": "MERCEDES PEÑA FLÓREZ - 1294731061"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MERCEDES PEÑA FLÓREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1294731061",
+            "NOMBRES": "MERCEDES PEÑA FLÓREZ",
+            "SALARIO": "2.840.703",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1294731061",
+            "NOMBRES": "MERCEDES PEÑA FLÓREZ",
+            "RECOMPRA O DESEMBOLSO": "3.879.719"
+        }
+    }
+]

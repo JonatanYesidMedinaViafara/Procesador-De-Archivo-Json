@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "131519121700",
+            "SOLICITUD": "8638102",
+            "CEDULA": "1654803304",
+            "NOMBRES": "JUAN JULIÁN SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.689.789",
+            "FIRMA ELLECTRONICA": "JUAN JULIÁN SOTO - 1654803304"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "131519121700",
+            "NOMBRES": "JUAN JULIÁN SOTO",
+            "CREDITO": "14.270.022",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "293.081",
+            "FIRMA ELLECTRONICA": "JUAN JULIÁN SOTO - 1654803304",
+            "AL PIE DE LA FIRMA": "JUAN JULIÁN SOTO - 1654803304"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1654803304",
+            "NOMBRES": "JUAN JULIÁN SOTO",
+            "FECHA NACIMIENTO": "09/03/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.270.022",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN JULIÁN SOTO - 1654803304",
+            "AL PIE DE LA FIRMA": "JUAN JULIÁN SOTO - 1654803304"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8638102",
+            "CEDULA": "1654803304",
+            "NOMBRES": "JUAN JULIÁN SOTO",
+            "CREDITO": "14.270.022",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "293.081",
+            "E.A": "23.78%",
+            "RECOMPRA O DESEMBOLSO": "3.689.789",
+            "FIRMA ELLECTRONICA": "JUAN JULIÁN SOTO - 1654803304"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1654803304",
+            "NOMBRES": "JUAN JULIÁN SOTO",
+            "FIRMA ELLECTRONICA": "JUAN JULIÁN SOTO - 1654803304"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1654803304",
+            "NOMBRES": "JUAN JULIÁN SOTO",
+            "FIRMA ELLECTRONICA": "JUAN JULIÁN SOTO - 1654803304",
+            "AL PIE DE LA FIRMA": "JUAN JULIÁN SOTO - 1654803304"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN JULIÁN SOTO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1654803304",
+            "NOMBRES": "JUAN JULIÁN SOTO",
+            "SALARIO": "4.407.011",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "17/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1654803304",
+            "NOMBRES": "JUAN JULIÁN SOTO",
+            "RECOMPRA O DESEMBOLSO": "3.689.789"
+        }
+    }
+]

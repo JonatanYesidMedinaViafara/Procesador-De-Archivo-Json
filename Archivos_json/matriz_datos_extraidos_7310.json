@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "878331912678",
+            "SOLICITUD": "7838450",
+            "CEDULA": "1746019125",
+            "NOMBRES": "ANA MARINA PALACIOS FAJARDO",
+            "RECOMPRA O DESEMBOLSO": "2.721.625",
+            "FIRMA ELLECTRONICA": "ANA MARINA PALACIOS FAJARDO - 1746019125"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "878331912678",
+            "NOMBRES": "ANA MARINA PALACIOS FAJARDO",
+            "CREDITO": "6.012.425",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "198.925",
+            "FIRMA ELLECTRONICA": "ANA MARINA PALACIOS FAJARDO - 1746019125",
+            "AL PIE DE LA FIRMA": "ANA MARINA PALACIOS FAJARDO - 1746019125"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1746019125",
+            "NOMBRES": "ANA MARINA PALACIOS FAJARDO",
+            "FECHA NACIMIENTO": "01/11/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.012.425",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ANA MARINA PALACIOS FAJARDO - 1746019125",
+            "AL PIE DE LA FIRMA": "ANA MARINA PALACIOS FAJARDO - 1746019125"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7838450",
+            "CEDULA": "1746019125",
+            "NOMBRES": "ANA MARINA PALACIOS FAJARDO",
+            "CREDITO": "6.012.425",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "198.925",
+            "E.A": "20.01%",
+            "RECOMPRA O DESEMBOLSO": "2.721.625",
+            "FIRMA ELLECTRONICA": "ANA MARINA PALACIOS FAJARDO - 1746019125"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1746019125",
+            "NOMBRES": "ANA MARINA PALACIOS FAJARDO",
+            "FIRMA ELLECTRONICA": "ANA MARINA PALACIOS FAJARDO - 1746019125"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1746019125",
+            "NOMBRES": "ANA MARINA PALACIOS FAJARDO",
+            "FIRMA ELLECTRONICA": "ANA MARINA PALACIOS FAJARDO - 1746019125",
+            "AL PIE DE LA FIRMA": "ANA MARINA PALACIOS FAJARDO - 1746019125"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA MARINA PALACIOS FAJARDO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1746019125",
+            "NOMBRES": "ANA MARINA PALACIOS FAJARDO",
+            "SALARIO": "2.582.798",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1746019125",
+            "NOMBRES": "ANA MARINA PALACIOS FAJARDO",
+            "RECOMPRA O DESEMBOLSO": "2.721.625"
+        }
+    }
+]

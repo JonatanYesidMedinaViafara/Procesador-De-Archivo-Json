@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "865154025588",
+            "SOLICITUD": "4032200",
+            "CEDULA": "1604764465",
+            "NOMBRES": "JUAN ALBERTO FRANCO CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "2.140.729",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO FRANCO CASTELLANOS - 1604764465"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "865154025588",
+            "NOMBRES": "JUAN ALBERTO FRANCO CASTELLANOS",
+            "CREDITO": "5.514.089",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "150.269",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO FRANCO CASTELLANOS - 1604764465",
+            "AL PIE DE LA FIRMA": "JUAN ALBERTO FRANCO CASTELLANOS - 1604764465"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1604764465",
+            "NOMBRES": "JUAN ALBERTO FRANCO CASTELLANOS",
+            "FECHA NACIMIENTO": "06/03/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.514.089",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO FRANCO CASTELLANOS - 1604764465",
+            "AL PIE DE LA FIRMA": "JUAN ALBERTO FRANCO CASTELLANOS - 1604764465"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4032200",
+            "CEDULA": "1604764465",
+            "NOMBRES": "JUAN ALBERTO FRANCO CASTELLANOS",
+            "CREDITO": "5.514.089",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "150.269",
+            "E.A": "18.16%",
+            "RECOMPRA O DESEMBOLSO": "2.140.729",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO FRANCO CASTELLANOS - 1604764465"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1604764465",
+            "NOMBRES": "JUAN ALBERTO FRANCO CASTELLANOS",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO FRANCO CASTELLANOS - 1604764465"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1604764465",
+            "NOMBRES": "JUAN ALBERTO FRANCO CASTELLANOS",
+            "FIRMA ELLECTRONICA": "JUAN ALBERTO FRANCO CASTELLANOS - 1604764465",
+            "AL PIE DE LA FIRMA": "JUAN ALBERTO FRANCO CASTELLANOS - 1604764465"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN ALBERTO FRANCO CASTELLANOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1604764465",
+            "NOMBRES": "JUAN ALBERTO FRANCO CASTELLANOS",
+            "SALARIO": "4.971.617",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1604764465",
+            "NOMBRES": "JUAN ALBERTO FRANCO CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "2.140.729"
+        }
+    }
+]

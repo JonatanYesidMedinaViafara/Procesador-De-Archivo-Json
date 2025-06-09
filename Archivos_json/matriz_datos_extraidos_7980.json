@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "188590755593",
+            "SOLICITUD": "4516087",
+            "CEDULA": "1921901411",
+            "NOMBRES": "ALEJANDRA SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.518.894",
+            "FIRMA ELLECTRONICA": "ALEJANDRA SUÁREZ - 1921901411"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "188590755593",
+            "NOMBRES": "ALEJANDRA SUÁREZ",
+            "CREDITO": "16.181.444",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "110.543",
+            "FIRMA ELLECTRONICA": "ALEJANDRA SUÁREZ - 1921901411",
+            "AL PIE DE LA FIRMA": "ALEJANDRA SUÁREZ - 1921901411"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1921901411",
+            "NOMBRES": "ALEJANDRA SUÁREZ",
+            "FECHA NACIMIENTO": "03/12/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.181.444",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALEJANDRA SUÁREZ - 1921901411",
+            "AL PIE DE LA FIRMA": "ALEJANDRA SUÁREZ - 1921901411"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4516087",
+            "CEDULA": "1921901411",
+            "NOMBRES": "ALEJANDRA SUÁREZ",
+            "CREDITO": "16.181.444",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "110.543",
+            "E.A": "24.97%",
+            "RECOMPRA O DESEMBOLSO": "3.518.894",
+            "FIRMA ELLECTRONICA": "ALEJANDRA SUÁREZ - 1921901411"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1921901411",
+            "NOMBRES": "ALEJANDRA SUÁREZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRA SUÁREZ - 1921901411"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1921901411",
+            "NOMBRES": "ALEJANDRA SUÁREZ",
+            "FIRMA ELLECTRONICA": "ALEJANDRA SUÁREZ - 1921901411",
+            "AL PIE DE LA FIRMA": "ALEJANDRA SUÁREZ - 1921901411"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRA SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1921901411",
+            "NOMBRES": "ALEJANDRA SUÁREZ",
+            "SALARIO": "1.890.706",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1921901411",
+            "NOMBRES": "ALEJANDRA SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "3.518.894"
+        }
+    }
+]

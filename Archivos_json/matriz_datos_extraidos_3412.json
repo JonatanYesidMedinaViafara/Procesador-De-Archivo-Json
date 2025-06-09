@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "574678921365",
+            "SOLICITUD": "2238191",
+            "CEDULA": "1131819488",
+            "NOMBRES": "LEONOR NELLY MELO ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "2.742.301",
+            "FIRMA ELLECTRONICA": "LEONOR NELLY MELO ÁVILA - 1131819488"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "574678921365",
+            "NOMBRES": "LEONOR NELLY MELO ÁVILA",
+            "CREDITO": "12.208.042",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "255.111",
+            "FIRMA ELLECTRONICA": "LEONOR NELLY MELO ÁVILA - 1131819488",
+            "AL PIE DE LA FIRMA": "LEONOR NELLY MELO ÁVILA - 1131819488"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1131819488",
+            "NOMBRES": "LEONOR NELLY MELO ÁVILA",
+            "FECHA NACIMIENTO": "04/08/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.208.042",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "LEONOR NELLY MELO ÁVILA - 1131819488",
+            "AL PIE DE LA FIRMA": "LEONOR NELLY MELO ÁVILA - 1131819488"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2238191",
+            "CEDULA": "1131819488",
+            "NOMBRES": "LEONOR NELLY MELO ÁVILA",
+            "CREDITO": "12.208.042",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "255.111",
+            "E.A": "22.11%",
+            "RECOMPRA O DESEMBOLSO": "2.742.301",
+            "FIRMA ELLECTRONICA": "LEONOR NELLY MELO ÁVILA - 1131819488"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1131819488",
+            "NOMBRES": "LEONOR NELLY MELO ÁVILA",
+            "FIRMA ELLECTRONICA": "LEONOR NELLY MELO ÁVILA - 1131819488"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1131819488",
+            "NOMBRES": "LEONOR NELLY MELO ÁVILA",
+            "FIRMA ELLECTRONICA": "LEONOR NELLY MELO ÁVILA - 1131819488",
+            "AL PIE DE LA FIRMA": "LEONOR NELLY MELO ÁVILA - 1131819488"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LEONOR NELLY MELO ÁVILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1131819488",
+            "NOMBRES": "LEONOR NELLY MELO ÁVILA",
+            "SALARIO": "1.458.691",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "25/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1131819488",
+            "NOMBRES": "LEONOR NELLY MELO ÁVILA",
+            "RECOMPRA O DESEMBOLSO": "2.742.301"
+        }
+    }
+]

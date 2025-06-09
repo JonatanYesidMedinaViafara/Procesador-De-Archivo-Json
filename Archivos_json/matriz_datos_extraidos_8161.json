@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "678453814942",
+            "SOLICITUD": "3093242",
+            "CEDULA": "1767269079",
+            "NOMBRES": "ELKIN MOLINA",
+            "RECOMPRA O DESEMBOLSO": "3.972.976",
+            "FIRMA ELLECTRONICA": "ELKIN MOLINA - 1767269079"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "678453814942",
+            "NOMBRES": "ELKIN MOLINA",
+            "CREDITO": "17.673.410",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "123.195",
+            "FIRMA ELLECTRONICA": "ELKIN MOLINA - 1767269079",
+            "AL PIE DE LA FIRMA": "ELKIN MOLINA - 1767269079"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1767269079",
+            "NOMBRES": "ELKIN MOLINA",
+            "FECHA NACIMIENTO": "26/11/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.673.410",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ELKIN MOLINA - 1767269079",
+            "AL PIE DE LA FIRMA": "ELKIN MOLINA - 1767269079"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3093242",
+            "CEDULA": "1767269079",
+            "NOMBRES": "ELKIN MOLINA",
+            "CREDITO": "17.673.410",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "123.195",
+            "E.A": "25.43%",
+            "RECOMPRA O DESEMBOLSO": "3.972.976",
+            "FIRMA ELLECTRONICA": "ELKIN MOLINA - 1767269079"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1767269079",
+            "NOMBRES": "ELKIN MOLINA",
+            "FIRMA ELLECTRONICA": "ELKIN MOLINA - 1767269079"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1767269079",
+            "NOMBRES": "ELKIN MOLINA",
+            "FIRMA ELLECTRONICA": "ELKIN MOLINA - 1767269079",
+            "AL PIE DE LA FIRMA": "ELKIN MOLINA - 1767269079"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELKIN MOLINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1767269079",
+            "NOMBRES": "ELKIN MOLINA",
+            "SALARIO": "3.148.878",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1767269079",
+            "NOMBRES": "ELKIN MOLINA",
+            "RECOMPRA O DESEMBOLSO": "3.972.976"
+        }
+    }
+]

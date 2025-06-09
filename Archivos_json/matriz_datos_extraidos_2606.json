@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "365043046791",
+            "SOLICITUD": "7387622",
+            "CEDULA": "1313672742",
+            "NOMBRES": "FERNANDO CAMACHO BERNAL",
+            "RECOMPRA O DESEMBOLSO": "4.632.735",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMACHO BERNAL - 1313672742"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "365043046791",
+            "NOMBRES": "FERNANDO CAMACHO BERNAL",
+            "CREDITO": "19.262.797",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "170.499",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMACHO BERNAL - 1313672742",
+            "AL PIE DE LA FIRMA": "FERNANDO CAMACHO BERNAL - 1313672742"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1313672742",
+            "NOMBRES": "FERNANDO CAMACHO BERNAL",
+            "FECHA NACIMIENTO": "17/11/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.262.797",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMACHO BERNAL - 1313672742",
+            "AL PIE DE LA FIRMA": "FERNANDO CAMACHO BERNAL - 1313672742"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7387622",
+            "CEDULA": "1313672742",
+            "NOMBRES": "FERNANDO CAMACHO BERNAL",
+            "CREDITO": "19.262.797",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "170.499",
+            "E.A": "26.39%",
+            "RECOMPRA O DESEMBOLSO": "4.632.735",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMACHO BERNAL - 1313672742"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1313672742",
+            "NOMBRES": "FERNANDO CAMACHO BERNAL",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMACHO BERNAL - 1313672742"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1313672742",
+            "NOMBRES": "FERNANDO CAMACHO BERNAL",
+            "FIRMA ELLECTRONICA": "FERNANDO CAMACHO BERNAL - 1313672742",
+            "AL PIE DE LA FIRMA": "FERNANDO CAMACHO BERNAL - 1313672742"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO CAMACHO BERNAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1313672742",
+            "NOMBRES": "FERNANDO CAMACHO BERNAL",
+            "SALARIO": "4.242.759",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1313672742",
+            "NOMBRES": "FERNANDO CAMACHO BERNAL",
+            "RECOMPRA O DESEMBOLSO": "4.632.735"
+        }
+    }
+]

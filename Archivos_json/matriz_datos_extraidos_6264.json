@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "245739298393",
+            "SOLICITUD": "8228963",
+            "CEDULA": "1921775942",
+            "NOMBRES": "MARISOL BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "3.001.092",
+            "FIRMA ELLECTRONICA": "MARISOL BELTRÁN - 1921775942"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "245739298393",
+            "NOMBRES": "MARISOL BELTRÁN",
+            "CREDITO": "15.645.283",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "263.732",
+            "FIRMA ELLECTRONICA": "MARISOL BELTRÁN - 1921775942",
+            "AL PIE DE LA FIRMA": "MARISOL BELTRÁN - 1921775942"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1921775942",
+            "NOMBRES": "MARISOL BELTRÁN",
+            "FECHA NACIMIENTO": "18/01/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.645.283",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARISOL BELTRÁN - 1921775942",
+            "AL PIE DE LA FIRMA": "MARISOL BELTRÁN - 1921775942"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8228963",
+            "CEDULA": "1921775942",
+            "NOMBRES": "MARISOL BELTRÁN",
+            "CREDITO": "15.645.283",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "263.732",
+            "E.A": "28.21%",
+            "RECOMPRA O DESEMBOLSO": "3.001.092",
+            "FIRMA ELLECTRONICA": "MARISOL BELTRÁN - 1921775942"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1921775942",
+            "NOMBRES": "MARISOL BELTRÁN",
+            "FIRMA ELLECTRONICA": "MARISOL BELTRÁN - 1921775942"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1921775942",
+            "NOMBRES": "MARISOL BELTRÁN",
+            "FIRMA ELLECTRONICA": "MARISOL BELTRÁN - 1921775942",
+            "AL PIE DE LA FIRMA": "MARISOL BELTRÁN - 1921775942"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARISOL BELTRÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1921775942",
+            "NOMBRES": "MARISOL BELTRÁN",
+            "SALARIO": "4.716.390",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "07/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1921775942",
+            "NOMBRES": "MARISOL BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "3.001.092"
+        }
+    }
+]

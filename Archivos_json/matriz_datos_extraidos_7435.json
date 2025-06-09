@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "890164659584",
+            "SOLICITUD": "1452265",
+            "CEDULA": "1003188894",
+            "NOMBRES": "VANESA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.820.256",
+            "FIRMA ELLECTRONICA": "VANESA GARCÍA - 1003188894"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "890164659584",
+            "NOMBRES": "VANESA GARCÍA",
+            "CREDITO": "19.060.690",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "239.008",
+            "FIRMA ELLECTRONICA": "VANESA GARCÍA - 1003188894",
+            "AL PIE DE LA FIRMA": "VANESA GARCÍA - 1003188894"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1003188894",
+            "NOMBRES": "VANESA GARCÍA",
+            "FECHA NACIMIENTO": "28/10/1973"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.060.690",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "VANESA GARCÍA - 1003188894",
+            "AL PIE DE LA FIRMA": "VANESA GARCÍA - 1003188894"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1452265",
+            "CEDULA": "1003188894",
+            "NOMBRES": "VANESA GARCÍA",
+            "CREDITO": "19.060.690",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "239.008",
+            "E.A": "24.87%",
+            "RECOMPRA O DESEMBOLSO": "2.820.256",
+            "FIRMA ELLECTRONICA": "VANESA GARCÍA - 1003188894"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1003188894",
+            "NOMBRES": "VANESA GARCÍA",
+            "FIRMA ELLECTRONICA": "VANESA GARCÍA - 1003188894"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1003188894",
+            "NOMBRES": "VANESA GARCÍA",
+            "FIRMA ELLECTRONICA": "VANESA GARCÍA - 1003188894",
+            "AL PIE DE LA FIRMA": "VANESA GARCÍA - 1003188894"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VANESA GARCÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1003188894",
+            "NOMBRES": "VANESA GARCÍA",
+            "SALARIO": "3.770.059",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1003188894",
+            "NOMBRES": "VANESA GARCÍA",
+            "RECOMPRA O DESEMBOLSO": "2.820.256"
+        }
+    }
+]

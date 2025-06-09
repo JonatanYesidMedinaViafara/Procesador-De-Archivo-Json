@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "608207333910",
+            "SOLICITUD": "2742013",
+            "CEDULA": "1531100199",
+            "NOMBRES": "ANDRÉS CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.989.203",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORTÉS - 1531100199"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "608207333910",
+            "NOMBRES": "ANDRÉS CORTÉS",
+            "CREDITO": "6.750.047",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "100.657",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORTÉS - 1531100199",
+            "AL PIE DE LA FIRMA": "ANDRÉS CORTÉS - 1531100199"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1531100199",
+            "NOMBRES": "ANDRÉS CORTÉS",
+            "FECHA NACIMIENTO": "20/12/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.750.047",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORTÉS - 1531100199",
+            "AL PIE DE LA FIRMA": "ANDRÉS CORTÉS - 1531100199"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2742013",
+            "CEDULA": "1531100199",
+            "NOMBRES": "ANDRÉS CORTÉS",
+            "CREDITO": "6.750.047",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "100.657",
+            "E.A": "23.17%",
+            "RECOMPRA O DESEMBOLSO": "2.989.203",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORTÉS - 1531100199"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1531100199",
+            "NOMBRES": "ANDRÉS CORTÉS",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORTÉS - 1531100199"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1531100199",
+            "NOMBRES": "ANDRÉS CORTÉS",
+            "FIRMA ELLECTRONICA": "ANDRÉS CORTÉS - 1531100199",
+            "AL PIE DE LA FIRMA": "ANDRÉS CORTÉS - 1531100199"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDRÉS CORTÉS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1531100199",
+            "NOMBRES": "ANDRÉS CORTÉS",
+            "SALARIO": "3.394.153",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "02/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1531100199",
+            "NOMBRES": "ANDRÉS CORTÉS",
+            "RECOMPRA O DESEMBOLSO": "2.989.203"
+        }
+    }
+]

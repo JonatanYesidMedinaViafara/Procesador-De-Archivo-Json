@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "389784632964",
+            "SOLICITUD": "3818594",
+            "CEDULA": "1740250118",
+            "NOMBRES": "HERMES HERNÁNDEZ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "3.315.559",
+            "FIRMA ELLECTRONICA": "HERMES HERNÁNDEZ ROMERO - 1740250118"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "389784632964",
+            "NOMBRES": "HERMES HERNÁNDEZ ROMERO",
+            "CREDITO": "12.489.523",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "382.999",
+            "FIRMA ELLECTRONICA": "HERMES HERNÁNDEZ ROMERO - 1740250118",
+            "AL PIE DE LA FIRMA": "HERMES HERNÁNDEZ ROMERO - 1740250118"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1740250118",
+            "NOMBRES": "HERMES HERNÁNDEZ ROMERO",
+            "FECHA NACIMIENTO": "05/12/1956"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.489.523",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HERMES HERNÁNDEZ ROMERO - 1740250118",
+            "AL PIE DE LA FIRMA": "HERMES HERNÁNDEZ ROMERO - 1740250118"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3818594",
+            "CEDULA": "1740250118",
+            "NOMBRES": "HERMES HERNÁNDEZ ROMERO",
+            "CREDITO": "12.489.523",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "382.999",
+            "E.A": "22.68%",
+            "RECOMPRA O DESEMBOLSO": "3.315.559",
+            "FIRMA ELLECTRONICA": "HERMES HERNÁNDEZ ROMERO - 1740250118"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1740250118",
+            "NOMBRES": "HERMES HERNÁNDEZ ROMERO",
+            "FIRMA ELLECTRONICA": "HERMES HERNÁNDEZ ROMERO - 1740250118"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1740250118",
+            "NOMBRES": "HERMES HERNÁNDEZ ROMERO",
+            "FIRMA ELLECTRONICA": "HERMES HERNÁNDEZ ROMERO - 1740250118",
+            "AL PIE DE LA FIRMA": "HERMES HERNÁNDEZ ROMERO - 1740250118"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERMES HERNÁNDEZ ROMERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1740250118",
+            "NOMBRES": "HERMES HERNÁNDEZ ROMERO",
+            "SALARIO": "1.217.237",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1740250118",
+            "NOMBRES": "HERMES HERNÁNDEZ ROMERO",
+            "RECOMPRA O DESEMBOLSO": "3.315.559"
+        }
+    }
+]

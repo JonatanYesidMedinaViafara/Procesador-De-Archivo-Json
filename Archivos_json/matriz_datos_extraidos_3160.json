@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "102118601363",
+            "SOLICITUD": "8495531",
+            "CEDULA": "1091682149",
+            "NOMBRES": "ALEXANDER GARCÍA BERMÚDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.466.124",
+            "FIRMA ELLECTRONICA": "ALEXANDER GARCÍA BERMÚDEZ - 1091682149"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "102118601363",
+            "NOMBRES": "ALEXANDER GARCÍA BERMÚDEZ",
+            "CREDITO": "9.287.843",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "154.758",
+            "FIRMA ELLECTRONICA": "ALEXANDER GARCÍA BERMÚDEZ - 1091682149",
+            "AL PIE DE LA FIRMA": "ALEXANDER GARCÍA BERMÚDEZ - 1091682149"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1091682149",
+            "NOMBRES": "ALEXANDER GARCÍA BERMÚDEZ",
+            "FECHA NACIMIENTO": "19/12/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.287.843",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALEXANDER GARCÍA BERMÚDEZ - 1091682149",
+            "AL PIE DE LA FIRMA": "ALEXANDER GARCÍA BERMÚDEZ - 1091682149"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8495531",
+            "CEDULA": "1091682149",
+            "NOMBRES": "ALEXANDER GARCÍA BERMÚDEZ",
+            "CREDITO": "9.287.843",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "154.758",
+            "E.A": "28.75%",
+            "RECOMPRA O DESEMBOLSO": "4.466.124",
+            "FIRMA ELLECTRONICA": "ALEXANDER GARCÍA BERMÚDEZ - 1091682149"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1091682149",
+            "NOMBRES": "ALEXANDER GARCÍA BERMÚDEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER GARCÍA BERMÚDEZ - 1091682149"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1091682149",
+            "NOMBRES": "ALEXANDER GARCÍA BERMÚDEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER GARCÍA BERMÚDEZ - 1091682149",
+            "AL PIE DE LA FIRMA": "ALEXANDER GARCÍA BERMÚDEZ - 1091682149"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER GARCÍA BERMÚDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1091682149",
+            "NOMBRES": "ALEXANDER GARCÍA BERMÚDEZ",
+            "SALARIO": "4.778.613",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "08/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1091682149",
+            "NOMBRES": "ALEXANDER GARCÍA BERMÚDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.466.124"
+        }
+    }
+]

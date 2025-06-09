@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "758215527413",
+            "SOLICITUD": "2991492",
+            "CEDULA": "1043237341",
+            "NOMBRES": "ENRIQUE DAVID PEÑA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.677.526",
+            "FIRMA ELLECTRONICA": "ENRIQUE DAVID PEÑA RODRÍGUEZ - 1043237341"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "758215527413",
+            "NOMBRES": "ENRIQUE DAVID PEÑA RODRÍGUEZ",
+            "CREDITO": "14.671.088",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "354.395",
+            "FIRMA ELLECTRONICA": "ENRIQUE DAVID PEÑA RODRÍGUEZ - 1043237341",
+            "AL PIE DE LA FIRMA": "ENRIQUE DAVID PEÑA RODRÍGUEZ - 1043237341"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1043237341",
+            "NOMBRES": "ENRIQUE DAVID PEÑA RODRÍGUEZ",
+            "FECHA NACIMIENTO": "14/05/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.671.088",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ENRIQUE DAVID PEÑA RODRÍGUEZ - 1043237341",
+            "AL PIE DE LA FIRMA": "ENRIQUE DAVID PEÑA RODRÍGUEZ - 1043237341"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2991492",
+            "CEDULA": "1043237341",
+            "NOMBRES": "ENRIQUE DAVID PEÑA RODRÍGUEZ",
+            "CREDITO": "14.671.088",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "354.395",
+            "E.A": "22.04%",
+            "RECOMPRA O DESEMBOLSO": "2.677.526",
+            "FIRMA ELLECTRONICA": "ENRIQUE DAVID PEÑA RODRÍGUEZ - 1043237341"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1043237341",
+            "NOMBRES": "ENRIQUE DAVID PEÑA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE DAVID PEÑA RODRÍGUEZ - 1043237341"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1043237341",
+            "NOMBRES": "ENRIQUE DAVID PEÑA RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "ENRIQUE DAVID PEÑA RODRÍGUEZ - 1043237341",
+            "AL PIE DE LA FIRMA": "ENRIQUE DAVID PEÑA RODRÍGUEZ - 1043237341"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE DAVID PEÑA RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1043237341",
+            "NOMBRES": "ENRIQUE DAVID PEÑA RODRÍGUEZ",
+            "SALARIO": "1.080.055",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1043237341",
+            "NOMBRES": "ENRIQUE DAVID PEÑA RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "2.677.526"
+        }
+    }
+]

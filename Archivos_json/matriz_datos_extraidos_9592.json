@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "206473454441",
+            "SOLICITUD": "9639765",
+            "CEDULA": "1143932740",
+            "NOMBRES": "HUGO ALONSO RAMÍREZ RÍOS",
+            "RECOMPRA O DESEMBOLSO": "4.565.688",
+            "FIRMA ELLECTRONICA": "HUGO ALONSO RAMÍREZ RÍOS - 1143932740"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "206473454441",
+            "NOMBRES": "HUGO ALONSO RAMÍREZ RÍOS",
+            "CREDITO": "7.015.904",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "199.866",
+            "FIRMA ELLECTRONICA": "HUGO ALONSO RAMÍREZ RÍOS - 1143932740",
+            "AL PIE DE LA FIRMA": "HUGO ALONSO RAMÍREZ RÍOS - 1143932740"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1143932740",
+            "NOMBRES": "HUGO ALONSO RAMÍREZ RÍOS",
+            "FECHA NACIMIENTO": "01/12/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.015.904",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "HUGO ALONSO RAMÍREZ RÍOS - 1143932740",
+            "AL PIE DE LA FIRMA": "HUGO ALONSO RAMÍREZ RÍOS - 1143932740"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9639765",
+            "CEDULA": "1143932740",
+            "NOMBRES": "HUGO ALONSO RAMÍREZ RÍOS",
+            "CREDITO": "7.015.904",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "199.866",
+            "E.A": "25.91%",
+            "RECOMPRA O DESEMBOLSO": "4.565.688",
+            "FIRMA ELLECTRONICA": "HUGO ALONSO RAMÍREZ RÍOS - 1143932740"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1143932740",
+            "NOMBRES": "HUGO ALONSO RAMÍREZ RÍOS",
+            "FIRMA ELLECTRONICA": "HUGO ALONSO RAMÍREZ RÍOS - 1143932740"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1143932740",
+            "NOMBRES": "HUGO ALONSO RAMÍREZ RÍOS",
+            "FIRMA ELLECTRONICA": "HUGO ALONSO RAMÍREZ RÍOS - 1143932740",
+            "AL PIE DE LA FIRMA": "HUGO ALONSO RAMÍREZ RÍOS - 1143932740"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HUGO ALONSO RAMÍREZ RÍOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1143932740",
+            "NOMBRES": "HUGO ALONSO RAMÍREZ RÍOS",
+            "SALARIO": "3.723.777",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "11/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1143932740",
+            "NOMBRES": "HUGO ALONSO RAMÍREZ RÍOS",
+            "RECOMPRA O DESEMBOLSO": "4.565.688"
+        }
+    }
+]

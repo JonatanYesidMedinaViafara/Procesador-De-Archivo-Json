@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "359553438964",
+            "SOLICITUD": "4502276",
+            "CEDULA": "1067948191",
+            "NOMBRES": "FELIPE JORGE CORREA",
+            "RECOMPRA O DESEMBOLSO": "4.477.920",
+            "FIRMA ELLECTRONICA": "FELIPE JORGE CORREA - 1067948191"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "359553438964",
+            "NOMBRES": "FELIPE JORGE CORREA",
+            "CREDITO": "14.275.324",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "220.929",
+            "FIRMA ELLECTRONICA": "FELIPE JORGE CORREA - 1067948191",
+            "AL PIE DE LA FIRMA": "FELIPE JORGE CORREA - 1067948191"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1067948191",
+            "NOMBRES": "FELIPE JORGE CORREA",
+            "FECHA NACIMIENTO": "13/01/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.275.324",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "FELIPE JORGE CORREA - 1067948191",
+            "AL PIE DE LA FIRMA": "FELIPE JORGE CORREA - 1067948191"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4502276",
+            "CEDULA": "1067948191",
+            "NOMBRES": "FELIPE JORGE CORREA",
+            "CREDITO": "14.275.324",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "220.929",
+            "E.A": "20.38%",
+            "RECOMPRA O DESEMBOLSO": "4.477.920",
+            "FIRMA ELLECTRONICA": "FELIPE JORGE CORREA - 1067948191"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1067948191",
+            "NOMBRES": "FELIPE JORGE CORREA",
+            "FIRMA ELLECTRONICA": "FELIPE JORGE CORREA - 1067948191"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1067948191",
+            "NOMBRES": "FELIPE JORGE CORREA",
+            "FIRMA ELLECTRONICA": "FELIPE JORGE CORREA - 1067948191",
+            "AL PIE DE LA FIRMA": "FELIPE JORGE CORREA - 1067948191"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FELIPE JORGE CORREA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1067948191",
+            "NOMBRES": "FELIPE JORGE CORREA",
+            "SALARIO": "1.115.143",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1067948191",
+            "NOMBRES": "FELIPE JORGE CORREA",
+            "RECOMPRA O DESEMBOLSO": "4.477.920"
+        }
+    }
+]

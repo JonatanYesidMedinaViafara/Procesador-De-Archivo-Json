@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "122333325190",
+            "SOLICITUD": "6290786",
+            "CEDULA": "1154586299",
+            "NOMBRES": "GONZALO DIEGO GUTIÉRREZ PORTILLA",
+            "RECOMPRA O DESEMBOLSO": "2.038.606",
+            "FIRMA ELLECTRONICA": "GONZALO DIEGO GUTIÉRREZ PORTILLA - 1154586299"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "122333325190",
+            "NOMBRES": "GONZALO DIEGO GUTIÉRREZ PORTILLA",
+            "CREDITO": "19.925.237",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "242.27",
+            "FIRMA ELLECTRONICA": "GONZALO DIEGO GUTIÉRREZ PORTILLA - 1154586299",
+            "AL PIE DE LA FIRMA": "GONZALO DIEGO GUTIÉRREZ PORTILLA - 1154586299"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1154586299",
+            "NOMBRES": "GONZALO DIEGO GUTIÉRREZ PORTILLA",
+            "FECHA NACIMIENTO": "01/12/1971"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.925.237",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "GONZALO DIEGO GUTIÉRREZ PORTILLA - 1154586299",
+            "AL PIE DE LA FIRMA": "GONZALO DIEGO GUTIÉRREZ PORTILLA - 1154586299"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6290786",
+            "CEDULA": "1154586299",
+            "NOMBRES": "GONZALO DIEGO GUTIÉRREZ PORTILLA",
+            "CREDITO": "19.925.237",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "242.27",
+            "E.A": "23.04%",
+            "RECOMPRA O DESEMBOLSO": "2.038.606",
+            "FIRMA ELLECTRONICA": "GONZALO DIEGO GUTIÉRREZ PORTILLA - 1154586299"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1154586299",
+            "NOMBRES": "GONZALO DIEGO GUTIÉRREZ PORTILLA",
+            "FIRMA ELLECTRONICA": "GONZALO DIEGO GUTIÉRREZ PORTILLA - 1154586299"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1154586299",
+            "NOMBRES": "GONZALO DIEGO GUTIÉRREZ PORTILLA",
+            "FIRMA ELLECTRONICA": "GONZALO DIEGO GUTIÉRREZ PORTILLA - 1154586299",
+            "AL PIE DE LA FIRMA": "GONZALO DIEGO GUTIÉRREZ PORTILLA - 1154586299"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GONZALO DIEGO GUTIÉRREZ PORTILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1154586299",
+            "NOMBRES": "GONZALO DIEGO GUTIÉRREZ PORTILLA",
+            "SALARIO": "2.695.138",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1154586299",
+            "NOMBRES": "GONZALO DIEGO GUTIÉRREZ PORTILLA",
+            "RECOMPRA O DESEMBOLSO": "2.038.606"
+        }
+    }
+]

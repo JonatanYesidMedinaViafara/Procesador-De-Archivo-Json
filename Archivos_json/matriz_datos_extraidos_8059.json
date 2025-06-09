@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "669081370344",
+            "SOLICITUD": "6793256",
+            "CEDULA": "1667874536",
+            "NOMBRES": "WILSON MERCADO",
+            "RECOMPRA O DESEMBOLSO": "1.983.620",
+            "FIRMA ELLECTRONICA": "WILSON MERCADO - 1667874536"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "669081370344",
+            "NOMBRES": "WILSON MERCADO",
+            "CREDITO": "11.513.968",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "334.705",
+            "FIRMA ELLECTRONICA": "WILSON MERCADO - 1667874536",
+            "AL PIE DE LA FIRMA": "WILSON MERCADO - 1667874536"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1667874536",
+            "NOMBRES": "WILSON MERCADO",
+            "FECHA NACIMIENTO": "21/05/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.513.968",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "WILSON MERCADO - 1667874536",
+            "AL PIE DE LA FIRMA": "WILSON MERCADO - 1667874536"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6793256",
+            "CEDULA": "1667874536",
+            "NOMBRES": "WILSON MERCADO",
+            "CREDITO": "11.513.968",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "334.705",
+            "E.A": "23.93%",
+            "RECOMPRA O DESEMBOLSO": "1.983.620",
+            "FIRMA ELLECTRONICA": "WILSON MERCADO - 1667874536"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1667874536",
+            "NOMBRES": "WILSON MERCADO",
+            "FIRMA ELLECTRONICA": "WILSON MERCADO - 1667874536"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1667874536",
+            "NOMBRES": "WILSON MERCADO",
+            "FIRMA ELLECTRONICA": "WILSON MERCADO - 1667874536",
+            "AL PIE DE LA FIRMA": "WILSON MERCADO - 1667874536"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WILSON MERCADO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1667874536",
+            "NOMBRES": "WILSON MERCADO",
+            "SALARIO": "3.184.859",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "22/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1667874536",
+            "NOMBRES": "WILSON MERCADO",
+            "RECOMPRA O DESEMBOLSO": "1.983.620"
+        }
+    }
+]

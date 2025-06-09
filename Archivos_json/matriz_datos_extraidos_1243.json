@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "357161800899",
+            "SOLICITUD": "8079152",
+            "CEDULA": "1127411738",
+            "NOMBRES": "ALIX CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "3.827.507",
+            "FIRMA ELLECTRONICA": "ALIX CÓRDOBA - 1127411738"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "357161800899",
+            "NOMBRES": "ALIX CÓRDOBA",
+            "CREDITO": "17.637.520",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "257.101",
+            "FIRMA ELLECTRONICA": "ALIX CÓRDOBA - 1127411738",
+            "AL PIE DE LA FIRMA": "ALIX CÓRDOBA - 1127411738"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1127411738",
+            "NOMBRES": "ALIX CÓRDOBA",
+            "FECHA NACIMIENTO": "14/10/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.637.520",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALIX CÓRDOBA - 1127411738",
+            "AL PIE DE LA FIRMA": "ALIX CÓRDOBA - 1127411738"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8079152",
+            "CEDULA": "1127411738",
+            "NOMBRES": "ALIX CÓRDOBA",
+            "CREDITO": "17.637.520",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "257.101",
+            "E.A": "21.0%",
+            "RECOMPRA O DESEMBOLSO": "3.827.507",
+            "FIRMA ELLECTRONICA": "ALIX CÓRDOBA - 1127411738"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1127411738",
+            "NOMBRES": "ALIX CÓRDOBA",
+            "FIRMA ELLECTRONICA": "ALIX CÓRDOBA - 1127411738"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1127411738",
+            "NOMBRES": "ALIX CÓRDOBA",
+            "FIRMA ELLECTRONICA": "ALIX CÓRDOBA - 1127411738",
+            "AL PIE DE LA FIRMA": "ALIX CÓRDOBA - 1127411738"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALIX CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1127411738",
+            "NOMBRES": "ALIX CÓRDOBA",
+            "SALARIO": "2.228.461",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1127411738",
+            "NOMBRES": "ALIX CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "3.827.507"
+        }
+    }
+]

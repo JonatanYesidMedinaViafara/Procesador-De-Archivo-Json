@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "533041927525",
+            "SOLICITUD": "4612407",
+            "CEDULA": "1488374010",
+            "NOMBRES": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.570.852",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN - 1488374010"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "533041927525",
+            "NOMBRES": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN",
+            "CREDITO": "14.701.178",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "234.227",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN - 1488374010",
+            "AL PIE DE LA FIRMA": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN - 1488374010"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1488374010",
+            "NOMBRES": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN",
+            "FECHA NACIMIENTO": "04/06/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.701.178",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN - 1488374010",
+            "AL PIE DE LA FIRMA": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN - 1488374010"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4612407",
+            "CEDULA": "1488374010",
+            "NOMBRES": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN",
+            "CREDITO": "14.701.178",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "234.227",
+            "E.A": "18.58%",
+            "RECOMPRA O DESEMBOLSO": "2.570.852",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN - 1488374010"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1488374010",
+            "NOMBRES": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN - 1488374010"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1488374010",
+            "NOMBRES": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN",
+            "FIRMA ELLECTRONICA": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN - 1488374010",
+            "AL PIE DE LA FIRMA": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN - 1488374010"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1488374010",
+            "NOMBRES": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN",
+            "SALARIO": "2.103.383",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "22/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1488374010",
+            "NOMBRES": "RAFAEL JOSÉ GUTIÉRREZ RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "2.570.852"
+        }
+    }
+]

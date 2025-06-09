@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "346484094947",
+            "SOLICITUD": "9158852",
+            "CEDULA": "1063299171",
+            "NOMBRES": "MARÍA ANA OSPINA CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.022.975",
+            "FIRMA ELLECTRONICA": "MARÍA ANA OSPINA CASTRO - 1063299171"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "346484094947",
+            "NOMBRES": "MARÍA ANA OSPINA CASTRO",
+            "CREDITO": "9.330.797",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "250.092",
+            "FIRMA ELLECTRONICA": "MARÍA ANA OSPINA CASTRO - 1063299171",
+            "AL PIE DE LA FIRMA": "MARÍA ANA OSPINA CASTRO - 1063299171"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1063299171",
+            "NOMBRES": "MARÍA ANA OSPINA CASTRO",
+            "FECHA NACIMIENTO": "23/12/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.330.797",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA ANA OSPINA CASTRO - 1063299171",
+            "AL PIE DE LA FIRMA": "MARÍA ANA OSPINA CASTRO - 1063299171"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9158852",
+            "CEDULA": "1063299171",
+            "NOMBRES": "MARÍA ANA OSPINA CASTRO",
+            "CREDITO": "9.330.797",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "250.092",
+            "E.A": "23.4%",
+            "RECOMPRA O DESEMBOLSO": "4.022.975",
+            "FIRMA ELLECTRONICA": "MARÍA ANA OSPINA CASTRO - 1063299171"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1063299171",
+            "NOMBRES": "MARÍA ANA OSPINA CASTRO",
+            "FIRMA ELLECTRONICA": "MARÍA ANA OSPINA CASTRO - 1063299171"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1063299171",
+            "NOMBRES": "MARÍA ANA OSPINA CASTRO",
+            "FIRMA ELLECTRONICA": "MARÍA ANA OSPINA CASTRO - 1063299171",
+            "AL PIE DE LA FIRMA": "MARÍA ANA OSPINA CASTRO - 1063299171"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ANA OSPINA CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1063299171",
+            "NOMBRES": "MARÍA ANA OSPINA CASTRO",
+            "SALARIO": "4.007.175",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "04/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1063299171",
+            "NOMBRES": "MARÍA ANA OSPINA CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.022.975"
+        }
+    }
+]

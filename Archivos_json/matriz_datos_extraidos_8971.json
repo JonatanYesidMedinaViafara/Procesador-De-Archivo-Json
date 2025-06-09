@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "654581237185",
+            "SOLICITUD": "2864382",
+            "CEDULA": "1401183095",
+            "NOMBRES": "JESÚS CORTÉS QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.635.026",
+            "FIRMA ELLECTRONICA": "JESÚS CORTÉS QUINTERO - 1401183095"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "654581237185",
+            "NOMBRES": "JESÚS CORTÉS QUINTERO",
+            "CREDITO": "9.062.815",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "330.809",
+            "FIRMA ELLECTRONICA": "JESÚS CORTÉS QUINTERO - 1401183095",
+            "AL PIE DE LA FIRMA": "JESÚS CORTÉS QUINTERO - 1401183095"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1401183095",
+            "NOMBRES": "JESÚS CORTÉS QUINTERO",
+            "FECHA NACIMIENTO": "27/09/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.062.815",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JESÚS CORTÉS QUINTERO - 1401183095",
+            "AL PIE DE LA FIRMA": "JESÚS CORTÉS QUINTERO - 1401183095"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2864382",
+            "CEDULA": "1401183095",
+            "NOMBRES": "JESÚS CORTÉS QUINTERO",
+            "CREDITO": "9.062.815",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "CUOTAS": "72",
+            "VL.CUOTA": "330.809",
+            "E.A": "23.94%",
+            "RECOMPRA O DESEMBOLSO": "1.635.026",
+            "FIRMA ELLECTRONICA": "JESÚS CORTÉS QUINTERO - 1401183095"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1401183095",
+            "NOMBRES": "JESÚS CORTÉS QUINTERO",
+            "FIRMA ELLECTRONICA": "JESÚS CORTÉS QUINTERO - 1401183095"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1401183095",
+            "NOMBRES": "JESÚS CORTÉS QUINTERO",
+            "FIRMA ELLECTRONICA": "JESÚS CORTÉS QUINTERO - 1401183095",
+            "AL PIE DE LA FIRMA": "JESÚS CORTÉS QUINTERO - 1401183095"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS CORTÉS QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1401183095",
+            "NOMBRES": "JESÚS CORTÉS QUINTERO",
+            "SALARIO": "3.029.405",
+            "PAGADURIA": "SECRETARÍA EDUCACIÓN",
+            "FECHA DESPRENDIBLE": "31/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1401183095",
+            "NOMBRES": "JESÚS CORTÉS QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.635.026"
+        }
+    }
+]

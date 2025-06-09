@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "218441141195",
+            "SOLICITUD": "9443286",
+            "CEDULA": "1027228628",
+            "NOMBRES": "RUBÉN SILVA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.592.677",
+            "FIRMA ELLECTRONICA": "RUBÉN SILVA GUERRERO - 1027228628"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "218441141195",
+            "NOMBRES": "RUBÉN SILVA GUERRERO",
+            "CREDITO": "18.713.278",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "307.517",
+            "FIRMA ELLECTRONICA": "RUBÉN SILVA GUERRERO - 1027228628",
+            "AL PIE DE LA FIRMA": "RUBÉN SILVA GUERRERO - 1027228628"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1027228628",
+            "NOMBRES": "RUBÉN SILVA GUERRERO",
+            "FECHA NACIMIENTO": "18/02/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.713.278",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RUBÉN SILVA GUERRERO - 1027228628",
+            "AL PIE DE LA FIRMA": "RUBÉN SILVA GUERRERO - 1027228628"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9443286",
+            "CEDULA": "1027228628",
+            "NOMBRES": "RUBÉN SILVA GUERRERO",
+            "CREDITO": "18.713.278",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "307.517",
+            "E.A": "27.14%",
+            "RECOMPRA O DESEMBOLSO": "4.592.677",
+            "FIRMA ELLECTRONICA": "RUBÉN SILVA GUERRERO - 1027228628"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1027228628",
+            "NOMBRES": "RUBÉN SILVA GUERRERO",
+            "FIRMA ELLECTRONICA": "RUBÉN SILVA GUERRERO - 1027228628"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1027228628",
+            "NOMBRES": "RUBÉN SILVA GUERRERO",
+            "FIRMA ELLECTRONICA": "RUBÉN SILVA GUERRERO - 1027228628",
+            "AL PIE DE LA FIRMA": "RUBÉN SILVA GUERRERO - 1027228628"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RUBÉN SILVA GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1027228628",
+            "NOMBRES": "RUBÉN SILVA GUERRERO",
+            "SALARIO": "3.859.824",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1027228628",
+            "NOMBRES": "RUBÉN SILVA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.592.677"
+        }
+    }
+]

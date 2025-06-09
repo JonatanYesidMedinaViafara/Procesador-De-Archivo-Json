@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "283891621294",
+            "SOLICITUD": "1512106",
+            "CEDULA": "1322663288",
+            "NOMBRES": "ENRIQUE SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "1.601.680",
+            "FIRMA ELLECTRONICA": "ENRIQUE SANDOVAL - 1322663288"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "283891621294",
+            "NOMBRES": "ENRIQUE SANDOVAL",
+            "CREDITO": "7.527.847",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "113.678",
+            "FIRMA ELLECTRONICA": "ENRIQUE SANDOVAL - 1322663288",
+            "AL PIE DE LA FIRMA": "ENRIQUE SANDOVAL - 1322663288"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1322663288",
+            "NOMBRES": "ENRIQUE SANDOVAL",
+            "FECHA NACIMIENTO": "25/03/1966"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.527.847",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE SANDOVAL - 1322663288",
+            "AL PIE DE LA FIRMA": "ENRIQUE SANDOVAL - 1322663288"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1512106",
+            "CEDULA": "1322663288",
+            "NOMBRES": "ENRIQUE SANDOVAL",
+            "CREDITO": "7.527.847",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "113.678",
+            "E.A": "27.53%",
+            "RECOMPRA O DESEMBOLSO": "1.601.680",
+            "FIRMA ELLECTRONICA": "ENRIQUE SANDOVAL - 1322663288"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1322663288",
+            "NOMBRES": "ENRIQUE SANDOVAL",
+            "FIRMA ELLECTRONICA": "ENRIQUE SANDOVAL - 1322663288"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1322663288",
+            "NOMBRES": "ENRIQUE SANDOVAL",
+            "FIRMA ELLECTRONICA": "ENRIQUE SANDOVAL - 1322663288",
+            "AL PIE DE LA FIRMA": "ENRIQUE SANDOVAL - 1322663288"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE SANDOVAL"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1322663288",
+            "NOMBRES": "ENRIQUE SANDOVAL",
+            "SALARIO": "4.432.016",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1322663288",
+            "NOMBRES": "ENRIQUE SANDOVAL",
+            "RECOMPRA O DESEMBOLSO": "1.601.680"
+        }
+    }
+]

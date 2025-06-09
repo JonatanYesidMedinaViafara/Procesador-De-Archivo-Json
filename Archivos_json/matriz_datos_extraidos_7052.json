@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "983483366433",
+            "SOLICITUD": "6427414",
+            "CEDULA": "1710702952",
+            "NOMBRES": "HAROLD NÉSTOR REYES",
+            "RECOMPRA O DESEMBOLSO": "4.528.342",
+            "FIRMA ELLECTRONICA": "HAROLD NÉSTOR REYES - 1710702952"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "983483366433",
+            "NOMBRES": "HAROLD NÉSTOR REYES",
+            "CREDITO": "16.692.134",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "239.433",
+            "FIRMA ELLECTRONICA": "HAROLD NÉSTOR REYES - 1710702952",
+            "AL PIE DE LA FIRMA": "HAROLD NÉSTOR REYES - 1710702952"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1710702952",
+            "NOMBRES": "HAROLD NÉSTOR REYES",
+            "FECHA NACIMIENTO": "30/09/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.692.134",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "HAROLD NÉSTOR REYES - 1710702952",
+            "AL PIE DE LA FIRMA": "HAROLD NÉSTOR REYES - 1710702952"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6427414",
+            "CEDULA": "1710702952",
+            "NOMBRES": "HAROLD NÉSTOR REYES",
+            "CREDITO": "16.692.134",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "239.433",
+            "E.A": "27.7%",
+            "RECOMPRA O DESEMBOLSO": "4.528.342",
+            "FIRMA ELLECTRONICA": "HAROLD NÉSTOR REYES - 1710702952"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1710702952",
+            "NOMBRES": "HAROLD NÉSTOR REYES",
+            "FIRMA ELLECTRONICA": "HAROLD NÉSTOR REYES - 1710702952"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1710702952",
+            "NOMBRES": "HAROLD NÉSTOR REYES",
+            "FIRMA ELLECTRONICA": "HAROLD NÉSTOR REYES - 1710702952",
+            "AL PIE DE LA FIRMA": "HAROLD NÉSTOR REYES - 1710702952"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HAROLD NÉSTOR REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1710702952",
+            "NOMBRES": "HAROLD NÉSTOR REYES",
+            "SALARIO": "3.313.572",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "19/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1710702952",
+            "NOMBRES": "HAROLD NÉSTOR REYES",
+            "RECOMPRA O DESEMBOLSO": "4.528.342"
+        }
+    }
+]

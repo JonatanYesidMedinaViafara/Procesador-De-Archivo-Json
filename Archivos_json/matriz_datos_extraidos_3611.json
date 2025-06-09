@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "216263824899",
+            "SOLICITUD": "1223135",
+            "CEDULA": "1942539461",
+            "NOMBRES": "MARÍA SANDRA CORREA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.860.635",
+            "FIRMA ELLECTRONICA": "MARÍA SANDRA CORREA GUERRERO - 1942539461"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "216263824899",
+            "NOMBRES": "MARÍA SANDRA CORREA GUERRERO",
+            "CREDITO": "11.122.331",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "360.345",
+            "FIRMA ELLECTRONICA": "MARÍA SANDRA CORREA GUERRERO - 1942539461",
+            "AL PIE DE LA FIRMA": "MARÍA SANDRA CORREA GUERRERO - 1942539461"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1942539461",
+            "NOMBRES": "MARÍA SANDRA CORREA GUERRERO",
+            "FECHA NACIMIENTO": "08/08/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.122.331",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA SANDRA CORREA GUERRERO - 1942539461",
+            "AL PIE DE LA FIRMA": "MARÍA SANDRA CORREA GUERRERO - 1942539461"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1223135",
+            "CEDULA": "1942539461",
+            "NOMBRES": "MARÍA SANDRA CORREA GUERRERO",
+            "CREDITO": "11.122.331",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "360.345",
+            "E.A": "23.97%",
+            "RECOMPRA O DESEMBOLSO": "4.860.635",
+            "FIRMA ELLECTRONICA": "MARÍA SANDRA CORREA GUERRERO - 1942539461"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1942539461",
+            "NOMBRES": "MARÍA SANDRA CORREA GUERRERO",
+            "FIRMA ELLECTRONICA": "MARÍA SANDRA CORREA GUERRERO - 1942539461"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1942539461",
+            "NOMBRES": "MARÍA SANDRA CORREA GUERRERO",
+            "FIRMA ELLECTRONICA": "MARÍA SANDRA CORREA GUERRERO - 1942539461",
+            "AL PIE DE LA FIRMA": "MARÍA SANDRA CORREA GUERRERO - 1942539461"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA SANDRA CORREA GUERRERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1942539461",
+            "NOMBRES": "MARÍA SANDRA CORREA GUERRERO",
+            "SALARIO": "1.420.551",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "26/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1942539461",
+            "NOMBRES": "MARÍA SANDRA CORREA GUERRERO",
+            "RECOMPRA O DESEMBOLSO": "4.860.635"
+        }
+    }
+]

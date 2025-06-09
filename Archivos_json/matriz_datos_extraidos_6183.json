@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "633549499420",
+            "SOLICITUD": "8423590",
+            "CEDULA": "1106694879",
+            "NOMBRES": "ALBERTO CRISTIAN CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.733.358",
+            "FIRMA ELLECTRONICA": "ALBERTO CRISTIAN CORREDOR - 1106694879"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "633549499420",
+            "NOMBRES": "ALBERTO CRISTIAN CORREDOR",
+            "CREDITO": "16.135.457",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "263.177",
+            "FIRMA ELLECTRONICA": "ALBERTO CRISTIAN CORREDOR - 1106694879",
+            "AL PIE DE LA FIRMA": "ALBERTO CRISTIAN CORREDOR - 1106694879"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1106694879",
+            "NOMBRES": "ALBERTO CRISTIAN CORREDOR",
+            "FECHA NACIMIENTO": "19/11/1993"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.135.457",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALBERTO CRISTIAN CORREDOR - 1106694879",
+            "AL PIE DE LA FIRMA": "ALBERTO CRISTIAN CORREDOR - 1106694879"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8423590",
+            "CEDULA": "1106694879",
+            "NOMBRES": "ALBERTO CRISTIAN CORREDOR",
+            "CREDITO": "16.135.457",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "263.177",
+            "E.A": "24.8%",
+            "RECOMPRA O DESEMBOLSO": "3.733.358",
+            "FIRMA ELLECTRONICA": "ALBERTO CRISTIAN CORREDOR - 1106694879"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1106694879",
+            "NOMBRES": "ALBERTO CRISTIAN CORREDOR",
+            "FIRMA ELLECTRONICA": "ALBERTO CRISTIAN CORREDOR - 1106694879"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1106694879",
+            "NOMBRES": "ALBERTO CRISTIAN CORREDOR",
+            "FIRMA ELLECTRONICA": "ALBERTO CRISTIAN CORREDOR - 1106694879",
+            "AL PIE DE LA FIRMA": "ALBERTO CRISTIAN CORREDOR - 1106694879"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO CRISTIAN CORREDOR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1106694879",
+            "NOMBRES": "ALBERTO CRISTIAN CORREDOR",
+            "SALARIO": "2.887.977",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "15/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1106694879",
+            "NOMBRES": "ALBERTO CRISTIAN CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.733.358"
+        }
+    }
+]

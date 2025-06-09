@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "439223069721",
+            "SOLICITUD": "9544841",
+            "CEDULA": "1171513950",
+            "NOMBRES": "INGRID JUDITH MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.567.924",
+            "FIRMA ELLECTRONICA": "INGRID JUDITH MUÑOZ - 1171513950"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "439223069721",
+            "NOMBRES": "INGRID JUDITH MUÑOZ",
+            "CREDITO": "7.564.384",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "269.636",
+            "FIRMA ELLECTRONICA": "INGRID JUDITH MUÑOZ - 1171513950",
+            "AL PIE DE LA FIRMA": "INGRID JUDITH MUÑOZ - 1171513950"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1171513950",
+            "NOMBRES": "INGRID JUDITH MUÑOZ",
+            "FECHA NACIMIENTO": "03/10/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.564.384",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "INGRID JUDITH MUÑOZ - 1171513950",
+            "AL PIE DE LA FIRMA": "INGRID JUDITH MUÑOZ - 1171513950"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9544841",
+            "CEDULA": "1171513950",
+            "NOMBRES": "INGRID JUDITH MUÑOZ",
+            "CREDITO": "7.564.384",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "269.636",
+            "E.A": "19.09%",
+            "RECOMPRA O DESEMBOLSO": "2.567.924",
+            "FIRMA ELLECTRONICA": "INGRID JUDITH MUÑOZ - 1171513950"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1171513950",
+            "NOMBRES": "INGRID JUDITH MUÑOZ",
+            "FIRMA ELLECTRONICA": "INGRID JUDITH MUÑOZ - 1171513950"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1171513950",
+            "NOMBRES": "INGRID JUDITH MUÑOZ",
+            "FIRMA ELLECTRONICA": "INGRID JUDITH MUÑOZ - 1171513950",
+            "AL PIE DE LA FIRMA": "INGRID JUDITH MUÑOZ - 1171513950"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "INGRID JUDITH MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1171513950",
+            "NOMBRES": "INGRID JUDITH MUÑOZ",
+            "SALARIO": "2.171.749",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1171513950",
+            "NOMBRES": "INGRID JUDITH MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "2.567.924"
+        }
+    }
+]

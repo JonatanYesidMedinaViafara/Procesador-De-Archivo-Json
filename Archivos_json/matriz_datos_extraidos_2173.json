@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "148628776997",
+            "SOLICITUD": "8232750",
+            "CEDULA": "1083651313",
+            "NOMBRES": "FERNEY EIDER MARTÍNEZ MURILLO",
+            "RECOMPRA O DESEMBOLSO": "2.323.097",
+            "FIRMA ELLECTRONICA": "FERNEY EIDER MARTÍNEZ MURILLO - 1083651313"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "148628776997",
+            "NOMBRES": "FERNEY EIDER MARTÍNEZ MURILLO",
+            "CREDITO": "12.981.901",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "195.052",
+            "FIRMA ELLECTRONICA": "FERNEY EIDER MARTÍNEZ MURILLO - 1083651313",
+            "AL PIE DE LA FIRMA": "FERNEY EIDER MARTÍNEZ MURILLO - 1083651313"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1083651313",
+            "NOMBRES": "FERNEY EIDER MARTÍNEZ MURILLO",
+            "FECHA NACIMIENTO": "06/09/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.981.901",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNEY EIDER MARTÍNEZ MURILLO - 1083651313",
+            "AL PIE DE LA FIRMA": "FERNEY EIDER MARTÍNEZ MURILLO - 1083651313"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8232750",
+            "CEDULA": "1083651313",
+            "NOMBRES": "FERNEY EIDER MARTÍNEZ MURILLO",
+            "CREDITO": "12.981.901",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "195.052",
+            "E.A": "26.66%",
+            "RECOMPRA O DESEMBOLSO": "2.323.097",
+            "FIRMA ELLECTRONICA": "FERNEY EIDER MARTÍNEZ MURILLO - 1083651313"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1083651313",
+            "NOMBRES": "FERNEY EIDER MARTÍNEZ MURILLO",
+            "FIRMA ELLECTRONICA": "FERNEY EIDER MARTÍNEZ MURILLO - 1083651313"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1083651313",
+            "NOMBRES": "FERNEY EIDER MARTÍNEZ MURILLO",
+            "FIRMA ELLECTRONICA": "FERNEY EIDER MARTÍNEZ MURILLO - 1083651313",
+            "AL PIE DE LA FIRMA": "FERNEY EIDER MARTÍNEZ MURILLO - 1083651313"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNEY EIDER MARTÍNEZ MURILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1083651313",
+            "NOMBRES": "FERNEY EIDER MARTÍNEZ MURILLO",
+            "SALARIO": "4.663.832",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1083651313",
+            "NOMBRES": "FERNEY EIDER MARTÍNEZ MURILLO",
+            "RECOMPRA O DESEMBOLSO": "2.323.097"
+        }
+    }
+]

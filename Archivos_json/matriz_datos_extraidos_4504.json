@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "589327562118",
+            "SOLICITUD": "1136534",
+            "CEDULA": "1184292891",
+            "NOMBRES": "MARÍA ANYI CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "3.777.422",
+            "FIRMA ELLECTRONICA": "MARÍA ANYI CEBALLOS - 1184292891"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "589327562118",
+            "NOMBRES": "MARÍA ANYI CEBALLOS",
+            "CREDITO": "17.243.196",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "244.897",
+            "FIRMA ELLECTRONICA": "MARÍA ANYI CEBALLOS - 1184292891",
+            "AL PIE DE LA FIRMA": "MARÍA ANYI CEBALLOS - 1184292891"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1184292891",
+            "NOMBRES": "MARÍA ANYI CEBALLOS",
+            "FECHA NACIMIENTO": "29/10/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.243.196",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA ANYI CEBALLOS - 1184292891",
+            "AL PIE DE LA FIRMA": "MARÍA ANYI CEBALLOS - 1184292891"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1136534",
+            "CEDULA": "1184292891",
+            "NOMBRES": "MARÍA ANYI CEBALLOS",
+            "CREDITO": "17.243.196",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "244.897",
+            "E.A": "26.5%",
+            "RECOMPRA O DESEMBOLSO": "3.777.422",
+            "FIRMA ELLECTRONICA": "MARÍA ANYI CEBALLOS - 1184292891"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1184292891",
+            "NOMBRES": "MARÍA ANYI CEBALLOS",
+            "FIRMA ELLECTRONICA": "MARÍA ANYI CEBALLOS - 1184292891"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1184292891",
+            "NOMBRES": "MARÍA ANYI CEBALLOS",
+            "FIRMA ELLECTRONICA": "MARÍA ANYI CEBALLOS - 1184292891",
+            "AL PIE DE LA FIRMA": "MARÍA ANYI CEBALLOS - 1184292891"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ANYI CEBALLOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1184292891",
+            "NOMBRES": "MARÍA ANYI CEBALLOS",
+            "SALARIO": "3.333.342",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1184292891",
+            "NOMBRES": "MARÍA ANYI CEBALLOS",
+            "RECOMPRA O DESEMBOLSO": "3.777.422"
+        }
+    }
+]

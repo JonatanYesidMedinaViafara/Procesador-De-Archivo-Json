@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "977798078339",
+            "SOLICITUD": "6031024",
+            "CEDULA": "1379716752",
+            "NOMBRES": "FABIÁN MARIO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.690.027",
+            "FIRMA ELLECTRONICA": "FABIÁN MARIO FERNÁNDEZ - 1379716752"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "977798078339",
+            "NOMBRES": "FABIÁN MARIO FERNÁNDEZ",
+            "CREDITO": "10.101.347",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "282.772",
+            "FIRMA ELLECTRONICA": "FABIÁN MARIO FERNÁNDEZ - 1379716752",
+            "AL PIE DE LA FIRMA": "FABIÁN MARIO FERNÁNDEZ - 1379716752"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1379716752",
+            "NOMBRES": "FABIÁN MARIO FERNÁNDEZ",
+            "FECHA NACIMIENTO": "19/06/1980"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.101.347",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "FABIÁN MARIO FERNÁNDEZ - 1379716752",
+            "AL PIE DE LA FIRMA": "FABIÁN MARIO FERNÁNDEZ - 1379716752"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6031024",
+            "CEDULA": "1379716752",
+            "NOMBRES": "FABIÁN MARIO FERNÁNDEZ",
+            "CREDITO": "10.101.347",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "282.772",
+            "E.A": "21.88%",
+            "RECOMPRA O DESEMBOLSO": "4.690.027",
+            "FIRMA ELLECTRONICA": "FABIÁN MARIO FERNÁNDEZ - 1379716752"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1379716752",
+            "NOMBRES": "FABIÁN MARIO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "FABIÁN MARIO FERNÁNDEZ - 1379716752"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1379716752",
+            "NOMBRES": "FABIÁN MARIO FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "FABIÁN MARIO FERNÁNDEZ - 1379716752",
+            "AL PIE DE LA FIRMA": "FABIÁN MARIO FERNÁNDEZ - 1379716752"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FABIÁN MARIO FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1379716752",
+            "NOMBRES": "FABIÁN MARIO FERNÁNDEZ",
+            "SALARIO": "2.546.920",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1379716752",
+            "NOMBRES": "FABIÁN MARIO FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "4.690.027"
+        }
+    }
+]

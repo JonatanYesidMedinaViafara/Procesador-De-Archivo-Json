@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "366708627530",
+            "SOLICITUD": "2842673",
+            "CEDULA": "1825840070",
+            "NOMBRES": "EDUARDO LIBARDO GÓMEZ BALLESTEROS",
+            "RECOMPRA O DESEMBOLSO": "3.635.590",
+            "FIRMA ELLECTRONICA": "EDUARDO LIBARDO GÓMEZ BALLESTEROS - 1825840070"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "366708627530",
+            "NOMBRES": "EDUARDO LIBARDO GÓMEZ BALLESTEROS",
+            "CREDITO": "19.162.341",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "215.682",
+            "FIRMA ELLECTRONICA": "EDUARDO LIBARDO GÓMEZ BALLESTEROS - 1825840070",
+            "AL PIE DE LA FIRMA": "EDUARDO LIBARDO GÓMEZ BALLESTEROS - 1825840070"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1825840070",
+            "NOMBRES": "EDUARDO LIBARDO GÓMEZ BALLESTEROS",
+            "FECHA NACIMIENTO": "25/09/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.162.341",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "EDUARDO LIBARDO GÓMEZ BALLESTEROS - 1825840070",
+            "AL PIE DE LA FIRMA": "EDUARDO LIBARDO GÓMEZ BALLESTEROS - 1825840070"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2842673",
+            "CEDULA": "1825840070",
+            "NOMBRES": "EDUARDO LIBARDO GÓMEZ BALLESTEROS",
+            "CREDITO": "19.162.341",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "215.682",
+            "E.A": "27.18%",
+            "RECOMPRA O DESEMBOLSO": "3.635.590",
+            "FIRMA ELLECTRONICA": "EDUARDO LIBARDO GÓMEZ BALLESTEROS - 1825840070"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1825840070",
+            "NOMBRES": "EDUARDO LIBARDO GÓMEZ BALLESTEROS",
+            "FIRMA ELLECTRONICA": "EDUARDO LIBARDO GÓMEZ BALLESTEROS - 1825840070"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1825840070",
+            "NOMBRES": "EDUARDO LIBARDO GÓMEZ BALLESTEROS",
+            "FIRMA ELLECTRONICA": "EDUARDO LIBARDO GÓMEZ BALLESTEROS - 1825840070",
+            "AL PIE DE LA FIRMA": "EDUARDO LIBARDO GÓMEZ BALLESTEROS - 1825840070"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDUARDO LIBARDO GÓMEZ BALLESTEROS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1825840070",
+            "NOMBRES": "EDUARDO LIBARDO GÓMEZ BALLESTEROS",
+            "SALARIO": "2.011.131",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "03/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1825840070",
+            "NOMBRES": "EDUARDO LIBARDO GÓMEZ BALLESTEROS",
+            "RECOMPRA O DESEMBOLSO": "3.635.590"
+        }
+    }
+]

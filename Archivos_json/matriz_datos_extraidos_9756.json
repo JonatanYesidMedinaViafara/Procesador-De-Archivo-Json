@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "810618774383",
+            "SOLICITUD": "8721177",
+            "CEDULA": "1016527764",
+            "NOMBRES": "VERÓNICA PADILLA",
+            "RECOMPRA O DESEMBOLSO": "3.123.612",
+            "FIRMA ELLECTRONICA": "VERÓNICA PADILLA - 1016527764"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "810618774383",
+            "NOMBRES": "VERÓNICA PADILLA",
+            "CREDITO": "8.464.141",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "381.562",
+            "FIRMA ELLECTRONICA": "VERÓNICA PADILLA - 1016527764",
+            "AL PIE DE LA FIRMA": "VERÓNICA PADILLA - 1016527764"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1016527764",
+            "NOMBRES": "VERÓNICA PADILLA",
+            "FECHA NACIMIENTO": "24/03/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.464.141",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "VERÓNICA PADILLA - 1016527764",
+            "AL PIE DE LA FIRMA": "VERÓNICA PADILLA - 1016527764"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8721177",
+            "CEDULA": "1016527764",
+            "NOMBRES": "VERÓNICA PADILLA",
+            "CREDITO": "8.464.141",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "381.562",
+            "E.A": "18.52%",
+            "RECOMPRA O DESEMBOLSO": "3.123.612",
+            "FIRMA ELLECTRONICA": "VERÓNICA PADILLA - 1016527764"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1016527764",
+            "NOMBRES": "VERÓNICA PADILLA",
+            "FIRMA ELLECTRONICA": "VERÓNICA PADILLA - 1016527764"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1016527764",
+            "NOMBRES": "VERÓNICA PADILLA",
+            "FIRMA ELLECTRONICA": "VERÓNICA PADILLA - 1016527764",
+            "AL PIE DE LA FIRMA": "VERÓNICA PADILLA - 1016527764"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "VERÓNICA PADILLA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1016527764",
+            "NOMBRES": "VERÓNICA PADILLA",
+            "SALARIO": "1.108.480",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1016527764",
+            "NOMBRES": "VERÓNICA PADILLA",
+            "RECOMPRA O DESEMBOLSO": "3.123.612"
+        }
+    }
+]

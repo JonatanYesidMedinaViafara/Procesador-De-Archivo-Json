@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "138237345564",
+            "SOLICITUD": "2012502",
+            "CEDULA": "1377139386",
+            "NOMBRES": "DANIELA NIDIA MALDONADO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.335.718",
+            "FIRMA ELLECTRONICA": "DANIELA NIDIA MALDONADO CASTRO - 1377139386"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "138237345564",
+            "NOMBRES": "DANIELA NIDIA MALDONADO CASTRO",
+            "CREDITO": "7.140.556",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "267.475",
+            "FIRMA ELLECTRONICA": "DANIELA NIDIA MALDONADO CASTRO - 1377139386",
+            "AL PIE DE LA FIRMA": "DANIELA NIDIA MALDONADO CASTRO - 1377139386"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1377139386",
+            "NOMBRES": "DANIELA NIDIA MALDONADO CASTRO",
+            "FECHA NACIMIENTO": "12/01/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.140.556",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DANIELA NIDIA MALDONADO CASTRO - 1377139386",
+            "AL PIE DE LA FIRMA": "DANIELA NIDIA MALDONADO CASTRO - 1377139386"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2012502",
+            "CEDULA": "1377139386",
+            "NOMBRES": "DANIELA NIDIA MALDONADO CASTRO",
+            "CREDITO": "7.140.556",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "267.475",
+            "E.A": "24.73%",
+            "RECOMPRA O DESEMBOLSO": "4.335.718",
+            "FIRMA ELLECTRONICA": "DANIELA NIDIA MALDONADO CASTRO - 1377139386"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1377139386",
+            "NOMBRES": "DANIELA NIDIA MALDONADO CASTRO",
+            "FIRMA ELLECTRONICA": "DANIELA NIDIA MALDONADO CASTRO - 1377139386"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1377139386",
+            "NOMBRES": "DANIELA NIDIA MALDONADO CASTRO",
+            "FIRMA ELLECTRONICA": "DANIELA NIDIA MALDONADO CASTRO - 1377139386",
+            "AL PIE DE LA FIRMA": "DANIELA NIDIA MALDONADO CASTRO - 1377139386"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DANIELA NIDIA MALDONADO CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1377139386",
+            "NOMBRES": "DANIELA NIDIA MALDONADO CASTRO",
+            "SALARIO": "3.699.383",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1377139386",
+            "NOMBRES": "DANIELA NIDIA MALDONADO CASTRO",
+            "RECOMPRA O DESEMBOLSO": "4.335.718"
+        }
+    }
+]

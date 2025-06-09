@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "330128440049",
+            "SOLICITUD": "4360708",
+            "CEDULA": "1930281218",
+            "NOMBRES": "MARÍA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.019.072",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS - 1930281218"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "330128440049",
+            "NOMBRES": "MARÍA ROJAS",
+            "CREDITO": "6.675.835",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "286.31",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS - 1930281218",
+            "AL PIE DE LA FIRMA": "MARÍA ROJAS - 1930281218"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1930281218",
+            "NOMBRES": "MARÍA ROJAS",
+            "FECHA NACIMIENTO": "11/11/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.675.835",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS - 1930281218",
+            "AL PIE DE LA FIRMA": "MARÍA ROJAS - 1930281218"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4360708",
+            "CEDULA": "1930281218",
+            "NOMBRES": "MARÍA ROJAS",
+            "CREDITO": "6.675.835",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "286.31",
+            "E.A": "26.96%",
+            "RECOMPRA O DESEMBOLSO": "4.019.072",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS - 1930281218"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1930281218",
+            "NOMBRES": "MARÍA ROJAS",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS - 1930281218"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1930281218",
+            "NOMBRES": "MARÍA ROJAS",
+            "FIRMA ELLECTRONICA": "MARÍA ROJAS - 1930281218",
+            "AL PIE DE LA FIRMA": "MARÍA ROJAS - 1930281218"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ROJAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1930281218",
+            "NOMBRES": "MARÍA ROJAS",
+            "SALARIO": "3.999.855",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1930281218",
+            "NOMBRES": "MARÍA ROJAS",
+            "RECOMPRA O DESEMBOLSO": "4.019.072"
+        }
+    }
+]

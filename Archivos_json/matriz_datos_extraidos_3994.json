@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "277035349550",
+            "SOLICITUD": "8687036",
+            "CEDULA": "1278650222",
+            "NOMBRES": "ROSARIO QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.360.793",
+            "FIRMA ELLECTRONICA": "ROSARIO QUINTERO - 1278650222"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "277035349550",
+            "NOMBRES": "ROSARIO QUINTERO",
+            "CREDITO": "11.108.437",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "257.189",
+            "FIRMA ELLECTRONICA": "ROSARIO QUINTERO - 1278650222",
+            "AL PIE DE LA FIRMA": "ROSARIO QUINTERO - 1278650222"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1278650222",
+            "NOMBRES": "ROSARIO QUINTERO",
+            "FECHA NACIMIENTO": "21/04/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.108.437",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ROSARIO QUINTERO - 1278650222",
+            "AL PIE DE LA FIRMA": "ROSARIO QUINTERO - 1278650222"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8687036",
+            "CEDULA": "1278650222",
+            "NOMBRES": "ROSARIO QUINTERO",
+            "CREDITO": "11.108.437",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "257.189",
+            "E.A": "18.09%",
+            "RECOMPRA O DESEMBOLSO": "1.360.793",
+            "FIRMA ELLECTRONICA": "ROSARIO QUINTERO - 1278650222"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1278650222",
+            "NOMBRES": "ROSARIO QUINTERO",
+            "FIRMA ELLECTRONICA": "ROSARIO QUINTERO - 1278650222"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1278650222",
+            "NOMBRES": "ROSARIO QUINTERO",
+            "FIRMA ELLECTRONICA": "ROSARIO QUINTERO - 1278650222",
+            "AL PIE DE LA FIRMA": "ROSARIO QUINTERO - 1278650222"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ROSARIO QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1278650222",
+            "NOMBRES": "ROSARIO QUINTERO",
+            "SALARIO": "3.035.458",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "07/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1278650222",
+            "NOMBRES": "ROSARIO QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "1.360.793"
+        }
+    }
+]

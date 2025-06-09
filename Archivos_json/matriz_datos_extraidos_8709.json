@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "950056931227",
+            "SOLICITUD": "8623146",
+            "CEDULA": "1943880433",
+            "NOMBRES": "JOSÉ IVÁN PÉREZ CASTRO",
+            "RECOMPRA O DESEMBOLSO": "2.872.589",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PÉREZ CASTRO - 1943880433"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "950056931227",
+            "NOMBRES": "JOSÉ IVÁN PÉREZ CASTRO",
+            "CREDITO": "10.741.295",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "200.682",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PÉREZ CASTRO - 1943880433",
+            "AL PIE DE LA FIRMA": "JOSÉ IVÁN PÉREZ CASTRO - 1943880433"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1943880433",
+            "NOMBRES": "JOSÉ IVÁN PÉREZ CASTRO",
+            "FECHA NACIMIENTO": "23/06/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.741.295",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PÉREZ CASTRO - 1943880433",
+            "AL PIE DE LA FIRMA": "JOSÉ IVÁN PÉREZ CASTRO - 1943880433"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8623146",
+            "CEDULA": "1943880433",
+            "NOMBRES": "JOSÉ IVÁN PÉREZ CASTRO",
+            "CREDITO": "10.741.295",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "200.682",
+            "E.A": "18.7%",
+            "RECOMPRA O DESEMBOLSO": "2.872.589",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PÉREZ CASTRO - 1943880433"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1943880433",
+            "NOMBRES": "JOSÉ IVÁN PÉREZ CASTRO",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PÉREZ CASTRO - 1943880433"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1943880433",
+            "NOMBRES": "JOSÉ IVÁN PÉREZ CASTRO",
+            "FIRMA ELLECTRONICA": "JOSÉ IVÁN PÉREZ CASTRO - 1943880433",
+            "AL PIE DE LA FIRMA": "JOSÉ IVÁN PÉREZ CASTRO - 1943880433"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ IVÁN PÉREZ CASTRO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1943880433",
+            "NOMBRES": "JOSÉ IVÁN PÉREZ CASTRO",
+            "SALARIO": "3.806.904",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "07/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1943880433",
+            "NOMBRES": "JOSÉ IVÁN PÉREZ CASTRO",
+            "RECOMPRA O DESEMBOLSO": "2.872.589"
+        }
+    }
+]

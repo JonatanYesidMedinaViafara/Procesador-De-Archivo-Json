@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "734384580826",
+            "SOLICITUD": "5996342",
+            "CEDULA": "1053413154",
+            "NOMBRES": "CARLOS CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.927.661",
+            "FIRMA ELLECTRONICA": "CARLOS CASTILLO - 1053413154"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "734384580826",
+            "NOMBRES": "CARLOS CASTILLO",
+            "CREDITO": "7.019.221",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "277.709",
+            "FIRMA ELLECTRONICA": "CARLOS CASTILLO - 1053413154",
+            "AL PIE DE LA FIRMA": "CARLOS CASTILLO - 1053413154"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1053413154",
+            "NOMBRES": "CARLOS CASTILLO",
+            "FECHA NACIMIENTO": "30/06/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.019.221",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS CASTILLO - 1053413154",
+            "AL PIE DE LA FIRMA": "CARLOS CASTILLO - 1053413154"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5996342",
+            "CEDULA": "1053413154",
+            "NOMBRES": "CARLOS CASTILLO",
+            "CREDITO": "7.019.221",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "277.709",
+            "E.A": "18.86%",
+            "RECOMPRA O DESEMBOLSO": "3.927.661",
+            "FIRMA ELLECTRONICA": "CARLOS CASTILLO - 1053413154"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1053413154",
+            "NOMBRES": "CARLOS CASTILLO",
+            "FIRMA ELLECTRONICA": "CARLOS CASTILLO - 1053413154"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1053413154",
+            "NOMBRES": "CARLOS CASTILLO",
+            "FIRMA ELLECTRONICA": "CARLOS CASTILLO - 1053413154",
+            "AL PIE DE LA FIRMA": "CARLOS CASTILLO - 1053413154"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS CASTILLO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1053413154",
+            "NOMBRES": "CARLOS CASTILLO",
+            "SALARIO": "3.408.162",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1053413154",
+            "NOMBRES": "CARLOS CASTILLO",
+            "RECOMPRA O DESEMBOLSO": "3.927.661"
+        }
+    }
+]

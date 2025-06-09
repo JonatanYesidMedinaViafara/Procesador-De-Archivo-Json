@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "868994822274",
+            "SOLICITUD": "2482770",
+            "CEDULA": "1077264594",
+            "NOMBRES": "JUAN FIGUEROA",
+            "RECOMPRA O DESEMBOLSO": "1.915.882",
+            "FIRMA ELLECTRONICA": "JUAN FIGUEROA - 1077264594"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "868994822274",
+            "NOMBRES": "JUAN FIGUEROA",
+            "CREDITO": "9.972.708",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "165.181",
+            "FIRMA ELLECTRONICA": "JUAN FIGUEROA - 1077264594",
+            "AL PIE DE LA FIRMA": "JUAN FIGUEROA - 1077264594"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1077264594",
+            "NOMBRES": "JUAN FIGUEROA",
+            "FECHA NACIMIENTO": "06/10/1970"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.972.708",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JUAN FIGUEROA - 1077264594",
+            "AL PIE DE LA FIRMA": "JUAN FIGUEROA - 1077264594"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2482770",
+            "CEDULA": "1077264594",
+            "NOMBRES": "JUAN FIGUEROA",
+            "CREDITO": "9.972.708",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "165.181",
+            "E.A": "24.85%",
+            "RECOMPRA O DESEMBOLSO": "1.915.882",
+            "FIRMA ELLECTRONICA": "JUAN FIGUEROA - 1077264594"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1077264594",
+            "NOMBRES": "JUAN FIGUEROA",
+            "FIRMA ELLECTRONICA": "JUAN FIGUEROA - 1077264594"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1077264594",
+            "NOMBRES": "JUAN FIGUEROA",
+            "FIRMA ELLECTRONICA": "JUAN FIGUEROA - 1077264594",
+            "AL PIE DE LA FIRMA": "JUAN FIGUEROA - 1077264594"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JUAN FIGUEROA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1077264594",
+            "NOMBRES": "JUAN FIGUEROA",
+            "SALARIO": "3.370.485",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "16/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1077264594",
+            "NOMBRES": "JUAN FIGUEROA",
+            "RECOMPRA O DESEMBOLSO": "1.915.882"
+        }
+    }
+]

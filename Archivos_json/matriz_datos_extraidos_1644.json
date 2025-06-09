@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "150096531939",
+            "SOLICITUD": "4004854",
+            "CEDULA": "1683749780",
+            "NOMBRES": "MERCEDES SANDRA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.270.880",
+            "FIRMA ELLECTRONICA": "MERCEDES SANDRA RAMÍREZ - 1683749780"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "150096531939",
+            "NOMBRES": "MERCEDES SANDRA RAMÍREZ",
+            "CREDITO": "9.637.191",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "228.695",
+            "FIRMA ELLECTRONICA": "MERCEDES SANDRA RAMÍREZ - 1683749780",
+            "AL PIE DE LA FIRMA": "MERCEDES SANDRA RAMÍREZ - 1683749780"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1683749780",
+            "NOMBRES": "MERCEDES SANDRA RAMÍREZ",
+            "FECHA NACIMIENTO": "30/08/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.637.191",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MERCEDES SANDRA RAMÍREZ - 1683749780",
+            "AL PIE DE LA FIRMA": "MERCEDES SANDRA RAMÍREZ - 1683749780"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4004854",
+            "CEDULA": "1683749780",
+            "NOMBRES": "MERCEDES SANDRA RAMÍREZ",
+            "CREDITO": "9.637.191",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "228.695",
+            "E.A": "28.72%",
+            "RECOMPRA O DESEMBOLSO": "3.270.880",
+            "FIRMA ELLECTRONICA": "MERCEDES SANDRA RAMÍREZ - 1683749780"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1683749780",
+            "NOMBRES": "MERCEDES SANDRA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "MERCEDES SANDRA RAMÍREZ - 1683749780"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1683749780",
+            "NOMBRES": "MERCEDES SANDRA RAMÍREZ",
+            "FIRMA ELLECTRONICA": "MERCEDES SANDRA RAMÍREZ - 1683749780",
+            "AL PIE DE LA FIRMA": "MERCEDES SANDRA RAMÍREZ - 1683749780"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MERCEDES SANDRA RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1683749780",
+            "NOMBRES": "MERCEDES SANDRA RAMÍREZ",
+            "SALARIO": "4.798.956",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "30/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1683749780",
+            "NOMBRES": "MERCEDES SANDRA RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "3.270.880"
+        }
+    }
+]

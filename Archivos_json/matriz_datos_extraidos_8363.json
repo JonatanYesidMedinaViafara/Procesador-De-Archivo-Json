@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "815967052323",
+            "SOLICITUD": "4791714",
+            "CEDULA": "1586146028",
+            "NOMBRES": "ALEXANDER JOSÉ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.368.786",
+            "FIRMA ELLECTRONICA": "ALEXANDER JOSÉ MARTÍNEZ - 1586146028"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "815967052323",
+            "NOMBRES": "ALEXANDER JOSÉ MARTÍNEZ",
+            "CREDITO": "9.407.219",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "162.753",
+            "FIRMA ELLECTRONICA": "ALEXANDER JOSÉ MARTÍNEZ - 1586146028",
+            "AL PIE DE LA FIRMA": "ALEXANDER JOSÉ MARTÍNEZ - 1586146028"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1586146028",
+            "NOMBRES": "ALEXANDER JOSÉ MARTÍNEZ",
+            "FECHA NACIMIENTO": "22/04/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.407.219",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ALEXANDER JOSÉ MARTÍNEZ - 1586146028",
+            "AL PIE DE LA FIRMA": "ALEXANDER JOSÉ MARTÍNEZ - 1586146028"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4791714",
+            "CEDULA": "1586146028",
+            "NOMBRES": "ALEXANDER JOSÉ MARTÍNEZ",
+            "CREDITO": "9.407.219",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "162.753",
+            "E.A": "28.82%",
+            "RECOMPRA O DESEMBOLSO": "1.368.786",
+            "FIRMA ELLECTRONICA": "ALEXANDER JOSÉ MARTÍNEZ - 1586146028"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1586146028",
+            "NOMBRES": "ALEXANDER JOSÉ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER JOSÉ MARTÍNEZ - 1586146028"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1586146028",
+            "NOMBRES": "ALEXANDER JOSÉ MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "ALEXANDER JOSÉ MARTÍNEZ - 1586146028",
+            "AL PIE DE LA FIRMA": "ALEXANDER JOSÉ MARTÍNEZ - 1586146028"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEXANDER JOSÉ MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1586146028",
+            "NOMBRES": "ALEXANDER JOSÉ MARTÍNEZ",
+            "SALARIO": "1.822.129",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1586146028",
+            "NOMBRES": "ALEXANDER JOSÉ MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "1.368.786"
+        }
+    }
+]

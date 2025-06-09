@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "480077173137",
+            "SOLICITUD": "8373365",
+            "CEDULA": "1631383161",
+            "NOMBRES": "JOHN ARANGO ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "1.499.804",
+            "FIRMA ELLECTRONICA": "JOHN ARANGO ANDRADE - 1631383161"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "480077173137",
+            "NOMBRES": "JOHN ARANGO ANDRADE",
+            "CREDITO": "14.247.505",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "348.382",
+            "FIRMA ELLECTRONICA": "JOHN ARANGO ANDRADE - 1631383161",
+            "AL PIE DE LA FIRMA": "JOHN ARANGO ANDRADE - 1631383161"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1631383161",
+            "NOMBRES": "JOHN ARANGO ANDRADE",
+            "FECHA NACIMIENTO": "02/01/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.247.505",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "JOHN ARANGO ANDRADE - 1631383161",
+            "AL PIE DE LA FIRMA": "JOHN ARANGO ANDRADE - 1631383161"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8373365",
+            "CEDULA": "1631383161",
+            "NOMBRES": "JOHN ARANGO ANDRADE",
+            "CREDITO": "14.247.505",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "348.382",
+            "E.A": "19.15%",
+            "RECOMPRA O DESEMBOLSO": "1.499.804",
+            "FIRMA ELLECTRONICA": "JOHN ARANGO ANDRADE - 1631383161"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1631383161",
+            "NOMBRES": "JOHN ARANGO ANDRADE",
+            "FIRMA ELLECTRONICA": "JOHN ARANGO ANDRADE - 1631383161"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1631383161",
+            "NOMBRES": "JOHN ARANGO ANDRADE",
+            "FIRMA ELLECTRONICA": "JOHN ARANGO ANDRADE - 1631383161",
+            "AL PIE DE LA FIRMA": "JOHN ARANGO ANDRADE - 1631383161"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOHN ARANGO ANDRADE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1631383161",
+            "NOMBRES": "JOHN ARANGO ANDRADE",
+            "SALARIO": "2.885.414",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "20/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1631383161",
+            "NOMBRES": "JOHN ARANGO ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "1.499.804"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "545322600001",
+            "SOLICITUD": "6978954",
+            "CEDULA": "1809946753",
+            "NOMBRES": "RICARDO HERNÁNDEZ LONDOÑO",
+            "RECOMPRA O DESEMBOLSO": "1.245.270",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ LONDOÑO - 1809946753"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "545322600001",
+            "NOMBRES": "RICARDO HERNÁNDEZ LONDOÑO",
+            "CREDITO": "19.121.013",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "266.226",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ LONDOÑO - 1809946753",
+            "AL PIE DE LA FIRMA": "RICARDO HERNÁNDEZ LONDOÑO - 1809946753"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1809946753",
+            "NOMBRES": "RICARDO HERNÁNDEZ LONDOÑO",
+            "FECHA NACIMIENTO": "13/08/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.121.013",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ LONDOÑO - 1809946753",
+            "AL PIE DE LA FIRMA": "RICARDO HERNÁNDEZ LONDOÑO - 1809946753"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6978954",
+            "CEDULA": "1809946753",
+            "NOMBRES": "RICARDO HERNÁNDEZ LONDOÑO",
+            "CREDITO": "19.121.013",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "266.226",
+            "E.A": "21.49%",
+            "RECOMPRA O DESEMBOLSO": "1.245.270",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ LONDOÑO - 1809946753"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1809946753",
+            "NOMBRES": "RICARDO HERNÁNDEZ LONDOÑO",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ LONDOÑO - 1809946753"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1809946753",
+            "NOMBRES": "RICARDO HERNÁNDEZ LONDOÑO",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ LONDOÑO - 1809946753",
+            "AL PIE DE LA FIRMA": "RICARDO HERNÁNDEZ LONDOÑO - 1809946753"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RICARDO HERNÁNDEZ LONDOÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1809946753",
+            "NOMBRES": "RICARDO HERNÁNDEZ LONDOÑO",
+            "SALARIO": "1.720.150",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "20/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1809946753",
+            "NOMBRES": "RICARDO HERNÁNDEZ LONDOÑO",
+            "RECOMPRA O DESEMBOLSO": "1.245.270"
+        }
+    }
+]

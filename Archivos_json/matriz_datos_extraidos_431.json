@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "711281646052",
+            "SOLICITUD": "9737637",
+            "CEDULA": "1877156478",
+            "NOMBRES": "SNEIDER FRANCISCO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.207.267",
+            "FIRMA ELLECTRONICA": "SNEIDER FRANCISCO GÓMEZ - 1877156478"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "711281646052",
+            "NOMBRES": "SNEIDER FRANCISCO GÓMEZ",
+            "CREDITO": "10.099.421",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "102.249",
+            "FIRMA ELLECTRONICA": "SNEIDER FRANCISCO GÓMEZ - 1877156478",
+            "AL PIE DE LA FIRMA": "SNEIDER FRANCISCO GÓMEZ - 1877156478"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1877156478",
+            "NOMBRES": "SNEIDER FRANCISCO GÓMEZ",
+            "FECHA NACIMIENTO": "11/06/1972"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.099.421",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "SNEIDER FRANCISCO GÓMEZ - 1877156478",
+            "AL PIE DE LA FIRMA": "SNEIDER FRANCISCO GÓMEZ - 1877156478"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9737637",
+            "CEDULA": "1877156478",
+            "NOMBRES": "SNEIDER FRANCISCO GÓMEZ",
+            "CREDITO": "10.099.421",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "102.249",
+            "E.A": "23.76%",
+            "RECOMPRA O DESEMBOLSO": "2.207.267",
+            "FIRMA ELLECTRONICA": "SNEIDER FRANCISCO GÓMEZ - 1877156478"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1877156478",
+            "NOMBRES": "SNEIDER FRANCISCO GÓMEZ",
+            "FIRMA ELLECTRONICA": "SNEIDER FRANCISCO GÓMEZ - 1877156478"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1877156478",
+            "NOMBRES": "SNEIDER FRANCISCO GÓMEZ",
+            "FIRMA ELLECTRONICA": "SNEIDER FRANCISCO GÓMEZ - 1877156478",
+            "AL PIE DE LA FIRMA": "SNEIDER FRANCISCO GÓMEZ - 1877156478"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "SNEIDER FRANCISCO GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1877156478",
+            "NOMBRES": "SNEIDER FRANCISCO GÓMEZ",
+            "SALARIO": "1.656.340",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "13/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1877156478",
+            "NOMBRES": "SNEIDER FRANCISCO GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "2.207.267"
+        }
+    }
+]

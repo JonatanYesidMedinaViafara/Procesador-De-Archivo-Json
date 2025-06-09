@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "875449853002",
+            "SOLICITUD": "7090140",
+            "CEDULA": "1788343849",
+            "NOMBRES": "MARÍA LUZ MELO",
+            "RECOMPRA O DESEMBOLSO": "4.317.479",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ MELO - 1788343849"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "875449853002",
+            "NOMBRES": "MARÍA LUZ MELO",
+            "CREDITO": "18.401.872",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "149.611",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ MELO - 1788343849",
+            "AL PIE DE LA FIRMA": "MARÍA LUZ MELO - 1788343849"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1788343849",
+            "NOMBRES": "MARÍA LUZ MELO",
+            "FECHA NACIMIENTO": "24/01/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.401.872",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ MELO - 1788343849",
+            "AL PIE DE LA FIRMA": "MARÍA LUZ MELO - 1788343849"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7090140",
+            "CEDULA": "1788343849",
+            "NOMBRES": "MARÍA LUZ MELO",
+            "CREDITO": "18.401.872",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "149.611",
+            "E.A": "21.99%",
+            "RECOMPRA O DESEMBOLSO": "4.317.479",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ MELO - 1788343849"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1788343849",
+            "NOMBRES": "MARÍA LUZ MELO",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ MELO - 1788343849"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1788343849",
+            "NOMBRES": "MARÍA LUZ MELO",
+            "FIRMA ELLECTRONICA": "MARÍA LUZ MELO - 1788343849",
+            "AL PIE DE LA FIRMA": "MARÍA LUZ MELO - 1788343849"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA LUZ MELO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1788343849",
+            "NOMBRES": "MARÍA LUZ MELO",
+            "SALARIO": "1.987.901",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "01/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1788343849",
+            "NOMBRES": "MARÍA LUZ MELO",
+            "RECOMPRA O DESEMBOLSO": "4.317.479"
+        }
+    }
+]

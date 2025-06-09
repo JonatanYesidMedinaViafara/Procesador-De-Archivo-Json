@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "811946058385",
+            "SOLICITUD": "1813720",
+            "CEDULA": "1470751931",
+            "NOMBRES": "LUIS ANTONIO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.396.056",
+            "FIRMA ELLECTRONICA": "LUIS ANTONIO MUÑOZ - 1470751931"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "811946058385",
+            "NOMBRES": "LUIS ANTONIO MUÑOZ",
+            "CREDITO": "11.745.474",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "399.131",
+            "FIRMA ELLECTRONICA": "LUIS ANTONIO MUÑOZ - 1470751931",
+            "AL PIE DE LA FIRMA": "LUIS ANTONIO MUÑOZ - 1470751931"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1470751931",
+            "NOMBRES": "LUIS ANTONIO MUÑOZ",
+            "FECHA NACIMIENTO": "14/11/1992"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.745.474",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "LUIS ANTONIO MUÑOZ - 1470751931",
+            "AL PIE DE LA FIRMA": "LUIS ANTONIO MUÑOZ - 1470751931"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1813720",
+            "CEDULA": "1470751931",
+            "NOMBRES": "LUIS ANTONIO MUÑOZ",
+            "CREDITO": "11.745.474",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "399.131",
+            "E.A": "25.76%",
+            "RECOMPRA O DESEMBOLSO": "1.396.056",
+            "FIRMA ELLECTRONICA": "LUIS ANTONIO MUÑOZ - 1470751931"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1470751931",
+            "NOMBRES": "LUIS ANTONIO MUÑOZ",
+            "FIRMA ELLECTRONICA": "LUIS ANTONIO MUÑOZ - 1470751931"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1470751931",
+            "NOMBRES": "LUIS ANTONIO MUÑOZ",
+            "FIRMA ELLECTRONICA": "LUIS ANTONIO MUÑOZ - 1470751931",
+            "AL PIE DE LA FIRMA": "LUIS ANTONIO MUÑOZ - 1470751931"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS ANTONIO MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1470751931",
+            "NOMBRES": "LUIS ANTONIO MUÑOZ",
+            "SALARIO": "1.801.985",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1470751931",
+            "NOMBRES": "LUIS ANTONIO MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "1.396.056"
+        }
+    }
+]

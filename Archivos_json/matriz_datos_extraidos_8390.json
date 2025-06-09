@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "718417808705",
+            "SOLICITUD": "1432340",
+            "CEDULA": "1043632223",
+            "NOMBRES": "ALBERTO MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.297.226",
+            "FIRMA ELLECTRONICA": "ALBERTO MORENO - 1043632223"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "718417808705",
+            "NOMBRES": "ALBERTO MORENO",
+            "CREDITO": "7.513.636",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "189.62",
+            "FIRMA ELLECTRONICA": "ALBERTO MORENO - 1043632223",
+            "AL PIE DE LA FIRMA": "ALBERTO MORENO - 1043632223"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1043632223",
+            "NOMBRES": "ALBERTO MORENO",
+            "FECHA NACIMIENTO": "16/04/1989"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.513.636",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ALBERTO MORENO - 1043632223",
+            "AL PIE DE LA FIRMA": "ALBERTO MORENO - 1043632223"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1432340",
+            "CEDULA": "1043632223",
+            "NOMBRES": "ALBERTO MORENO",
+            "CREDITO": "7.513.636",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "189.62",
+            "E.A": "22.75%",
+            "RECOMPRA O DESEMBOLSO": "3.297.226",
+            "FIRMA ELLECTRONICA": "ALBERTO MORENO - 1043632223"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1043632223",
+            "NOMBRES": "ALBERTO MORENO",
+            "FIRMA ELLECTRONICA": "ALBERTO MORENO - 1043632223"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1043632223",
+            "NOMBRES": "ALBERTO MORENO",
+            "FIRMA ELLECTRONICA": "ALBERTO MORENO - 1043632223",
+            "AL PIE DE LA FIRMA": "ALBERTO MORENO - 1043632223"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALBERTO MORENO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1043632223",
+            "NOMBRES": "ALBERTO MORENO",
+            "SALARIO": "2.417.824",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "24/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1043632223",
+            "NOMBRES": "ALBERTO MORENO",
+            "RECOMPRA O DESEMBOLSO": "3.297.226"
+        }
+    }
+]

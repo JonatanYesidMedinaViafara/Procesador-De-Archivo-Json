@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "230311426950",
+            "SOLICITUD": "2300885",
+            "CEDULA": "1226479517",
+            "NOMBRES": "MARÍA VALENCIA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.569.631",
+            "FIRMA ELLECTRONICA": "MARÍA VALENCIA MUÑOZ - 1226479517"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "230311426950",
+            "NOMBRES": "MARÍA VALENCIA MUÑOZ",
+            "CREDITO": "7.358.759",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "161.992",
+            "FIRMA ELLECTRONICA": "MARÍA VALENCIA MUÑOZ - 1226479517",
+            "AL PIE DE LA FIRMA": "MARÍA VALENCIA MUÑOZ - 1226479517"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1226479517",
+            "NOMBRES": "MARÍA VALENCIA MUÑOZ",
+            "FECHA NACIMIENTO": "21/01/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.358.759",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MARÍA VALENCIA MUÑOZ - 1226479517",
+            "AL PIE DE LA FIRMA": "MARÍA VALENCIA MUÑOZ - 1226479517"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2300885",
+            "CEDULA": "1226479517",
+            "NOMBRES": "MARÍA VALENCIA MUÑOZ",
+            "CREDITO": "7.358.759",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "161.992",
+            "E.A": "23.88%",
+            "RECOMPRA O DESEMBOLSO": "4.569.631",
+            "FIRMA ELLECTRONICA": "MARÍA VALENCIA MUÑOZ - 1226479517"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1226479517",
+            "NOMBRES": "MARÍA VALENCIA MUÑOZ",
+            "FIRMA ELLECTRONICA": "MARÍA VALENCIA MUÑOZ - 1226479517"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1226479517",
+            "NOMBRES": "MARÍA VALENCIA MUÑOZ",
+            "FIRMA ELLECTRONICA": "MARÍA VALENCIA MUÑOZ - 1226479517",
+            "AL PIE DE LA FIRMA": "MARÍA VALENCIA MUÑOZ - 1226479517"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA VALENCIA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1226479517",
+            "NOMBRES": "MARÍA VALENCIA MUÑOZ",
+            "SALARIO": "4.273.478",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "29/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1226479517",
+            "NOMBRES": "MARÍA VALENCIA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "4.569.631"
+        }
+    }
+]

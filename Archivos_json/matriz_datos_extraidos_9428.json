@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "731309546791",
+            "SOLICITUD": "6618304",
+            "CEDULA": "1111799209",
+            "NOMBRES": "ANA MARÍA CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "4.056.922",
+            "FIRMA ELLECTRONICA": "ANA MARÍA CASTAÑO - 1111799209"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "731309546791",
+            "NOMBRES": "ANA MARÍA CASTAÑO",
+            "CREDITO": "12.971.497",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "101.675",
+            "FIRMA ELLECTRONICA": "ANA MARÍA CASTAÑO - 1111799209",
+            "AL PIE DE LA FIRMA": "ANA MARÍA CASTAÑO - 1111799209"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1111799209",
+            "NOMBRES": "ANA MARÍA CASTAÑO",
+            "FECHA NACIMIENTO": "12/05/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.971.497",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ANA MARÍA CASTAÑO - 1111799209",
+            "AL PIE DE LA FIRMA": "ANA MARÍA CASTAÑO - 1111799209"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6618304",
+            "CEDULA": "1111799209",
+            "NOMBRES": "ANA MARÍA CASTAÑO",
+            "CREDITO": "12.971.497",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "101.675",
+            "E.A": "19.49%",
+            "RECOMPRA O DESEMBOLSO": "4.056.922",
+            "FIRMA ELLECTRONICA": "ANA MARÍA CASTAÑO - 1111799209"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1111799209",
+            "NOMBRES": "ANA MARÍA CASTAÑO",
+            "FIRMA ELLECTRONICA": "ANA MARÍA CASTAÑO - 1111799209"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1111799209",
+            "NOMBRES": "ANA MARÍA CASTAÑO",
+            "FIRMA ELLECTRONICA": "ANA MARÍA CASTAÑO - 1111799209",
+            "AL PIE DE LA FIRMA": "ANA MARÍA CASTAÑO - 1111799209"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA MARÍA CASTAÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1111799209",
+            "NOMBRES": "ANA MARÍA CASTAÑO",
+            "SALARIO": "4.060.746",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1111799209",
+            "NOMBRES": "ANA MARÍA CASTAÑO",
+            "RECOMPRA O DESEMBOLSO": "4.056.922"
+        }
+    }
+]

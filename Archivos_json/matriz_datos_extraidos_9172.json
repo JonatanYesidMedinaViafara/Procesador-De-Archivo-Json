@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "465234505815",
+            "SOLICITUD": "9318325",
+            "CEDULA": "1628045753",
+            "NOMBRES": "ENRIQUE HUMBERTO ARÉVALO",
+            "RECOMPRA O DESEMBOLSO": "4.921.600",
+            "FIRMA ELLECTRONICA": "ENRIQUE HUMBERTO ARÉVALO - 1628045753"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "465234505815",
+            "NOMBRES": "ENRIQUE HUMBERTO ARÉVALO",
+            "CREDITO": "17.861.328",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "239.325",
+            "FIRMA ELLECTRONICA": "ENRIQUE HUMBERTO ARÉVALO - 1628045753",
+            "AL PIE DE LA FIRMA": "ENRIQUE HUMBERTO ARÉVALO - 1628045753"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1628045753",
+            "NOMBRES": "ENRIQUE HUMBERTO ARÉVALO",
+            "FECHA NACIMIENTO": "29/01/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.861.328",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ENRIQUE HUMBERTO ARÉVALO - 1628045753",
+            "AL PIE DE LA FIRMA": "ENRIQUE HUMBERTO ARÉVALO - 1628045753"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9318325",
+            "CEDULA": "1628045753",
+            "NOMBRES": "ENRIQUE HUMBERTO ARÉVALO",
+            "CREDITO": "17.861.328",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "239.325",
+            "E.A": "20.82%",
+            "RECOMPRA O DESEMBOLSO": "4.921.600",
+            "FIRMA ELLECTRONICA": "ENRIQUE HUMBERTO ARÉVALO - 1628045753"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1628045753",
+            "NOMBRES": "ENRIQUE HUMBERTO ARÉVALO",
+            "FIRMA ELLECTRONICA": "ENRIQUE HUMBERTO ARÉVALO - 1628045753"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1628045753",
+            "NOMBRES": "ENRIQUE HUMBERTO ARÉVALO",
+            "FIRMA ELLECTRONICA": "ENRIQUE HUMBERTO ARÉVALO - 1628045753",
+            "AL PIE DE LA FIRMA": "ENRIQUE HUMBERTO ARÉVALO - 1628045753"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ENRIQUE HUMBERTO ARÉVALO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1628045753",
+            "NOMBRES": "ENRIQUE HUMBERTO ARÉVALO",
+            "SALARIO": "3.323.939",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "28/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1628045753",
+            "NOMBRES": "ENRIQUE HUMBERTO ARÉVALO",
+            "RECOMPRA O DESEMBOLSO": "4.921.600"
+        }
+    }
+]

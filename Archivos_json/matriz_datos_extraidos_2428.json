@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "460004554001",
+            "SOLICITUD": "1557015",
+            "CEDULA": "1597337488",
+            "NOMBRES": "MARCELA SÁNCHEZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.130.601",
+            "FIRMA ELLECTRONICA": "MARCELA SÁNCHEZ DÍAZ - 1597337488"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "460004554001",
+            "NOMBRES": "MARCELA SÁNCHEZ DÍAZ",
+            "CREDITO": "8.576.694",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "147.428",
+            "FIRMA ELLECTRONICA": "MARCELA SÁNCHEZ DÍAZ - 1597337488",
+            "AL PIE DE LA FIRMA": "MARCELA SÁNCHEZ DÍAZ - 1597337488"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1597337488",
+            "NOMBRES": "MARCELA SÁNCHEZ DÍAZ",
+            "FECHA NACIMIENTO": "04/01/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.576.694",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "MARCELA SÁNCHEZ DÍAZ - 1597337488",
+            "AL PIE DE LA FIRMA": "MARCELA SÁNCHEZ DÍAZ - 1597337488"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1557015",
+            "CEDULA": "1597337488",
+            "NOMBRES": "MARCELA SÁNCHEZ DÍAZ",
+            "CREDITO": "8.576.694",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "144",
+            "VL.CUOTA": "147.428",
+            "E.A": "22.91%",
+            "RECOMPRA O DESEMBOLSO": "2.130.601",
+            "FIRMA ELLECTRONICA": "MARCELA SÁNCHEZ DÍAZ - 1597337488"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1597337488",
+            "NOMBRES": "MARCELA SÁNCHEZ DÍAZ",
+            "FIRMA ELLECTRONICA": "MARCELA SÁNCHEZ DÍAZ - 1597337488"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1597337488",
+            "NOMBRES": "MARCELA SÁNCHEZ DÍAZ",
+            "FIRMA ELLECTRONICA": "MARCELA SÁNCHEZ DÍAZ - 1597337488",
+            "AL PIE DE LA FIRMA": "MARCELA SÁNCHEZ DÍAZ - 1597337488"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARCELA SÁNCHEZ DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1597337488",
+            "NOMBRES": "MARCELA SÁNCHEZ DÍAZ",
+            "SALARIO": "3.773.143",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1597337488",
+            "NOMBRES": "MARCELA SÁNCHEZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "2.130.601"
+        }
+    }
+]

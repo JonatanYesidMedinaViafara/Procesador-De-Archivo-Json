@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "357878421049",
+            "SOLICITUD": "8643995",
+            "CEDULA": "1014402154",
+            "NOMBRES": "LUIS GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.518.784",
+            "FIRMA ELLECTRONICA": "LUIS GONZÁLEZ - 1014402154"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "357878421049",
+            "NOMBRES": "LUIS GONZÁLEZ",
+            "CREDITO": "9.584.779",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "343.118",
+            "FIRMA ELLECTRONICA": "LUIS GONZÁLEZ - 1014402154",
+            "AL PIE DE LA FIRMA": "LUIS GONZÁLEZ - 1014402154"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1014402154",
+            "NOMBRES": "LUIS GONZÁLEZ",
+            "FECHA NACIMIENTO": "28/08/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.584.779",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "LUIS GONZÁLEZ - 1014402154",
+            "AL PIE DE LA FIRMA": "LUIS GONZÁLEZ - 1014402154"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8643995",
+            "CEDULA": "1014402154",
+            "NOMBRES": "LUIS GONZÁLEZ",
+            "CREDITO": "9.584.779",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "343.118",
+            "E.A": "20.52%",
+            "RECOMPRA O DESEMBOLSO": "4.518.784",
+            "FIRMA ELLECTRONICA": "LUIS GONZÁLEZ - 1014402154"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1014402154",
+            "NOMBRES": "LUIS GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "LUIS GONZÁLEZ - 1014402154"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1014402154",
+            "NOMBRES": "LUIS GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "LUIS GONZÁLEZ - 1014402154",
+            "AL PIE DE LA FIRMA": "LUIS GONZÁLEZ - 1014402154"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUIS GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1014402154",
+            "NOMBRES": "LUIS GONZÁLEZ",
+            "SALARIO": "3.170.360",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "04/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1014402154",
+            "NOMBRES": "LUIS GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "4.518.784"
+        }
+    }
+]

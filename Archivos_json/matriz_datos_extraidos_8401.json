@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "443323395486",
+            "SOLICITUD": "5870345",
+            "CEDULA": "1485922956",
+            "NOMBRES": "MIGUEL MARCOS PRIETO",
+            "RECOMPRA O DESEMBOLSO": "3.121.161",
+            "FIRMA ELLECTRONICA": "MIGUEL MARCOS PRIETO - 1485922956"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "443323395486",
+            "NOMBRES": "MIGUEL MARCOS PRIETO",
+            "CREDITO": "12.100.767",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "387.173",
+            "FIRMA ELLECTRONICA": "MIGUEL MARCOS PRIETO - 1485922956",
+            "AL PIE DE LA FIRMA": "MIGUEL MARCOS PRIETO - 1485922956"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1485922956",
+            "NOMBRES": "MIGUEL MARCOS PRIETO",
+            "FECHA NACIMIENTO": "20/04/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.100.767",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MIGUEL MARCOS PRIETO - 1485922956",
+            "AL PIE DE LA FIRMA": "MIGUEL MARCOS PRIETO - 1485922956"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5870345",
+            "CEDULA": "1485922956",
+            "NOMBRES": "MIGUEL MARCOS PRIETO",
+            "CREDITO": "12.100.767",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "387.173",
+            "E.A": "18.01%",
+            "RECOMPRA O DESEMBOLSO": "3.121.161",
+            "FIRMA ELLECTRONICA": "MIGUEL MARCOS PRIETO - 1485922956"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1485922956",
+            "NOMBRES": "MIGUEL MARCOS PRIETO",
+            "FIRMA ELLECTRONICA": "MIGUEL MARCOS PRIETO - 1485922956"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1485922956",
+            "NOMBRES": "MIGUEL MARCOS PRIETO",
+            "FIRMA ELLECTRONICA": "MIGUEL MARCOS PRIETO - 1485922956",
+            "AL PIE DE LA FIRMA": "MIGUEL MARCOS PRIETO - 1485922956"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MIGUEL MARCOS PRIETO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1485922956",
+            "NOMBRES": "MIGUEL MARCOS PRIETO",
+            "SALARIO": "4.303.647",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1485922956",
+            "NOMBRES": "MIGUEL MARCOS PRIETO",
+            "RECOMPRA O DESEMBOLSO": "3.121.161"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "120698585535",
+            "SOLICITUD": "5708692",
+            "CEDULA": "1952438832",
+            "NOMBRES": "JOSÉ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.406.787",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ - 1952438832"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "120698585535",
+            "NOMBRES": "JOSÉ RODRÍGUEZ",
+            "CREDITO": "19.832.027",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "275.561",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ - 1952438832",
+            "AL PIE DE LA FIRMA": "JOSÉ RODRÍGUEZ - 1952438832"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1952438832",
+            "NOMBRES": "JOSÉ RODRÍGUEZ",
+            "FECHA NACIMIENTO": "28/09/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.832.027",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ - 1952438832",
+            "AL PIE DE LA FIRMA": "JOSÉ RODRÍGUEZ - 1952438832"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5708692",
+            "CEDULA": "1952438832",
+            "NOMBRES": "JOSÉ RODRÍGUEZ",
+            "CREDITO": "19.832.027",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "275.561",
+            "E.A": "27.0%",
+            "RECOMPRA O DESEMBOLSO": "1.406.787",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ - 1952438832"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1952438832",
+            "NOMBRES": "JOSÉ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ - 1952438832"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1952438832",
+            "NOMBRES": "JOSÉ RODRÍGUEZ",
+            "FIRMA ELLECTRONICA": "JOSÉ RODRÍGUEZ - 1952438832",
+            "AL PIE DE LA FIRMA": "JOSÉ RODRÍGUEZ - 1952438832"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ RODRÍGUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1952438832",
+            "NOMBRES": "JOSÉ RODRÍGUEZ",
+            "SALARIO": "3.161.080",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "28/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1952438832",
+            "NOMBRES": "JOSÉ RODRÍGUEZ",
+            "RECOMPRA O DESEMBOLSO": "1.406.787"
+        }
+    }
+]

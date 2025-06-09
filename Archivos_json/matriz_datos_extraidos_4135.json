@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "661150444178",
+            "SOLICITUD": "8547617",
+            "CEDULA": "1689049524",
+            "NOMBRES": "MARÍA ANDREA CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.355.851",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA CORREDOR - 1689049524"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "661150444178",
+            "NOMBRES": "MARÍA ANDREA CORREDOR",
+            "CREDITO": "14.155.821",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "307.617",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA CORREDOR - 1689049524",
+            "AL PIE DE LA FIRMA": "MARÍA ANDREA CORREDOR - 1689049524"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1689049524",
+            "NOMBRES": "MARÍA ANDREA CORREDOR",
+            "FECHA NACIMIENTO": "01/04/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.155.821",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA CORREDOR - 1689049524",
+            "AL PIE DE LA FIRMA": "MARÍA ANDREA CORREDOR - 1689049524"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8547617",
+            "CEDULA": "1689049524",
+            "NOMBRES": "MARÍA ANDREA CORREDOR",
+            "CREDITO": "14.155.821",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "307.617",
+            "E.A": "25.65%",
+            "RECOMPRA O DESEMBOLSO": "3.355.851",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA CORREDOR - 1689049524"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1689049524",
+            "NOMBRES": "MARÍA ANDREA CORREDOR",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA CORREDOR - 1689049524"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1689049524",
+            "NOMBRES": "MARÍA ANDREA CORREDOR",
+            "FIRMA ELLECTRONICA": "MARÍA ANDREA CORREDOR - 1689049524",
+            "AL PIE DE LA FIRMA": "MARÍA ANDREA CORREDOR - 1689049524"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA ANDREA CORREDOR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1689049524",
+            "NOMBRES": "MARÍA ANDREA CORREDOR",
+            "SALARIO": "3.056.265",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "23/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1689049524",
+            "NOMBRES": "MARÍA ANDREA CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.355.851"
+        }
+    }
+]

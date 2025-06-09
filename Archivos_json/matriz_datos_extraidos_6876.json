@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "948475668150",
+            "SOLICITUD": "3171003",
+            "CEDULA": "1412040006",
+            "NOMBRES": "LUCÍA TATIANA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.315.749",
+            "FIRMA ELLECTRONICA": "LUCÍA TATIANA TORRES - 1412040006"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "948475668150",
+            "NOMBRES": "LUCÍA TATIANA TORRES",
+            "CREDITO": "13.571.922",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "253.648",
+            "FIRMA ELLECTRONICA": "LUCÍA TATIANA TORRES - 1412040006",
+            "AL PIE DE LA FIRMA": "LUCÍA TATIANA TORRES - 1412040006"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1412040006",
+            "NOMBRES": "LUCÍA TATIANA TORRES",
+            "FECHA NACIMIENTO": "03/11/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.571.922",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LUCÍA TATIANA TORRES - 1412040006",
+            "AL PIE DE LA FIRMA": "LUCÍA TATIANA TORRES - 1412040006"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3171003",
+            "CEDULA": "1412040006",
+            "NOMBRES": "LUCÍA TATIANA TORRES",
+            "CREDITO": "13.571.922",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "253.648",
+            "E.A": "28.9%",
+            "RECOMPRA O DESEMBOLSO": "4.315.749",
+            "FIRMA ELLECTRONICA": "LUCÍA TATIANA TORRES - 1412040006"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1412040006",
+            "NOMBRES": "LUCÍA TATIANA TORRES",
+            "FIRMA ELLECTRONICA": "LUCÍA TATIANA TORRES - 1412040006"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1412040006",
+            "NOMBRES": "LUCÍA TATIANA TORRES",
+            "FIRMA ELLECTRONICA": "LUCÍA TATIANA TORRES - 1412040006",
+            "AL PIE DE LA FIRMA": "LUCÍA TATIANA TORRES - 1412040006"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA TATIANA TORRES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1412040006",
+            "NOMBRES": "LUCÍA TATIANA TORRES",
+            "SALARIO": "1.254.078",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1412040006",
+            "NOMBRES": "LUCÍA TATIANA TORRES",
+            "RECOMPRA O DESEMBOLSO": "4.315.749"
+        }
+    }
+]

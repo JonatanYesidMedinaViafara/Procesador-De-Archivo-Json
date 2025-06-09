@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "698994625725",
+            "SOLICITUD": "9012126",
+            "CEDULA": "1643253795",
+            "NOMBRES": "JESÚS OSORIO",
+            "RECOMPRA O DESEMBOLSO": "3.034.844",
+            "FIRMA ELLECTRONICA": "JESÚS OSORIO - 1643253795"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "698994625725",
+            "NOMBRES": "JESÚS OSORIO",
+            "CREDITO": "9.212.606",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "387.84",
+            "FIRMA ELLECTRONICA": "JESÚS OSORIO - 1643253795",
+            "AL PIE DE LA FIRMA": "JESÚS OSORIO - 1643253795"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1643253795",
+            "NOMBRES": "JESÚS OSORIO",
+            "FECHA NACIMIENTO": "13/08/1988"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.212.606",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "JESÚS OSORIO - 1643253795",
+            "AL PIE DE LA FIRMA": "JESÚS OSORIO - 1643253795"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9012126",
+            "CEDULA": "1643253795",
+            "NOMBRES": "JESÚS OSORIO",
+            "CREDITO": "9.212.606",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "387.84",
+            "E.A": "21.84%",
+            "RECOMPRA O DESEMBOLSO": "3.034.844",
+            "FIRMA ELLECTRONICA": "JESÚS OSORIO - 1643253795"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1643253795",
+            "NOMBRES": "JESÚS OSORIO",
+            "FIRMA ELLECTRONICA": "JESÚS OSORIO - 1643253795"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1643253795",
+            "NOMBRES": "JESÚS OSORIO",
+            "FIRMA ELLECTRONICA": "JESÚS OSORIO - 1643253795",
+            "AL PIE DE LA FIRMA": "JESÚS OSORIO - 1643253795"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS OSORIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1643253795",
+            "NOMBRES": "JESÚS OSORIO",
+            "SALARIO": "2.799.630",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1643253795",
+            "NOMBRES": "JESÚS OSORIO",
+            "RECOMPRA O DESEMBOLSO": "3.034.844"
+        }
+    }
+]

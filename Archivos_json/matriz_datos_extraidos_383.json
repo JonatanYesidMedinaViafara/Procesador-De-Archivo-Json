@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "136664804174",
+            "SOLICITUD": "6035053",
+            "CEDULA": "1990789653",
+            "NOMBRES": "CARMEN MARÍA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "1.854.535",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA DÍAZ - 1990789653"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "136664804174",
+            "NOMBRES": "CARMEN MARÍA DÍAZ",
+            "CREDITO": "7.312.322",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "372.078",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA DÍAZ - 1990789653",
+            "AL PIE DE LA FIRMA": "CARMEN MARÍA DÍAZ - 1990789653"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1990789653",
+            "NOMBRES": "CARMEN MARÍA DÍAZ",
+            "FECHA NACIMIENTO": "05/10/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.312.322",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA DÍAZ - 1990789653",
+            "AL PIE DE LA FIRMA": "CARMEN MARÍA DÍAZ - 1990789653"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6035053",
+            "CEDULA": "1990789653",
+            "NOMBRES": "CARMEN MARÍA DÍAZ",
+            "CREDITO": "7.312.322",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "372.078",
+            "E.A": "22.16%",
+            "RECOMPRA O DESEMBOLSO": "1.854.535",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA DÍAZ - 1990789653"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1990789653",
+            "NOMBRES": "CARMEN MARÍA DÍAZ",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA DÍAZ - 1990789653"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1990789653",
+            "NOMBRES": "CARMEN MARÍA DÍAZ",
+            "FIRMA ELLECTRONICA": "CARMEN MARÍA DÍAZ - 1990789653",
+            "AL PIE DE LA FIRMA": "CARMEN MARÍA DÍAZ - 1990789653"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARMEN MARÍA DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1990789653",
+            "NOMBRES": "CARMEN MARÍA DÍAZ",
+            "SALARIO": "2.668.039",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "03/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1990789653",
+            "NOMBRES": "CARMEN MARÍA DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "1.854.535"
+        }
+    }
+]

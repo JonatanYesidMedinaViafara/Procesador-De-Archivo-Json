@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "209035682923",
+            "SOLICITUD": "8984128",
+            "CEDULA": "1969344734",
+            "NOMBRES": "JORGE URIBE",
+            "RECOMPRA O DESEMBOLSO": "4.762.516",
+            "FIRMA ELLECTRONICA": "JORGE URIBE - 1969344734"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "209035682923",
+            "NOMBRES": "JORGE URIBE",
+            "CREDITO": "18.975.065",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "324.478",
+            "FIRMA ELLECTRONICA": "JORGE URIBE - 1969344734",
+            "AL PIE DE LA FIRMA": "JORGE URIBE - 1969344734"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1969344734",
+            "NOMBRES": "JORGE URIBE",
+            "FECHA NACIMIENTO": "07/08/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.975.065",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JORGE URIBE - 1969344734",
+            "AL PIE DE LA FIRMA": "JORGE URIBE - 1969344734"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8984128",
+            "CEDULA": "1969344734",
+            "NOMBRES": "JORGE URIBE",
+            "CREDITO": "18.975.065",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "324.478",
+            "E.A": "18.73%",
+            "RECOMPRA O DESEMBOLSO": "4.762.516",
+            "FIRMA ELLECTRONICA": "JORGE URIBE - 1969344734"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1969344734",
+            "NOMBRES": "JORGE URIBE",
+            "FIRMA ELLECTRONICA": "JORGE URIBE - 1969344734"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1969344734",
+            "NOMBRES": "JORGE URIBE",
+            "FIRMA ELLECTRONICA": "JORGE URIBE - 1969344734",
+            "AL PIE DE LA FIRMA": "JORGE URIBE - 1969344734"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JORGE URIBE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1969344734",
+            "NOMBRES": "JORGE URIBE",
+            "SALARIO": "2.794.058",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1969344734",
+            "NOMBRES": "JORGE URIBE",
+            "RECOMPRA O DESEMBOLSO": "4.762.516"
+        }
+    }
+]

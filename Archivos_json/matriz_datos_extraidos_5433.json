@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "269996495743",
+            "SOLICITUD": "1811356",
+            "CEDULA": "1940559480",
+            "NOMBRES": "JAIME HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.355.485",
+            "FIRMA ELLECTRONICA": "JAIME HERRERA - 1940559480"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "269996495743",
+            "NOMBRES": "JAIME HERRERA",
+            "CREDITO": "8.387.967",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "173.469",
+            "FIRMA ELLECTRONICA": "JAIME HERRERA - 1940559480",
+            "AL PIE DE LA FIRMA": "JAIME HERRERA - 1940559480"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1940559480",
+            "NOMBRES": "JAIME HERRERA",
+            "FECHA NACIMIENTO": "17/02/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.387.967",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JAIME HERRERA - 1940559480",
+            "AL PIE DE LA FIRMA": "JAIME HERRERA - 1940559480"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1811356",
+            "CEDULA": "1940559480",
+            "NOMBRES": "JAIME HERRERA",
+            "CREDITO": "8.387.967",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "173.469",
+            "E.A": "20.0%",
+            "RECOMPRA O DESEMBOLSO": "2.355.485",
+            "FIRMA ELLECTRONICA": "JAIME HERRERA - 1940559480"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1940559480",
+            "NOMBRES": "JAIME HERRERA",
+            "FIRMA ELLECTRONICA": "JAIME HERRERA - 1940559480"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1940559480",
+            "NOMBRES": "JAIME HERRERA",
+            "FIRMA ELLECTRONICA": "JAIME HERRERA - 1940559480",
+            "AL PIE DE LA FIRMA": "JAIME HERRERA - 1940559480"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAIME HERRERA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1940559480",
+            "NOMBRES": "JAIME HERRERA",
+            "SALARIO": "3.153.816",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1940559480",
+            "NOMBRES": "JAIME HERRERA",
+            "RECOMPRA O DESEMBOLSO": "2.355.485"
+        }
+    }
+]

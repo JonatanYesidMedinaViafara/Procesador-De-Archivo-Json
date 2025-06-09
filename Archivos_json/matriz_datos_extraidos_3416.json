@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "992410121133",
+            "SOLICITUD": "1084036",
+            "CEDULA": "1714923339",
+            "NOMBRES": "ANDERSON RODRÍGUEZ CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "4.260.409",
+            "FIRMA ELLECTRONICA": "ANDERSON RODRÍGUEZ CONTRERAS - 1714923339"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "992410121133",
+            "NOMBRES": "ANDERSON RODRÍGUEZ CONTRERAS",
+            "CREDITO": "5.252.970",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.485",
+            "FIRMA ELLECTRONICA": "ANDERSON RODRÍGUEZ CONTRERAS - 1714923339",
+            "AL PIE DE LA FIRMA": "ANDERSON RODRÍGUEZ CONTRERAS - 1714923339"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1714923339",
+            "NOMBRES": "ANDERSON RODRÍGUEZ CONTRERAS",
+            "FECHA NACIMIENTO": "11/04/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "5.252.970",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ANDERSON RODRÍGUEZ CONTRERAS - 1714923339",
+            "AL PIE DE LA FIRMA": "ANDERSON RODRÍGUEZ CONTRERAS - 1714923339"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1084036",
+            "CEDULA": "1714923339",
+            "NOMBRES": "ANDERSON RODRÍGUEZ CONTRERAS",
+            "CREDITO": "5.252.970",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "283.485",
+            "E.A": "18.38%",
+            "RECOMPRA O DESEMBOLSO": "4.260.409",
+            "FIRMA ELLECTRONICA": "ANDERSON RODRÍGUEZ CONTRERAS - 1714923339"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1714923339",
+            "NOMBRES": "ANDERSON RODRÍGUEZ CONTRERAS",
+            "FIRMA ELLECTRONICA": "ANDERSON RODRÍGUEZ CONTRERAS - 1714923339"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1714923339",
+            "NOMBRES": "ANDERSON RODRÍGUEZ CONTRERAS",
+            "FIRMA ELLECTRONICA": "ANDERSON RODRÍGUEZ CONTRERAS - 1714923339",
+            "AL PIE DE LA FIRMA": "ANDERSON RODRÍGUEZ CONTRERAS - 1714923339"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANDERSON RODRÍGUEZ CONTRERAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1714923339",
+            "NOMBRES": "ANDERSON RODRÍGUEZ CONTRERAS",
+            "SALARIO": "2.386.795",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1714923339",
+            "NOMBRES": "ANDERSON RODRÍGUEZ CONTRERAS",
+            "RECOMPRA O DESEMBOLSO": "4.260.409"
+        }
+    }
+]

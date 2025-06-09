@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "901004418839",
+            "SOLICITUD": "1392263",
+            "CEDULA": "1034394739",
+            "NOMBRES": "ÁLVARO VÉLEZ MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "2.823.642",
+            "FIRMA ELLECTRONICA": "ÁLVARO VÉLEZ MENDOZA - 1034394739"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "901004418839",
+            "NOMBRES": "ÁLVARO VÉLEZ MENDOZA",
+            "CREDITO": "15.899.419",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "263.087",
+            "FIRMA ELLECTRONICA": "ÁLVARO VÉLEZ MENDOZA - 1034394739",
+            "AL PIE DE LA FIRMA": "ÁLVARO VÉLEZ MENDOZA - 1034394739"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1034394739",
+            "NOMBRES": "ÁLVARO VÉLEZ MENDOZA",
+            "FECHA NACIMIENTO": "01/05/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.899.419",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "ÁLVARO VÉLEZ MENDOZA - 1034394739",
+            "AL PIE DE LA FIRMA": "ÁLVARO VÉLEZ MENDOZA - 1034394739"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1392263",
+            "CEDULA": "1034394739",
+            "NOMBRES": "ÁLVARO VÉLEZ MENDOZA",
+            "CREDITO": "15.899.419",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "263.087",
+            "E.A": "27.73%",
+            "RECOMPRA O DESEMBOLSO": "2.823.642",
+            "FIRMA ELLECTRONICA": "ÁLVARO VÉLEZ MENDOZA - 1034394739"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1034394739",
+            "NOMBRES": "ÁLVARO VÉLEZ MENDOZA",
+            "FIRMA ELLECTRONICA": "ÁLVARO VÉLEZ MENDOZA - 1034394739"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1034394739",
+            "NOMBRES": "ÁLVARO VÉLEZ MENDOZA",
+            "FIRMA ELLECTRONICA": "ÁLVARO VÉLEZ MENDOZA - 1034394739",
+            "AL PIE DE LA FIRMA": "ÁLVARO VÉLEZ MENDOZA - 1034394739"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ÁLVARO VÉLEZ MENDOZA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1034394739",
+            "NOMBRES": "ÁLVARO VÉLEZ MENDOZA",
+            "SALARIO": "3.685.425",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "22/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1034394739",
+            "NOMBRES": "ÁLVARO VÉLEZ MENDOZA",
+            "RECOMPRA O DESEMBOLSO": "2.823.642"
+        }
+    }
+]

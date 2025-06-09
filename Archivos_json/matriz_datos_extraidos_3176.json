@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "400740927852",
+            "SOLICITUD": "4856234",
+            "CEDULA": "1749778112",
+            "NOMBRES": "JAVIER MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.138.078",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍNEZ - 1749778112"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "400740927852",
+            "NOMBRES": "JAVIER MARTÍNEZ",
+            "CREDITO": "13.528.490",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "198.431",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍNEZ - 1749778112",
+            "AL PIE DE LA FIRMA": "JAVIER MARTÍNEZ - 1749778112"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1749778112",
+            "NOMBRES": "JAVIER MARTÍNEZ",
+            "FECHA NACIMIENTO": "07/02/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.528.490",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍNEZ - 1749778112",
+            "AL PIE DE LA FIRMA": "JAVIER MARTÍNEZ - 1749778112"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4856234",
+            "CEDULA": "1749778112",
+            "NOMBRES": "JAVIER MARTÍNEZ",
+            "CREDITO": "13.528.490",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "198.431",
+            "E.A": "22.25%",
+            "RECOMPRA O DESEMBOLSO": "4.138.078",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍNEZ - 1749778112"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1749778112",
+            "NOMBRES": "JAVIER MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍNEZ - 1749778112"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1749778112",
+            "NOMBRES": "JAVIER MARTÍNEZ",
+            "FIRMA ELLECTRONICA": "JAVIER MARTÍNEZ - 1749778112",
+            "AL PIE DE LA FIRMA": "JAVIER MARTÍNEZ - 1749778112"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JAVIER MARTÍNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1749778112",
+            "NOMBRES": "JAVIER MARTÍNEZ",
+            "SALARIO": "1.044.306",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1749778112",
+            "NOMBRES": "JAVIER MARTÍNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.138.078"
+        }
+    }
+]

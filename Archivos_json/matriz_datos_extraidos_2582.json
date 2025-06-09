@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "238237481593",
+            "SOLICITUD": "8744792",
+            "CEDULA": "1058400016",
+            "NOMBRES": "DARIO FERNANDO FLÓREZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "1.705.519",
+            "FIRMA ELLECTRONICA": "DARIO FERNANDO FLÓREZ DÍAZ - 1058400016"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "238237481593",
+            "NOMBRES": "DARIO FERNANDO FLÓREZ DÍAZ",
+            "CREDITO": "13.587.896",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "212.665",
+            "FIRMA ELLECTRONICA": "DARIO FERNANDO FLÓREZ DÍAZ - 1058400016",
+            "AL PIE DE LA FIRMA": "DARIO FERNANDO FLÓREZ DÍAZ - 1058400016"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1058400016",
+            "NOMBRES": "DARIO FERNANDO FLÓREZ DÍAZ",
+            "FECHA NACIMIENTO": "23/06/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.587.896",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "DARIO FERNANDO FLÓREZ DÍAZ - 1058400016",
+            "AL PIE DE LA FIRMA": "DARIO FERNANDO FLÓREZ DÍAZ - 1058400016"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8744792",
+            "CEDULA": "1058400016",
+            "NOMBRES": "DARIO FERNANDO FLÓREZ DÍAZ",
+            "CREDITO": "13.587.896",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "212.665",
+            "E.A": "25.61%",
+            "RECOMPRA O DESEMBOLSO": "1.705.519",
+            "FIRMA ELLECTRONICA": "DARIO FERNANDO FLÓREZ DÍAZ - 1058400016"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1058400016",
+            "NOMBRES": "DARIO FERNANDO FLÓREZ DÍAZ",
+            "FIRMA ELLECTRONICA": "DARIO FERNANDO FLÓREZ DÍAZ - 1058400016"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1058400016",
+            "NOMBRES": "DARIO FERNANDO FLÓREZ DÍAZ",
+            "FIRMA ELLECTRONICA": "DARIO FERNANDO FLÓREZ DÍAZ - 1058400016",
+            "AL PIE DE LA FIRMA": "DARIO FERNANDO FLÓREZ DÍAZ - 1058400016"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DARIO FERNANDO FLÓREZ DÍAZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1058400016",
+            "NOMBRES": "DARIO FERNANDO FLÓREZ DÍAZ",
+            "SALARIO": "1.257.406",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1058400016",
+            "NOMBRES": "DARIO FERNANDO FLÓREZ DÍAZ",
+            "RECOMPRA O DESEMBOLSO": "1.705.519"
+        }
+    }
+]

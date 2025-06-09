@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "627549870432",
+            "SOLICITUD": "4288277",
+            "CEDULA": "1142693082",
+            "NOMBRES": "FERNANDO SANABRIA",
+            "RECOMPRA O DESEMBOLSO": "2.239.498",
+            "FIRMA ELLECTRONICA": "FERNANDO SANABRIA - 1142693082"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "627549870432",
+            "NOMBRES": "FERNANDO SANABRIA",
+            "CREDITO": "7.992.002",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "395.297",
+            "FIRMA ELLECTRONICA": "FERNANDO SANABRIA - 1142693082",
+            "AL PIE DE LA FIRMA": "FERNANDO SANABRIA - 1142693082"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1142693082",
+            "NOMBRES": "FERNANDO SANABRIA",
+            "FECHA NACIMIENTO": "06/06/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.992.002",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "FERNANDO SANABRIA - 1142693082",
+            "AL PIE DE LA FIRMA": "FERNANDO SANABRIA - 1142693082"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4288277",
+            "CEDULA": "1142693082",
+            "NOMBRES": "FERNANDO SANABRIA",
+            "CREDITO": "7.992.002",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "395.297",
+            "E.A": "26.05%",
+            "RECOMPRA O DESEMBOLSO": "2.239.498",
+            "FIRMA ELLECTRONICA": "FERNANDO SANABRIA - 1142693082"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1142693082",
+            "NOMBRES": "FERNANDO SANABRIA",
+            "FIRMA ELLECTRONICA": "FERNANDO SANABRIA - 1142693082"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1142693082",
+            "NOMBRES": "FERNANDO SANABRIA",
+            "FIRMA ELLECTRONICA": "FERNANDO SANABRIA - 1142693082",
+            "AL PIE DE LA FIRMA": "FERNANDO SANABRIA - 1142693082"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO SANABRIA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1142693082",
+            "NOMBRES": "FERNANDO SANABRIA",
+            "SALARIO": "3.183.862",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "14/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1142693082",
+            "NOMBRES": "FERNANDO SANABRIA",
+            "RECOMPRA O DESEMBOLSO": "2.239.498"
+        }
+    }
+]

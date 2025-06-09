@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "304812062618",
+            "SOLICITUD": "6820211",
+            "CEDULA": "1393795164",
+            "NOMBRES": "JESÚS DANIEL GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.324.050",
+            "FIRMA ELLECTRONICA": "JESÚS DANIEL GÓMEZ - 1393795164"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "304812062618",
+            "NOMBRES": "JESÚS DANIEL GÓMEZ",
+            "CREDITO": "6.117.898",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "157.34",
+            "FIRMA ELLECTRONICA": "JESÚS DANIEL GÓMEZ - 1393795164",
+            "AL PIE DE LA FIRMA": "JESÚS DANIEL GÓMEZ - 1393795164"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1393795164",
+            "NOMBRES": "JESÚS DANIEL GÓMEZ",
+            "FECHA NACIMIENTO": "04/11/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.117.898",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "JESÚS DANIEL GÓMEZ - 1393795164",
+            "AL PIE DE LA FIRMA": "JESÚS DANIEL GÓMEZ - 1393795164"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6820211",
+            "CEDULA": "1393795164",
+            "NOMBRES": "JESÚS DANIEL GÓMEZ",
+            "CREDITO": "6.117.898",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "157.34",
+            "E.A": "26.21%",
+            "RECOMPRA O DESEMBOLSO": "3.324.050",
+            "FIRMA ELLECTRONICA": "JESÚS DANIEL GÓMEZ - 1393795164"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1393795164",
+            "NOMBRES": "JESÚS DANIEL GÓMEZ",
+            "FIRMA ELLECTRONICA": "JESÚS DANIEL GÓMEZ - 1393795164"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1393795164",
+            "NOMBRES": "JESÚS DANIEL GÓMEZ",
+            "FIRMA ELLECTRONICA": "JESÚS DANIEL GÓMEZ - 1393795164",
+            "AL PIE DE LA FIRMA": "JESÚS DANIEL GÓMEZ - 1393795164"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JESÚS DANIEL GÓMEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1393795164",
+            "NOMBRES": "JESÚS DANIEL GÓMEZ",
+            "SALARIO": "2.789.418",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "27/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1393795164",
+            "NOMBRES": "JESÚS DANIEL GÓMEZ",
+            "RECOMPRA O DESEMBOLSO": "3.324.050"
+        }
+    }
+]

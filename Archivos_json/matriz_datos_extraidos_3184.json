@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "967900149215",
+            "SOLICITUD": "7449672",
+            "CEDULA": "1543690039",
+            "NOMBRES": "AUGUSTO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.731.018",
+            "FIRMA ELLECTRONICA": "AUGUSTO RINCÓN - 1543690039"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "967900149215",
+            "NOMBRES": "AUGUSTO RINCÓN",
+            "CREDITO": "15.477.405",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "164.131",
+            "FIRMA ELLECTRONICA": "AUGUSTO RINCÓN - 1543690039",
+            "AL PIE DE LA FIRMA": "AUGUSTO RINCÓN - 1543690039"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1543690039",
+            "NOMBRES": "AUGUSTO RINCÓN",
+            "FECHA NACIMIENTO": "21/02/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.477.405",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "AUGUSTO RINCÓN - 1543690039",
+            "AL PIE DE LA FIRMA": "AUGUSTO RINCÓN - 1543690039"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7449672",
+            "CEDULA": "1543690039",
+            "NOMBRES": "AUGUSTO RINCÓN",
+            "CREDITO": "15.477.405",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "164.131",
+            "E.A": "20.9%",
+            "RECOMPRA O DESEMBOLSO": "3.731.018",
+            "FIRMA ELLECTRONICA": "AUGUSTO RINCÓN - 1543690039"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1543690039",
+            "NOMBRES": "AUGUSTO RINCÓN",
+            "FIRMA ELLECTRONICA": "AUGUSTO RINCÓN - 1543690039"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1543690039",
+            "NOMBRES": "AUGUSTO RINCÓN",
+            "FIRMA ELLECTRONICA": "AUGUSTO RINCÓN - 1543690039",
+            "AL PIE DE LA FIRMA": "AUGUSTO RINCÓN - 1543690039"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "AUGUSTO RINCÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1543690039",
+            "NOMBRES": "AUGUSTO RINCÓN",
+            "SALARIO": "1.806.980",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "05/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1543690039",
+            "NOMBRES": "AUGUSTO RINCÓN",
+            "RECOMPRA O DESEMBOLSO": "3.731.018"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "457199226937",
+            "SOLICITUD": "1515263",
+            "CEDULA": "1388907715",
+            "NOMBRES": "PABLO REYES",
+            "RECOMPRA O DESEMBOLSO": "3.683.750",
+            "FIRMA ELLECTRONICA": "PABLO REYES - 1388907715"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "457199226937",
+            "NOMBRES": "PABLO REYES",
+            "CREDITO": "18.563.082",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "183.797",
+            "FIRMA ELLECTRONICA": "PABLO REYES - 1388907715",
+            "AL PIE DE LA FIRMA": "PABLO REYES - 1388907715"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1388907715",
+            "NOMBRES": "PABLO REYES",
+            "FECHA NACIMIENTO": "22/02/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.563.082",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "PABLO REYES - 1388907715",
+            "AL PIE DE LA FIRMA": "PABLO REYES - 1388907715"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1515263",
+            "CEDULA": "1388907715",
+            "NOMBRES": "PABLO REYES",
+            "CREDITO": "18.563.082",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "183.797",
+            "E.A": "27.67%",
+            "RECOMPRA O DESEMBOLSO": "3.683.750",
+            "FIRMA ELLECTRONICA": "PABLO REYES - 1388907715"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1388907715",
+            "NOMBRES": "PABLO REYES",
+            "FIRMA ELLECTRONICA": "PABLO REYES - 1388907715"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1388907715",
+            "NOMBRES": "PABLO REYES",
+            "FIRMA ELLECTRONICA": "PABLO REYES - 1388907715",
+            "AL PIE DE LA FIRMA": "PABLO REYES - 1388907715"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PABLO REYES"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1388907715",
+            "NOMBRES": "PABLO REYES",
+            "SALARIO": "4.709.990",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1388907715",
+            "NOMBRES": "PABLO REYES",
+            "RECOMPRA O DESEMBOLSO": "3.683.750"
+        }
+    }
+]

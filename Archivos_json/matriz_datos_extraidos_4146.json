@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "158067775620",
+            "SOLICITUD": "9449679",
+            "CEDULA": "1029758541",
+            "NOMBRES": "MARTA MARÍA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.558.146",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA QUINTERO - 1029758541"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "158067775620",
+            "NOMBRES": "MARTA MARÍA QUINTERO",
+            "CREDITO": "19.584.690",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "231.144",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA QUINTERO - 1029758541",
+            "AL PIE DE LA FIRMA": "MARTA MARÍA QUINTERO - 1029758541"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1029758541",
+            "NOMBRES": "MARTA MARÍA QUINTERO",
+            "FECHA NACIMIENTO": "10/11/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.584.690",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA QUINTERO - 1029758541",
+            "AL PIE DE LA FIRMA": "MARTA MARÍA QUINTERO - 1029758541"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9449679",
+            "CEDULA": "1029758541",
+            "NOMBRES": "MARTA MARÍA QUINTERO",
+            "CREDITO": "19.584.690",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "231.144",
+            "E.A": "22.28%",
+            "RECOMPRA O DESEMBOLSO": "3.558.146",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA QUINTERO - 1029758541"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1029758541",
+            "NOMBRES": "MARTA MARÍA QUINTERO",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA QUINTERO - 1029758541"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1029758541",
+            "NOMBRES": "MARTA MARÍA QUINTERO",
+            "FIRMA ELLECTRONICA": "MARTA MARÍA QUINTERO - 1029758541",
+            "AL PIE DE LA FIRMA": "MARTA MARÍA QUINTERO - 1029758541"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARTA MARÍA QUINTERO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1029758541",
+            "NOMBRES": "MARTA MARÍA QUINTERO",
+            "SALARIO": "4.403.175",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1029758541",
+            "NOMBRES": "MARTA MARÍA QUINTERO",
+            "RECOMPRA O DESEMBOLSO": "3.558.146"
+        }
+    }
+]

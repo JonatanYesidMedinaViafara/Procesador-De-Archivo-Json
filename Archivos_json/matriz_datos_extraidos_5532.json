@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "771831213928",
+            "SOLICITUD": "7954476",
+            "CEDULA": "1134675543",
+            "NOMBRES": "FERNANDO ANDRÉS GARCÍA VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.341.434",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GARCÍA VEGA - 1134675543"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "771831213928",
+            "NOMBRES": "FERNANDO ANDRÉS GARCÍA VEGA",
+            "CREDITO": "17.794.570",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "158.009",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GARCÍA VEGA - 1134675543",
+            "AL PIE DE LA FIRMA": "FERNANDO ANDRÉS GARCÍA VEGA - 1134675543"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1134675543",
+            "NOMBRES": "FERNANDO ANDRÉS GARCÍA VEGA",
+            "FECHA NACIMIENTO": "07/04/1991"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "17.794.570",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GARCÍA VEGA - 1134675543",
+            "AL PIE DE LA FIRMA": "FERNANDO ANDRÉS GARCÍA VEGA - 1134675543"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7954476",
+            "CEDULA": "1134675543",
+            "NOMBRES": "FERNANDO ANDRÉS GARCÍA VEGA",
+            "CREDITO": "17.794.570",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "158.009",
+            "E.A": "18.77%",
+            "RECOMPRA O DESEMBOLSO": "3.341.434",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GARCÍA VEGA - 1134675543"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1134675543",
+            "NOMBRES": "FERNANDO ANDRÉS GARCÍA VEGA",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GARCÍA VEGA - 1134675543"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1134675543",
+            "NOMBRES": "FERNANDO ANDRÉS GARCÍA VEGA",
+            "FIRMA ELLECTRONICA": "FERNANDO ANDRÉS GARCÍA VEGA - 1134675543",
+            "AL PIE DE LA FIRMA": "FERNANDO ANDRÉS GARCÍA VEGA - 1134675543"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDO ANDRÉS GARCÍA VEGA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1134675543",
+            "NOMBRES": "FERNANDO ANDRÉS GARCÍA VEGA",
+            "SALARIO": "4.571.644",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "26/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1134675543",
+            "NOMBRES": "FERNANDO ANDRÉS GARCÍA VEGA",
+            "RECOMPRA O DESEMBOLSO": "3.341.434"
+        }
+    }
+]

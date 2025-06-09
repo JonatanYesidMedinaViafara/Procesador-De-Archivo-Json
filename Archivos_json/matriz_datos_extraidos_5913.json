@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "797699523006",
+            "SOLICITUD": "6240094",
+            "CEDULA": "1760672657",
+            "NOMBRES": "GILBERTO SMITH ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.087.637",
+            "FIRMA ELLECTRONICA": "GILBERTO SMITH ARIAS - 1760672657"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "797699523006",
+            "NOMBRES": "GILBERTO SMITH ARIAS",
+            "CREDITO": "18.795.700",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "197.668",
+            "FIRMA ELLECTRONICA": "GILBERTO SMITH ARIAS - 1760672657",
+            "AL PIE DE LA FIRMA": "GILBERTO SMITH ARIAS - 1760672657"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1760672657",
+            "NOMBRES": "GILBERTO SMITH ARIAS",
+            "FECHA NACIMIENTO": "09/07/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.795.700",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "GILBERTO SMITH ARIAS - 1760672657",
+            "AL PIE DE LA FIRMA": "GILBERTO SMITH ARIAS - 1760672657"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6240094",
+            "CEDULA": "1760672657",
+            "NOMBRES": "GILBERTO SMITH ARIAS",
+            "CREDITO": "18.795.700",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "197.668",
+            "E.A": "24.63%",
+            "RECOMPRA O DESEMBOLSO": "2.087.637",
+            "FIRMA ELLECTRONICA": "GILBERTO SMITH ARIAS - 1760672657"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1760672657",
+            "NOMBRES": "GILBERTO SMITH ARIAS",
+            "FIRMA ELLECTRONICA": "GILBERTO SMITH ARIAS - 1760672657"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1760672657",
+            "NOMBRES": "GILBERTO SMITH ARIAS",
+            "FIRMA ELLECTRONICA": "GILBERTO SMITH ARIAS - 1760672657",
+            "AL PIE DE LA FIRMA": "GILBERTO SMITH ARIAS - 1760672657"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "GILBERTO SMITH ARIAS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1760672657",
+            "NOMBRES": "GILBERTO SMITH ARIAS",
+            "SALARIO": "3.891.983",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "09/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1760672657",
+            "NOMBRES": "GILBERTO SMITH ARIAS",
+            "RECOMPRA O DESEMBOLSO": "2.087.637"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "490280478262",
+            "SOLICITUD": "4874702",
+            "CEDULA": "1649792625",
+            "NOMBRES": "CARLOS ARDILA",
+            "RECOMPRA O DESEMBOLSO": "2.600.206",
+            "FIRMA ELLECTRONICA": "CARLOS ARDILA - 1649792625"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "490280478262",
+            "NOMBRES": "CARLOS ARDILA",
+            "CREDITO": "13.863.049",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "118.534",
+            "FIRMA ELLECTRONICA": "CARLOS ARDILA - 1649792625",
+            "AL PIE DE LA FIRMA": "CARLOS ARDILA - 1649792625"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1649792625",
+            "NOMBRES": "CARLOS ARDILA",
+            "FECHA NACIMIENTO": "04/01/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.863.049",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CARLOS ARDILA - 1649792625",
+            "AL PIE DE LA FIRMA": "CARLOS ARDILA - 1649792625"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4874702",
+            "CEDULA": "1649792625",
+            "NOMBRES": "CARLOS ARDILA",
+            "CREDITO": "13.863.049",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "118.534",
+            "E.A": "21.48%",
+            "RECOMPRA O DESEMBOLSO": "2.600.206",
+            "FIRMA ELLECTRONICA": "CARLOS ARDILA - 1649792625"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1649792625",
+            "NOMBRES": "CARLOS ARDILA",
+            "FIRMA ELLECTRONICA": "CARLOS ARDILA - 1649792625"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1649792625",
+            "NOMBRES": "CARLOS ARDILA",
+            "FIRMA ELLECTRONICA": "CARLOS ARDILA - 1649792625",
+            "AL PIE DE LA FIRMA": "CARLOS ARDILA - 1649792625"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS ARDILA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1649792625",
+            "NOMBRES": "CARLOS ARDILA",
+            "SALARIO": "3.948.377",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1649792625",
+            "NOMBRES": "CARLOS ARDILA",
+            "RECOMPRA O DESEMBOLSO": "2.600.206"
+        }
+    }
+]

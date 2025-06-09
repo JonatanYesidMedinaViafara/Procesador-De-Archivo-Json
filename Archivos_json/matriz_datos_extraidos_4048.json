@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "244552841575",
+            "SOLICITUD": "1594403",
+            "CEDULA": "1457423464",
+            "NOMBRES": "JOSÉ JOSÉ CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "2.840.499",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ CÓRDOBA - 1457423464"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "244552841575",
+            "NOMBRES": "JOSÉ JOSÉ CÓRDOBA",
+            "CREDITO": "10.820.745",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "178.866",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ CÓRDOBA - 1457423464",
+            "AL PIE DE LA FIRMA": "JOSÉ JOSÉ CÓRDOBA - 1457423464"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1457423464",
+            "NOMBRES": "JOSÉ JOSÉ CÓRDOBA",
+            "FECHA NACIMIENTO": "30/11/1983"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.820.745",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ CÓRDOBA - 1457423464",
+            "AL PIE DE LA FIRMA": "JOSÉ JOSÉ CÓRDOBA - 1457423464"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1594403",
+            "CEDULA": "1457423464",
+            "NOMBRES": "JOSÉ JOSÉ CÓRDOBA",
+            "CREDITO": "10.820.745",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "178.866",
+            "E.A": "21.39%",
+            "RECOMPRA O DESEMBOLSO": "2.840.499",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ CÓRDOBA - 1457423464"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1457423464",
+            "NOMBRES": "JOSÉ JOSÉ CÓRDOBA",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ CÓRDOBA - 1457423464"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1457423464",
+            "NOMBRES": "JOSÉ JOSÉ CÓRDOBA",
+            "FIRMA ELLECTRONICA": "JOSÉ JOSÉ CÓRDOBA - 1457423464",
+            "AL PIE DE LA FIRMA": "JOSÉ JOSÉ CÓRDOBA - 1457423464"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ JOSÉ CÓRDOBA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1457423464",
+            "NOMBRES": "JOSÉ JOSÉ CÓRDOBA",
+            "SALARIO": "3.113.104",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "20/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1457423464",
+            "NOMBRES": "JOSÉ JOSÉ CÓRDOBA",
+            "RECOMPRA O DESEMBOLSO": "2.840.499"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "601626385503",
+            "SOLICITUD": "7149015",
+            "CEDULA": "1414458204",
+            "NOMBRES": "RICARDO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.410.864",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ - 1414458204"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "601626385503",
+            "NOMBRES": "RICARDO HERNÁNDEZ",
+            "CREDITO": "6.440.643",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "216.41",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ - 1414458204",
+            "AL PIE DE LA FIRMA": "RICARDO HERNÁNDEZ - 1414458204"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1414458204",
+            "NOMBRES": "RICARDO HERNÁNDEZ",
+            "FECHA NACIMIENTO": "04/09/1977"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.440.643",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ - 1414458204",
+            "AL PIE DE LA FIRMA": "RICARDO HERNÁNDEZ - 1414458204"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7149015",
+            "CEDULA": "1414458204",
+            "NOMBRES": "RICARDO HERNÁNDEZ",
+            "CREDITO": "6.440.643",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "216.41",
+            "E.A": "22.09%",
+            "RECOMPRA O DESEMBOLSO": "2.410.864",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ - 1414458204"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1414458204",
+            "NOMBRES": "RICARDO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ - 1414458204"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1414458204",
+            "NOMBRES": "RICARDO HERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "RICARDO HERNÁNDEZ - 1414458204",
+            "AL PIE DE LA FIRMA": "RICARDO HERNÁNDEZ - 1414458204"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RICARDO HERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1414458204",
+            "NOMBRES": "RICARDO HERNÁNDEZ",
+            "SALARIO": "4.247.483",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1414458204",
+            "NOMBRES": "RICARDO HERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.410.864"
+        }
+    }
+]

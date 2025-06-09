@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "195177872185",
+            "SOLICITUD": "7392605",
+            "CEDULA": "1568333706",
+            "NOMBRES": "CARLOS DUARTE",
+            "RECOMPRA O DESEMBOLSO": "1.646.347",
+            "FIRMA ELLECTRONICA": "CARLOS DUARTE - 1568333706"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "195177872185",
+            "NOMBRES": "CARLOS DUARTE",
+            "CREDITO": "11.274.120",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "299.322",
+            "FIRMA ELLECTRONICA": "CARLOS DUARTE - 1568333706",
+            "AL PIE DE LA FIRMA": "CARLOS DUARTE - 1568333706"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1568333706",
+            "NOMBRES": "CARLOS DUARTE",
+            "FECHA NACIMIENTO": "28/07/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.274.120",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "CARLOS DUARTE - 1568333706",
+            "AL PIE DE LA FIRMA": "CARLOS DUARTE - 1568333706"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7392605",
+            "CEDULA": "1568333706",
+            "NOMBRES": "CARLOS DUARTE",
+            "CREDITO": "11.274.120",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "299.322",
+            "E.A": "19.5%",
+            "RECOMPRA O DESEMBOLSO": "1.646.347",
+            "FIRMA ELLECTRONICA": "CARLOS DUARTE - 1568333706"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1568333706",
+            "NOMBRES": "CARLOS DUARTE",
+            "FIRMA ELLECTRONICA": "CARLOS DUARTE - 1568333706"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1568333706",
+            "NOMBRES": "CARLOS DUARTE",
+            "FIRMA ELLECTRONICA": "CARLOS DUARTE - 1568333706",
+            "AL PIE DE LA FIRMA": "CARLOS DUARTE - 1568333706"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CARLOS DUARTE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1568333706",
+            "NOMBRES": "CARLOS DUARTE",
+            "SALARIO": "4.827.224",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "24/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1568333706",
+            "NOMBRES": "CARLOS DUARTE",
+            "RECOMPRA O DESEMBOLSO": "1.646.347"
+        }
+    }
+]

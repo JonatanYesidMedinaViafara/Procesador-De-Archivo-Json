@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "396322037801",
+            "SOLICITUD": "2697869",
+            "CEDULA": "1913763672",
+            "NOMBRES": "JOSÉ JORGE CANO",
+            "RECOMPRA O DESEMBOLSO": "2.235.056",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE CANO - 1913763672"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "396322037801",
+            "NOMBRES": "JOSÉ JORGE CANO",
+            "CREDITO": "16.287.332",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.17",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE CANO - 1913763672",
+            "AL PIE DE LA FIRMA": "JOSÉ JORGE CANO - 1913763672"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1913763672",
+            "NOMBRES": "JOSÉ JORGE CANO",
+            "FECHA NACIMIENTO": "04/09/1955"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "16.287.332",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE CANO - 1913763672",
+            "AL PIE DE LA FIRMA": "JOSÉ JORGE CANO - 1913763672"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2697869",
+            "CEDULA": "1913763672",
+            "NOMBRES": "JOSÉ JORGE CANO",
+            "CREDITO": "16.287.332",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "96",
+            "VL.CUOTA": "326.17",
+            "E.A": "28.15%",
+            "RECOMPRA O DESEMBOLSO": "2.235.056",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE CANO - 1913763672"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1913763672",
+            "NOMBRES": "JOSÉ JORGE CANO",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE CANO - 1913763672"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1913763672",
+            "NOMBRES": "JOSÉ JORGE CANO",
+            "FIRMA ELLECTRONICA": "JOSÉ JORGE CANO - 1913763672",
+            "AL PIE DE LA FIRMA": "JOSÉ JORGE CANO - 1913763672"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "JOSÉ JORGE CANO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1913763672",
+            "NOMBRES": "JOSÉ JORGE CANO",
+            "SALARIO": "3.332.749",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "27/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1913763672",
+            "NOMBRES": "JOSÉ JORGE CANO",
+            "RECOMPRA O DESEMBOLSO": "2.235.056"
+        }
+    }
+]

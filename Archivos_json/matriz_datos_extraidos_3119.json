@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "780569230412",
+            "SOLICITUD": "3533746",
+            "CEDULA": "1760594680",
+            "NOMBRES": "MANUEL RAMOS",
+            "RECOMPRA O DESEMBOLSO": "2.065.461",
+            "FIRMA ELLECTRONICA": "MANUEL RAMOS - 1760594680"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "780569230412",
+            "NOMBRES": "MANUEL RAMOS",
+            "CREDITO": "14.586.603",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.299",
+            "FIRMA ELLECTRONICA": "MANUEL RAMOS - 1760594680",
+            "AL PIE DE LA FIRMA": "MANUEL RAMOS - 1760594680"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1760594680",
+            "NOMBRES": "MANUEL RAMOS",
+            "FECHA NACIMIENTO": "19/07/1985"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.586.603",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MANUEL RAMOS - 1760594680",
+            "AL PIE DE LA FIRMA": "MANUEL RAMOS - 1760594680"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3533746",
+            "CEDULA": "1760594680",
+            "NOMBRES": "MANUEL RAMOS",
+            "CREDITO": "14.586.603",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "280.299",
+            "E.A": "19.4%",
+            "RECOMPRA O DESEMBOLSO": "2.065.461",
+            "FIRMA ELLECTRONICA": "MANUEL RAMOS - 1760594680"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1760594680",
+            "NOMBRES": "MANUEL RAMOS",
+            "FIRMA ELLECTRONICA": "MANUEL RAMOS - 1760594680"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1760594680",
+            "NOMBRES": "MANUEL RAMOS",
+            "FIRMA ELLECTRONICA": "MANUEL RAMOS - 1760594680",
+            "AL PIE DE LA FIRMA": "MANUEL RAMOS - 1760594680"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MANUEL RAMOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1760594680",
+            "NOMBRES": "MANUEL RAMOS",
+            "SALARIO": "4.061.865",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1760594680",
+            "NOMBRES": "MANUEL RAMOS",
+            "RECOMPRA O DESEMBOLSO": "2.065.461"
+        }
+    }
+]

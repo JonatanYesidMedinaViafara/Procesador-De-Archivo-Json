@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "110913218949",
+            "SOLICITUD": "7504132",
+            "CEDULA": "1514384466",
+            "NOMBRES": "PATRICIA MARÍA MEZA NARANJO",
+            "RECOMPRA O DESEMBOLSO": "4.000.072",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA MEZA NARANJO - 1514384466"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "110913218949",
+            "NOMBRES": "PATRICIA MARÍA MEZA NARANJO",
+            "CREDITO": "6.579.799",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "381.111",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA MEZA NARANJO - 1514384466",
+            "AL PIE DE LA FIRMA": "PATRICIA MARÍA MEZA NARANJO - 1514384466"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1514384466",
+            "NOMBRES": "PATRICIA MARÍA MEZA NARANJO",
+            "FECHA NACIMIENTO": "02/06/1987"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.579.799",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA MEZA NARANJO - 1514384466",
+            "AL PIE DE LA FIRMA": "PATRICIA MARÍA MEZA NARANJO - 1514384466"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7504132",
+            "CEDULA": "1514384466",
+            "NOMBRES": "PATRICIA MARÍA MEZA NARANJO",
+            "CREDITO": "6.579.799",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "381.111",
+            "E.A": "21.32%",
+            "RECOMPRA O DESEMBOLSO": "4.000.072",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA MEZA NARANJO - 1514384466"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1514384466",
+            "NOMBRES": "PATRICIA MARÍA MEZA NARANJO",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA MEZA NARANJO - 1514384466"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1514384466",
+            "NOMBRES": "PATRICIA MARÍA MEZA NARANJO",
+            "FIRMA ELLECTRONICA": "PATRICIA MARÍA MEZA NARANJO - 1514384466",
+            "AL PIE DE LA FIRMA": "PATRICIA MARÍA MEZA NARANJO - 1514384466"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "PATRICIA MARÍA MEZA NARANJO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1514384466",
+            "NOMBRES": "PATRICIA MARÍA MEZA NARANJO",
+            "SALARIO": "2.304.381",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "28/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1514384466",
+            "NOMBRES": "PATRICIA MARÍA MEZA NARANJO",
+            "RECOMPRA O DESEMBOLSO": "4.000.072"
+        }
+    }
+]

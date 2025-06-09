@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "456825472895",
+            "SOLICITUD": "9588890",
+            "CEDULA": "1654870306",
+            "NOMBRES": "MELISSA QUINTERO MÁRQUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.456.074",
+            "FIRMA ELLECTRONICA": "MELISSA QUINTERO MÁRQUEZ - 1654870306"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "456825472895",
+            "NOMBRES": "MELISSA QUINTERO MÁRQUEZ",
+            "CREDITO": "14.618.136",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "156.277",
+            "FIRMA ELLECTRONICA": "MELISSA QUINTERO MÁRQUEZ - 1654870306",
+            "AL PIE DE LA FIRMA": "MELISSA QUINTERO MÁRQUEZ - 1654870306"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1654870306",
+            "NOMBRES": "MELISSA QUINTERO MÁRQUEZ",
+            "FECHA NACIMIENTO": "07/06/1994"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.618.136",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "MELISSA QUINTERO MÁRQUEZ - 1654870306",
+            "AL PIE DE LA FIRMA": "MELISSA QUINTERO MÁRQUEZ - 1654870306"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "9588890",
+            "CEDULA": "1654870306",
+            "NOMBRES": "MELISSA QUINTERO MÁRQUEZ",
+            "CREDITO": "14.618.136",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "156.277",
+            "E.A": "28.13%",
+            "RECOMPRA O DESEMBOLSO": "3.456.074",
+            "FIRMA ELLECTRONICA": "MELISSA QUINTERO MÁRQUEZ - 1654870306"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1654870306",
+            "NOMBRES": "MELISSA QUINTERO MÁRQUEZ",
+            "FIRMA ELLECTRONICA": "MELISSA QUINTERO MÁRQUEZ - 1654870306"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1654870306",
+            "NOMBRES": "MELISSA QUINTERO MÁRQUEZ",
+            "FIRMA ELLECTRONICA": "MELISSA QUINTERO MÁRQUEZ - 1654870306",
+            "AL PIE DE LA FIRMA": "MELISSA QUINTERO MÁRQUEZ - 1654870306"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MELISSA QUINTERO MÁRQUEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1654870306",
+            "NOMBRES": "MELISSA QUINTERO MÁRQUEZ",
+            "SALARIO": "1.855.465",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "03/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1654870306",
+            "NOMBRES": "MELISSA QUINTERO MÁRQUEZ",
+            "RECOMPRA O DESEMBOLSO": "3.456.074"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "282108908798",
+            "SOLICITUD": "5113466",
+            "CEDULA": "1764115966",
+            "NOMBRES": "ELISA JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.684.117",
+            "FIRMA ELLECTRONICA": "ELISA JIMÉNEZ - 1764115966"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "282108908798",
+            "NOMBRES": "ELISA JIMÉNEZ",
+            "CREDITO": "14.693.824",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "168.55",
+            "FIRMA ELLECTRONICA": "ELISA JIMÉNEZ - 1764115966",
+            "AL PIE DE LA FIRMA": "ELISA JIMÉNEZ - 1764115966"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1764115966",
+            "NOMBRES": "ELISA JIMÉNEZ",
+            "FECHA NACIMIENTO": "24/05/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.693.824",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "ELISA JIMÉNEZ - 1764115966",
+            "AL PIE DE LA FIRMA": "ELISA JIMÉNEZ - 1764115966"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5113466",
+            "CEDULA": "1764115966",
+            "NOMBRES": "ELISA JIMÉNEZ",
+            "CREDITO": "14.693.824",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "168.55",
+            "E.A": "27.8%",
+            "RECOMPRA O DESEMBOLSO": "4.684.117",
+            "FIRMA ELLECTRONICA": "ELISA JIMÉNEZ - 1764115966"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1764115966",
+            "NOMBRES": "ELISA JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "ELISA JIMÉNEZ - 1764115966"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1764115966",
+            "NOMBRES": "ELISA JIMÉNEZ",
+            "FIRMA ELLECTRONICA": "ELISA JIMÉNEZ - 1764115966",
+            "AL PIE DE LA FIRMA": "ELISA JIMÉNEZ - 1764115966"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ELISA JIMÉNEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1764115966",
+            "NOMBRES": "ELISA JIMÉNEZ",
+            "SALARIO": "1.485.333",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "19/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1764115966",
+            "NOMBRES": "ELISA JIMÉNEZ",
+            "RECOMPRA O DESEMBOLSO": "4.684.117"
+        }
+    }
+]

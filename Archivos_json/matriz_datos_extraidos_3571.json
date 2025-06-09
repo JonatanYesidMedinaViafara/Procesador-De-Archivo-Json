@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "459785721435",
+            "SOLICITUD": "6150794",
+            "CEDULA": "1789387410",
+            "NOMBRES": "WILLIAM FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.420.213",
+            "FIRMA ELLECTRONICA": "WILLIAM FERNÁNDEZ - 1789387410"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "459785721435",
+            "NOMBRES": "WILLIAM FERNÁNDEZ",
+            "CREDITO": "10.088.439",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "330.578",
+            "FIRMA ELLECTRONICA": "WILLIAM FERNÁNDEZ - 1789387410",
+            "AL PIE DE LA FIRMA": "WILLIAM FERNÁNDEZ - 1789387410"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1789387410",
+            "NOMBRES": "WILLIAM FERNÁNDEZ",
+            "FECHA NACIMIENTO": "16/10/1990"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.088.439",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "WILLIAM FERNÁNDEZ - 1789387410",
+            "AL PIE DE LA FIRMA": "WILLIAM FERNÁNDEZ - 1789387410"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6150794",
+            "CEDULA": "1789387410",
+            "NOMBRES": "WILLIAM FERNÁNDEZ",
+            "CREDITO": "10.088.439",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "96",
+            "VL.CUOTA": "330.578",
+            "E.A": "23.09%",
+            "RECOMPRA O DESEMBOLSO": "2.420.213",
+            "FIRMA ELLECTRONICA": "WILLIAM FERNÁNDEZ - 1789387410"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1789387410",
+            "NOMBRES": "WILLIAM FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "WILLIAM FERNÁNDEZ - 1789387410"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1789387410",
+            "NOMBRES": "WILLIAM FERNÁNDEZ",
+            "FIRMA ELLECTRONICA": "WILLIAM FERNÁNDEZ - 1789387410",
+            "AL PIE DE LA FIRMA": "WILLIAM FERNÁNDEZ - 1789387410"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "WILLIAM FERNÁNDEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1789387410",
+            "NOMBRES": "WILLIAM FERNÁNDEZ",
+            "SALARIO": "4.706.578",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1789387410",
+            "NOMBRES": "WILLIAM FERNÁNDEZ",
+            "RECOMPRA O DESEMBOLSO": "2.420.213"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "135096255370",
+            "SOLICITUD": "1627780",
+            "CEDULA": "1796966586",
+            "NOMBRES": "MARÍA CLAUDIA ORTEGA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "4.711.421",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA ORTEGA ACOSTA - 1796966586"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "135096255370",
+            "NOMBRES": "MARÍA CLAUDIA ORTEGA ACOSTA",
+            "CREDITO": "10.201.368",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "383.984",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA ORTEGA ACOSTA - 1796966586",
+            "AL PIE DE LA FIRMA": "MARÍA CLAUDIA ORTEGA ACOSTA - 1796966586"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1796966586",
+            "NOMBRES": "MARÍA CLAUDIA ORTEGA ACOSTA",
+            "FECHA NACIMIENTO": "17/09/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.201.368",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA ORTEGA ACOSTA - 1796966586",
+            "AL PIE DE LA FIRMA": "MARÍA CLAUDIA ORTEGA ACOSTA - 1796966586"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1627780",
+            "CEDULA": "1796966586",
+            "NOMBRES": "MARÍA CLAUDIA ORTEGA ACOSTA",
+            "CREDITO": "10.201.368",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "383.984",
+            "E.A": "19.16%",
+            "RECOMPRA O DESEMBOLSO": "4.711.421",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA ORTEGA ACOSTA - 1796966586"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1796966586",
+            "NOMBRES": "MARÍA CLAUDIA ORTEGA ACOSTA",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA ORTEGA ACOSTA - 1796966586"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1796966586",
+            "NOMBRES": "MARÍA CLAUDIA ORTEGA ACOSTA",
+            "FIRMA ELLECTRONICA": "MARÍA CLAUDIA ORTEGA ACOSTA - 1796966586",
+            "AL PIE DE LA FIRMA": "MARÍA CLAUDIA ORTEGA ACOSTA - 1796966586"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA CLAUDIA ORTEGA ACOSTA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1796966586",
+            "NOMBRES": "MARÍA CLAUDIA ORTEGA ACOSTA",
+            "SALARIO": "1.319.559",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1796966586",
+            "NOMBRES": "MARÍA CLAUDIA ORTEGA ACOSTA",
+            "RECOMPRA O DESEMBOLSO": "4.711.421"
+        }
+    }
+]

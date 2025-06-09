@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "265196221028",
+            "SOLICITUD": "3237208",
+            "CEDULA": "1650747939",
+            "NOMBRES": "CLAUDIA CORREDOR GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.400.606",
+            "FIRMA ELLECTRONICA": "CLAUDIA CORREDOR GONZÁLEZ - 1650747939"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "265196221028",
+            "NOMBRES": "CLAUDIA CORREDOR GONZÁLEZ",
+            "CREDITO": "15.117.839",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "165.776",
+            "FIRMA ELLECTRONICA": "CLAUDIA CORREDOR GONZÁLEZ - 1650747939",
+            "AL PIE DE LA FIRMA": "CLAUDIA CORREDOR GONZÁLEZ - 1650747939"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1650747939",
+            "NOMBRES": "CLAUDIA CORREDOR GONZÁLEZ",
+            "FECHA NACIMIENTO": "06/08/1968"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "15.117.839",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "CLAUDIA CORREDOR GONZÁLEZ - 1650747939",
+            "AL PIE DE LA FIRMA": "CLAUDIA CORREDOR GONZÁLEZ - 1650747939"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3237208",
+            "CEDULA": "1650747939",
+            "NOMBRES": "CLAUDIA CORREDOR GONZÁLEZ",
+            "CREDITO": "15.117.839",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "60",
+            "VL.CUOTA": "165.776",
+            "E.A": "19.8%",
+            "RECOMPRA O DESEMBOLSO": "3.400.606",
+            "FIRMA ELLECTRONICA": "CLAUDIA CORREDOR GONZÁLEZ - 1650747939"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1650747939",
+            "NOMBRES": "CLAUDIA CORREDOR GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CLAUDIA CORREDOR GONZÁLEZ - 1650747939"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1650747939",
+            "NOMBRES": "CLAUDIA CORREDOR GONZÁLEZ",
+            "FIRMA ELLECTRONICA": "CLAUDIA CORREDOR GONZÁLEZ - 1650747939",
+            "AL PIE DE LA FIRMA": "CLAUDIA CORREDOR GONZÁLEZ - 1650747939"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CLAUDIA CORREDOR GONZÁLEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1650747939",
+            "NOMBRES": "CLAUDIA CORREDOR GONZÁLEZ",
+            "SALARIO": "3.759.776",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1650747939",
+            "NOMBRES": "CLAUDIA CORREDOR GONZÁLEZ",
+            "RECOMPRA O DESEMBOLSO": "3.400.606"
+        }
+    }
+]

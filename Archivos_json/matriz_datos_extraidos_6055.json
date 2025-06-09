@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "495551326474",
+            "SOLICITUD": "7809326",
+            "CEDULA": "1399990612",
+            "NOMBRES": "ADRIÁN CRISTIAN NIÑO PACHECO",
+            "RECOMPRA O DESEMBOLSO": "4.213.173",
+            "FIRMA ELLECTRONICA": "ADRIÁN CRISTIAN NIÑO PACHECO - 1399990612"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "495551326474",
+            "NOMBRES": "ADRIÁN CRISTIAN NIÑO PACHECO",
+            "CREDITO": "7.704.625",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "112.841",
+            "FIRMA ELLECTRONICA": "ADRIÁN CRISTIAN NIÑO PACHECO - 1399990612",
+            "AL PIE DE LA FIRMA": "ADRIÁN CRISTIAN NIÑO PACHECO - 1399990612"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1399990612",
+            "NOMBRES": "ADRIÁN CRISTIAN NIÑO PACHECO",
+            "FECHA NACIMIENTO": "16/08/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.704.625",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "ADRIÁN CRISTIAN NIÑO PACHECO - 1399990612",
+            "AL PIE DE LA FIRMA": "ADRIÁN CRISTIAN NIÑO PACHECO - 1399990612"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7809326",
+            "CEDULA": "1399990612",
+            "NOMBRES": "ADRIÁN CRISTIAN NIÑO PACHECO",
+            "CREDITO": "7.704.625",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "112.841",
+            "E.A": "18.67%",
+            "RECOMPRA O DESEMBOLSO": "4.213.173",
+            "FIRMA ELLECTRONICA": "ADRIÁN CRISTIAN NIÑO PACHECO - 1399990612"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1399990612",
+            "NOMBRES": "ADRIÁN CRISTIAN NIÑO PACHECO",
+            "FIRMA ELLECTRONICA": "ADRIÁN CRISTIAN NIÑO PACHECO - 1399990612"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1399990612",
+            "NOMBRES": "ADRIÁN CRISTIAN NIÑO PACHECO",
+            "FIRMA ELLECTRONICA": "ADRIÁN CRISTIAN NIÑO PACHECO - 1399990612",
+            "AL PIE DE LA FIRMA": "ADRIÁN CRISTIAN NIÑO PACHECO - 1399990612"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ADRIÁN CRISTIAN NIÑO PACHECO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1399990612",
+            "NOMBRES": "ADRIÁN CRISTIAN NIÑO PACHECO",
+            "SALARIO": "2.864.471",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "03/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1399990612",
+            "NOMBRES": "ADRIÁN CRISTIAN NIÑO PACHECO",
+            "RECOMPRA O DESEMBOLSO": "4.213.173"
+        }
+    }
+]

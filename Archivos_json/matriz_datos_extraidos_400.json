@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "724422704942",
+            "SOLICITUD": "5606804",
+            "CEDULA": "1879703386",
+            "NOMBRES": "ALEJANDRA OLIVA GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "1.575.577",
+            "FIRMA ELLECTRONICA": "ALEJANDRA OLIVA GARZÓN - 1879703386"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "724422704942",
+            "NOMBRES": "ALEJANDRA OLIVA GARZÓN",
+            "CREDITO": "9.322.553",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "183.609",
+            "FIRMA ELLECTRONICA": "ALEJANDRA OLIVA GARZÓN - 1879703386",
+            "AL PIE DE LA FIRMA": "ALEJANDRA OLIVA GARZÓN - 1879703386"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1879703386",
+            "NOMBRES": "ALEJANDRA OLIVA GARZÓN",
+            "FECHA NACIMIENTO": "10/03/1967"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.322.553",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ALEJANDRA OLIVA GARZÓN - 1879703386",
+            "AL PIE DE LA FIRMA": "ALEJANDRA OLIVA GARZÓN - 1879703386"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5606804",
+            "CEDULA": "1879703386",
+            "NOMBRES": "ALEJANDRA OLIVA GARZÓN",
+            "CREDITO": "9.322.553",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "183.609",
+            "E.A": "19.52%",
+            "RECOMPRA O DESEMBOLSO": "1.575.577",
+            "FIRMA ELLECTRONICA": "ALEJANDRA OLIVA GARZÓN - 1879703386"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1879703386",
+            "NOMBRES": "ALEJANDRA OLIVA GARZÓN",
+            "FIRMA ELLECTRONICA": "ALEJANDRA OLIVA GARZÓN - 1879703386"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1879703386",
+            "NOMBRES": "ALEJANDRA OLIVA GARZÓN",
+            "FIRMA ELLECTRONICA": "ALEJANDRA OLIVA GARZÓN - 1879703386",
+            "AL PIE DE LA FIRMA": "ALEJANDRA OLIVA GARZÓN - 1879703386"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ALEJANDRA OLIVA GARZÓN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1879703386",
+            "NOMBRES": "ALEJANDRA OLIVA GARZÓN",
+            "SALARIO": "2.359.167",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "21/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1879703386",
+            "NOMBRES": "ALEJANDRA OLIVA GARZÓN",
+            "RECOMPRA O DESEMBOLSO": "1.575.577"
+        }
+    }
+]

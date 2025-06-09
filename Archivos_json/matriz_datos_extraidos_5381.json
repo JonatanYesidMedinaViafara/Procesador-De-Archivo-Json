@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "223723456147",
+            "SOLICITUD": "7171043",
+            "CEDULA": "1709580068",
+            "NOMBRES": "EDITH GIRALDO MEDINA",
+            "RECOMPRA O DESEMBOLSO": "4.232.316",
+            "FIRMA ELLECTRONICA": "EDITH GIRALDO MEDINA - 1709580068"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "223723456147",
+            "NOMBRES": "EDITH GIRALDO MEDINA",
+            "CREDITO": "9.125.548",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "134.453",
+            "FIRMA ELLECTRONICA": "EDITH GIRALDO MEDINA - 1709580068",
+            "AL PIE DE LA FIRMA": "EDITH GIRALDO MEDINA - 1709580068"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1709580068",
+            "NOMBRES": "EDITH GIRALDO MEDINA",
+            "FECHA NACIMIENTO": "01/10/1964"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.125.548",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "EDITH GIRALDO MEDINA - 1709580068",
+            "AL PIE DE LA FIRMA": "EDITH GIRALDO MEDINA - 1709580068"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7171043",
+            "CEDULA": "1709580068",
+            "NOMBRES": "EDITH GIRALDO MEDINA",
+            "CREDITO": "9.125.548",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "134.453",
+            "E.A": "28.27%",
+            "RECOMPRA O DESEMBOLSO": "4.232.316",
+            "FIRMA ELLECTRONICA": "EDITH GIRALDO MEDINA - 1709580068"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1709580068",
+            "NOMBRES": "EDITH GIRALDO MEDINA",
+            "FIRMA ELLECTRONICA": "EDITH GIRALDO MEDINA - 1709580068"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1709580068",
+            "NOMBRES": "EDITH GIRALDO MEDINA",
+            "FIRMA ELLECTRONICA": "EDITH GIRALDO MEDINA - 1709580068",
+            "AL PIE DE LA FIRMA": "EDITH GIRALDO MEDINA - 1709580068"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "EDITH GIRALDO MEDINA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1709580068",
+            "NOMBRES": "EDITH GIRALDO MEDINA",
+            "SALARIO": "2.905.195",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "12/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1709580068",
+            "NOMBRES": "EDITH GIRALDO MEDINA",
+            "RECOMPRA O DESEMBOLSO": "4.232.316"
+        }
+    }
+]

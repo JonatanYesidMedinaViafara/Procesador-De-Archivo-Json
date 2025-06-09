@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "838730705752",
+            "SOLICITUD": "8418400",
+            "CEDULA": "1173512637",
+            "NOMBRES": "CONSUELO ROSA RUBIO",
+            "RECOMPRA O DESEMBOLSO": "4.180.637",
+            "FIRMA ELLECTRONICA": "CONSUELO ROSA RUBIO - 1173512637"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "838730705752",
+            "NOMBRES": "CONSUELO ROSA RUBIO",
+            "CREDITO": "8.974.508",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "236.918",
+            "FIRMA ELLECTRONICA": "CONSUELO ROSA RUBIO - 1173512637",
+            "AL PIE DE LA FIRMA": "CONSUELO ROSA RUBIO - 1173512637"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1173512637",
+            "NOMBRES": "CONSUELO ROSA RUBIO",
+            "FECHA NACIMIENTO": "11/08/1965"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.974.508",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "CONSUELO ROSA RUBIO - 1173512637",
+            "AL PIE DE LA FIRMA": "CONSUELO ROSA RUBIO - 1173512637"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8418400",
+            "CEDULA": "1173512637",
+            "NOMBRES": "CONSUELO ROSA RUBIO",
+            "CREDITO": "8.974.508",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "236.918",
+            "E.A": "20.04%",
+            "RECOMPRA O DESEMBOLSO": "4.180.637",
+            "FIRMA ELLECTRONICA": "CONSUELO ROSA RUBIO - 1173512637"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1173512637",
+            "NOMBRES": "CONSUELO ROSA RUBIO",
+            "FIRMA ELLECTRONICA": "CONSUELO ROSA RUBIO - 1173512637"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1173512637",
+            "NOMBRES": "CONSUELO ROSA RUBIO",
+            "FIRMA ELLECTRONICA": "CONSUELO ROSA RUBIO - 1173512637",
+            "AL PIE DE LA FIRMA": "CONSUELO ROSA RUBIO - 1173512637"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "CONSUELO ROSA RUBIO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1173512637",
+            "NOMBRES": "CONSUELO ROSA RUBIO",
+            "SALARIO": "4.234.246",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "25/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1173512637",
+            "NOMBRES": "CONSUELO ROSA RUBIO",
+            "RECOMPRA O DESEMBOLSO": "4.180.637"
+        }
+    }
+]

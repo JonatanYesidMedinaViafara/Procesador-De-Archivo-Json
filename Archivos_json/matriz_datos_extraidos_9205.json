@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "742509030160",
+            "SOLICITUD": "3477232",
+            "CEDULA": "1642810874",
+            "NOMBRES": "YENY SÁNCHEZ IBARRA",
+            "RECOMPRA O DESEMBOLSO": "4.544.742",
+            "FIRMA ELLECTRONICA": "YENY SÁNCHEZ IBARRA - 1642810874"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "742509030160",
+            "NOMBRES": "YENY SÁNCHEZ IBARRA",
+            "CREDITO": "12.358.517",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "348.576",
+            "FIRMA ELLECTRONICA": "YENY SÁNCHEZ IBARRA - 1642810874",
+            "AL PIE DE LA FIRMA": "YENY SÁNCHEZ IBARRA - 1642810874"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1642810874",
+            "NOMBRES": "YENY SÁNCHEZ IBARRA",
+            "FECHA NACIMIENTO": "14/06/1978"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "12.358.517",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "YENY SÁNCHEZ IBARRA - 1642810874",
+            "AL PIE DE LA FIRMA": "YENY SÁNCHEZ IBARRA - 1642810874"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3477232",
+            "CEDULA": "1642810874",
+            "NOMBRES": "YENY SÁNCHEZ IBARRA",
+            "CREDITO": "12.358.517",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "120",
+            "VL.CUOTA": "348.576",
+            "E.A": "19.19%",
+            "RECOMPRA O DESEMBOLSO": "4.544.742",
+            "FIRMA ELLECTRONICA": "YENY SÁNCHEZ IBARRA - 1642810874"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1642810874",
+            "NOMBRES": "YENY SÁNCHEZ IBARRA",
+            "FIRMA ELLECTRONICA": "YENY SÁNCHEZ IBARRA - 1642810874"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1642810874",
+            "NOMBRES": "YENY SÁNCHEZ IBARRA",
+            "FIRMA ELLECTRONICA": "YENY SÁNCHEZ IBARRA - 1642810874",
+            "AL PIE DE LA FIRMA": "YENY SÁNCHEZ IBARRA - 1642810874"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YENY SÁNCHEZ IBARRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1642810874",
+            "NOMBRES": "YENY SÁNCHEZ IBARRA",
+            "SALARIO": "2.186.252",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1642810874",
+            "NOMBRES": "YENY SÁNCHEZ IBARRA",
+            "RECOMPRA O DESEMBOLSO": "4.544.742"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "365245460719",
+            "SOLICITUD": "5204469",
+            "CEDULA": "1336939577",
+            "NOMBRES": "ANA PARRA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.435.122",
+            "FIRMA ELLECTRONICA": "ANA PARRA MUÑOZ - 1336939577"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "365245460719",
+            "NOMBRES": "ANA PARRA MUÑOZ",
+            "CREDITO": "11.952.727",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "396.825",
+            "FIRMA ELLECTRONICA": "ANA PARRA MUÑOZ - 1336939577",
+            "AL PIE DE LA FIRMA": "ANA PARRA MUÑOZ - 1336939577"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1336939577",
+            "NOMBRES": "ANA PARRA MUÑOZ",
+            "FECHA NACIMIENTO": "11/12/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.952.727",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "ANA PARRA MUÑOZ - 1336939577",
+            "AL PIE DE LA FIRMA": "ANA PARRA MUÑOZ - 1336939577"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5204469",
+            "CEDULA": "1336939577",
+            "NOMBRES": "ANA PARRA MUÑOZ",
+            "CREDITO": "11.952.727",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "396.825",
+            "E.A": "28.67%",
+            "RECOMPRA O DESEMBOLSO": "3.435.122",
+            "FIRMA ELLECTRONICA": "ANA PARRA MUÑOZ - 1336939577"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1336939577",
+            "NOMBRES": "ANA PARRA MUÑOZ",
+            "FIRMA ELLECTRONICA": "ANA PARRA MUÑOZ - 1336939577"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1336939577",
+            "NOMBRES": "ANA PARRA MUÑOZ",
+            "FIRMA ELLECTRONICA": "ANA PARRA MUÑOZ - 1336939577",
+            "AL PIE DE LA FIRMA": "ANA PARRA MUÑOZ - 1336939577"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ANA PARRA MUÑOZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1336939577",
+            "NOMBRES": "ANA PARRA MUÑOZ",
+            "SALARIO": "3.796.981",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "06/01/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1336939577",
+            "NOMBRES": "ANA PARRA MUÑOZ",
+            "RECOMPRA O DESEMBOLSO": "3.435.122"
+        }
+    }
+]

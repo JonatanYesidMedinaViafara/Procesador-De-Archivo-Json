@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "909123329488",
+            "SOLICITUD": "1438269",
+            "CEDULA": "1160141191",
+            "NOMBRES": "HERNANDO SUÁREZ PATIÑO",
+            "RECOMPRA O DESEMBOLSO": "1.124.125",
+            "FIRMA ELLECTRONICA": "HERNANDO SUÁREZ PATIÑO - 1160141191"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "909123329488",
+            "NOMBRES": "HERNANDO SUÁREZ PATIÑO",
+            "CREDITO": "18.040.647",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "153.449",
+            "FIRMA ELLECTRONICA": "HERNANDO SUÁREZ PATIÑO - 1160141191",
+            "AL PIE DE LA FIRMA": "HERNANDO SUÁREZ PATIÑO - 1160141191"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1160141191",
+            "NOMBRES": "HERNANDO SUÁREZ PATIÑO",
+            "FECHA NACIMIENTO": "23/04/1981"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.040.647",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "HERNANDO SUÁREZ PATIÑO - 1160141191",
+            "AL PIE DE LA FIRMA": "HERNANDO SUÁREZ PATIÑO - 1160141191"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1438269",
+            "CEDULA": "1160141191",
+            "NOMBRES": "HERNANDO SUÁREZ PATIÑO",
+            "CREDITO": "18.040.647",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "72",
+            "VL.CUOTA": "153.449",
+            "E.A": "23.8%",
+            "RECOMPRA O DESEMBOLSO": "1.124.125",
+            "FIRMA ELLECTRONICA": "HERNANDO SUÁREZ PATIÑO - 1160141191"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1160141191",
+            "NOMBRES": "HERNANDO SUÁREZ PATIÑO",
+            "FIRMA ELLECTRONICA": "HERNANDO SUÁREZ PATIÑO - 1160141191"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1160141191",
+            "NOMBRES": "HERNANDO SUÁREZ PATIÑO",
+            "FIRMA ELLECTRONICA": "HERNANDO SUÁREZ PATIÑO - 1160141191",
+            "AL PIE DE LA FIRMA": "HERNANDO SUÁREZ PATIÑO - 1160141191"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "HERNANDO SUÁREZ PATIÑO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1160141191",
+            "NOMBRES": "HERNANDO SUÁREZ PATIÑO",
+            "SALARIO": "3.406.289",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "18/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1160141191",
+            "NOMBRES": "HERNANDO SUÁREZ PATIÑO",
+            "RECOMPRA O DESEMBOLSO": "1.124.125"
+        }
+    }
+]

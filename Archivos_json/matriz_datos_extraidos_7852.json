@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "509956983007",
+            "SOLICITUD": "1507457",
+            "CEDULA": "1760222253",
+            "NOMBRES": "TATIANA ROSA SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.649.111",
+            "FIRMA ELLECTRONICA": "TATIANA ROSA SUÁREZ - 1760222253"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "509956983007",
+            "NOMBRES": "TATIANA ROSA SUÁREZ",
+            "CREDITO": "11.744.772",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "132.974",
+            "FIRMA ELLECTRONICA": "TATIANA ROSA SUÁREZ - 1760222253",
+            "AL PIE DE LA FIRMA": "TATIANA ROSA SUÁREZ - 1760222253"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1760222253",
+            "NOMBRES": "TATIANA ROSA SUÁREZ",
+            "FECHA NACIMIENTO": "14/03/1960"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "11.744.772",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "TATIANA ROSA SUÁREZ - 1760222253",
+            "AL PIE DE LA FIRMA": "TATIANA ROSA SUÁREZ - 1760222253"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1507457",
+            "CEDULA": "1760222253",
+            "NOMBRES": "TATIANA ROSA SUÁREZ",
+            "CREDITO": "11.744.772",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "132.974",
+            "E.A": "19.01%",
+            "RECOMPRA O DESEMBOLSO": "2.649.111",
+            "FIRMA ELLECTRONICA": "TATIANA ROSA SUÁREZ - 1760222253"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1760222253",
+            "NOMBRES": "TATIANA ROSA SUÁREZ",
+            "FIRMA ELLECTRONICA": "TATIANA ROSA SUÁREZ - 1760222253"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1760222253",
+            "NOMBRES": "TATIANA ROSA SUÁREZ",
+            "FIRMA ELLECTRONICA": "TATIANA ROSA SUÁREZ - 1760222253",
+            "AL PIE DE LA FIRMA": "TATIANA ROSA SUÁREZ - 1760222253"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "TATIANA ROSA SUÁREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1760222253",
+            "NOMBRES": "TATIANA ROSA SUÁREZ",
+            "SALARIO": "3.862.927",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1760222253",
+            "NOMBRES": "TATIANA ROSA SUÁREZ",
+            "RECOMPRA O DESEMBOLSO": "2.649.111"
+        }
+    }
+]

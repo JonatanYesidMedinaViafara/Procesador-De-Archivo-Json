@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "423742385201",
+            "SOLICITUD": "4150423",
+            "CEDULA": "1020104401",
+            "NOMBRES": "BETTY BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "4.843.201",
+            "FIRMA ELLECTRONICA": "BETTY BELTRÁN - 1020104401"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "423742385201",
+            "NOMBRES": "BETTY BELTRÁN",
+            "CREDITO": "19.094.882",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "143.043",
+            "FIRMA ELLECTRONICA": "BETTY BELTRÁN - 1020104401",
+            "AL PIE DE LA FIRMA": "BETTY BELTRÁN - 1020104401"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1020104401",
+            "NOMBRES": "BETTY BELTRÁN",
+            "FECHA NACIMIENTO": "07/05/1962"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "19.094.882",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "BETTY BELTRÁN - 1020104401",
+            "AL PIE DE LA FIRMA": "BETTY BELTRÁN - 1020104401"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "4150423",
+            "CEDULA": "1020104401",
+            "NOMBRES": "BETTY BELTRÁN",
+            "CREDITO": "19.094.882",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "143.043",
+            "E.A": "26.59%",
+            "RECOMPRA O DESEMBOLSO": "4.843.201",
+            "FIRMA ELLECTRONICA": "BETTY BELTRÁN - 1020104401"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1020104401",
+            "NOMBRES": "BETTY BELTRÁN",
+            "FIRMA ELLECTRONICA": "BETTY BELTRÁN - 1020104401"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1020104401",
+            "NOMBRES": "BETTY BELTRÁN",
+            "FIRMA ELLECTRONICA": "BETTY BELTRÁN - 1020104401",
+            "AL PIE DE LA FIRMA": "BETTY BELTRÁN - 1020104401"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "BETTY BELTRÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1020104401",
+            "NOMBRES": "BETTY BELTRÁN",
+            "SALARIO": "4.099.398",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "14/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1020104401",
+            "NOMBRES": "BETTY BELTRÁN",
+            "RECOMPRA O DESEMBOLSO": "4.843.201"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "890572234904",
+            "SOLICITUD": "1220189",
+            "CEDULA": "1211085140",
+            "NOMBRES": "RAFAEL GUERRERO GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "3.856.848",
+            "FIRMA ELLECTRONICA": "RAFAEL GUERRERO GUZMÁN - 1211085140"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "890572234904",
+            "NOMBRES": "RAFAEL GUERRERO GUZMÁN",
+            "CREDITO": "6.464.769",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "297.293",
+            "FIRMA ELLECTRONICA": "RAFAEL GUERRERO GUZMÁN - 1211085140",
+            "AL PIE DE LA FIRMA": "RAFAEL GUERRERO GUZMÁN - 1211085140"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1211085140",
+            "NOMBRES": "RAFAEL GUERRERO GUZMÁN",
+            "FECHA NACIMIENTO": "24/10/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.464.769",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RAFAEL GUERRERO GUZMÁN - 1211085140",
+            "AL PIE DE LA FIRMA": "RAFAEL GUERRERO GUZMÁN - 1211085140"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1220189",
+            "CEDULA": "1211085140",
+            "NOMBRES": "RAFAEL GUERRERO GUZMÁN",
+            "CREDITO": "6.464.769",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "144",
+            "VL.CUOTA": "297.293",
+            "E.A": "21.4%",
+            "RECOMPRA O DESEMBOLSO": "3.856.848",
+            "FIRMA ELLECTRONICA": "RAFAEL GUERRERO GUZMÁN - 1211085140"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1211085140",
+            "NOMBRES": "RAFAEL GUERRERO GUZMÁN",
+            "FIRMA ELLECTRONICA": "RAFAEL GUERRERO GUZMÁN - 1211085140"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1211085140",
+            "NOMBRES": "RAFAEL GUERRERO GUZMÁN",
+            "FIRMA ELLECTRONICA": "RAFAEL GUERRERO GUZMÁN - 1211085140",
+            "AL PIE DE LA FIRMA": "RAFAEL GUERRERO GUZMÁN - 1211085140"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL GUERRERO GUZMÁN"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1211085140",
+            "NOMBRES": "RAFAEL GUERRERO GUZMÁN",
+            "SALARIO": "1.319.593",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "16/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1211085140",
+            "NOMBRES": "RAFAEL GUERRERO GUZMÁN",
+            "RECOMPRA O DESEMBOLSO": "3.856.848"
+        }
+    }
+]

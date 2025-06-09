@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "496295260477",
+            "SOLICITUD": "7728860",
+            "CEDULA": "1736792504",
+            "NOMBRES": "ESTEBAN MEJÍA",
+            "RECOMPRA O DESEMBOLSO": "2.672.867",
+            "FIRMA ELLECTRONICA": "ESTEBAN MEJÍA - 1736792504"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "496295260477",
+            "NOMBRES": "ESTEBAN MEJÍA",
+            "CREDITO": "7.993.530",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "192.423",
+            "FIRMA ELLECTRONICA": "ESTEBAN MEJÍA - 1736792504",
+            "AL PIE DE LA FIRMA": "ESTEBAN MEJÍA - 1736792504"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1736792504",
+            "NOMBRES": "ESTEBAN MEJÍA",
+            "FECHA NACIMIENTO": "13/11/1969"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.993.530",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "ESTEBAN MEJÍA - 1736792504",
+            "AL PIE DE LA FIRMA": "ESTEBAN MEJÍA - 1736792504"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7728860",
+            "CEDULA": "1736792504",
+            "NOMBRES": "ESTEBAN MEJÍA",
+            "CREDITO": "7.993.530",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "192.423",
+            "E.A": "22.61%",
+            "RECOMPRA O DESEMBOLSO": "2.672.867",
+            "FIRMA ELLECTRONICA": "ESTEBAN MEJÍA - 1736792504"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1736792504",
+            "NOMBRES": "ESTEBAN MEJÍA",
+            "FIRMA ELLECTRONICA": "ESTEBAN MEJÍA - 1736792504"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1736792504",
+            "NOMBRES": "ESTEBAN MEJÍA",
+            "FIRMA ELLECTRONICA": "ESTEBAN MEJÍA - 1736792504",
+            "AL PIE DE LA FIRMA": "ESTEBAN MEJÍA - 1736792504"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "ESTEBAN MEJÍA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1736792504",
+            "NOMBRES": "ESTEBAN MEJÍA",
+            "SALARIO": "2.778.791",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1736792504",
+            "NOMBRES": "ESTEBAN MEJÍA",
+            "RECOMPRA O DESEMBOLSO": "2.672.867"
+        }
+    }
+]

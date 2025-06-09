@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "385510534587",
+            "SOLICITUD": "3512136",
+            "CEDULA": "1225181928",
+            "NOMBRES": "IGNACIO JULIO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.104.005",
+            "FIRMA ELLECTRONICA": "IGNACIO JULIO SÁNCHEZ - 1225181928"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "385510534587",
+            "NOMBRES": "IGNACIO JULIO SÁNCHEZ",
+            "CREDITO": "13.102.172",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "343.394",
+            "FIRMA ELLECTRONICA": "IGNACIO JULIO SÁNCHEZ - 1225181928",
+            "AL PIE DE LA FIRMA": "IGNACIO JULIO SÁNCHEZ - 1225181928"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1225181928",
+            "NOMBRES": "IGNACIO JULIO SÁNCHEZ",
+            "FECHA NACIMIENTO": "12/05/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "13.102.172",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "IGNACIO JULIO SÁNCHEZ - 1225181928",
+            "AL PIE DE LA FIRMA": "IGNACIO JULIO SÁNCHEZ - 1225181928"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3512136",
+            "CEDULA": "1225181928",
+            "NOMBRES": "IGNACIO JULIO SÁNCHEZ",
+            "CREDITO": "13.102.172",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "343.394",
+            "E.A": "22.31%",
+            "RECOMPRA O DESEMBOLSO": "3.104.005",
+            "FIRMA ELLECTRONICA": "IGNACIO JULIO SÁNCHEZ - 1225181928"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1225181928",
+            "NOMBRES": "IGNACIO JULIO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "IGNACIO JULIO SÁNCHEZ - 1225181928"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1225181928",
+            "NOMBRES": "IGNACIO JULIO SÁNCHEZ",
+            "FIRMA ELLECTRONICA": "IGNACIO JULIO SÁNCHEZ - 1225181928",
+            "AL PIE DE LA FIRMA": "IGNACIO JULIO SÁNCHEZ - 1225181928"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "IGNACIO JULIO SÁNCHEZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1225181928",
+            "NOMBRES": "IGNACIO JULIO SÁNCHEZ",
+            "SALARIO": "3.944.398",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "26/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1225181928",
+            "NOMBRES": "IGNACIO JULIO SÁNCHEZ",
+            "RECOMPRA O DESEMBOLSO": "3.104.005"
+        }
+    }
+]

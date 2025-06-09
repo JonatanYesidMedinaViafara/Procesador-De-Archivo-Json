@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "739034000531",
+            "SOLICITUD": "3449619",
+            "CEDULA": "1102725802",
+            "NOMBRES": "MAURICIO ARANGO",
+            "RECOMPRA O DESEMBOLSO": "1.983.259",
+            "FIRMA ELLECTRONICA": "MAURICIO ARANGO - 1102725802"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "739034000531",
+            "NOMBRES": "MAURICIO ARANGO",
+            "CREDITO": "7.318.028",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "180.762",
+            "FIRMA ELLECTRONICA": "MAURICIO ARANGO - 1102725802",
+            "AL PIE DE LA FIRMA": "MAURICIO ARANGO - 1102725802"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1102725802",
+            "NOMBRES": "MAURICIO ARANGO",
+            "FECHA NACIMIENTO": "29/11/1957"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "7.318.028",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MAURICIO ARANGO - 1102725802",
+            "AL PIE DE LA FIRMA": "MAURICIO ARANGO - 1102725802"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3449619",
+            "CEDULA": "1102725802",
+            "NOMBRES": "MAURICIO ARANGO",
+            "CREDITO": "7.318.028",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "72",
+            "VL.CUOTA": "180.762",
+            "E.A": "20.36%",
+            "RECOMPRA O DESEMBOLSO": "1.983.259",
+            "FIRMA ELLECTRONICA": "MAURICIO ARANGO - 1102725802"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1102725802",
+            "NOMBRES": "MAURICIO ARANGO",
+            "FIRMA ELLECTRONICA": "MAURICIO ARANGO - 1102725802"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1102725802",
+            "NOMBRES": "MAURICIO ARANGO",
+            "FIRMA ELLECTRONICA": "MAURICIO ARANGO - 1102725802",
+            "AL PIE DE LA FIRMA": "MAURICIO ARANGO - 1102725802"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MAURICIO ARANGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1102725802",
+            "NOMBRES": "MAURICIO ARANGO",
+            "SALARIO": "2.061.887",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "02/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1102725802",
+            "NOMBRES": "MAURICIO ARANGO",
+            "RECOMPRA O DESEMBOLSO": "1.983.259"
+        }
+    }
+]

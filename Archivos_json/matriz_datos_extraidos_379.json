@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "388825997250",
+            "SOLICITUD": "5536171",
+            "CEDULA": "1220117788",
+            "NOMBRES": "LINA GUTIÉRREZ CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "3.480.233",
+            "FIRMA ELLECTRONICA": "LINA GUTIÉRREZ CASTELLANOS - 1220117788"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "388825997250",
+            "NOMBRES": "LINA GUTIÉRREZ CASTELLANOS",
+            "CREDITO": "18.350.924",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "204.472",
+            "FIRMA ELLECTRONICA": "LINA GUTIÉRREZ CASTELLANOS - 1220117788",
+            "AL PIE DE LA FIRMA": "LINA GUTIÉRREZ CASTELLANOS - 1220117788"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1220117788",
+            "NOMBRES": "LINA GUTIÉRREZ CASTELLANOS",
+            "FECHA NACIMIENTO": "07/12/1986"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.350.924",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "LINA GUTIÉRREZ CASTELLANOS - 1220117788",
+            "AL PIE DE LA FIRMA": "LINA GUTIÉRREZ CASTELLANOS - 1220117788"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "5536171",
+            "CEDULA": "1220117788",
+            "NOMBRES": "LINA GUTIÉRREZ CASTELLANOS",
+            "CREDITO": "18.350.924",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "60",
+            "VL.CUOTA": "204.472",
+            "E.A": "28.17%",
+            "RECOMPRA O DESEMBOLSO": "3.480.233",
+            "FIRMA ELLECTRONICA": "LINA GUTIÉRREZ CASTELLANOS - 1220117788"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1220117788",
+            "NOMBRES": "LINA GUTIÉRREZ CASTELLANOS",
+            "FIRMA ELLECTRONICA": "LINA GUTIÉRREZ CASTELLANOS - 1220117788"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1220117788",
+            "NOMBRES": "LINA GUTIÉRREZ CASTELLANOS",
+            "FIRMA ELLECTRONICA": "LINA GUTIÉRREZ CASTELLANOS - 1220117788",
+            "AL PIE DE LA FIRMA": "LINA GUTIÉRREZ CASTELLANOS - 1220117788"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LINA GUTIÉRREZ CASTELLANOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1220117788",
+            "NOMBRES": "LINA GUTIÉRREZ CASTELLANOS",
+            "SALARIO": "2.078.838",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "15/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1220117788",
+            "NOMBRES": "LINA GUTIÉRREZ CASTELLANOS",
+            "RECOMPRA O DESEMBOLSO": "3.480.233"
+        }
+    }
+]

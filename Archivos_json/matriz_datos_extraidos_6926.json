@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "249205166643",
+            "SOLICITUD": "1111858",
+            "CEDULA": "1364525515",
+            "NOMBRES": "FERNANDA ZAMBRANO ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "4.363.568",
+            "FIRMA ELLECTRONICA": "FERNANDA ZAMBRANO ANDRADE - 1364525515"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "249205166643",
+            "NOMBRES": "FERNANDA ZAMBRANO ANDRADE",
+            "CREDITO": "6.144.901",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "288.144",
+            "FIRMA ELLECTRONICA": "FERNANDA ZAMBRANO ANDRADE - 1364525515",
+            "AL PIE DE LA FIRMA": "FERNANDA ZAMBRANO ANDRADE - 1364525515"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1364525515",
+            "NOMBRES": "FERNANDA ZAMBRANO ANDRADE",
+            "FECHA NACIMIENTO": "11/04/1958"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.144.901",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "FERNANDA ZAMBRANO ANDRADE - 1364525515",
+            "AL PIE DE LA FIRMA": "FERNANDA ZAMBRANO ANDRADE - 1364525515"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "1111858",
+            "CEDULA": "1364525515",
+            "NOMBRES": "FERNANDA ZAMBRANO ANDRADE",
+            "CREDITO": "6.144.901",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "288.144",
+            "E.A": "19.17%",
+            "RECOMPRA O DESEMBOLSO": "4.363.568",
+            "FIRMA ELLECTRONICA": "FERNANDA ZAMBRANO ANDRADE - 1364525515"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1364525515",
+            "NOMBRES": "FERNANDA ZAMBRANO ANDRADE",
+            "FIRMA ELLECTRONICA": "FERNANDA ZAMBRANO ANDRADE - 1364525515"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1364525515",
+            "NOMBRES": "FERNANDA ZAMBRANO ANDRADE",
+            "FIRMA ELLECTRONICA": "FERNANDA ZAMBRANO ANDRADE - 1364525515",
+            "AL PIE DE LA FIRMA": "FERNANDA ZAMBRANO ANDRADE - 1364525515"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "FERNANDA ZAMBRANO ANDRADE"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1364525515",
+            "NOMBRES": "FERNANDA ZAMBRANO ANDRADE",
+            "SALARIO": "3.275.425",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "16/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1364525515",
+            "NOMBRES": "FERNANDA ZAMBRANO ANDRADE",
+            "RECOMPRA O DESEMBOLSO": "4.363.568"
+        }
+    }
+]

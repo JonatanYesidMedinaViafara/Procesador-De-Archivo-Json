@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "727260966794",
+            "SOLICITUD": "3677982",
+            "CEDULA": "1580202127",
+            "NOMBRES": "MARÍA JAIMES SIERRA",
+            "RECOMPRA O DESEMBOLSO": "4.291.226",
+            "FIRMA ELLECTRONICA": "MARÍA JAIMES SIERRA - 1580202127"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "727260966794",
+            "NOMBRES": "MARÍA JAIMES SIERRA",
+            "CREDITO": "8.723.779",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "256.899",
+            "FIRMA ELLECTRONICA": "MARÍA JAIMES SIERRA - 1580202127",
+            "AL PIE DE LA FIRMA": "MARÍA JAIMES SIERRA - 1580202127"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1580202127",
+            "NOMBRES": "MARÍA JAIMES SIERRA",
+            "FECHA NACIMIENTO": "23/02/1979"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "8.723.779",
+            "CUOTAS": "96",
+            "FIRMA ELLECTRONICA": "MARÍA JAIMES SIERRA - 1580202127",
+            "AL PIE DE LA FIRMA": "MARÍA JAIMES SIERRA - 1580202127"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3677982",
+            "CEDULA": "1580202127",
+            "NOMBRES": "MARÍA JAIMES SIERRA",
+            "CREDITO": "8.723.779",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "96",
+            "VL.CUOTA": "256.899",
+            "E.A": "20.86%",
+            "RECOMPRA O DESEMBOLSO": "4.291.226",
+            "FIRMA ELLECTRONICA": "MARÍA JAIMES SIERRA - 1580202127"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1580202127",
+            "NOMBRES": "MARÍA JAIMES SIERRA",
+            "FIRMA ELLECTRONICA": "MARÍA JAIMES SIERRA - 1580202127"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1580202127",
+            "NOMBRES": "MARÍA JAIMES SIERRA",
+            "FIRMA ELLECTRONICA": "MARÍA JAIMES SIERRA - 1580202127",
+            "AL PIE DE LA FIRMA": "MARÍA JAIMES SIERRA - 1580202127"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA JAIMES SIERRA"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1580202127",
+            "NOMBRES": "MARÍA JAIMES SIERRA",
+            "SALARIO": "3.125.920",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "02/06/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1580202127",
+            "NOMBRES": "MARÍA JAIMES SIERRA",
+            "RECOMPRA O DESEMBOLSO": "4.291.226"
+        }
+    }
+]

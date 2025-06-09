@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "117225520360",
+            "SOLICITUD": "8479731",
+            "CEDULA": "1339816404",
+            "NOMBRES": "LUCÍA BUSTOS",
+            "RECOMPRA O DESEMBOLSO": "2.978.847",
+            "FIRMA ELLECTRONICA": "LUCÍA BUSTOS - 1339816404"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "117225520360",
+            "NOMBRES": "LUCÍA BUSTOS",
+            "CREDITO": "6.014.710",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "179.176",
+            "FIRMA ELLECTRONICA": "LUCÍA BUSTOS - 1339816404",
+            "AL PIE DE LA FIRMA": "LUCÍA BUSTOS - 1339816404"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1339816404",
+            "NOMBRES": "LUCÍA BUSTOS",
+            "FECHA NACIMIENTO": "01/01/1984"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "6.014.710",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "LUCÍA BUSTOS - 1339816404",
+            "AL PIE DE LA FIRMA": "LUCÍA BUSTOS - 1339816404"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "8479731",
+            "CEDULA": "1339816404",
+            "NOMBRES": "LUCÍA BUSTOS",
+            "CREDITO": "6.014.710",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "CUOTAS": "120",
+            "VL.CUOTA": "179.176",
+            "E.A": "18.85%",
+            "RECOMPRA O DESEMBOLSO": "2.978.847",
+            "FIRMA ELLECTRONICA": "LUCÍA BUSTOS - 1339816404"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1339816404",
+            "NOMBRES": "LUCÍA BUSTOS",
+            "FIRMA ELLECTRONICA": "LUCÍA BUSTOS - 1339816404"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1339816404",
+            "NOMBRES": "LUCÍA BUSTOS",
+            "FIRMA ELLECTRONICA": "LUCÍA BUSTOS - 1339816404",
+            "AL PIE DE LA FIRMA": "LUCÍA BUSTOS - 1339816404"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "LUCÍA BUSTOS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1339816404",
+            "NOMBRES": "LUCÍA BUSTOS",
+            "SALARIO": "4.776.107",
+            "PAGADURIA": "FONDO EMPLEADOS BANCOLOMBIA",
+            "FECHA DESPRENDIBLE": "21/04/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1339816404",
+            "NOMBRES": "LUCÍA BUSTOS",
+            "RECOMPRA O DESEMBOLSO": "2.978.847"
+        }
+    }
+]

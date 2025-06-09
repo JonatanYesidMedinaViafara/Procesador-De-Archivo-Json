@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "705551151741",
+            "SOLICITUD": "3239971",
+            "CEDULA": "1949569877",
+            "NOMBRES": "MARÍA BERNAL RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.431.133",
+            "FIRMA ELLECTRONICA": "MARÍA BERNAL RAMÍREZ - 1949569877"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "705551151741",
+            "NOMBRES": "MARÍA BERNAL RAMÍREZ",
+            "CREDITO": "18.985.357",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "143.001",
+            "FIRMA ELLECTRONICA": "MARÍA BERNAL RAMÍREZ - 1949569877",
+            "AL PIE DE LA FIRMA": "MARÍA BERNAL RAMÍREZ - 1949569877"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1949569877",
+            "NOMBRES": "MARÍA BERNAL RAMÍREZ",
+            "FECHA NACIMIENTO": "06/07/1982"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "18.985.357",
+            "CUOTAS": "72",
+            "FIRMA ELLECTRONICA": "MARÍA BERNAL RAMÍREZ - 1949569877",
+            "AL PIE DE LA FIRMA": "MARÍA BERNAL RAMÍREZ - 1949569877"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "3239971",
+            "CEDULA": "1949569877",
+            "NOMBRES": "MARÍA BERNAL RAMÍREZ",
+            "CREDITO": "18.985.357",
+            "PAGADURIA": "FNA",
+            "CUOTAS": "72",
+            "VL.CUOTA": "143.001",
+            "E.A": "20.7%",
+            "RECOMPRA O DESEMBOLSO": "2.431.133",
+            "FIRMA ELLECTRONICA": "MARÍA BERNAL RAMÍREZ - 1949569877"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1949569877",
+            "NOMBRES": "MARÍA BERNAL RAMÍREZ",
+            "FIRMA ELLECTRONICA": "MARÍA BERNAL RAMÍREZ - 1949569877"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1949569877",
+            "NOMBRES": "MARÍA BERNAL RAMÍREZ",
+            "FIRMA ELLECTRONICA": "MARÍA BERNAL RAMÍREZ - 1949569877",
+            "AL PIE DE LA FIRMA": "MARÍA BERNAL RAMÍREZ - 1949569877"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "MARÍA BERNAL RAMÍREZ"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1949569877",
+            "NOMBRES": "MARÍA BERNAL RAMÍREZ",
+            "SALARIO": "3.489.856",
+            "PAGADURIA": "FNA",
+            "FECHA DESPRENDIBLE": "08/03/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1949569877",
+            "NOMBRES": "MARÍA BERNAL RAMÍREZ",
+            "RECOMPRA O DESEMBOLSO": "2.431.133"
+        }
+    }
+]

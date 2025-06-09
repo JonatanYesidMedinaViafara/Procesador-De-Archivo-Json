@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "950242234068",
+            "SOLICITUD": "6038372",
+            "CEDULA": "1627266123",
+            "NOMBRES": "RAFAEL CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.475.149",
+            "FIRMA ELLECTRONICA": "RAFAEL CORREDOR - 1627266123"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "950242234068",
+            "NOMBRES": "RAFAEL CORREDOR",
+            "CREDITO": "10.557.979",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "312.842",
+            "FIRMA ELLECTRONICA": "RAFAEL CORREDOR - 1627266123",
+            "AL PIE DE LA FIRMA": "RAFAEL CORREDOR - 1627266123"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1627266123",
+            "NOMBRES": "RAFAEL CORREDOR",
+            "FECHA NACIMIENTO": "25/12/1975"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "10.557.979",
+            "CUOTAS": "144",
+            "FIRMA ELLECTRONICA": "RAFAEL CORREDOR - 1627266123",
+            "AL PIE DE LA FIRMA": "RAFAEL CORREDOR - 1627266123"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "6038372",
+            "CEDULA": "1627266123",
+            "NOMBRES": "RAFAEL CORREDOR",
+            "CREDITO": "10.557.979",
+            "PAGADURIA": "COLPENSIONES",
+            "CUOTAS": "144",
+            "VL.CUOTA": "312.842",
+            "E.A": "27.51%",
+            "RECOMPRA O DESEMBOLSO": "3.475.149",
+            "FIRMA ELLECTRONICA": "RAFAEL CORREDOR - 1627266123"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1627266123",
+            "NOMBRES": "RAFAEL CORREDOR",
+            "FIRMA ELLECTRONICA": "RAFAEL CORREDOR - 1627266123"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1627266123",
+            "NOMBRES": "RAFAEL CORREDOR",
+            "FIRMA ELLECTRONICA": "RAFAEL CORREDOR - 1627266123",
+            "AL PIE DE LA FIRMA": "RAFAEL CORREDOR - 1627266123"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "RAFAEL CORREDOR"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1627266123",
+            "NOMBRES": "RAFAEL CORREDOR",
+            "SALARIO": "4.475.970",
+            "PAGADURIA": "COLPENSIONES",
+            "FECHA DESPRENDIBLE": "27/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1627266123",
+            "NOMBRES": "RAFAEL CORREDOR",
+            "RECOMPRA O DESEMBOLSO": "3.475.149"
+        }
+    }
+]

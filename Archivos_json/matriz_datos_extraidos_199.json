@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "863150780033",
+            "SOLICITUD": "2495970",
+            "CEDULA": "1046050213",
+            "NOMBRES": "YANETH ARANGO",
+            "RECOMPRA O DESEMBOLSO": "3.004.376",
+            "FIRMA ELLECTRONICA": "YANETH ARANGO - 1046050213"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "863150780033",
+            "NOMBRES": "YANETH ARANGO",
+            "CREDITO": "14.277.075",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "252.497",
+            "FIRMA ELLECTRONICA": "YANETH ARANGO - 1046050213",
+            "AL PIE DE LA FIRMA": "YANETH ARANGO - 1046050213"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1046050213",
+            "NOMBRES": "YANETH ARANGO",
+            "FECHA NACIMIENTO": "16/08/1959"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "14.277.075",
+            "CUOTAS": "60",
+            "FIRMA ELLECTRONICA": "YANETH ARANGO - 1046050213",
+            "AL PIE DE LA FIRMA": "YANETH ARANGO - 1046050213"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "2495970",
+            "CEDULA": "1046050213",
+            "NOMBRES": "YANETH ARANGO",
+            "CREDITO": "14.277.075",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "60",
+            "VL.CUOTA": "252.497",
+            "E.A": "24.22%",
+            "RECOMPRA O DESEMBOLSO": "3.004.376",
+            "FIRMA ELLECTRONICA": "YANETH ARANGO - 1046050213"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1046050213",
+            "NOMBRES": "YANETH ARANGO",
+            "FIRMA ELLECTRONICA": "YANETH ARANGO - 1046050213"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1046050213",
+            "NOMBRES": "YANETH ARANGO",
+            "FIRMA ELLECTRONICA": "YANETH ARANGO - 1046050213",
+            "AL PIE DE LA FIRMA": "YANETH ARANGO - 1046050213"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "YANETH ARANGO"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1046050213",
+            "NOMBRES": "YANETH ARANGO",
+            "SALARIO": "1.383.123",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "23/05/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1046050213",
+            "NOMBRES": "YANETH ARANGO",
+            "RECOMPRA O DESEMBOLSO": "3.004.376"
+        }
+    }
+]

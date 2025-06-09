@@ -1,0 +1,99 @@
+[
+    {
+        "documento": "Solicitud Crédito",
+        "campos": {
+            "No.CREADITO": "295031010405",
+            "SOLICITUD": "7882338",
+            "CEDULA": "1727926208",
+            "NOMBRES": "DIANA GALVIS",
+            "RECOMPRA O DESEMBOLSO": "2.119.949",
+            "FIRMA ELLECTRONICA": "DIANA GALVIS - 1727926208"
+        }
+    },
+    {
+        "documento": "Libranza",
+        "campos": {
+            "No.CREADITO": "295031010405",
+            "NOMBRES": "DIANA GALVIS",
+            "CREDITO": "9.497.650",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "315.518",
+            "FIRMA ELLECTRONICA": "DIANA GALVIS - 1727926208",
+            "AL PIE DE LA FIRMA": "DIANA GALVIS - 1727926208"
+        }
+    },
+    {
+        "documento": "Cedula",
+        "campos": {
+            "CEDULA": "1727926208",
+            "NOMBRES": "DIANA GALVIS",
+            "FECHA NACIMIENTO": "03/03/1974"
+        }
+    },
+    {
+        "documento": "Formato conocimiento",
+        "campos": {
+            "CREDITO": "9.497.650",
+            "CUOTAS": "120",
+            "FIRMA ELLECTRONICA": "DIANA GALVIS - 1727926208",
+            "AL PIE DE LA FIRMA": "DIANA GALVIS - 1727926208"
+        }
+    },
+    {
+        "documento": "Amortización",
+        "campos": {
+            "SOLICITUD": "7882338",
+            "CEDULA": "1727926208",
+            "NOMBRES": "DIANA GALVIS",
+            "CREDITO": "9.497.650",
+            "PAGADURIA": "INVIAS",
+            "CUOTAS": "120",
+            "VL.CUOTA": "315.518",
+            "E.A": "23.84%",
+            "RECOMPRA O DESEMBOLSO": "2.119.949",
+            "FIRMA ELLECTRONICA": "DIANA GALVIS - 1727926208"
+        }
+    },
+    {
+        "documento": "Seguro de vida",
+        "campos": {
+            "CEDULA": "1727926208",
+            "NOMBRES": "DIANA GALVIS",
+            "FIRMA ELLECTRONICA": "DIANA GALVIS - 1727926208"
+        }
+    },
+    {
+        "documento": "Fianza",
+        "campos": {
+            "CEDULA": "1727926208",
+            "NOMBRES": "DIANA GALVIS",
+            "FIRMA ELLECTRONICA": "DIANA GALVIS - 1727926208",
+            "AL PIE DE LA FIRMA": "DIANA GALVIS - 1727926208"
+        }
+    },
+    {
+        "documento": "Datacredito",
+        "campos": {
+            "NOMBRES": "DIANA GALVIS"
+        }
+    },
+    {
+        "documento": "Desprendible Nomina",
+        "campos": {
+            "CEDULA": "1727926208",
+            "NOMBRES": "DIANA GALVIS",
+            "SALARIO": "3.985.214",
+            "PAGADURIA": "INVIAS",
+            "FECHA DESPRENDIBLE": "24/02/2025"
+        }
+    },
+    {
+        "documento": "Soportes recompra o soporte desembolso",
+        "campos": {
+            "CEDULA": "1727926208",
+            "NOMBRES": "DIANA GALVIS",
+            "RECOMPRA O DESEMBOLSO": "2.119.949"
+        }
+    }
+]
