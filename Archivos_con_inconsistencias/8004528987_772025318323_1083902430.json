@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "480824",
+    "nombre_archivo": "480824_6_772025318323_1083902430_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "SECRETARÍA DE EDUCACION DEPARTAMENTAL DEL HUILA",
+      "nombre_completo": "PARRA RODRIGUEZ MARITZA ANDREA",
+      "numero_documento": "1083902430",
+      "vigencia": "30-04-2025",
+      "salario": "2769783"
+    }
+  },
+  {
+    "id_cargue": "480824",
+    "nombre_archivo": "480824_7_772025318323_1083902430_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "numero_documento": "1083902430",
+      "fecha_nacimiento": "05-JUN-1993"
+    }
+  },
+  {
+    "id_cargue": "480824",
+    "nombre_archivo": "480824_8_772025318323_1083902430_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "numero_documento": "1083902430",
+      "nombre_firma_electronica": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "cedula_firma_electronica": "1083902430"
+    }
+  },
+  {
+    "id_cargue": "480824",
+    "nombre_archivo": "480824_9_772025318323_1083902430_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1449617",
+      "nombre_completo": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "numero_documento": "1083902430",
+      "pagaduria": "SECRETARIA DE EDUCACION HUILA",
+      "valor_credito": "30500014",
+      "plazo_meses": "144",
+      "valor_cuota": "664902",
+      "tasa_interes": "25.97",
+      "compras_cartera_prepagos": "6034242",
+      "nombre_firma_electronica": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "cedula_firma_electronica": "1083902430"
+    }
+  },
+  {
+    "id_cargue": "480824",
+    "nombre_archivo": "480824_10_772025318323_1083902430_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025318323",
+      "solicitud": "1449617",
+      "nombre_completo": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "numero_documento": "1083902430",
+      "valor_a_cancelar": "4313242",
+      "nombre_firma_electronica": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "cedula_firma_electronica": "1083902430"
+    }
+  },
+  {
+    "id_cargue": "480824",
+    "nombre_archivo": "480824_1_772025318323_1083902430_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "PARRA RODRIGUEZ MARITZA ANDREA"
+    }
+  },
+  {
+    "id_cargue": "480824",
+    "nombre_archivo": "480824_3_772025318323_1083902430_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025318323",
+      "nombre_completo": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "numero_documento": "1083902430",
+      "pagaduria": "SECRETARIA DE EDUCACION HUILA",
+      "valor_cuota": "664902",
+      "valor_prestamo": "30500014",
+      "plazo": "144",
+      "nombre_firma_electronica": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "cedula_firma_electronica": "1083902430"
+    }
+  },
+  {
+    "id_cargue": "480824",
+    "nombre_archivo": "480824_4_772025318323_1083902430_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "30500014",
+      "plazo_meses": "144",
+      "nombre_firma_electronica": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "cedula_firma_electronica": "1083902430"
+    }
+  },
+  {
+    "id_cargue": "480824",
+    "nombre_archivo": "480824_5_772025318323_1083902430_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "numero_documento": "1083902430",
+      "nombre_firma_electronica": "MARITZA ANDREA PARRA RODRIGUEZ",
+      "cedula_firma_electronica": "1083902430"
+    }
+  }
+]

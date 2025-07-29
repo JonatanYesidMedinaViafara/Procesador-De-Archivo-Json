@@ -1,0 +1,5 @@
+✅ 8004528987_772025324084_41784105.json validado correctamente (estructura + coherencia interna).
+❌ Inconsistencias globales detectadas en 8004528987_772025324084_41784105.json:
+  → Campo 'firma_electronica' tiene múltiples valores: ['EMMA JULIA HOYOS HERNANDEZ 41784105', 'EMMA JULIA HOYOS HOYOS HERNANI HERNANDEZ CC 41784105']
+  → Campo 'al_pie_de_firma' tiene múltiples valores: ['EMMA JULIA HOYOS HERNANDEZ 41784105', 'EMMA JULIA HOYOS HERNANDEZ CC 41784105']
+  → Campo 'pagaduria' tiene múltiples valores: ['Protección Fondo de Pensiones Obligatorias Protección', 'PROTECCION S.A.']

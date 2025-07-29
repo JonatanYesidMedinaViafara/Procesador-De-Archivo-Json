@@ -1,0 +1,78 @@
+[
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_11_772025324003_66659189_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "MARIA MONICA AGUIRRE VASQUEZ",
+      "numero_documento": "66659189",
+      "nombre_firma_electronica": "MARIA MONICA AGUIRRE VASQUEZ",
+      "cedula_firma_electronica": "66659189"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_12_772025324003_66659189_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025324003",
+      "solicitud": "1471803",
+      "nombre_completo": "MARIA MONICA AGUIRRE VASQUEZ",
+      "numero_documento": "66659189",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "MARIA MONICA AGUIRRE VASQUEZ",
+      "cedula_firma_electronica": "66659189"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_1_772025324003_66659189_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1471803",
+      "nombre_completo": "MARIA MONICA AGUIRRE VASQUEZ",
+      "numero_documento": "66659189",
+      "pagaduria": "POSITIVA",
+      "valor_credito": "1715196",
+      "plazo_meses": "180",
+      "valor_cuota": "35669",
+      "tasa_interes": "25.55",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "MARIA MONICA AGUIRRE VASQUEZ",
+      "cedula_firma_electronica": "66659189"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_3_772025324003_66659189_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "MARIA MONICA AGUIRRE VASQUEZ",
+      "numero_documento": "66659189",
+      "fecha_nacimiento": "14-AGO-1980"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_5_772025324003_66659189_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "POSITIVA",
+      "nombre_completo": "AGUIRRE VASQUEZ MARÍA MONICA",
+      "numero_documento": "66659189",
+      "vigencia": "27-09-2025",
+      "salario": "761836"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_7_772025324003_66659189_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "1715196",
+      "plazo_meses": "180",
+      "nombre_firma_electronica": "MARIA MONICA AGUIRRE VASQUEZ",
+      "cedula_firma_electronica": "66659189"
+    }
+  }
+]

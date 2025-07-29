@@ -1,0 +1,6 @@
+✅ 8004528987_772025324206_16837808.json validado correctamente (estructura + coherencia interna).
+❌ Inconsistencias globales detectadas en 8004528987_772025324206_16837808.json:
+  → Campo 'nombre_completo' tiene múltiples valores: ['ROSEMBERG CASTILLO MEJIA', 'CASTILLO MEJIA ROSEMBERG']
+  → Campo 'firma_electronica' tiene múltiples valores: ['ROSEMBERG CASTILLO MEJIA CC 16837808', 'ROSEMBERG CASTILLO MEJIA 16837808']
+  → Campo 'al_pie_de_firma' tiene múltiples valores: ['ROSEMBERG CASTILLO MEJIA CC 16837808', 'ROSEMBERG CASTILLO MEJIA 16837808']
+  → Campo 'pagaduria' tiene múltiples valores: ['CREMIL Caja de Retiro de las Fuerzas Militares', 'CAJA DE RETIRO DE LA FUERZAS MILITARES - CREMIL']

@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "464291",
+    "nombre_archivo": "464291_2_772025309867_91345017_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1424305",
+      "nombre_completo": "HECTOR MANTILLA BARRERA",
+      "numero_documento": "91345017",
+      "pagaduria": "CAJA DE SUELDOS DE RETIRO DE POLICIA NACIONAL",
+      "valor_credito": "5279893",
+      "plazo_meses": "156",
+      "valor_cuota": "112139",
+      "tasa_interes": "24.92",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "HECTOR MANTILLA BARRERA",
+      "cedula_firma_electronica": "91345017"
+    }
+  },
+  {
+    "id_cargue": "464291",
+    "nombre_archivo": "464291_3_772025309867_91345017_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "HECTOR MANTILLA BARRERA",
+      "numero_documento": "91345017",
+      "nombre_firma_electronica": "HECTOR MANTILLA BARRERA",
+      "cedula_firma_electronica": "91345017"
+    }
+  },
+  {
+    "id_cargue": "464291",
+    "nombre_archivo": "464291_4_772025309867_91345017_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025309867",
+      "nombre_completo": "HECTOR MANTILLA BARRERA",
+      "numero_documento": "91345017",
+      "pagaduria": "CAJA DE SUELDOS DE RETIRO DE POLICIA NACIONAL",
+      "valor_cuota": "112139",
+      "valor_prestamo": "5279893",
+      "plazo": "156",
+      "nombre_firma_electronica": "HECTOR MANTILLA BARRERA",
+      "cedula_firma_electronica": "91345017"
+    }
+  },
+  {
+    "id_cargue": "464291",
+    "nombre_archivo": "464291_5_772025309867_91345017_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "HECTOR MANTILLA BARRERA",
+      "numero_documento": "91345017",
+      "fecha_nacimiento": "11-OCT-1969"
+    }
+  },
+  {
+    "id_cargue": "464291",
+    "nombre_archivo": "464291_6_772025309867_91345017_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "5279893",
+      "plazo_meses": "156",
+      "nombre_firma_electronica": "HECTOR MANTILLA BARRERA",
+      "cedula_firma_electronica": "91345017"
+    }
+  },
+  {
+    "id_cargue": "464291",
+    "nombre_archivo": "464291_7_772025309867_91345017_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "CASUR Caja de Sueldos de Retiro de la Policía Nacional",
+      "nombre_completo": "AG MANTILLA BARRERA HECTOR",
+      "numero_documento": "91345017",
+      "vigencia": "31-03-2025",
+      "salario": "1510842"
+    }
+  },
+  {
+    "id_cargue": "464291",
+    "nombre_archivo": "464291_8_772025309867_91345017_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "HECTOR MANTILLA BARRERA",
+      "numero_documento": "91345017",
+      "nombre_firma_electronica": "HECTOR MANTILLA BARRERA",
+      "cedula_firma_electronica": "91345017"
+    }
+  },
+  {
+    "id_cargue": "464291",
+    "nombre_archivo": "464291_9_772025309867_91345017_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025309867",
+      "solicitud": "1424305",
+      "nombre_completo": "HECTOR MANTILLA BARRERA",
+      "numero_documento": "91345017",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "HECTOR MANTILLA BARRERA",
+      "cedula_firma_electronica": "91345017"
+    }
+  },
+  {
+    "id_cargue": "464291",
+    "nombre_archivo": "464291_11_772025309867_91345017_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "MANTILLA BARRERA HECTOR"
+    }
+  }
+]

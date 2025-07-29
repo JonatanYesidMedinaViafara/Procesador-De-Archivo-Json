@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "587133",
+    "nombre_archivo": "587133_6_772025326324_32645074_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "numero_documento": "32645074",
+      "nombre_firma_electronica": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "cedula_firma_electronica": "32645074"
+    }
+  },
+  {
+    "id_cargue": "587133",
+    "nombre_archivo": "587133_5_772025326324_32645074_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "COLPENSIONES",
+      "nombre_completo": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "numero_documento": "32645074",
+      "vigencia": "15-07-2025",
+      "salario": "807412"
+    }
+  },
+  {
+    "id_cargue": "587133",
+    "nombre_archivo": "587133_7_772025326324_32645074_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "5974177",
+      "plazo_meses": "180",
+      "nombre_firma_electronica": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "cedula_firma_electronica": "32645074"
+    }
+  },
+  {
+    "id_cargue": "587133",
+    "nombre_archivo": "587133_9_772025326324_32645074_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025326324",
+      "nombre_completo": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "numero_documento": "32645074",
+      "pagaduria": "COLPENSIONES",
+      "valor_cuota": "124032",
+      "valor_prestamo": "5974177",
+      "plazo": "180",
+      "nombre_firma_electronica": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "cedula_firma_electronica": "32645074"
+    }
+  },
+  {
+    "id_cargue": "587133",
+    "nombre_archivo": "587133_12_772025326324_32645074_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "numero_documento": "32645074",
+      "nombre_firma_electronica": "NANCY ZENITH I GONZALEZ GONZALEZ AL ALVAREZ",
+      "cedula_firma_electronica": "32645074"
+    }
+  },
+  {
+    "id_cargue": "587133",
+    "nombre_archivo": "587133_13_772025326324_32645074_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025326324",
+      "solicitud": "1479047",
+      "nombre_completo": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "numero_documento": "32645074",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "cedula_firma_electronica": "32645074"
+    }
+  },
+  {
+    "id_cargue": "587133",
+    "nombre_archivo": "587133_1_772025326324_32645074_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1479047",
+      "nombre_completo": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "numero_documento": "32645074",
+      "pagaduria": "COLPENSIONES",
+      "valor_credito": "5974177",
+      "plazo_meses": "180",
+      "valor_cuota": "124032",
+      "tasa_interes": "24.78",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "cedula_firma_electronica": "32645074"
+    }
+  },
+  {
+    "id_cargue": "587133",
+    "nombre_archivo": "587133_3_772025326324_32645074_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "NANCY ZENITH GONZALEZ ALVAREZ",
+      "numero_documento": "32645074",
+      "fecha_nacimiento": "25-SEP-1960"
+    }
+  },
+  {
+    "id_cargue": "587133",
+    "nombre_archivo": "587133_4_772025326324_32645074_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "GONZALEZ ALVAREZ NANCY ZENITH"
+    }
+  }
+]

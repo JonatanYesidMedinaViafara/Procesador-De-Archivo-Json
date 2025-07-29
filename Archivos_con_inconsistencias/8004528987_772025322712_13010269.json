@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "488498",
+    "nombre_archivo": "488498_1_772025322712_13010269_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1463814",
+      "nombre_completo": "DIONISIO QUIÑONEZ PALMA",
+      "numero_documento": "13010269",
+      "pagaduria": "MAPFRE PENSIONADOS",
+      "valor_credito": "8156413",
+      "plazo_meses": "144",
+      "valor_cuota": "178794",
+      "tasa_interes": "25.55",
+      "compras_cartera_prepagos": "4487327",
+      "nombre_firma_electronica": "DIONISIO QUIÑONEZ PALMA",
+      "cedula_firma_electronica": "13010269"
+    }
+  },
+  {
+    "id_cargue": "488498",
+    "nombre_archivo": "488498_2_772025322712_13010269_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "DIONISIO QUIÑONEZ PALMA",
+      "numero_documento": "13010269",
+      "fecha_nacimiento": "19-NOV-1960"
+    }
+  },
+  {
+    "id_cargue": "488498",
+    "nombre_archivo": "488498_4_772025322712_13010269_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "8156413",
+      "plazo_meses": "144",
+      "nombre_firma_electronica": "DIONISIO QUIÑONEZ PALMA",
+      "cedula_firma_electronica": "13010269"
+    }
+  },
+  {
+    "id_cargue": "488498",
+    "nombre_archivo": "488498_5_772025322712_13010269_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "MAPFRE COLOMBIA VIDA SEGUROS S.A.",
+      "nombre_completo": "QUIÑONEZ PALMA DIONISIO",
+      "numero_documento": "13010269",
+      "vigencia": "27-05-2025",
+      "salario": "684395"
+    }
+  },
+  {
+    "id_cargue": "488498",
+    "nombre_archivo": "488498_6_772025322712_13010269_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "DIONISIO QUIÑONEZ PALMA",
+      "numero_documento": "13010269",
+      "nombre_firma_electronica": "DIONISIO QUIÑONEZ PALMA",
+      "cedula_firma_electronica": "13010269"
+    }
+  },
+  {
+    "id_cargue": "488498",
+    "nombre_archivo": "488498_7_772025322712_13010269_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025322712",
+      "nombre_completo": "DIONISIO QUIÑONEZ PALMA",
+      "numero_documento": "13010269",
+      "pagaduria": "MAPFRE PENSIONADOS",
+      "valor_cuota": "178794",
+      "valor_prestamo": "8156413",
+      "plazo": "144",
+      "nombre_firma_electronica": "DIONISIO QUIÑONEZ PALMA",
+      "cedula_firma_electronica": "13010269"
+    }
+  },
+  {
+    "id_cargue": "488498",
+    "nombre_archivo": "488498_9_772025322712_13010269_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025322712",
+      "solicitud": "1463814",
+      "nombre_completo": "DIONISIO QUIÑONEZ PALMA",
+      "numero_documento": "13010269",
+      "valor_a_cancelar": "4487327",
+      "nombre_firma_electronica": "DIONISIO QUIÑONEZ PALMA",
+      "cedula_firma_electronica": "13010269"
+    }
+  },
+  {
+    "id_cargue": "488498",
+    "nombre_archivo": "488498_10_772025322712_13010269_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "DIONISIO QUIÑONEZ PALMA",
+      "numero_documento": "13010269",
+      "nombre_firma_electronica": "DIONISIO QUIÑONEZ PALMA",
+      "cedula_firma_electronica": "13010269"
+    }
+  },
+  {
+    "id_cargue": "488498",
+    "nombre_archivo": "488498_11_772025322712_13010269_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "QUIÑONEZ PALMA DIONISIO"
+    }
+  }
+]

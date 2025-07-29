@@ -1,0 +1,5 @@
+✅ 8004528987_772025324046_28387417.json validado correctamente (estructura + coherencia interna).
+❌ Inconsistencias globales detectadas en 8004528987_772025324046_28387417.json:
+  → Campo 'firma_electronica' tiene múltiples valores: ['MARGARITA ORTIZ JIMENEZ CC 28387417', 'MARGARITA ORTIZ JIMENEZ 28387417']
+  → Campo 'al_pie_de_firma' tiene múltiples valores: ['MARGARITA ORTIZ JIMENEZ CC 28387417', 'MARGARITA ORTIZ JIMENEZ 28387417']
+  → Campo 'pagaduria' tiene múltiples valores: ['Protección', 'PROTECCION S.A.']

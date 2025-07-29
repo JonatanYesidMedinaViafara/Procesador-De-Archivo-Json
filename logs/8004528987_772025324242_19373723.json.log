@@ -1,0 +1,5 @@
+✅ 8004528987_772025324242_19373723.json validado correctamente (estructura + coherencia interna).
+❌ Inconsistencias globales detectadas en 8004528987_772025324242_19373723.json:
+  → Campo 'nombre_completo' tiene múltiples valores: ['JORGE ELIAS HERNANDEZ HERNANDEZ', 'AG HERNANDEZ HERNANDEZ JORGE ELIAS']
+  → Campo 'firma_electronica' tiene múltiples valores: ['JORGE ELIAS HERNANDEZ HERNANDEZ 19373723', 'null']
+  → Campo 'pagaduria' tiene múltiples valores: ['CAJA DE SUELDOS DE RETIRO DE POLICIA NACIONAL', 'CASUR']

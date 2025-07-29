@@ -1,0 +1,6 @@
+✅ 8004528987_772025320745_23136571.json validado correctamente (estructura + coherencia interna).
+❌ Inconsistencias globales detectadas en 8004528987_772025320745_23136571.json:
+  → Campo 'nombre_completo' tiene múltiples valores: ['JIMENEZ CORTINA ELEDIS DEL CARMEN', 'ELEDIS DEL CARMEN JIMENEZ CORTINA']
+  → Campo 'nombre_firma_electronica' tiene múltiples valores: ['Avista', 'ELEDIS DEL CARMEN JIMENEZ CORTINA']
+  → Campo 'cedula_firma_electronica' tiene múltiples valores: ['None', '23136571']
+  → Campo 'pagaduria' tiene múltiples valores: ['SKANDIA', 'Skandia Pensiones y Cesantías S.A.']

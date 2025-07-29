@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_9_772025319347_11306395_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025319347",
+      "nombre_completo": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "numero_documento": "11306395",
+      "pagaduria": "COLPENSIONES",
+      "valor_cuota": "188847",
+      "valor_prestamo": "8975461",
+      "plazo": "180",
+      "nombre_firma_electronica": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "cedula_firma_electronica": "11306395"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_4_772025319347_11306395_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "VARGAS SANCHEZ LUIS ENRIQUE"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_5_772025319347_11306395_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "Colpensiones",
+      "nombre_completo": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "numero_documento": "11306395",
+      "vigencia": null,
+      "salario": "683380"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_6_772025319347_11306395_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "numero_documento": "11306395",
+      "nombre_firma_electronica": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "cedula_firma_electronica": "11306395"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_7_772025319347_11306395_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "8975461",
+      "plazo_meses": "180",
+      "nombre_firma_electronica": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "cedula_firma_electronica": "11306395"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_12_772025319347_11306395_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "numero_documento": "11306395",
+      "nombre_firma_electronica": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "cedula_firma_electronica": "11306395"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_13_772025319347_11306395_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025319347",
+      "solicitud": "1456150",
+      "nombre_completo": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "numero_documento": "11306395",
+      "valor_a_cancelar": "2029522",
+      "nombre_firma_electronica": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "cedula_firma_electronica": "11306395"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_1_772025319347_11306395_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1456150",
+      "nombre_completo": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "numero_documento": "11306395",
+      "pagaduria": "COLPENSIONES",
+      "valor_credito": "8975461",
+      "plazo_meses": "180",
+      "valor_cuota": "188847",
+      "tasa_interes": "25.97",
+      "compras_cartera_prepagos": "3589061",
+      "nombre_firma_electronica": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "cedula_firma_electronica": "11306395"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_3_772025319347_11306395_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "LUIS ENRIQUE VARGAS SANCHEZ",
+      "numero_documento": "11306395",
+      "fecha_nacimiento": "10-AGO-1959"
+    }
+  }
+]

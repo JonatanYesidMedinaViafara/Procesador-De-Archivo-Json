@@ -7,7 +7,7 @@ class ValidadorInterno:
         valores = {campo: set() for campo in self.campos_claves}
 
         for documento in self.data:
-            campos = documento.get("campos", {})
+            campos = documento.get("data_extraida", {})
             for campo in self.campos_claves:
                 valor = campos.get(campo)
                 if valor is not None:
@@ -22,4 +22,5 @@ class ValidadorInterno:
         for campo, conjunto in valores.items():
             if len(conjunto) > 1:
                 inconsistencias[campo] = list(conjunto)
+
         return inconsistencias

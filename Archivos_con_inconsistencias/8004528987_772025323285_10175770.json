@@ -1,0 +1,94 @@
+[
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_11_772025323285_10175770_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "JESUS ANTONIO MUTIS RAMIREZ",
+      "numero_documento": "10175770",
+      "nombre_firma_electronica": "JESUS ANTONIO MUTIS RAMIREZ",
+      "cedula_firma_electronica": "10175770"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_12_772025323285_10175770_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025323285",
+      "solicitud": "1469490",
+      "nombre_completo": "JESUS ANTONIO MUTIS",
+      "numero_documento": "10175770",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "JESUS ANTONIO MUTIS RAMIREZ",
+      "cedula_firma_electronica": "10175770"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_1_772025323285_10175770_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1469490",
+      "nombre_completo": "JESUS ANTONIO MUTIS RAMIREZ",
+      "numero_documento": "10175770",
+      "pagaduria": "POSITIVA",
+      "valor_credito": "5045954",
+      "plazo_meses": "180",
+      "valor_cuota": "109935",
+      "tasa_interes": "25.55",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "JESUS ANTONIO MUTIS RAMIREZ",
+      "cedula_firma_electronica": "10175770"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_3_772025323285_10175770_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "JESUS ANTONIO MUTIS RAMIREZ",
+      "numero_documento": "10175770",
+      "fecha_nacimiento": "15 MAYO 1967"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_5_772025323285_10175770_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "POSITIVA COMPAÑIA DE SEGUROS",
+      "nombre_completo": "MUTIS RAMIREZ JESUS ANTOΝΙΟ",
+      "numero_documento": "10175770",
+      "vigencia": "30-08-2025",
+      "salario": "793215"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_6_772025323285_10175770_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "JESUS ANTONIO MUTIS RAMIREZ",
+      "numero_documento": "10175770",
+      "nombre_firma_electronica": "JESUS ANTONIO MUTIS RAMIREZ",
+      "cedula_firma_electronica": "10175770"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_8_772025323285_10175770_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025323285",
+      "nombre_completo": "JESUS ANTONIO MUTIS RAMIREZ",
+      "numero_documento": "10175770",
+      "pagaduria": "POSITIVA",
+      "valor_cuota": "109935",
+      "valor_prestamo": "5045954",
+      "plazo": "180",
+      "nombre_firma_electronica": "JESUS ANTONIO MUTIS RAMIREZ",
+      "cedula_firma_electronica": "10175770"
+    }
+  }
+]

@@ -1,0 +1,6 @@
+✅ 8004528987_772025323651_17053383.json validado correctamente (estructura + coherencia interna).
+❌ Inconsistencias globales detectadas en 8004528987_772025323651_17053383.json:
+  → Campo 'nombre_completo' tiene múltiples valores: ['VERA LEON JORGE ALBERTO', 'JORGE ALBERTO VERA LEON']
+  → Campo 'firma_electronica' tiene múltiples valores: ['JORGE ALBERTO VERA LEON 17053383', 'JORGE ALBERTO VERA LEON LEON 17053383']
+  → Campo 'al_pie_de_firma' tiene múltiples valores: ['None', 'JORGE ALBERTO VERA LEON 17053383']
+  → Campo 'pagaduria' tiene múltiples valores: ['Consorcio FOPEP', 'FONDO DE PENSIONES PUBLICAS NIVEL NACIONAL']

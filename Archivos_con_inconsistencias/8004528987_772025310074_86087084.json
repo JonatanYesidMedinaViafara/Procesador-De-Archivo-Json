@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "465226",
+    "nombre_archivo": "465226_1_772025310074_86087084_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "asulado",
+      "nombre_completo": "OSCAR ANDRES PENAGOS",
+      "numero_documento": "86087084",
+      "vigencia": "03-2025",
+      "salario": "742500"
+    }
+  },
+  {
+    "id_cargue": "465226",
+    "nombre_archivo": "465226_2_772025310074_86087084_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "OSCAR ANDRES PENAGOS",
+      "numero_documento": "86087084",
+      "nombre_firma_electronica": "OSCAR ANDRES PENAGOS",
+      "cedula_firma_electronica": "86087084"
+    }
+  },
+  {
+    "id_cargue": "465226",
+    "nombre_archivo": "465226_5_772025310074_86087084_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "OSCAR ANDRES PENAGOS",
+      "numero_documento": "86087084",
+      "nombre_firma_electronica": "OSCAR ANDRES PENAGOS",
+      "cedula_firma_electronica": "86087084"
+    }
+  },
+  {
+    "id_cargue": "465226",
+    "nombre_archivo": "465226_6_772025310074_86087084_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "13462666",
+      "plazo_meses": "180",
+      "nombre_firma_electronica": "OSCAR ANDRES PENAGOS",
+      "cedula_firma_electronica": "86087084"
+    }
+  },
+  {
+    "id_cargue": "465226",
+    "nombre_archivo": "465226_7_772025310074_86087084_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1430085",
+      "nombre_completo": "OSCAR ANDRES PENAGOS",
+      "numero_documento": "86087084",
+      "pagaduria": "ASULADO SEGUROS DE VIDA SA",
+      "valor_credito": "13462666",
+      "plazo_meses": "180",
+      "valor_cuota": "252116",
+      "tasa_interes": "24.92",
+      "compras_cartera_prepagos": "8525630",
+      "nombre_firma_electronica": "OSCAR ANDRES PENAGOS",
+      "cedula_firma_electronica": "86087084"
+    }
+  },
+  {
+    "id_cargue": "465226",
+    "nombre_archivo": "465226_8_772025310074_86087084_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025310074",
+      "solicitud": "1430085",
+      "nombre_completo": "OSCAR ANDRES PENAGOS",
+      "numero_documento": "86087084",
+      "valor_a_cancelar": "5631083",
+      "nombre_firma_electronica": "OSCAR ANDRES PENAGOS",
+      "cedula_firma_electronica": "86087084"
+    }
+  },
+  {
+    "id_cargue": "465226",
+    "nombre_archivo": "465226_9_772025310074_86087084_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025310074",
+      "nombre_completo": "OSCAR ANDRES PENAGOS",
+      "numero_documento": "86087084",
+      "pagaduria": "ASULADO SEGUROS DE VIDA SA",
+      "valor_cuota": "252116",
+      "valor_prestamo": "13462666",
+      "plazo": "180",
+      "nombre_firma_electronica": "OSCAR ANDRES PENAGOS",
+      "cedula_firma_electronica": "86087084"
+    }
+  },
+  {
+    "id_cargue": "465226",
+    "nombre_archivo": "465226_10_772025310074_86087084_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "OSCAR ANDRES PENAGOS",
+      "numero_documento": "86087084",
+      "fecha_nacimiento": "30-JUN-1985"
+    }
+  },
+  {
+    "id_cargue": "465226",
+    "nombre_archivo": "465226_11_772025310074_86087084_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "PENAGOS OSCAR ANDRES"
+    }
+  }
+]

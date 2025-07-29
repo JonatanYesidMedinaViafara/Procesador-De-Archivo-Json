@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "481683",
+    "nombre_archivo": "481683_1_772025318402_41894619_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "MIRIAM LEIVA",
+      "numero_documento": "41894619",
+      "nombre_firma_electronica": "MIRIAM LEIVA",
+      "cedula_firma_electronica": "41894619"
+    }
+  },
+  {
+    "id_cargue": "481683",
+    "nombre_archivo": "481683_2_772025318402_41894619_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1453384",
+      "nombre_completo": "MIRIAM LEIVA",
+      "numero_documento": "41894619",
+      "pagaduria": "ALCALDIA ARMENIA PENSIONADOS",
+      "valor_credito": "24588701",
+      "plazo_meses": "180",
+      "valor_cuota": "527572",
+      "tasa_interes": "25.97",
+      "compras_cartera_prepagos": "14500000",
+      "nombre_firma_electronica": "MIRIAM LEIVA",
+      "cedula_firma_electronica": "41894619"
+    }
+  },
+  {
+    "id_cargue": "481683",
+    "nombre_archivo": "481683_3_772025318402_41894619_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "24588701",
+      "plazo_meses": "180",
+      "nombre_firma_electronica": "MIRIAM LEIVA",
+      "cedula_firma_electronica": "41894619"
+    }
+  },
+  {
+    "id_cargue": "481683",
+    "nombre_archivo": "481683_6_772025318402_41894619_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "MIRIAM LEIVA",
+      "numero_documento": "41894619",
+      "fecha_nacimiento": "27-JUL-1958"
+    }
+  },
+  {
+    "id_cargue": "481683",
+    "nombre_archivo": "481683_7_772025318402_41894619_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "ALCALDÍA DE ARMENIA MUNICIPIO DE ARMΕΝΙΑ",
+      "nombre_completo": "MIRIAM LEYVA",
+      "numero_documento": "41894619",
+      "vigencia": "15-05-2025",
+      "salario": "589858"
+    }
+  },
+  {
+    "id_cargue": "481683",
+    "nombre_archivo": "481683_8_772025318402_41894619_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025318402",
+      "solicitud": "1453384",
+      "nombre_completo": "MIRIAM LEIVA",
+      "numero_documento": "41894619",
+      "valor_a_cancelar": "4500000",
+      "nombre_firma_electronica": "MIRIAM LEIVA",
+      "cedula_firma_electronica": "41894619"
+    }
+  },
+  {
+    "id_cargue": "481683",
+    "nombre_archivo": "481683_10_772025318402_41894619_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025318402",
+      "nombre_completo": "MIRIAM LEIVA",
+      "numero_documento": "41894619",
+      "pagaduria": "ALCALDIA ARMENIA PENSIONADOS",
+      "valor_cuota": "527572",
+      "valor_prestamo": "24588701",
+      "plazo": "180",
+      "nombre_firma_electronica": null,
+      "cedula_firma_electronica": null
+    }
+  },
+  {
+    "id_cargue": "481683",
+    "nombre_archivo": "481683_11_772025318402_41894619_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "LEIVA MIRIAM"
+    }
+  },
+  {
+    "id_cargue": "481683",
+    "nombre_archivo": "481683_12_772025318402_41894619_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "MIRIAM LEIVA",
+      "numero_documento": "41894619",
+      "nombre_firma_electronica": "MIRIAM LEIVA",
+      "cedula_firma_electronica": "41894619"
+    }
+  }
+]

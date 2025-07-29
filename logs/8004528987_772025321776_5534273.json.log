@@ -1,0 +1,6 @@
+✅ 8004528987_772025321776_5534273.json validado correctamente (estructura + coherencia interna).
+❌ Inconsistencias globales detectadas en 8004528987_772025321776_5534273.json:
+  → Campo 'nombre_completo' tiene múltiples valores: ['CARDENAS PARADA FREDY', 'FREDY CARDENAS PARADA']
+  → Campo 'nombre_firma_electronica' tiene múltiples valores: ['None', 'FREDY CARDENAS PARADA']
+  → Campo 'cedula_firma_electronica' tiene múltiples valores: ['None', '5534273']
+  → Campo 'pagaduria' tiene múltiples valores: ['POSITIVA', 'POSITIVA COMPAÑIA DE SEGUROS']

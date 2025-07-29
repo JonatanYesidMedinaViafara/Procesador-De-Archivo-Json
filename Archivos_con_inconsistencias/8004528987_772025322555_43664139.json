@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "487068",
+    "nombre_archivo": "487068_2_772025322555_43664139_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "MARIA EUGENIA RENDON ARDILA",
+      "numero_documento": "43664139",
+      "fecha_nacimiento": "06-FEB-1967"
+    }
+  },
+  {
+    "id_cargue": "487068",
+    "nombre_archivo": "487068_3_772025322555_43664139_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1467079",
+      "nombre_completo": "MARIA EUGENIA RENDON ARDILA",
+      "numero_documento": "43664139",
+      "pagaduria": "SEGUROS ALFA",
+      "valor_credito": "9427706",
+      "plazo_meses": "144",
+      "valor_cuota": "206194",
+      "tasa_interes": "25.55",
+      "compras_cartera_prepagos": "3630483",
+      "nombre_firma_electronica": "MARIA EUGENIA RENDON ARDILA",
+      "cedula_firma_electronica": "43664139"
+    }
+  },
+  {
+    "id_cargue": "487068",
+    "nombre_archivo": "487068_4_772025322555_43664139_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "9427706",
+      "plazo_meses": "144",
+      "nombre_firma_electronica": "MARIA EUGENIA RENDON ARDILA",
+      "cedula_firma_electronica": "43664139"
+    }
+  },
+  {
+    "id_cargue": "487068",
+    "nombre_archivo": "487068_6_772025322555_43664139_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "MARIA EUGENIA RENDON ARDILA",
+      "numero_documento": "43664139",
+      "nombre_firma_electronica": "MARIA EUGENIA RENDON ARDILA",
+      "cedula_firma_electronica": "43664139"
+    }
+  },
+  {
+    "id_cargue": "487068",
+    "nombre_archivo": "487068_7_772025322555_43664139_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025322555",
+      "nombre_completo": "MARIA EUGENIA RENDON ARDILA",
+      "numero_documento": "43664139",
+      "pagaduria": "SEGUROS ALFA",
+      "valor_cuota": "206194",
+      "valor_prestamo": "9427706",
+      "plazo": "144",
+      "nombre_firma_electronica": "MARIA EUGENIA RENDON ARDILA",
+      "cedula_firma_electronica": "43664139"
+    }
+  },
+  {
+    "id_cargue": "487068",
+    "nombre_archivo": "487068_9_772025322555_43664139_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025322555",
+      "solicitud": "1467079",
+      "nombre_completo": "MARIA EUGENIA RENDON ARDILA",
+      "numero_documento": "43664139",
+      "valor_a_cancelar": "3630483",
+      "nombre_firma_electronica": "MARIA EUGENIA RENDON ARDILA",
+      "cedula_firma_electronica": "43664139"
+    }
+  },
+  {
+    "id_cargue": "487068",
+    "nombre_archivo": "487068_10_772025322555_43664139_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "MARIA EUGENIA RENDON ARDILA",
+      "numero_documento": "43664139",
+      "nombre_firma_electronica": "MARIA EUGENIA RENDON ARDILA",
+      "cedula_firma_electronica": "43664139"
+    }
+  },
+  {
+    "id_cargue": "487068",
+    "nombre_archivo": "487068_11_772025322555_43664139_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "RENDON ARDILA MARIA EUGENIA"
+    }
+  },
+  {
+    "id_cargue": "487068",
+    "nombre_archivo": "487068_13_772025322555_43664139_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "seguros alfa",
+      "nombre_completo": "RENDON ARDILA MARIA EUGENIA",
+      "numero_documento": "43664139",
+      "vigencia": "30-06-2025",
+      "salario": "770606"
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "487737",
+    "nombre_archivo": "487737_3_772025320745_23136571_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "numero_documento": "23136571",
+      "fecha_nacimiento": "19-JUN-1964"
+    }
+  },
+  {
+    "id_cargue": "487737",
+    "nombre_archivo": "487737_4_772025320745_23136571_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "numero_documento": "23136571",
+      "nombre_firma_electronica": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "cedula_firma_electronica": "23136571"
+    }
+  },
+  {
+    "id_cargue": "487737",
+    "nombre_archivo": "487737_5_772025320745_23136571_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "Skandia Pensiones y Cesantías S.A.",
+      "nombre_completo": "JIMENEZ CORTINA ELEDIS DEL CARMEN",
+      "numero_documento": "23136571",
+      "vigencia": null,
+      "salario": "1366500"
+    }
+  },
+  {
+    "id_cargue": "487737",
+    "nombre_archivo": "487737_6_772025320745_23136571_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "14100017",
+      "plazo_meses": "72",
+      "nombre_firma_electronica": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "cedula_firma_electronica": "23136571"
+    }
+  },
+  {
+    "id_cargue": "487737",
+    "nombre_archivo": "487737_7_772025320745_23136571_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025320745",
+      "nombre_completo": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "numero_documento": "23136571",
+      "pagaduria": "SKANDIA",
+      "valor_cuota": "384798",
+      "valor_prestamo": "14100017",
+      "plazo": "72",
+      "nombre_firma_electronica": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "cedula_firma_electronica": "23136571"
+    }
+  },
+  {
+    "id_cargue": "487737",
+    "nombre_archivo": "487737_9_772025320745_23136571_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025320745",
+      "solicitud": "1461346",
+      "nombre_completo": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "numero_documento": "23136571",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "cedula_firma_electronica": "23136571"
+    }
+  },
+  {
+    "id_cargue": "487737",
+    "nombre_archivo": "487737_10_772025320745_23136571_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "numero_documento": "23136571",
+      "nombre_firma_electronica": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "cedula_firma_electronica": "23136571"
+    }
+  },
+  {
+    "id_cargue": "487737",
+    "nombre_archivo": "487737_11_772025320745_23136571_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "JIMENEZ CORTINA ELEDIS DEL CARMEN"
+    }
+  },
+  {
+    "id_cargue": "487737",
+    "nombre_archivo": "487737_16_772025320745_23136571_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1461346",
+      "nombre_completo": "ELEDIS DEL CARMEN JIMENEZ CORTINA",
+      "numero_documento": "23136571",
+      "pagaduria": "SKANDIA",
+      "valor_credito": "14100017",
+      "plazo_meses": "72",
+      "valor_cuota": "384798",
+      "tasa_interes": "25.55",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "Avista",
+      "cedula_firma_electronica": null
+    }
+  }
+]

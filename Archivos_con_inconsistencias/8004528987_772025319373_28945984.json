@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "480986",
+    "nombre_archivo": "480986_1_772025319373_28945984_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "GUTIERREZ SILVA HERMINDA"
+    }
+  },
+  {
+    "id_cargue": "480986",
+    "nombre_archivo": "480986_3_772025319373_28945984_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "HERMINDA GUTIERREZ SILVA",
+      "numero_documento": "28945984",
+      "nombre_firma_electronica": "HERMINDA GUTIERREZ SILVA",
+      "cedula_firma_electronica": "28945984"
+    }
+  },
+  {
+    "id_cargue": "480986",
+    "nombre_archivo": "480986_4_772025319373_28945984_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025319373",
+      "solicitud": "1456606",
+      "nombre_completo": "HERMINDA GUTIERREZ SILVA",
+      "numero_documento": "28945984",
+      "valor_a_cancelar": "2792691",
+      "nombre_firma_electronica": "HERMINDA GUTIERREZ SILVA",
+      "cedula_firma_electronica": "28945984"
+    }
+  },
+  {
+    "id_cargue": "480986",
+    "nombre_archivo": "480986_5_772025319373_28945984_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1456606",
+      "nombre_completo": "HERMINDA GUTIERREZ SILVA",
+      "numero_documento": "28945984",
+      "pagaduria": "COLFONDOS",
+      "valor_credito": "5902756",
+      "plazo_meses": "180",
+      "valor_cuota": "129119",
+      "tasa_interes": "25.97",
+      "compras_cartera_prepagos": "2792691",
+      "nombre_firma_electronica": "HERMINDA GUTIERREZ SILVA",
+      "cedula_firma_electronica": "28945984"
+    }
+  },
+  {
+    "id_cargue": "480986",
+    "nombre_archivo": "480986_6_772025319373_28945984_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "COLFONDOS S.A. PENSIONES Y CESANTÍAS",
+      "nombre_completo": "HERMINDA GUTIERREZ SILVA",
+      "numero_documento": "28945984",
+      "vigencia": "26-05-2025",
+      "salario": "747500"
+    }
+  },
+  {
+    "id_cargue": "480986",
+    "nombre_archivo": "480986_8_772025319373_28945984_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "5902756",
+      "plazo_meses": "180",
+      "nombre_firma_electronica": "HERMINDA GUTIERREZ SILVA",
+      "cedula_firma_electronica": "28945984"
+    }
+  },
+  {
+    "id_cargue": "480986",
+    "nombre_archivo": "480986_9_772025319373_28945984_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025319373",
+      "nombre_completo": "HERMINDA GUTIERREZ SILVA",
+      "numero_documento": "28945984",
+      "pagaduria": "COLFONDOS",
+      "valor_cuota": "129119",
+      "valor_prestamo": "5902756",
+      "plazo": "180",
+      "nombre_firma_electronica": "HERMINDA GUTIERREZ SILVA",
+      "cedula_firma_electronica": "28945984"
+    }
+  },
+  {
+    "id_cargue": "480986",
+    "nombre_archivo": "480986_10_772025319373_28945984_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "HERMINDA GUTIERREZ SILVA",
+      "numero_documento": "28945984",
+      "nombre_firma_electronica": "HERMINDA GUTIERREZ SILVA",
+      "cedula_firma_electronica": "28945984"
+    }
+  },
+  {
+    "id_cargue": "480986",
+    "nombre_archivo": "480986_12_772025319373_28945984_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "HERMINDA GUTIERREZ SILVA",
+      "numero_documento": "28945984",
+      "fecha_nacimiento": "06-DIC-1958"
+    }
+  }
+]

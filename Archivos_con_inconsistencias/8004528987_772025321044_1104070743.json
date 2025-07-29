@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "487749",
+    "nombre_archivo": "487749_1_772025321044_1104070743_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1461091",
+      "nombre_completo": "YINA PAOLA QUIROGA SOTELO",
+      "numero_documento": "1104070743",
+      "pagaduria": "SECRETARIA DE EDUCACIÓN DE ANTIOQUIA (SEDUCA)",
+      "valor_credito": "33000012",
+      "plazo_meses": "36",
+      "valor_cuota": "1353855",
+      "tasa_interes": "25.55",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "YINA PAOLA QUIROGA SOTELO",
+      "cedula_firma_electronica": "1104070743"
+    }
+  },
+  {
+    "id_cargue": "487749",
+    "nombre_archivo": "487749_2_772025321044_1104070743_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "YINA PAOLA QUIROGA SOTELO",
+      "numero_documento": "1104070743",
+      "fecha_nacimiento": "10-OCT-1995"
+    }
+  },
+  {
+    "id_cargue": "487749",
+    "nombre_archivo": "487749_4_772025321044_1104070743_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "YINA PAOLA QUIROGA SOTELO",
+      "numero_documento": "1104070743",
+      "nombre_firma_electronica": "YINA PAOLA QUIROGA SOTELO",
+      "cedula_firma_electronica": "1104070743"
+    }
+  },
+  {
+    "id_cargue": "487749",
+    "nombre_archivo": "487749_5_772025321044_1104070743_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "33000012",
+      "plazo_meses": "36",
+      "nombre_firma_electronica": "YINA PAOLA QUIROGA SOTELO",
+      "cedula_firma_electronica": "1104070743"
+    }
+  },
+  {
+    "id_cargue": "487749",
+    "nombre_archivo": "487749_6_772025321044_1104070743_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "SECRETARIA DE EDUCACION DEPARTAMENTAL DE ANTIOQUIA",
+      "nombre_completo": "QUIROGA SOTELO YINA PAOLA",
+      "numero_documento": "1104070743",
+      "vigencia": "31-05-2025",
+      "salario": "5907279"
+    }
+  },
+  {
+    "id_cargue": "487749",
+    "nombre_archivo": "487749_8_772025321044_1104070743_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025321044",
+      "nombre_completo": "YINA PAOLA QUIROGA SOTELO",
+      "numero_documento": "1104070743",
+      "pagaduria": "SECRETARIA DE EDUCACIÓN DE ANTIOQUIA",
+      "valor_cuota": "1353855",
+      "valor_prestamo": "33000012",
+      "plazo": "36",
+      "nombre_firma_electronica": "YINA PAOLA QUIROGA SOTELO",
+      "cedula_firma_electronica": "1104070743"
+    }
+  },
+  {
+    "id_cargue": "487749",
+    "nombre_archivo": "487749_9_772025321044_1104070743_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025321044",
+      "solicitud": "1461091",
+      "nombre_completo": "YINA PAOLA QUIROGA SOTELO",
+      "numero_documento": "1104070743",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "YINA PAOLA QUIROGA SOTELO",
+      "cedula_firma_electronica": "1104070743"
+    }
+  },
+  {
+    "id_cargue": "487749",
+    "nombre_archivo": "487749_10_772025321044_1104070743_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "YINA PAOLA QUIROGA SOTELO",
+      "numero_documento": "1104070743",
+      "nombre_firma_electronica": "YINA PAOLA QUIROGA SOTELO",
+      "cedula_firma_electronica": "1104070743"
+    }
+  },
+  {
+    "id_cargue": "487749",
+    "nombre_archivo": "487749_11_772025321044_1104070743_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "QUIROGA SOTELO YINA PAOLA"
+    }
+  }
+]

@@ -1,0 +1,5 @@
+✅ 8004528987_772025322170_41795644.json validado correctamente (estructura + coherencia interna).
+❌ Inconsistencias globales detectadas en 8004528987_772025322170_41795644.json:
+  → Campo 'firma_electronica' tiene múltiples valores: ['ISABELINA DIAZ CC 41795644', 'ISABELINA DIAZ 41795644']
+  → Campo 'pagaduria' tiene múltiples valores: ['Asulado Seguros de Vida S.A.', 'ASULADO SEGUROS DE VIDA SA']
+  → Campo 'al_pie_de_firma' tiene múltiples valores: ['ISABELINA DIAZ 41795644', 'Nombre: ISABELINA DIAZ C.C: 41795644']

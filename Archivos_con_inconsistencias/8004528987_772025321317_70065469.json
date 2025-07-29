@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "487736",
+    "nombre_archivo": "487736_11_772025321317_70065469_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "numero_documento": "70065469",
+      "nombre_firma_electronica": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "cedula_firma_electronica": "70065469"
+    }
+  },
+  {
+    "id_cargue": "487736",
+    "nombre_archivo": "487736_12_772025321317_70065469_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "RESTREPO LONDOÑO ELKIN DE JESUS"
+    }
+  },
+  {
+    "id_cargue": "487736",
+    "nombre_archivo": "487736_15_772025321317_70065469_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "2440929",
+      "plazo_meses": "144",
+      "nombre_firma_electronica": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "cedula_firma_electronica": "70065469"
+    }
+  },
+  {
+    "id_cargue": "487736",
+    "nombre_archivo": "487736_17_772025321317_70065469_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1462453",
+      "nombre_completo": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "numero_documento": "70065469",
+      "pagaduria": "SURA",
+      "valor_credito": "2440929",
+      "plazo_meses": "144",
+      "valor_cuota": "54220",
+      "tasa_interes": "25.55",
+      "compras_cartera_prepagos": "1782567",
+      "nombre_firma_electronica": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "cedula_firma_electronica": "70065469"
+    }
+  },
+  {
+    "id_cargue": "487736",
+    "nombre_archivo": "487736_16_772025321317_70065469_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025321317",
+      "solicitud": "1462453",
+      "nombre_completo": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "numero_documento": "70065469",
+      "valor_a_cancelar": "1782567",
+      "nombre_firma_electronica": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "cedula_firma_electronica": "70065469"
+    }
+  },
+  {
+    "id_cargue": "487736",
+    "nombre_archivo": "487736_3_772025321317_70065469_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "numero_documento": "70065469",
+      "fecha_nacimiento": "04-ABR-1954"
+    }
+  },
+  {
+    "id_cargue": "487736",
+    "nombre_archivo": "487736_5_772025321317_70065469_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "numero_documento": "70065469",
+      "nombre_firma_electronica": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "cedula_firma_electronica": "70065469"
+    }
+  },
+  {
+    "id_cargue": "487736",
+    "nombre_archivo": "487736_6_772025321317_70065469_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "Seguros de Vida Suramericana S.A.",
+      "nombre_completo": "ELKIN DE JESUS RESTREPO",
+      "numero_documento": "C70065469",
+      "vigencia": "03-2025",
+      "salario": "742600"
+    }
+  },
+  {
+    "id_cargue": "487736",
+    "nombre_archivo": "487736_8_772025321317_70065469_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025321317",
+      "nombre_completo": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "numero_documento": "70065469",
+      "pagaduria": "SURA",
+      "valor_cuota": "54220",
+      "valor_prestamo": "2440929",
+      "plazo": "144",
+      "nombre_firma_electronica": "ELKIN DE JESUS RESTREPO LONDOÑO",
+      "cedula_firma_electronica": "70065469"
+    }
+  }
+]

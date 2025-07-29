@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "488853",
+    "nombre_archivo": "488853_4_772025319913_14243825_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "GOBIERNO DEPARTAMENTAL DEL TOLIMA",
+      "nombre_completo": "MORALES PULECIO GERMAN",
+      "numero_documento": "14243825",
+      "vigencia": "31-05-2025",
+      "salario": "1128818"
+    }
+  },
+  {
+    "id_cargue": "488853",
+    "nombre_archivo": "488853_5_772025319913_14243825_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "GERMAN MORALES PULECIO",
+      "numero_documento": "14243825",
+      "fecha_nacimiento": "05-SEP-1962"
+    }
+  },
+  {
+    "id_cargue": "488853",
+    "nombre_archivo": "488853_6_772025319913_14243825_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "29999910",
+      "plazo_meses": "120",
+      "nombre_firma_electronica": "GERMAN MORALES PULECIO",
+      "cedula_firma_electronica": "14243825"
+    }
+  },
+  {
+    "id_cargue": "488853",
+    "nombre_archivo": "488853_7_772025319913_14243825_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "GERMAN MORALES PULECIO",
+      "numero_documento": "14243825",
+      "nombre_firma_electronica": "GERMAN MORALES PULECIO",
+      "cedula_firma_electronica": "14243825"
+    }
+  },
+  {
+    "id_cargue": "488853",
+    "nombre_archivo": "488853_9_772025319913_14243825_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "GERMAN MORALES PULECIO",
+      "numero_documento": "14243825",
+      "nombre_firma_electronica": "GERMAN MORALES PULECIO",
+      "cedula_firma_electronica": "14243825"
+    }
+  },
+  {
+    "id_cargue": "488853",
+    "nombre_archivo": "488853_10_772025319913_14243825_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025319913",
+      "solicitud": "1458398",
+      "nombre_completo": "GERMAN MORALES PULECIO",
+      "numero_documento": "14243825",
+      "valor_a_cancelar": "7921444",
+      "nombre_firma_electronica": "GERMAN MORALES PULECIO",
+      "cedula_firma_electronica": "14243825"
+    }
+  },
+  {
+    "id_cargue": "488853",
+    "nombre_archivo": "488853_11_772025319913_14243825_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025319913",
+      "nombre_completo": "GERMAN MORALES PULECIO",
+      "numero_documento": "14243825",
+      "pagaduria": "GOBERNACIÓN DEL TOLIMA_PENSIONADOS",
+      "valor_cuota": "674793",
+      "valor_prestamo": "29999910",
+      "plazo": "120",
+      "nombre_firma_electronica": "GERMAN MORALES PULECIO",
+      "cedula_firma_electronica": "14243825"
+    }
+  },
+  {
+    "id_cargue": "488853",
+    "nombre_archivo": "488853_13_772025319913_14243825_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "MORALES PULECIO GERMAN"
+    }
+  },
+  {
+    "id_cargue": "488853",
+    "nombre_archivo": "488853_2_772025319913_14243825_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1458398",
+      "nombre_completo": "GERMAN MORALES PULECIO",
+      "numero_documento": "14243825",
+      "pagaduria": "GOBERNACIÓN DEL TOLIMA_PENSIONADOS",
+      "valor_credito": "29999910",
+      "plazo_meses": "120",
+      "valor_cuota": "674793",
+      "tasa_interes": "25.97",
+      "compras_cartera_prepagos": "7921444",
+      "nombre_firma_electronica": "GERMAN MORALES PULECIO",
+      "cedula_firma_electronica": "14243825"
+    }
+  }
+]

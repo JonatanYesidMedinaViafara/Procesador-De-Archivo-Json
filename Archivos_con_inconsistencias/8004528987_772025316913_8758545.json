@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "480157",
+    "nombre_archivo": "480157_1_772025316913_8758545_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "2700013",
+      "plazo_meses": "144",
+      "nombre_firma_electronica": "FELIPE SANTIAGO MARIN DE MOYA",
+      "cedula_firma_electronica": "8758545"
+    }
+  },
+  {
+    "id_cargue": "480157",
+    "nombre_archivo": "480157_2_772025316913_8758545_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "FELIPE SANTIAGO MARIN DE MOYA",
+      "numero_documento": "8758545",
+      "fecha_nacimiento": "07-JUN-1962"
+    }
+  },
+  {
+    "id_cargue": "480157",
+    "nombre_archivo": "480157_3_772025316913_8758545_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025316913",
+      "nombre_completo": "FELIPE SANTIAGO MARIN DE MOYA",
+      "numero_documento": "8758545",
+      "pagaduria": "PORVENIR",
+      "valor_cuota": "63193",
+      "valor_prestamo": "2700013",
+      "plazo": "144",
+      "nombre_firma_electronica": "FELIPE SANTIAGO MARIN DE MOYA",
+      "cedula_firma_electronica": "8758545"
+    }
+  },
+  {
+    "id_cargue": "480157",
+    "nombre_archivo": "480157_4_772025316913_8758545_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025316913",
+      "solicitud": "1449094",
+      "nombre_completo": "FELIPE SANTIAGO MARIN DE MOYA",
+      "numero_documento": "8758545",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "FELIPE SANTIAGO MARIN DE MOYA",
+      "cedula_firma_electronica": "8758545"
+    }
+  },
+  {
+    "id_cargue": "480157",
+    "nombre_archivo": "480157_5_772025316913_8758545_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "MARIN DE MOYA FELIPE SANTIAGO"
+    }
+  },
+  {
+    "id_cargue": "480157",
+    "nombre_archivo": "480157_6_772025316913_8758545_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "Porvenir S.A.",
+      "nombre_completo": "FELIPE SANTIAGO MARIN DE MOYA",
+      "numero_documento": "8758545",
+      "vigencia": "12-05-2025",
+      "salario": "804681"
+    }
+  },
+  {
+    "id_cargue": "480157",
+    "nombre_archivo": "480157_7_772025316913_8758545_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "FELIPE SANTIAGO MARIN DE MOYA",
+      "numero_documento": "8758545",
+      "nombre_firma_electronica": "FELIPE SANTIAGO MARIN DE MOYA",
+      "cedula_firma_electronica": "8758545"
+    }
+  },
+  {
+    "id_cargue": "480157",
+    "nombre_archivo": "480157_8_772025316913_8758545_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "FELIPE SANTIAGO MARIN DE MOYA",
+      "numero_documento": "8758545",
+      "nombre_firma_electronica": "FELIPE SANTIAGO MARIN DE MOYA",
+      "cedula_firma_electronica": "8758545"
+    }
+  },
+  {
+    "id_cargue": "480157",
+    "nombre_archivo": "480157_10_772025316913_8758545_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1449094",
+      "nombre_completo": "FELIPE SANTIAGO MARIN DE MOYA",
+      "numero_documento": "8758545",
+      "pagaduria": "PORVENIR",
+      "valor_credito": "2700013",
+      "plazo_meses": "144",
+      "valor_cuota": "63193",
+      "tasa_interes": "25.97",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "FELIPE SANTIAGO MARIN DE MOYA",
+      "cedula_firma_electronica": "8758545"
+    }
+  }
+]

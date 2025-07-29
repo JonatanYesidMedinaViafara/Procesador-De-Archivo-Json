@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "484686",
+    "nombre_archivo": "484686_1_772025316237_72178837_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025316237",
+      "nombre_completo": "JUAN CARLOS NIÑO BARNES",
+      "numero_documento": "72178837",
+      "pagaduria": "POSITIVA",
+      "valor_cuota": "160250",
+      "valor_prestamo": "7231690",
+      "plazo": "144",
+      "nombre_firma_electronica": "JUAN CARLOS NIÑO BARNES",
+      "cedula_firma_electronica": "72178837"
+    }
+  },
+  {
+    "id_cargue": "484686",
+    "nombre_archivo": "484686_2_772025316237_72178837_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "7231690",
+      "plazo_meses": "144",
+      "nombre_firma_electronica": "JUAN CARLOS NIÑO BARNES",
+      "cedula_firma_electronica": "72178837"
+    }
+  },
+  {
+    "id_cargue": "484686",
+    "nombre_archivo": "484686_3_772025316237_72178837_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "JUAN CARLOS NIÑO BARNES",
+      "numero_documento": "72178837",
+      "nombre_firma_electronica": "JUAN CARLOS NIÑO BARNES",
+      "cedula_firma_electronica": "72178837"
+    }
+  },
+  {
+    "id_cargue": "484686",
+    "nombre_archivo": "484686_4_772025316237_72178837_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1445880",
+      "nombre_completo": "JUAN CARLOS NIÑO BARNES",
+      "numero_documento": "72178837",
+      "pagaduria": "POSITIVA",
+      "valor_credito": "7231690",
+      "plazo_meses": "144",
+      "valor_cuota": "160250",
+      "tasa_interes": "25.97",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "JUAN CARLOS NIÑO BARNES",
+      "cedula_firma_electronica": "72178837"
+    }
+  },
+  {
+    "id_cargue": "484686",
+    "nombre_archivo": "484686_6_772025316237_72178837_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025316237",
+      "solicitud": "1445880",
+      "nombre_completo": "JUAN CARLOS NIÑO BARNES",
+      "numero_documento": "72178837",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "JUAN CARLOS NIÑO BARNES",
+      "cedula_firma_electronica": "72178837"
+    }
+  },
+  {
+    "id_cargue": "484686",
+    "nombre_archivo": "484686_8_772025316237_72178837_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "POSITIVA COMPAÑIA DE SEGUROS",
+      "nombre_completo": "JUAN CARLOS NIÑO BARNES",
+      "numero_documento": "72178837",
+      "vigencia": "30-07-2025",
+      "salario": "893500"
+    }
+  },
+  {
+    "id_cargue": "484686",
+    "nombre_archivo": "484686_9_772025316237_72178837_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "JUAN CARLOS NIÑO BARNES",
+      "numero_documento": "72178837",
+      "nombre_firma_electronica": "JUAN CARLOS NIÑO BARNES",
+      "cedula_firma_electronica": "72178837"
+    }
+  },
+  {
+    "id_cargue": "484686",
+    "nombre_archivo": "484686_10_772025316237_72178837_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "JUAN CARLOS NIÑO BARNES",
+      "numero_documento": "72178837",
+      "fecha_nacimiento": "23-ABR-1971"
+    }
+  },
+  {
+    "id_cargue": "484686",
+    "nombre_archivo": "484686_11_772025316237_72178837_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "NIÑO BARNES JUAN CARLOS"
+    }
+  }
+]

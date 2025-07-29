@@ -5,7 +5,8 @@ from validadores.validador_interno import ValidadorInterno
 from config import rutas
 
 # Creamos la carpeta si no existe
-os.makedirs(os.path.join(rutas.BASE_DIR, "Archivos_json_normalizados"), exist_ok=True)
+CARPETA_SALIDA = os.path.join(rutas.BASE_DIR, "Archivos_json_normalizados")
+os.makedirs(CARPETA_SALIDA, exist_ok=True)
 
 def consolidar_campos(data):
     campos_claves = ["CEDULA", "NOMBRES", "No.CREADITO", "SOLICITUD"]
@@ -15,15 +16,15 @@ def consolidar_campos(data):
         valores = set()
 
         for documento in data:
-            campos = documento.get("campos", {})
+            campos = documento.get("data_extraida", {})  # CAMBIO AQUÍ
             valor = campos.get(campo)
             if valor is not None:
                 valores.add(valor)
 
         if len(valores) == 1:
             consolidado[campo] = list(valores)[0]
-        else:
-            # Aquí ya no debería ocurrir porque son JSON ya validados
+        elif len(valores) > 1:
+            # Esto no debería pasar si ya fue validado, pero lo dejamos por seguridad
             consolidado[campo] = list(valores)
 
     return consolidado
@@ -35,6 +36,12 @@ def normalizar_archivos():
         if archivo.lower().endswith('.json'):
             try:
                 data = cargar_json(ruta_archivo)
+
+                # Validamos estructura esperada
+                if not isinstance(data, list):
+                    print(f"⚠ El archivo {archivo} no es una lista. Saltando.")
+                    continue
+
                 validador = ValidadorInterno(data)
                 inconsistencias = validador.validar()
 
@@ -43,7 +50,7 @@ def normalizar_archivos():
                 else:
                     consolidado = consolidar_campos(data)
 
-                    ruta_salida = os.path.join(rutas.BASE_DIR, "Archivos_json_normalizados", archivo)
+                    ruta_salida = os.path.join(CARPETA_SALIDA, archivo)
                     with open(ruta_salida, 'w', encoding='utf-8') as f:
                         json.dump(consolidado, f, indent=4, ensure_ascii=False)
 
@@ -51,3 +58,4 @@ def normalizar_archivos():
 
             except Exception as e:
                 print(f"⚠ Error al procesar {archivo}: {e}")
+

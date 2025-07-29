@@ -1,0 +1,112 @@
+[
+  {
+    "id_cargue": "475217",
+    "nombre_archivo": "475217_10_772025313631_5819809_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "CARLOS ORLANDO GALINDO MUÑOZ",
+      "numero_documento": "5819809",
+      "fecha_nacimiento": "14-MAR-1980"
+    }
+  },
+  {
+    "id_cargue": "475217",
+    "nombre_archivo": "475217_11_772025313631_5819809_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "CARLOS ORLANDO GALINDO MUÑOZ",
+      "numero_documento": "5819809",
+      "firma_electronica": "CARLOS ORLANDO GALINDO MUÑOZ 5819809",CAMBIAR A nombre_firma_electronica
+      "al_pie_de_firma": "CARLOS ORLANDO GALINDO MUÑOZ 5819809" CAMBIAR cedula_firma_electronica
+    }
+  },
+  {
+    "id_cargue": "475217",
+    "nombre_archivo": "475217_1_772025313631_5819809_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "GALINDO MUÑOZ CARLOS ORLANDO" EL ORDEN DEL NOMBRE
+    }
+  },
+  {
+    "id_cargue": "475217",
+    "nombre_archivo": "475217_2_772025313631_5819809_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "CARLOS ORLANDO GALINDO MUÑOZ",
+      "numero_documento": "5819809",
+      "firma_electronica": "CARLOS ORLANDO GALINDO MUÑOZ CC 5819809",CAMBIAR A nombre_firma_electronica
+      "al_pie_de_firma": "CARLOS ORLANDO GALINDO MUÑOZ 5819809"CAMBIAR cedula_firma_electronica
+    }
+  },
+  {
+    "id_cargue": "475217",
+    "nombre_archivo": "475217_3_772025313631_5819809_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025313631",
+      "nombre_completo": "CARLOS ORLANDO GALINDO MUÑOZ",
+      "numero_documento": "5819809",
+      "pagaduria": "CAJA DE SUELDOS DE RETIRO DE POLICIA NACIONAL",
+      "valor_cuota": "269073",
+      "valor_prestamo": "12200004",
+      "plazo": "156",
+      "firma_electronica": "CARLOS ORLANDO GALINDO MUÑOZ 5819809",CAMBIAR A nombre_firma_electronica
+      "al_pie_de_firma": "CARLOS ORLANDO GALINDO MUÑOZ C.C: 5819809"CAMBIAR cedula_firma_electronica
+    }
+  },
+  {
+    "id_cargue": "475217",
+    "nombre_archivo": "475217_5_772025313631_5819809_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025313631",
+      "solicitud": "1438183",PT
+      "nombre_completo": "CARLOS ORLANDO GALINDO MUÑOZ",
+      "numero_documento": "5819809",
+      "valor_a_cancelar": "7031889",
+      "nombre_firma_electronica": "CARLOS ORLANDO GALINDO MUÑOZ",BUENO
+      "cedula_firma_electronica": "5819809"BUENO
+    }
+  },
+  {
+    "id_cargue": "475217",
+    "nombre_archivo": "475217_7_772025313631_5819809_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "12200004",
+      "plazo_meses": "156",
+      "firma_electronica": "CARLOS ORLANDO GALINDO MUÑOZ",CAMBIAR A nombre_firma_electronica
+      "al_pie_de_firma": "CARLOS ORLANDO GALINDO MUÑOZ 5819809"CAMBIAR cedula_firma_electronica
+    }q      
+  },
+  {
+    "id_cargue": "475217",
+    "nombre_archivo": "475217_8_772025313631_5819809_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "CASUR Caja de Sueldos de Retiro de la Policía Nacional",
+      "nombre_completo": "PT GALINDO MUÑOZ CARLOS ORLANDO",
+      "numero_documento": "5819809",
+      "vigencia": "31-03-2025", NO SE COMPARA CON EL EXCE PERO SI SE NECESITA EN EL ENTREGABLE
+      "salario": "1220957"
+    }
+  },
+  {
+    "id_cargue": "475217",
+    "nombre_archivo": "475217_9_772025313631_5819809_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1438183",PT
+      "nombre_completo": "CARLOS ORLANDO GALINDO MUÑOZ",
+      "numero_documento": "5819809",
+      "pagaduria": "CAJA DE SUELDOS DE RETIRO DE POLICIA NACIONAL",
+      "valor_credito": "12200004",
+      "plazo_meses": "156",
+      "valor_cuota": "269073",
+      "tasa_interes": "25.62",
+      "compras_cartera_prepagos": "7031889",
+      "firma_electronica": "CARLOS ORLANDO GALINDO MUÑOZ 5819809"CAMBIAR cedula_firma_electronica Y CAMBIAR A nombre_firma_electronica
+    }
+  }
+]

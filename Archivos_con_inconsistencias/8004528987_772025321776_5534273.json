@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_11_772025321776_5534273_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "FREDY CARDENAS PARADA",
+      "numero_documento": "5534273",
+      "nombre_firma_electronica": "FREDY CARDENAS PARADA",
+      "cedula_firma_electronica": "5534273"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_4_772025321776_5534273_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "CARDENAS PARADA FREDY"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_5_772025321776_5534273_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "POSITIVA COMPAÑIA DE SEGUROS",
+      "nombre_completo": "CARDENAS PARADA FREDY",
+      "numero_documento": "5534273",
+      "vigencia": "30-08-2025",
+      "salario": "896556"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_6_772025321776_5534273_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "FREDY CARDENAS PARADA",
+      "numero_documento": "5534273",
+      "nombre_firma_electronica": "FREDY CARDENAS PARADA",
+      "cedula_firma_electronica": "5534273"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_7_772025321776_5534273_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "9663499",
+      "plazo_meses": "144",
+      "nombre_firma_electronica": "FREDY CARDENAS PARADA",
+      "cedula_firma_electronica": "5534273"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_8_772025321776_5534273_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025321776",
+      "nombre_completo": "FREDY CARDENAS PARADA",
+      "numero_documento": "5534273",
+      "pagaduria": "POSITIVA",
+      "valor_cuota": "208276",
+      "valor_prestamo": "9663499",
+      "plazo": "144",
+      "nombre_firma_electronica": null,
+      "cedula_firma_electronica": null
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_12_772025321776_5534273_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025321776",
+      "solicitud": "1464605",
+      "nombre_completo": "FREDY CARDENAS PARADA",
+      "numero_documento": "5534273",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "FREDY CARDENAS PARADA",
+      "cedula_firma_electronica": "5534273"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_1_772025321776_5534273_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1464605",
+      "nombre_completo": "FREDY CARDENAS PARADA",
+      "numero_documento": "5534273",
+      "pagaduria": "POSITIVA",
+      "valor_credito": "9663499",
+      "plazo_meses": "144",
+      "valor_cuota": "208276",
+      "tasa_interes": "25.55",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "FREDY CARDENAS PARADA",
+      "cedula_firma_electronica": "5534273"
+    }
+  },
+  {
+    "id_cargue": "220725",
+    "nombre_archivo": "220725_3_772025321776_5534273_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "FREDY CARDENAS PARADA",
+      "numero_documento": "5534273",
+      "fecha_nacimiento": "19-SEP-1969"
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "482138",
+    "nombre_archivo": "482138_6_772025319643_5559572_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "11774428",
+      "plazo_meses": "144",
+      "nombre_firma_electronica": "JUAN DE DIOS PRADA ORDUZ",
+      "cedula_firma_electronica": "5559572"
+    }
+  },
+  {
+    "id_cargue": "482138",
+    "nombre_archivo": "482138_7_772025319643_5559572_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025319643",
+      "nombre_completo": "JUAN DE DIOS PRADA ORDUZ",
+      "numero_documento": "5559572",
+      "pagaduria": "FIDUCIARIA LA PREVISORA",
+      "valor_cuota": "353330",
+      "valor_prestamo": "11774428",
+      "plazo": "144",
+      "nombre_firma_electronica": "JUAN DE DIOS PRADA ORDUZ",
+      "cedula_firma_electronica": "5559572"
+    }
+  },
+  {
+    "id_cargue": "482138",
+    "nombre_archivo": "482138_8_772025319643_5559572_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025319643",
+      "solicitud": "1457403",
+      "nombre_completo": "JUAN DE DIOS PRADA ORDUZ",
+      "numero_documento": "5559572",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "JUAN DE DIOS PRADA ORDUZ",
+      "cedula_firma_electronica": "5559572"
+    }
+  },
+  {
+    "id_cargue": "482138",
+    "nombre_archivo": "482138_9_772025319643_5559572_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "JUAN DE DIOS PRADA ORDUZ",
+      "numero_documento": "5559572",
+      "nombre_firma_electronica": "JUAN DE DIOS PRADA ORDUZ",
+      "cedula_firma_electronica": "5559572"
+    }
+  },
+  {
+    "id_cargue": "482138",
+    "nombre_archivo": "482138_10_772025319643_5559572_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "FIDUPREVISORA S.A. FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "nombre_completo": "ROSALBA QUEVEDO BASTIDAS",
+      "numero_documento": "23002017",
+      "vigencia": "31-05-2025",
+      "salario": "2259360"
+    }
+  },
+  {
+    "id_cargue": "482138",
+    "nombre_archivo": "482138_11_772025319643_5559572_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "JUAN DE DIOS PRADA ORDUZ",
+      "numero_documento": "5559572",
+      "nombre_firma_electronica": "JUAN DE DIOS PRADA ORDUZ",
+      "cedula_firma_electronica": "5559572"
+    }
+  },
+  {
+    "id_cargue": "482138",
+    "nombre_archivo": "482138_12_772025319643_5559572_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "JUAN DE DIOS PRADA ORDUZ",
+      "numero_documento": "5559572",
+      "fecha_nacimiento": "24-AGO-1943"
+    }
+  },
+  {
+    "id_cargue": "482138",
+    "nombre_archivo": "482138_13_772025319643_5559572_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "PRADA ORDUZ JUAN DE DIOS"
+    }
+  },
+  {
+    "id_cargue": "482138",
+    "nombre_archivo": "482138_2_772025319643_5559572_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1457403",
+      "nombre_completo": "JUAN DE DIOS PRADA ORDUZ",
+      "numero_documento": "5559572",
+      "pagaduria": "FIDUCIARIA LA PREVISORA",
+      "valor_credito": "11774428",
+      "plazo_meses": "144",
+      "valor_cuota": "353330",
+      "tasa_interes": "25.97",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "JUAN DE DIOS PRADA ORDUZ",
+      "cedula_firma_electronica": "5559572"
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "487132",
+    "nombre_archivo": "487132_1_772025321071_5302125_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1462380",
+      "nombre_completo": "ALONSO MEDRANDA ANGULO",
+      "numero_documento": "5302125",
+      "pagaduria": "FONDO DE PENSIONES PUBLICAS NIVEL NACIONAL",
+      "valor_credito": "4916137",
+      "plazo_meses": "180",
+      "valor_cuota": "110480",
+      "tasa_interes": "25.55",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "ALONSO MEDRANDA ANGULO",
+      "cedula_firma_electronica": "5302125"
+    }
+  },
+  {
+    "id_cargue": "487132",
+    "nombre_archivo": "487132_4_772025321071_5302125_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "ALONSO MEDRANDA ANGULO",
+      "numero_documento": "5302125",
+      "fecha_nacimiento": "10-OCT-1951"
+    }
+  },
+  {
+    "id_cargue": "487132",
+    "nombre_archivo": "487132_5_772025321071_5302125_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "4916137",
+      "plazo_meses": "180",
+      "nombre_firma_electronica": "ALONSO MEDRANDA ANGULO",
+      "cedula_firma_electronica": "5302125"
+    }
+  },
+  {
+    "id_cargue": "487132",
+    "nombre_archivo": "487132_6_772025321071_5302125_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "FIDUPREVISORA S.A. FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "nombre_completo": "ALONSO MEDRANDA ANGULO",
+      "numero_documento": "5302125",
+      "vigencia": "31-05-2025",
+      "salario": "2286461"
+    }
+  },
+  {
+    "id_cargue": "487132",
+    "nombre_archivo": "487132_7_772025321071_5302125_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "ALONSO MEDRANDA ANGULO",
+      "numero_documento": "5302125",
+      "nombre_firma_electronica": "ALONSO MEDRANDA ANGULO",
+      "cedula_firma_electronica": "5302125"
+    }
+  },
+  {
+    "id_cargue": "487132",
+    "nombre_archivo": "487132_8_772025321071_5302125_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025321071",
+      "nombre_completo": "ALONSO MEDRANDA ANGULO",
+      "numero_documento": "5302125",
+      "pagaduria": "FONDO DE PENSIONES PUBLICAS NIVEL NACIONAL",
+      "valor_cuota": "110480",
+      "valor_prestamo": "4916137",
+      "plazo": "180",
+      "nombre_firma_electronica": "ALONSO MEDRANDA ANGULO",
+      "cedula_firma_electronica": "5302125"
+    }
+  },
+  {
+    "id_cargue": "487132",
+    "nombre_archivo": "487132_10_772025321071_5302125_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025321071",
+      "solicitud": "1462380",
+      "nombre_completo": "ALONSO MEDRANDA ANGULO",
+      "numero_documento": "5302125",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "ALONSO MEDRANDA ANGULO",
+      "cedula_firma_electronica": "5302125"
+    }
+  },
+  {
+    "id_cargue": "487132",
+    "nombre_archivo": "487132_11_772025321071_5302125_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "ALONSO MEDRANDA ANGULO",
+      "numero_documento": "5302125",
+      "nombre_firma_electronica": "ALONSO MEDRANDA ANGULO",
+      "cedula_firma_electronica": "5302125"
+    }
+  },
+  {
+    "id_cargue": "487132",
+    "nombre_archivo": "487132_12_772025321071_5302125_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "MEDRANDA ANGULO ALONSO"
+    }
+  }
+]

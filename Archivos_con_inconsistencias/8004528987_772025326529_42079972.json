@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "687134",
+    "nombre_archivo": "687134_1_772025326529_42079972_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1480320",
+      "nombre_completo": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "numero_documento": "42079972",
+      "pagaduria": "PROTECCION S.A.",
+      "valor_credito": "1288502",
+      "plazo_meses": "180",
+      "valor_cuota": "29104",
+      "tasa_interes": "24.78",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "cedula_firma_electronica": "42079972"
+    }
+  },
+  {
+    "id_cargue": "687134",
+    "nombre_archivo": "687134_3_772025326529_42079972_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "numero_documento": "42079972",
+      "fecha_nacimiento": "20-SEP-1966"
+    }
+  },
+  {
+    "id_cargue": "687134",
+    "nombre_archivo": "687134_4_772025326529_42079972_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "JARAMILLO CORREA CLAUDIA PATRICIA"
+    }
+  },
+  {
+    "id_cargue": "687134",
+    "nombre_archivo": "687134_5_772025326529_42079972_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "Protección",
+      "nombre_completo": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "numero_documento": "42079972",
+      "vigencia": "25-06-2025",
+      "salario": "713500"
+    }
+  },
+  {
+    "id_cargue": "687134",
+    "nombre_archivo": "687134_6_772025326529_42079972_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "numero_documento": "42079972",
+      "nombre_firma_electronica": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "cedula_firma_electronica": "42079972"
+    }
+  },
+  {
+    "id_cargue": "687134",
+    "nombre_archivo": "687134_7_772025326529_42079972_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "1288502",
+      "plazo_meses": "180",
+      "nombre_firma_electronica": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "cedula_firma_electronica": "42079972"
+    }
+  },
+  {
+    "id_cargue": "687134",
+    "nombre_archivo": "687134_8_772025326529_42079972_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025326529",
+      "nombre_completo": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "numero_documento": "42079972",
+      "pagaduria": "PROTECCION S.A.",
+      "valor_cuota": "29104",
+      "valor_prestamo": "1288502",
+      "plazo": "180",
+      "nombre_firma_electronica": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "cedula_firma_electronica": "42079972"
+    }
+  },
+  {
+    "id_cargue": "687134",
+    "nombre_archivo": "687134_11_772025326529_42079972_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "numero_documento": "42079972",
+      "nombre_firma_electronica": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "cedula_firma_electronica": "42079972"
+    }
+  },
+  {
+    "id_cargue": "687134",
+    "nombre_archivo": "687134_12_772025326529_42079972_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025326529",
+      "solicitud": "1480320",
+      "nombre_completo": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "numero_documento": "42079972",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "CLAUDIA PATRICIA JARAMILLO CORREA",
+      "cedula_firma_electronica": "42079972"
+    }
+  }
+]

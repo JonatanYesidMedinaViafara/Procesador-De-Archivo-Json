@@ -1,0 +1,6 @@
+✅ 8004528987_772025313631_5819809.json validado correctamente (estructura + coherencia interna).
+❌ Inconsistencias globales detectadas en 8004528987_772025313631_5819809.json:
+  → Campo 'nombre_completo' tiene múltiples valores: ['CARLOS ORLANDO GALINDO MUÑOZ', 'PT GALINDO MUÑOZ CARLOS ORLANDO']
+  → Campo 'firma_electronica' tiene múltiples valores: ['CARLOS ORLANDO GALINDO MUÑOZ 5819809', 'CARLOS ORLANDO GALINDO MUÑOZ CC 5819809', 'CARLOS ORLANDO GALINDO MUÑOZ']
+  → Campo 'al_pie_de_firma' tiene múltiples valores: ['CARLOS ORLANDO GALINDO MUÑOZ 5819809', 'CARLOS ORLANDO GALINDO MUÑOZ C.C: 5819809']
+  → Campo 'pagaduria' tiene múltiples valores: ['CAJA DE SUELDOS DE RETIRO DE POLICIA NACIONAL', 'CASUR Caja de Sueldos de Retiro de la Policía Nacional']

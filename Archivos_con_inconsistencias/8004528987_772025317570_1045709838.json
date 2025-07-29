@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "481162",
+    "nombre_archivo": "481162_1_772025317570_1045709838_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "numero_documento": "1045709838",
+      "nombre_firma_electronica": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "cedula_firma_electronica": "1045709838"
+    }
+  },
+  {
+    "id_cargue": "481162",
+    "nombre_archivo": "481162_2_772025317570_1045709838_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "numero_documento": "1045709838",
+      "nombre_firma_electronica": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "cedula_firma_electronica": "1045709838"
+    }
+  },
+  {
+    "id_cargue": "481162",
+    "nombre_archivo": "481162_3_772025317570_1045709838_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025317570",
+      "solicitud": "1450596",
+      "nombre_completo": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "numero_documento": "1045709838",
+      "valor_a_cancelar": "11000000",
+      "nombre_firma_electronica": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "cedula_firma_electronica": "1045709838"
+    }
+  },
+  {
+    "id_cargue": "481162",
+    "nombre_archivo": "481162_4_772025317570_1045709838_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "numero_documento": "1045709838",
+      "fecha_nacimiento": "26-JUL-1992"
+    }
+  },
+  {
+    "id_cargue": "481162",
+    "nombre_archivo": "481162_5_772025317570_1045709838_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "SECRETARÍA DE EDUCACIÓN DEL DISTRITO ESPECIAL DE MEDELLÍN",
+      "nombre_completo": "LEMUS RODRIGUEZ JONATHAN ALFONSO",
+      "numero_documento": "1045709838",
+      "vigencia": "30-04-2025",
+      "salario": "2691179"
+    }
+  },
+  {
+    "id_cargue": "481162",
+    "nombre_archivo": "481162_7_772025317570_1045709838_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025317570",
+      "nombre_completo": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "numero_documento": "1045709838",
+      "pagaduria": "SECRETARIA DE EDUCACION DE MEDELLIN - EDUCAME",
+      "valor_cuota": "509746",
+      "valor_prestamo": "23700020",
+      "plazo": "144",
+      "nombre_firma_electronica": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "cedula_firma_electronica": "1045709838"
+    }
+  },
+  {
+    "id_cargue": "481162",
+    "nombre_archivo": "481162_8_772025317570_1045709838_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "LEMUS RODRIGUEZ JONATHAN ALFONSO"
+    }
+  },
+  {
+    "id_cargue": "481162",
+    "nombre_archivo": "481162_9_772025317570_1045709838_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1450596",
+      "nombre_completo": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "numero_documento": "1045709838",
+      "pagaduria": "SECRETARIA DE EDUCACION DE MEDELLIN - EDUCAME",
+      "valor_credito": "23700020",
+      "plazo_meses": "144",
+      "valor_cuota": "509746",
+      "tasa_interes": "25.97",
+      "compras_cartera_prepagos": "11000000",
+      "nombre_firma_electronica": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "cedula_firma_electronica": "1045709838"
+    }
+  },
+  {
+    "id_cargue": "481162",
+    "nombre_archivo": "481162_12_772025317570_1045709838_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "23700020",
+      "plazo_meses": "144",
+      "nombre_firma_electronica": "JONATHAN ALFONSO LEMUS RODRIGUEZ",
+      "cedula_firma_electronica": "1045709838"
+    }
+  }
+]

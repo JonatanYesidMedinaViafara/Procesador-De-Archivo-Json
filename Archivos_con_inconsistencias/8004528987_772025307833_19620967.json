@@ -1,0 +1,113 @@
+[
+  {
+    "id_cargue": "464346",
+    "nombre_archivo": "464346_1_772025307833_19620967_FORMATO CONOCIMIENTO.pdf",
+    "tipo_documento": "formato_conocimiento",
+    "data_extraida": {
+      "valor_total_credito": "51016025",
+      "plazo_meses": "156",
+      "nombre_firma_electronica": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "cedula_firma_electronica": "19620967"
+    }
+  },
+  {
+    "id_cargue": "464346",
+    "nombre_archivo": "464346_2_772025307833_19620967_AMORTIZACION.pdf",
+    "tipo_documento": "amortizacion",
+    "data_extraida": {
+      "numero_solicitud": "1424180",
+      "nombre_completo": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "numero_documento": "19620967",
+      "pagaduria": "CAJA DE RETIRO DE LA FUERZAS MILITARES - CREMIL",
+      "valor_credito": "51016025",
+      "plazo_meses": "156",
+      "valor_cuota": "1092423",
+      "tasa_interes": "24.92",
+      "compras_cartera_prepagos": "0",
+      "nombre_firma_electronica": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "cedula_firma_electronica": "19620967"
+    }
+  },
+  {
+    "id_cargue": "464346",
+    "nombre_archivo": "464346_3_772025307833_19620967_FIANZA.pdf",
+    "tipo_documento": "solicitud_fianza",
+    "data_extraida": {
+      "nombre_completo": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "numero_documento": "19620967",
+      "nombre_firma_electronica": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "cedula_firma_electronica": "19620967"
+    }
+  },
+  {
+    "id_cargue": "464346",
+    "nombre_archivo": "464346_4_772025307833_19620967_SEGURO DE VIDA.pdf",
+    "tipo_documento": "seguro_de_vida",
+    "data_extraida": {
+      "nombre_completo": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "numero_documento": "19620967",
+      "nombre_firma_electronica": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "cedula_firma_electronica": "19620967"
+    }
+  },
+  {
+    "id_cargue": "464346",
+    "nombre_archivo": "464346_6_772025307833_19620967_CEDULA.pdf",
+    "tipo_documento": "cedula",
+    "data_extraida": {
+      "nombre_completo": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "numero_documento": "19620967",
+      "fecha_nacimiento": "22-FEB-1985"
+    }
+  },
+  {
+    "id_cargue": "464346",
+    "nombre_archivo": "464346_7_772025307833_19620967_LIBRANZA.pdf",
+    "tipo_documento": "libranza",
+    "data_extraida": {
+      "numero_credito": "772025307833",
+      "nombre_completo": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "numero_documento": "19620967",
+      "pagaduria": "CAJA DE RETIRO DE LA FUERZAS MILITARES CREMIL",
+      "valor_cuota": "1092423",
+      "valor_prestamo": "51016025",
+      "plazo": "156",
+      "nombre_firma_electronica": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "cedula_firma_electronica": "19620967"
+    }
+  },
+  {
+    "id_cargue": "464346",
+    "nombre_archivo": "464346_8_772025307833_19620967_SOLICITUD CREDITO.pdf",
+    "tipo_documento": "solicitud_credito",
+    "data_extraida": {
+      "numero_credito": "772025307833",
+      "solicitud": "1424180",
+      "nombre_completo": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "numero_documento": "19620967",
+      "valor_a_cancelar": null,
+      "nombre_firma_electronica": "JULIO CESAR JARAMILLO ZUÑIGA",
+      "cedula_firma_electronica": "19620967"
+    }
+  },
+  {
+    "id_cargue": "464346",
+    "nombre_archivo": "464346_10_772025307833_19620967_DESPRENDIBLE NOMINA.pdf",
+    "tipo_documento": "desprendible_nomina",
+    "data_extraida": {
+      "pagaduria": "CREMIL Caja de Retiro de las Fuerzas Militares",
+      "nombre_completo": "JARAMILLO ZUÑIGA JULIO CESAR",
+      "numero_documento": "19620967",
+      "vigencia": "31-03-2025",
+      "salario": "2308550"
+    }
+  },
+  {
+    "id_cargue": "464346",
+    "nombre_archivo": "464346_11_772025307833_19620967_DATACREDITO.pdf",
+    "tipo_documento": "datacredito",
+    "data_extraida": {
+      "nombre_deudor": "JARAMILLO ZUÑIGA JULIO CESAR"
+    }
+  }
+]
